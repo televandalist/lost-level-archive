@@ -12,7 +12,7 @@
 	</header>
 	<game name="Disgaea DS (USA) (Undub)" cloneof="Disgaea DS (USA)">
 		<description>Disgaea DS (USA) (Undub)</description>
-		<release name="Disgaea DS (USA) (Undub)" release type="Undub" region="USA"/>
+		<release name="Disgaea DS (USA) (Undub)" type="Undub" region="USA"/>
 		<rom name="Disgaea DS (USA) (Undub).nds" size="67325652" crc="FEBDE0A9" md5="6ACB0D1808099511489838A923604978" sha1="F009DDB9A04C28D8BB288F256B07945D3F141384"/>
 	</game>
 </datafile>

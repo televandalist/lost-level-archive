@@ -12,35 +12,35 @@
 	</header>
 	<game name="Grandia II (USA) (Undub) (v1.00) (AnoHito)" cloneof="Grandia II (USA)">
 		<description>Grandia II (USA) (Undub) (v1.00) (AnoHito)</description>
-		<release name="Grandia II (USA) (Undub) (v1.00) (AnoHito)" release type="Undub" region="USA"/>
+		<release name="Grandia II (USA) (Undub) (v1.00) (AnoHito)" type="Undub" region="USA"/>
 		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 01).bin" size="1241088" crc="484CC242" md5="96F97E42F3290B1C2B3ACAA7325C2D5F" sha1="A569A5A7DCD5AD36DADDB3C33FD839BD7B744C97"/>
 		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 02).raw" size="1237152" crc="DD6FB107" md5="94FDE9CACD7A4B3C18D8918836E9CDA5" sha1="4B9ED2A2EEFAAE6691674522B9F047A066304A75"/>
 		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 03).bin" size="9975808" crc="53351BD3" md5="7D09D584242E2A3397DBE173A676E0B2" sha1="E1AA655C63E9B2F4617CFC0DFF0B1F7893896B8B"/>
 		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 04).raw" size="1060752" crc="BFDF6078" md5="166D547D4B80A87AD3538F9377FBF6D8" sha1="471ABB758A709C9D678BD2E76F31A6D721B5F4F0"/>
 		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 05).bin" size="1029214208" crc="0A716A91" md5="76CBC4BDF0C4015D399C9EF1922FD75B" sha1="4720D182D32EEEFE520A3F0D2FFFE8B7E7118CDB"/>
-		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito).gdi" size="387" crc="BA9F6E9C" md5"927040572E0B570F7D5C76470BC98A33" sha1="C5E61F3252ED0B8C78E1A2331CEA679E840AFAC4"/>
+		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito).gdi" size="387" crc="BA9F6E9C" md5="927040572E0B570F7D5C76470BC98A33" sha1="C5E61F3252ED0B8C78E1A2331CEA679E840AFAC4"/>
 	</game>
 	<game name="Grandia II (USA) (Undub) (v1.01) (AnoHito)" cloneof="Grandia II (USA)">
 		<description>Grandia II (USA) (Undub) (v1.01) (AnoHito)</description>
-		<release name="Grandia II (USA) (Undub) (v1.01) (AnoHito)" release type="Undub" region="USA"/>
+		<release name="Grandia II (USA) (Undub) (v1.01) (AnoHito)" type="Undub" region="USA"/>
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 01).bin" size="1425312" crc="83AAA183" md5="CF71233B825358B1A7F4037AEE98987C" sha1="523371C8279B2B8ABD8D861B4828566FE9260E5F"/>
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 02).raw" size="1237152" crc="DD6FB107" md5="94FDE9CACD7A4B3C18D8918836E9CDA5" sha1="4B9ED2A2EEFAAE6691674522B9F047A066304A75"/>
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 03).bin" size="2206176" crc="3EEE8C6A" md5="659F39F9E9996DA29453EDD0EC6051C7" sha1="51CC3E4B5BBAA700B34BF0E9E5A9773A1129D4C4"/>
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 04).raw" size="1060752" crc="BFDF6078" md5="166D547D4B80A87AD3538F9377FBF6D8" sha1="471ABB758A709C9D678BD2E76F31A6D721B5F4F0"/>
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 05).bin" size="1181788272" crc="2B8FABBC" md5="F7A9490C8A14F76308E689B6F9699DD0" sha1="9831F3C16C0428E631A22A6977521AAFCD24D164"/>
-		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito).gdi" size="385" crc="77C6AD78" md5"6EC11F09295CDA5403E3A18565165F94" sha1="B592465FB0E735BCFC4415CE1FD0282557AFEFEF"/>
+		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito).gdi" size="385" crc="77C6AD78" md5="6EC11F09295CDA5403E3A18565165F94" sha1="B592465FB0E735BCFC4415CE1FD0282557AFEFEF"/>
 	</game>
-	<game name=Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1)" cloneof="Skies of Arcadia (USA)">
+	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1)" cloneof="Skies of Arcadia (USA)">
 		<description>Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1)</description>
-		<release name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1)" release type="Uncensored" region=EUR"/>
+		<release name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1)" type="Uncensored" region="EUR"/>
 		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1) (Track 01).bin" size="1470000" crc="6ECF7C94" md5="43EFD2AA4C7F3F449D38CF11588C78BB" sha1="EE320E22140B30F8B103AEA53306604A180A31AC"/>
 		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1) (Track 02).raw" size="13994400" crc="15E73429" md5="D1838BCBCA4A24B39DEDDEAE2A9D371A" sha1="B643DF4DEF042B6C23F90F54C690AC7DF431233F"/>
 		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1) (Track 03).bin" size="1032499200" crc="2651A685" md5="CEC9030B6F67F29649B9A166035F4569" sha1="DF2BB7207F5227AE66D13A84A4CD3BCB2361092B"/>
 		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1).gdi" size="288" crc="D49AD578" md5="01921CB8A6CC68D9B267E827C6E150F9" sha1="4F9B701E4363F75013B07C37CD573106CC64A7C7"/>
 	</game>
-	<game name=Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2)" cloneof="Skies of Arcadia (USA)">
+	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2)" cloneof="Skies of Arcadia (USA)">
 		<description>Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2)</description>
-		<release name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2)" release type="Uncensored" region=EUR"/>
+		<release name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2)" type="Uncensored" region="EUR"/>
 		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2) (Track 01).bin" size="1470000" crc="06905ECB" md5="D45AD8122E9A7BD4B7F631ECC525C218" sha1="0B9511801EFF58A2A4F2610D3AC46FD080DAC771"/>
 		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2) (Track 02).raw" size="13994400" crc="15E73429" md5="D1838BCBCA4A24B39DEDDEAE2A9D371A" sha1="B643DF4DEF042B6C23F90F54C690AC7DF431233F"/>
 		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2) (Track 03).bin" size="1032499200" crc="ABC78C36" md5="09390F3A6437EB028855E8DC4FE17094" sha1="BA02631A6C71D483BBA88E5286E6F7703B057D6E"/>

@@ -12,22 +12,22 @@
 	</header>
 	<game name="2048 (World) (Homebrew)">
 		<description>2048 (World) (Homebrew)</description>
-		<release name="2048 (World) (Homebrew)" release type="Homebrew" region="World"/>
+		<release name="2048 (World) (Homebrew)" type="Homebrew" region="World"/>
 		<rom name="2048 (World) (Homebrew).wasm" size="12469" crc="4945CB9D" md5="F1582D662A6B80FB6ACFC78B87CA889C" sha1="921D3DCB9213B234E68BEA7E8EFA328272A6CAE2"/>
 	</game>
 	<game name="Mind Palace (World) (Homebrew)">
 		<description>Mind Palace (World) (Homebrew)</description>
-		<release name="Mind Palace (World) (Homebrew)" release type="Homebrew" region="World"/>
+		<release name="Mind Palace (World) (Homebrew)" type="Homebrew" region="World"/>
 		<rom name="Mind Palace (World) (Homebrew).wasm" size="29588" crc="164086AA" md5="C1A363F6942B40609F3758D64A87BEDC" sha1="8240D8661EB639BC8E99D07D7FAC1EA3ECABD6D6"/>
 	</game>
-	<game name="Mind Palace (World) (Rev 1) (Homebrew)" cloneof="Mind Palace (World) (Homebrew)"/>
+	<game name="Mind Palace (World) (Rev 1) (Homebrew)" cloneof="Mind Palace (World) (Homebrew)">
 		<description>Mind Palace (World) (Rev 1) (Homebrew)</description>
-		<release name="Mind Palace (World) (Rev 1) (Homebrew)" release type="Homebrew" region="World"/>
+		<release name="Mind Palace (World) (Rev 1) (Homebrew)" type="Homebrew" region="World"/>
 		<rom name="Mind Palace (World) (Rev 1) (Homebrew).wasm" size="32419" crc="F6F4FFB7" md5="D93332689A224096050083E67D27D14D" sha1="4E33F311633DEB1D34EB42A1873CBB86E04E88BB"/>
 	</game>
 	<game name="Spunky (World) (v1.1) (Homebrew)">
 		<description>Spunky (World) (v1.1) (Homebrew)</description>
-		<release name="Spunky (World) (v1.1) (Homebrew)" release type="Homebrew" region="World"/>
+		<release name="Spunky (World) (v1.1) (Homebrew)" type="Homebrew" region="World"/>
 		<rom name="Spunky (World) (v1.1) (Homebrew).wasm" size="42475" crc="9CCD7590" md5="B4717D2F868F3B52FA7570F12F93D292" sha1="2114761B4881F03607722510157309B7EFBEDA07"/>
 	</game>
 </datafile>
