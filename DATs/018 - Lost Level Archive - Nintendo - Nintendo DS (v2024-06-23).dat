@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+	<header>
+		<id>018</id>
+		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
+		<description>Nintendo - Nintendo DS</description>
+		<version>v20240623</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Disgaea DS (USA) (Undub)" cloneof="Disgaea DS (USA)">
+		<description>Disgaea DS (USA) (Undub)</description>
+		<release name="Disgaea DS (USA) (Undub)" release type="Undub" region="USA"/>
+		<rom name="Disgaea DS (USA) (Undub).nds" size="67325652" crc="FEBDE0A9" md5="6ACB0D1808099511489838A923604978" sha1="F009DDB9A04C28D8BB288F256B07945D3F141384"/>
+	</game>
+</datafile>

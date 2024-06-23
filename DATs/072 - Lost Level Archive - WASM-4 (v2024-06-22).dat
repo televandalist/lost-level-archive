@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
 	<header>
 		<id>072</id>
-		<name>WASM-4</name>
+		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20240622</version>
+		<version>v20240623</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>

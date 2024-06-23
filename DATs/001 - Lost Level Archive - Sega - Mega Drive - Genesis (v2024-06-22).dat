@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
 	<header>
 		<id>001</id>
-		<name>Sega - Mega Drive - Genesis</name>
+		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20240622</version>
+		<version>v20240623</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
