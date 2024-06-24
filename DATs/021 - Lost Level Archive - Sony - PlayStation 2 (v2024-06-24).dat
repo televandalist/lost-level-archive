@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+	<header>
+		<id>021</id>
+		<name>021 - Sony - PlayStation 2</name>
+		<description>Sony - PlayStation 2</description>
+		<version>v20240623</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)" cloneof="Half-Life (USA)">
+		<description>Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)</description>
+		<release name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)" type="Hack" region="USA"/>
+		<rom name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex).iso" size="342163456" crc="6D930783" md5="7A073C1EED023C555B11B359E6F30BF5" sha1="955F84095148204C05ED43710C90A86F6B85C9BC"/>
+	</game>
+</datafile>
