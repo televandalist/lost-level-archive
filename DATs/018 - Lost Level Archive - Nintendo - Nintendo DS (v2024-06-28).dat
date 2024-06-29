@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+	<header>
+		<id>018</id>
+		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
+		<description>Nintendo - Nintendo DS</description>
+		<version>v20240628</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Disgaea DS (USA) (Undub)" cloneof="Disgaea DS (USA)">
+		<description>Disgaea DS (USA) (Undub)</description>
+		<release name="Disgaea DS (USA) (Undub)" type="Undub" region="USA"/>
+		<rom name="Disgaea DS (USA) (Undub).nds" size="67325652" crc="FEBDE0A9" md5="6ACB0D1808099511489838A923604978" sha1="F009DDB9A04C28D8BB288F256B07945D3F141384"/>
+	</game>
+	<game name="Lone Wolf DS I - Flight from the Dark (World) (En) (v1.51) (Homebrew)">
+		<description>Lone Wolf DS I - Flight from the Dark (World) (En) (v1.51) (Homebrew)</description>
+		<release name="Lone Wolf DS I - Flight from the Dark (World) (En) (v1.51) (Homebrew)" type="Homebrew" region="World"/>
+		<rom name="Lone Wolf DS I - Flight from the Dark (World) (En) (v1.51) (Homebrew).nds" size="15272456" crc="94248726" md5="FBBB2181054301B9E6932FC261F77367" sha1="FFED0B0BF23878A6C5DE56A2EC2E820CDC1D76A5"/>
+	</game>
+	<game name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Homebrew)" cloneof="Lone Wolf DS I - Flight from the Dark (World) (En) (v1.51) (Homebrew)">
+		<description>Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Homebrew)</description>
+		<release name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Homebrew)" type="Homebrew" region="World"/>
+		<rom name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Homebrew).nds" size="15276040" crc="69A806A9" md5="AEE33886C76506AD3FB6905298E0775E" sha1="1030BD43F63B2870B8A134D52F7EC519B53EBBB8"/>
+	</game>
+	<game name="Lone Wolf DS II - Fire on the Water (World) (En) (v1.51) (Homebrew)">
+		<description>Lone Wolf DS II - Fire on the Water (World) (En) (v1.51) (Homebrew)</description>
+		<release name="Lone Wolf DS II - Fire on the Water (World) (En) (v1.51) (Homebrew)" type="Homebrew" region="World"/>
+		<rom name="Lone Wolf DS II - Fire on the Water (World) (En) (v1.51) (Homebrew).nds" size="15894536" crc="F559918A" md5="5F53F531C02081D5D6DC692A520B0DF3" sha1="9B90B71C147D2146B1F1F6F20C8E1C51E4A5F053"/>
+	</game>
+	<game name="Lone Wolf DS III - The Caverns of Kalte (World) (En) (v1.52) (Homebrew)">
+		<description>Lone Wolf DS III - The Caverns of Kalte (World) (En) (v1.52) (Homebrew)</description>
+		<release name="Lone Wolf DS III - The Caverns of Kalte (World) (En) (v1.52) (Homebrew)" type="Homebrew" region="World"/>
+		<rom name="Lone Wolf DS III - The Caverns of Kalte (World) (En) (v1.52) (Homebrew).nds" size="16681480" crc="086FE4FF" md5="ED3CCFA053DA666F2A3E49408E08209D" sha1="EFCEE170D87457325BA5185909A5E4B896027B13"/>
+	</game>
+	<game name="Lone Wolf DS IV - The Chasm of Doom (World) (En) (v1.1) (Homebrew)">
+		<description>Lone Wolf DS IV - The Chasm of Doom (World) (En) (v1.1) (Homebrew)</description>
+		<release name="Lone Wolf DS IV - The Chasm of Doom (World) (En) (v1.1) (Homebrew)" type="Homebrew" region="World"/>
+		<rom name="Lone Wolf DS IV - The Chasm of Doom (World) (En) (v1.1) (Homebrew).nds" size="16139784" crc="929C80D9" md5="2475C7D7B89B90DDF76A5CB29398B7E8" sha1="3B952367AD3C9AD38D7CF4C44453C711E5F0082E"/>
+	</game>
+	<game name="Lone Wolf DS V - Shadow on the Sand (World (En) (v1.2) (Homebrew)">
+		<description>Lone Wolf DS V - Shadow on the Sand (World (En) (v1.2) (Homebrew)</description>
+		<release name="Lone Wolf DS V - Shadow on the Sand (World (En) (v1.2) (Homebrew)" type="Homebrew" region="World"/>
+		<rom name="Lone Wolf DS V - Shadow on the Sand (World (En) (v1.2) (Homebrew).nds" size="15485448" crc="6B2FB672" md5="3012EE8F8DBBBFC0D60D13F71802A765" sha1="EC1866BFBF7856AB4C312DF498C93FE6A39C9A13"/>
+	</game>
+</datafile>
