@@ -4,26 +4,26 @@
 		<id>080</id>
 		<name>080 - Lost Level Archive - Uzebox</name>
 		<description>Uzebox</description>
-		<version>v20240624</version>
+		<version>v20240629</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="2048 (World) (Homebrew) (Harty123)">
-		<description>2048 (World) (Homebrew) (Harty123)</description>
-		<release name="2048 (World) (Homebrew) (Harty123)" type="Homebrew" region="World"/>
-		<rom name="2048 (World) (Homebrew) (Harty123).uze" size="34336" crc="AA284CDA" md5="6696DAD0719DF3341B14E4C371286A4A" sha1="F78F8BD532E021C7C71E0306593D40B98591EE97"/>
+	<game name="2048 (World) (Harty123)">
+		<description>2048 (World) (Harty123)</description>
+		<release name="2048 (World) (Harty123)" type="Homebrew" region="World"/>
+		<rom name="2048 (World) (Harty123).uze" size="34336" crc="AA284CDA" md5="6696DAD0719DF3341B14E4C371286A4A" sha1="F78F8BD532E021C7C71E0306593D40B98591EE97"/>
 	</game>
-	<game name="Alter Ego (World) (Homebrew) (D3thAdd3r)">
-		<description>Alter Ego (World) (Homebrew) (D3thAdd3r)</description>
-		<release name="Alter Ego (World) (Homebrew) (D3thAdd3r)" type="Homebrew" region="World"/>
-		<rom name="Alter Ego (World) (Homebrew) (D3thAdd3r).uze" size="61496" crc="A3099833" md5="234BC85BDDF914B28F662323540AFD89" sha1="31CB1D188BE883E03CC138E586B3FDF0F464C91A"/>
+	<game name="Alter Ego (World) (D3thAdd3r)">
+		<description>Alter Ego (World) (D3thAdd3r)</description>
+		<release name="Alter Ego (World) (D3thAdd3r)" type="Homebrew" region="World"/>
+		<rom name="Alter Ego (World) (D3thAdd3r).uze" size="61496" crc="A3099833" md5="234BC85BDDF914B28F662323540AFD89" sha1="31CB1D188BE883E03CC138E586B3FDF0F464C91A"/>
 	</game>
-	<game name="Atomix (World) (Homebrew) (Martin Sustek)">
-		<description>Atomix (World) (Homebrew) (Martin Sustek)</description>
-		<release name="Atomix (World) (Homebrew) (Martin Sustek)" type="Homebrew" region="World"/>
-		<rom name="Atomix (World) (Homebrew) (Martin Sustek).uze" size="58148" crc="D2BA9751" md5="0361BD8008D583670210627EDA1FE482" sha1="0C05C7C9D2F1355D70D6FF95B84ADDBB336F992B"/>
+	<game name="Atomix (World) (Martin Sustek)">
+		<description>Atomix (World) (Martin Sustek)</description>
+		<release name="Atomix (World) (Martin Sustek)" type="Homebrew" region="World"/>
+		<rom name="Atomix (World) (Martin Sustek).uze" size="58148" crc="D2BA9751" md5="0361BD8008D583670210627EDA1FE482" sha1="0C05C7C9D2F1355D70D6FF95B84ADDBB336F992B"/>
 	</game>
 	<game name="B.C. Dash (World) (Paul McPhee)">
 		<description>B.C. Dash (World) (Paul McPhee)</description>
