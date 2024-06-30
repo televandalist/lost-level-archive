@@ -65,6 +65,11 @@
 		<release name="Future Avoid (World) (Proto) (Joakim Hentula)" type="Homebrew" region="World"/>
 		<rom name="Future Avoid (World) (Proto) (Joakim Hentula).wasm" size="51637" crc="F7856AD6" md5="6ED7BF2107F26D9D9027EADD4EF16854" Sha1="E4CC494BE1FABE730D47E78A8582E02DDF8B6C1E"/>
 	</game>
+	<game name="GALDR (World) (jonathand)">
+		<description>GALDR (World) (jonathand)</description>
+		<release name="GALDR (World) (jonathand)" type="Homebrew" region="World"/>
+		<rom name="GALDR (World) (jonathand).wasm" size="46169" crc="F6A9A241" md5="00E3C7577B124F20DBF667E5C2BC3D11" Sha1="95B6FE1A3E2C1CA01BE294F5ECC2B9011F4CFE08"/>
+	</game>
 	<game name="Hammer Joe (World) (Proto) (MFauzan26)">
 		<description>Hammer Joe (World) (Proto) (MFauzan26)</description>
 		<release name="Hammer Joe (World) (Proto) (MFauzan26)" type="Homebrew" region="World"/>
@@ -135,6 +140,11 @@
 		<release name="Minesweeper (World) (Claudio Mattera)" type="Homebrew" region="World"/>
 		<rom name="Minesweeper (World) (Claudio Mattera).wasm" size="20125" crc="0FDFE010" md5="2FB4C9741D5325537D88201D5A81653B" Sha1="7662A6AEC2EC6398C118C89694CE8528DA606C96"/>
 	</game>
+	<game name="Minigolf (World) (v0.2.5) (World) (Lomikron)">
+		<description>Minigolf (World) (v0.2.5) (World) (Lomikron)</description>
+		<release name="Minigolf (World) (v0.2.5) (World) (Lomikron)" type="Homebrew" region="World"/>
+		<rom name="Minigolf (World) (v0.2.5) (World) (Lomikron).wasm" size="28553" crc="674799A9" md5="D7B509D435D9699F12744E615254A2C4" Sha1="039B534C9D298DEA8E60830EC493BEABAAC6A918"/>
+	</game>
 	<game name="One Slime Army (World) (v1.3.0) (Isaiah Billingsley)">
 		<description>One Slime Army (World) (v1.3.0) (Isaiah Billingsley)</description>
 		<release name="One Slime Army (World) (v1.3.0) (Isaiah Billingsley)" type="Homebrew" region="World"/>
@@ -149,6 +159,11 @@
 		<description>PING (World) (v0.5.0) (Cannon Tuttle)</description>
 		<release name="PING (World) (v0.5.0) (Cannon Tuttle)" type="Homebrew" region="World"/>
 		<rom name="PING (World) (v0.5.0) (Cannon Tuttle).wasm" size="28964" crc="4F6FED00" md5="3370A22853130E7D7790E851E36B45C2" Sha1="F7C323F2F14CB5BC3CBE5263E2EA66C7D141D98B"/>
+	</game>
+	<game name="Plctformer (World) (Proto) (pfg)">
+		<description>Plctformer (World) (Proto) (pfg)</description>
+		<release name="Plctformer (World) (Proto) (pfg)" type="Homebrew" region="World"/>
+		<rom name="Plctformer (World) (Proto) (pfg).wasm" size="55938" crc="9B7D48BB" md5="9280D1D157F0EB4EEDA9E1DACEDCF4B6" Sha1="A81B96E2048040D3926FEF00C8D5B1B42C609DF6"/>
 	</game>
 	<game name="Pong (World) (Fabrizio Vitale)">
 		<description>Pong (World) (Fabrizio Vitale)</description>
@@ -175,6 +190,11 @@
 		<release name="Samurai Revenge (World) (v1.3.1) (Krylan,Dominik Koperkiewicz)" type="Homebrew" region="World"/>
 		<rom name="Samurai Revenge (World) (v1.3.1) (Krylan,Dominik Koperkiewicz).wasm" size="35899" crc="E4416F9D" md5="4B4B6643E6231E74CC5DB038482BDC67" Sha1="1F4567CE23F01D2E61AFE191BE30A130634388D7"/>
 	</game>
+	<game name="Skipahead (World) (Dennis Ranke)">
+		<description>Skipahead (World) (Dennis Ranke)</description>
+		<release name="Skipahead (World) (Dennis Ranke)" type="Homebrew" region="World"/>
+		<rom name="Skipahead (World) (Dennis Ranke).wasm" size="512" crc="A39093A3" md5="C38F2E56C9129BF55B0E89299AE3452D" Sha1="C26A62D193D7707D39DCA8604A13130546BBCE18"/>
+	</game>
 	<game name="Snake (World) (Tomas Tulka)">
 		<description>Snake (World) (Tomas Tulka)</description>
 		<release name="Snake (World) (Tomas Tulka)" type="Homebrew" region="World"/>
@@ -190,10 +210,25 @@
 		<release name="Spunky (World) (v1.1) (Richard McCormack)" type="Homebrew" region="World"/>
 		<rom name="Spunky (World) (v1.1) (Richard McCormack).wasm" size="42475" crc="9CCD7590" md5="B4717D2F868F3B52FA7570F12F93D292" sha1="2114761B4881F03607722510157309B7EFBEDA07"/>
 	</game>
+	<game name="StarPilot W (World) (Spaceman1701)">
+		<description>StarPilot W (World) (Spaceman1701)</description>
+		<release name="StarPilot W (World) (Spaceman1701)" type="Homebrew" region="World"/>
+		<rom name="StarPilot W (World) (Spaceman1701).wasm" size="46744" crc="8D6A3451" md5="335808621244E3519259D656C6531E08" Sha1="A81ABA7585ADB79D26D76A324802ECA5235C3BF8"/>
+	</game>
 	<game name="Tail Gunner (World) (Dial0)">
 		<description>Tail Gunner (World) (Dial0)</description>
 		<release name="Tail Gunner (World) (Dial0)" type="Homebrew" region="World"/>
 		<rom name="Tail Gunner (World) (Dial0).wasm" size="54663" crc="F907C736" md5="FAE4B6A3540EA3C992F8BE54190F659C" Sha1="7167C585E4E8F4D93FBF42B6A4D54A857D141B0C"/>
+	</game>
+	<game name="TappyLoop (World) (daves84)">
+		<description>TappyLoop (World) (daves84)</description>
+		<release name="TappyLoop (World) (daves84)" type="Homebrew" region="World"/>
+		<rom name="TappyLoop (World) (daves84).wasm" size="17215" crc="E9CB29AC" md5="36F3EF9CE098CB6A28B7E6789C059FCE" Sha1="0D79DFA4DD4456A613976B25BFBC9E3A7DB14266"/>
+	</game>
+	<game name="Texas Chainsaw Dodge (World) (Scott Breen)">
+		<description>Texas Chainsaw Dodge (World) (Scott Breen)</description>
+		<release name="Texas Chainsaw Dodge (World) (Scott Breen)" type="Homebrew" region="World"/>
+		<rom name="Texas Chainsaw Dodge (World) (Scott Breen).wasm" size="33957" crc="D60F19E3" md5="45794AE3D567AEAD175D2C53392459A2" Sha1="238F4791F338CC8EE4BA09D1310C95FA70D226FE"/>
 	</game>
 	<game name="To the Core (World) (Garrett Hale)">
 		<description>To the Core (World) (Garrett Hale)</description>
@@ -249,6 +284,11 @@
 		<description>You Will Return (World) (Rev 1) (Sander in 't Veld)</description>
 		<release name="You Will Return (World) (Rev 1) (Sander in 't Veld)" type="Homebrew" region="World"/>
 		<rom name="You Will Return (World) (Rev 1) (Sander in 't Veld).wasm" size="44030" crc="4E634886" md5="4CE31F9E2ABFEDDB79132951567BBD27" Sha1="3F7EB715A5AB85B94D1C48D99DD19CA79EA6F36C"/>
+	</game>
+	<game name="Znake (World) (freiguy1)">
+		<description>Znake (World) (freiguy1)</description>
+		<release name="Znake (World) (freiguy1)" type="Homebrew" region="World"/>
+		<rom name="Znake (World) (freiguy1).wasm" size="32821" crc="B24C0514" md5="477DB24DA6B0EC8063410DB7F5910803" Sha1="72BDE7992B0B91D43CBAD7B0F49640AAF714333E"/>
 	</game>
 	<game name="Zoop Zoop Bee Adventures 7 (World) (Garrett Hale)">
 		<description>Zoop Zoop Bee Adventures 7 (World) (Garrett Hale)</description>
