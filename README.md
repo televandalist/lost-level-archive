@@ -7,6 +7,7 @@
 - Improvements, Bug Fixes, Cosmetic Hacks, etc.
 - Translations and Undubs
 - Betas, Demos, Prototypes, etc.
+- Basically anything that isn't DAT'd by No Intro, Redump, FBNeo, Neo Kobe, etc.
 
 ### Platforms
 - 3DO
