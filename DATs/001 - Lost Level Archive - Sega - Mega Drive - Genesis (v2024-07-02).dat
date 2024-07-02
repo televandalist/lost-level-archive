@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+	<header>
+		<id>001</id>
+		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
+		<description>Sega - Mega Drive - Genesis</description>
+		<version>v20240702</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="CrazyBus (World) (Aftermarket) (Unl) (Tom Maneiro)">
+		<description>CrazyBus (World) (Aftermarket) (Unl) (Tom Maneiro)</description>
+		<release name="CrazyBus (World) (Aftermarket) (Unl) (Tom Maneiro)" type="Homebrew" region="World"/>
+		<rom name="CrazyBus (World) (Aftermarket) (Unl) (Tom Maneiro).md" size="507360" crc="308A2E8E" md5="8329789CF6137CF0DFFDFD503C82E1C3" sha1="9208B535B8A5BB5E28B44A4FBC255EC5A92F39DD"/>
+	</game>
+	<game name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic)">
+		<description>Kekcroc (World) (Aftermarket) (Unl) (Aeromatic)</description>
+		<release name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic)" type="Homebrew" region="World"/>
+		<rom name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md" size="917504" crc="8EB5425E" md5="02DFA3E40D3EDED3301828DE44CB8E99" sha1="30DF12657D6A8FBE7E1609275619F402ADCD5350"/>
+	</game>
+	<game name="Sonic Delta 40Mb (v0.64) (Neto)" cloneof="Sonic the Hedgehog (USA)">
+		<description>Sonic Delta 40Mb (v0.64) (Neto)</description>
+		<release name="Sonic Delta 40Mb (v0.64) (Neto)" type="Hack" region="USA"/>
+		<rom name="Sonic Delta 40Mb (v0.64) (Neto).md" size="5242880" crc="787369B0" md5="76777D3A0E62A05557C4D91F5D593D2F" sha1="FF849F23AC7CBF498B5B2259E3B44DA401DA8B14"/>
+	</game>
+	<game name="Super Byoon (World) (Aftermarket) (Unl) (neko800)">
+		<description>Super Byoon (World) (Aftermarket) (Unl) (neko800)</description>
+		<release name="Super Byoon (World) (Aftermarket) (Unl) (neko800)" type="Homebrew" region="World"/>
+		<rom name="Super Byoon (World) (Aftermarket) (Unl) (neko800).md" size="262144" crc="A92DA414" md5="BB847C35890B4F1DC94FD15DC485968E" sha1="4742AF51CE9D633077796E249808E7EB82AD4237"/>
+	</game>
+	<game name="TetrisMD (World) (Aftermarket) (Unl) (NeroJin)">
+		<description>TetrisMD (World) (Aftermarket) (Unl) (NeroJin)</description>
+		<release name="TetrisMD (World) (Aftermarket) (Unl) (NeroJin)" type="Homebrew" region="World"/>
+		<rom name="TetrisMD (World) (Aftermarket) (Unl) (NeroJin).md" size="393216" crc="C9B4F888" md5="38931277D54D548944903C65A413C677" sha1="D59D038F9C41094DDE283F234E069A78F688590C"/>
+	</game>
+</datafile>
