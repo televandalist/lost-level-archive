@@ -4,7 +4,7 @@
 		<id>021</id>
 		<name>021 - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20240623</version>
+		<version>v202407</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,5 +14,15 @@
 		<description>Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)</description>
 		<release name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)" type="Hack" region="USA"/>
 		<rom name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex).iso" size="342163456" crc="6D930783" md5="7A073C1EED023C555B11B359E6F30BF5" sha1="955F84095148204C05ED43710C90A86F6B85C9BC"/>
+	</game>
+	<game name="Suikoden V (USA) (Undub)" cloneof="Suikoden V (USA)">
+		<description>Suikoden V (USA) (Undub)</description>
+		<release name="Suikoden V (USA) (Undub)" type="Undub" region="USA"/>
+		<rom name="Suikoden V (USA) (Undub).iso" size="4494260224" crc="B636742B" md5="D3419C57EB0FC16C366C087A381BD214" sha1="6FAC76A54F9B150F6BEFE0C035DAB0654EFDCF93"/>
+	</game>
+	<game name="Suikoden V (USA) (Undub) (Widescreen)" cloneof="Suikoden V (USA)">
+		<description>Suikoden V (USA) (Undub) (Widescreen)</description>
+		<release name="Suikoden V (USA) (Undub) (Widescreen)" type="Undub,Widescreen" region="USA"/>
+		<rom name="Suikoden V (USA) (Undub) (Widescreen).iso" size="4494260224" crc="3AF525BE" md5="AD4B250810B9D19AA824DF6945B211AC" sha1="F227D5CC549FAECA78E4AA3B6185DB27A3AD90B9"/>
 	</game>
 </datafile>
