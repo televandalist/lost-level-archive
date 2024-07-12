@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+	<header>
+		<id>009</id>
+		<name>009 - Sega - Sega CD</name>
+		<description>Sega - Sega CD</description>
+		<version>v20240712</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)">
+		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)</description>
+		<release name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)" type="Prototype" region="USA"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 01).bin" size="378951888" crc="61AB9EFF" md5="56CF3296BD516E5E1380C38796AD04D6" sha1="DC4AF78B647EBD836C32EC57B8CE39369129E0B3"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 02).bin" size="8601264" crc="966E4B39" md5="A740162AF5FFD717685B9A30E2A785EA" sha1="5EDFE5928DAC676B96D4918DFE83DCCC4C8613FB"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 03).bin" size="8629488" crc="B1B006E9" md5="1A3EAA83A7D86561EFEA5CB18B86E008" sha1="E0E774682E5E122AC48F28DD43836202CCBB267C"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 04).bin" size="8772960" crc="A975ADFA" md5="9651FA2A0E5B28CE5EB6BA0DDB05982F" sha1="610D74FE5949CD1F3EB967140530FC3BD3FE3E69"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 05).bin" size="8909376" crc="5B4C48DC" md5="6495880A10810F0A97038120E504D3A8" sha1="DA72A1EAFE605987247BDAD7D472C372C51BC68D"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 06).bin" size="8634192" crc="6F4B03D8" md5="5868B7FA0FE53683B856FB47A000A0CF" sha1="7420411CB7426D32888D241118061B2FCEF0DA1D"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 07).bin" size="8850576" crc="EB6C1397" md5="F06332DCCDFECE68CC47B62AE54822F8" sha1="CD0D9865785855E28122F1B54EB0327747186F36"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 08).bin" size="9041088" crc="361EF3D5" md5="F5ACBDFDCCCB0051D31432A05F660625" sha1="8CE6DB54C35F42D67B019F64B39804F2D9E3062B"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 09).bin" size="135068304" crc="6C4A868C" md5="CD8710E426F92153EF0E782424940BA2" sha1="7948B8572511B4164C7A05868A5925BD2E895F30"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 10).bin" size="12369168" crc="3E3E96FD" md5="2A9158ABD629109DF5F38F4E0CFEE10C" sha1="4CF72614763A162B1872DF50D28E18AD19C27CAE"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1) (Track 11).bin" size="11696496" crc="8BAC7171" md5="DE66F20470A52B43CC04D051A34698EF" sha1="8E17C146ACB82DCB2B70D29BE9E2F46CA4F10F2D"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1).cue" size="1325" crc="8E90AD9D" md5="10EEE82861ECB236FD3EF5A3B490F3B5" sha1="1A26DB2119E685B04B8EE57732C688254E1151EA"/>
+	</game>
+	<game name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)">
+		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)</description>
+		<release name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)" type="Prototype" region="USA"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2) (Track 1).bin" size="225839040" crc="FB87E25E" md5="4B80D58F52E28B55FD12577981B13CA2" sha1="95F88096D0D33992554E7386042344069DD916E1"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2) (Track 2).bin" size="8692992" crc="CB206CE2" md5="A158C70506387132E352188DA1728FAF" sha1="23597E69FD57AA6B66973C12AD3D2B7737A5CAA0"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2) (Track 3).bin" size="5355504" crc="197AAF1F" md5="30724589D9292CCE248C12542D1EEEA4" sha1="21CD29AB5AFCBEA1E0C85B234926E9ECA39EBC3B"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2) (Track 4).bin" size="8963472" crc="DE9A3223" md5="75B64C154CF0E5163BFF1B924AB133AE" sha1="F80143470A75B2D1315659FFC516E38615B4608C"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2).cue" size="481" crc="323238BB" md5="CEF19B463C01C57FA9115C07739E447D" sha1="8CDAD977E5FB3C0BEC972CD66EDC8E137CE55BD5"/>
+	</game>
+	<game name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur)">
+		<description>Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur)</description>
+		<release name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur)" type="Homebrew" region="USA"/>
+		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur).bin" size="1095680" crc="EB76C863" md5="EDA749827F62224EDDF8C17F3F5E2558" sha1="C0520E63D7791E07E7D6ABEB2AE61D2A05C31CA6"/>
+		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur).cue" size="147" crc="3936C7E4" md5="E59229E29946B8201F52440F3EF18F01" sha1="8A53DAC5AAE92BB960A1909AAA246400B525A4C7"/>
+	</game>
+</datafile>

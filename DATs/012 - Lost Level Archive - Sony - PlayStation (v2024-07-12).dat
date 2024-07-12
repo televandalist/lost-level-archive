@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+	<header>
+		<id>012</id>
+		<name>012 - Sony - PlayStation</name>
+		<description>Sony - PlayStation</description>
+		<version>v20240712</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Buzzy Bee (USA) (v1.1) (NDR008)">
+		<description>Buzzy Bee (USA) (v1.1) (NDR008)</description>
+		<release name="Buzzy Bee (USA) (v1.1) (NDR008)" type="Homebrew" region="USA"/>
+		<rom name="Buzzy Bee (USA) (v1.1) (NDR008) (Track 1).bin" size="2808288" crc="5D843613" md5="5942E93FF402774BE49EF8478AED8B3E" sha1="19EAAB1881B5E931311D0D03C4D917DA73887EDA"/>
+		<rom name="Buzzy Bee (USA) (v1.1) (NDR008) (Track 2).bin" size="35884464" crc="D582AE3A" md5="4E006EC106F3CFA1DE2D8D2A813FACFB" sha1="1243941637FBEF9180B3DCAE8C9342C5D16531C4"/>
+		<rom name="Buzzy Bee (USA) (v1.1) (NDR008).cue" size="209" crc="92E99210" md5="8451D90A0321F18FDB3A8E1636736F31" sha1="DA8338F26CAC1B7EA6B94D444B6BEC9CF9B5CC9A"/>
+	</game>
+	<game name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)">
+		<description>Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)</description>
+		<release name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)" type="Homebrew" region="World"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 01).bin" size="253216320" crc="4A24E2D4" md5="ED5198FDABD39EE620D872541C6C5D27" sha1="675631B71B56FA439C04DC1EFD216342237366A3"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 02).bin" size="25697952" crc="4A893659" md5="AD8CD9A577930378EEDC033F6E269373" sha1="3AC2177E6F10E5902E80737BC1A3F7E1A8B68DBC"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 03).bin" size="17315424" crc="4F5D10E0" md5="5EED49BFFC4E211E947EEF54DEE5D361" sha1="1546448C3F5A526CF6F684C58F9C089A0FCAEACB"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 04).bin" size="10715712" crc="173BBAC1" md5="D41B4ACF4AD9FA74CA6BF41A193345C0" sha1="47C6F00D777F1D059B47AB452E91FB5D9707D526"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 05).bin" size="34628496" crc="9DBE3BE5" md5="10F24EC976E6E1B5A401C5949ACD0450" sha1="F93A140C65253A2686D707E4C6FEDBED61E07A1D"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 06).bin" size="22654464" crc="9DE846EB" md5="D25C05B299A4892467F56392752CD59E" sha1="34A551454B01389A23ECBD66FE48986035CF5F9F"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 07).bin" size="1058400" crc="95359A62" md5="BDE76437B052C78616A7CE1E27FD6162" sha1="5BFA0DF9D820EF0954F749758E540BE1837D1860"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 08).bin" size="1058400" crc="4034C0A3" md5="3BFF3793805695A4F9FE2192B608F0AE" sha1="A9F7881A1D25A57C9AF9808AB300CFB6E6AD9C84"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 09).bin" size="1056048" crc="6621624A" md5="9460148255ADAD132B90BC49642CE298" sha1="2A98E58D5F8E54B1BE591ECDA1A54502E1B2EB9B"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 10).bin" size="1056048" crc="ABD6C46C" md5="C88DDA7784A1412EDAE4BFC9C9150B0C" sha1="C4BFE5F12AB8EAEC650D45C6FD2A98EEBF210A85"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 11).bin" size="1056048" crc="0D09FF85" md5="ACD264693CEBDA470CBD4F197443744D" sha1="749A6138A7D9AEF7511D6C87CAFF21A99EB78F48"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 12).bin" size="4414704" crc="1278EA7B" md5="0619275AECD7A9F464B071C603411248" sha1="1B18E6D329025433E5EB54180F4744CEA21CCD4C"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 13).bin" size="8497776" crc="318E11F3" md5="D0C501C94E51783F166632FCD8026C5F" sha1="48480A31537EA8D3C304A4B9EC7AE58ACD2F7B88"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 14).bin" size="2015664" crc="01A1232F" md5="B6B73530ECFB0DBD6610C22AA1BC82C3" sha1="C61C052C68E403D426DF0BE73422707458433B8D"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 15).bin" size="1225392" crc="023418FB" md5="9463262052F212566D199F1E0B0C285E" sha1="DBB9EADD1065F3A5390C43E8BB670E54BCF6DF74"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 16).bin" size="1110144" crc="5DDC5300" md5="68BF04E72000B903BAD8CDD1DE71C37E" sha1="0753ECCD4D7F572CB97E4E456A71A8EC9B20A4E1"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 17).bin" size="1375920" crc="D813D468" md5="23DD0AF6AC40AD6C6D95EADF62742F2F" sha1="D7044FD79D2A00400A5E7DAE3722831F3E37D170"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 18).bin" size="1462944" crc="572F76BD" md5="E3595C82244FFDDA129CC63E1FA5C250" sha1="E7EDA056E2342B0CDB2AD09C331801643A0E3FC8"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 19).bin" size="1312416" crc="9F143CD1" md5="B790A1B841F6EADC8A454BD9394F81C1" sha1="1DBCE5E6C86916AAD0114C48B14DF20102D770BA"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 20).bin" size="1220688" crc="D9BDE432" md5="95886F813050DA5109626F73EFA552A9" sha1="08731CB9498367B8DC5802389A5A57B75A59CF10"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 21).bin" size="4471152" crc="14FA0AB5" md5="1F7FDFE66C755A5EFE5E09E476E398E1" sha1="4CC72E82E0262F888F6195DAADF98F50569F1129"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 22).bin" size="1185408" crc="52D5E56E" md5="E552B48D5EE10FF423D02F0EAD03AB73" sha1="E7F7483E46568E49D61D2CBF7919C6DFF06360C6"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 23).bin" size="1554672" crc="EF96D4FE" md5="01B9FF61C4B53C15DC63934307F437DD" sha1="B5F9D5FBD608B411E071ED5433D5EAA7C74A0E74"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 24).bin" size="2387280" crc="97CBE15E" md5="5A592510321E918C3784EC4A8B95ADDB" sha1="C52914D434909AFE97D1775CA202B92E53FAD1A9"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 25).bin" size="2462544" crc="96AFAC57" md5="556F0675D2CA1A70312F5346F5958B78" sha1="4B4E38265FDBF6CD929D851F14C6AF6FB6757D4A"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 26).bin" size="15974784" crc="3ACCF64E" md5="55E2C42BF0E9EE6D4C1D256D62054626" sha1="FD88923E10288CFEB8A500262E40E5B9B0FDB4C3"/>
+		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga).cue" size="3674" crc="4079D6C9" md5="39EB5C2068C2C18D2EBFF906C9F5DEC6" sha1="2449FCBB26DC339191AE9506CFA2AF858D69E732"/>
+	</game>
+	<game name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)">
+		<description>Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)</description>
+		<release name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)" type="Homebrew, Compilation" region="World"/>
+		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).bin" size="627626496" crc="8277E2C3" md5="D7F9E75C03C5E73C5FAB5393FB02F486" sha1="9AEECC21E91BAA43FB7935BB43C77513A4636546"/>
+		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).cue" size="121" crc="6BD72052" md5="59DA714172EB28D6B74692F439FFA00C" sha1="921CAC92A2F10F7D08749B23119975D78F4F38F0"/>
+	</game>
+	<game name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)">
+		<description>Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)</description>
+		<release name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)" type="Hack" region="USA"/>
+		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins).bin" size="661678752" crc="F08A4D06" md5="D9D3211569141ABE470D9B52748F5FC3" sha1="63F81BCF014840855EE4D0875093577C4B499543"/>
+		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins).cue" size="116" crc="C5422413" md5="12DC398B8F512A65965253A894FC33B6" sha1="AC25D7328D68B4301A8E94F17530BD66CDCCC240"/>
+	</game>
+	<game name="Resident Evil - The Prison (v1.2) (Aydan Watkins)">
+		<description>Resident Evil - The Prison (v1.2) (Aydan Watkins)</description>
+		<release name="Resident Evil - The Prison (v1.2) (Aydan Watkins)" type="Hack" region="USA"/>
+		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins).bin" size="661391808" crc="77C186A0" md5="0A1B8672A1E67D52D2313360D0EC90DE" sha1="95D835EED104CD839395D7B09039D1F33BC52773"/>
+		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins).cue" size="115" crc="211A279A" md5="73628192A738E0033B28FD995F253BB9" sha1="7DAB3B98394A35A8EAD91226EACB9AD4A8BB83A3"/>
+	</game>
+	<game name="Resident Evil 0 Demake (v0.1) (Biohazard Espana)">
+		<description>Resident Evil 0 Demake (v0.1) (Biohazard Espana)</description>
+		<release name="Resident Evil 0 Demake (v0.1) (Biohazard Espana)" type="Hack" region="USA"/>
+		<rom name="Resident Evil 0 Demake (v0.1) (Biohazard Espana).bin" size="568786512" crc="AADE6B8A" md5="AEFA8F53118CE3EC2E9A10E7FBA93A1E" sha1="36E68F5F56ECCB18B92EE6A886200DC695C7BF42"/>
+		<rom name="Resident Evil 0 Demake (v0.1) (Biohazard Espana).cue" size="112" crc="60FA882A" md5="44306B2A8F71CDF13100242407E6E1F8" sha1="1D7A044B51AEA62BB565DEA3B9B289A8DB856D21"/>
+	</game>
+	<game name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)">
+		<description>Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)</description>
+		<release name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)" type="Hack" region="USA"/>
+		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).bin" size="661027248" crc="6EC403D1" md5="23CDD171B7909528F834F0C9765F27C0" sha1="029593955983A15F900C763622E0CE78BED1288F"/>
+		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).cue" size="127" crc="524FC91C" md5="1E189CE109C4F26FBEC8631AC6C8936E" sha1="FEFDFA29A1933DECDE58BEC4222C826D1AD3B5B7"/>
+	</game>
+	<game name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26)">
+		<description>Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26)</description>
+		<release name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26)" type="Prototype" region="USA"/>
+		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).ccd" size="785" crc="C140C0D3" md5="C4C9D5C7B4AB27165C245EEF7A78106B" sha1="4D827E2A3C2AC5C0B72756388422FA754E3F4BFC"/>
+		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).cue" size="128" crc="39D05A14" md5="E4493F916E7C72519C2F52EF6C2785B5" sha1="A01FB9339DF65F3E7471C2F51FDF4C8733118F63"/>
+		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).img" size="511489440" crc="9E8F9BA7" md5="436B6476F41C3541D013C070B670D210" sha1="97337A27C44FC5A8787DFF63F6CA8A18363C650B"/>
+		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).sub" size="20877120" crc="87C0751C" md5="8423CFC6526F5F26B7DF9884056A8366" sha1="CD5FFF4F2FE88609096DD1079C39F89FA29052A6"/>
+	</game>
+</datafile>
