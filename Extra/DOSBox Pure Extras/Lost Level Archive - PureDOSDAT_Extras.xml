@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Pure DOS DAT</name>
+		<description>DOS Game Extras</description>
+		<version>2024-08-10 10-40-51</version>
+		<date>2024-08-10 10-40-51</date>
+		<author>televandalist</author>
+		<homepage>Pure DOS DAT</homepage>
+		<primary_url>https://github.com/televandalist/lost-level-archive</primary_url>
+		<secondary_url>https://github.com/PureDOS/DAT</secondary_url>
+	</header>
+	<game name="Alien Breed (1993) (Team17) (Extras)">
+		<description>Alien Breed</description>
+		<year>1993</year>
+		<developer>Team17</developer>
+		<variant>Extras</variant>
+		<rom name="Alien Breed (1993) (Team17) - Manual.pdf" size="6979462" crc="63868640" md5="735f05cbafe6312f70596f2f93e9a18d" sha1="8e4b351d38b55fd7e7257636193843327f2f3684" date="2020-06-30 11:29:08"/>
+	</game>
+	<game name="Ancient Ys Vanished (1989) (Falcom) (Extra)">
+		<description>Ancient Ys Vanished</description>
+		<year>1989</year>
+		<developer>Falcom</developer>
+		<variant>Extra</variant>
+		<rom name="Ancient Ys Vanished (1989) (Falcom) - Manual.pdf" size="5498749" crc="6ecb0b30" md5="1c2b93be4031a18a77201ed57099d93b" sha1="ca3fa9a692035593c89980aecd61591675370553" date="2020-06-24 16:23:28"/>
+	</game>
+	<game name="Bedlam (1996) (GT Interactive) (Extras)">
+		<description>Bedlam</description>
+		<year>1996</year>
+		<developer>GT Interactive</developer>
+		<variant>Extras</variant>
+		<rom name="Bedlam (1996) (GT Interactive) - CD Manual.pdf" size="2491644" crc="af95e951" md5="d13ae1cff47bcce05e37fb15f84ab9a5" sha1="39d86d6689764315ee560734e7ee9277c708fcf4" date="2016-01-14 23:02:18"/>
+		<rom name="Bedlam (1996) (GT Interactive) - Installation Guide.pdf" size="1524712" crc="fa419ffe" md5="220a70804eb87bc437bedb408651b424" sha1="58d3e03fb99c7886349c3ba230d8b53c49ed0025" date="2021-03-21 03:58:22"/>
+		<rom name="Bedlam (1996) (GT Interactive) - Manual.pdf" size="11118682" crc="689deb0c" md5="c1eefcec73ca38c8e701383800dad4b4" sha1="8596f609e6823d546a6687efb095af823e31f41b" date="2020-08-15 04:06:22"/>
+	</game>
+	<game name="Buck Rogers - Countdown to Doomsday (1990) (SSI) (Extras)">
+		<description>Buck Rogers - Countdown to Doomsday</description>
+		<year>1990</year>
+		<developer>SSI</developer>
+		<variant>Extras</variant>
+		<rom name="Buck Rogers - Countdown to Doomsday (1990) (SSI) - Cluebook.pdf" size="21502640" crc="4579183c" md5="a53cda50023b83f56da048c301e5498c" sha1="5e4211ee6567ed05530ac286c17715e83e13cba0" date="2013-02-11 08:40:36"/>
+		<rom name="Buck Rogers - Countdown to Doomsday (1990) (SSI) - Log Book.pdf" size="22905426" crc="ffa41fb4" md5="254265a4badd03cf82984bef34da86e0" sha1="0e0a3e6311a6e6c6a3a609daa83aab5f6f901192" date="2013-02-11 08:40:12"/>
+		<rom name="Buck Rogers - Countdown to Doomsday (1990) (SSI) - Manual.pdf" size="7996715" crc="b87a896b" md5="0dfe567b52d7ce41b89dc7158fa9fe70" sha1="bfff14ada4321bbcd9872ae6b5842642d7e2737b" date="2013-02-11 08:40:00"/>
+		<rom name="Buck Rogers - Countdown to Doomsday (1990) (SSI) - Quick Reference Card.pdf" size="612630" crc="45b67102" md5="0e0747b43b477ca7dbb5146974d0aeac" sha1="88429cb79e88d981af25f18922d4bcff6c8b786c" date="1996-12-24 19:32:00"/>
+	</game>
+	<game name="Buck Rogers - Matrix Cubed (1992) (SSI) (Extras)">
+		<description>Buck Rogers - Matrix Cubed</description>
+		<year>1992</year>
+		<developer>SSI</developer>
+		<variant>Extras</variant>
+		<rom name="Buck Rogers - Matrix Cubed (1992) (SSI) - Cluebook.pdf" size="20694922" crc="1c5b615a" md5="1da7d97873334f2eb2c4b022e6b78861" sha1="060cbf4e7ff63b4999c6929da2cb09a7f4c8f475" date="2013-02-11 08:42:02"/>
+		<rom name="Buck Rogers - Matrix Cubed (1992) (SSI) - Log Book.pdf" size="24715212" crc="570b43b2" md5="1812704b37da9fbe275929f6139beb37" sha1="f250802a4368b7f7143d9cd51364941815f1cafc" date="2013-02-11 08:41:54"/>
+		<rom name="Buck Rogers - Matrix Cubed (1992) (SSI) - Manual.pdf" size="6776725" crc="6bfb8715" md5="3b840c7fec1b98084eef3e08eaefea9c" sha1="a51d6a20275bcd23fdd4742c9612e80290220480" date="2013-02-11 08:41:24"/>
+		<rom name="Buck Rogers - Matrix Cubed (1992) (SSI) - Quick Reference Card.pdf" size="473867" crc="9278f87d" md5="51f6474078ec7db1a8113dffaa961d9a" sha1="2d56c790c5cd3b57cd33b3a5a56c5b5c59e5aa3e" date="2020-09-01 21:00:20"/>
+	</game>
+	<game name="Crusader - No Regret (1996) (Origin Systems) (Extras)">
+		<description>Crusader - No Regret</description>
+		<year>1996</year>
+		<developer>Origin Systems</developer>
+		<variant>Extras</variant>
+		<rom name="Crusader - No Regret (1996) (Origin Systems) - Install Guide.pdf" size="3479000" crc="3065441c" md5="d6578d2d9bc4bfe4a48362fd035181ee" sha1="7d9a470b8def81946250cc79452da1d34ff47f52" date="2021-07-09 08:13:04"/>
+		<rom name="Crusader - No Regret (1996) (Origin Systems) - Manual.pdf" size="16823592" crc="05d5c7c4" md5="064b4db01562b270840eee0e8392841d" sha1="3d2cbed16f558a09ed7ef3ccb89bf709026996fa" date="2011-11-21 12:27:40"/>
+		<rom name="Crusader - No Regret (1996) (Origin Systems) - Official Player's Guide.pdf" size="49696906" crc="29d7ebf5" md5="ded7c3dab4cded669d10421849cab01f" sha1="bc0f1a7f9937de0cf6413242b8a569c6282cf9d3" date="2012-11-14 08:46:56"/>
+		<rom name="Crusader - No Regret (1996) (Origin Systems) - Quick Reference Card.pdf" size="2193586" crc="83426a4b" md5="74e99cbff2939210250c179e032b8e87" sha1="cdfed01e4da1cc62c1d4b414381ae14550a4d864" date="2011-11-21 12:26:12"/>
+		<rom name="Crusader - No Regret (1996) (Origin Systems) - Topline Newspaper.pdf" size="7449733" crc="58128163" md5="a2c81233e9273ccb6a1f67904dcba1f9" sha1="33bee7d65cb63fd63612ab3c222fd73003cc2f86" date="2011-11-21 12:24:26"/>
+	</game>
+	<game name="Crusader - No Remorse (1995) (Origin Systems) (Extras)">
+		<description>Crusader - No Remorse</description>
+		<year>1995</year>
+		<developer>Origin Systems</developer>
+		<variant>Extras</variant>
+		<rom name="Crusader - No Remorse (1995) (Origin Systems) - Anti-Terrorist Site Security.pdf" size="5556522" crc="3bcc5143" md5="82a79b64f7438d641fdd3da1213de752" sha1="88c9b1877ea1149741c4477aea7f8090dd31e3af" date="2011-11-22 11:37:16"/>
+		<rom name="Crusader - No Remorse (1995) (Origin Systems) - Install Guide.pdf" size="8180039" crc="78754655" md5="1950cb6cc72e7d540b7e9ac17460379e" sha1="87cde05fbf7acf2bbbc9f8e37b256348cdfb3e07" date="2011-02-01 07:07:08"/>
+		<rom name="Crusader - No Remorse (1995) (Origin Systems) - Official Player's Guide.pdf" size="68468051" crc="c7036d19" md5="9e77dea685d913ef216eac9cc3808648" sha1="46fec90c9c94b1b84f82781d490c381897b8e41d" date="2012-11-14 08:50:14"/>
+		<rom name="Crusader - No Remorse (1995) (Origin Systems) - Quick Reference Card.pdf" size="613118" crc="2d40f143" md5="070c1a52525f638d462def3537a7a347" sha1="0b5c64dd32229ceb277ea5616a2cd8dab006c062" date="2011-02-01 07:07:28"/>
+		<rom name="Crusader - No Remorse (1995) (Origin Systems) - Resistance Manual.pdf" size="2700252" crc="113baa13" md5="96c88498231ccd45edab87f42a0a51ff" sha1="345078edb7f53fca6b080f65e60db05f2e6219b3" date="2011-11-22 11:44:36"/>
+		<rom name="Crusader - No Remorse (1995) (Origin Systems) - Topline Newsletter.pdf" size="7382813" crc="58119f50" md5="7d5fc2adb942c51b4ea6348cbbbae132" sha1="66d90f728e911805a703649bb886c86750c615df" date="2011-11-22 11:45:48"/>
+		<rom name="Crusader - No Remorse (1995) - Manual.pdf" size="6906289" crc="c4ede841" md5="62782db498279e599deeb7515e4d2bf7" sha1="4938b1cf53a19bf32deca66f32a027d1e7ba678a" date="2011-11-22 11:39:42"/>
+	</game>
+	<game name="Deja Vu - A Nightmare Comes True (1985) (ICOM Simulations) (Extras)">
+		<description>Deja Vu - A Nightmare Comes True</description>
+		<year>1985</year>
+		<developer>ICOM Simulations</developer>
+		<variant>Extras</variant>
+		<rom name="Deja Vu - A Nightmare Comes True (1985) (ICOM Simulations) - Hint Sheet.pdf" size="2486528" crc="b89f5bdb" md5="a9df6f946bd5883efdd5ae360fb82287" sha1="b7a28b9ec5bca4612032757ea82ab3996a892984" date="2021-11-22 13:45:44"/>
+		<rom name="Deja Vu - A Nightmare Comes True (1985) (ICOM Simulations) - Manual.pdf" size="3513627" crc="2923bf25" md5="7fa1b430511d431b756539ef93870a54" sha1="46aa8e1ec1a336b3b478f1fbe95228306bb39c1e" date="2020-07-09 14:03:44"/>
+	</game>
+	<game name="Deja Vu 2 - Lost in Las Vegas (1988) (ICOM Simulations) (Extras)">
+		<description>Deja Vu 2 - Lost in Las Vegas</description>
+		<year>1988</year>
+		<developer>ICOM Simulations</developer>
+		<variant>Extras</variant>
+		<rom name="Deja Vu 2 - Lost in Las Vegas (1988) (ICOM Simulations) - Hint Book.pdf" size="7588722" crc="57102bab" md5="b697fa6b63d6d3df104c4dbc408fe9c4" sha1="4ef6e3ad19f86d646614eb70fd9a4e62148fe60e" date="2013-02-04 06:33:28"/>
+		<rom name="Deja Vu 2 - Lost in Las Vegas (1988) (ICOM Simulations) - Hintbook Ad.pdf" size="267949" crc="3725ea63" md5="f41bbfc8d1afefff9dd99614ccc5f385" sha1="4d73d15ad5af6972da4d202328b63e8dfaa73796" date="2021-11-22 13:50:14"/>
+		<rom name="Deja Vu 2 - Lost in Las Vegas (1988) (ICOM Simulations) - Manual.pdf" size="5704642" crc="fb4ce452" md5="d1e933d4a3f71c257aff71f99271d385" sha1="47eb0e7fd4323db6b79ccb2ff29c0f346e509455" date="2018-01-29 15:28:28"/>
+		<rom name="Deja Vu 2 - Lost in Las Vegas (1988) (ICOM Simulations) - Reference Card.pdf" size="1507039" crc="a4ed5884" md5="4b010e71e69ac76b85c918b43f1b1c77" sha1="60cc2ac3fc7c317cb9c99bb7b88dd058e416ec22" date="2013-02-04 06:33:20"/>
+		<rom name="Deja Vu 2 - Lost in Las Vegas (1988) (ICOM Simulations) - Registration Card.pdf" size="437087" crc="e6b5237f" md5="731c45485c71f4d908e29aee761e20e7" sha1="e0992d76fabceb6bfa79e6a12a2820395fc7c66b" date="2021-11-22 13:50:10"/>
+	</game>
+	<game name="Fallout (1997) (Interplay) (Extras)">
+		<description>Fallout</description>
+		<year>1997</year>
+		<developer>Interplay</developer>
+		<variant>Extras</variant>
+		<rom name="Fallout (1997) (Interplay) - Errata &amp; Additional Info.pdf" size="61729" crc="e361757f" md5="c63d40654142713e4e1b66187e337743" sha1="bcf1682c51a635c58124344712a72c2de865e394" date="2021-01-20 03:16:48"/>
+		<rom name="Fallout (1997) (Interplay) - Fallout Bible.pdf" size="57486243" crc="610b1b68" md5="d45cd63606566e5449d6b9bd5206b72a" sha1="91963eff1f76306e8eb220c4b1d16ffd139c6a9c" date="2008-10-08 16:05:28"/>
+		<rom name="Fallout (1997) (Interplay) - Manual.pdf" size="32628880" crc="955950ac" md5="49a20513032fa3a22673d9aefb0ed663" sha1="25031d793cd03f93db05816f00550c3e457aa62f" date="2023-08-08 15:47:14"/>
+		<rom name="Fallout (1997) (Interplay) - Official Survival Guide (BradyGames).pdf" size="124177921" crc="21233de3" md5="e1c493b29065a32a1fa0faba8e9c3164" sha1="d1f3e41429ba1b2b6ff54d139c818d93741aae6c" date="2023-05-31 12:53:02"/>
+		<rom name="Fallout (1997) (Interplay) - Quick Reference Card.pdf" size="142383" crc="1c8ce886" md5="9d60ca9e5383a432786cd376b60de700" sha1="e9ae6040bb8c968a7006179a2442fdf42b897550" date="2008-07-22 16:53:50"/>
+		<rom name="Fallout (1997) (Interplay) - VG Maps.pdf" size="1006793" crc="f680a44e" md5="04400715f2f6b2e16965bf04ec8c03ca" sha1="727a8d974ca2acd953e5601793f8fa868eee9416" date="2019-03-27 15:16:22"/>
+	</game>
+	<game name="Flashback - The Quest for Identity (1993) (Delphine) (Extras)">
+		<description>Flashback - The Quest for Identity</description>
+		<year>1993</year>
+		<developer>Delphine</developer>
+		<variant>Extras</variant>
+		<rom name="Flashback - The Quest for Identity (1993) (Delphine) - Alternate Manual.pdf" size="53254304" crc="206c5443" md5="1c9ed903305212c3eb2b776fce3c13f6" sha1="f355a220525b862d7eaaab44cab70423e2543570" date="2020-12-14 04:01:16"/>
+		<rom name="Flashback - The Quest for Identity (1993) (Delphine) - Manual.pdf" size="2597794" crc="5a73c7bd" md5="06364d4ccb8c4b278c40fb7aa373ee0b" sha1="1f99830e33572334cc9151b9f7a045f204f57f33" date="2018-09-10 15:06:16"/>
+		<rom name="Flashback - The Quest for Identity (1993) (Delphine) - VG Maps.pdf" size="1650999" crc="ba7428a1" md5="8315e3d926b28ba428839b8255a22462" sha1="dca23545d6448654bb64648b90139c6d337e1ac4" date="2019-03-27 15:20:32"/>
+	</game>
+	<game name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) (Extras)">
+		<description>I Have No Mouth and I Must Scream</description>
+		<year>1995</year>
+		<developer>Cyberdreams</developer>
+		<variant>Extras</variant>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - Addendum.pdf" size="172943" crc="00660e50" md5="63879c399f23cff7ca74af1067805c33" sha1="d16acd52b105f9d72ce3cd85aade31567452f4cc" date="2023-04-11 07:02:24"/>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - Comic Book.pdf" size="18266928" crc="7a037278" md5="3f3ebf6407a0ade1868bfea0501b16bb" sha1="cc719158aede50778d713583ef44d3e3d57440c0" date="2023-04-11 06:30:50"/>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - Cyberdreams Advert Flyer.pdf" size="1067852" crc="d8992a98" md5="f9311c87053d80af6d661a6286a4e9bf" sha1="8daff17e56cb01ab4aa966382812ee63fba8610d" date="2023-04-11 07:03:40"/>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - HR Giger Order Flyer.pdf" size="390824" crc="3d53128f" md5="5972b303f4651e09123ee34843c0cf1d" sha1="c25faf1bf01ca007bfdfd66b68682076b727c3b7" date="2023-04-11 07:04:08"/>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - Manual.pdf" size="35062454" crc="aa46ca3c" md5="50841289f2dd14eaa5a5e61612c33d6e" sha1="7016cab5816cbb2a82a19212c21d8d6d3b3b710a" date="2023-04-11 07:00:46"/>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - Mouse Pad.pdf" size="428305" crc="664d9d38" md5="c6d129fa5f77a46ff8812d77490e51d9" sha1="6a08945a8e4a6cb4af087cf6cf941240ce87dbe4" date="2023-04-11 07:04:36"/>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - Official Guide Order Card.pdf" size="660969" crc="6cb47a03" md5="39d134c04635f26779206ae6446927c8" sha1="a2c1272426d948e1087e81e3094f5af215541392" date="2023-04-11 07:03:02"/>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - Official Strategy Guide.pdf" size="64458525" crc="a4208528" md5="9a8f4bc7418eade035c986274e7fca0c" sha1="17fb720a9ffad422df7e08db5835a35c245b5a9f" date="2019-10-07 00:17:48"/>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - Registration Card.pdf" size="559307" crc="ebbb5070" md5="f2472ac0d81c6e7377e1a9c7cd9fbbf3" sha1="23c67ca2f2b90f27a273b3081f54f273268f5a59" date="2023-04-11 07:01:52"/>
+		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - VG Maps.pdf" size="1412540" crc="ebe5497f" md5="aafdfc12e69441d4ba0c9e2011755e29" sha1="5aceabd01492a060ad9d81363515d9054bfdb989" date="2019-03-28 08:38:26"/>
+	</game>
+	<game name="King's Quest Collection (1994) (Sierra On-Line) (Extras)">
+		<description>King's Quest Collection</description>
+		<year>1994</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Extras</variant>
+		<rom name="King's Quest I - Quest for the Crown (1984) (Sierra On-Line) - The King's Quest Companion - Third Edition.pdf" size="137810552" crc="651f822b" md5="c90b7a223e03312f9958535a2189a3d9" sha1="f8e02c1ef7b2a73bcf517056727551abada5236f" date="2020-06-24 10:28:56"/>
+		<rom name="King's Quest I - Quest for the Crown (1984) (Sierra On-Line) - The Official Book of King's Quest.pdf" size="28760952" crc="37035ba7" md5="651938c8390cf65b593b5b0b3f8192ff" sha1="8441e22649d84c4df3f4d3e40f3dc01d7d5084e5" date="2021-06-16 14:59:40"/>
+		<rom name="King's Quest VII - The Princeless Bride (1994) (Sierra On-Line) - King's Quest Companion 4th Edition.pdf" size="349419081" crc="e7cd7f30" md5="24762dd7651fce43238d70506ea4a8f5" sha1="941cca3e0a5f1a68b2246fbae542296bdf317628" date="2022-07-08 08:35:34"/>
+	</game>
+	<game name="King's Quest I - Quest for the Crown (1984) (Sierra On-Line) (Extras)">
+		<description>King's Quest I - Quest for the Crown</description>
+		<year>1984</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Extras</variant>
+		<rom name="King's Quest I - Quest for the Crown (1984) (Sierra On-Line) - Hint Map.pdf" size="396138" crc="5f023009" md5="9bac7eebc3fb2e163b40e95986fd6805" sha1="60b7aef7ecf82ba6c42db6195d7003ac120cbcb5" date="2018-01-30 15:37:34"/>
+		<rom name="King's Quest I - Quest for the Crown (1984) (Sierra On-Line) - Keyboard Overlay.pdf" size="148260" crc="793b04d1" md5="3c8a629f520b6b2b95afd5921e1e8ded" sha1="2dc34e63814a11795a99fc3c93b05e99c57f9454" date="2020-06-24 16:57:46"/>
+		<rom name="King's Quest I - Quest for the Crown (1984) (Sierra On-Line) - Manual.pdf" size="8230955" crc="5322cb45" md5="8c053c731aca552a6cd96187dca09feb" sha1="6e833979bfaa8450e2e0951f2849e54d3f264ef8" date="2018-01-30 15:26:06"/>
+		<rom name="King's Quest I - Quest for the Crown (1987) (Sierra On-Line) - Hint Book.pdf" size="6371570" crc="8b7df912" md5="b80f9595277e0bed736492a6fecb9797" sha1="44e5f85a59dc115070bbf87abd2a0824bb8eab00" date="2013-01-09 07:08:14"/>
+		<rom name="King's Quest I - Quest for the Crown (1987) (Sierra On-Line) - Manual.pdf" size="4261370" crc="2fe916ed" md5="0ffa58fd8ae21c9b967a4c9e3aa1e1f8" sha1="e41a8d1b9d148b2329440871488a94be2354688d" date="2018-01-30 15:26:40"/>
+		<rom name="King's Quest I - Quest for the Crown (1987) (Sierra On-Line) - VG Maps.pdf" size="298441" crc="4eae5c84" md5="ef07cfabb09a18da6c396f596ba707ff" sha1="26a0577b6c6722c819ed2b80fc45e73c9465f7e8" date="2019-03-27 14:43:10"/>
+		<rom name="King's Quest I - Quest for the Crown (2001) (Sierra On-Line) - Manual.pdf" size="4371872" crc="815c6ee8" md5="10c2d70e75ba6376334acf5d0f656d00" sha1="512a7d84bdc31f380264b22e1ee055ae867c2280" date="2018-08-22 12:20:44"/>
+		<rom name="King's Quest I - Quest for the Crown SCI (1990) (Sierra On-Line) - King's Quest Novel 1 -The Floating Castle.pdf" size="48595421" crc="b788c3ac" md5="e024ae3d2ba05636fe6dda15977dc642" sha1="2edcaa7ff22310ff0bc153a48ad41a81b8926242" date="2019-09-17 12:50:42"/>
+		<rom name="King's Quest I - Quest for the Crown SCI (1990) (Sierra On-Line) - King's Quest Novel 2 - Kingdom Of Sorrow.pdf" size="55182929" crc="0927ea23" md5="faa7facf076733d0dbf6aace9373a33e" sha1="561c86402b9d9d6eb48a675757da50a9700acc05" date="2019-09-17 12:38:32"/>
+		<rom name="King's Quest I - Quest for the Crown SCI (1990) (Sierra On-Line) - King's Quest Novel 3 - See No Weevil.pdf" size="42341815" crc="fc56db3c" md5="028a6d4148f2e589973fa04a8d8ff66c" sha1="c8520050699bd2f08673fc5afd97a45f4fce2933" date="2019-09-17 12:40:08"/>
+		<rom name="King's Quest I - Quest for the Crown SCI (1990) (Sierra On-Line) - VG Maps.pdf" size="634512" crc="b841be82" md5="4f6c65a5a69e56920101d0be785cb77a" sha1="1df85aa3b2c47ceb04aa84fc15b2bf2d2f9de358" date="2019-03-27 14:43:36"/>
+	</game>
+	<game name="King's Quest II - Romancing the Throne (1987) (Sierra On-Line) (Extras)">
+		<description>King's Quest II - Romancing the Throne</description>
+		<year>1987</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Extras</variant>
+		<rom name="King's Quest II - Romancing the Stones (2002) (Sierra On-Line) - Manual.pdf" size="5771113" crc="a5c4f48d" md5="d8c284bee2c0551c0f7221ba251ce69a" sha1="473fe8c8f2b5ca2dffd5a20681b2d84ad9757579" date="2018-08-22 12:20:44"/>
+		<rom name="King's Quest II - Romancing the Throne (1985) (Sierra On-Line) - Manual.pdf" size="4002315" crc="31b95871" md5="438d49bd7de51cf41a03b57561d9e03e" sha1="a779d3275032ac7ffdb3253b5bc8a22d3a3ee42c" date="2018-01-30 15:29:34"/>
+		<rom name="King's Quest II - Romancing the Throne (1987) (Sierra On-Line) - Hint Book.pdf" size="7589193" crc="088e1684" md5="27c2c926cae743cc74d41a76e46d1bdf" sha1="53fbe246ab226dc696b764f7c747978b872e8cd0" date="2018-01-30 15:39:50"/>
+		<rom name="King's Quest II - Romancing the Throne (1987) (Sierra On-Line) - VG Maps.pdf" size="420750" crc="abf74523" md5="2deeedfff613a55a97e0c9bde3001b28" sha1="0ddcad2ff87de456859966d8595ec98ea6b0de26" date="2019-03-27 14:44:10"/>
+	</game>
+	<game name="King's Quest III - To Heir is Human (1986) (Sierra On-Line) (Extras)">
+		<description>King's Quest III - To Heir is Human</description>
+		<year>1986</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Extras</variant>
+		<rom name="King's Quest III - To Heir is Human (1986) (Sierra On-Line) - Copy Protection.jpg" size="130914" crc="af3be312" md5="da02691708b2166a18f95df002165ae5" sha1="e40642a91f286da6c47b6dcfe1e67a111389781f" date="2013-02-08 01:11:46"/>
+		<rom name="King's Quest III - To Heir is Human (1986) (Sierra On-Line) - Hint Book.pdf" size="8033709" crc="6a06fecf" md5="33a2a496588337add58f7a0b56bed363" sha1="72e23a1ff974e73d601883f0a63414df7a96c8be" date="2018-01-30 15:40:50"/>
+		<rom name="King's Quest III - To Heir is Human (1986) (Sierra On-Line) - Manual.pdf" size="4930387" crc="9824f61a" md5="924e7ac5f14761db3109c5c29766a672" sha1="cc39a626edd1d19477eba8dbdb86c942eedc6011" date="2018-01-30 15:28:00"/>
+		<rom name="King's Quest III - To Heir is Human (1986) (Sierra On-Line) - VG Maps.pdf" size="289438" crc="9c9d636b" md5="3bee5b62ef2cfe3d6af75b08a88c1343" sha1="2e661d883c8ef6eb3977dd756afb446c330bdb7f" date="2019-03-27 14:44:40"/>
+	</game>
+	<game name="King's Quest IV - The Perils of Rosella (1988) (Sierra On-Line) (Extras)">
+		<description>King's Quest IV - The Perils of Rosella</description>
+		<year>1988</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Extras</variant>
+		<rom name="King's Quest IV - The Perils of Rosella (1988) (Sierra On-Line) - Copy Protection Answers.jpg" size="78114" crc="fcc6ad4a" md5="892785ee8602e3e174db044abf9e5b13" sha1="7461c720c122dea895cfadcaaf570ea5aeb7be69" date="2018-01-30 15:41:40"/>
+		<rom name="King's Quest IV - The Perils of Rosella (1988) (Sierra On-Line) - Hint Book.pdf" size="8650223" crc="8b92dd40" md5="18ea9f700e8235221fb97582d2b745f8" sha1="f86470d43443a88e3588b15c772df394744208c3" date="2018-01-30 15:41:46"/>
+		<rom name="King's Quest IV - The Perils of Rosella (1988) (Sierra On-Line) - Manual.pdf" size="4586900" crc="89843652" md5="fd8f18ba5a44043844bf53a789f23b00" sha1="cf6e6c6b969a7c21cc343fe323af28de00b6b928" date="2018-01-30 15:27:34"/>
+		<rom name="King's Quest IV - The Perils of Rosella (1988) (Sierra On-Line) - VG Maps.pdf" size="846828" crc="17313e11" md5="3713a8e38f02d48b140a9d9e83229a65" sha1="473eb0f47a00cf6da91464cfcc0ee9105051541b" date="2019-03-27 14:46:42"/>
+	</game>
+	<game name="King's Quest V - Absence Makes the Heart Go Yonder (1990) (Sierra On-Line) (Extras)">
+		<description>King's Quest V - Absence Makes the Heart Go Yonder</description>
+		<year>1990</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Extras</variant>
+		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (1990) (Sierra On-Line) - CD-ROM Version Manual.pdf" size="3830928" crc="ce929a38" md5="9c2c67da391caac57a99878ef007dbbf" sha1="a7950c9655671d4a9a93723921db7ad20d50d078" date="2020-06-24 16:59:38"/>
+		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (1990) (Sierra On-Line) - Copy Protection Code.jpg" size="14565" crc="c974f075" md5="bb367ac8617c2a7e60e9cd92bf93917b" sha1="db518264ed5773d07ba16391f73743a868dfde79" date="2018-01-30 15:42:52"/>
+		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (1990) (Sierra On-Line) - EGA Reference Card.pdf" size="561775" crc="c475dc95" md5="b82ca6c88e2c05d55be4b62bf53dfe81" sha1="6211e31e6dffa8111948a6893cfd8ee74f62b596" date="2020-06-24 16:59:06"/>
+		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (1990) (Sierra On-Line) - Hint Book.pdf" size="9875415" crc="466711a8" md5="c1a829f99081a3fe2454f18c73d3f8c6" sha1="1c864fdd21b21605cf2d60832886d293284f5032" date="2018-01-30 15:43:02"/>
+		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (1990) (Sierra On-Line) - King's Quest V Manual (1st Version).pdf" size="9545942" crc="8fa51ad6" md5="4dcc76c9a73e1e000706facf1d858a2f" sha1="edabdd41c33fbf76778c3d6bfcd38489804ee9c3" date="2020-06-24 10:01:40"/>
+		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (1990) (Sierra On-Line) - Manual Addendum for CD-ROM Version.pdf" size="498635" crc="30b4dab9" md5="618e8325715efed24413f735a5bda924" sha1="3b8ac6ef7f6adaf0187cdfff8bc08f4587ff278b" date="2021-03-21 04:29:14"/>
+		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (1990) (Sierra On-Line) - Manual.pdf" size="8999049" crc="ea2c09a0" md5="2abaa8c1305cd79f0b13bf42efafcd54" sha1="230cb015eb6b8c9b6cc655ab0b01fd4d8f1c1730" date="2018-01-30 15:31:26"/>
+		<rom name="King's Quest V - Absence Makes the Heart Go Yonder (1990) (Sierra On-Line) - VG Maps.pdf" size="1489030" crc="bc6a0661" md5="9cba8d0dc24b3841196550979c71806f" sha1="101b7db34d471aeeee1cbec3fef6398496e1757c" date="2019-03-27 14:47:38"/>
+	</game>
+	<game name="King's Quest VI - Heir Today Gone Tomorrow (1992) (Sierra On-Line) (Extras)">
+		<description>King's Quest VI - Heir Today Gone Tomorrow</description>
+		<year>1992</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Extras</variant>
+		<rom name="King's Quest VI - Heir Today Gone Tomorrow (1992) (Sierra On-Line) - CD FAQ.pdf" size="480207" crc="ba718868" md5="1d46c2735cc798c487584abdb56192c2" sha1="3def23e96730a9b9dba5426839f8cf14c157a825" date="2020-06-24 17:03:40"/>
+		<rom name="King's Quest VI - Heir Today Gone Tomorrow (1992) (Sierra On-Line) - CD-ROM Version Manual (Alt).pdf" size="2146483" crc="ef5e6283" md5="15acaa66c3feb22622097bb8fb963e76" sha1="bbf535985dc986fb1d6b0d22769c22d7afb04533" date="2020-06-24 17:04:22"/>
+		<rom name="King's Quest VI - Heir Today Gone Tomorrow (1992) (Sierra On-Line) - CD-ROM Version Manual.pdf" size="5274131" crc="504bdc13" md5="52fc2b34715fad62fc777bb7f513c6b6" sha1="1925f14ecf60a535ae17bbaaa3c50cb19d626aaf" date="2020-06-24 17:03:12"/>
+		<rom name="King's Quest VI - Heir Today Gone Tomorrow (1992) (Sierra On-Line) - Hint Book.pdf" size="22671793" crc="6c03a7ba" md5="9b3b25c18e9b136daf5913166d507974" sha1="5017352e32e0fc35a67b43f9d5ed2172d41b2a52" date="2013-02-08 01:08:28"/>
+		<rom name="King's Quest VI - Heir Today Gone Tomorrow (1992) (Sierra On-Line) - Manual.pdf" size="14350618" crc="834fa3e4" md5="5aaefc88d210e7c069aea34f9daf5916" sha1="71ce6b79190bdaacc5889508aacc669ed360ad0c" date="2018-01-30 15:30:42"/>
+		<rom name="King's Quest VI - Heir Today Gone Tomorrow (1992) (Sierra On-Line) - Radio Station List (for requesting Girl in the Tower).pdf" size="3306409" crc="7e60eca8" md5="7dabf9874dc488b580ca9c5872de9bf5" sha1="849aec9edd7fb57ba99e97206c883872a823a576" date="2020-06-24 17:02:40"/>
+		<rom name="King's Quest VI - Heir Today Gone Tomorrow (1992) (Sierra On-Line) - Technical Manual.pdf" size="3348945" crc="6ee58d4e" md5="244a084db0f1bdba1d50b92f83f8688e" sha1="4d25e5e1dbbc9410b7f0edb894b0f1461fb2f2e2" date="2020-06-24 17:01:54"/>
+		<rom name="King's Quest VI - Heir Today Gone Tomorrow (1992) (Sierra On-Line) - VG Maps.pdf" size="1612776" crc="0129ec09" md5="2cff5bb0b7391110d5e832e6fe8d342c" sha1="9afdeb6140cf57e8045e955e42fe90ee706a4900" date="2019-03-27 14:50:44"/>
+	</game>
+	<game name="King's Quest VII - The Princeless Bride (1994) (Sierra On-Line) (Extras)">
+		<description>King's Quest VII - The Princeless Bride</description>
+		<year>1994</year>
+		<developer>Sierra On-Line</developer>
+		<variant>Extras</variant>
+		<rom name="King's Quest VII - The Princeless Bride (1994) (Sierra On-Line) - Getting Started Hints.pdf" size="1768191" crc="bf292155" md5="368ba6372dee341ad763a1c27b83fdd3" sha1="49889828da41e04dff1ed97675a64b5d9a145904" date="2018-01-30 15:47:40"/>
+		<rom name="King's Quest VII - The Princeless Bride (1994) (Sierra On-Line) - Hint Book &amp; Interviews.pdf" size="11525612" crc="b94f7965" md5="65cd21e37387b2085d95144d3821b5e7" sha1="3042cf69691dc7f156035dd3417fa920149e4fbb" date="2018-01-30 15:47:02"/>
+		<rom name="King's Quest VII - The Princeless Bride (1994) (Sierra On-Line) - Manual.pdf" size="2984407" crc="f7a523d0" md5="5bb09e2cef3a69de7180fd5d9fba7265" sha1="95ce32ebc36df5ff6eb0412cc3fec6c41756f64f" date="2010-05-15 08:31:28"/>
+		<rom name="King's Quest VII - The Princeless Bride (1994) (Sierra On-Line) - Unauthorized Strategy Guide (Prima).pdf" size="220460945" crc="352a59a2" md5="d2570dff7a25d99dddc239382d1d4944" sha1="8c89a808e271c415dfca7fcfe4bc66760fced91d" date="2023-05-15 15:38:12"/>
+		<rom name="King's Quest VII - The Princeless Bride (1994) (Sierra On-Line) - VG Maps.pdf" size="3796324" crc="ffe9ae50" md5="59c26f997873672d8b8f43989c407869" sha1="23aa17df3840a86dfd61212d3d28e9d2b482e439" date="2019-03-27 14:51:30"/>
+	</game>
+	<game name="Neuromancer (1988) (Interplay) (Extras)">
+		<description>Neuromancer</description>
+		<year>1988</year>
+		<developer>Interplay</developer>
+		<variant>Extras</variant>
+		<rom name="Neuromancer (1988) (Interplay) - Hint Book.pdf" size="15849136" crc="cf196c1b" md5="13b2d0dcddd69478150c4b7e86ce1fb4" sha1="43acc380a67c2dc159b69726adf53f657404ef31" date="2013-02-16 01:17:30"/>
+		<rom name="Neuromancer (1988) (Interplay) - Interactive Code Wheel.HTM" size="3462005" crc="9935ba98" md5="a3b19c011853fba5675c70a543aa8008" sha1="f06679e18931fec6a5f716122eec7a32de0648af" date="2020-07-03 23:00:30"/>
+		<rom name="Neuromancer (1988) (Interplay) - Manual.pdf" size="8885891" crc="51d369b6" md5="919ff0c50eaa153cd327878119a7d3a5" sha1="debf4490e7c1c79a62a5969af1dd545b167ff219" date="2018-01-31 14:09:34"/>
+	</game>
+	<game name="Out of This World (1991) (Delphine) (Extras)">
+		<description>Out of This World</description>
+		<year>1991</year>
+		<developer>Delphine</developer>
+		<variant>Extras</variant>
+		<rom name="Out of This World (1991) (Delphine) - CD Version Manual.pdf" size="1342316" crc="174dad94" md5="4788f4a3ee8cb9e78602fd9745676913" sha1="2b137db5cd5ba9af2c5479ace71b1fe866adba28" date="2013-04-25 15:09:04"/>
+		<rom name="Out of This World (1991) (Delphine) - Interactive Code Wheel.HTM" size="2985874" crc="871fd338" md5="406f2840d861e81af193d03c25d8b96e" sha1="1f2c70a7416781d8f6aca37a57ffd9348f552d1f" date="2018-02-11 12:44:28"/>
+		<rom name="Out of This World (1991) (Delphine) - Manual.pdf" size="24996794" crc="c63b40cc" md5="c183c9edd5f56aabf21cfc14cddb266c" sha1="0c2503f2a557523a85b0043b82b27867da64b82b" date="2021-07-08 08:44:52"/>
+		<rom name="Out of This World (1991) (Delphine) - Quick Reference Card.pdf" size="488630" crc="d91410b7" md5="d9b8c45c03b856404bd8b732116f1db7" sha1="4b2fb0b0c7c212e48e3e41f81b3c1fd81137d262" date="2021-05-02 08:29:52"/>
+	</game>
+	<game name="Rise of the Triad - Dark War (1994) (Apogee) (Extras)">
+		<description>Rise of the Triad - Dark War</description>
+		<year>1994</year>
+		<developer>Apogee</developer>
+		<variant>Extras</variant>
+		<rom name="Rise of the Triad - Dark War (1994) (Apogee) - Command Card.pdf" size="657928" crc="51ef02f1" md5="743951627495c55f0cb2ee19b26ce233" sha1="04db96a05338912e6c13c11f20035df94fc92437" date="2018-09-10 15:11:08"/>
+		<rom name="Rise of the Triad - Dark War (1994) (Apogee) - Manual.pdf" size="9298055" crc="cc9a1166" md5="e54d21e8381f65744a19d6a26c5c3f0c" sha1="731cae95c684fef08b060b5da2479c945ef19b2e" date="2020-06-30 13:07:32"/>
+		<rom name="Rise of the Triad - Dark War (1994) (Apogee) - VG Maps - Episode 1.pdf" size="21554388" crc="0268fda2" md5="b79c2a22c30b937302fff0dd1d568bb8" sha1="db128fa59dfab4a7f8700e9bad7d639f0e437d49" date="2019-03-28 10:57:34"/>
+		<rom name="Rise of the Triad - Dark War (1994) (Apogee) - VG Maps - Episode 2.pdf" size="23621534" crc="134b6133" md5="b98b34f7d5a77996a38a0dfd5daacdcf" sha1="521666ba80906db08518eb93cd27473ac13e3d40" date="2019-03-28 10:58:28"/>
+		<rom name="Rise of the Triad - Dark War (1994) (Apogee) - VG Maps - Episode 3.pdf" size="26002516" crc="20675556" md5="039491eb80950cc926390a69a0e71a0a" sha1="4168a7a881f43d9e038bffc9b02efd5f15ef35ba" date="2019-03-28 10:59:50"/>
+		<rom name="Rise of the Triad - Dark War (1994) (Apogee) - VG Maps - Episode 4.pdf" size="30244187" crc="75628961" md5="c8fcc4a3c82855f746615afa37f3d59b" sha1="c07bffee3ab68e904011dfab567de69c3666c2ed" date="2019-03-28 11:00:56"/>
+		<rom name="Rise of the Triad - The Hunt Begins (Deluxe Edition) (1995) (Apogee) - Command Card.pdf" size="657928" crc="51ef02f1" md5="743951627495c55f0cb2ee19b26ce233" sha1="04db96a05338912e6c13c11f20035df94fc92437" date="2018-09-10 15:11:08"/>
+		<rom name="Rise of the Triad - The Hunt Begins (Deluxe Edition) (1995) (Apogee) - Manual.pdf" size="9502980" crc="905d51ae" md5="9d79fed8b73b0feb8addec2b7b7055ef" sha1="efbf9ac89158895cd4bfaabcf0906304825677de" date="2020-06-26 01:39:24"/>
+		<rom name="Rise of the Triad - The Hunt Begins (Deluxe Edition) (1995) (Apogee) - VG Maps.pdf" size="24064657" crc="9675a311" md5="ef2d0eaec4eec650f530cd09e1649721" sha1="0f6b7fb5ec66ebcbd9b7c671b7b732e3e2062ac7" date="2019-03-28 11:07:24"/>
+	</game>
+	<game name="Shadowgate (1987) (ICOM Simulations) (Extras)">
+		<description>Shadowgate</description>
+		<year>1987</year>
+		<developer>ICOM Simulations</developer>
+		<variant>Extras</variant>
+		<rom name="Shadowgate (1987) (ICOM Simulations) - Hint Book.pdf" size="10978590" crc="aa1ef594" md5="2d54a6abba63a3e1e42ef6733a1599b9" sha1="3f4b61fb61e05fd22e991e9f3ec31fe91d33afe0" date="2020-07-26 06:16:34"/>
+		<rom name="Shadowgate (1987) (ICOM Simulations) - Hint Comic.pdf" size="41917432" crc="87d24cfc" md5="09c8be45e2bb5ead82faa16ab49caeec" sha1="5c345479b9e697a27626eb763e0526f6a754b01f" date="2014-09-16 03:17:38"/>
+		<rom name="Shadowgate (1987) (ICOM Simulations) - Manual.pdf" size="5057422" crc="71b1999e" md5="d7420e07eea184da1ff69517ad8e7dd9" sha1="2d5044c95ed6c165e05fdbdb6976baaefe0f7a54" date="2018-02-01 10:18:30"/>
+	</game>
+	<game name="Star Control (1990) (Toys for Bob) (Extras)">
+		<description>Star Control</description>
+		<year>1990</year>
+		<developer>Toys for Bob</developer>
+		<variant>Extras</variant>
+		<rom name="Star Control (1990) (Toys for Bob) - CD Version Manual.pdf" size="358240" crc="1266be0a" md5="bebcbc4731a1e802fe3ddd6bb2422e72" sha1="35c76bb7f7e82a555c00c5383191ce4b14e12b8e" date="2011-04-03 17:53:08"/>
+		<rom name="Star Control (1990) (Toys for Bob) - Interactive Code Wheel.HTM" size="6642293" crc="3dadfc5a" md5="0cb8beef092cfa867ac5087b5d9c0ebc" sha1="10c63aee59e6af0f72be4a75a82c102f5cef448f" date="2021-06-06 10:31:48"/>
+		<rom name="Star Control (1990) (Toys for Bob) - Manual.pdf" size="27912835" crc="93f2f3a7" md5="422545eb55417dea365698be63f21a39" sha1="e4c51ec311bd52347b1d9cc99460cb986490ad74" date="2020-06-28 09:48:46"/>
+	</game>
+	<game name="Star Control II (1992) (Toys for Bob) (Extras)">
+		<description>Star Control II</description>
+		<year>1992</year>
+		<developer>Toys for Bob</developer>
+		<variant>Extras</variant>
+		<rom name="Star Control II (1992) (Toys for Bob) - Addendum.pdf" size="1811955" crc="369a8695" md5="430aa0abb4031ad18e1aee1b458e8fd5" sha1="f902083628845571f17cb9b54ed5550df8dd4d80" date="2020-06-28 10:12:10"/>
+		<rom name="Star Control II (1992) (Toys for Bob) - CD Version Manual.pdf" size="1361505" crc="2b2e5120" md5="00996a0b8727d2228e531d15696e870c" sha1="989f6a2f3e21d61b38cdd923be0cc5c6ade0fcb8" date="2018-08-22 08:02:50"/>
+		<rom name="Star Control II (1992) (Toys for Bob) - Manual.pdf" size="46690394" crc="6db2493f" md5="9539342e2e8eb7b3b73b808aaf3dad9f" sha1="5c8840a2f948845b90c8cfdd103f02972b21abc8" date="2020-01-07 11:24:50"/>
+		<rom name="Star Control II (1992) (Toys for Bob) - Map Scan 1.jpg" size="480475" crc="5dcbac78" md5="e8848c7c5aa145b41f3d4b218fea2219" sha1="e44ca47c62d81228a5a12ab692dd3e122c979508" date="2023-05-28 05:06:40"/>
+		<rom name="Star Control II (1992) (Toys for Bob) - Map Scan 2.jpg" size="1375101" crc="f0a033a8" md5="65601b0fe8b3858cea2dd445c55ee884" sha1="f30e7a22dc3b6b1a3697c9a574b6750fc56d2374" date="2023-05-28 05:01:54"/>
+		<rom name="Star Control II (1992) (Toys for Bob) - Map.pdf" size="1274500" crc="3a673206" md5="910b4dde4532eb3e0639f4eba7a7e0bc" sha1="b47616b428d33e54c25003be066af3c87887fb0b" date="2020-06-28 11:17:30"/>
+		<rom name="Star Control II (1992) (Toys for Bob) - Role Playing Resource Guide.pdf" size="28038339" crc="b3c9aa87" md5="980629c20c468c89f1e41be88f0d4424" sha1="6e09004012e09658da8cdbb9f82ba33a6286d971" date="2023-05-28 15:35:30"/>
+	</game>
+	<game name="Syndicate Plus (1994) (Bullfrog Productions) (Extras)">
+		<description>Syndicate Plus</description>
+		<year>1994</year>
+		<developer>Bullfrog Productions</developer>
+		<variant>Extras</variant>
+		<rom name="Syndicate Plus (1994) (Bullfrog Productions) - American Revolt Manual.pdf" size="3493708" crc="493c4609" md5="7e94654f5dbed224b3bc39fe725ed678" sha1="c17de02bff7ecb9dd708f79b1c047d7ef2641dc2" date="2020-07-23 03:54:12"/>
+		<rom name="Syndicate Plus (1994) (Bullfrog Productions) - Hit Squad Release Manual.pdf" size="3597608" crc="b1488d00" md5="d563300189740754bada158c44fe5eb7" sha1="e3ceb5185ff0800c1b833b8233b39f45f972965c" date="2020-07-13 07:04:10"/>
+		<rom name="Syndicate Plus (1994) (Bullfrog Productions) - Manual.pdf" size="573725" crc="33cce1f0" md5="b67f62726df0fed50cae6eb057675f27" sha1="4c26ceea318b2b24282738f0b2a2a2996fff779f" date="2008-04-12 22:00:02"/>
+		<rom name="Syndicate Plus (1994) (Bullfrog Productions) - Reference Card.pdf" size="2471949" crc="7a8096c1" md5="e8f4bcb90cf938ab0d27e1014fe53534" sha1="793ace975b649fd90db9a49f2edf36b678b762ee" date="2016-07-18 08:19:10"/>
+	</game>
+	<game name="Terminator 2029, The - Deluxe CD Edition (1994) (Bethesda) (Extras)">
+		<description>Terminator 2029, The - Deluxe CD Edition</description>
+		<year>1994</year>
+		<developer>Bethesda</developer>
+		<variant>Extras</variant>
+		<rom name="Terminator 2029, The - Deluxe CD Edition (1994) (Bethesda) - Hints.pdf" size="1569816" crc="e002903c" md5="7217d6c990e9c861f52a3ec071ae0faf" sha1="5a35137abbd61f36307ae1e5580976e10c8cc125" date="2020-01-13 10:40:14"/>
+		<rom name="Terminator 2029, The - Deluxe CD Edition (1994) (Bethesda) - Manual.pdf" size="9877884" crc="bc7fbd09" md5="835b4e565c2d32c504b9f09cedf6da91" sha1="d9bc52fe399cb1efecadcd6b290f2e05627dba61" date="2020-01-13 10:38:00"/>
+	</game>
+	<game name="Terminator, The - Future Shock (1995) (Bethesda) (Extras)">
+		<description>Terminator, The - Future Shock</description>
+		<year>1995</year>
+		<developer>Bethesda</developer>
+		<variant>Extras</variant>
+		<rom name="Terminator, The - Future Shock (1995) (Bethesda) - Manual.pdf" size="19159209" crc="f6c0a933" md5="11de976452675c5efe2d41d8a77fe7bc" sha1="0caf26a06d9c52d1d990812b3534c0deae5d30df" date="2010-04-01 04:39:22"/>
+		<rom name="Terminator, The - Future Shock (1995) (Bethesda) - Reference Card.pdf" size="1576833" crc="d855ddb1" md5="44c75298516d09d5ce94e7e57975b9d5" sha1="04346863c627b06922d03bbbfd2a09a17d3e8f1d" date="2010-04-01 04:39:20"/>
+	</game>
+	<game name="Terminator, The - Rampage (1993) (Bethesda) (Extras)">
+		<description>Terminator, The - Rampage</description>
+		<year>1993</year>
+		<developer>Bethesda</developer>
+		<variant>Extras</variant>
+		<rom name="Terminator, The - Rampage (1993) (Bethesda) - Manual.pdf" size="6803418" crc="6681ecbd" md5="7a7c36fbd2403c0baa333e366b52fbb6" sha1="d9fd7f80ea9432df3c51ca74eaa2328bb83f2e27" date="2018-09-10 15:11:28"/>
+	</game>
+	<game name="Terminator, The - SkyNET (1996) (Bethesda) (Extras)">
+		<description>Terminator, The - SkyNET</description>
+		<year>1996</year>
+		<developer>Bethesda</developer>
+		<variant>Extras</variant>
+		<rom name="Terminator, The - SkyNET (1996) (Bethesda) - Manual.pdf" size="63775555" crc="519e672d" md5="7be5b6c6402623751a2270e9e2a5360a" sha1="cbfd20a363ee907934ce95fda3d761c36d072947" date="2020-02-13 12:39:58"/>
+		<rom name="Terminator, The - SkyNET (1996) (Bethesda) - Reference Card.pdf" size="634895" crc="40c69886" md5="6f3447eb52808090a0d64dbaab0af527" sha1="4bb7a930a107b0e0644ef9017f39e18328dfca57" date="2020-02-13 12:39:04"/>
+	</game>
+	<game name="Terminator, The (1991) (Bethesda) (Extras)">
+		<description>Terminator, The</description>
+		<year>1991</year>
+		<developer>Bethesda</developer>
+		<variant>Extras</variant>
+		<rom name="Terminator, The (1991) (Bethesda) - Manual.pdf" size="22625740" crc="1d73e395" md5="6032532b76923857d7777f49a9f5c97f" sha1="aa58fb897b8c3e9e1b8b76f90701281e394e3846" date="2021-03-30 06:20:40"/>
+		<rom name="Terminator, The (1991) (Bethesda) - Map.jpg" size="1977640" crc="762397c1" md5="e3855dec045d954507ee66d1f984055f" sha1="fa997d09054a9ae0c28e565f433136748114238b" date="2021-03-30 06:14:36"/>
+		<rom name="Terminator, The (1991) (Bethesda) - Reference Card.pdf" size="1441397" crc="7d52515b" md5="9b3044bcbde99229c44daffe54a713e8" sha1="9ad9a6fcbf40dbf3d7d84cee1c31a29d3252f582" date="2021-03-30 06:21:00"/>
+		<rom name="Terminator, The (1991) (Bethesda) - Security Chart.pdf" size="824005" crc="925b2a5e" md5="418f4cb449040a375d24634e1de76533" sha1="2b8d8c8699d3676ee84b294cb015bfebfcce0276" date="2021-03-30 06:21:18"/>
+		<rom name="Terminator, The (1991) (Bethesda) - Technical Note.pdf" size="774837" crc="99a7ca03" md5="7ec6dd97e7e5c3d2439ec2465ab5dd6a" sha1="7b3c273d6c6356c66c045a23909f0194de174652" date="2021-03-30 06:21:46"/>
+	</game>
+	<game name="Ultima 0 - Akalabeth (1980) (Origin Systems) (Extras)">
+		<description>Ultima 0 - Akalabeth</description>
+		<year>1980</year>
+		<developer>Origin Systems</developer>
+		<variant>Extras</variant>
+		<rom name="Ultima 0 - Akalabeth (1980) (Origin Systems) - Manual.pdf" size="1999313" crc="0d0cee2c" md5="1ea75a6060a28353c830e13b8ec60043" sha1="88d4a2ce77c0a4becf273534aeedb336c5daf37b" date="2013-02-05 01:22:56"/>
+		<rom name="Ultima 0 - Akalabeth (1980) (Origin Systems) - Official Guide to Ultima Collection (Prima).pdf" size="76796889" crc="c08d8398" md5="f3de5ba2b5bb50c04761bab820fe9ef8" sha1="765cd20a3d84a142c2f03b5b22ebd95c1934cd1e" date="2021-10-30 02:31:06"/>
+		<rom name="Ultima 0 - Akalabeth (1980) (Origin Systems) - Reference Card.pdf" size="939777" crc="cb45aeff" md5="82cc846d7d7b981b033ab0fb5a4fce48" sha1="6de5bba0dd48f5a16ef36d40c00c30e60baedc0d" date="2021-10-10 06:54:04"/>
+	</game>
+	<game name="Uninvited (1986) (ICOM Simulations) (Extras)">
+		<description>Uninvited</description>
+		<year>1986</year>
+		<developer>ICOM Simulations</developer>
+		<variant>Extras</variant>
+		<rom name="Uninvited (1986) (ICOM Simulations) - Adventurer's Guide.pdf" size="3658487" crc="cfeddd3b" md5="d0197ad573ed8006692b7c21b2d3c88b" sha1="286c341795a2712c5778c3e36ee7643e737329e8" date="2018-02-01 13:25:28"/>
+		<rom name="Uninvited (1986) (ICOM Simulations) - Hint Sheet.pdf" size="2611637" crc="1af28be2" md5="ec4be1574e5629d7942ba6099aa2356e" sha1="c4ce63a638945c490aa640bbf74a3da1dcb4b1ce" date="2021-11-22 13:52:50"/>
+		<rom name="Uninvited (1986) (ICOM Simulations) - Manual.pdf" size="4888861" crc="a3444ec6" md5="ab3b0bbec8ac4d63d8fadbe5466f1159" sha1="9e2c68c851004ed6be91ba03bb7ee867ceb88188" date="2021-11-22 13:58:46"/>
+	</game>
+	<game name="Wasteland (1988) (Interplay) (Extras)">
+		<description>Wasteland</description>
+		<year>1988</year>
+		<developer>Interplay</developer>
+		<variant>Extras</variant>
+		<rom name="Wasteland (1988) (Interplay) - Manual.pdf" size="17841058" crc="9336b77d" md5="fabae6075fd60529b948900fe60a9a40" sha1="474ee30cb906a8f2f2226022ab117ca05dd18806" date="2013-10-23 04:17:58"/>
+		<rom name="Wasteland (1988) (Interplay) - Paragraphs.pdf" size="61679405" crc="55aac199" md5="f5dbf1c264bba97530b02e24794754ae" sha1="358c419366d4b210383ea762efd37bba7241d08a" date="2013-11-08 07:18:26"/>
+		<rom name="Wasteland (1988) (Interplay) - Reference Card.pdf" size="3344545" crc="c605421c" md5="be025bf20fdbae942ee7a8d4ab5a9436" sha1="cd60d04c12d80ab10801baa91f6c1894e712d7cb" date="2013-11-08 07:59:48"/>
+		<rom name="Wasteland (1988) (Interplay) - Survival Guide.pdf" size="41589080" crc="e4fe14fb" md5="8decec30b5fecce522b197d5aaf7aa80" sha1="226888c881e6712de1790f6f9c973593588e6814" date="2013-02-03 22:18:52"/>
+	</game>
+	<game name="X-COM - Apocalypse (1997) (Microprose) (Extras)">
+		<description>X-COM - Apocalypse</description>
+		<year>1997</year>
+		<developer>Microprose</developer>
+		<variant>Extras</variant>
+		<rom name="X-COM - Apocalypse (1997) (Microprose) - Manual.pdf" size="1418161" crc="94fa435e" md5="7dce2c72592f1c9f1998ea27c0c25a5b" sha1="e8ea9b87157d0e5295cfdb50e5e5e81af1377545" date="2020-08-12 15:28:04"/>
+		<rom name="X-COM - Apocalypse (1997) (Microprose) - Rookie's Guide.pdf" size="4591105" crc="6285aa16" md5="1922208a2d26b34ce4027ef21b58b014" sha1="5543c160a1bff8999299ab6e4a1a331f6c159b7d" date="1996-12-25 00:32:00"/>
+		<rom name="X-COM - Apocalypse (1997) (Microprose) - Technical Supplement.pdf" size="900814" crc="720bb16f" md5="438e60152180eaa0bd168b6ad2099f69" sha1="1e5f40ac17b6f93723023de547db33edbbef0576" date="1996-12-25 00:32:00"/>
+	</game>
+	<game name="X-COM - Terror from the Deep (1995) (Microprose) (Extras)">
+		<description>X-COM - Terror from the Deep</description>
+		<year>1995</year>
+		<developer>Microprose</developer>
+		<variant>Extras</variant>
+		<rom name="X-COM - Terror from the Deep (1995) (Microprose) - Manual.pdf" size="2705022" crc="da0d008f" md5="17e090e509c6f5736197cebc4f186797" sha1="4552f90d9ad5de826cbb31091c034ec4f353ad5d" date="2020-08-12 15:28:08"/>
+		<rom name="X-COM - Terror from the Deep (1995) (Microprose) - Notebook.pdf" size="683029" crc="f20c18df" md5="7c55b9017a1368c4f4650aafb2dac0d4" sha1="ef2d5f3ce003714e5a587c10c4c92a93b8963517" date="2022-04-27 12:37:40"/>
+		<rom name="X-COM - Terror from the Deep (1995) (Microprose) - Official Strategy Guide (Prima).pdf" size="147105758" crc="72dcc769" md5="0cc82ee22078605fea3956a808e8f12f" sha1="613f76907f12281ec81a9b976137bb4de853aa1e" date="2022-04-27 12:39:36"/>
+		<rom name="X-COM - Terror from the Deep (1995) (Microprose) - The Ultimate Guide to Alien Destruction (BradyGames).pdf" size="152992450" crc="93780b43" md5="18a29347b4b848a4c865ef35c95464fa" sha1="9ab91bd9d86203a85febdb418fc58c30abc2b35d" date="2023-07-27 13:00:12"/>
+		<rom name="X-COM - Terror from the Deep (1995) (Microprose) - The Ultimate Guide to Alien Destruction Addendum.pdf" size="2727928" crc="1ea28310" md5="2f68fd509ddd9935e36b0a9bf6337f0b" sha1="ba95c1334a7c3c7018083cd814480ee0e39597f0" date="2023-07-26 07:01:54"/>
+	</game>
+	<game name="X-COM - UFO Defense (1994) (Microprose) (Extras)">
+		<description>X-COM - UFO Defense</description>
+		<year>1994</year>
+		<developer>Microprose</developer>
+		<variant>Extras</variant>
+		<rom name="X-COM - UFO Defense (1994) (Microprose) - Manual.pdf" size="4416321" crc="fd45fee6" md5="1790d0c61a59243e9bbf9e484ef7da3e" sha1="89959e96e246c112e751d4edae35eb61a98c4621" date="2020-08-12 15:28:14"/>
+		<rom name="X-COM - UFO Defense (1994) (Microprose) - Monsters in the Dark - The Making of X-COM UFO Defense (David L. Craddock).pdf" size="3465125" crc="9b2d8cf1" md5="e459bd3236e2ea6c5a3e70ed0074b0b6" sha1="a485dac2a1c37d20a594d156d9cbdc7141d813d1" date="2023-02-14 16:50:18"/>
+		<rom name="X-COM - UFO Defense (1994) (Microprose) - Novel.pdf" size="160217430" crc="258c8f36" md5="f05a35ad327a67d99b576b9a350517f1" sha1="9ac2fbbf3b8c6c8f7aa9bea785b0576613c48723" date="2023-05-17 10:01:40"/>
+		<rom name="X-COM - UFO Defense (1994) (Microprose) - Official Strategy Guide.pdf" size="100504778" crc="f67309ac" md5="714a89bbf0381ef588a6ac55d823445c" sha1="3207ff94fe54e94355aeaa5ce54fc02e9047c77e" date="2021-07-14 09:04:18"/>
+		<rom name="X-COM - UFO Defense (1994) (Microprose) - X-COM Strategies and Secrets.pdf" size="84486575" crc="04c54733" md5="1b8b683c4e502854b0299e9cb6deba7c" sha1="7c5dff8b7bd6e639666891cfd402bf3f4a8a500d" date="2023-07-27 13:13:18"/>
+	</game>
+</datafile>
