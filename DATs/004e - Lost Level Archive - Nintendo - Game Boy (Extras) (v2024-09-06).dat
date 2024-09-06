@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>004e</id>
+		<name>004e - Lost Level Archive - Nintendo - Game Boy (Extras) (v2024-09-06)</name>
+		<description>Nintendo - Game Boy (Extras)</description>
+		<version>v20240906</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras">
+		<description>Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Manual.pdf" size="298424" crc="CF4ED794" md5="F36955A03CF90B7186EA52C35FF36B48" sha1="F536EE8715E2FE4BBBCA1AE936FFA2548D5D0EED" date="2023-07-27 13:13:18"/>
+	</game>
+	<game name="Yakuza GB (World) (Aftermarket) (Unl) - Extras">
+		<description>Yakuza GB (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Funk Goes On.wav" size="31721220" crc="8a3afc4e" md5="0da00feac0119754eb83e98545cd9361" sha1="2aca3debd21e0dca618b557c0dbcc7fce4bb9726"/>
+		<rom name="Machine Gun Kiss.wav" size="30402612" crc="304c9b2c" md5="d0a15b7c745acd3497d188ee3b0fe088" sha1="d762206f13ecd1f6d145522dab6b8d762eacc516"/>
+		<rom name="Pledge Of Demon.wav" size="46774772" crc="a5b217a4" md5="877ac66d34a5c62dad8ad466b0b7bfc2" sha1="60200c6710b527d9e20493f384c9f0a562089c89"/>
+		<rom name="Receive and Clear You.wav" size="1360020" crc="28fbc243" md5="6f3f768a5fe2fa132e35cb9e9c18698a" sha1="54f7bb20f9bf0af73d5ad8583d98f086fd64d56d"/>
+		<rom name="Receive You Title.wav" size="11853868" crc="2a8a7b4d" md5="90d5e61937c278aa9af5b22d51c33b0a" sha1="35a01ac0809b7dd7ec0ea390625c169e4cfc9f55"/>
+	</game>
+</datafile>
