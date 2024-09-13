@@ -4,7 +4,7 @@
 	<header>
 		<name>Pure DOS DAT</name>
 		<description>DOS Game Extras</description>
-		<version>2024-08-17 10-40-51</version>
+		<version>2024-09-13 00-00-00</version>
 		<date>2024-08-17 10-40-51</date>
 		<author>televandalist</author>
 		<homepage>Pure DOS DAT</homepage>
@@ -39,6 +39,14 @@
 		<developer>Crack Dot Com</developer>
 		<variant>Extras</variant>
 		<rom name="Abuse (1995) (Crack Dot Com) - Manual.pdf" size="3750214" crc="e1fffd2f" md5="989f253707b875cb0e0fa8fd1340d852" sha1="2294d76b770da923705eb29774a6386145db8bde" date="2020-07-06 17:23:00"/>
+	</game>
+	<game name="Albion (1995) (Blue Byte Software) (Extras).dosz">
+		<description>Albion</description>
+		<year>1995</year>
+		<developer>Blue Byte Software</developer>
+		<variant>Extras</variant>
+		<rom name="Albion (1995) (Blue Byte Software) - Manual.pdf" size="12532361" crc="e209d392" md5="2e8c4e36b361e7a48831d2738cb68b27" sha1="8dec6d84a7d802d268248dc89fb5db3231d5148f" date="2020-06-23 10:26:44"/>
+		<rom name="Albion (1995) (Blue Byte Software) - VG Map.pdf" size="2232301" crc="270a72ca" md5="8e42b33508ce7296f8cbfea8742b64cc" sha1="8830104e169b400192d81649c468d59323cd79d2" date="2019-03-27 12:04:52"/>
 	</game>
 	<game name="Alien Breed (1993) (Team17) (Extras)">
 		<description>Alien Breed</description>
@@ -103,12 +111,51 @@
 		<rom name="Alone in the Dark 3 (1994) (Infogrames) - Manual.pdf" size="2117081" crc="72265feb" md5="a93635300c11047b8af660cd606bb912" sha1="c1bbe23dae0b854d1e91b435b7f5e8a324bf3738" date="2021-04-28 14:21:44"/>
 		<rom name="Alone in the Dark 3 (1994) (Infogrames) - Mystery Examiner.pdf" size="1768417" crc="f71236a6" md5="ee776805779733f32071f77b85673993" sha1="8512e1d4aa13fdbdac16d7b951436b01bc1b4955" date="1996-12-25 01:32:00"/>
 	</game>
+	<game name="Ancient Domains of Mystery (1994) (Thomas Biskup) (Extras).dosz">
+		<description>Ancient Domains of Mystery</description>
+		<year>1994</year>
+		<developer>Thomas Biskup</developer>
+		<variant>Extras</variant>
+		<rom name="Ancient Domains of Mystery (1994) (Thomas Biskup) - Manual.txt" size="175938" crc="6aba1443" md5="70a1ebf77d720d1206d1a7beb1b90bac" sha1="e8fd3b3e0752a8add7f1752499ff01d36ba5c8a7" date="1996-12-24 15:32:00"/>
+	</game>
+	<game name="Ancients I - Deathwatch (1991) (Epic MegaGames) (Extras).dosz">
+		<description>Ancients I - Deathwatch</description>
+		<year>1991</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Extras</variant>
+		<rom name="Ancients I - Deathwatch (1991) (Epic MegaGames) - Manual.txt" size="12801" crc="1516dd67" md5="f20172d13efa2be6f34d39927ba156af" sha1="415af1ca0f5357931e3cbc9edb04dd12797661fb" date="1991-12-27 23:25:00"/>
+		<rom name="Ancients I - Deathwatch (1991) (Epic MegaGames) - VG Maps.pdf" size="164828" crc="a76c599e" md5="15552626ebbc5892832c51aea202c832" sha1="bbe95aa301f1998fe8d1b844134fd5fd139e10f9" date="2019-03-27 12:07:44"/>
+	</game>
 	<game name="Ancient Ys Vanished (1989) (Falcom) (Extra)">
 		<description>Ancient Ys Vanished</description>
 		<year>1989</year>
 		<developer>Falcom</developer>
 		<variant>Extra</variant>
 		<rom name="Ancient Ys Vanished (1989) (Falcom) - Manual.pdf" size="5498749" crc="6ecb0b30" md5="1c2b93be4031a18a77201ed57099d93b" sha1="ca3fa9a692035593c89980aecd61591675370553" date="2020-06-24 16:23:28"/>
+	</game>
+	<game name="Angband (1992) (Angband DevTeam) (Extras).dosz">
+		<description>Angband</description>
+		<year>1992</year>
+		<developer>Angband DevTeam</developer>
+		<variant>Extras</variant>
+		<rom name="Angband (1992) (Angband DevTeam) - Manual.txt" size="12897" crc="fd56cba2" md5="15f25ad069110f7e2bd385d51492e45e" sha1="7ef646d4c2a110307a778c6cda3d9d35defd4d53" date="2005-06-18 14:33:34"/>
+	</game>
+	<game name="Anvil of Dawn (1995) (New World Computing) (Extras).dosz">
+		<description>Anvil of Dawn</description>
+		<year>1995</year>
+		<developer>New World Computing</developer>
+		<variant>Extras</variant>
+		<rom name="Anvil of Dawn (1995) (New World Computing) - Install Guide.pdf" size="942025" crc="e04f6786" md5="d0f0495482d6f13197d69f861f2fe02c" sha1="0c34d2d518a6cb4e580b4216fc9108f4ac45ec4c" date="2020-06-24 16:46:58"/>
+		<rom name="Anvil of Dawn (1995) (New World Computing) - Manual Supplement.TXT" size="6449" crc="5a5c228a" md5="4d1ed6f7a545ee7e9ae25ddafb93becb" sha1="e6b39940053fea2f675a22e2ef361cca07f342de" date="1996-12-24 21:32:00"/>
+		<rom name="Anvil of Dawn (1995) (New World Computing) - Manual.pdf" size="12963868" crc="603c701e" md5="9781ba007456054fa48fc49b5698dfe4" sha1="88c32dead53256a5ef05f3dcb6f5eb85f888efeb" date="2020-06-24 03:06:34"/>
+		<rom name="Anvil of Dawn (1995) (New World Computing) - Strategy Guide.pdf" size="86883787" crc="d2890d43" md5="638873febfbcdeafc08e25ad210dd6fe" sha1="6be610ca81ed9837f148c5c33631dfea4faf1596" date="2023-05-29 07:23:28"/>
+	</game>
+	<game name="Battle Arena Toshinden (1996) (Tamsoft) (Extras).dosz">
+		<description>Battle Arena Toshinden</description>
+		<year>1996</year>
+		<developer>Tamsoft</developer>
+		<variant>Extras</variant>
+		<rom name="Battle Arena Toshinden (1996) (Tamsoft) - Game Secrets - Unauthorized Edition.pdf" size="123273415" crc="fdf8df72" md5="5052cf6fed1d6302cf263c8adacb7ca0" sha1="b8ddce1cf32b11de0c0396b8f2cfa8e041cb1d42" date="2023-03-22 18:02:42"/>
 	</game>
 	<game name="Bedlam (1996) (GT Interactive) (Extras)">
 		<description>Bedlam</description>
@@ -118,6 +165,21 @@
 		<rom name="Bedlam (1996) (GT Interactive) - CD Manual.pdf" size="2491644" crc="af95e951" md5="d13ae1cff47bcce05e37fb15f84ab9a5" sha1="39d86d6689764315ee560734e7ee9277c708fcf4" date="2016-01-14 23:02:18"/>
 		<rom name="Bedlam (1996) (GT Interactive) - Installation Guide.pdf" size="1524712" crc="fa419ffe" md5="220a70804eb87bc437bedb408651b424" sha1="58d3e03fb99c7886349c3ba230d8b53c49ed0025" date="2021-03-21 03:58:22"/>
 		<rom name="Bedlam (1996) (GT Interactive) - Manual.pdf" size="11118682" crc="689deb0c" md5="c1eefcec73ca38c8e701383800dad4b4" sha1="8596f609e6823d546a6687efb095af823e31f41b" date="2020-08-15 04:06:22"/>
+	</game>
+	<game name="Below the Root (1984) (Dale Disharoon) (Extras).dosz">
+		<description>Below the Root</description>
+		<year>1984</year>
+		<developer>Dale Disharoon</developer>
+		<variant>Extras</variant>
+		<rom name="Below the Root (1984) (Dale Disharoon) - Manual.pdf" size="6073537" crc="e5be1b72" md5="d56585f2e1db69d0504075a1c7315dfe" sha1="b8796d66304efb61dbed89ae28119dc2141c1966" date="2018-01-29 12:09:34"/>
+		<rom name="Below the Root (1984) (Dale Disharoon) - Map.jpg" size="887370" crc="2d684286" md5="c47f9966e148ae4de640431d0a825ce5" sha1="229962a7dcad3ab3a4e2708f085cb4534002788a" date="2018-01-29 12:09:14"/>
+	</game>
+	<game name="Beneath Apple Manor (1978) (Quality Software) (Extras).dosz">
+		<description>Beneath Apple Manor</description>
+		<year>1978</year>
+		<developer>Quality Software</developer>
+		<variant>Extras</variant>
+		<rom name="Beneath Apple Manor (1978) (Quality Software) - Manual.pdf" size="5044689" crc="f0e2cb63" md5="11b0c83419a56c12b080393cb1492e90" sha1="22b129b9ffdefe7b6e01f8fa518a6c66a2141c47" date="2018-11-17 19:23:48"/>
 	</game>
 	<game name="Beyond Zork - The Coconut of Quendor (1987) (Infocom) (Extras).dosz">
 		<description>Beyond Zork - The Coconut of Quendor</description>
@@ -208,6 +270,14 @@
 		<rom name="Buck Rogers - Matrix Cubed (1992) (SSI) - Log Book.pdf" size="24715212" crc="570b43b2" md5="1812704b37da9fbe275929f6139beb37" sha1="f250802a4368b7f7143d9cd51364941815f1cafc" date="2013-02-11 08:41:54"/>
 		<rom name="Buck Rogers - Matrix Cubed (1992) (SSI) - Manual.pdf" size="6776725" crc="6bfb8715" md5="3b840c7fec1b98084eef3e08eaefea9c" sha1="a51d6a20275bcd23fdd4742c9612e80290220480" date="2013-02-11 08:41:24"/>
 		<rom name="Buck Rogers - Matrix Cubed (1992) (SSI) - Quick Reference Card.pdf" size="473867" crc="9278f87d" md5="51f6474078ec7db1a8113dffaa961d9a" sha1="2d56c790c5cd3b57cd33b3a5a56c5b5c59e5aa3e" date="2020-09-01 21:00:20"/>
+	</game>
+	<game name="Bureau 13 (1995) (Take-Two Interactive Software) (Extras).dosz">
+		<description>Bureau 13</description>
+		<year>1995</year>
+		<developer>Take-Two Interactive Software</developer>
+		<variant>Extras</variant>
+		<rom name="Bureau 13 (1995) (Take-Two Interactive Software) - CD Booklet.pdf" size="6395233" crc="c787878f" md5="425e07fda17bbed2157b71ed0816b4f4" sha1="666d4d501da85c8846e87306a5a74b75f9780f06" date="2020-05-14 10:45:30"/>
+		<rom name="Bureau 13 (1995) (Take-Two Interactive Software) - Manual.pdf" size="31726707" crc="5c72a4d9" md5="86dbb365dbe059009a93bb919c1cf82b" sha1="6284c14e921366a709f74e8a0ea7407f2b6e64d2" date="2022-01-14 06:36:16"/>
 	</game>
 	<game name="Caesar (1992) (Impressions Games) (Extras).dosz">
 		<description>Caesar</description>
@@ -395,6 +465,20 @@
 		<rom name="D-Generation (1991) (Mindscape) - CD Booklet.pdf" size="2093690" crc="cbe1704a" md5="6b0b8723d61e5acbf22750829afe2c18" sha1="ccd44bca3d7a251bec14540874c13bdc33d9544a" date="2021-03-21 04:06:40"/>
 		<rom name="D-Generation (1991) (Mindscape) - Manual.pdf" size="715530" crc="cdab7541" md5="f9312d94d5bef64e380f27596c903e08" sha1="0a4a13b341aa013ee5499c14bd0a09d94d7cb7cf" date="2018-07-24 09:52:32"/>
 		<rom name="D-Generation (1991) (Mindscape) - VG Maps.pdf" size="109253" crc="6edba03d" md5="cd7b7907515201b6028c5d091b196d05" sha1="51cc51c211dcf1724f2bd7d9fc979f4df08a2dc8" date="2019-03-27 14:00:20"/>
+	</game>
+	<game name="Dangerous Dave in the Deserted Pirate's Hideout (1990) (Softdisk Publishing) (Extras).dosz">
+		<description>Dangerous Dave in the Deserted Pirate's Hideout</description>
+		<year>1990</year>
+		<developer>Softdisk Publishing</developer>
+		<variant>Extras</variant>
+		<rom name="Dangerous Dave in the Deserted Pirate's Hideout (1990) (Softdisk Publishing) - VG Maps.pdf" size="149196" crc="c973a602" md5="9e1c1dfea39ec3906d20900fdfcd0548" sha1="3af2ab634fa81de506eab6b587a445f5441d19e2" date="2019-03-27 13:56:40"/>
+	</game>
+	<game name="Dangerous Dave in the Haunted Mansion (1991) (Softdisk Publishing) (Extras).dosz">
+		<description>Dangerous Dave in the Haunted Mansion</description>
+		<year>1991</year>
+		<developer>Softdisk Publishing</developer>
+		<variant>Extras</variant>
+		<rom name="Dangerous Dave in the Haunted Mansion (1991) (Softdisk Publishing) - Manual.pdf" size="1294473" crc="2196db6a" md5="b75992a06b3a2221ab143ed1be6748cd" sha1="f18c4254454fd918ba9e996dbe6f8f8fa90ba1b3" date="2012-10-23 12:26:22"/>
 	</game>
 	<game name="Dark Seed (1992) (Cyberdreams) (Extras).dosz">
 		<description>Dark Seed</description>
@@ -698,6 +782,14 @@
 		<rom name="Heretic (1994) (Raven Software) - Official Strategy Guide (Prima).pdf" size="162679673" crc="d3e6e9e8" md5="46ef3b5dfd99de879032d3bcce7782b2" sha1="f752bb53ca249eb4733f73fb92a3c97a588966a2" date="2023-05-26 07:39:48"/>
 		<rom name="Heretic (1994) (Raven Software) - VG Maps.pdf" size="45443" crc="47aabb42" md5="fadfde6780e6f2818cd58c857ed4b51a" sha1="544039c7ac18cc331888e9b17e39f81adcf9c0f7" date="2019-03-28 08:26:42"/>
 	</game>
+	<game name="Heroes of Might and Magic (1995) (New World Computing) (Extras).dosz">
+		<description>Heroes of Might and Magic</description>
+		<year>1995</year>
+		<developer>New World Computing</developer>
+		<variant>Extras</variant>
+		<rom name="Heroes of Might and Magic (1995) (New World Computing) - GOG Manual.pdf" size="11091162" crc="4352f9b9" md5="cb73ff69d8f091ad8e3910b65018273b" sha1="d68e78f307eae108fddd59697909e967ec42752f"/>
+		<rom name="Heroes of Might and Magic (1995) (New World Computing) - GOG Reference Card.pdf" size="854348" crc="af5be4fb" md5="61fd44324e0d83a23994249af18131b9" sha1="44a1add56b2cd869d7be41ab1b2816b53f7dad05"/>
+	</game>
 	<game name="Hexen - Beyond Heretic (1995) (Raven Software) (Extras).dosz">
 		<description>Hexen - Beyond Heretic</description>
 		<year>1995</year>
@@ -748,12 +840,41 @@
 		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - Registration Card.pdf" size="559307" crc="ebbb5070" md5="f2472ac0d81c6e7377e1a9c7cd9fbbf3" sha1="23c67ca2f2b90f27a273b3081f54f273268f5a59" date="2023-04-11 07:01:52"/>
 		<rom name="I Have No Mouth and I Must Scream (1995) (Cyberdreams) - VG Maps.pdf" size="1412540" crc="ebe5497f" md5="aafdfc12e69441d4ba0c9e2011755e29" sha1="5aceabd01492a060ad9d81363515d9054bfdb989" date="2019-03-28 08:38:26"/>
 	</game>
+	<game name="Ignition (1997) (Virgin Interactive) (Extras).dosz">
+		<description>Ignition</description>
+		<year>1997</year>
+		<developer>Virgin Interactive</developer>
+		<variant>Extras</variant>
+		<rom name="Ignition (1997) (Virgin Interactive) - GOG Manual.pdf" size="629286" crc="43b59e1f" md5="2faad90387a5f1c4a87745744b70c29c" sha1="aaf8468546d71dd2c7aaaa536adbd922553c4818"/>
+		<rom name="Ignition (1997) (Virgin Interactive) - Manual.pdf" size="638914" crc="4cba3992" md5="9756390283a02f4ea79b4e433b0c64f4" sha1="c569fe52d4282c0748055a0225e87d00c0c74450" date="2018-08-22 08:04:06"/>
+	</game>
+	<game name="Jazz Jackrabbit (1994) (Epic MegaGames) (Extras).dosz">
+		<description>Jazz Jackrabbit</description>
+		<year>1994</year>
+		<developer>Epic MegaGames</developer>
+		<variant>Extras</variant>
+		<rom name="Jazz Jackrabbit (1994) (Epic MegaGames) - Manual.pdf" size="23350975" crc="6b9d5277" md5="c6b2757d60bf40e63714a5709a36a19c" sha1="9f5dd10617d5081fcb5c846236d98bbae4ca618e" date="2018-09-08 10:17:10"/>
+	</game>
 	<game name="Jazz Jackrabbit - Holiday Hare (1994) (Epic MegaGames) (Extras).dosz">
 		<description>Jazz Jackrabbit - Holiday Hare</description>
 		<year>1994</year>
 		<developer>Epic MegaGames</developer>
 		<variant>Extras</variant>
 		<rom name="Jazz Jackrabbit - Holiday Hare (1994) (Epic MegaGames) - VG Maps.pdf" size="5771768" crc="ce033ed9" md5="5b0f9e4eb29f147a5c795a6a1c80d578" sha1="7508fca24655931a074008cc69dddff8f103a78c" date="2019-03-28 08:43:34"/>
+	</game>
+	<game name="Jumpman (1984) (Epyx) (Extras).dosz">
+		<description>Jumpman</description>
+		<year>1984</year>
+		<developer>Epyx</developer>
+		<variant>Extras</variant>
+		<rom name="Jumpman (1984) (Epyx) - Manual.pdf" size="938946" crc="bab02cea" md5="1ce3372752d508b2c7fbf94c4f03cc9f" sha1="56831daf048ac0349f4beffbff83f66ce2ec7083" date="2011-07-24 06:05:54"/>
+	</game>
+	<game name="Jumpman Lives! (1991) (Shamusoft Designs) (Extras).dosz">
+		<description>Jumpman Lives!</description>
+		<year>1991</year>
+		<developer>Shamusoft Designs</developer>
+		<variant>Extras</variant>
+		<rom name="Jumpman Lives! (1991) (Shamusoft Designs) - Manual.pdf" size="667795" crc="42ddb1a6" md5="c3129b02d4c7d7aec328b69d66deadb7" sha1="3d4ed3f7ad8cbabfad317d30c20a6cff21291e2a" date="2018-09-10 15:06:26"/>
 	</game>
 	<game name="King's Quest Collection (1994) (Sierra On-Line) (Extras)">
 		<description>King's Quest Collection</description>
@@ -964,12 +1085,59 @@
 		<variant>Extras</variant>
 		<rom name="Malice for Quake (1997) (Quantum Axcess) - Manual.pdf" size="4687134" crc="dbd186af" md5="0c90f630464c5aca9155fa94e2cc60a9" sha1="d5f4dbcdc9d2b50a961d780f332cdafba68b739b" date="2021-08-05 05:11:18"/>
 	</game>
+	<game name="Mario Teaches Typing (1992) (Interplay) (Extras).dosz">
+		<description>Mario Teaches Typing</description>
+		<year>1992</year>
+		<developer>Interplay</developer>
+		<variant>Extras</variant>
+		<rom name="Mario Teaches Typing (1992) (Interplay) - Manual.pdf" size="3599362" crc="0b07d0b4" md5="f106639f75834655694708a1dcd1211a" sha1="f0dfa0c485f58ad2f71ab1add276fecee2d1f0ab" date="2020-05-16 11:02:32"/>
+	</game>
+	<game name="Mario's Game Gallery (1995) (Presage Software) (Extras).dosz">
+		<description>Mario's Game Gallery</description>
+		<year>1995</year>
+		<developer>Presage Software</developer>
+		<variant>Extras</variant>
+		<rom name="Mario's Game Gallery (1995) (Presage Software) - Manual.pdf" size="1325071" crc="adc8199b" md5="bbc4b7bbc0a4feb0adcf2197de6e8223" sha1="a93d6672b629c1237c66043b75fbf32bea4c9c50" date="2022-08-15 08:59:48"/>
+	</game>
+	<game name="Mean Streets (1989) (Access Software) (Extras).dosz">
+		<description>Mean Streets</description>
+		<year>1989</year>
+		<developer>Access Software</developer>
+		<variant>Extras</variant>
+		<rom name="Tex Murphy 1 - Mean Streets (1989) (Access Software) - Detective Information Chart.pdf" size="615556" crc="8f58f5a4" md5="9fdcee74146321ef191789befb79f732" sha1="a2d21684524a3d52ea7443be1f5f8faa95e34c82" date="2021-05-09 14:57:46"/>
+		<rom name="Tex Murphy 1 - Mean Streets (1989) (Access Software) - GOG Detective Information Chart.pdf" size="162394" crc="87f716dc" md5="6f89139eb05051425acca0b20cdcca74" sha1="df61a9ecd665dcc124d6f607f3f70e72ffd9508c" date="2009-06-09 15:50:42"/>
+		<rom name="Tex Murphy 1 - Mean Streets (1989) (Access Software) - GOG Manual.pdf" size="10405058" crc="9c93b04a" md5="e73dd8bce62394f29b6473f926ae98b1" sha1="a3bed509a4dd32e107586ca88819756642949e7d" date="2009-06-09 15:40:52"/>
+		<rom name="Tex Murphy 1 - Mean Streets (1989) (Access Software) - GOG Street Map.pdf" size="299877" crc="a03fef2a" md5="1592f350ae1585c91f32761507e2c47d" sha1="652d7755e5e093a43e401a6fea4cafd96fdbbe9f" date="2009-06-09 15:59:16"/>
+		<rom name="Tex Murphy 1 - Mean Streets (1989) (Access Software) - Manual.pdf" size="5190268" crc="1abe9fa3" md5="d647425fe33b5e0342036ae91ce8edac" sha1="178827401452d784516295c6c9198db08bfef1be" date="2021-05-02 08:10:36"/>
+		<rom name="Tex Murphy 1 - Mean Streets (1989) (Access Software) - Registration Card.pdf" size="167781" crc="be36f02d" md5="abb32d0796a00d398ea2fa882dde5940" sha1="6ae2d431d7b3d8e3197a822f23d7bc696e546e53" date="2023-08-14 08:12:32"/>
+	</game>
+	<game name="Mega Man (1990) (Capcom) (Extras).dosz">
+		<description>Mega Man</description>
+		<year>1990</year>
+		<developer>Capcom</developer>
+		<variant>Extras</variant>
+		<rom name="Mega Man (1990) (Capcom) - Manual.pdf" size="1425850" crc="744c909f" md5="29f5dfe4e2e44e20296c422d7d6972cc" sha1="c4a615f451fa1792782c1899cf18aaa938d7a573" date="2019-02-12 08:44:18"/>
+		<rom name="Mega Man (1990) (Capcom) - VG Maps.pdf" size="309970" crc="ce604323" md5="3bb26afb7837ca9c7bef92c4d78416e9" sha1="501557f3caeaeacc150ba2fc0934ed0f20931d28" date="2019-03-28 09:25:32"/>
+	</game>
 	<game name="Miner 2049er (1983) (Micro Fun) (Extras).dosz">
 		<description>Miner 2049er</description>
 		<year>1983</year>
 		<developer>Micro Fun</developer>
 		<variant>Extras</variant>
 		<rom name="Miner 2049er (1983) (Micro Fun) - Manual.pdf" size="123064" crc="80041ec1" md5="894b04181212c44f10e87f50ecfcb081" sha1="10bb9a88e90d4088dc5fd8a98b7c8b63391688a5" date="2023-03-08 10:05:04"/>
+	</game>
+	<game name="Moonmist (1986) (Infocom) (Extras).dosz">
+		<description>Moonmist</description>
+		<year>1986</year>
+		<developer>Infocom</developer>
+		<variant>Extras</variant>
+		<rom name="Moonmist (1986) (Infocom) - Clue Book.txt" size="21394" crc="c60e7ec5" md5="e20bd18ef4e055a229e2f947aef6531c" sha1="8b7f1daac5505616f3b89b0d9579fd5245dcebb1" date="2013-11-21 06:28:42"/>
+		<rom name="Moonmist (1986) (Infocom) - First Letter.pdf" size="1664825" crc="72db110d" md5="74dc1c93f2fbdcaf254caadaf0497a52" sha1="50949ec87816f8c5fa239d56f064556b6bc2d60c" date="2018-01-31 12:30:08"/>
+		<rom name="Moonmist (1986) (Infocom) - InvisiClues.pdf" size="277323" crc="714e263c" md5="c3ed9858649439fa5b094897a5286a35" sha1="3a5b0f3196ca42e5dc6fec4e4c1b71ebfe07da0e" date="1996-12-24 19:32:00"/>
+		<rom name="Moonmist (1986) (Infocom) - Manual.pdf" size="16404328" crc="5154eb47" md5="8986bc39c3f15a10b3ac2e0256d24750" sha1="2b2dd3a5dcadb4750bb46f631be96ca1d5c882eb" date="2018-01-31 12:31:30"/>
+		<rom name="Moonmist (1986) (Infocom) - Second Letter.pdf" size="333902" crc="b3af4aed" md5="234412a8e41853cf3bcb3a51a1ced787" sha1="5ee0bf6edcf09c498549edc3309f9c7725997086" date="1996-12-24 19:32:00"/>
+		<rom name="Moonmist (1986) (Infocom) - The Lost Treasures of Infocom Hintbook.pdf" size="27334873" crc="53aec781" md5="3cde47ccf0bd889e9c1cde238fcb361f" sha1="8a61c1d0ecabdcb04085f9ff503c686de56d4c04" date="2023-03-28 06:42:28"/>
+		<rom name="Moonmist (1986) (Infocom) - Tresyllian Castle Visitor's Guide.pdf" size="2490187" crc="a6332e5e" md5="aa39e203ca408ec9ddd4cbdc4cb7a63b" sha1="f71f9b4722463306ca4af03b99cc6aa599f5d9c1" date="2018-01-31 12:29:44"/>
 	</game>
 	<game name="Neuromancer (1988) (Interplay) (Extras)">
 		<description>Neuromancer</description>
@@ -1079,6 +1247,30 @@
 		<developer>Extras</developer>
 		<rom name="Shanghai II - Dragon's Eye (1990) - Manual.pdf" size="11993275" crc="b1eddd54" md5="5f31bc3de59fd462b5b619488e3f3d4f" sha1="01132b63e62becae3c0c4226f8fb9cdf5405448c" date="2010-05-14 11:51:12"/>
 	</game>
+	<game name="Sid Meier's Civilization (1991) (MPS Labs) (Extras).dosz">
+		<description>Sid Meier's Civilization</description>
+		<year>1991</year>
+		<developer>MPS Labs</developer>
+		<variant>Extras</variant>
+		<rom name="Sid Meier's Civilization (1991) (MPS Labs) - Additional Features Supplement.pdf" size="2638855" crc="2d68bad3" md5="5c5d0b159e488fdb1357ecd4038b8c32" sha1="6ce6d9a0239e567fe11b55c9929e24f8fdf31380" date="2020-01-13 10:09:18"/>
+		<rom name="Sid Meier's Civilization (1991) (MPS Labs) - Fanmade Tech Tree.png" size="395886" crc="972474b6" md5="9a0b20011cc056a2813c20dde75ba2d9" sha1="6062b70b32281eafd11c41c9cdcfe3d02b18bcdf" date="2020-01-13 10:08:58"/>
+		<rom name="Sid Meier's Civilization (1991) (MPS Labs) - Manual.pdf" size="67345613" crc="0e2cace1" md5="29376fa830e73ac242eed7183d1c1193" sha1="7c514111346bb65cd493fbbf73717bb48d214aa9" date="2021-02-13 05:29:28"/>
+		<rom name="Sid Meier's Civilization (1991) (MPS Labs) - Official Guide.pdf" size="139850816" crc="67499ac4" md5="882ffc97d06762c7bd1c9c5efccbd191" sha1="d8ec5564dd6efce8c53872a528f2ad11bdea8a8f" date="2022-02-12 12:15:20"/>
+		<rom name="Sid Meier's Civilization (1991) (MPS Labs) - Original Tech Tree.pdf" size="2624460" crc="e52ebe36" md5="c5f902ea078910dba717e58655402205" sha1="2c49d5c9b530735ac414c23df6d351a6191ac237" date="2021-02-13 05:33:56"/>
+		<rom name="Sid Meier's Civilization (1991) (MPS Labs) - Technical Supplement.pdf" size="10883937" crc="567089f6" md5="a6939c2505e8a8514936587b3e3d54f6" sha1="25d2ba528d4194b489f68fdeb30b117099603c44" date="2021-02-13 05:33:34"/>
+	</game>
+	<game name="Sid Meier's Colonization (1994) (MPS Labs) (Extras).dosz">
+		<description>Sid Meier's Colonization</description>
+		<year>1994</year>
+		<developer>MPS Labs</developer>
+		<variant>Extras</variant>
+		<rom name="Sid Meier's Colonization (1994) (MPS Labs) - GOG Manual.pdf" size="1575493" crc="524c5586" md5="505f2d6778a0e813c5edeadd1957abf5" sha1="6c800c8cc1b63a4a80db96c8e1b381a991d61c6d" date="2012-05-10 12:09:20"/>
+		<rom name="Sid Meier's Colonization (1994) (MPS Labs) - GOG Quick Reference Card.pdf" size="1871779" crc="fb0a1303" md5="a2bc3d2b90fa62a508013a78fc54d21e" sha1="ca0bb9732d9ef5999cfffd33d548261837d0e236" date="2012-05-23 15:07:28"/>
+		<rom name="Sid Meier's Colonization (1994) (MPS Labs) - Manual.pdf" size="1302684" crc="f8ed07e9" md5="6e3e0df468bb2d6555c9f590d26c7f23" sha1="f5a32590abcc7f01277944d58ed749262accc049" date="2020-07-13 03:15:20"/>
+		<rom name="Sid Meier's Colonization (1994) (MPS Labs) - Official Strategy Guide.pdf" size="117792203" crc="8c090e05" md5="ec74a0393c1f97515f54d7c4b809a4ea" sha1="fb7c8289954d8f45772b6b249512d98b3cb6c618" date="2022-03-19 07:20:48"/>
+		<rom name="Sid Meier's Colonization (1994) (MPS Labs) - Player Aid Cards.pdf" size="224674" crc="68c542d5" md5="9e7e5d14b28c0050676318327fbd3557" sha1="4f1c143cb519096358e6366d27f0cbf294f826af" date="2020-07-13 03:14:46"/>
+		<rom name="Sid Meier's Colonization (1994) (MPS Labs) - Technical Supplement.pdf" size="179175" crc="3653a4e2" md5="dfc2bf17da65356d9352edd4f136d5ad" sha1="a24eaccacc24fb7ead3289b923fb225b67c7b43f" date="2020-07-13 03:13:50"/>
+	</game>
 	<game name="Silverload (1995) (Nova Spring) (Extras).dosz">
 		<description>Silverload</description>
 		<year>1995</year>
@@ -1141,6 +1333,15 @@
 		<rom name="Star Control II (1992) (Toys for Bob) - Map Scan 2.jpg" size="1375101" crc="f0a033a8" md5="65601b0fe8b3858cea2dd445c55ee884" sha1="f30e7a22dc3b6b1a3697c9a574b6750fc56d2374" date="2023-05-28 05:01:54"/>
 		<rom name="Star Control II (1992) (Toys for Bob) - Map.pdf" size="1274500" crc="3a673206" md5="910b4dde4532eb3e0639f4eba7a7e0bc" sha1="b47616b428d33e54c25003be066af3c87887fb0b" date="2020-06-28 11:17:30"/>
 		<rom name="Star Control II (1992) (Toys for Bob) - Role Playing Resource Guide.pdf" size="28038339" crc="b3c9aa87" md5="980629c20c468c89f1e41be88f0d4424" sha1="6e09004012e09658da8cdbb9f82ba33a6286d971" date="2023-05-28 15:35:30"/>
+	</game>
+	<game name="Strife (1996) (Rogue Entertainment) (Extras).dosz">
+		<description>Strife</description>
+		<year>1996</year>
+		<developer>Rogue Entertainment</developer>
+		<variant>Extras</variant>
+		<rom name="Strife (1996) (Rogue Entertainment) - Field Guide.png" size="2841004" crc="e66ae556" md5="1b62163a12546110b3310a8825c9e758" sha1="b7a311d949ee964d19c25cca95577e37c2740b27" date="2014-12-11 10:08:10"/>
+		<rom name="Strife (1996) (Rogue Entertainment) - Manual.pdf" size="2264011" crc="91f857c1" md5="58f8c7b960186b640afacfd3eac6688d" sha1="7fc762f47357deed98343774ffdc999995fa9f8a" date="2020-08-23 14:15:08"/>
+		<rom name="Strife (1996) (Rogue Entertainment) - Map.jpg" size="2558553" crc="659c527a" md5="82644a003afff33b34898baf1a1d380a" sha1="ac4167b4fb1d19590ba921d26e5fb0cb87cf64d6" date="2022-12-17 17:55:52"/>
 	</game>
 	<game name="Super C (1990) (Konami) (Extras).dosz">
 		<description>Super C</description>
