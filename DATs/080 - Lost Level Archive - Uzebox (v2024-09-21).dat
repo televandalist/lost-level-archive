@@ -4,7 +4,7 @@
 		<id>080</id>
 		<name>080 - Lost Level Archive - Uzebox</name>
 		<description>Uzebox</description>
-		<version>v20240629</version>
+		<version>v20240921</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -144,6 +144,11 @@
 		<description>Sokoban World (World) (Final) (D3thAdd3r)</description>
 		<release name="Sokoban World (World) (Final) (D3thAdd3r)" type="Homebrew" region="World"/>
 		<rom name="Sokoban World (World) (Final) (D3thAdd3r).uze" size="61890" crc="092A4B27" md5="AC982CD2D7C9DC7A6CF3F0C3118A56AE" sha1="9647E50F703C660B4E442A1D52BCF7E6CD2E8413"/>
+	</game>
+	<game name="Solitaire (World) (Final) (D3thAdd3r)">
+		<description>Solitaire (World) (Final) (D3thAdd3r)</description>
+		<release name="Solitaire (World) (Final) (D3thAdd3r)" type="Homebrew" region="World"/>
+		<rom name="Solitaire (World) (Final) (D3thAdd3r).uze" size="61208" crc="96AFC25F" md5="96D62386036C99F054E6E0506B2385C1" sha1="1737EB7F27CFB0B5F1B4C6C00D9B5D2C531DD00A"/>
 	</game>
 	<game name="Space Age (World) (Pitfall Jones)">
 		<description>Space Age (World) (Pitfall Jones)</description>
