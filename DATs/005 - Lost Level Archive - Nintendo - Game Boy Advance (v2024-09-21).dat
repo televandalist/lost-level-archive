@@ -25,4 +25,9 @@
 		<release name="Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl)" type="extract" region="USA"/>
 		<rom name="Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl).gba" size="94512" crc="D9DE8BD8" md5="D7A9EC35339BB4D26F3296C3ED851645" sha1="30BA9E987D909F6F497C472B266D8BCB70069B68"/>
 	</game>
+	<game name="Dark Eden (Unknown) (Prototype)">
+		<description>Dark Eden (Unknown) (Prototype)</description>
+		<release name="Dark Eden (Unknown) (Prototype)" type="prototype" region="Unknown"/>
+		<rom name="Dark Eden (Unknown) (Prototype).gba" size="1361276" crc="9CF479D2" md5="50E9DBC3731383D6452584BFAD42297D" sha1="DF70DB3A44117AF3C744388AA17819ED8017E1D2"/>
+	</game>
 </datafile>
