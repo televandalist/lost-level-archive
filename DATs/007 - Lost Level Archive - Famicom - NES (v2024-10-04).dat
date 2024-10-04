@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+	<header>
+		<id>007</id>
+		<name>007 - Lost Level Archive - Nintendo - Famicom - NES (v2024-10-04)</name>
+		<description>Nintendo - Famicom - NES</description>
+		<version>v20241004</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Kou Dai Guai Shou II - Pokemon Diamond II (China) (Bootleg)">
+		<description>Kou Dai Guai Shou II - Pokemon Diamond II (China) (Bootleg)</description>
+		<release name="Kou Dai Guai Shou II - Pokemon Diamond II (China) (Bootleg)" type="bootleg" region="China"/>
+		<rom name="Kou Dai Guai Shou II - Pokemon Diamond II (China) (Bootleg).nes" size="1048592" crc="91D6F1F4" md5="EFC3933C833059F8B1E82C9EB48E6057" sha1="603A686B3A3267D09B9A6840224B1EB07313F849"/>
+	</game>
+	<game name="Kou Dai Guai Shou III - Pokemon Diamond III (China) (Bootleg)">
+		<description>Kou Dai Guai Shou III - Pokemon Diamond III (China) (Bootleg)</description>
+		<release name="Kou Dai Guai Shou III - Pokemon Diamond III (China) (Bootleg)" type="bootleg" region="China"/>
+		<rom name="Kou Dai Guai Shou III - Pokemon Diamond III (China) (Bootleg).nes" size="1048848" crc="725A7EAE" md5="964A77006AAD0F6FD098F89FE8ED8E34" sha1="186F739E271CA7D51B8401AA2570EDF21B14AEE9"/>
+	</game>
+</datafile>
