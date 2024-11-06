@@ -2147,6 +2147,15 @@
 		<rom name="Neuromancer (1988) (Interplay) - Interactive Code Wheel.HTM" size="3462005" crc="9935ba98" md5="a3b19c011853fba5675c70a543aa8008" sha1="f06679e18931fec6a5f716122eec7a32de0648af" date="2020-07-03 23:00:30"/>
 		<rom name="Neuromancer (1988) (Interplay) - Manual.pdf" size="8885891" crc="51d369b6" md5="919ff0c50eaa153cd327878119a7d3a5" sha1="debf4490e7c1c79a62a5969af1dd545b167ff219" date="2018-01-31 14:09:34"/>
 	</game>
+	<game name="Neverwinter Nights (1991) (SSI) (Extras)">
+		<description>Neverwinter Nights</description>
+		<year>1991</year>
+		<developer>SSI</developer>
+		<variant>Extras</variant>
+		<rom name="Neverwinter Nights (1991) (SSI) - Adventurer's Journal.pdf" size="14845062" crc="c0f8ef2e" md5="1243412fc98ebcf2a9b2b72f49c148dc" sha1="8f17e8ffc2cc9217023a8406d250618bbc0491a2" date="2013-02-11 07:33:44"/>
+		<rom name="Neverwinter Nights (1991) (SSI) - Manual.pdf" size="3733890" crc="ccc57e27" md5="a1c30c1c0f2e7189bb0b5250ea14c882" sha1="eaaaebc03c4400041bf36fc3dbe64595e3311802" date="2020-06-24 15:07:24"/>
+		<rom name="Neverwinter Nights (1991) (SSI) - Reference Card.pdf" size="1122459" crc="899ba612" md5="e820a6234deab455faf158f51e93a85b" sha1="7be2493022abe4f067099c93751712df3981834d" date="2013-02-11 07:33:54"/>
+	</game>
 	<game name="One Must Fall 2097 (1994) (Epic MegaGames) (Extras)">
 		<description>One Must Fall 2097</description>
 		<year>1994</year>
