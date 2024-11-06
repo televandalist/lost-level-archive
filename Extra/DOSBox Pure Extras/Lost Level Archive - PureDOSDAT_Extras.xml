@@ -2,12 +2,12 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<name>Pure DOS DAT</name>
+		<name>Lost Level Archive - Pure DOS DAT Extras</name>
 		<description>DOS Game Extras</description>
 		<version>2024-11-06</version>
 		<date>2024-11-06</date>
 		<author>televandalist</author>
-		<homepage>Pure DOS DAT</homepage>
+		<homepage>Lost Level Archive</homepage>
 		<primary_url>https://github.com/televandalist/lost-level-archive</primary_url>
 		<secondary_url>https://github.com/PureDOS/DAT</secondary_url>
 	</header>
