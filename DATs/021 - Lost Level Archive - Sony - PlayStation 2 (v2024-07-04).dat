@@ -10,6 +10,11 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop)" cloneof="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan)">
+		<description>Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop)</description>
+		<release name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop)" type="Translation" region="Japan"/>
+		<rom name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop).iso" size="3576135680" crc="3953BE9B" md5="C233E45F26E2E7DD10F40CED77DD9EFF" sha1="DDDFF595592443F0BFAD9C1118251A5393136CD7"/>
+	</game>
 	<game name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)" cloneof="Half-Life (USA)">
 		<description>Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)</description>
 		<release name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)" type="Hack" region="USA"/>
