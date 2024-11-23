@@ -11,456 +11,453 @@
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="4 in a Row (Europe) (ESS-003-4)">
-		<description>Default</description>
+		<description>4 in a Row (Europe) (ESS-003-4)</description>
 		<rom name="4 in a Row (Europe) (ESS-003-4).pro" size="4096" crc="a8fe170d" md5="413d0e93d25ea052466f663e01b1703a" sha1="c273b1d285796b9d9d0b171654b2b15f93695b88" />
 		<rom name="4 in a Row (Europe) (ESS-003-4).tvc" size="1797" crc="db0ac12c" md5="2ccf968f80f61fa58c52861f2ac8ce00" sha1="7fa1db264d7c63f3c84bb6de50bf4afcf4de3ea6" />
 	</game>
 	<game name="4 in a Row (Europe) (ESS-007-6)">
-		<description>Default</description>
+		<description>4 in a Row (Europe) (ESS-007-6)</description>
 		<rom name="4 in a Row (Europe) (ESS-007-6).pro" size="4096" crc="f0aace8d" md5="89fe7f463c55ac312af10126ddefc141" sha1="64e79e2daaad7f55f9397b558bb48e28171489c6" />
 		<rom name="4 in a Row (Europe) (ESS-007-6).tvc" size="1285" crc="fb5369a2" md5="2adfa35bb133a3bf6b4a19b825f66aeb" sha1="68f80cbd0da8737c4c00dae29081b15a56066a30" />
 	</game>
 	<game name="4 in a Row (Europe) (ESS-007-7)">
-		<description>Default</description>
+		<description>4 in a Row (Europe) (ESS-007-7)</description>
 		<rom name="4 in a Row (Europe) (ESS-007-7).pro" size="4096" crc="356a10cf" md5="7a1eacc8ecc5117f5b5b95f23192c12c" sha1="289a75e3888b5588efa2786a56ec6d9fef577a23" />
 		<rom name="4 in a Row (Europe) (ESS-007-7).tvc" size="1453" crc="0f89b852" md5="663eed15fd2a7a39c21622d09e21fbf9" sha1="c9c88aa514e0bf24e915bdda46cd4c6261543663" />
 	</game>
 	<game name="Aggressor (Europe) (ESS-009-1)">
-		<description>Default</description>
+		<description>Aggressor (Europe) (ESS-009-1)</description>
 		<rom name="Aggressor (Europe) (ESS-009-1).pro" size="4096" crc="900d9e22" md5="0ff70a618d765faf7afbf82574338f28" sha1="f8225af197d678fd14f1c9663d6fc49434fb8db9" />
 		<rom name="Aggressor (Europe) (ESS-009-1).tvc" size="1827" crc="a472ed35" md5="d47f25b98226aa528c897cd7b9fa76d9" sha1="ea86de000c610fda878edca143d7191fcd269db8" />
 	</game>
 	<game name="Amazone (Europe) (ESS-007-4)">
-		<description>Default</description>
+		<description>Amazone (Europe) (ESS-007-4)</description>
 		<rom name="Amazone (Europe) (ESS-007-4).pro" size="4096" crc="f42b24a5" md5="9b8b0a7fcdce39e1222965c21b16c77e" sha1="9bb966259a6477978c3d09447348d690f9a4fabb" />
 		<rom name="Amazone (Europe) (ESS-007-4).tvc" size="1850" crc="ccdf96c7" md5="0a66501303746259703c099bf74fb681" sha1="d2c85c84ac99c099fa9766c11a09d9060c9a6bd5" />
 	</game>
 	<game name="Apple Tree (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Apple Tree (Europe) (Peter Marschat)</description>
 		<rom name="Apple Tree (Europe) (Peter Marschat).pro" size="4096" crc="06707a15" md5="08c13dde85d864df330d04547318830b" sha1="7d42632fad564f969a3bf380137a835b10e46d53" />
 	</game>
 	<game name="Assembler (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Assembler (Europe) (Peter Marschat)</description>
 		<rom name="Assembler (Europe) (Peter Marschat).pro" size="6144" crc="c07f8ed1" md5="b60c895898a2a0ab9b29408d49ec3e0b" sha1="5289e003633c855c8c14c3a49c5d4b663cd321c8" />
 	</game>
 	<game name="Asteroids (Europe) (ESS-011-5)">
-		<description>Default</description>
+		<description>Asteroids (Europe) (ESS-011-5)</description>
 		<rom name="Asteroids (Europe) (ESS-011-5).pro" size="6144" crc="d194b2d9" md5="9ec572b7766cbaa31132502e6f6b1372" sha1="91125281b6969e2c545419cd48a136b0edeaa35a" />
 		<rom name="Asteroids (Europe) (ESS-011-5).tvc" size="2954" crc="6b20453b" md5="4efffb40e9bd84ff37f9debb8807d68c" sha1="581cea175bc6e8979c10c9578cbfab40d2bf83b5" />
 	</game>
 	<game name="Attack from Space (Europe) (ESS-010-7)">
-		<description>Default</description>
+		<description>Attack from Space (Europe) (ESS-010-7)</description>
 		<rom name="Attack from Space (Europe) (ESS-010-7).pro" size="4096" crc="0048322b" md5="1a44e296b4ccb23ea0d98a0caa7c5230" sha1="76ce3591255501f8450a1b384e99ddd3fb959937" />
 		<rom name="Attack from Space (Europe) (ESS-010-7).tvc" size="1861" crc="3d74baaf" md5="b69a9c1519f20a42686c542f270434b2" sha1="b7be87bf7c87d270ab0911b4fdbf0b10f5c8337c" />
 	</game>
 	<game name="Awari (Europe) (ESS-009-B)">
-		<description>Default</description>
+		<description>Awari (Europe) (ESS-009-B)</description>
 		<rom name="Awari (Europe) (ESS-009-B).pro" size="4096" crc="8c1579d0" md5="a79e9289c3add783930a8d81f24ebf76" sha1="b9e553c7593b7aa78354cc32c0077f3801b21cd1" />
 		<rom name="Awari (Europe) (ESS-009-B).tvc" size="1861" crc="b129f154" md5="0a61ebf44259c67434ad44e1bcac96e7" sha1="693817fd3e1ccb14925a6e8b075850d59baa58bb" />
 	</game>
 	<game name="Basar (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Basar (Europe) (Hocosoft)</description>
 		<rom name="Basar (Europe) (Hocosoft).eof" size="4789" crc="8073046c" md5="b7f082b5116069c5ad043140a61cc863" sha1="64bb532d9e523218709c8a902adca7eedee66e45" />
 		<rom name="Basar (Europe) (Hocosoft).pro" size="5632" crc="e1b1e476" md5="04a312239d8099d1cdd4b04672289b26" sha1="f7efb9be0dc47fa1fbf3901fa8ce80198d0c2507" />
 	</game>
 	<game name="Basketball (Europe) (ESS-010-A)">
-		<description>Default</description>
+		<description>Basketball (Europe) (ESS-010-A)</description>
 		<rom name="Basketball (Europe) (ESS-010-A).pro" size="7168" crc="8b66ac75" md5="7bdc9c2e96243c43f68e237bf76574e7" sha1="6f86b3c5ab6721a32413491daaad2aa158afd979" />
 		<rom name="Basketball (Europe) (ESS-010-A).tvc" size="4165" crc="36541ae3" md5="9ef4ed004d188d0543daa1eeb6c3befc" sha1="bc25323e8790b2c7d51d35e14954678008cdade7" />
 	</game>
 	<game name="Blackjack (Europe) (ESS-009-9)">
-		<description>Default</description>
+		<description>Blackjack (Europe) (ESS-009-9)</description>
 		<rom name="Blackjack (Europe) (ESS-009-9).pro" size="4096" crc="ad905b98" md5="200b25d4baf63275a3ba4480ad2abfec" sha1="3d2e777c24634f93dbfd9cfd66d30cef8be2cb57" />
 		<rom name="Blackjack (Europe) (ESS-009-9).tvc" size="1861" crc="90acd31c" md5="e7d5f1b22f7c0e3b52a1000cf86e22f6" sha1="02430a915c2d5d7c76691fc69475186abc71efcc" />
 	</game>
 	<game name="Breakout (Europe) (ESS-011-8)">
-		<description>Default</description>
+		<description>Breakout (Europe) (ESS-011-8)</description>
 		<rom name="Breakout (Europe) (ESS-011-8).pro" size="4096" crc="ab065283" md5="4f770300e390cb74bc6c7a3a9fff6982" sha1="423a6726b2fd183f4ce4a0ad88b4a30e7bf65295" />
 	</game>
 	<game name="Bursting Balloons (Europe) (ESS-010-B)">
-		<description>Default</description>
+		<description>Bursting Balloons (Europe) (ESS-010-B)</description>
 		<rom name="Bursting Balloons (Europe) (ESS-010-B).pro" size="4096" crc="e34220a0" md5="196ab14382630a1c1ee33c017b446b96" sha1="7018f7f09e71fb4bcc5ee62285e5d7cc347dce71" />
 		<rom name="Bursting Balloons (Europe) (ESS-010-B).tvc" size="1861" crc="de7ea824" md5="d6b3a7879a1be746e994926d91601f60" sha1="803de91bf0b5ba7d48b89c383c87fd488bcc57cc" />
 	</game>
 	<game name="Bursting Balloons (Europe) (ESS-011-8)">
-		<description>Default</description>
+		<description>Bursting Balloons (Europe) (ESS-011-8)</description>
 		<rom name="Bursting Balloons (Europe) (ESS-011-8).tvc" size="1861" crc="963ada07" md5="70b6fbf9d240110077af80ec4db320ff" sha1="c1537312fde8160bfc0e0f0616483188630b38b8" />
 	</game>
 	<game name="Car Race (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Car Race (Europe) (Peter Marschat)</description>
 		<rom name="Car Race (Europe) (Peter Marschat).pro" size="3414" crc="08d46655" md5="b9dfc7a7864764c87217dac2f965ab5b" sha1="a70afe1a48c1787963ab82e702f84a088064c12c" />
 	</game>
 	<game name="Card Trick (Europe) (ESS-009-A)">
-		<description>Default</description>
+		<description>Card Trick (Europe) (ESS-009-A)</description>
 		<rom name="Card Trick (Europe) (ESS-009-A).pro" size="4096" crc="068165a0" md5="51a059877a622eca3dbaa170355a8185" sha1="f6bc3d14ea81821b141d5cc7db492043b872dfeb" />
 		<rom name="Card Trick (Europe) (ESS-009-A).tvc" size="1857" crc="7ff32e0b" md5="483f1046302f597b8f81fd93b8fba482" sha1="9fb6e3be413f29b8cc17cca3b2aa7932798ba688" />
 	</game>
 	<game name="Catapult (Europe) (ESS-010-5)">
-		<description>Default</description>
+		<description>Catapult (Europe) (ESS-010-5)</description>
 		<rom name="Catapult (Europe) (ESS-010-5).pro" size="4096" crc="410d3424" md5="ac6e0d7c7481fe16019fd35fd0351209" sha1="bbc4202e622ec29d7ee8758c7d84293a9781f58f" />
 		<rom name="Catapult (Europe) (ESS-010-5).tvc" size="1707" crc="cea44af4" md5="b0cb507cfdf9f5a4d4ee49ddddb31fe2" sha1="96211798f02e8f7c81c45ebf2375ef0678c0438e" />
 	</game>
 	<game name="Change Words for Hangman (Utility) (Europe) (ESS-010-1x)">
-		<description>Default</description>
+		<description>Change Words for Hangman (Utility) (Europe) (ESS-010-1x)</description>
 		<rom name="Change Words for Hangman (Utility) (Europe) (ESS-010-1x).pro" size="4096" crc="09317d8a" md5="2dbabab5df5978739ea2bae65a823888" sha1="9e876aaae9b966c5d0f9271acc045bfe57c9201e" />
 		<rom name="Change Words for Hangman (Utility) (Europe) (ESS-010-1x).tvc" size="1813" crc="3d4580a3" md5="fde60eda43c64cb31ad7b5571ebf2e49" sha1="3cf39cb92f670a6e0dd7954668b13abb7a8396e6" />
 	</game>
 	<game name="Circledrive (Europe) (ESS-009-3)">
-		<description>Default</description>
+		<description>Circledrive (Europe) (ESS-009-3)</description>
 		<rom name="Circledrive (Europe) (ESS-009-3).pro" size="8192" crc="e7a63d7f" md5="add797e145cc51dae7730734b3baefad" sha1="89a3a3ea0aaaf0d0c47802125e57a9dc440a4ac2" />
 		<rom name="Circledrive (Europe) (ESS-009-3).tvc" size="5874" crc="00d8860d" md5="938fd8ab57e469268754ec28e07ac10f" sha1="db9b228c1571ec8cfff465bc6b3d1ed41c292eaf" />
 	</game>
 	<game name="Clock (Utility) (Europe) (ESS-003-2)">
-		<description>Default</description>
+		<description>Clock (Utility) (Europe) (ESS-003-2)</description>
 		<rom name="Clock (Utility) (Europe) (ESS-003-2).pro" size="4096" crc="4a75d8eb" md5="bd25b7da474b74cbc5da4ac49210e347" sha1="c37d866a1b8b1d631e24d6ce8cee197549ff7e29" />
 		<rom name="Clock (Utility) (Europe) (ESS-003-2).tvc" size="774" crc="3eb20a14" md5="d9b794eca4f2ad587eaba9cb5f93062a" sha1="6c0d951f7047af1c5a9dc5acad06ae8827035112" />
 	</game>
 	<game name="Code Breaker (Europe) (ESS-007-2)">
-		<description>Default</description>
+		<description>Code Breaker (Europe) (ESS-007-2)</description>
 		<rom name="Code Breaker (Europe) (ESS-007-2).pro" size="4096" crc="8bc0c329" md5="18aae926ee8e6e7911183140839dab23" sha1="b0a40b268119e9e1c0cf8c9fe1627a627060ae71" />
 		<rom name="Code Breaker (Europe) (ESS-007-2).tvc" size="1541" crc="8fa9aaaf" md5="08384961ab022969a7daa2b3cdaa08e0" sha1="100403c1bfd7ffd377e894ee9fc1626c9d97fd74" />
 	</game>
 	<game name="Cosmic Adventure (Europe) (ESS-011-F)">
-		<description>Default</description>
+		<description>Cosmic Adventure (Europe) (ESS-011-F)</description>
 		<rom name="Cosmic Adventure (Europe) (ESS-011-F).pro" size="7168" crc="46d5a0ee" md5="cb32b1e80ede6437efadde32ead95819" sha1="bdf12c59664f3233099c9bc2aed3ad1dc95b56f6" />
 		<rom name="Cosmic Adventure (Europe) (ESS-011-F).tvc" size="4573" crc="e059d788" md5="e731b5fb80355976feafa0a5a31ef4e4" sha1="decd8dd3682edcfc2ce4c20e7357d074153f0ac0" />
 	</game>
 	<game name="Demonstration Program (Utility) (Europe) (ESS-003-6)">
-		<description>Default</description>
+		<description>Demonstration Program (Utility) (Europe) (ESS-003-6)</description>
 		<rom name="Demonstration Program (Utility) (Europe) (ESS-003-6).tvc" size="774" crc="4071464b" md5="b245c7dbd777d8a1b2d1401e30ab81f8" sha1="d464f1373c5f34dab9a3f66d5a82c02a0e41e338" />
 	</game>
 	<game name="Destroyer (Europe) (ESS-009-7)">
-		<description>Default</description>
+		<description>Destroyer (Europe) (ESS-009-7)</description>
 		<rom name="Destroyer (Europe) (ESS-009-7).pro" size="4096" crc="a19ab7fb" md5="770b95ea7496bb99c0491397b2dd738c" sha1="5176503c987e4e16ffcd5fe93dc1720ae3488fe4" />
 		<rom name="Destroyer (Europe) (ESS-009-7).tvc" size="1784" crc="dcc5fc4f" md5="31352fa861c990364e57b37db97dda0d" sha1="4af34a0c8c893f0b30b74c73ff5afe171f38cd9b" />
 	</game>
 	<game name="Disassembler (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Disassembler (Europe) (Peter Marschat)</description>
 		<rom name="Disassembler (Europe) (Peter Marschat).pro" size="5200" crc="b3f5d504" md5="4e64fc7d1088a7d2069e17dd67a2c589" sha1="ceec4fd2c3fd87d2f4c42b61fa8e35f27227e50e" />
 	</game>
 	<game name="Disassembler (Utility) (Europe) (ESS-007-D)">
-		<description>Default</description>
+		<description>Disassembler (Utility) (Europe) (ESS-007-D)</description>
 		<rom name="Disassembler (Utility) (Europe) (ESS-007-D).pro" size="8192" crc="f06467b4" md5="444450a11f2558bb684e4e89a2092ed0" sha1="673265952d34f4972e44726e6cea54ba91abf5fe" />
 		<rom name="Disassembler (Utility) (Europe) (ESS-007-D).tvc" size="5875" crc="50bfe2f1" md5="ee12feca5452d105dcdde12ae2481f6e" sha1="6b0356c7daf00906a151c18d71bf59c3c33c234c" />
 	</game>
 	<game name="Dragster (Europe) (ESS-011-6)">
-		<description>Default</description>
+		<description>Dragster (Europe) (ESS-011-6)</description>
 		<rom name="Dragster (Europe) (ESS-011-6).pro" size="7168" crc="015e3686" md5="0afeb5737fb499f39a5ffebb477ac891" sha1="841313ba2830b6740bae6ca8ba7e9d283447a9e9" />
 		<rom name="Dragster (Europe) (ESS-011-6).tvc" size="4101" crc="7f67c41a" md5="3a15e7b4920fe8ebb3253b01a226ee32" sha1="b4ad7ba895fc566ab7d14b2bedee2ddfe8cc7279" />
 	</game>
 	<game name="Editor (Utility) (Europe) (ESS-010-D)">
-		<description>Default</description>
+		<description>Editor (Utility) (Europe) (ESS-010-D)</description>
 		<rom name="Editor (Utility) (Europe) (ESS-010-D).pro" size="7168" crc="755114c2" md5="61bd2512a6e0a39c812e3181b2274c29" sha1="7af9d331b8661cb6d48c70063901fc7a0dac8013" />
 		<rom name="Editor (Utility) (Europe) (ESS-010-D).tvc" size="1541" crc="9d1a5ed0" md5="e3860f501dd25b322ae2c40eeaa640ea" sha1="fa8367a0c88724b97225ab6eff1101f6d71ad8cd" />
 	</game>
 	<game name="Fur Elise (Utility) (Europe) (ESS-010-C)">
-		<description>Default</description>
+		<description>Fur Elise (Utility) (Europe) (ESS-010-C)</description>
 		<rom name="Fur Elise (Utility) (Europe) (ESS-010-C).pro" size="6144" crc="5d1c7d36" md5="d74fc0d6e6fc9b7baea125de882200bf" sha1="a32d2ba781f06d4a66c9a185154b9e38935a516d" />
 		<rom name="Fur Elise (Utility) (Europe) (ESS-010-C).tvc" size="3158" crc="42b805c6" md5="94eb102cb45153293a8532def094ab10" sha1="4679a2bdc9349f5aeaa11e3ad1c74eb456b7d7f3" />
 	</game>
 	<game name="Galgenspiel-Hangman (Europe) (ESS-010-E)">
-		<description>Default</description>
+		<description>Galgenspiel-Hangman (Europe) (ESS-010-E)</description>
 		<rom name="Galgenspiel-Hangman (Europe) (ESS-010-E).pro" size="7168" crc="49e69462" md5="1a6534498a6c0826fe4b43f96420ad88" sha1="cdcf5a15888225c654d4070fda9edc1d20aa270f" />
 		<rom name="Galgenspiel-Hangman (Europe) (ESS-010-E).tvc" size="4101" crc="4cb754ce" md5="8881980b6290f962e79bb7c8eb489e40" sha1="5ddc5cab3c7961bdfaaae622372a51f71fe76ce3" />
 	</game>
 	<game name="Galgenspiel-Hangman (Europe) (ESS-010-F)">
-		<description>Default</description>
+		<description>Galgenspiel-Hangman (Europe) (ESS-010-F)</description>
 		<rom name="Galgenspiel-Hangman (Europe) (ESS-010-F).pro" size="7168" crc="426b44d8" md5="d3547555b71a58bdda929e21c2a4668d" sha1="83c45a8f641905c78557d1bc132859f256f87a4e" />
 		<rom name="Galgenspiel-Hangman (Europe) (ESS-010-F).tvc" size="4165" crc="fe5fcfb5" md5="15bcdaf3fa07394676f82e759b304558" sha1="78b1bce321a7c126be504f8961e5459c08823e60" />
 	</game>
 	<game name="Hard Nut (Europe) (ESS-010-4)">
-		<description>Default</description>
+		<description>Hard Nut (Europe) (ESS-010-4)</description>
 		<rom name="Hard Nut (Europe) (ESS-010-4).pro" size="4096" crc="28828bcc" md5="7b0534be602b85b163533dd6e2214938" sha1="bdd95fb338e33ffaf5263087fb9f551f7dc198db" />
 		<rom name="Hard Nut (Europe) (ESS-010-4).tvc" size="1797" crc="5b765ded" md5="f221b3ccad0254b74fd1b267d88475a1" sha1="fb73c5c0ce882008ee90dfa0885ac6468763d573" />
 	</game>
 	<game name="Helicopter (Europe) (ESS-010-3)">
-		<description>Default</description>
+		<description>Helicopter (Europe) (ESS-010-3)</description>
 		<rom name="Helicopter (Europe) (ESS-010-3).pro" size="4096" crc="13e56649" md5="bf9c00622c63eefa5e9b4a42456b9ea6" sha1="5266575387d81addad2ee937ea7318dbc94d913b" />
 		<rom name="Helicopter (Europe) (ESS-010-3).tvc" size="1861" crc="2ed9eecd" md5="d59524e3efae862b9a42196e30da6c4f" sha1="c081d4c6d132c027332e4f7db4fa77021c3d3628" />
 	</game>
 	<game name="Horse Race &amp; Jackpot (Europe) (ESS-011-A)">
-		<description>Default</description>
+		<description>Horse Race &amp; Jackpot (Europe) (ESS-011-A)</description>
 		<rom name="Horse Race &amp; Jackpot (Europe) (ESS-011-A).tvc" size="1861" crc="73df268b" md5="d400712c5413452afe874ad082c4bc9e" sha1="0c643206e582dcdf336f0f2e46f7ec61d8ce7aa1" />
-	</game>
-	<game name="Horse Race Plus Jackpot (Europe) (ESS-011-A)">
-		<description>Default</description>
-		<rom name="Horse Race Plus Jackpot (Europe) (ESS-011-A).pro" size="4096" crc="4ee3ae0f" md5="b755ec57a59090bab79c26c3fd610da1" sha1="6b98c16fca636794f1fb474258c362cde9644db8" />
+		<rom name="Horse Race &amp; Jackpot (Europe) (ESS-011-A).pro" size="4096" crc="4ee3ae0f" md5="b755ec57a59090bab79c26c3fd610da1" sha1="6b98c16fca636794f1fb474258c362cde9644db8" />
 	</game>
 	<game name="Horse Races (Europe) (ESS-011-C)">
-		<description>Default</description>
+		<description>Horse Races (Europe) (ESS-011-C)</description>
 		<rom name="Horse Races (Europe) (ESS-011-C).pro" size="5120" crc="b41e503e" md5="e926bac1237c717219a6a9521fbfd8c9" sha1="f9f82c0c58454f3115dd6f03c3a159a82ad835bd" />
 		<rom name="Horse Races (Europe) (ESS-011-C).tvc" size="2373" crc="4cdbb610" md5="5a96f963d05ccc001bc657e64b4e8151" sha1="d7c480e66ac8d2e4fe8edb4f8a4e083c6c9942fd" />
 	</game>
 	<game name="Invaders (Europe) (ESS-010-1)">
-		<description>Default</description>
+		<description>Invaders (Europe) (ESS-010-1)</description>
 		<rom name="Invaders (Europe) (ESS-010-1).pro" size="8192" crc="e02fda29" md5="061cce4a28e0b4074ef9783f035e4211" sha1="4597a3dc8e331fada1bebb6f9b2d622bf58feadf" />
 		<rom name="Invaders (Europe) (ESS-010-1).tvc" size="5874" crc="39402b84" md5="541601096da0fbd15fd28bac5793fbed" sha1="b49319a0a3f93fab3e982ecc8735d62f4e2d7fda" />
 	</game>
 	<game name="Jackpot (Europe) (ESS-007-8)">
-		<description>Default</description>
+		<description>Jackpot (Europe) (ESS-007-8)</description>
 		<rom name="Jackpot (Europe) (ESS-007-8).pro" size="4096" crc="6ee082d5" md5="71f5b412585ff2b357c19e80516a751e" sha1="32667ce9a1be56f47e30d05977868e4e2430a365" />
 		<rom name="Jackpot (Europe) (ESS-007-8).tvc" size="1826" crc="15f1d592" md5="fd5bfe6c009fbda5c6266a45b22b3369" sha1="44b5c9cc584ee4398c441a1a73a4966225fed3e4" />
 	</game>
 	<game name="Jagen (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Jagen (Europe) (Hocosoft)</description>
 		<rom name="Jagen (Europe) (Hocosoft).eof" size="4789" crc="ffd4733a" md5="1a3b0e70455684616a4c81488d7b8430" sha1="c5c2186eef312ee033aaf67e7385cff3f03e5f46" />
 		<rom name="Jagen (Europe) (Hocosoft).pro" size="5632" crc="1b37cf3c" md5="381126a6e69519a8ee70970673f43312" sha1="8b5caaff5867ea7b8d828db032fae4ddb91db278" />
 	</game>
 	<game name="Labyrinth (Europe) (ESS-009-6)">
-		<description>Default</description>
+		<description>Labyrinth (Europe) (ESS-009-6)</description>
 		<rom name="Labyrinth (Europe) (ESS-009-6).pro" size="7168" crc="64bef839" md5="669b1a6f5bc8392d77afa938d7f9e320" sha1="50edcac56ddbde1b32f1b1b987079a7e65f0946d" />
 		<rom name="Labyrinth (Europe) (ESS-009-6).tvc" size="4348" crc="3f21bdf6" md5="1cd8cfb7fbcd9d5ab146337873914986" sha1="c483342e2cb4e6170797f4f08ff3bf301d7306d6" />
 	</game>
 	<game name="Locomotive (Utility) (Europe) (ESS-003-06)">
-		<description>Default</description>
+		<description>Locomotive (Utility) (Europe) (ESS-003-06)</description>
 		<rom name="Locomotive (Utility) (Europe) (ESS-003-06).pro" size="4096" crc="d97b72d0" md5="d412288ca440b42de9dcd963417d4d98" sha1="5c358cb340fa6861d218a2c5be998f6bd41e9eb4" />
 	</game>
 	<game name="Lotto (Utility) (Europe) (ESS-007-F)">
-		<description>Default</description>
+		<description>Lotto (Utility) (Europe) (ESS-007-F)</description>
 		<rom name="Lotto (Utility) (Europe) (ESS-007-F).pro" size="4096" crc="2c0b67b9" md5="4750d4c8bad59d03f00b2869bfbcfd6f" sha1="8e420848270cf6a0f0b6e7ba70a099b7fc8b5f5e" />
 		<rom name="Lotto (Utility) (Europe) (ESS-007-F).tvc" size="1797" crc="5fffb198" md5="0cd642f238fde40693fb2a8963139fb4" sha1="4d73068d435da8278921d87fc751da87f8d7d7cb" />
 	</game>
 	<game name="Mastermind (Europe) (ESS-007-1)">
-		<description>Default</description>
+		<description>Mastermind (Europe) (ESS-007-1)</description>
 		<rom name="Mastermind (Europe) (ESS-007-1).pro" size="4096" crc="cdb52816" md5="dd03e80f4c8a1221c12c3316ef7aec5e" sha1="5a4a8b3298c990b9040e9228dee7cfaecbb22d68" />
 		<rom name="Mastermind (Europe) (ESS-007-1).tvc" size="1747" crc="bc5443b5" md5="a155ab1cd4a7f77a5017e7aff30c4761" sha1="7278acb1c1c327cba78899387bbbcfd2037c8656" />
 	</game>
 	<game name="Mathematik 1 (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Mathematik 1 (Europe) (Hocosoft)</description>
 		<rom name="Mathematik 1 (Europe) (Hocosoft).eof" size="4789" crc="6fc582fa" md5="58b805721b9a09aecc4963c9ab68da50" sha1="5e8bac7d2fe15c7a4885a7a67580b36e95a7b994" />
 		<rom name="Mathematik 1 (Europe) (Hocosoft).pro" size="5632" crc="673df93b" md5="354e185b8b8b65632b48786a70b77ca6" sha1="2d4125ca2bf69a7f812ff63043fe074c929c69af" />
 	</game>
 	<game name="Mazes (Europe) (ESS-011-4)">
-		<description>Default</description>
+		<description>Mazes (Europe) (ESS-011-4)</description>
 		<rom name="Mazes (Europe) (ESS-011-4).pro" size="5120" crc="b03a3ebd" md5="f153af9206a1eeddbfc3b1dcf16d878b" sha1="6a76ae9a79dbc89004d4d56a874ecfc5543d0cb8" />
 		<rom name="Mazes (Europe) (ESS-011-4).tvc" size="2130" crc="fb3727c4" md5="752b04c7f8d537301b60ad776adae9d1" sha1="e83b92e5c0cc55899b05e37dfc00c72f3d3fe67d" />
 	</game>
 	<game name="Memory (Europe) (ESS-009-5)">
-		<description>Default</description>
+		<description>Memory (Europe) (ESS-009-5)</description>
 		<rom name="Memory (Europe) (ESS-009-5).pro" size="5120" crc="43b3295c" md5="4c89d8f1bc23ac6d9b24c9f3cc56609e" sha1="25e255f243e3b89fb6151a934620cd82d5eb201e" />
 		<rom name="Memory (Europe) (ESS-009-5).tvc" size="2390" crc="d339cbb7" md5="6029558d05817f14189b1d68c9ea9fef" sha1="48f28988d5ebb1e2236f5b804783ea80109cf274" />
 	</game>
 	<game name="Molebasher (Europe) (ESS-011-2)">
-		<description>Default</description>
+		<description>Molebasher (Europe) (ESS-011-2)</description>
 		<rom name="Molebasher (Europe) (ESS-011-2).pro" size="4096" crc="48eba79f" md5="76f26287177ee0f616591eb8f412ecb7" sha1="2ae961ab35bad82770796c3bac40957b5757f026" />
 		<rom name="Molebasher (Europe) (ESS-011-2).tvc" size="1851" crc="39b9616b" md5="470d888650f2144d94c37a48017e4d6f" sha1="89e10a424d8bbaf46562f8198e8d560f912b4997" />
 	</game>
 	<game name="Moonlanding (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Moonlanding (Europe) (Peter Marschat)</description>
 		<rom name="Moonlanding (Europe) (Peter Marschat).pro" size="4096" crc="96cf615b" md5="52d63064c4cf585cd314b4704d4a65a8" sha1="62ce49c2125d3d7878465f34b474202efb33b4b3" />
 	</game>
 	<game name="Moonlanding for 2 (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Moonlanding for 2 (Europe) (Peter Marschat)</description>
 		<rom name="Moonlanding for 2 (Europe) (Peter Marschat).pro" size="4375" crc="29d1ade1" md5="3cc0de10b59677f9ec85a9ee953ac1f0" sha1="115518c036b6ebab1b3a02ae48443d8e02910131" />
 	</game>
 	<game name="Music Box (Utility) (Europe) (ESS-003-3)">
-		<description>Default</description>
+		<description>Music Box (Utility) (Europe) (ESS-003-3)</description>
 		<rom name="Music Box (Utility) (Europe) (ESS-003-3).pro" size="4096" crc="8a78e207" md5="684d88b7e1c39b6a55e9ebbc71a7cc69" sha1="353ff85ac16757a007c8dfbc779ccc7fe951c13d" />
 		<rom name="Music Box (Utility) (Europe) (ESS-003-3).tvc" size="774" crc="27936552" md5="dcc5e72f94bc364379b70af502f645c3" sha1="0f52e6cb6ab7acc46d61170a8fe9495a06b3c90c" />
 	</game>
 	<game name="Newton (Europe) (ESS-011-B)">
-		<description>Default</description>
+		<description>Newton (Europe) (ESS-011-B)</description>
 		<rom name="Newton (Europe) (ESS-011-B).pro" size="4096" crc="f544eef0" md5="7e81d128dab7608c1031f5178db13372" sha1="4bad5f568edadf3c987302bb4a9c0feea311cd26" />
 		<rom name="Newton (Europe) (ESS-011-B).tvc" size="1797" crc="86b038d1" md5="f94d028134169f434134ad2d5a3bf2fc" sha1="bd49371b1bfc4a3d675c3e335f9db4fb4ebc2ea5" />
 	</game>
 	<game name="Nim (Europe) (ESS-009-E)">
-		<description>Default</description>
+		<description>Nim (Europe) (ESS-009-E)</description>
 		<rom name="Nim (Europe) (ESS-009-E).pro" size="4096" crc="fc329059" md5="56fc1b68df14aaa23742634ba60814a6" sha1="ac985621886df5f65dcfd6681c6988a23d52faef" />
 		<rom name="Nim (Europe) (ESS-009-E).tvc" size="1813" crc="c8466d70" md5="94245e545f34400bf4d2c48db3159a4f" sha1="ab9ebe3000da249134905260a42c458684ba1e7e" />
 	</game>
 	<game name="Offshore Fishing (Europe) (ESS-009-2)">
-		<description>Default</description>
+		<description>Offshore Fishing (Europe) (ESS-009-2)</description>
 		<rom name="Offshore Fishing (Europe) (ESS-009-2).pro" size="4096" crc="5aff5e53" md5="a613d5d2c09ac51f55edeb1c3183b88d" sha1="279513a551f0bf8e7731a40a1e7c83efbc30e96f" />
 		<rom name="Offshore Fishing (Europe) (ESS-009-2).tvc" size="1861" crc="67c3d6d7" md5="c728bf0dce487029f684b4847baf6dc9" sha1="83778b9a6f4722d30b81b079d4fc57e587b8cbb1" />
 	</game>
 	<game name="Omega Landing (Europe) (ESS-011-7)">
-		<description>Default</description>
+		<description>Omega Landing (Europe) (ESS-011-7)</description>
 		<rom name="Omega Landing (Europe) (ESS-011-7).pro" size="4096" crc="429d0a9b" md5="1cd83199fbc6fc12a22c9983ff226731" sha1="59745397bb09335c4e43110f7aa4b52a672ea980" />
 		<rom name="Omega Landing (Europe) (ESS-011-7).tvc" size="1861" crc="7fa1821f" md5="067b6b03e52f2a9a1b3ecbdcaba66c07" sha1="3cd21257dfbfd784b9cc5a388eba22d1ec4ae242" />
 	</game>
 	<game name="Othello (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Othello (Europe) (Hocosoft)</description>
 		<rom name="Othello (Europe) (Hocosoft).eof" size="3409" crc="ade78231" md5="99b2740fdd1ed05e49b339fee8eb1767" sha1="047adf4fd127b96113bc569cf30241177215bc90" />
 		<rom name="Othello (Europe) (Hocosoft).pro" size="4608" crc="02ae8cc8" md5="5a296bd98133880bba1c6d9bb2ae80d6" sha1="f3d7241d91602f6be18814902059b4c43c755a4d" />
 	</game>
 	<game name="Painting (Europe) (ESS-011-D)">
-		<description>Default</description>
+		<description>Painting (Europe) (ESS-011-D)</description>
 		<rom name="Painting (Europe) (ESS-011-D).pro" size="4096" crc="2f10bee0" md5="f1f7d1f4800db6a12840a5a3969ca200" sha1="b20e7a282157fe88896e4b22453b64eaa8b6cb55" />
 		<rom name="Painting (Europe) (ESS-011-D).tvc" size="1861" crc="122c3664" md5="7d2775bf59d639cf15f2a7ae0e6dc71b" sha1="3b66bccaa516065dbb9ccba679bf45ef019ecea4" />
 	</game>
 	<game name="Penalty (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Penalty (Europe) (Peter Marschat)</description>
 		<rom name="Penalty (Europe) (Peter Marschat).pro" size="4096" crc="782c213e" md5="1be549f33ac0b1e03a9443fd55356859" sha1="379638a1de2ebd20f58be7e51165cbb0b5970684" />
 	</game>
 	<game name="Piano (Utility) (Europe) (ESS-007-B)">
-		<description>Default</description>
+		<description>Piano (Utility) (Europe) (ESS-007-B)</description>
 		<rom name="Piano (Utility) (Europe) (ESS-007-B).pro" size="3072" crc="59c2268b" md5="d310879e507064230ef8584417aeb5cf" sha1="b58fe195ecb19f16351e7a1c6eb79e4e74fb4def" />
 		<rom name="Piano (Utility) (Europe) (ESS-007-B).tvc" size="719" crc="cac3f0cd" md5="22e403e033e6b37abfb8de20aa4ef9ef" sha1="b30738b7b238881b71cf2082c43e871562be6356" />
 	</game>
 	<game name="Picture Pattern (Utility) (Europe) (ESS-006-1)">
-		<description>Default</description>
+		<description>Picture Pattern (Utility) (Europe) (ESS-006-1)</description>
 		<rom name="Picture Pattern (Utility) (Europe) (ESS-006-1).pro" size="4096" crc="ddb40355" md5="9927acc19a715d1509bcb2df1a36a267" sha1="2bb25b8040f367994ee5f55c00a853b180ddcaa7" />
 		<rom name="Picture Pattern (Utility) (Europe) (ESS-006-1).tvc" size="1861" crc="f6edb39a" md5="09e7db81336d4e4ba05d976bc8189044" sha1="49ca33e4f6666459eb02bc58bab59c989244e3a9" />
 	</game>
 	<game name="Pilot (Europe) (ESS-010-6)">
-		<description>Default</description>
+		<description>Pilot (Europe) (ESS-010-6)</description>
 		<rom name="Pilot (Europe) (ESS-010-6).pro" size="6144" crc="9c6b6ebb" md5="8e4fd389b24d85b7cf344d543d7668e4" sha1="bb95a99d157ef7f767dbb4ef74576519e94ef748" />
 		<rom name="Pilot (Europe) (ESS-010-6).tvc" size="3396" crc="a287992d" md5="f94aed97c487d17c05dd669cc49e3bc2" sha1="d8d9af7274e7925ce58e2b6a16f7a5aa37a88d9f" />
 	</game>
 	<game name="Pinball (Europe) (ESS-010-2)">
-		<description>Default</description>
+		<description>Pinball (Europe) (ESS-010-2)</description>
 		<rom name="Pinball (Europe) (ESS-010-2).pro" size="6144" crc="f4e4d797" md5="73373af2bc4bb8e1525a583720ac2a39" sha1="cb917ac6862cdde24f55b60951f158de92858e2b" />
 		<rom name="Pinball (Europe) (ESS-010-2).tvc" size="3396" crc="5a2da9c2" md5="778ad7909404e74add179dba705a580f" sha1="3e7cd371281e56869b30f96e882804e3721e29a4" />
 	</game>
 	<game name="Play with the PVI (Utility) (Europe) (ESS-003-1)">
-		<description>Default</description>
+		<description>Play with the PVI (Utility) (Europe) (ESS-003-1)</description>
 		<rom name="Play with the PVI (Utility) (Europe) (ESS-003-1).pro" size="4096" crc="337e7a3c" md5="cc1d22320e89aa49f2b872e1a09db1c9" sha1="589a118576213949887dba1471faeaa9242efbdd" />
 		<rom name="Play with the PVI (Utility) (Europe) (ESS-003-1).tvc" size="774" crc="049b13be" md5="248d158023607d902d87eb8bd4552bac" sha1="eb6c0016bade6525699dd175d614199ffa69455a" />
 	</game>
 	<game name="PVI Programming (Utility) (Europe) (ESS-006-2)">
-		<description>Default</description>
+		<description>PVI Programming (Utility) (Europe) (ESS-006-2)</description>
 		<rom name="PVI Programming (Utility) (Europe) (ESS-006-2).pro" size="4096" crc="e0501ec9" md5="362115e7a5f3b4b0a31c87c5f92c4a77" sha1="f2f843d26d93a2039ed53fb8ed45dbebe0f594c2" />
 		<rom name="PVI Programming (Utility) (Europe) (ESS-006-2).tvc" size="1797" crc="93a4c8e8" md5="7c17c84cf47cd3e93c2eff866df557b3" sha1="357d0402d7437a2d4b91e960706710b3ee72c7b2" />
 	</game>
 	<game name="PVI Programming (Utility) (Europe) (ESS-007-C)">
-		<description>Default</description>
+		<description>PVI Programming (Utility) (Europe) (ESS-007-C)</description>
 		<rom name="PVI Programming (Utility) (Europe) (ESS-007-C).pro" size="4096" crc="b3fc6c67" md5="1cf817299f1c24efc81a305132b5036a" sha1="e5d3337b4a19a0d78944abf7e178f119e9b4d1e8" />
 		<rom name="PVI Programming (Utility) (Europe) (ESS-007-C).tvc" size="1797" crc="c008ba46" md5="363fa92611da22fca7a65a931954778a" sha1="2d911ce2b695d4c0bd8723ac29c7820eb02cb7ff" />
 	</game>
 	<game name="Queen (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Queen (Europe) (Hocosoft)</description>
 		<rom name="Queen (Europe) (Hocosoft).eof" size="2673" crc="7aed3651" md5="4b74d658060b18e6c22669e307f36375" sha1="aef03a11e52d02f1cd7030aea856a6ec128382f8" />
 		<rom name="Queen (Europe) (Hocosoft).pro" size="4096" crc="3846a5d4" md5="e5651f7c767e0be66df6fc4cb128512e" sha1="adb47a887abf006823590b692877e256b7077b9f" />
 	</game>
 	<game name="Raster (Europe) (ESS-009-D)">
-		<description>Default</description>
+		<description>Raster (Europe) (ESS-009-D)</description>
 		<rom name="Raster (Europe) (ESS-009-D).pro" size="4096" crc="567d3224" md5="ca78da1eceb9f92b7970de3f55bdde83" sha1="1c2496e2d30312bc2f17f70a8fa93eafab551bb7" />
 		<rom name="Raster (Europe) (ESS-009-D).tvc" size="1332" crc="84660731" md5="5312273c8048a40339d1df6f54b237c9" sha1="6fdad04cacc6eeea4ab38c8f7047b335da8d3e35" />
 	</game>
 	<game name="Raumschlacht-Space Battle (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Raumschlacht-Space Battle (Europe) (Hocosoft)</description>
 		<rom name="Raumschlacht-Space Battle (Europe) (Hocosoft).eof" size="4881" crc="115bfe86" md5="b498ee8eb316dab6b46f5038dc0011b6" sha1="051c94705ba0ae841e7c9c3832373eb6d7dadb88" />
 		<rom name="Raumschlacht-Space Battle (Europe) (Hocosoft).pro" size="5632" crc="5ae19407" md5="f856ce496435f37eec7a0adf5c7737d0" sha1="1d4b684c5abc6cafdf475f86401915465d8ec5c3" />
 	</game>
 	<game name="Reverse (Europe) (ESS-010-8)">
-		<description>Default</description>
+		<description>Reverse (Europe) (ESS-010-8)</description>
 		<rom name="Reverse (Europe) (ESS-010-8).pro" size="4096" crc="15a90eb4" md5="acbb5de50edebd5695c50d348a94cdbd" sha1="0457cb89d18d0d0a7f8ff99e4e81ead1127045ec" />
 		<rom name="Reverse (Europe) (ESS-010-8).tvc" size="1842" crc="dfde0699" md5="4fd0765202b3ab286962cdcbf71c7432" sha1="1fe4ea7ebf5123a2c4838f0a1cab99384650bee8" />
 	</game>
 	<game name="Reverse (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Reverse (Europe) (Hocosoft)</description>
 		<rom name="Reverse (Europe) (Hocosoft).eof" size="2305" crc="3ec015f0" md5="f6c71beee7d6530a46c8645ff57b6188" sha1="58bf38c445354e934aa4251c6e447b9581428508" />
 		<rom name="Reverse (Europe) (Hocosoft).pro" size="3840" crc="15e54257" md5="edeb9e4e56588069570136c5338868ba" sha1="c22597df4d51edfc5156d7bf9931f54bd1ac52c5" />
 	</game>
 	<game name="Reversi (Europe) (ESS-007-3)">
-		<description>Default</description>
+		<description>Reversi (Europe) (ESS-007-3)</description>
 		<rom name="Reversi (Europe) (ESS-007-3).pro" size="4096" crc="0bb4a564" md5="4a32e0e83af3aee13484ad5d7dda57d3" sha1="4a53070f903bf75b32b6a8b1005468b87e6f31d2" />
 		<rom name="Reversi (Europe) (ESS-007-3).tvc" size="1797" crc="78407345" md5="391c17250431425f5b9c899bd8d9d502" sha1="342540ab344bea0c7642c7d484a58ef64220a825" />
 	</game>
 	<game name="Rocket Hunting (Europe) (ESS-010-9)">
-		<description>Default</description>
+		<description>Rocket Hunting (Europe) (ESS-010-9)</description>
 		<rom name="Rocket Hunting (Europe) (ESS-010-9).pro" size="8192" crc="da58e218" md5="11812e35ba825aad6c706074196870aa" sha1="b1be5e86a01341178397b64c2e519fbcd0300d4e" />
 		<rom name="Rocket Hunting (Europe) (ESS-010-9).tvc" size="5875" crc="76f288a3" md5="ff5f7f6c0bba34a081acb131653ca758" sha1="09ae6cf098e1182d3744f8be2f35cf6f3d385daa" />
 	</game>
 	<game name="Rocket Shooting (Europe) (ESS-006-3)">
-		<description>Default</description>
+		<description>Rocket Shooting (Europe) (ESS-006-3)</description>
 		<rom name="Rocket Shooting (Europe) (ESS-006-3).pro" size="4096" crc="6d4637d2" md5="f9c3c8cd4791072ea4303babe1515de0" sha1="ebd03fcc92395b0719bfcabc2473a05d09a6ed0e" />
 		<rom name="Rocket Shooting (Europe) (ESS-006-3).tvc" size="1077" crc="f8b41252" md5="472a9af429b440ba09a84ed6bc4630a6" sha1="392dafc12acae84bf2631f924f2519cddc00f556" />
 	</game>
 	<game name="Seawar (Europe) (ESS-009-4)">
-		<description>Default</description>
+		<description>Seawar (Europe) (ESS-009-4)</description>
 		<rom name="Seawar (Europe) (ESS-009-4).pro" size="4096" crc="6c09f1e3" md5="20a680f5eee4cc4471267faed4beabd3" sha1="84e61c75d9cb1b68b533765d524efc85db6f15f1" />
 		<rom name="Seawar (Europe) (ESS-009-4).tvc" size="1797" crc="1ffd27c2" md5="64973429bed230ab643d9d02eeb186d0" sha1="e38cee1e7b988db5ad3ae3b777fc5223710f5992" />
 	</game>
 	<game name="Shapes (Utility) (Europe) (ESS-007-A)">
-		<description>Default</description>
+		<description>Shapes (Utility) (Europe) (ESS-007-A)</description>
 		<rom name="Shapes (Utility) (Europe) (ESS-007-A).pro" size="3072" crc="a37ce1e4" md5="517b840bf85b58177a4a568e19bce8cc" sha1="100388a934e9218ba4fd9768762c30895f72672a" />
 		<rom name="Shapes (Utility) (Europe) (ESS-007-A).tvc" size="511" crc="9853eb12" md5="d528dfe4453ee79f6579b09671e41af0" sha1="a427f7c16a9c9f6fc92bdc64a3cf4349489926e2" />
 	</game>
 	<game name="Single Step (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Single Step (Europe) (Peter Marschat)</description>
 		<rom name="Single Step (Europe) (Peter Marschat).pro" size="5633" crc="aa4ea16e" md5="a047578b102c5c1c97a8e28dcb6ce332" sha1="36656331c6f786b651ac5f0b46fef1be57ae091e" />
 	</game>
 	<game name="Snakes and Ladders (Europe) (ESS-011-1)">
-		<description>Default</description>
+		<description>Snakes and Ladders (Europe) (ESS-011-1)</description>
 		<rom name="Snakes and Ladders (Europe) (ESS-011-1).pro" size="4096" crc="1527e074" md5="5d935c99d988881e338a7ad6bc975f72" sha1="6fd45a8620c417b40969fc8a208d763e934618ab" />
 		<rom name="Snakes and Ladders (Europe) (ESS-011-1).tvc" size="1861" crc="281b68f0" md5="ec77c9285986436bf95ff41021665c38" sha1="69dd400b0735d8c77b2c4a96513c3e5e7900e32b" />
 	</game>
 	<game name="Snap (Europe) (ESS-011-3)">
-		<description>Default</description>
+		<description>Snap (Europe) (ESS-011-3)</description>
 		<rom name="Snap (Europe) (ESS-011-3).pro" size="4096" crc="46e1c06b" md5="dd79ff06c462a95da2649d27fc9a4d42" sha1="4b1e43b72c07becfdbe6dd7054ec771cb9432550" />
 		<rom name="Snap (Europe) (ESS-011-3).tvc" size="1861" crc="7bdd48ef" md5="157b34d841dc9db621a8903a8d11047a" sha1="f64ddd49a19b359992377f72841f26deb93c0410" />
 	</game>
 	<game name="Solitaire (Europe) (ESS-009-F)">
-		<description>Default</description>
+		<description>Solitaire (Europe) (ESS-009-F)</description>
 		<rom name="Solitaire (Europe) (ESS-009-F).pro" size="4096" crc="a3525acc" md5="bb1f280d3ea208f04f493166d3cd427c" sha1="17b87c7537aac24cb447edf4623ad7b7607c6a3e" />
 		<rom name="Solitaire (Europe) (ESS-009-F).tvc" size="1861" crc="9e6ed248" md5="6f7ac2b5d983d5f34a56971962dc4cfe" sha1="57748cfd969a8bb504122a60961c18f24337f0a2" />
 	</game>
 	<game name="Solitaire A (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Solitaire A (Europe) (Hocosoft)</description>
 		<rom name="Solitaire A (Europe) (Hocosoft).eof" size="4881" crc="addbcea3" md5="5493fcd3b890fc76ceb2aa27a6bd8033" sha1="3bc8546c8d7d0dfca0239c86bb9d3025cdddc26c" />
 		<rom name="Solitaire A (Europe) (Hocosoft).pro" size="5632" crc="8114721e" md5="7876b96a90c3789e04a31e4ab636f734" sha1="21f95c22bd27a3e97df95d7d6ace71cd615405cb" />
 	</game>
 	<game name="Solitaire B (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Solitaire B (Europe) (Hocosoft)</description>
 		<rom name="Solitaire B (Europe) (Hocosoft).eof" size="4881" crc="9592c701" md5="56064da23f56bd0e7fd241ac646e4b4f" sha1="9c4302d0d60f029cb5924f1ac5a8d2e5511ba67b" />
 		<rom name="Solitaire B (Europe) (Hocosoft).pro" size="5632" crc="a377b787" md5="68e0e9227c97fb36348ccbf728ad62ea" sha1="cc408a02015ff974b7e632a393c5c99dac5bcc7c" />
 	</game>
 	<game name="Sound and Colour (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Sound and Colour (Europe) (Peter Marschat)</description>
 		<rom name="Sound and Colour (Europe) (Peter Marschat).pro" size="3552" crc="1eeaff84" md5="9e58336db27f39d712d8ef35eb18593a" sha1="8aa8e75d30e058813f5ff37123707acfc9b5dfbc" />
 	</game>
 	<game name="Space Shoot-Out (Europe) (ESS-007-5)">
-		<description>Default</description>
+		<description>Space Shoot-Out (Europe) (ESS-007-5)</description>
 		<rom name="Space Shoot-Out (Europe) (ESS-007-5).pro" size="4096" crc="608fe606" md5="bc934f838b5a6ec0ee00966354212b98" sha1="45ca3f4ebb61f6b004f3731652188bed630d1aea" />
 		<rom name="Space Shoot-Out (Europe) (ESS-007-5).tvc" size="1482" crc="6b1b3df7" md5="ee2ee2e166070d4c7d165c5b3866bf23" sha1="0f57b3ad7cabe3915ced19180bff4d2ca4411982" />
 	</game>
 	<game name="Starship Enterprise (Europe) (ESS-009-8)">
-		<description>Default</description>
+		<description>Starship Enterprise (Europe) (ESS-009-8)</description>
 		<rom name="Starship Enterprise (Europe) (ESS-009-8).pro" size="4096" crc="eea5525d" md5="aafd2993473d77d5c441a1cc309c2f3a" sha1="d1ac97b5bbfd9ff97e96e4cf54249d1c0f605b5d" />
 		<rom name="Starship Enterprise (Europe) (ESS-009-8).tvc" size="1501" crc="e9937b86" md5="dcd87ce8f4e5325fc5de4ecf2eec2f8f" sha1="278eb8e53f8155369c40125dc560313b6024599a" />
 	</game>
-	<game name="Submarines Plus Racing (Europe) (ESS-011-E)">
-		<description>Default</description>
-		<rom name="Submarines Plus Racing (Europe) (ESS-011-E).pro" size="4096" crc="347c584b" md5="0f4157a38407ecf52b60d93d102e885b" sha1="6d44e8e29f81724087f9ea704e5be89929603096" />
-		<rom name="Submarines Plus Racing (Europe) (ESS-011-E).tvc" size="1860" crc="f9f6942a" md5="fb8c205c7aa983c379068e9581364c2c" sha1="d968e72e32036444e05071b859534b9d25ae3a58" />
+	<game name="Submarines &amp; Racing (Europe) (ESS-011-E)">
+		<description>Submarines &amp; Racing (Europe) (ESS-011-E)</description>
+		<rom name="Submarines &amp; Racing (Europe) (ESS-011-E).pro" size="4096" crc="347c584b" md5="0f4157a38407ecf52b60d93d102e885b" sha1="6d44e8e29f81724087f9ea704e5be89929603096" />
+		<rom name="Submarines &amp; Racing (Europe) (ESS-011-E).tvc" size="1860" crc="f9f6942a" md5="fb8c205c7aa983c379068e9581364c2c" sha1="d968e72e32036444e05071b859534b9d25ae3a58" />
 	</game>
 	<game name="Surround (Europe) (ESS-003-5)">
-		<description>Default</description>
+		<description>Surround (Europe) (ESS-003-5)</description>
 		<rom name="Surround (Europe) (ESS-003-5).pro" size="4096" crc="6d15b13e" md5="978f17036b946822c4386bb591cc0b26" sha1="7133cce155c11fbf6cf707a78164cbb52e688c9a" />
 		<rom name="Surround (Europe) (ESS-003-5).tvc" size="1797" crc="1ee1671f" md5="ea2cd2e9f02671963257c9a118382460" sha1="c49ae24ecf7a797d1b7dbf12e11f1cb9a7777c41" />
 	</game>
 	<game name="Surround (Europe) (ESS-007-9)">
-		<description>Default</description>
+		<description>Surround (Europe) (ESS-007-9)</description>
 		<rom name="Surround (Europe) (ESS-007-9).pro" size="4096" crc="c36f5bda" md5="531e86bbc4cb369aa1175f69f91b84a2" sha1="4aa36c5b29bf006794cf6b3bdb81414179046d77" />
 		<rom name="Surround (Europe) (ESS-007-9).tvc" size="1797" crc="b09b8dfb" md5="992c2b4eecd367c808282eb343c99f11" sha1="f8185041e2f23e49450e99a800be674d848f818d" />
 	</game>
 	<game name="Teaser (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Teaser (Europe) (Hocosoft)</description>
 		<rom name="Teaser (Europe) (Hocosoft).eof" size="2581" crc="b8b1109a" md5="9dd2c8e6ec1beba99ba65cb6caa91a7a" sha1="229e522280ff594b21ac690207e0bd6aa4a18d08" />
 		<rom name="Teaser (Europe) (Hocosoft).pro" size="4096" crc="715b6eb5" md5="e5d42196ee027e4f53df807bdf0feb4d" sha1="ae7470ef163bede228e64af094b9efd365d0808e" />
 	</game>
 	<game name="Test Patterns (Utility) (Europe) (ESS-007-E)">
-		<description>Default</description>
+		<description>Test Patterns (Utility) (Europe) (ESS-007-E)</description>
 		<rom name="Test Patterns (Utility) (Europe) (ESS-007-E).pro" size="4096" crc="ddb40355" md5="9927acc19a715d1509bcb2df1a36a267" sha1="2bb25b8040f367994ee5f55c00a853b180ddcaa7" />
 		<rom name="Test Patterns (Utility) (Europe) (ESS-007-E).tvc" size="1861" crc="f6edb39a" md5="09e7db81336d4e4ba05d976bc8189044" sha1="49ca33e4f6666459eb02bc58bab59c989244e3a9" />
 	</game>
 	<game name="Ticker (Europe) (Peter Marschat)">
-		<description>Default</description>
+		<description>Ticker (Europe) (Peter Marschat)</description>
 		<rom name="Ticker (Europe) (Peter Marschat).pro" size="3418" crc="c60c2bc6" md5="df4847b56af2dff14975e68bde3c57cf" sha1="f24767bb006a2990d3fb34750d36ecb03e538c0d" />
 	</game>
 	<game name="Tiny Tim (Europe) (ESS-011-9)">
-		<description>Default</description>
+		<description>Tiny Tim (Europe) (ESS-011-9)</description>
 		<rom name="Tiny Tim (Europe) (ESS-011-9).pro" size="5120" crc="b5a9fedd" md5="a84c8e8582dd8722b00e72040039f3a0" sha1="52f05fb601e297f652a09dcb3414beaccf92ac95" />
 		<rom name="Tiny Tim (Europe) (ESS-011-9).tvc" size="2373" crc="94417986" md5="48a6d88b1e5b8aff7d7827b364522cb4" sha1="1391e968c27e119e1a1bd95a78a85798139a20a9" />
 	</game>
 	<game name="Towers of Hanoi (Europe) (Hocosoft)">
-		<description>Default</description>
+		<description>Towers of Hanoi (Europe) (Hocosoft)</description>
 		<rom name="Towers of Hanoi (Europe) (Hocosoft).eof" size="4789" crc="984fcc43" md5="79ba62bb9a302ad2459fa2530a83bfed" sha1="7ad9512773b42a09a321ebed4c90e5de959eab2f" />
 		<rom name="Towers of Hanoi (Europe) (Hocosoft).pro" size="5632" crc="b3cd3a9a" md5="8b307d77f187c40a7824a60a3ec80a3e" sha1="71f4b736668221017f873fc55a5d9fbd7b603c0a" />
 	</game>
 	<game name="UFO Shooting (Europe) (ESS-009-C)">
-		<description>Default</description>
+		<description>UFO Shooting (Europe) (ESS-009-C)</description>
 		<rom name="UFO Shooting (Europe) (ESS-009-C).pro" size="4096" crc="7be35693" md5="0531fead3502b7f63fcd8ec6f07dd1e9" sha1="67904544d197a7a84400f8bbe905301961eef395" />
 		<rom name="UFO Shooting (Europe) (ESS-009-C).tvc" size="985" crc="825caecc" md5="5f8a6148f466c081e0e3903dee97f7e9" sha1="7e24927b5805e8f13073cf7bd076e33a416daa59" />
 	</game>
