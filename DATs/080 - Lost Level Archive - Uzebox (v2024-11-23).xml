@@ -14,9 +14,13 @@
 		<description>2048 (World) (Harty123)</description>
 		<rom name="2048 (World) (Harty123).uze" size="34336" crc="aa284cda" md5="6696dad0719df3341b14e4c371286a4a" sha1="f78f8bd532e021c7c71e0306593d40b98591ee97" />
 	</game>
-	<game name="65536-in-1 (World) (v1.01) (Nebososo)">
-		<description>65536-in-1 (World) (v1.01) (Nebososo)</description>
-		<rom name="65536-in-1 (World) (v1.01) (Nebososo).uze" size="61486" crc="b00fa6e8" md5="b2cf0fc4934c642deaec67a4a17baedc" sha1="e9b2d3394e44220eee60be42131524f2e8776edd" />
+	<game name="65536-in-1 (World) (v1.0) (Nebososo)">
+		<description>65536-in-1 (World) (v1.0) (Nebososo)</description>
+		<rom name="65536-in-1 (World) (v1.0) (Nebososo).uze" size="61486" crc="b00fa6e8" md5="b2cf0fc4934c642deaec67a4a17baedc" sha1="e9b2d3394e44220eee60be42131524f2e8776edd" />
+	</game>
+	<game name="65536-in-1 (World) (v1.1) (Nebososo)">
+		<description>65536-in-1 (World) (v1.1) (Nebososo)</description>
+		<rom name="65536-in-1 (World) (v1.1) (Nebososo).uze" size="61812" crc="e47acadd" md5="a4948466074e9e2a54796c38e1259afd" sha1="0f931761ad0c3dd3e8d23d20c414773f1f5ebe4f" />
 	</game>
 	<game name="Adventures of Lolo (World) (Demo) (D3thAdd3r)">
 		<description>Adventures of Lolo (World) (Demo) (D3thAdd3r)</description>
@@ -450,9 +454,9 @@
 		<description>UzeMaze (World) (JimmyDansbo)</description>
 		<rom name="UzeMaze (World) (JimmyDansbo).uze" size="21184" crc="721c0cdb" md5="72e308aa4225abece89211b4234da519" sha1="b0486f98c2cf6c27db4e9d4c7de479fd0a383a61" />
 	</game>
-	<game name="UzeMaze (World) (JimmyDansbo) - UzeMaze RA (pinguupinguu)">
-		<description>UzeMaze (World) (JimmyDansbo) - UzeMaze RA (pinguupinguu)</description>
-		<rom name="UzeMaze (World) (JimmyDansbo) - UzeMaze RA (pinguupinguu).uze" size="19604" crc="d7094b70" md5="ae053a9a71680a22a59518544ab7c70b" sha1="80d57ad82286e193cf0ea89ff9242ae9054a3545" />
+	<game name="UzeMaze - UzeMaze RA (pinguupinguu)">
+		<description>UzeMaze - UzeMaze RA (pinguupinguu)</description>
+		<rom name="UzeMaze - UzeMaze RA (pinguupinguu).uze" size="19604" crc="d7094b70" md5="ae053a9a71680a22a59518544ab7c70b" sha1="80d57ad82286e193cf0ea89ff9242ae9054a3545" />
 	</game>
 	<game name="Uzepede (World) (v1.0) (Christian Garbs)">
 		<description>Uzepede (World) (v1.0) (Christian Garbs)</description>
