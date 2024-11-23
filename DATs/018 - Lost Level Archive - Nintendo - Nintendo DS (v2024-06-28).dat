@@ -14,6 +14,10 @@
 		<description>10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)</description>
 		<rom name="10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl).nds" size="1936960" crc="34CCB116" md5="8105C49D7DFD990CE4BCA5FB7C4FC89C" sha1="D525ABE0DF0253CF917308E381F87892167FA7EE"/>
 	</game>
+	<game name="Aperture Science DS (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Aperture Science DS (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Aperture Science DS (World) (v1.1) (Aftermarket) (Unl).nds" size="2153244" crc="EC4ADE78" md5="606F56507366EE66C521449F9596007B" sha1="68C9EA601F07A47DF8DEF24697FCC2AFB160BF01"/>
+	</game>
 	<game name="Disgaea DS (USA) (Undub)" cloneof="Disgaea DS (USA)">
 		<description>Disgaea DS (USA) (Undub)</description>
 		<rom name="Disgaea DS (USA) (Undub).nds" size="67325652" crc="FEBDE0A9" md5="6ACB0D1808099511489838A923604978" sha1="F009DDB9A04C28D8BB288F256B07945D3F141384"/>
