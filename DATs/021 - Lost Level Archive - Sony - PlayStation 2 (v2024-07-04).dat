@@ -15,6 +15,11 @@
 		<release name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop)" type="Translation" region="Japan"/>
 		<rom name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop).iso" size="3576135680" crc="3953BE9B" md5="C233E45F26E2E7DD10F40CED77DD9EFF" sha1="DDDFF595592443F0BFAD9C1118251A5393136CD7"/>
 	</game>
+	<game name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)" cloneof="Dynasty Warriors - Gundam 2 (USA)">
+		<description>Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)</description>
+		<release name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)" type="Undub" region="USA"/>
+		<rom name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller).iso" size="4196139008" crc="28EF1BC9" md5="A775E7F26F1EF2934435D731D03BA978" sha1="D173C4C6C96C47A9642835AB8DA829349B2633B5"/>
+	</game>
 	<game name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)" cloneof="Half-Life (USA)">
 		<description>Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)</description>
 		<release name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)" type="Hack" region="USA"/>
