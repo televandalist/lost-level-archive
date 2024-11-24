@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>001</id>
+		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
+		<description>Sega - Mega Drive - Genesis</description>
+		<version>v20241124</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="2048 (World) (v1.0) (Oerg866)">
+		<description>2048 (World) (v1.0) (Oerg866)</description>
+		<rom name="2048 (World) (v1.0) (Oerg866).md" size="171470" crc="ae2221cf" md5="e8f0a479d4391ea717cd2ee0132d9122" sha1="c84cacf8a9651b089b53ca35242200181e9e1019" />
+	</game>
+	<game name="Angry Birds (Demo) (Bootleg)">
+		<description>Angry Birds (Demo) (Bootleg).md</description>
+		<rom name="Angry Birds (Demo) (Bootleg).md" size="2621440" crc="9e73551a" md5="ad6ac7316d65857e27e5944b376af9c0" sha1="0fc13f486ae322d48b74350560e8c35745aceb14" />
+	</game>
+	<game name="Checker (USA) (AtGames - Devworks) (Bootleg)">
+		<description>Checker (USA) (AtGames - Devworks) (Bootleg).md</description>
+		<rom name="Checker (USA) (AtGames - Devworks) (Bootleg).md" size="291348" crc="f7ca9db3" md5="0317ac6323902e6b46254a032a1395b9" sha1="4ecdfdbf1dcb3d701ef8e729f62c90d2ab471959" />
+	</game>
+	<game name="Commandos (Russia) (Bootleg)">
+		<description>Commandos (Russia) (Bootleg).md</description>
+		<rom name="Commandos (Russia) (Bootleg).md" size="2097152" crc="28a88d6f" md5="2de1202ed1d50254d4e3c75147ffaa14" sha1="8adecc339a364b9516a5d83536bbdfa87ea20dda" />
+	</game>
+	<game name="CrazyBus (World) (Aftermarket) (Unl) (Tom Maneiro)">
+		<description>CrazyBus (World) (Aftermarket) (Unl) (Tom Maneiro).md</description>
+		<rom name="CrazyBus (World) (Aftermarket) (Unl) (Tom Maneiro).md" size="507360" crc="308a2e8e" md5="8329789cf6137cf0dffdfd503c82e1c3" sha1="9208b535b8a5bb5e28b44a4fbc255ec5a92f39dd" />
+	</game>
+	<game name="Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown)">
+		<description>Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md</description>
+		<rom name="Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md" size="524288" crc="fbb6cf49" md5="f3094cbf13e6cf5219734ce4debff5c0" sha1="2ec9ff982a7d271ceb1d92d1c551208142ea477a" />
+	</game>
+	<game name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic)">
+		<description>Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md</description>
+		<rom name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md" size="917504" crc="8eb5425e" md5="02dfa3e40d3eded3301828de44cb8e99" sha1="30df12657d6a8fbe7e1609275619f402adcd5350" />
+	</game>
+	<game name="Memory (USA) (AtGames) (Bootleg)">
+		<description>Memory (USA) (AtGames) (Bootleg).md</description>
+		<rom name="Memory (USA) (AtGames) (Bootleg).md" size="65536" crc="a85230c0" md5="8288b6d3f58d1844aef780bf0cdf0dc1" sha1="e37e15632d0a6b73f50cbb9bbd65cc1d62d1866e" />
+	</game>
+	<game name="Snake (USA) (AtGames) (Bootleg)">
+		<description>Snake (USA) (AtGames) (Bootleg).md</description>
+		<rom name="Snake (USA) (AtGames) (Bootleg).md" size="65536" crc="bece2de0" md5="b657876f9ea760a1e2207cc4806f2e3c" sha1="9eed888255d32806128408d30831234d2c2d7f52" />
+	</game>
+	<game name="Sonic Delta 40Mb (v0.64) (Neto)">
+		<description>Sonic Delta 40Mb (v0.64) (Neto).md</description>
+		<rom name="Sonic Delta 40Mb (v0.64) (Neto).md" size="5242880" crc="787369b0" md5="76777d3a0e62a05557c4d91f5d593d2f" sha1="ff849f23ac7cbf498b5b2259e3b44da401da8b14" />
+	</game>
+	<game name="Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ1 Restored)">
+		<description>Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ1 Restored).md</description>
+		<rom name="Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ1 Restored).md" size="2100288" crc="f0b2f07f" md5="58b7407aba0a57a35e2b08e11806bd01" sha1="672f68816e81784c900fb65b5773b9e766dcc3fb" />
+	</game>
+	<game name="Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ2 Restored)">
+		<description>Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ2 Restored).md</description>
+		<rom name="Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ2 Restored).md" size="2134724" crc="2e48a3ff" md5="8435a87a1c8594523d1286566128c4c3" sha1="6cb0c89cdf4e364da191a79c757c349ee2bd0a3f" />
+	</game>
+	<game name="Spatter (World) (Mega Drive Mini 2) (En) (Unknown)">
+		<description>Spatter (World) (Mega Drive Mini 2) (En) (Unknown).md</description>
+		<rom name="Spatter (World) (Mega Drive Mini 2) (En) (Unknown).md" size="524288" crc="03bacbbf" md5="e568eeafc8f560c380ab50fb57d77f66" sha1="c01308a4b2fade1d84d33408740c69d076ec64d0" />
+	</game>
+	<game name="Spider (USA) (AtGames) (Bootleg)">
+		<description>Spider (USA) (AtGames) (Bootleg).md</description>
+		<rom name="Spider (USA) (AtGames) (Bootleg).md" size="120848" crc="b4ba8100" md5="2aca804bb7eb2f30d3e1300b096a6f79" sha1="a5cdc2241b40a9acd7ab70f58e3dd21e503c551e" />
+	</game>
+	<game name="Super Byoon (World) (Aftermarket) (Unl) (neko800)">
+		<description>Super Byoon (World) (Aftermarket) (Unl) (neko800).md</description>
+		<rom name="Super Byoon (World) (Aftermarket) (Unl) (neko800).md" size="262144" crc="a92da414" md5="bb847c35890b4f1dc94fd15dc485968e" sha1="4742af51ce9d633077796e249808e7eb82ad4237" />
+	</game>
+	<game name="TetrisMD (World) (Aftermarket) (Unl) (NeroJin)">
+		<description>TetrisMD (World) (Aftermarket) (Unl) (NeroJin).md</description>
+		<rom name="TetrisMD (World) (Aftermarket) (Unl) (NeroJin).md" size="393216" crc="c9b4f888" md5="38931277d54d548944903c65a413c677" sha1="d59d038f9c41094dde283f234e069a78f688590c" />
+	</game>
+	<game name="Think Good 2004 (AtGames - Devworks)">
+		<description>Think Good 2004 (AtGames - Devworks).md</description>
+		<rom name="Think Good 2004 (AtGames - Devworks).md" size="1208218" crc="9acec7eb" md5="a235e10620413e72ac97907a214bfbb5" sha1="0d657cb4a5def9c074b05a407f1aa1893565eaff" />
+	</game>
+</datafile>
