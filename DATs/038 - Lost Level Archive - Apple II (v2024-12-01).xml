@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>038</id>
+		<name>038 - Lost Level Archive - Apple II</name>
+		<description>Apple II</description>
+		<version>v20241201</version>
+		<author>televandalist</author>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Donald's Alphabet Chase (1988) (Westwood Associates) (Cracked)">
+		<description>Donald's Alphabet Chase (1988) (Westwood Associates) (Cracked)</description>
+		<rom name="Donald's Alphabet Chase (1988) (Westwood Associates) (Cracked).dsk" size="143360" crc="f08cf26d" md5="b6712d0f0a84e8fb7bf8c0461bd11eb4" sha1="0555236ba122cd618261893abe46fc90742f99c4" />
+	</game>
+	<game name="Flapple Bird (v1.1) (2020) (digarok)">
+		<description>Flapple Bird (v1.1) (2020) (digarok)</description>
+		<rom name="Flapple Bird (v1.1) (2020) (digarok).po" size="143360" crc="fec87f3a" md5="a317e53a10a9db16d7471b23907116c9" sha1="98edb9e4ef74421803e8128c4042150b48761870" />
+	</game>
+	<game name="Gomoku (v1.2) (2023) (Stefan Wessels)">
+		<description>Gomoku (v1.2) (2023) (Stefan Wessels)</description>
+		<rom name="Gomoku (v1.2) (2023) (Stefan Wessels).dsk" size="143360" crc="36eec7a9" md5="7e15bf4cb477b06310af8d257d41c2aa" sha1="2dbfdf5dbda3cce455551df07c52fb53ee2063a0" />
+	</game>
+	<game name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software)">
+		<description>La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software)</description>
+		<rom name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software) (Disk 1).dsk" size="143360" crc="1fa3f4c9" md5="9d3749dceb156e166fea18765263ba92" sha1="605cfd5a7896f555b3685caedcde78fd309c263f" />
+		<rom name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software) (Disk 2).dsk" size="143360" crc="1661e4a9" md5="b70feb11a48af379b44300e8a20e47ca" sha1="18d77b7d0cfcd9ec0d6c7873c1e12670e6ecfb99" />
+	</game>
+	<game name="Lamp Chops! (2013) (Brian Picchi)">
+		<description>Lamp Chops! (2013) (Brian Picchi)</description>
+		<rom name="Lamp Chops! (2013) (Brian Picchi).do" size="143360" crc="4eeabced" md5="c6471ced618c7621101677095c04df76" sha1="ad3dea5ff554c2ef2c723cafeb30a3b5333800e6" />
+	</game>
+	<game name="Oregon (1975) (MECC) (Applesoft BASIC Conversion by Chris Torrence)">
+		<description>Oregon (1975) (MECC) (Applesoft BASIC Conversion by Chris Torrence)</description>
+		<rom name="Oregon (1975) (MECC) (Applesoft BASIC Conversion by Chris Torrence).dsk" size="143360" crc="713872c3" md5="de641cd4b5a8f0da32f4ca8b2ba6aa61" sha1="c7af4733146c19d9b77d8749a0a03bb767289e71" />
+	</game>
+	<game name="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)">
+		<description>Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)</description>
+		<rom name="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2).dsk" size="143360" crc="a7b2b091" md5="fc40e6016f06eb748ead9b072c53b6aa" sha1="ef3b51e87f3a2c2c034870b4e0b3cb486c02b7ca" />
+	</game>
+	<game name="Prince of Persia (1989) (Brøderbund) (Rebuilt from Source)">
+		<description>Prince of Persia (1989) (Brøderbund) (Rebuilt from Source)</description>
+		<rom name="Prince of Persia (1989) (Brøderbund) (Rebuilt from Source) (Disk 1).nib" size="232960" crc="b2715492" md5="d7c976c61c01f620e7cb1d3a5d432601" sha1="610108ac42dbc3f061606eea97b2a8cfd039e9dc" />
+		<rom name="Prince of Persia (1989) (Brøderbund) (Rebuilt from Source) (Disk 2).nib" size="232960" crc="6af84266" md5="4f319042ecb13e6a6090456d18b2aef3" sha1="64744920e918e65c30b90fea63b760b4097a03d2" />
+	</game>
+	<game name="Retro Fever (2014) (Brandon Bogle &amp; Brian Picchi)">
+		<description>Retro Fever (2014) (Brandon Bogle &amp; Brian Picchi)</description>
+		<rom name="Retro Fever (2014) (Brandon Bogle &amp; Brian Picchi).dsk" size="143360" crc="b55b4f2f" md5="dd3d229588ba113172f66dfa24b7754b" sha1="27806b2bc68ebf1464ee63237998e67e4a94ece8" />
+	</game>
+	<game name="Stunt Car Racer (2023) (cobbpg)">
+		<description>Stunt Car Racer (2023) (cobbpg)</description>
+		<rom name="Stunt Car Racer (2023) (cobbpg).dsk" size="143360" crc="328e1312" md5="934cf8c514c55a4a78b2d3c5d3b80b5a" sha1="8030ad722535d20acc161468bc5b844755ee74bd" />
+	</game>
+	<game name="Tristam (2020) (Hugo Labrande)">
+		<description>Tristam (2020) (Hugo Labrande)</description>
+		<rom name="Tristam (2020) (Hugo Labrande).dsk" size="143360" crc="f71adc40" md5="db076f7e013216e221fad1de00fa56bd" sha1="7fabf9ce7eec4533e826a0ba2060193443b6b199" />
+	</game>
+</datafile>
