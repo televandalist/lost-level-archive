@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+	<header>
+		<id>021</id>
+		<name>021 - Sony - PlayStation 2</name>
+		<description>Sony - PlayStation 2</description>
+		<version>v202407</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop)" cloneof="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan)">
+		<description>Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop)</description>
+		<rom name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop).iso" size="3576135680" crc="3953BE9B" md5="C233E45F26E2E7DD10F40CED77DD9EFF" sha1="DDDFF595592443F0BFAD9C1118251A5393136CD7"/>
+	</game>
+	<game name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)" cloneof="Dynasty Warriors - Gundam 2 (USA)">
+		<description>Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)</description>
+		<rom name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller).iso" size="4196139008" crc="28EF1BC9" md5="A775E7F26F1EF2934435D731D03BA978" sha1="D173C4C6C96C47A9642835AB8DA829349B2633B5"/>
+	</game>
+	<game name="Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.1) (Wagrenier)" cloneof="Fatal Frame II - Crimson Butterfly (USA)"> 
+		<description>Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.1) (Wagrenier)</description>
+		<rom name="Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.1) (Wagrenier).iso" size="3332530176" crc="364e2212" md5="b1e5c68d1018890371a89a139b63f991" sha1="e47ddd95462df6f7392f068f50958d22828cefc9" />
+	</game>
+	<game name="Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.2) (Wagrenier)" cloneof="Fatal Frame II - Crimson Butterfly (USA)">
+		<description>Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.2) (Wagrenier)</description>
+		<rom name="Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.2) (Wagrenier).iso" size="3332530176" crc="67f461bd" md5="8b33f35838ce97e73d311e14b1a3385b" sha1="a0e64f672401959924d87e1256d81f8683bc88bc" />
+	</game>
+	<game name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)" cloneof="Half-Life (USA)">
+		<description>Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)</description>
+		<rom name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex).iso" size="342163456" crc="6D930783" md5="7A073C1EED023C555B11B359E6F30BF5" sha1="955F84095148204C05ED43710C90A86F6B85C9BC"/>
+	</game>
+	<game name="Project Zero (Europe) (Undub) (Fixes) (Widescreen)" cloneof="Fatal Frame (USA)">
+		<description>Project Zero (Europe) (Undub) (Fixes) (Widescreen)</description>
+		<rom name="Project Zero (Europe) (Undub) (Fixes) (Widescreen).iso" size="3750100992" crc="8d025d38" md5="59d730a5d57a91bc2599308bb2883a0a" sha1="8f4e4f53e74f74c4ea67ffadad163a65af3f5591" />
+	</game>
+	<game name="Project Zero (Europe) (Undub) (v1.3.3)" cloneof="Fatal Frame (USA)">
+		<description>Project Zero (Europe) (Undub) (v1.3.3)</description>
+		<rom name="Project Zero (Europe) (Undub) (v1.3.3).iso" size="3750100992" crc="82e746e8" md5="0b3ef99ede325f43278779484a7ff983" sha1="128e917461036c9790b1be8b37da38036d72eabb" />
+	</game>
+	<game name="Project Zero (Europe) (Undub) (v1.3.3) (Fixes) (Widescreen)" cloneof="Fatal Frame (USA)">
+		<description>Project Zero (Europe) (Undub) (v1.3.3) (Fixes) (Widescreen)</description>
+		<rom name="Project Zero (Europe) (Undub) (v1.3.3) (Fixes) (Widescreen).iso" size="3750100992" crc="e544c29b" md5="872f7e078163eb33fccc8b7c8d6b327d" sha1="8bb602bb7c51ed4ab4d7b119fe720f3c9df60fa6" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)" cloneof="Shin Megami Tensei - Persona 3 FES (USA)">
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE).iso" size="4594335744" crc="0526d83f" md5="52a46ba50484cbd6411d5e67b6625c15" sha1="462676be62f1cab35531fafe3335cf3456cdb919" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01)" cloneof="Shin Megami Tensei - Persona 3 FES (USA)">
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01).iso" size="4534960128" crc="700b46b2" md5="afb5ba7e16953b6e6890bb56a7ec5eaa" sha1="786e8fd46b1b2f9c1a96b113e5f8dd30242ac51a" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01) (Original BGM) (Controllable Party) (TGE)" cloneof="Shin Megami Tensei - Persona 3 FES (USA)">
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01) (Original BGM) (Controllable Party) (TGE)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01) (Original BGM) (Controllable Party) (TGE).iso" size="4534960128" crc="da576993" md5="7b41861db8d5314c1c80ec918f6e14ef" sha1="4bcff9b964e0c2afc7f0644d93d2046582d4c824" />
+	</game>
+	<game name="Suikoden V (USA) (Undub)" cloneof="Suikoden V (USA)">
+		<description>Suikoden V (USA) (Undub)</description>
+		<rom name="Suikoden V (USA) (Undub).iso" size="4494260224" crc="B636742B" md5="D3419C57EB0FC16C366C087A381BD214" sha1="6FAC76A54F9B150F6BEFE0C035DAB0654EFDCF93"/>
+	</game>
+	<game name="Suikoden V (USA) (Undub) (Widescreen)" cloneof="Suikoden V (USA)">
+		<description>Suikoden V (USA) (Undub) (Widescreen)</description>
+		<rom name="Suikoden V (USA) (Undub) (Widescreen).iso" size="4494260224" crc="3AF525BE" md5="AD4B250810B9D19AA824DF6945B211AC" sha1="F227D5CC549FAECA78E4AA3B6185DB27A3AD90B9"/>
+	</game>
+	<game name="Tales of the Abyss (USA) (Es) (v1.0) (Tales Translations) (Undub) (v2.5) (Kotoba Group)" cloneof="Tales of the Abyss (USA)">
+		<description>Tales of the Abyss (USA) (Es) (v1.0) (Tales Translations) (Undub) (v2.5) (Kotoba Group)</description>
+		<rom name="Tales of the Abyss (USA) (Es) (v1.0) (Tales Translations) (Undub) (v2.5) (Kotoba Group).iso" size="4436121600" crc="6fa77743" md5="398f2e0438bc849ee1404b2231f2a92c" sha1="7d6d96139ad4f3bb372b77fa80192d7408f448aa" />
+	</game>
+	<game name="Tales of the Abyss (USA) (Undub) (v2.5) (Kotoba Group)" cloneof="Tales of the Abyss (USA)">
+		<description>Tales of the Abyss (USA) (Undub) (v2.5) (Kotoba Group)</description>
+		<rom name="Tales of the Abyss (USA) (Undub) (v2.5) (Kotoba Group).iso" size="4669773824" crc="597b8393" md5="320cc72a8f624e9bfaa575b35c80108c" sha1="c6b1c2390f4cdf592570b36b947d31b9f9343437" />
+	</game>
+</datafile>
