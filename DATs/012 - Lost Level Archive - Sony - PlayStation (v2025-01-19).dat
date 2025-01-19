@@ -4,7 +4,7 @@
 		<id>012</id>
 		<name>012 - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20240712</version>
+		<version>v20250119</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -47,6 +47,13 @@
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 25).bin" size="2462544" crc="96AFAC57" md5="556F0675D2CA1A70312F5346F5958B78" sha1="4B4E38265FDBF6CD929D851F14C6AF6FB6757D4A"/>
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 26).bin" size="15974784" crc="3ACCF64E" md5="55E2C42BF0E9EE6D4C1D256D62054626" sha1="FD88923E10288CFEB8A500262E40E5B9B0FDB4C3"/>
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga).cue" size="3674" crc="4079D6C9" md5="39EB5C2068C2C18D2EBFF906C9F5DEC6" sha1="2449FCBB26DC339191AE9506CFA2AF858D69E732"/>
+	</game>
+	<game name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)">
+		<description>Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)</description>
+		<release name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)" type="Translation" region="USA"/>
+		<rom name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k) (Track 1).bin" size="615675984" crc="17074f06" md5="f03d8f7427e0868d044e7bd1b241375d" sha1="f9bcf686edbef10d01764f3e3966a86a6c9cd084"/>
+		<rom name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
+		<rom name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k).cue" size="260" crc="3b1e86fb" md5="1bba9bd5675caba2c452d5da48f41565" sha1="00f58ad11ab285f1c91713c3ccc8711558e19e13"/>
 	</game>
 	<game name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)">
 		<description>Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)</description>
