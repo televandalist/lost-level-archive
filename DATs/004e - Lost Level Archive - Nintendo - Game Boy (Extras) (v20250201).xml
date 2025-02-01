@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<id>004e</id>
-		<name>004e - Lost Level Archive - Nintendo - Game Boy (Extras) (v2024-09-06)</name>
+		<name>004e - Lost Level Archive - Nintendo - Game Boy (Extras)</name>
 		<description>Nintendo - Game Boy (Extras)</description>
-		<version>v20240906</version>
+		<version>v20250201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>

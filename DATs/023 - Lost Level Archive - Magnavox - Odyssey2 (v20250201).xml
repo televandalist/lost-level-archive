@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>023</id>
+		<name>023 - Lost Level Archive - Magnavox - Odyssey2</name>
+		<description>Magnavox - Odyssey2</description>
+		<version>v20250201</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Boobs (Homebrew) (v1.3a) (Chris Read)">
+		<description>Boobs (Homebrew) (v1.3a) (Chris Read)</description>
+		<rom name="Boobs (Homebrew) (v1.3a) (Chris Read).bin" size="2048" crc="9847f5d0" md5="2ff854e7bdaf79ebacc70610d7129a63" sha1="0d6b44e2445dbb3bf70c4e05f222822845c29762" />
+	</game>
+	<game name="Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection)">
+		<description>Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection)</description>
+		<rom name="Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection).bin" size="4096" crc="28e6901b" md5="449661989f35b981901fef21330e005c" sha1="2b34ef0e1a8c0371f00a33d6950e0807f3cb886e" />
+	</game>
+</datafile>

@@ -1,88 +1,126 @@
-<?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
 	<header>
 		<id>004</id>
-		<name>004 - Lost Level Archive - Nintendo - Game Boy (v2024-09-06)</name>
+		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20240906</version>
-		<author>televandalist</author>
+		<version>v20250201</version>
+		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Banished (World) (Aftermarket) (Unl)">
 		<description>Banished (World) (Aftermarket) (Unl)</description>
-		<release name="Banished (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Banished (World) (Aftermarket) (Unl).gb" size="262144" crc="9BAC0192" md5="2E90B711C7A97E193819C1DB7ADD15C0" sha1="ECA6431A22916022E39558DC218C19AA9E00F9FD"/>
 	</game>
 	<game name="Ciao Nonna (World) (En,It) (v2.2) (Aftermarket) (Unl)">
 		<description>Ciao Nonna (World) (En,It) (v2.2) (Aftermarket) (Unl)</description>
-		<release name="Ciao Nonna (World) (En,It) (v2.2) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Ciao Nonna (World) (En,It) (v2.2) (Aftermarket) (Unl).gb" size="262144" crc="6B19820A" md5="2D6B629AC9898B7688FCC21AD3548EBC" sha1="7D83CB9A091CFBE58EEEB70FA43C35697B82AEA3"/>
 	</game>
 	<game name="Ciao Nonna (World) (Es,Eu) (v2.2) (Aftermarket) (Unl)">
 		<description>Ciao Nonna (World) (Es,Eu) (v2.2) (Aftermarket) (Unl)</description>
-		<release name="Ciao Nonna (World) (Es,Eu) (v2.2) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Ciao Nonna (World) (Es,Eu) (v2.2) (Aftermarket) (Unl).gb" size="262144" crc="E7CBFFFE" md5="90FF156A9F31DAB82AC604F3830EDC13" sha1="D14F426C46C93E775CAFF33E51E4ADC2B0D61FF4"/>
+	</game>
+	<game name="Dead By Daylight (World) (Retro Jam 2021) (Aftermarket) (Unl)">
+		<description>Dead By Daylight (World) (Retro Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Dead By Daylight (World) (Retro Jam 2021) (Aftermarket) (Unl).gb" size="262144" crc="06bb7973" md5="38be0b6e675f1f5780c71163190c5c6c" sha1="5a049b853536c03073a6d0a1e06c280a5254bd13" />
 	</game>
 	<game name="Dead in My Living Room, The (World) (Aftermarket) (Unl)">
 		<description>Dead in My Living Room, The (World) (Aftermarket) (Unl)</description>
-		<release name="Dead in My Living Room, The (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Dead in My Living Room, The (World) (Aftermarket) (Unl).gb" size="262144" crc="2A4EA175" md5="020397A93CB6B897716C4F261E9A339E" sha1="9AC54DF0BDCDF49895F13FF2EEB65E5231628E0E"/>
 	</game>
 	<game name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl)">
 		<description>Deep Dungeon (World) (v1.3) (Aftermarket) (Unl)</description>
-		<release name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl).gb" size="2097152" crc="D67E1A10" md5="4F9B77AFB81D66E6AF1BD54B7B06351F" sha1="060CEA84DA0F1047E6FB1FA2153961EBA84413CA"/>
+	</game>
+	<game name="Desert Bus (World) (Aftermarket) (Unl)">
+		<description>Desert Bus (World) (Aftermarket) (Unl)</description>
+		<rom name="Desert Bus (World) (Aftermarket) (Unl).gb" size="32768" crc="1b26a727" md5="44fc58f70f6a69c02b348f121cafb28c" sha1="7d2ecaf19f8f7edd2f826f505f7c14abc1438416" />
+	</game>
+	<game name="Fishin' for Average Caucasian Boyfriends (World) (v20240307) (Aftermarket) (Unl)">
+		<description>Fishin' for Average Caucasian Boyfriends (World) (v20240307) (Aftermarket) (Unl)</description>
+		<rom name="Fishin' for Average Caucasian Boyfriends (World) (v20240307) (Aftermarket) (Unl).gb" size="524288" crc="61d51567" md5="e9403147da4e45805a37b840269ab79d" sha1="afba743830dff08dfc8c9fbead4295c07f0e446f" />
+	</game>
+	<game name="Flappy Bird (World) (v20220108) (Aftermarket) (Unl)">
+		<description>Flappy Bird (World) (v20220108) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Bird (World) (v20220108) (Aftermarket) (Unl).gb" size="131072" crc="3daa9740" md5="b42f765d1704c7bf2e158dacdbee8165" sha1="3a2da99d4220a1e8d57ba5d678fa75352d85be6e" />
+	</game>
+	<game name="Flappy Boy (World) (Aftermarket) (Unl)">
+		<description>Flappy Boy (World) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Boy (World) (Aftermarket) (Unl).gb" size="32768" crc="f41c73f1" md5="4c0b53fd1fe4923d880e2fc70418d101" sha1="8603205feb836fe02091719649cb887cc4e344d4" />
+	</game>
+	<game name="Frog Detective Minus 1 (World) (Aftermarket) (Unl)">
+		<description>Frog Detective Minus 1 (World) (Aftermarket) (Unl)</description>
+		<rom name="Frog Detective Minus 1 (World) (Aftermarket) (Unl).gb" size="1048576" crc="4a9249a5" md5="a079653cbee238c70ca3a35601822b82" sha1="e012fca875e0bf8f62946d588e0405a5b5b4a6f4" />
+	</game>
+	<game name="Halo - Combat Devolved (World) (Aftermarket) (Unl)">
+		<description>Halo - Combat Devolved (World) (Aftermarket) (Unl)</description>
+		<rom name="Halo - Combat Devolved (World) (Aftermarket) (Unl).gb" size="2097152" crc="460ee3ef" md5="dc06ee0aec594e662e80c2bde217afa1" sha1="5b2eff5fe082b5a02c2f6971a7be436aa36f0678" />
+	</game>
+	<game name="He Fucked The Girl Out of Me (World) (v1.1) (Aftermarket) (Unl)">
+		<description>He Fucked The Girl Out of Me (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="He Fucked The Girl Out of Me (World) (v1.1) (Aftermarket) (Unl).gb" size="1048576" crc="8862ab72" md5="7b0182410ff25d7240827bda438ef05f" sha1="21dd2fe314eaf104e3c5701b7fb87b9e11ee3992" />
+	</game>
+	<game name="Logic Island (World) (v2.1) (Aftermarket) (Unl)">
+		<description>Logic Island (World) (v2.1) (Aftermarket) (Unl)</description>
+		<rom name="Logic Island (World) (v2.1) (Aftermarket) (Unl).gb" size="32768" crc="f7334dd8" md5="29ea5f06ac497d805bd686bf948c9d81" sha1="79732b7f8f87be3db152b4cfa1e5248e4f5213d1" />
 	</game>
 	<game name="Nightshift (World) (Aftermarket) (Unl)">
 		<description>Nightshift (World) (Aftermarket) (Unl)</description>
-		<release name="Nightshift (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Nightshift (World) (Aftermarket) (Unl).gb" size="131072" crc="9A928FA8" md5="5774C875DFD6FE440E7F4C16FB71E696" sha1="9C29948363818CB8AE3D628351480276AA436881"/>
+	</game>
+	<game name="Niñoid (World) (Aftermarket) (Unl)">
+		<description>Niñoid (World) (Aftermarket) (Unl)</description>
+		<rom name="Niñoid (World) (Aftermarket) (Unl).gb" size="262144" crc="13b08312" md5="57b46220d280a9fb225abacc9e1a592f" sha1="94f4fbd44c8758b3f555641a10747f338e34a796" />
 	</game>
 	<game name="Persona 4 (World) (Aftermarket) (Unl) (Demo)">
 		<description>Persona 4 (World) (Aftermarket) (Unl) (Demo)</description>
-		<release name="Persona 4 (World) (Aftermarket) (Unl) (Demo)" type="homebrew" region="World"/>
 		<rom name="Persona 4 (World) (Aftermarket) (Unl) (Demo).gb" size="262144" crc="68A9AAB6" md5="F6332C87AB33177B3B8650A9D9500851" sha1="BFDC9D2084EBF2C208F664397A092D7B768CD74F"/>
+	</game>
+	<game name="Persona 5 Pocket Edition (World) (v0.3) (Aftermarket) (Unl)">
+		<description>Persona 5 Pocket Edition (World) (v0.3) (Aftermarket) (Unl)</description>
+		<rom name="Persona 5 Pocket Edition (World) (v0.3) (Aftermarket) (Unl).gb" size="262144" crc="29660898" md5="583ff1d2f95c6237fc0929dad27f5e2d" sha1="431170eb6b677d07f54558121f78110d59670d6a" />
 	</game>
 	<game name="Retro Adventure (World) (Aftermarket) (Unl)">
 		<description>Retro Adventure (World) (Aftermarket) (Unl)</description>
-		<release name="Retro Adventure (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Retro Adventure (World) (Aftermarket) (Unl).gb" size="262144" crc="521DE56F" md5="0BC273DFA6A9ED9EAA8687BC391D946C" sha1="1AA79F122D155D21B60D4B51FB14263FD9145A5C"/>
+	</game>
+	<game name="Renegade Rush (World) (v20210930) (Aftermarket) (Unl)">
+		<description>Renegade Rush (World) (v20210930) (Aftermarket) (Unl)</description>
+		<rom name="Renegade Rush (World) (v20210930) (Aftermarket) (Unl).gb" size="65536" crc="e77d4be8" md5="ef677114b4075b5669eba8bcce996b69" sha1="16a3534909c8c932896ebd12a6745d334a6b3278" />
 	</game>
 	<game name="Rex Run (World) (Aftermarket) (Unl)">
 		<description>Rex Run (World) (Aftermarket) (Unl)</description>
-		<release name="Rex Run (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Rex Run (World) (Aftermarket) (Unl).gb" size="32768" crc="032F41FE" md5="41EAB5D6F3D462B9E6A933A4C47BC61D" sha1="ACFF59AE88FBD285623714746DF585ACA735C343"/>
 	</game>
 	<game name="Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl)">
 		<description>Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl)</description>
-		<release name="Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl).gb" size="524288" crc="5FD53151" md5="6762619D05C36252B1DDFB67230F52F0" sha1="73CB2330F9B58A324A41F6AA85B53AB8CC946AFC"/>
 	</game>
 	<game name="Slime Trials (World) (Aftermarket) (Unl)">
 		<description>Slime Trials (World) (Aftermarket) (Unl)</description>
-		<release name="Slime Trials (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Slime Trials (World) (Aftermarket) (Unl).gb" size="65536" crc="A9B371B8" md5="F7B59AAEDD98CC6A43906C2FD1140F51" sha1="E0C955AA488906434AA3D4518BB7B4C630C89D04"/>
 	</game>
 	<game name="Soul Void Redux (World) (Aftermarket) (Unl)">
 		<description>Soul Void Redux (World) (Aftermarket) (Unl)</description>
-		<release name="Soul Void Redux (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Soul Void Redux (World) (Aftermarket) (Unl).gb" size="1048576" crc="B6F5F372" md5="CE14AFB9B396A74A1E0E2ECE9747EA9C" sha1="3B10F6BAE11DAB5BB6106D0A6E4E80A3FBD0FA7A"/>
 	</game>
 	<game name="Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo)">
 		<description>Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo)</description>
-		<release name="Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo)" type="homebrew" region="World"/>
 		<rom name="Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo).gb" size="262144" crc="FE34E95A" md5="52B40DC9C628A79DA9CD459554E56961" sha1="084F7BBAEE390302C509FEA86D99A25DC8D7FF04"/>
 	</game>
 	<game name="Yakuza GB (World) (Aftermarket) (Unl)">
 		<description>Yakuza GB (World) (Aftermarket) (Unl)</description>
-		<release name="Yakuza GB (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Yakuza GB (World) (Aftermarket) (Unl).gb" size="524288" crc="563EE36C" md5="63B8904275BF684DCDB8FACE9FFF93F8" sha1="E83F2B2CD48D2427AE13207D71402D686DCC4373"/>
 	</game>
 	<game name="You Are a Skeleton &amp; That Is a Problem (World) (Aftermarket) (Unl)">
 		<description>You Are a Skeleton &amp; That Is a Problem (World) (Aftermarket) (Unl)</description>
-		<release name="You Are a Skeleton &amp; That Is a Problem (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="You Are a Skeleton &amp; That Is a Problem (World) (Aftermarket) (Unl).gb" size="524288" crc="B5A7D219" md5="ABBF60358879B6F47AA61E35695B4995" sha1="8E8248120652E22EBE59F7FA5BE263E9F3D89B14"/>
+	</game>
+	<game name="Yoru no Kasou (World) (Aftermarket) (Unl)">
+		<description>Yoru no Kasou (World) (Aftermarket) (Unl)</description>
+		<rom name="Yoru no Kasou (World) (Aftermarket) (Unl).gb" size="1048576" crc="e708a0ad" md5="c322fe4c7ce87654a429e149c8671f00" sha1="8d82a71e48b7e4fac7abd6c082b684f4735a2663" />
 	</game>
 </datafile>

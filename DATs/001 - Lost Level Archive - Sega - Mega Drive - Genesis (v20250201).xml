@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20241124</version>
+		<version>v20250201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -23,10 +23,6 @@
 		<description>Checker (USA) (AtGames - Devworks) (Bootleg).md</description>
 		<rom name="Checker (USA) (AtGames - Devworks) (Bootleg).md" size="291348" crc="f7ca9db3" md5="0317ac6323902e6b46254a032a1395b9" sha1="4ecdfdbf1dcb3d701ef8e729f62c90d2ab471959" />
 	</game>
-	<game name="Chessmaster, The (USA)">
-		<description>Chessmaster, The (USA).md</description>
-		<rom name="Chessmaster, The (USA).md" size="524288" crc="109994d0" md5="2ec41fa98640e75bbdd58ec0fd677b1b" sha1="f15ae5e3500428f7e4f5ee24075682ad345ec312" />
-	</game>
 	<game name="Commandos (Russia) (Bootleg)">
 		<description>Commandos (Russia) (Bootleg).md</description>
 		<rom name="Commandos (Russia) (Bootleg).md" size="2097152" crc="28a88d6f" md5="2de1202ed1d50254d4e3c75147ffaa14" sha1="8adecc339a364b9516a5d83536bbdfa87ea20dda" />
@@ -42,10 +38,6 @@
 	<game name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic)">
 		<description>Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md</description>
 		<rom name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md" size="917504" crc="8eb5425e" md5="02dfa3e40d3eded3301828de44cb8e99" sha1="30df12657d6a8fbe7e1609275619f402adcd5350" />
-	</game>
-	<game name="Klondike (USA)">
-		<description>Klondike (USA).md</description>
-		<rom name="Klondike (USA).md" size="262144" crc="b8d4e0bd" md5="360c6991324e3840afea96fb63e628ad" sha1="424511ed1350e40df4c2d02049025c02e5b5e31f" />
 	</game>
 	<game name="Memory (USA) (AtGames) (Bootleg)">
 		<description>Memory (USA) (AtGames) (Bootleg).md</description>

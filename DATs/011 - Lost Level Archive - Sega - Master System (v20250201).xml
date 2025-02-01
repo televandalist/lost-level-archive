@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>011</id>
+		<name>011 - Lost Level Archive - Sega - Master System</name>
+		<description>Sega - Master System</description>
+		<version>v20250201</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Vexed (USA) (v1.15) (Aftermarket) (Unl)">
+		<description>Vexed (USA) (v1.15) (Aftermarket) (Unl)</description>
+		<rom name="Vexed (USA) (v1.15) (Aftermarket) (Unl).sms" size="32768" crc="47c39bac" md5="2cde86c5890081de8c16ff598a756be3" sha1="de0059bbd7b11bb29ca690a1e9e5ed9e0fc89943" />
+	</game>
+</datafile>

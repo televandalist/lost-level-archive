@@ -1,10 +1,11 @@
-<?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
 	<header>
 		<id>012</id>
-		<name>012 - Sony - PlayStation</name>
+		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250119</version>
+		<version>v20250201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -12,14 +13,12 @@
 	</header>
 	<game name="Buzzy Bee (USA) (v1.1) (NDR008)">
 		<description>Buzzy Bee (USA) (v1.1) (NDR008)</description>
-		<release name="Buzzy Bee (USA) (v1.1) (NDR008)" type="Homebrew" region="USA"/>
 		<rom name="Buzzy Bee (USA) (v1.1) (NDR008) (Track 1).bin" size="2808288" crc="5D843613" md5="5942E93FF402774BE49EF8478AED8B3E" sha1="19EAAB1881B5E931311D0D03C4D917DA73887EDA"/>
 		<rom name="Buzzy Bee (USA) (v1.1) (NDR008) (Track 2).bin" size="35884464" crc="D582AE3A" md5="4E006EC106F3CFA1DE2D8D2A813FACFB" sha1="1243941637FBEF9180B3DCAE8C9342C5D16531C4"/>
 		<rom name="Buzzy Bee (USA) (v1.1) (NDR008).cue" size="209" crc="92E99210" md5="8451D90A0321F18FDB3A8E1636736F31" sha1="DA8338F26CAC1B7EA6B94D444B6BEC9CF9B5CC9A"/>
 	</game>
 	<game name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)">
 		<description>Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)</description>
-		<release name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)" type="Homebrew" region="World"/>
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 01).bin" size="253216320" crc="4A24E2D4" md5="ED5198FDABD39EE620D872541C6C5D27" sha1="675631B71B56FA439C04DC1EFD216342237366A3"/>
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 02).bin" size="25697952" crc="4A893659" md5="AD8CD9A577930378EEDC033F6E269373" sha1="3AC2177E6F10E5902E80737BC1A3F7E1A8B68DBC"/>
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 03).bin" size="17315424" crc="4F5D10E0" md5="5EED49BFFC4E211E947EEF54DEE5D361" sha1="1546448C3F5A526CF6F684C58F9C089A0FCAEACB"/>
@@ -50,44 +49,37 @@
 	</game>
 	<game name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)">
 		<description>Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)</description>
-		<release name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)" type="Translation" region="USA"/>
 		<rom name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k) (Track 1).bin" size="615675984" crc="17074f06" md5="f03d8f7427e0868d044e7bd1b241375d" sha1="f9bcf686edbef10d01764f3e3966a86a6c9cd084"/>
 		<rom name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 		<rom name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k).cue" size="260" crc="3b1e86fb" md5="1bba9bd5675caba2c452d5da48f41565" sha1="00f58ad11ab285f1c91713c3ccc8711558e19e13"/>
 	</game>
 	<game name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)">
 		<description>Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)</description>
-		<release name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)" type="Homebrew, Compilation" region="World"/>
 		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).bin" size="627626496" crc="8277E2C3" md5="D7F9E75C03C5E73C5FAB5393FB02F486" sha1="9AEECC21E91BAA43FB7935BB43C77513A4636546"/>
 		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).cue" size="121" crc="6BD72052" md5="59DA714172EB28D6B74692F439FFA00C" sha1="921CAC92A2F10F7D08749B23119975D78F4F38F0"/>
 	</game>
 	<game name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)">
 		<description>Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)</description>
-		<release name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)" type="Hack" region="USA"/>
 		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins).bin" size="661678752" crc="F08A4D06" md5="D9D3211569141ABE470D9B52748F5FC3" sha1="63F81BCF014840855EE4D0875093577C4B499543"/>
 		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins).cue" size="116" crc="C5422413" md5="12DC398B8F512A65965253A894FC33B6" sha1="AC25D7328D68B4301A8E94F17530BD66CDCCC240"/>
 	</game>
 	<game name="Resident Evil - The Prison (v1.2) (Aydan Watkins)">
 		<description>Resident Evil - The Prison (v1.2) (Aydan Watkins)</description>
-		<release name="Resident Evil - The Prison (v1.2) (Aydan Watkins)" type="Hack" region="USA"/>
 		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins).bin" size="661391808" crc="77C186A0" md5="0A1B8672A1E67D52D2313360D0EC90DE" sha1="95D835EED104CD839395D7B09039D1F33BC52773"/>
 		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins).cue" size="115" crc="211A279A" md5="73628192A738E0033B28FD995F253BB9" sha1="7DAB3B98394A35A8EAD91226EACB9AD4A8BB83A3"/>
 	</game>
 	<game name="Resident Evil 0 Demake (v0.1) (Biohazard Espana)">
 		<description>Resident Evil 0 Demake (v0.1) (Biohazard Espana)</description>
-		<release name="Resident Evil 0 Demake (v0.1) (Biohazard Espana)" type="Hack" region="USA"/>
 		<rom name="Resident Evil 0 Demake (v0.1) (Biohazard Espana).bin" size="568786512" crc="AADE6B8A" md5="AEFA8F53118CE3EC2E9A10E7FBA93A1E" sha1="36E68F5F56ECCB18B92EE6A886200DC695C7BF42"/>
 		<rom name="Resident Evil 0 Demake (v0.1) (Biohazard Espana).cue" size="112" crc="60FA882A" md5="44306B2A8F71CDF13100242407E6E1F8" sha1="1D7A044B51AEA62BB565DEA3B9B289A8DB856D21"/>
 	</game>
 	<game name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)">
 		<description>Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)</description>
-		<release name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)" type="Hack" region="USA"/>
 		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).bin" size="661027248" crc="6EC403D1" md5="23CDD171B7909528F834F0C9765F27C0" sha1="029593955983A15F900C763622E0CE78BED1288F"/>
 		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).cue" size="127" crc="524FC91C" md5="1E189CE109C4F26FBEC8631AC6C8936E" sha1="FEFDFA29A1933DECDE58BEC4222C826D1AD3B5B7"/>
 	</game>
 	<game name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26)">
 		<description>Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26)</description>
-		<release name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26)" type="Prototype" region="USA"/>
 		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).ccd" size="785" crc="C140C0D3" md5="C4C9D5C7B4AB27165C245EEF7A78106B" sha1="4D827E2A3C2AC5C0B72756388422FA754E3F4BFC"/>
 		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).cue" size="128" crc="39D05A14" md5="E4493F916E7C72519C2F52EF6C2785B5" sha1="A01FB9339DF65F3E7471C2F51FDF4C8733118F63"/>
 		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).img" size="511489440" crc="9E8F9BA7" md5="436B6476F41C3541D013C070B670D210" sha1="97337A27C44FC5A8787DFF63F6CA8A18363C650B"/>

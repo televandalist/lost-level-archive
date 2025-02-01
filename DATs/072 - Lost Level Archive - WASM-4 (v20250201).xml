@@ -1,10 +1,11 @@
-<?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
 	<header>
 		<id>072</id>
 		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20240921</version>
+		<version>v20250201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -12,302 +13,242 @@
 	</header>
 	<game name="2048 (World) (Peter Hellberg)">
 		<description>2048 (World) (Peter Hellberg)</description>
-		<release name="2048 (World) (Peter Hellberg)" type="Homebrew" region="World"/>
 		<rom name="2048 (World) (Peter Hellberg).wasm" size="12469" crc="4945CB9D" md5="F1582D662A6B80FB6ACFC78B87CA889C" sha1="921D3DCB9213B234E68BEA7E8EFA328272A6CAE2"/>
 	</game>
 	<game name="Antcopter (World) (Eduwardo Bart)">
 		<description>Antcopter (World) (Eduwardo Bart)</description>
-		<release name="Antcopter (World) (Eduwardo Bart)" type="Homebrew" region="World"/>
 		<rom name="Antcopter (World) (Eduwardo Bart).wasm" size="33454" crc="5D29E063" md5="F4D55CBCB51B2C11010B7999FD913CEC" Sha1="1B95AE06E93E99065242D6951A5C7C1960468A0B"/>
 	</game>
 	<game name="Assemblio (World) (Proto) (Phillip Luhmann)">
 		<description>Assemblio (World) (Proto) (Phillip Luhmann)</description>
-		<release name="Assemblio (World) (Proto) (Phillip Luhmann)" type="Homebrew" region="World"/>
 		<rom name="Assemblio (World) (Proto) (Phillip Luhmann).wasm" size="32837" crc="33D2AF45" md5="D0E3196980F2C30DA6E3A80074274885" Sha1="9692C642228AF5A6E49903C2127ED9324C0F18F9"/>
 	</game>
 	<game name="Dashy Dango (World) (samX500)">
 		<description>Dashy Dango (World) (samX500)</description>
-		<release name="Dashy Dango (World) (samX500)" type="Homebrew" region="World"/>
 		<rom name="Dashy Dango (World) (samX500).wasm" size="47101" crc="A2C162AD" md5="A330DA1E88DB2E175615A92D934359FE" Sha1="69ED27C7F3399D9F178E6F217D856409D25BB1FD"/>
 	</game>
 	<game name="disk-0 MADNESS (World) (Max Curzi)">
 		<description>disk-0 MADNESS (World) (Max Curzi)</description>
-		<release name="disk-0 MADNESS (World) (Max Curzi)" type="Homebrew" region="World"/>
 		<rom name="disk-0 MADNESS (World) (Max Curzi).wasm" size="54280" crc="1DEF0BA6" md5="A21379DF5A1D0374D50C2EBFCE46494D" Sha1="486ED29DDD4D0BDE61E06AEB1529E48A85CCAC6D"/>
 	</game>
 	<game name="Dodgeball (World) (Sander in 't Veld)">
 		<description>Dodgeball (World) (Sander in 't Veld)</description>
-		<release name="Dodgeball (World) (Sander in 't Veld)" type="Homebrew" region="World"/>
 		<rom name="Dodgeball (World) (Sander in 't Veld).wasm" size="24622" crc="ED5ED6E6" md5="F9258B8E20E901475B550DC221A77F74" Sha1="1D3CAD1E21097EEDAEE97083B93AAD82443DF9FA"/>
 	</game>
 	<game name="Don't Smash into Obstacles (World) (Proto) (Mateusz Czarnecki)">
 		<description>Don't Smash into Obstacles (World) (Proto) (Mateusz Czarnecki)</description>
-		<release name="Don't Smash into Obstacles (World) (Proto) (Mateusz Czarnecki)" type="Homebrew" region="World"/>
 		<rom name="Don't Smash into Obstacles (World) (Proto) (Mateusz Czarnecki).wasm" size="3504" crc="AEAA9D93" md5="444255185EB652C852A57F4758D1086C" Sha1="47050F7EA23B87C29E9970B8A5F8E044656F37FC"/>
 	</game>
 	<game name="Endless Runner (World) (Richard McCormack)">
 		<description>Endless Runner (World) (Richard McCormack)</description>
-		<release name="Endless Runner (World) (Richard McCormack)" type="Homebrew" region="World"/>
 		<rom name="Endless Runner (World) (Richard McCormack).wasm" size="3621" crc="176CD125" md5="9D7616A5E60D997FC4D3B4BB796BFE1C" Sha1="3E4F3F3BDAEA0787C7BD6761B0D00777400FC9A8"/>
 	</game>
 	<game name="Explore the Grotto (World) (Donatien Rabiller)">
 		<description>Explore the Grotto (World) (Donatien Rabiller)</description>
-		<release name="Explore the Grotto (World) (Donatien Rabiller)" type="Homebrew" region="World"/>
 		<rom name="Explore the Grotto (World) (Donatien Rabiller).wasm" size="52683" crc="ECCF6A5E" md5="267F705401F93937E1D8892F2BCC8FC8" Sha1="29D4A2BCC7D41306FDA0CAFF8749D04F180A4CC8"/>
 	</game>
 	<game name="First Flight (World) (bootra)">
 		<description>First Flight (World) (bootra)</description>
-		<release name="First Flight (World) (bootra)" type="Homebrew" region="World"/>
 		<rom name="First Flight (World) (bootra).wasm" size="63858" crc="398D0C82" md5="892B0811BB4C21AD276F97AB8895DE4F" Sha1="669C5D5F645F08449EE98D431DFBCF787A8E8656"/>
 	</game>
 	<game name="Future Avoid (World) (Proto) (Joakim Hentula)">
 		<description>Future Avoid (World) (Proto) (Joakim Hentula)</description>
-		<release name="Future Avoid (World) (Proto) (Joakim Hentula)" type="Homebrew" region="World"/>
 		<rom name="Future Avoid (World) (Proto) (Joakim Hentula).wasm" size="51637" crc="F7856AD6" md5="6ED7BF2107F26D9D9027EADD4EF16854" Sha1="E4CC494BE1FABE730D47E78A8582E02DDF8B6C1E"/>
 	</game>
 	<game name="GALDR (World) (jonathand)">
 		<description>GALDR (World) (jonathand)</description>
-		<release name="GALDR (World) (jonathand)" type="Homebrew" region="World"/>
 		<rom name="GALDR (World) (jonathand).wasm" size="46169" crc="F6A9A241" md5="00E3C7577B124F20DBF667E5C2BC3D11" Sha1="95B6FE1A3E2C1CA01BE294F5ECC2B9011F4CFE08"/>
 	</game>
 	<game name="Hammer Joe (World) (Proto) (MFauzan26)">
 		<description>Hammer Joe (World) (Proto) (MFauzan26)</description>
-		<release name="Hammer Joe (World) (Proto) (MFauzan26)" type="Homebrew" region="World"/>
 		<rom name="Hammer Joe (World) (Proto) (MFauzan26).wasm" size="64585" crc="F1A84897" md5="2958DA4A49628A5C0E85E9C0FBFCD148" Sha1="4F0D2593246BB7490FBFFA2A9284FE850EF0B1F7"/>
 	</game>
 	<game name="Hills in the Moonlight (World) (Samarth Hattangady)">
 		<description>Hills in the Moonlight (World) (Samarth Hattangady)</description>
-		<release name="Hills in the Moonlight (World) (Samarth Hattangady)" type="Homebrew" region="World"/>
 		<rom name="Hills in the Moonlight (World) (Samarth Hattangady).wasm" size="24053" crc="141DC6FC" md5="4673CEA750A5FF8BAC1D801305ADE94B" Sha1="EC8CE62DDD27B042831EC83D34CCCD97E2996009"/>
 	</game>
 	<game name="It's Corn! (World) (Sander in 't Veld)">
 		<description>It's Corn! (World) (Sander in 't Veld)</description>
-		<release name="It's Corn! (World) (Sander in 't Veld)" type="Homebrew" region="World"/>
 		<rom name="It's Corn! (World) (Sander in 't Veld).wasm" size="8781" crc="E6032448" md5="435E45C38BA4CD2F750B223CA7A580B4" Sha1="F556EA6D0EE4C87AA98BCC22B49643B6D638B511"/>
 	</game>
 	<game name="Journey to Entorus (World) (v1.1) (Marcus Ramse)">
 		<description>Journey to Entorus (World) (v1.1) (Marcus Ramse)</description>
-		<release name="Journey to Entorus (World) (v1.1) (Marcus Ramse)" type="Homebrew" region="World"/>
 		<rom name="Journey to Entorus (World) (v1.1) (Marcus Ramse).wasm" size="55973" crc="7B211FA8" md5="0B01CF784F95C390ACA5E690BEE8118A" Sha1="5868D709C8D4DFD4DC4407ABE1204E4E34499984"/>
 	</game>
 	<game name="Legend of GEML, The - Awakening (World) (Robby Zampino,Ethan Hunter)">
 		<description>Legend of GEML, The - Awakening (World) (Robby Zampino,Ethan Hunter)</description>
-		<release name="Legend of GEML, The - Awakening (World) (Robby Zampino,Ethan Hunter)" type="Homebrew" region="World"/>
 		<rom name="Legend of GEML, The - Awakening (World) (Robby Zampino,Ethan Hunter).wasm" size="46741" crc="628642F9" md5="7E372D919D84E94F14C71222F1F372F2" Sha1="57B969A90645ED2C6AA6138C5391950601031035"/>
 	</game>
 	<game name="Lime Volleyball (World) (Bruno Garcia)">
 		<description>Lime Volleyball (World) (Bruno Garcia)</description>
-		<release name="Lime Volleyball (World) (Bruno Garcia)" type="Homebrew" region="World"/>
 		<rom name="Lime Volleyball (World) (Bruno Garcia).wasm" size="3811" crc="84F0D5CE" md5="C82A60174974A213286E68DBA16F9A37" Sha1="D06FD23365EC56C4EE0A4DAB112A4D4B27941487"/>
 	</game>
 	<game name="Lingword (World) (Jonathan Derque)">
 		<description>Lingword (World) (Jonathan Derque)</description>
-		<release name="Lingword (World) (Jonathan Derque)" type="Homebrew" region="World"/>
 		<rom name="Lingword (World) (Jonathan Derque).wasm" size="40498" crc="ED38110E" md5="ECF202C3FEA60D1B645D37462245E315" Sha1="553B20552B03E2A7023C8B6ABF32A17FB23B27F0"/>
 	</game>
 	<game name="Meteoroids (World) (v0.3) (Jeremy Zeiber)">
 		<description>Meteoroids (World) (v0.3) (Jeremy Zeiber)</description>
-		<release name="Meteoroids (World) (v0.3) (Jeremy Zeiber)" type="Homebrew" region="World"/>
 		<rom name="Meteoroids (World) (v0.3) (Jeremy Zeiber).wasm" size="18260" crc="264248EF" md5="BA3635D1D50EE0DEC99B49BF691ABE0C" Sha1="71BC95271E473CCC21541CF1360EF1FC48883F09"/>
 	</game>
 	<game name="Micro Quest (World) (Andre L. Alvares)">
 		<description>Micro Quest (World) (Andre L. Alvares)</description>
-		<release name="Micro Quest (World) (Andre L. Alvares)" type="Homebrew" region="World"/>
 		<rom name="Micro Quest (World) (Andre L. Alvares).wasm" size="18392" crc="703C2345" md5="7CF7B7C52AB8569EB45081543A0EB1BF" Sha1="14B6F8E82122D8B475D42ACE7D8A9C4E241F39E7"/>
 	</game>
 	<game name="Micro Quest (World) (v1.0.1) (Andre L. Alvares)" cloneof="Micro Quest (World) (Andre L. Alvares)">
 		<description>Micro Quest (World) (v1.0.1) (Andre L. Alvares)</description>
-		<release name="Micro Quest (World) (v1.0.1) (Andre L. Alvares)" type="Homebrew" region="World"/>
 		<rom name="Micro Quest (World) (v1.0.1) (Andre L. Alvares).wasm" size="15998" crc="6C86B2F1" md5="AD66774BF7A514895BD7802810C7B605" Sha1="934F3266D5BE96FB0B73DF942F533BB44A16D6FC"/>
 	</game>
 	<game name="MIKU-15 (World) (Mr.Rafael)">
 		<description>MIKU-15 (World) (Mr.Rafael)</description>
-		<release name="MIKU-15 (World) (Mr.Rafael)" type="Homebrew" region="World"/>
 		<rom name="MIKU-15 (World) (Mr.Rafael).wasm" size="40478" crc="CE71245E" md5="04AFE658B3C9E2E61DBEF7897D604ADC" Sha1="A85B716C52CC72546907DF0F1637FD3D71E3C1D7"/>
 	</game>
 	<game name="Mind Palace (World) (grouter)">
 		<description>Mind Palace (World) (grouter)</description>
-		<release name="Mind Palace (World) (grouter)" type="Homebrew" region="World"/>
 		<rom name="Mind Palace (World) (grouter).wasm" size="29588" crc="164086AA" md5="C1A363F6942B40609F3758D64A87BEDC" sha1="8240D8661EB639BC8E99D07D7FAC1EA3ECABD6D6"/>
 	</game>
 	<game name="Mind Palace (World) (Rev 1) (grouter)" cloneof="Mind Palace (World) (Homebrew)">
 		<description>Mind Palace (World) (Rev 1) (grouter)</description>
-		<release name="Mind Palace (World) (Rev 1) (grouter)" type="Homebrew" region="World"/>
 		<rom name="Mind Palace (World) (Rev 1) (grouter).wasm" size="32419" crc="F6F4FFB7" md5="D93332689A224096050083E67D27D14D" sha1="4E33F311633DEB1D34EB42A1873CBB86E04E88BB"/>
 	</game>
 	<game name="Minesweeper (World) (Claudio Mattera)">
 		<description>Minesweeper (World) (Claudio Mattera)</description>
-		<release name="Minesweeper (World) (Claudio Mattera)" type="Homebrew" region="World"/>
 		<rom name="Minesweeper (World) (Claudio Mattera).wasm" size="20125" crc="0FDFE010" md5="2FB4C9741D5325537D88201D5A81653B" Sha1="7662A6AEC2EC6398C118C89694CE8528DA606C96"/>
 	</game>
 	<game name="Minigolf (World) (v0.2.5) (World) (Lomikron)">
 		<description>Minigolf (World) (v0.2.5) (World) (Lomikron)</description>
-		<release name="Minigolf (World) (v0.2.5) (World) (Lomikron)" type="Homebrew" region="World"/>
 		<rom name="Minigolf (World) (v0.2.5) (World) (Lomikron).wasm" size="28553" crc="674799A9" md5="D7B509D435D9699F12744E615254A2C4" Sha1="039B534C9D298DEA8E60830EC493BEABAAC6A918"/>
 	</game>
 	<game name="Ninja vs Knights (World) (v1.0.1) (World) (Mr.Rafael)">
 		<description>Ninja vs Knights (World) (v1.0.1) (World) (Mr.Rafael)</description>
-		<release name="Ninja vs Knights (World) (v1.0.1) (World) (Mr.Rafael)" type="Homebrew" region="World"/>
 		<rom name="Ninja vs Knights (World) (v1.0.1) (World) (Mr.Rafael).wasm" size="59424" crc="9DE9B738" md5="5921F8B9BB63024BD3145172806D2498" Sha1="8A6E1B3375415F09874E149B20891603B31F4701"/>
 	</game>
 	<game name="One Slime Army (World) (v1.3.0) (Isaiah Billingsley)">
 		<description>One Slime Army (World) (v1.3.0) (Isaiah Billingsley)</description>
-		<release name="One Slime Army (World) (v1.3.0) (Isaiah Billingsley)" type="Homebrew" region="World"/>
 		<rom name="One Slime Army (World) (v1.3.0) (Isaiah Billingsley).wasm" size="13339" crc="64966721" md5="2F9F60ACF28A0C538D90CDCDDF0EC581" Sha1="6155E77A65C379E7A83F2D2AEB926E3BF2991D72"/>
 	</game>
 	<game name="Phantom Shift (World) (Sergey Poznyak)">
 		<description>Phantom Shift (World) (Sergey Poznyak)</description>
-		<release name="Phantom Shift (World) (Sergey Poznyak)" type="Homebrew" region="World"/>
 		<rom name="Phantom Shift (World) (Sergey Poznyak).wasm" size="20506" crc="63C45D3B" md5="266D6132276257DED0298B6348DCBFB3" Sha1="1936F1790B768F0121862E4FC6BAA7B86934B854"/>
 	</game>
 	<game name="PING (World) (v0.5.0) (Cannon Tuttle)">
 		<description>PING (World) (v0.5.0) (Cannon Tuttle)</description>
-		<release name="PING (World) (v0.5.0) (Cannon Tuttle)" type="Homebrew" region="World"/>
 		<rom name="PING (World) (v0.5.0) (Cannon Tuttle).wasm" size="28964" crc="4F6FED00" md5="3370A22853130E7D7790E851E36B45C2" Sha1="F7C323F2F14CB5BC3CBE5263E2EA66C7D141D98B"/>
 	</game>
 	<game name="Plctformer (World) (Proto) (pfg)">
 		<description>Plctformer (World) (Proto) (pfg)</description>
-		<release name="Plctformer (World) (Proto) (pfg)" type="Homebrew" region="World"/>
 		<rom name="Plctformer (World) (Proto) (pfg).wasm" size="55938" crc="9B7D48BB" md5="9280D1D157F0EB4EEDA9E1DACEDCF4B6" Sha1="A81B96E2048040D3926FEF00C8D5B1B42C609DF6"/>
 	</game>
 	<game name="Pong (World) (Fabrizio Vitale)">
 		<description>Pong (World) (Fabrizio Vitale)</description>
-		<release name="Pong (World) (Fabrizio Vitale)" type="Homebrew" region="World"/>
 		<rom name="Pong (World) (Fabrizio Vitale).wasm" size="6818" crc="BA3523A7" md5="27329C820FC9E51E812DAB97F4F6114D" Sha1="0E361ED484E576D150217304D95903DA5B8A8467"/>
 	</game>
 	<game name="Presents to the Metal (World) (errorStream)">
 		<description>Presents to the Metal (World) (errorStream)</description>
-		<release name="Presents to the Metal (World) (errorStream)" type="Homebrew" region="World"/>
 		<rom name="Presents to the Metal (World) (errorStream).wasm" size="17411" crc="BB412280" md5="B5653249E28BD05CBB28D7483DE29AB3" Sha1="D8379BE98BC7F519EEF6C710CCAEF93A2E951738"/>
 	</game>
 	<game name="Punch'Em Up (World) (Louis Pearson)">
 		<description>Punch'Em Up (World) (Louis Pearson)</description>
-		<release name="Punch'Em Up (World) (Louis Pearson)" type="Homebrew" region="World"/>
 		<rom name="Punch'Em Up (World) (Louis Pearson).wasm" size="34671" crc="3B73F50D" md5="053D4B372253533561F51573564472AF" Sha1="1C51036909740344221B877350D5740EB467FE51"/>
 	</game>
 	<game name="Rolly Dango (World) (William Gulmont-Martin)">
 		<description>Rolly Dango (World) (William Gulmont-Martin)</description>
-		<release name="Rolly Dango (World) (William Gulmont-Martin)" type="Homebrew" region="World"/>
 		<rom name="Rolly Dango (World) (William Gulmont-Martin).wasm" size="61394" crc="1B1FE548" md5="B6A2AD7B7268981E8FA01678588AEA83" Sha1="0EF646D85058A4683BBC8E1D2AF85203C2E34EB6"/>
 	</game>
 	<game name="Samurai Revenge (World) (v1.3.1) (Krylan,Dominik Koperkiewicz)">
 		<description>Samurai Revenge (World) (v1.3.1) (Krylan,Dominik Koperkiewicz)</description>
-		<release name="Samurai Revenge (World) (v1.3.1) (Krylan,Dominik Koperkiewicz)" type="Homebrew" region="World"/>
 		<rom name="Samurai Revenge (World) (v1.3.1) (Krylan,Dominik Koperkiewicz).wasm" size="35899" crc="E4416F9D" md5="4B4B6643E6231E74CC5DB038482BDC67" Sha1="1F4567CE23F01D2E61AFE191BE30A130634388D7"/>
 	</game>
 	<game name="Skipahead (World) (Dennis Ranke)">
 		<description>Skipahead (World) (Dennis Ranke)</description>
-		<release name="Skipahead (World) (Dennis Ranke)" type="Homebrew" region="World"/>
 		<rom name="Skipahead (World) (Dennis Ranke).wasm" size="512" crc="A39093A3" md5="C38F2E56C9129BF55B0E89299AE3452D" Sha1="C26A62D193D7707D39DCA8604A13130546BBCE18"/>
 	</game>
 	<game name="Snake (World) (Tomas Tulka)">
 		<description>Snake (World) (Tomas Tulka)</description>
-		<release name="Snake (World) (Tomas Tulka)" type="Homebrew" region="World"/>
 		<rom name="Snake (World) (Tomas Tulka).wasm" size="11394" crc="2C4C440E" md5="66E91F10D6C807E25B0656ABA3549E91" Sha1="8CFBC4C3874F34E38046E3117C0224A6EF4A13EE"/>
 	</game>
 	<game name="Sokoban (World) (Proto) (Lars Hamre)">
 		<description>Sokoban (World) (Proto) (Lars Hamre)</description>
-		<release name="Sokoban (World) (Proto) (Lars Hamre)" type="Homebrew" region="World"/>
 		<rom name="Sokoban (World) (Proto) (Lars Hamre).wasm" size="12370" crc="A2E635BC" md5="FDF069FED2FF2346DDB449C8203CF1A6" Sha1="EE20D665E9D00BBD2252C5E2C6C6304B1FA769A8"/>
 	</game>
 	<game name="Spunky (World) (v1.1) (Richard McCormack)">
 		<description>Spunky (World) (v1.1) (Richard McCormack)</description>
-		<release name="Spunky (World) (v1.1) (Richard McCormack)" type="Homebrew" region="World"/>
 		<rom name="Spunky (World) (v1.1) (Richard McCormack).wasm" size="42475" crc="9CCD7590" md5="B4717D2F868F3B52FA7570F12F93D292" sha1="2114761B4881F03607722510157309B7EFBEDA07"/>
 	</game>
 	<game name="StarPilot W (World) (Spaceman1701)">
 		<description>StarPilot W (World) (Spaceman1701)</description>
-		<release name="StarPilot W (World) (Spaceman1701)" type="Homebrew" region="World"/>
 		<rom name="StarPilot W (World) (Spaceman1701).wasm" size="46744" crc="8D6A3451" md5="335808621244E3519259D656C6531E08" Sha1="A81ABA7585ADB79D26D76A324802ECA5235C3BF8"/>
 	</game>
 	<game name="Tail Gunner (World) (Dial0)">
 		<description>Tail Gunner (World) (Dial0)</description>
-		<release name="Tail Gunner (World) (Dial0)" type="Homebrew" region="World"/>
 		<rom name="Tail Gunner (World) (Dial0).wasm" size="54663" crc="F907C736" md5="FAE4B6A3540EA3C992F8BE54190F659C" Sha1="7167C585E4E8F4D93FBF42B6A4D54A857D141B0C"/>
 	</game>
 	<game name="TappyLoop (World) (daves84)">
 		<description>TappyLoop (World) (daves84)</description>
-		<release name="TappyLoop (World) (daves84)" type="Homebrew" region="World"/>
 		<rom name="TappyLoop (World) (daves84).wasm" size="17215" crc="E9CB29AC" md5="36F3EF9CE098CB6A28B7E6789C059FCE" Sha1="0D79DFA4DD4456A613976B25BFBC9E3A7DB14266"/>
 	</game>
 	<game name="Texas Chainsaw Dodge (World) (Scott Breen)">
 		<description>Texas Chainsaw Dodge (World) (Scott Breen)</description>
-		<release name="Texas Chainsaw Dodge (World) (Scott Breen)" type="Homebrew" region="World"/>
 		<rom name="Texas Chainsaw Dodge (World) (Scott Breen).wasm" size="33957" crc="D60F19E3" md5="45794AE3D567AEAD175D2C53392459A2" Sha1="238F4791F338CC8EE4BA09D1310C95FA70D226FE"/>
 	</game>
 	<game name="To the Core (World) (Garrett Hale)">
 		<description>To the Core (World) (Garrett Hale)</description>
-		<release name="To the Core (World) (Garrett Hale)" type="Homebrew" region="World"/>
 		<rom name="To the Core (World) (Garrett Hale).wasm" size="23681" crc="6EF4D779" md5="FFD29B718B7CF55E164DD2AB434339E8" Sha1="C2C187C22830659DCA3DE2928C8D9F7D6A3ECFA7"/>
 	</game>
 	<game name="Totally Not Sumo (World) (Andre L. Alvares)">
 		<description>Totally Not Sumo (World) (Andre L. Alvares)</description>
-		<release name="Totally Not Sumo (World) (Andre L. Alvares)" type="Homebrew" region="World"/>
 		<rom name="Totally Not Sumo (World) (Andre L. Alvares).wasm" size="19320" crc="F9D108FC" md5="BCB8A3EE0D666DA0C2AFC72C16BD0EB0" Sha1="01BF90863CE8203403B96A3D75A01567A36B2D16"/>
 	</game>
 	<game name="Touhou Spirits (World) (v1.0.1) (Mr.Rafael)">
 		<description>Touhou Spirits (World) (v1.0.1) (Mr.Rafael)</description>
-		<release name="Touhou Spirits (World) (v1.0.1) (Mr.Rafael)" type="Homebrew" region="World"/>
 		<rom name="Touhou Spirits (World) (v1.0.1) (Mr.Rafael).wasm" size="54944" crc="A732E072" md5="D50E41FFF554D2353F948538C27CE3CC" Sha1="2113AF25AAF68E343B4F9992CFF136998A903204"/>
 	</game>
 	<game name="wasm4nia (World) (v1.0.4) (Marcus Ramse)">
 		<description>wasm4nia (World) (v1.0.4) (Marcus Ramse)</description>
-		<release name="wasm4nia (World) (v1.0.4) (Marcus Ramse)" type="Homebrew" region="World"/>
 		<rom name="wasm4nia (World) (v1.0.4) (Marcus Ramse).wasm" size="20728" crc="1D9ECE21" md5="020732709672A60B148BB38F12C7DF35" Sha1="B3AFFA52231C651A28FF41DE0863F8DE2D12AE9F"/>
 	</game>
 	<game name="wasm4nia (World) (v1.0.5) (Marcus Ramse)" cloneof="wasm4nia (World) (v1.0.4) (Marcus Ramse)">
 		<description>wasm4nia (World) (v1.0.5) (Marcus Ramse)</description>
-		<release name="wasm4nia (World) (v1.0.5) (Marcus Ramse)" type="Homebrew" region="World"/>
 		<rom name="wasm4nia (World) (v1.0.5) (Marcus Ramse).wasm" size="20725" crc="58A733C5" md5="60668E46CB6259FB27EB2B55CF7AC4C0" Sha1="66C6DED95FE6C0FED5F681AD035B81CA3B875518"/>
 	</game>
 	<game name="Watris (World) (Bruno Garcia)">
 		<description>Watris (World) (Bruno Garcia)</description>
-		<release name="Watris (World) (Bruno Garcia)" type="Homebrew" region="World"/>
 		<rom name="Watris (World) (Bruno Garcia).wasm" size="2628" crc="AF4F16B8" md5="7FB71A1278BC3BC3930D48FD4CFD5284" Sha1="2EC1030C22D1DE50C27A589ECF52FE8DF3249B5F"/>
 	</game>
 	<game name="Wired (World) (v0.1) (Louis Pearson)">
 		<description>Wired (World) (v0.1) (Louis Pearson)</description>
-		<release name="Wired (World) (v0.1) (Louis Pearson)" type="Homebrew" region="World"/>
 		<rom name="Wired (World) (v0.1) (Louis Pearson).wasm" size="47285" crc="1714C064" md5="9068D7A2BAD5EB9DA5A433EB3073E144" Sha1="DF9B8F154B372473F9B8A2CE4711D8283A366239"/>
 	</game>
 	<game name="Wired (World) (v0.2) (Louis Pearson)" cloneof="Wired (World) (v0.1) (Louis Pearson)">
 		<description>Wired (World) (v0.2) (Louis Pearson)</description>
-		<release name="Wired (World) (v0.2) (Louis Pearson)" type="Homebrew" region="World"/>
 		<rom name="Wired (World) (v0.2) (Louis Pearson).wasm" size="26687" crc="53A59A4C" md5="B48E7195B412112099B7903E5B7F6048" Sha1="52C3C0FEE06B292A53D50DDD98804C180060371B"/>
 	</game>
 	<game name="WLOKU (World) (12Boti)">
 		<description>WLOKU (World) (12Boti)</description>
-		<release name="WLOKU (World) (12Boti)" type="Homebrew" region="World"/>
 		<rom name="WLOKU (World) (12Boti).wasm" size="7212" crc="CC9B6FE7" md5="5E470EF900A385018294E521798555F8" Sha1="A300E2F29C8C6A155F4E43A382B6DEB2C88F9677"/>
 	</game>
 	<game name="Wormhole (World) (David Sims)">
 		<description>Wormhole (World) (David Sims)</description>
-		<release name="Wormhole (World) (David Sims)" type="Homebrew" region="World"/>
 		<rom name="Wormhole (World) (David Sims).wasm" size="29599" crc="E25663BC" md5="04D126CFE702B2D2114B190C11536302" Sha1="0649DE936167E041821E21A3983F48F6C712D0E3"/>
 	</game>
 	<game name="You Will Return (World) (Rev 1) (Sander in 't Veld)">
 		<description>You Will Return (World) (Rev 1) (Sander in 't Veld)</description>
-		<release name="You Will Return (World) (Rev 1) (Sander in 't Veld)" type="Homebrew" region="World"/>
 		<rom name="You Will Return (World) (Rev 1) (Sander in 't Veld).wasm" size="44030" crc="4E634886" md5="4CE31F9E2ABFEDDB79132951567BBD27" Sha1="3F7EB715A5AB85B94D1C48D99DD19CA79EA6F36C"/>
 	</game>
 	<game name="Znake (World) (freiguy1)">
 		<description>Znake (World) (freiguy1)</description>
-		<release name="Znake (World) (freiguy1)" type="Homebrew" region="World"/>
 		<rom name="Znake (World) (freiguy1).wasm" size="32821" crc="B24C0514" md5="477DB24DA6B0EC8063410DB7F5910803" Sha1="72BDE7992B0B91D43CBAD7B0F49640AAF714333E"/>
 	</game>
 	<game name="Zoop Zoop Bee Adventures 7 (World) (Garrett Hale)">
 		<description>Zoop Zoop Bee Adventures 7 (World) (Garrett Hale)</description>
-		<release name="Zoop Zoop Bee Adventures 7 (World) (Garrett Hale)" type="Homebrew" region="World"/>
 		<rom name="Zoop Zoop Bee Adventures 7 (World) (Garrett Hale).wasm" size="21130" crc="B6F5D122" md5="8DF88405A112173638E7D6F0D95FB67A" Sha1="C9BD2347CE20A04204E3C5893F737BD96BF2DB7D"/>
 	</game>
 	<game name="ZxZ (World) (Scislaw Dercz)">
 		<description>ZxZ (World) (Scislaw Dercz)</description>
-		<release name="ZxZ (World) (Scislaw Dercz)" type="Homebrew" region="World"/>
 		<rom name="ZxZ (World) (Scislaw Dercz).wasm" size="18701" crc="B787B38C" md5="9967DDB877AD4D0332E129A1DB67BEEE" Sha1="9E994D8223BDB1A50E82A343EF7F7B8ABD5A9955"/>
 	</game>
 	<game name="ZxZ (World) (Rev 1) (Scislaw Dercz)" cloneof="ZxZ (World) (Scislaw Dercz)">
 		<description>ZxZ (World) (Rev 1) (Scislaw Dercz)</description>
-		<release name="ZxZ (World) (Rev 1) (Scislaw Dercz)" type="Homebrew" region="World"/>
 		<rom name="ZxZ (World) (Rev 1) (Scislaw Dercz).wasm" size="18711" crc="E3CBE9F4" md5="88F0A50BF711BDC9FAE8F1EE91395CB1" Sha1="5CC971FA63389D51131EB2C094F4481E39082169"/>
 	</game>
 </datafile>

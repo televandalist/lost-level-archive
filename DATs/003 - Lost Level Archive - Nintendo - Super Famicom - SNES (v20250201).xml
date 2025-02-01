@@ -1,10 +1,11 @@
-<?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
 	<header>
 		<id>003</id>
-		<name>003 - Lost Level Archive - Nintendo - Super Famicom - SNES (v2024-10-04)</name>
+		<name>003 - Lost Level Archive - Nintendo - Super Famicom - SNES</name>
 		<description>Nintendo - Super Famicom - SNES</description>
-		<version>v20241004</version>
+		<version>v20250201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -12,17 +13,14 @@
 	</header>
 	<game name="Barbie Vacation Adventure (USA) (Proto) (Hacked Header)">
 		<description>Barbie Vacation Adventure (USA) (Proto) (Hacked Header)</description>
-		<release name="Barbie Vacation Adventure (USA) (Proto) (Hacked Header)" type="prototype" region="USA"/>
 		<rom name="Barbie Vacation Adventure (USA) (Proto) (Hacked Header).sfc" size="1048576" crc="8CE1BA79" md5="22C61C5030CB934EBEEA07C20C9EAA49" sha1="A03B948527267DA11E908C41A41FAB69D45CA766"/>
 	</game>
 	<game name="Super Mario War (USA) (Aftermarket) (Unl) (Open Source)">
 		<description>Super Mario War (USA) (Aftermarket) (Unl) (Open Source)</description>
-		<release name="Super Mario War (USA) (Aftermarket) (Unl) (Open Source)" type="homebrew" region="USA"/>
 		<rom name="Super Mario War (USA) (Aftermarket) (Unl) (Open Source).sfc" size="393216" crc="C31DE709" md5="20CB0824AC0614F85D2B48695C32A74E" sha1="2AC135B21A03D30C4DACE54E8560F2334E5102B3"/>
 	</game>
 	<game name="Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)">
 		<description>Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)</description>
-		<release name="Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)" type="Homebrew,MSU-1" region="USA"/>
 		<rom name="Super Road Blaster (USA)/Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)-0.pcm" size="571976" crc="eff800a5" md5="24e9079d153873d57d7c2ee40b0ff610" sha1="679c6603b75c4e8dd506ddaea10f51ff74515cf5"/>
 		<rom name="Super Road Blaster (USA)/Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)-1.pcm" size="5400160" crc="59d92d73" md5="44b6fc3cfeaa1d40f31f0b8d6ce39e72" sha1="55e9dee9cb3677aedff8892b6d91594a129547f3"/>
 		<rom name="Super Road Blaster (USA)/Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)-2.pcm" size="21017440" crc="a67402cd" md5="aac11d8ce86b80fb69fa8757f2ebe156" sha1="436b43e5de6b809962060b5e9c5a9f4e1a5c6390"/>

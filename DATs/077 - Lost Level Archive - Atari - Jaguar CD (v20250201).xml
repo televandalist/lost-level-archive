@@ -1,10 +1,11 @@
-<?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
 	<header>
 		<id>077</id>
-		<name>077 - Atari - Jaguar CD</name>
+		<name>077 - Lost Level Archive - Atari - Jaguar CD</name>
 		<description>Atari - Jaguar CD</description>
-		<version>v20240702</version>
+		<version>v20250201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -12,47 +13,38 @@
 	</header>
 	<game name="Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft)">
 		<description>Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft)</description>
-		<release name="Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft)" type="Homebrew" region="World"/>
 		<rom name="Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft).cdi" size="40635552" crc="6129069F" md5="A1C193C1CFD73378835851BF88F0D79A" sha1="5B72DFF04D71A85776E50C3B5C4829F7C9835BED"/>
 	</game>
 	<game name="Downfall (World) (Aftermarket) (Unl) (Reboot)">
 		<description>Downfall (World) (Aftermarket) (Unl) (Reboot)</description>
-		<release name="Downfall (World) (Aftermarket) (Unl) (Reboot)" type="Homebrew" region="World"/>
 		<rom name="Downfall (World) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="8BED0F08" md5="51A69397824D347E67EC8F0EFC69F6F5" sha1="BB3F3205853263B9929A28EF19844F9462953ACD"/>
 	</game>
 	<game name="Elansar (World) (Aftermarket) (Unl) (OrionSoft)">
 		<description>Elansar (World) (Aftermarket) (Unl) (OrionSoft)</description>
-		<release name="Elansar (World) (Aftermarket) (Unl) (OrionSoft)" type="Homebrew" region="World"/>
 		<rom name="Elansar (World) (Aftermarket) (Unl) (OrionSoft).cdi" size="52705749" crc="7F5723E2" md5="EFCCB8AD7C1C395E4AECD9E653348173" sha1="47591E96A7CA152D2F851050EBFA0D2E1A81C269"/>
 	</game>
 	<game name="Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot)">
 		<description>Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot)</description>
-		<release name="Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot)" type="Homebrew" region="World"/>
 		<rom name="Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="67B0C629" md5="651F6076FE47024F1E64944AB27B8FF7" sha1="75F0FE79D6662E96FC2B56983F7CBEA40E07D2D7"/>
 	</game>
 	<game name="Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M)">
 		<description>Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M)</description>
-		<release name="Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M)" type="Homebrew" region="World"/>
 		<rom name="Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M).cdi" size="16334440" crc="5DF9CEE0" md5="8A202EF9CE960D36232CA00BD8DD0E5E" sha1="50CE7774A4DF542B251F850A50F9611E867CF518"/>
 	</game>
 	<game name="Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M)" cloneof="Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M)">
 		<description>Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M)</description>
-		<release name="Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M)" type="Homebrew" region="World"/>
 		<rom name="Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M).cdi" size="16334440" crc="37DCEA03" md5="82AEDE01EC23DD9F4A8C9131C439A6C8" sha1="5934C163CDE32B46F531413B26C009A4C8DC9E2F"/>
 	</game>
 	<game name="Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai)">
 		<description>Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai)</description>
-		<release name="Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai)" type="Homebrew" region="World"/>
 		<rom name="Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai).cdi" size="16334440" crc="EE114035" md5="7F7EB633F7415703B83620AF49449BED" sha1="8254706690C7BF411973F3894E0430AFF0DDE2A5"/>
 	</game>
 	<game name="Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot)">
 		<description>Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot)</description>
-		<release name="Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot)" type="Homebrew" region="World"/>
 		<rom name="Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="EFBBE60B" md5="E796FC84FDB4F4B2E5EA94C98A83BD51" sha1="188D60D8CED4440A93BDE68990D31853E97A59BB"/>
 	</game>
 	<game name="SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot)" cloneof="SuperFly DX (World) (v1.0) (Aftermarket) (Unl) (Reboot)">
 		<description>SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot)</description>
-		<release name="SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot)" type="Homebrew" region="World"/>
 		<rom name="SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="6ABBF100" md5="DD749830A6E7447F23A7F1F3A85803D3" sha1="7CF73AA7420BF8837AAE735EC777BB2A0A2D8852"/>
 	</game>
 </datafile>

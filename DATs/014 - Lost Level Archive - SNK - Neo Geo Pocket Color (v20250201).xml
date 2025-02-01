@@ -1,10 +1,11 @@
-<?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
 	<header>
 		<id>014</id>
-		<name>014 - Lost Level Archive - SNK - Neo Geo Pocket Color (v2024-09-22)</name>
+		<name>014 - Lost Level Archive - SNK - Neo Geo Pocket Color</name>
 		<description>SNK - Neo Geo Pocket Color</description>
-		<version>v20240922</version>
+		<version>v20250201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -12,42 +13,34 @@
 	</header>
 	<game name="Blocks (World) (Aftermarket) (Unl)">
 		<description>Blocks (World) (Aftermarket) (Unl)</description>
-		<release name="Blocks (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Blocks (World) (Aftermarket) (Unl).ngc" size="32768" crc="dfd9d777" md5="e2b6d75c63b17e18cd02411f6ce1d6e4" sha1="8bb44863e9e874d8d78234a406f84e33711fc495"/>
 	</game>
 	<game name="Diamond Run (World) (Aftermarket) (Unl)">
 		<description>Diamond Run (World) (Aftermarket) (Unl)</description>
-		<release name="Diamond Run (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Diamond Run (World) (Aftermarket) (Unl).ngc" size="32768" crc="97c58fd0" md5="0cd4aa9a72ececf14508de6ae6725ed1" sha1="76f82acc6e5df9c4980a56361966058653cd32f6"/>
 	</game>
 	<game name="Gears of Fate (World) (v20090508) (Aftermarket) (Unl)">
 		<description>Gears of Fate (World) (v20090508) (Aftermarket) (Unl)</description>
-		<release name="Gears of Fate (World) (v20090508) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Gears of Fate (World) (v20090508) (Aftermarket) (Unl).ngc" size="1917732" crc="3c75807e" md5="782c7aec693c95de10e05a268c023ce1" sha1="b2356a4c4af8cb40a212a2e29a74084dfda6c53a"/>
 	</game>
 	<game name="Lights! (World) (v1.1) (Aftermarket) (Unl)">
 		<description>Lights! (World) (v1.1) (Aftermarket) (Unl)</description>
-		<release name="Lights! (World) (v1.1) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Lights! (World) (v1.1) (Aftermarket) (Unl).ngc" size="32768" crc="281de628" md5="1715311acd6bf2717a3b1bf70321d195" sha1="eeac12009e07025e46a188b17b38fdae2c7346a6"/>
 	</game>
 	<game name="Mines (World) (Aftermarket) (Unl)">
 		<description>Mines (World) (Aftermarket) (Unl)</description>
-		<release name="Mines (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Mines (World) (Aftermarket) (Unl).ngc" size="32768" crc="4b687e99" md5="6594d32d6774b616949a31641799472a" sha1="7aa07c67a6aa8d398370bceea7124f9e2e5b03f8"/>
 	</game>
 	<game name="Mr. Do! (World) (Aftermarket) (Unl)">
 		<description>Mr. Do! (World) (Aftermarket) (Unl)</description>
-		<release name="Mr. Do! (World) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Mr. Do! (World) (Aftermarket) (Unl).ngc" size="16152" crc="0098c7b5" md5="2ee3331dd1e34020bbafdd91df0ce1bb" sha1="3e0ea487d3647936413a42570d0a1a6565cc6ec9"/>
 	</game>
 	<game name="Puzzle Gems (World) (v1.1) (Aftermarket) (Unl)">
 		<description>Puzzle Gems (World) (v1.1) (Aftermarket) (Unl)</description>
-		<release name="Puzzle Gems (World) (v1.1) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Puzzle Gems (World) (v1.1) (Aftermarket) (Unl).ngc" size="39798" crc="ef104269" md5="04a35a8f274479a061b88bdeee8ee6d4" sha1="cf0fc231f7386ffb9fbf5825d03a758fa0236081"/>
 	</game>
 	<game name="Snake (World) (v1.2) (Aftermarket) (Unl)">
 		<description>Snake (World) (v1.2) (Aftermarket) (Unl)</description>
-		<release name="Snake (World) (v1.2) (Aftermarket) (Unl)" type="homebrew" region="World"/>
 		<rom name="Snake (World) (v1.2) (Aftermarket) (Unl).ngc" size="524288" crc="82510aa9" md5="62029cf9c8af82f4dd13bd0243693d32" sha1="2ca5b0e26dbb6f399ff89183de17603ea78e87a7"/>
 	</game>
 </datafile>
