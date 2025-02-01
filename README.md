@@ -29,7 +29,7 @@ In addition to getting RetroAchievement's "other" hashes into a DAT, I'm either 
 - For any ROMs that are linked to RetroAchievements via an RA Hash, DAT them with the actual proper info.
 
 ### Contributing
-I will chip away at a proper guide for this. In the meantime, if you would like to help, contact me via [RetroAchievements](https://retroachievements.org/user/televandalist) or via Discord `@televandalist`. 
+I will chip away at a proper guide for this. In the meantime, if you would like to help, contact me via [RetroAchievements](https://retroachievements.org/user/tele) or via Discord `@televandalist`. 
 
 ### Links
 - [RetroAchievements.org](https://retroachievements.org)
