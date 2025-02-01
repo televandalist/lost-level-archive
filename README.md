@@ -18,6 +18,8 @@ However, there are many "other" hashes without a proper home within a DAT. These
 
 I started **Lost Level Archive** as a way to give those "other" hashes a home without any red tape. I can add to it as often as I want and obviously the hashes need to be verified in order for them to appear. It's a win-win.
 
+*tl;dr = You know how No Intro has the Non-Redump DAT for stuff that isn't DAT'd by Redump? This is similar, but for both No Intro and Redump.*
+
 ### Ongoing and Future Plans
 In addition to getting RetroAchievement's "other" hashes into a DAT, I'm either currently doing or plan to do the following:
 - A supplementary "Extras" DAT for [DOSBox Pure's DAT project](https://github.com/PureDOS/DAT). This DAT contains manuals, reference guides, and other extras that you can usually find on GOG, eXoDOS, MyAbandonWare, etc. I originally wanted to add them to the DOSBox Pure DAT, but that wasn't the right fit for them. This is ongoing and found [here](https://github.com/televandalist/lost-level-archive/blob/main/Extra/DOSBox%20Pure%20Extras/Lost%20Level%20Archive%20-%20PureDOSDAT_Extras.xml).
