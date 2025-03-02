@@ -5,17 +5,26 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250201</version>
+		<version>v20250302</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Another World (USA) (DOS Port) (Release 3 - 2021-06-26) (Unlicensed)">
+		<description>Another World (USA) (DOS Port) (Release 3 - 2021-06-26) (Unlicensed)</description>
+		<rom name="Another World (USA) (DOS Port) (Release 3 - 2021-06-26) (Unlicensed).iso" size="3123456" crc="13b76f06" md5="9e4db59dc8c41de76675afb1395d83db" sha1="5c977d41b309fe37d047f399b5143f22f22cbe1a"/>
+	</game>
 	<game name="Buzzy Bee (USA) (v1.1) (NDR008)">
 		<description>Buzzy Bee (USA) (v1.1) (NDR008)</description>
 		<rom name="Buzzy Bee (USA) (v1.1) (NDR008) (Track 1).bin" size="2808288" crc="5D843613" md5="5942E93FF402774BE49EF8478AED8B3E" sha1="19EAAB1881B5E931311D0D03C4D917DA73887EDA"/>
 		<rom name="Buzzy Bee (USA) (v1.1) (NDR008) (Track 2).bin" size="35884464" crc="D582AE3A" md5="4E006EC106F3CFA1DE2D8D2A813FACFB" sha1="1243941637FBEF9180B3DCAE8C9342C5D16531C4"/>
 		<rom name="Buzzy Bee (USA) (v1.1) (NDR008).cue" size="209" crc="92E99210" md5="8451D90A0321F18FDB3A8E1636736F31" sha1="DA8338F26CAC1B7EA6B94D444B6BEC9CF9B5CC9A"/>
+	</game>
+	<game name="Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks)">
+		<description>Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks)</description>
+		<rom name="Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks).bin" size="37206288" crc="89f7fe6d" md5="31c01e62211abcb533b62770f0c78a80" sha1="7d8ed0ae83129e9d904e65c6652bbb1b5bbac3e2"/>
+		<rom name="Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks).cue" size="448" crc="e22cedf8" md5="06643c413a59078d72fa6edf47a1db40" sha1="6cb268eeadf7698b8485825f9e43a2363d6310f4"/>
 	</game>
 	<game name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)">
 		<description>Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)</description>

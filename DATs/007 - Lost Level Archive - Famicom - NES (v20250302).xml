@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>007</id>
+		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
+		<description>Nintendo - Famicom - NES</description>
+		<version>v20250302</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Ai Senshi Nicol (Japan) (FDS Conversion)">
+		<description>Ai Senshi Nicol (Japan) (FDS Conversion)</description>
+		<rom name="Ai Senshi Nicol (Japan) (FDS Conversion).nes" size="262160" crc="d2a09f84" md5="b00e878010f4e919a38090f8c05cc5b4" sha1="9c3364fa94a50b939d4167c024c23ede9e0c1a31" />
+	</game>
+	<game name="Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code)">
+		<description>Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code)</description>
+		<rom name="Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code).nes" size="196624" crc="308b1b6f" md5="73663e8aa298dc92f19951ebb5a1dabb" sha1="2fb0c9fafdd878c32a0514b3d9777d85c5873510" />
+	</game>
+	<game name="Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code) (Alt)">
+		<description>Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code) (Alt)</description>
+		<rom name="Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code) (Alt).nes" size="262160" crc="919ca714" md5="7e39bdfa8a7e03e2bbb4fa496cbe711e" sha1="1758d2fab957f37af3849a2defca9b33092bcaef" />
+	</game>
+	<game name="Cross Shuriken (France) (Aftermarket) (Unl) (Fabrizio Caruso)">
+		<description>Cross Shuriken (France) (Aftermarket) (Unl) (Fabrizio Caruso)</description>
+		<rom name="Cross Shuriken (France) (Aftermarket) (Unl) (Fabrizio Caruso).nes" size="40976" crc="af229fe9" md5="fb786ac46a51e3faa667195372e6074e" sha1="a9e2bddf3d8e305689d07cabbce4ed8e2ed19ad8" />
+	</game>
+	<game name="Enter Password (USA) (v2024-04-27) (Aftermarket) (Unl) (Johnybot)">
+		<description>Enter Password (USA) (v2024-04-27) (Aftermarket) (Unl) (Johnybot)</description>
+		<rom name="Enter Password (USA) (v2024-04-27) (Aftermarket) (Unl) (Johnybot).nes" size="40976" crc="392c782b" md5="613f27f190f3c1a1bc0fec7640c80948" sha1="b66153d4242ede5f2eaa3032c6c6f8849219db90" />
+	</game>
+	<game name="Fish (World) (v1.2) (Aftermarket) (Unl) (voxel)">
+		<description>Fish (World) (v1.2) (Aftermarket) (Unl) (voxel)</description>
+		<rom name="Fish (World) (v1.2) (Aftermarket) (Unl) (voxel).nes" size="40976" crc="20120db7" md5="b7a38bd1f84e6d02695e2ced8b80eb49" sha1="f4342a4d6752332eb09e4c1f9a896dc380a96275" />
+	</game>
+	<game name="Kou Dai Guai Shou II - Pokemon Diamond II (China) (Bootleg)">
+		<description>Kou Dai Guai Shou II - Pokemon Diamond II (China) (Bootleg)</description>
+		<rom name="Kou Dai Guai Shou II - Pokemon Diamond II (China) (Bootleg).nes" size="1048592" crc="91D6F1F4" md5="EFC3933C833059F8B1E82C9EB48E6057" sha1="603A686B3A3267D09B9A6840224B1EB07313F849"/>
+	</game>
+	<game name="Kou Dai Guai Shou III - Pokemon Diamond III (China) (Bootleg)">
+		<description>Kou Dai Guai Shou III - Pokemon Diamond III (China) (Bootleg)</description>
+		<rom name="Kou Dai Guai Shou III - Pokemon Diamond III (China) (Bootleg).nes" size="1048848" crc="725A7EAE" md5="964A77006AAD0F6FD098F89FE8ED8E34" sha1="186F739E271CA7D51B8401AA2570EDF21B14AEE9"/>
+	</game>
+	<game name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)">
+		<description>LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)</description>
+		<rom name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick).nes" size="24592" crc="82dbc5e3" md5="4c551bd96e85ba9164c732bbcdf60e2c" sha1="6aa612921e4cbee9027db7f740950488a3326229" />
+	</game>
+	<game name="Microsoft Windows '98 (China) (Aftermarket) (Bootleg) (Bei Tongfang)">
+		<description>Microsoft Windows '98 (China) (Aftermarket) (Bootleg) (Bei Tongfang)</description>
+		<rom name="Microsoft Windows '98 (China) (Aftermarket) (Bootleg) (Bei Tongfang).nes" size="524304" crc="5abe6cdb" md5="3ddc757b5ac78401de071b56445a3fde" sha1="d5fb9b805293abc58fe30e0077a5c7fa72690bd3" />
+	</game>
+	<game name="Mosh Lift (USA) (NESDev Compo 2023) (Aftermarket) (Unl) (Morphcat Games)">
+		<description>Mosh Lift (USA) (NESDev Compo 2023) (Aftermarket) (Unl) (Morphcat Games)</description>
+		<rom name="Mosh Lift (USA) (NESDev Compo 2023) (Aftermarket) (Unl) (Morphcat Games).nes" size="65552" crc="c6ab4c44" md5="46287846b63b5413cb4a61dd075bc7cb" sha1="948a43fa3dec90058a2dc4bb2d3ed34f1e4073ff" />
+	</game>
+	<game name="Neon Genesis Evangelion - Third Impact 40kb (Europe) (Demo) (Aftermarket) (Unl) (Hikikomori)">
+		<description>Neon Genesis Evangelion - Third Impact 40kb (Europe) (Demo) (Aftermarket) (Unl) (Hikikomori)</description>
+		<rom name="Neon Genesis Evangelion - Third Impact 40kb (Europe) (Demo) (Aftermarket) (Unl) (Hikikomori).nes" size="40976" crc="376b9d3d" md5="b40071abf7346089476491e9f94da200" sha1="c9e68113b04b15f7381955148e4517896583602b" />
+	</game>
+	<game name="Paint or Draw (USA) (v3.0) (Aftermarket) (Unl) (dougeff)">
+		<description>Paint or Draw (USA) (v3.0) (Aftermarket) (Unl) (dougeff)</description>
+		<rom name="Paint or Draw (USA) (v3.0) (Aftermarket) (Unl) (dougeff).nes" size="24592" crc="b69b31bd" md5="4ec7a3f78063c0f6385b670670719361" sha1="21c43dfe413b23e1a9b558aacd0a86ae8bd6c9e0" />
+	</game>
+	<game name="Police Dog Lasy (China) (v1.0) (Unl) (Aftermarket) (Nice Code)">
+		<description>Police Dog Lasy (China) (v1.0) (Unl) (Aftermarket) (Nice Code)</description>
+		<rom name="Police Dog Lasy (China) (v1.0) (Unl) (Aftermarket) (Nice Code).nes" size="40976" crc="f9519b23" md5="11289a79776640fd8772035fd0a180a3" sha1="8148b689e83ec7daf249799ed9aac79e3f09227b" />
+	</game>
+	<game name="Police Dog Lasy (China) (v1.1) (Unl) (Aftermarket) (Nice Code)">
+		<description>Police Dog Lasy (China) (v1.1) (Unl) (Aftermarket) (Nice Code)</description>
+		<rom name="Police Dog Lasy (China) (v1.1) (Unl) (Aftermarket) (Nice Code).nes" size="40976" crc="6f70608f" md5="84dd3dd4a2d4e13706b61c11692bcfb0" sha1="0d1376814902f1f2ed1328ac6ec0a0a1569ee16d" />
+	</game>
+	<game name="Pong de las TMNT II (USA) (v1.1) (Aftermarket) (Unl) (Double Z)">
+		<description>Pong de las TMNT II (USA) (v1.1) (Aftermarket) (Unl) (Double Z)</description>
+		<rom name="Pong de las TMNT II (USA) (v1.1) (Aftermarket) (Unl) (Double Z).nes" size="24592" crc="6d0f6f14" md5="a3321ec9820bc781d63d41186844adc0" sha1="46e1b35622a8e6721ae8b293ecc3cc201666b56d" />
+	</game>
+	<game name="Pong de las TMNT II (USA) (v1.1.2) (Aftermarket) (Unl) (Double Z)">
+		<description>Pong de las TMNT II (USA) (v1.1.2) (Aftermarket) (Unl) (Double Z)</description>
+		<rom name="Pong de las TMNT II (USA) (v1.1.2) (Aftermarket) (Unl) (Double Z).nes" size="24592" crc="5c0ff9f2" md5="c6cb2a6eeb31f29d16eb5d1f66f57a5a" sha1="0146db517d9bf3584f82e0ca277073d413c8d11d" />
+	</game>
+	<game name="Pong de las TMNT II (USA) (v1.23.1) (Aftermarket) (Unl) (Double Z)">
+		<description>Pong de las TMNT II (USA) (v1.23.1) (Aftermarket) (Unl) (Double Z)</description>
+		<rom name="Pong de las TMNT II (USA) (v1.23.1) (Aftermarket) (Unl) (Double Z).nes" size="24592" crc="7d6f3fea" md5="ffc1978668e72538e3abd3aaf4b205ee" sha1="a1c3ebce961007c55b5c691601097bb3abc42441" />
+	</game>
+	<game name="Puck-Man Puzzler (USA) (Demo) (Aftermarket) (Unl) (Debiru)">
+		<description>Puck-Man Puzzler (USA) (Demo) (Aftermarket) (Unl) (Debiru)</description>
+		<rom name="Puck-Man Puzzler (USA) (Demo) (Aftermarket) (Unl) (Debiru).nes" size="40976" crc="4378221e" md5="bc63ab98d235226025fa9c9f86894c2b" sha1="7faa5117d8dd77a59dcbcb97f2d7e6bccb0cbea5" />
+	</game>
+	<game name="Sexy Invaders (1990) (Unl) (Super PIG)">
+		<description>Sexy Invaders (1990) (Unl) (Super PIG)</description>
+		<rom name="Sexy Invaders (1990) (Unl) (Super PIG).fds" size="131000" crc="963b047c" md5="9124bdf0e1116e649b5daed14853e92b" sha1="e4b1fb93d4cb16f1b44e2987cc734e1a5e52c0a7" />
+	</game>
+	<game name="We Are Hejickle (USA) (v3.0) (Aftermarket) (Unl) (Pubby)">
+		<description>We Are Hejickle (USA) (v3.0) (Aftermarket) (Unl) (Pubby)</description>
+		<rom name="We Are Hejickle (USA) (v3.0) (Aftermarket) (Unl) (Pubby).nes" size="65552" crc="6ce836f3" md5="fe87a671f8a3b0963ebff83212d7ecf1" sha1="10058784215a34b286811975c452ed53d68e69f5" />
+	</game>
+	<game name="Witches Weed (USA) (Demo 3) (Aftermarket) (Unl) (T-bone#1)">
+		<description>Witches Weed (USA) (Demo 3) (Aftermarket) (Unl) (T-bone#1)</description>
+		<rom name="Witches Weed (USA) (Demo 3) (Aftermarket) (Unl) (T-bone#1).nes" size="524304" crc="c63834bb" md5="288d3b40090c1d15d7460bed4c0d60dc" sha1="abd18db6cc1a99d01adaa0c76e17affe8dd0d6b5" />
+	</game>
+	<game name="You Are Insignificant (USA) (Aftermarket) (Unl) (Team Disposables)">
+		<description>You Are Insignificant (USA) (Aftermarket) (Unl) (Team Disposables)</description>
+		<rom name="You Are Insignificant (USA) (Aftermarket) (Unl) (Team Disposables).nes" size="24592" crc="b2ae15b0" md5="b45d2fb6f49caaf7192d4df5edd8b59f" sha1="8cef412e94cb5ae5b161ceb6f3223dc26171b4f2" />
+	</game>
+</datafile>

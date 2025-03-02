@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>037</id>
+		<name>037 - Lost Level Archive - Amstrad - CPC</name>
+		<description>Amstrad - CPC</description>
+		<version>v20250302</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Abduction of Oszar Z, The (2020) (Dreamin' Bits)">
+		<description>Abduction of Oszar Z, The (2020) (Dreamin' Bits)</description>
+		<rom name="Abduction of Oszar Z, The (2020) (Dreamin' Bits).dsk" size="204544" crc="1367ac9d" md5="8260045bbcbf9edbfe6de05061d555df" sha1="ca51c25f5849d86f87ccb7106a7fac1a12017ff8" />
+	</game>
+	<game name="Anima (2020) (Carlos Perezgrin)">
+		<description>Anima (2020) (Carlos Perezgrin)</description>
+		<rom name="Anima (2020) (Carlos Perezgrin).dsk" size="204544" crc="af3fcf95" md5="a90ba86ab5bcc8f9f9d9c6765dae696a" sha1="c0d0c968b6c321bc9e801248a32bfe9f9e6f2052" />
+	</game>
+	<game name="Astrocop (2022) (Mananuk)">
+		<description>Astrocop (2022) (Mananuk)</description>
+		<rom name="Astrocop (2022) (Mananuk).dsk" size="194816" crc="eadb333b" md5="fc2dea0a3e43d21bfe28c2881291ade3" sha1="771466b62c355d3d68c2137bebaa8515e6b15fc8" />
+	</game>
+	<game name="Hair Boy (2016) (Carlos Sevila)">
+		<description>Hair Boy (2016) (Carlos Sevila)</description>
+		<rom name="Hair Boy (2016) (Carlos Sevila).dsk" size="204544" crc="c75e73ca" md5="a4b63c729643affd4db27cbdfc025324" sha1="7cf184ccbc919998b2260f2ddc16d8b697918a47" />
+	</game>
+	<game name="Miss Input 2 (2020) (ChupiGames) (En)">
+		<description>Miss Input 2 (2020) (ChupiGames) (En)</description>
+		<rom name="Miss Input 2 (2020) (ChupiGames) (En).dsk" size="204544" crc="ffabf636" md5="09d1c3626e70a31150a93dc3ce4e25a5" sha1="60e4002d2b115ad0875cb7220b006f45c98c7f55" />
+	</game>
+	<game name="Miss Input (2019) (ChupiGames) (En)">
+		<description>Miss Input (2019) (ChupiGames) (En)</description>
+		<rom name="Miss Input (2019) (ChupiGames) (En).dsk" size="204544" crc="64c57ea6" md5="e4bc8e3f51491a8866dbe4078037169f" sha1="f84d29be030f02d44a94f1a03ecdf8994a0287f4" />
+	</game>
+	<game name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es)">
+		<description>Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es)</description>
+		<rom name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side A).dsk" size="194816" crc="6fbf9b71" md5="82ce4f11cf0837f3f30d9be728b3cbce" sha1="679e425c2f90b93dde69810bdb5b336996ef82db" />
+		<rom name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side B).dsk" size="194816" crc="ff25843b" md5="8f3ca7c3abc050054743ba0609b56ba7" sha1="f172a8dd55b1b935e3f445ec5ddcf9cd9377378a" />
+	</game>
+	<game name="Superpix (2014) (Crack'n'Rom) (En) (v1.2)">
+		<description>Superpix (2014) (Crack'n'Rom) (En) (v1.2)</description>
+		<rom name="Superpix (2014) (Crack'n'Rom) (En) (v1.2) (Side A - Program).dsk" size="185856" crc="317444d8" md5="d46b20ff002beb4eb9dd27e6df4ee657" sha1="f4258e62e7ae58de6ef7a18dad165f7aaa457202" />
+		<rom name="Superpix (2014) (Crack'n'Rom) (En) (v1.2) (Side B - Levels).dsk" size="198400" crc="25a3b895" md5="2f465c4c990acb2fb5d2f137db914804" sha1="9db6d2ddbb079bf50f58b02aae56b9b3bf81f4e8" />
+	</game>
+</datafile>
