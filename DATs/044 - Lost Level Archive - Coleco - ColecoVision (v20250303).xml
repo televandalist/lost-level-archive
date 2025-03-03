@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>044</id>
+		<name>044 - Lost Level Archive - Coleco - ColecoVision</name>
+		<description>Coleco - ColecoVision</description>
+		<version>v20250303</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Zombie Incident (SGM-Compatible) (World) (v2018) (Aftermarket) (Unl) (Team Pixelboy)">
+		<description>Zombie Incident (SGM-Compatible) (World) (v2018) (Aftermarket) (Unl) (Team Pixelboy)</description>
+		<rom name="Zombie Incident (SGM-Compatible) (World) (v2018) (Aftermarket) (Unl) (Team Pixelboy).col" size="131072" crc="8027dad7" md5="542c64b744e8edbf0ad46c67b4ca8a24" sha1="e012488659e4fcd8658891dc86b8695a51ce3c55"/>
+	</game>
+</datafile>
