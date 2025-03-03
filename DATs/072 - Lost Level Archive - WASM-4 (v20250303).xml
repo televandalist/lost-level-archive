@@ -5,7 +5,7 @@
 		<id>072</id>
 		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20250201</version>
+		<version>v20250303</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -22,6 +22,10 @@
 	<game name="Assemblio (World) (Proto) (Phillip Luhmann)">
 		<description>Assemblio (World) (Proto) (Phillip Luhmann)</description>
 		<rom name="Assemblio (World) (Proto) (Phillip Luhmann).wasm" size="32837" crc="33D2AF45" md5="D0E3196980F2C30DA6E3A80074274885" Sha1="9692C642228AF5A6E49903C2127ED9324C0F18F9"/>
+	</game>
+	<game name="Break-It (World) (v1.0) (douglett)">
+		<description>Break-It (World) (v1.0) (douglett)</description>
+		<rom name="Break-It (World) (v1.0) (douglett).wasm" size="7218" crc="93F39C3C" md5="274AFF5236B7C26241E370C4798B5F04" Sha1="9AD62D35D12E261510E21E9ECF48405CBC5B3970"/>
 	</game>
 	<game name="Dashy Dango (World) (samX500)">
 		<description>Dashy Dango (World) (samX500)</description>
@@ -54,6 +58,10 @@
 	<game name="Future Avoid (World) (Proto) (Joakim Hentula)">
 		<description>Future Avoid (World) (Proto) (Joakim Hentula)</description>
 		<rom name="Future Avoid (World) (Proto) (Joakim Hentula).wasm" size="51637" crc="F7856AD6" md5="6ED7BF2107F26D9D9027EADD4EF16854" Sha1="E4CC494BE1FABE730D47E78A8582E02DDF8B6C1E"/>
+	</game>
+	<game name="Fuzzy World Cup (World) (v1.0) (Damian Girardi, Sebastian Alvarez)">
+		<description>Fuzzy World Cup (World) (v1.0) (Damian Girardi, Sebastian Alvarez)</description>
+		<rom name="Fuzzy World Cup (World) (v1.0) (Damian Girardi, Sebastian Alvarez).wasm" size="65014" crc="270ECA57" md5="BD8E69F715855FCF292331C7846B8199" Sha1="89B630F32D41B97E281B123D47BA2BE4C1C232BD"/>
 	</game>
 	<game name="GALDR (World) (jonathand)">
 		<description>GALDR (World) (jonathand)</description>
@@ -202,6 +210,10 @@
 	<game name="Touhou Spirits (World) (v1.0.1) (Mr.Rafael)">
 		<description>Touhou Spirits (World) (v1.0.1) (Mr.Rafael)</description>
 		<rom name="Touhou Spirits (World) (v1.0.1) (Mr.Rafael).wasm" size="54944" crc="A732E072" md5="D50E41FFF554D2353F948538C27CE3CC" Sha1="2113AF25AAF68E343B4F9992CFF136998A903204"/>
+	</game>
+	<game name="Untangle (World) (v0.1.1) (Mota Link)">
+		<description>Untangle (World) (v0.1.1) (Mota Link)</description>
+		<rom name="Untangle (World) (v0.1.1) (Mota Link).wasm" size="56236" crc="1BCBA0F7" md5="BF657A4954CE7CA7B7164E5FB250DE67" Sha1="FDF688D3639AECE56886B3AD0E3AD6EEB6245A5C"/>
 	</game>
 	<game name="wasm4nia (World) (v1.0.4) (Marcus Ramse)">
 		<description>wasm4nia (World) (v1.0.4) (Marcus Ramse)</description>
