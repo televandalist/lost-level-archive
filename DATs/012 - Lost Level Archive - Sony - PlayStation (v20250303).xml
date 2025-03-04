@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250302</version>
+		<version>v20250303</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -66,6 +66,78 @@
 		<description>Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)</description>
 		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).bin" size="627626496" crc="8277E2C3" md5="D7F9E75C03C5E73C5FAB5393FB02F486" sha1="9AEECC21E91BAA43FB7935BB43C77513A4636546"/>
 		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).cue" size="121" crc="6BD72052" md5="59DA714172EB28D6B74692F439FFA00C" sha1="921CAC92A2F10F7D08749B23119975D78F4F38F0"/>
+	</game>
+	<game name="PSXFunkin' (v0.12) (cuckydev)">
+		<description>PSXFunkin' (v0.12) (cuckydev)</description>
+		<rom name="PSXFunkin' (v0.12) (cuckydev).bin" size="437457888" crc="0651feee" md5="3be02c48ff35586eb30c36f93746c02b" sha1="183ce34542e123e125d2b14b27fd10733f4cabb6" />
+		<rom name="PSXFunkin' (v0.12) (cuckydev).cue" size="95" crc="5a4fffd0" md5="a71e0b8877a4db322973eda91ee8dfc2" sha1="71a16a27c897a3a425067d92a2a7bd6fffd15d73" />
+	</game>
+	<game name="PSXFunkin' - B Sides (v1.3) (zeriben)">
+		<description>PSXFunkin' - B Sides (v1.3) (zeriben)</description>
+		<rom name="PSXFunkin' - B Sides (v1.3) (zeriben).bin" size="259225680" crc="88b2f5c8" md5="ff4e75fb795d4b6c546838c896c668b7" sha1="107ddfd57745e57b54d742610495dbf17f9442b0" />
+		<rom name="PSXFunkin' - B Sides (v1.3) (zeriben).cue" size="100" crc="5cad2c86" md5="09a08ca51682d3642800195d1d2a8030" sha1="599dbea8de4f8aefd76471d71e66948f7032d638" />
+	</game>
+	<game name="PSXFunkin' - D Sides (IgorSou30000)">
+		<description>PSXFunkin' - D Sides (IgorSou30000)</description>
+		<rom name="PSXFunkin' - D Sides (IgorSou30000).bin" size="198116016" crc="5ad810d7" md5="8ec103539a120462ab783ebc61a0b5b0" sha1="e26339f5d9b252c1676ab48b4e54ebdf9badc4a1" />
+		<rom name="PSXFunkin' - D Sides (IgorSou30000).cue" size="101" crc="7c1b2940" md5="d650ccb55157672f9608e1fd5af13700" sha1="56dedd2366a081f08abbf8dbdfa2898222b3819d" />
+	</game>
+	<game name="PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout)">
+		<description>PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout)</description>
+		<rom name="PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout).bin" size="81165168" crc="3200c7fe" md5="4e0560bced6c8086eaed8a856093f906" sha1="698c583dbd0cb40a665fbbda2f563dc01e8e3a2a" />
+		<rom name="PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout).cue" size="122" crc="a51c5c7e" md5="887c985d15266e102f4c8b69fc010281" sha1="56377393a0970e3dec0c8fccfe371d9464810e00" />
+	</game>
+	<game name="PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)">
+		<description>PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)</description>
+		<rom name="PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000).bin" size="229178880" crc="eb831e71" md5="cd7ad8a834f7160d959122e133f4384a" sha1="bfad6a37ee2e941a95e2c9ba42bd44505d6e1741" />
+		<rom name="PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000).cue" size="116" crc="0bc0280f" md5="2c369c49a00a4a875ab87bacd05b72b7" sha1="98fcceb8419204432bc60998db9b306f0286fec5" />
+	</game>
+	<game name="PSXFunkin' - Pibby Corrupted (UNSTOP4BLE, IgorSou30000)">
+		<description>PSXFunkin' - Pibby Corrupted (UNSTOP4BLE, IgorSou30000)</description>
+		<rom name="PSXFunkin' - Pibby Corrupted (UNSTOP4BLE, IgorSou30000).bin" size="406672560" crc="c1ecae52" md5="77b01e90ac2d2f46f7d819ffe5cd655e" sha1="35ee66ca477c278e504e28d4e9ed37690807e1cf" />
+		<rom name="PSXFunkin' - Pibby Corrupted (UNSTOP4BLE, IgorSou30000).cue" size="121" crc="6ff845fd" md5="32d10fe5da1eab0b7debc2e174bb7a7d" sha1="cd7ebdb9094cec9c129a7d58e89d5e1e25c8b3eb" />
+	</game>
+	<game name="PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000)">
+		<description>PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000)</description>
+		<rom name="PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000).bin" size="230493648" crc="000ed215" md5="d2156077fa6b7d7dfdfc64319c5bf91b" sha1="cc5de605879bf2b6762ef19dafa20f970f5f37cb" />
+		<rom name="PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000).cue" size="119" crc="22f38deb" md5="bbb6907542803db80926eedefa30056b" sha1="3dfda9abebe56a338051373731b05f0fd3ce98e3" />
+	</game>
+	<game name="PSXFunkin' - VS. Imposter V4 (Tomscop)">
+		<description>PSXFunkin' - VS. Imposter V4 (Tomscop)</description>
+		<rom name="PSXFunkin' - VS. Imposter V4 (Tomscop) (Disc 1).bin" size="582256416" crc="3036c7e5" md5="1fdd264f33f6ed2592359fcc468876f5" sha1="75b99170dd9f4f432db1993aa0632842721575da" />
+		<rom name="PSXFunkin' - VS. Imposter V4 (Tomscop) (Disc 1).cue" size="113" crc="a0a58105" md5="c172d2cbb4d48558a87580a775daf47c" sha1="3d7b00abd5e621c5a25492c78b6df7cb0df96b9d" />
+		<rom name="PSXFunkin' - VS. Imposter V4 (Tomscop) (Disc 2).bin" size="438878496" crc="8073ec78" md5="5ec5f974cf2d01515c24e9570c4d29f8" sha1="a29597e253c10ceb9ad97a9d734c4d53a77bc573" />
+		<rom name="PSXFunkin' - VS. Imposter V4 (Tomscop) (Disc 2).cue" size="113" crc="a1f8a7d4" md5="405d83184d299e8dd56682a65e479dc1" sha1="62e8b9f4d7c0f7ca9c58931acd3d50adba79494d" />
+	</game>
+	<game name="PSXFunkin' - VS. Kapi - Arcade Showdown (UNSTOP4BLE)">
+		<description>PSXFunkin' - VS. Kapi - Arcade Showdown (UNSTOP4BLE)</description>
+		<rom name="PSXFunkin' - VS. Kapi - Arcade Showdown (UNSTOP4BLE).bin" size="103426848" crc="397e6e35" md5="8e4fb93bfa97970b919b4c2f8ff08566" sha1="1bd93da0104c00fb6f5462af1160557af26edd45" />
+		<rom name="PSXFunkin' - VS. Kapi - Arcade Showdown (UNSTOP4BLE).cue" size="118" crc="083de8f4" md5="c4d57251cda4edf55f3673bfdc2d025c" sha1="834064c3fa4cd9f37f372b558e5707eebabe734e" />
+	</game>
+	<game name="PSXFunkin' - VS. Matt (UNSTOP4BLE)">
+		<description>PSXFunkin' - VS. Matt (UNSTOP4BLE)</description>
+		<rom name="PSXFunkin' - VS. Matt (UNSTOP4BLE).bin" size="114612960" crc="125eecfa" md5="8dd71f6357921c0a6881d391601e953d" sha1="eb8de1754b7a1a49e8107bc4c6bfbf78072a1cd4" />
+		<rom name="PSXFunkin' - VS. Matt (UNSTOP4BLE).cue" size="100" crc="a5692925" md5="fd7cb0edc317063c7086b40944cb5e7d" sha1="dcfc6ceef503e41a030d1318270cf209ae618cd3" />
+	</game>
+	<game name="PSXFunkin' - VS. Ourple Guy (v2.0) (Pichuman10)">
+		<description>PSXFunkin' - VS. Ourple Guy (v2.0) (Pichuman10)</description>
+		<rom name="PSXFunkin' - VS. Ourple Guy (v2.0) (Pichuman10).bin" size="436183104" crc="24c6c077" md5="0c36a301dc10dbc7f6069a688215c224" sha1="5885000cbc846ec89ba2b196fc4b42087f30d22e" />
+		<rom name="PSXFunkin' - VS. Ourple Guy (v2.0) (Pichuman10).cue" size="113" crc="9243868f" md5="15ea8ebe9d9f43b60ae23b0f6d369175" sha1="3f0c7678418bd1431c28c4f6b7ef3ff4c3af1202" />
+	</game>
+	<game name="PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE)">
+		<description>PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE)</description>
+		<rom name="PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE).bin" size="155831760" crc="af686ae2" md5="2c9522c177a84b6f0dd5a8c93dfe2b5e" sha1="b0bf66713fe720cdbdb822af8ededda34be2132b" />
+		<rom name="PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE).cue" size="114" crc="1e63bd94" md5="b82b8c90c54dc6473b3617f814e2a1ab" sha1="ee1e47c3cf28e9b9545b96a851043b4d10d01d66" />
+	</game>
+	<game name="PSXFunkin' - VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000)">
+		<description>PSXFunkin' - VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000)</description>
+		<rom name="PSXFunkin' - VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000).bin" size="74781840" crc="4d9169bd" md5="9aeab180e4e2b6ce6ea0288da2c43233" sha1="43299955579d32c27583f3ba3a94bf8a019c6b69" />
+		<rom name="PSXFunkin' - VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000).cue" size="131" crc="2e4fa4f4" md5="f399db349ee71001f6809738559e71f7" sha1="9946cab35c4d14607519c9bacf6f01eaa959a94f" />
+	</game>
+	<game name="PSXFunkin' - VS. Tricky (CKDev, Lord Scout)">
+		<description>PSXFunkin' - VS. Tricky (CKDev, Lord Scout)</description>
+		<rom name="PSXFunkin' - VS. Tricky (CKDev, Lord Scout).bin" size="113324064" crc="5bc8cb67" md5="59a9b0778cce3c9afa56a807bd85989c" sha1="2a963810a63c9ab6dd0c90492eafc4dabf1472ca" />
+		<rom name="PSXFunkin' - VS. Tricky (CKDev, Lord Scout).cue" size="109" crc="f4b9cd92" md5="38808f828dd190c45597ae912a0bfe64" sha1="697a9a7085dae3c6c9680988bc9fbb16e566fcd0" />
 	</game>
 	<game name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)">
 		<description>Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)</description>
