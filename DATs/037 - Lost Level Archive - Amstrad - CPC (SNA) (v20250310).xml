@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>037</id>
+		<name>037 - Lost Level Archive - Amstrad - CPC (SNA)</name>
+		<description>Amstrad - CPC (SNA)</description>
+		<version>v20250310</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird)">
+		<description>DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird)</description>
+		<rom name="DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird).sna" size="65792" crc="019791d7" md5="9575b6fdb2fbcb021ab4435b28aac79d" sha1="ac3264667ece6c9f25da1c6ef09e6910370bc86e" />
+	</game>
+	<game name="Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)">
+		<description>Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)</description>
+		<rom name="Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0).sna" size="65792" crc="17017435" md5="cfbdbc9bc4345243c7ba3162564b19e0" sha1="9dd8b03da36fbf62db381ea5cd388bc4d3544418" />
+	</game>
+	<game name="Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio)">
+		<description>Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio)</description>
+		<rom name="Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio).sna" size="65792" crc="2852787a" md5="e9bec8e5950ef4e3f0ad1c231aac3c6f" sha1="7b4146ca3adff6f4a3459a00a8fe4f7e99be8e46" />
+	</game>
+</datafile>
