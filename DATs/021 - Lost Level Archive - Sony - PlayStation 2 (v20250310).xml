@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250201</version>
+		<version>v20250310</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -42,6 +42,14 @@
 	<game name="Project Zero (Europe) (Undub) (v1.3.3) (Fixes) (Widescreen)" cloneof="Fatal Frame (USA)">
 		<description>Project Zero (Europe) (Undub) (v1.3.3) (Fixes) (Widescreen)</description>
 		<rom name="Project Zero (Europe) (Undub) (v1.3.3) (Fixes) (Widescreen).iso" size="3750100992" crc="e544c29b" md5="872f7e078163eb33fccc8b7c8d6b327d" sha1="8bb602bb7c51ed4ab4d7b119fe720f3c9df60fa6" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (SlayerOfGod)">
+		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (SlayerOfGod)</description>
+		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (SlayerOfGod).iso" size="4484464640" crc="920015fa" md5="df0ddaf6390d668fe61cdd8eb25a4a06" sha1="6563d2863443c3062390a267d739e92ad68152c1" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (SlayerOfGod)">
+		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (SlayerOfGod)</description>
+		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (SlayerOfGod).iso" size="4484562944" crc="30d6c9fc" md5="9b47ff4c64bcba63c51a684cebef5ac6" sha1="d74f6f5450d966679f23cb867f0ca8f88b481392" />
 	</game>
 	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)" cloneof="Shin Megami Tensei - Persona 3 FES (USA)">
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)</description>
