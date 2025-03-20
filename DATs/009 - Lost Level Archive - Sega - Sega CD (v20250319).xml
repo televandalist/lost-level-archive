@@ -5,7 +5,7 @@
 		<id>009</id>
 		<name>009 - Lost Level Archive - Sega - Sega CD</name>
 		<description>Sega - Sega CD</description>
-		<version>v20250201</version>
+		<version>v20250319</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -37,6 +37,6 @@
 	<game name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur)">
 		<description>Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur)</description>
 		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur).bin" size="1095680" crc="EB76C863" md5="EDA749827F62224EDDF8C17F3F5E2558" sha1="C0520E63D7791E07E7D6ABEB2AE61D2A05C31CA6"/>
-		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur).cue" size="147" crc="3936C7E4" md5="E59229E29946B8201F52440F3EF18F01" sha1="8A53DAC5AAE92BB960A1909AAA246400B525A4C7"/>
+		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur).cue" size="145" crc="a46d714a" md5="a641df4460c965f28aa5dabdca395956" sha1="682b8a6bad066e939438320a7e85e6878e196c6b" />
 	</game>
 </datafile>
