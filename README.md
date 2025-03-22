@@ -28,6 +28,91 @@ In addition to getting RetroAchievement's "other" hashes into a DAT, I'm either 
 - Fully DAT 4am's `4am Crack` and `Woz-A-Day` projects for Apple IIe.
 - For any ROMs that are linked to RetroAchievements via an RA Hash, DAT them with the actual proper info.
 
+### ID Numbers
+You may have noticed that the filenames of the DATs start with numbers that don't follow a discernable pattern. These are the Console ID numbers for RetroAchievements.org. Here is the full list:
+| ID Number | Manufacturer/Developer | Console/Platform |
+| :-------: | ---------------------- | ------- |
+| 01 | Sega | Mega Drive - Genesis |
+| 02 | Nintendo | Nintendo 64 |
+| 03 | Nintendo | Super Famicom - SNES |
+| 04 | Nintendo | Game Boy |
+| 05 | Nintendo | Game Boy Advance |
+| 06 | Nintendo | Game Boy Color |
+| 07 | Nintendo | Famicom - NES |
+| 08 | NEC | PC Engine - TurboGrafx-16 |
+| 09 | Sega | Sega CD |
+| 10 | Sega | 32X |
+| 11 | Sega | Master System |
+| 12 | Sony | PlayStation |
+| 13 | Atari | Lynx |
+| 14 | SNK | Neo Geo Pocket Color |
+| 15 | Sega | Game Gear |
+| 16 | Nintendo | GameCube |
+| 17 | Atari | Jaguar |
+| 18 | Nintendo | Nintendo DS |
+| 19 | Nintendo | Wii |
+| 20 | Nintendo | Wii U |
+| 21 | Sony | PlayStation 2 |
+| 22 | Microsoft | Xbox |
+| 23 | Magnavox | Odyssey2 |
+| 24 | Nintendo | Pokemon Mini |
+| 25 | Atari | Atari 2600 |
+| 26 | Microsoft | DOS |
+| 27 | N/A | Arcade |
+| 28 | Nintendo | Virtual Boy |
+| 29 | Microsoft | MSX |
+| 30 | Commodore | Commodore 64 |
+| 31 | Sinclair | ZX81 |
+| 32 | Tangerine | Oric |
+| 33 | Sega | SG-1000 |
+| 34 | Commodore | Vic-20 |
+| 35 | Commodore | Amiga |
+| 36 | Atari | Atari ST |
+| 37 | Amstrad | Amstrad CPC |
+| 38 | Apple | Apple II |
+| 39 | Sega | Saturn |
+| 40 | Sega | Dreamcast |
+| 41 | Sony | PlayStation Portable |
+| 42 | Philips | CD-i |
+| 43 | 3DO Company | 3DO |
+| 44 | Coleco | ColecoVision |
+| 45 | Mattel | Intellivision |
+| 46 | GCE | Vectrex |
+| 47 | NEC | PC-8000/PC-8800 |
+| 48 | NEC | PC-9800 |
+| 49 | NEC | PC-FX |
+| 50 | Atari | Atari 5200 |
+| 51 | Atari | Atari 7800 |
+| 52 | Sharp | X86000 |
+| 53 | Bandai | WonderSwan Color |
+| 54 | Epoch | Cassette Vision |
+| 55 | Epoch | Super Cassette Vision |
+| 56 | SNK | Neo Geo CD |
+| 57 | Fairchild | Channel F |
+| 58 | Fujitsu | FM Towns |
+| 59 | Sinclair | ZX Spectrum |
+| 60 | Nintendo | Game & Watch |
+| 61 | Nokia | N-Gage |
+| 62 | Nintendo | Nintendo 3DS |
+| 63 | Watara | Supervision |
+| 64 | Sharp | X1 |
+| 65 | Nesbox | TIC-80 |
+| 66 | Thomson | TO8 |
+| 67 | NEC | PC-6000 |
+| 68 | Sega | Pico |
+| 69 | Welback | Mega Duck |
+| 70 | Zeebo Inc | Zeebo |
+| 71 | Arduboy Inc | Arduboy |
+| 72 | Aduros | WASM-4 |
+| 73 | Emerson | Arcadia 2001 |
+| 74 | Interton | VC 4000 |
+| 75 | Elektor | TV Games Computer |
+| 76 | NEC | PC Engine CD - TurboGrafx-CD |
+| 77 | Atari | Jaguar CD |
+| 78 | Nintendo | Nintendo DSi |
+| 79 | Texas Instruments | TI-83 |
+| 80 | Belogic Software | Uzebox |
+
 ### Contributing
 I will chip away at a proper guide for this. In the meantime, if you would like to help, contact me via [RetroAchievements](https://retroachievements.org/user/tele) or via Discord `@televandalist`. 
 
