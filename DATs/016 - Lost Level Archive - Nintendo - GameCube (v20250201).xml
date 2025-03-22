@@ -67,6 +67,14 @@
 		<description>Super Doot Sunshine (v1.4.0) (warspyking)</description>
 		<rom name="Super Doot Sunshine (v1.4.0) (warspyking).iso" size="1459978240" crc="1e0e558e" md5="ee334e837718b5acb41ce5145a532165" sha1="90ffb58ecd98d137861414a5a52217ee8b40f08b" />
 	</game>
+	<game name="Super Mario Sunshine Co-op (v1.0) (TheAzack9)" cloneof="Super Mario Sunshine (USA)">
+		<description>Super Mario Sunshine Co-op (v1.0) (TheAzack9)</description>
+		<rom name="Super Mario Sunshine Co-op (v1.0) (TheAzack9).iso" size="1459978240" crc="db31ec20" md5="be7a99ad2cef18d2f7c4ee77bdfe1930" sha1="dd6631f02c4a148f97bdf29c920d3a412dfcb770" />
+	</game>
+	<game name="Super Smash Bros. Melee - The Akaneia Build (v0.92) (Team Akaneia)" cloneof="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2)">
+		<description>Super Smash Bros. Melee - The Akaneia Build (v0.92) (Team Akaneia)</description>
+		<rom name="Super Smash Bros. Melee - The Akaneia Build (v0.92) (Team Akaneia).iso" size="1459978240" crc="438a6a6f" md5="7b8e78706442c897fb8189e4476a205e" sha1="0ebacae17aa30311a12be20050b16877b261d6a5" />
+	</game>
 	<game name="Super Sponge Ball (v1.1) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
 		<description>Super Sponge Ball (v1.1) (Eyepie)</description>
 		<rom name="Super Sponge Ball (v1.1) (Eyepie).iso" size="841252864" crc="de9be1ee" md5="784d343a929d3ff399c03324e252cd0d" sha1="259d373054def8dee0fb175a0f08e9fac9b097f4" />
