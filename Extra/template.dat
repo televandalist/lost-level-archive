@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.github.com/televandalist/lost-level-archive">
+	<header>
+		<id>###</id>
+		<name>### - Lost Level Archive - (v####-##-##)</name>
+		<description></description>
+		<version>v########</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="" cloneof="">
+		<description></description>
+		<release name="" type="" region=""/>
+		<rom name="" size="" crc="" md5="" sha1=""/>
+	</game>
+</datafile>
