@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20250201</version>
+		<version>v20250325</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -42,6 +42,10 @@
 	<game name="Memory (USA) (AtGames) (Bootleg)">
 		<description>Memory (USA) (AtGames) (Bootleg).md</description>
 		<rom name="Memory (USA) (AtGames) (Bootleg).md" size="65536" crc="a85230c0" md5="8288b6d3f58d1844aef780bf0cdf0dc1" sha1="e37e15632d0a6b73f50cbb9bbd65cc1d62d1866e" />
+	</game>
+	<game name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)">
+		<description>Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)</description>
+		<rom name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl).md" size="5242880" crc="45d73398" md5="a8751584041af810c8ceabe5e9c8a91b" sha1="1177cf4306ec695cc01120bd6d6c35d82787f9be" />
 	</game>
 	<game name="Snake (USA) (AtGames) (Bootleg)">
 		<description>Snake (USA) (AtGames) (Bootleg).md</description>
