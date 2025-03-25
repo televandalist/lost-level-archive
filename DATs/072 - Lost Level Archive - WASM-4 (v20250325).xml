@@ -339,9 +339,9 @@
 		<description>Sokoban (World) (Proto) (Lars Hamre)</description>
 		<rom name="Sokoban (World) (Proto) (Lars Hamre).wasm" size="12370" crc="A2E635BC" md5="FDF069FED2FF2346DDB449C8203CF1A6" Sha1="EE20D665E9D00BBD2252C5E2C6C6304B1FA769A8"/>
 	</game>
-	<game name="Space Command (World) (korhadris)">
-		<description>Space Command (World) (korhadris)</description>
-		<rom name="Space Command (World) (korhadris).wasm" size="31382" crc="eb8311ec" md5="31fb2370e6a7477d8093e5ee27a0bfd4" sha1="86f0659e45c87db23cefaf9b99253b90126bfae2" />
+	<game name="Space Kommand (World) (korhadris)">
+		<description>Space Kommand (World) (korhadris)</description>
+		<rom name="Space Kommand (World) (korhadris).wasm" size="31382" crc="eb8311ec" md5="31fb2370e6a7477d8093e5ee27a0bfd4" sha1="86f0659e45c87db23cefaf9b99253b90126bfae2" />
 	</game>
 	<game name="Space Delivery (World) (kirinokirino)">
 		<description>Space Delivery (World) (kirinokirino)</description>
