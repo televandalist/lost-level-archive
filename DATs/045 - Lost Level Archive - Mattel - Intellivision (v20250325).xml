@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>045</id>
+		<name>045 - Lost Level Archive - Mattel - Intellivision</name>
+		<description>Mattel - Intellivision</description>
+		<version>v20250325</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="4-Tris (World) (Aftermarket) (Unl)">
+		<description>4-Tris (World) (Aftermarket) (Unl)</description>
+		<rom name="4-Tris (World) (Aftermarket) (Unl).int" size="16441" crc="7fd2a11a" md5="bdf1ffe620738e6f54740ded6e175693" sha1="17efae049715528a2a85c9412f5c0ec4824f3557" />
+	</game>
+	<game name="Antarctic Tales - Enhanced Edition (World) (v20210707) (Aftermarket) (Unl)">
+		<description>Antarctic Tales - Enhanced Edition (World) (v20210707) (Aftermarket) (Unl)</description>
+		<rom name="Antarctic Tales - Enhanced Edition (World) (v20210707) (Aftermarket) (Unl).int" size="77396" crc="9ba5a798" md5="27051b100ff89970d8a24291e8b6cb67" sha1="bc8d07fc972770dabf6a77ef73a7be15c0521c3e" />
+	</game>
+	<game name="Flapee Bird (World) (Aftermarket) (Unl)">
+		<description>Flapee Bird (World) (Aftermarket) (Unl)</description>
+		<rom name="Flapee Bird (World) (Aftermarket) (Unl).int" size="9728" crc="9c7de352" md5="5b065c30735a4b0feee2aac48ebaf633" sha1="f91d4507baf41626d839308659e68de048c767c8" />
+	</game>
+	<game name="Gooninuff (World) (v20210318) (Aftermarket) (Unl)">
+		<description>Gooninuff (World) (v20210318) (Aftermarket) (Unl)</description>
+		<rom name="Gooninuff (World) (v20210318) (Aftermarket) (Unl).int" size="84044" crc="71c2c0bf" md5="783d44f600541ed9ee4471f263cacde0" sha1="f2f28a9f4c084a2037e3b7c34d5eb071078e5cb0" />
+	</game>
+	<game name="Intellivania (World) (Aftermarket) (Unl)">
+		<description>Intellivania (World) (Aftermarket) (Unl)</description>
+		<rom name="Intellivania (World) (Aftermarket) (Unl).int" size="88656" crc="b7a33e8e" md5="7431758763b233ab4b14155c4cf0f001" sha1="6490f5cfba9bd69c05ad89a0d1a7a9d71bc0e43a" />
+	</game>
+	<game name="Maria (World) (Aftermarket) (Unl)">
+		<description>Maria (World) (Aftermarket) (Unl)</description>
+		<rom name="Maria (World) (Aftermarket) (Unl).int" size="84560" crc="0905ce31" md5="88db0fa3d2194e4133fd67b6e21cd6f2" sha1="ee5cca979324934ac7582afd608a71c7489b472e" />
+	</game>
+	<game name="Princess Quest (World) (Aftermarket) (Unl)">
+		<description>Princess Quest (World) (Aftermarket) (Unl)</description>
+		<rom name="Princess Quest (World) (Aftermarket) (Unl).int" size="76357" crc="38e9ef48" md5="ed8e8a3c94b8f3b59579047a297cac32" sha1="a9841432efa5aeea64ca44155a034efaded2201e" />
+	</game>
+	<game name="Pumpkin Attack (World) (Aftermarket) (Unl)">
+		<description>Pumpkin Attack (World) (Aftermarket) (Unl)</description>
+		<rom name="Pumpkin Attack (World) (Aftermarket) (Unl).int" size="26685" crc="26e0bcaa" md5="b593690baa3643df336e2385e9c24dfe" sha1="4288013866edc5e398fc58ba2c686fe2ac781fb4" />
+	</game>
+	<game name="Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)">
+		<description>Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)</description>
+		<rom name="Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl).int" size="10752" crc="1ecdd51b" md5="57e82ac5ef6c1bff0b810874c4b2c30c" sha1="9e1666a68d50bb4a1f618cc2f9bcd7dfbadc8188" />
+	</game>
+	<game name="Ultimate Pong (World) (v9.0) (Aftermarket) (Unl)">
+		<description>Ultimate Pong (World) (v9.0) (Aftermarket) (Unl)</description>
+		<rom name="Ultimate Pong (World) (v9.0) (Aftermarket) (Unl).int" size="57925" crc="30575596" md5="03a20a7287601bdae309693ca4f6f0b9" sha1="9469d231a910777b8f46276fa497dc75d7a6a88f" />
+	</game>
+</datafile>
