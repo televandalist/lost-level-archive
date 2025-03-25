@@ -43,9 +43,9 @@
 		<description>Factor-9 (World) (v5.02) (Blitter Brothers)</description>
 		<rom name="Factor-9 (World) (v5.02) (Blitter Brothers).hex" size="77070" crc="fb01cf2c" md5="4264df164f51edcf6b65e1644ff4f339" sha1="3b7e64a03c3b8a2e6b8bf6918e91b516a5848f71" />
 	</game>
-	<game name="Fast (World) (Tron Byron Holldorf)">
-		<description>Fast (World) (Tron Byron Holldorf)</description>
-		<rom name="Fast (World) (Tron Byron Holldorf).hex" size="67031" crc="6de738c5" md5="9e6dc8d21e7a5bb273cd9b80b6db0a30" sha1="52154f04d0f301198952393467575eb69fdf2eac" />
+	<game name="Fast (World) (v0.2.0) (Tron Byron Holldorf)">
+		<description>Fast (World) (v0.2.0) (Tron Byron Holldorf)</description>
+		<rom name="Fast (World) (v0.2.0) (Tron Byron Holldorf).hex" size="67031" crc="6de738c5" md5="9e6dc8d21e7a5bb273cd9b80b6db0a30" sha1="52154f04d0f301198952393467575eb69fdf2eac" />
 	</game>
 	<game name="Gunpy (World) (v0.91) (chokmah.jp)">
 		<description>Gunpy (World) (v0.91) (chokmah.jp)</description>

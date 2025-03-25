@@ -79,9 +79,9 @@
 		<description>Quest for the Golden Chalice (World) (Aftermarket) (Unl)</description>
 		<rom name="Quest for the Golden Chalice (World) (Aftermarket) (Unl).col" size="32768" crc="6da37da8" md5="eabcb4a9a1eac2c6f8a7d002987d9e55" sha1="21398973ba4ebd563ccfb0f3c1c03c6a447f4eea" />
 	</game>
-	<game name="Secret of the Moai (MSX Conversion) (SGM) (World)">
-		<description>Secret of the Moai (MSX Conversion) (SGM) (World)</description>
-		<rom name="Secret of the Moai (MSX Conversion) (SGM) (World).col" size="131072" crc="b753a8ca" md5="3e5e6da18e2ab63bed70fb4663451e3e" sha1="d8ced1a384ad1e88fd8b69fd3a5b265fa3975f31" />
+	<game name="Secret of the Moai (SGM) (MSX Conversion) (World)">
+		<description>Secret of the Moai (SGM) (MSX Conversion) (World)</description>
+		<rom name="Secret of the Moai (SGM) (MSX Conversion) (World).col" size="131072" crc="b753a8ca" md5="3e5e6da18e2ab63bed70fb4663451e3e" sha1="d8ced1a384ad1e88fd8b69fd3a5b265fa3975f31" />
 	</game>
 	<game name="Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl)">
 		<description>Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl)</description>
