@@ -187,9 +187,9 @@
 		<description>Hong Kong 97 GB (World) (v2022) (Aftermarket) (Unl)</description>
 		<rom name="Hong Kong 97 GB (World) (v2022) (Aftermarket) (Unl).gb" size="262144" crc="97abfaa0" md5="757f792dc668537352f037030f659d1f" sha1="8d12129b5982b22f33d1dea351dd96ad0cd10122" />
 	</game>
-	<game name="Horizon GB (World) (Demo) (Aftermarket) (Unl)">
-		<description>Horizon GB (World) (Demo) (Aftermarket) (Unl)</description>
-		<rom name="Horizon GB (World) (Demo) (Aftermarket) (Unl).gb" size="131072" crc="5589488c" md5="1ea477b02187c68f8c6a08a97f6ba720" sha1="cb05ce52a9c7a9729a142d1276cb6c063a0680ea" />
+	<game name="Horizon - Zero Dawn (World) (Demo) (Aftermarket) (Unl)">
+		<description>Horizon - Zero Dawn (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Horizon - Zero Dawn (World) (Demo) (Aftermarket) (Unl).gb" size="131072" crc="5589488c" md5="1ea477b02187c68f8c6a08a97f6ba720" sha1="cb05ce52a9c7a9729a142d1276cb6c063a0680ea" />
 	</game>
 	<game name="Jet Pak DX (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Jet Pak DX (World) (v1.0) (Aftermarket) (Unl)</description>
@@ -286,10 +286,6 @@
 	<game name="Resident Evil (World) (v8.0) (Aftermarket) (GB Studio)">
 		<description>Resident Evil (World) (v8.0) (Aftermarket) (GB Studio)</description>
 		<rom name="Resident Evil (World) (v8.0) (Aftermarket) (GB Studio).gb" size="1048576" crc="90adeee5" md5="31ec772586614cc233332fba9fbd3824" sha1="7c76489ff1b804b57fd884eac0973d3e4cefb4e7" />
-	</game>
-	<game name="Resident Evil - Grim Beginnings (World) (v0.9) (Aftermarket) (GB Studio)">
-		<description>Resident Evil - Grim Beginnings (World) (v0.9) (Aftermarket) (GB Studio)</description>
-		<rom name="Resident Evil - Grim Beginnings (World) (v0.9) (Aftermarket) (GB Studio).gb" size="1048576" crc="305bd222" md5="14350807b70be97842d25bed17e41550" sha1="ed5746ed92d9727d50631bf08ed1387d466a0046" />
 	</game>
 	<game name="Retro Adventure (World) (Aftermarket) (Unl)">
 		<description>Retro Adventure (World) (Aftermarket) (Unl)</description>

@@ -127,6 +127,10 @@
 		<description>Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)</description>
 		<rom name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl).gbc" size="131072" crc="16f444cf" md5="09ec8f62034f0219e0a82e3f01f48ba7" sha1="cdfc9441ea05b1ba5312c7b4fc5d7df21d74cd31" />
 	</game>
+	<game name="Resident Evil - Grim Beginnings (World) (v0.9) (Aftermarket) (GB Studio)">
+		<description>Resident Evil - Grim Beginnings (World) (v0.9) (Aftermarket) (GB Studio)</description>
+		<rom name="Resident Evil - Grim Beginnings (World) (v0.9) (Aftermarket) (GB Studio).gbc" size="1048576" crc="305bd222" md5="14350807b70be97842d25bed17e41550" sha1="ed5746ed92d9727d50631bf08ed1387d466a0046" />
+	</game>
 	<game name="Rezal (World) (GBA Jam 2024) (Aftermarket) (Unl)">
 		<description>Rezal (World) (GBA Jam 2024) (Aftermarket) (Unl)</description>
 		<rom name="Rezal (World) (GBA Jam 2024) (Aftermarket) (Unl).gbc" size="262144" crc="c5048c76" md5="9a5ca9da453a74e3e6745eecea8a009d" sha1="e2489ac617078504443ee2e468e62fec8ca81744" />
