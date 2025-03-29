@@ -371,6 +371,31 @@
 		<description>Yoru no Kasou (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Yoru no Kasou (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="e708a0ad" md5="c322fe4c7ce87654a429e149c8671f00" sha1="8d82a71e48b7e4fac7abd6c082b684f4735a2663" />
 	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (De).gb" size="2097152" crc="0175e0be" md5="2534c95317a9c0324a5bcd0e4765ea23" sha1="0f750dfbb797836b4fdd98b7159c00534a6b24db" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (En).gb" size="2097152" crc="6f2c0376" md5="0c21cf8df56d55f0696036ed7508946b" sha1="2c98fde34025fdca4131d93b96a09fea717f0fac" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Es).gb" size="2097152" crc="8d20a6d4" md5="3adbda6de0b4edb496064d2e83449326" sha1="1c2c6bc288e04ff5562c669ba813c160fb27edc3" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Fr).gb" size="2097152" crc="72253daa" md5="43cbc5b46fdd1c9825e0d8f3fdf17639" sha1="38b6055937575a31623c8bfea38009d1e56a7bea" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (It).gb" size="2097152" crc="8a6faea1" md5="9371994bab043a73d678776f84e526d0" sha1="8db41a5988b2017c5b0573dc05ecd9d9df25121c" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja).gb" size="2097152" crc="65a35ae5" md5="35e6e4336d8c1a1997cf7c4f047bc91a" sha1="034102d67a62a9b0c31053b40e0430a32ed92d06" />
+	</game>
+
 	<game name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)">
 		<description>Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)</description>
 		<rom name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio).gb" size="262144" crc="8cdf4b90" md5="97b6eb86385cc51fed8f65c6db04548a" sha1="9df6bf7c2babc47cc9e461d16a7ab1a24d898003" />
@@ -379,4 +404,5 @@
 		<description>Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio)</description>
 		<rom name="Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio).gb" size="524288" crc="c5447011" md5="b814eb1064975392a2db18b5f410abf7" sha1="8197ed0ac5591893b7d04ed3f02529f120daab7e" />
 	</game>
+
 </datafile>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>005</id>
+		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
+		<description>Nintendo - Game Boy Advance</description>
+		<version>v20250328</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Apotris (World) (v4.0.2) (Aftermarket) (Unl)">
+		<description>Apotris (World) (v4.0.2) (Aftermarket) (Unl)</description>
+		<rom name="Apotris (World) (v4.0.2) (Aftermarket) (Unl).gba" size="4194304" crc="107f69e0" md5="cbbb81a27188b76d68374ec7ef888329" sha1="7b4be37971335759ecc828b290338ab35e047017" />
+	</game>
+	<game name="Bridge Quest (World) (GBA Jam 2021) (Aftermarket) (Unl)">
+		<description>Bridge Quest (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Bridge Quest (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="1694728" crc="5116e31b" md5="0493453a2ed93db06e3f98225ec255d3" sha1="5642358e2ee6095da4827143ab10a6e459a9ea67" />
+	</game>
+	<game name="BulletGBA (World) (v5.0) (Aftermarket) (Unl)">
+		<description>BulletGBA (World) (v5.0) (Aftermarket) (Unl)</description>
+		<rom name="BulletGBA (World) (v5.0) (Aftermarket) (Unl).gba" size="8388608" crc="70cc879d" md5="02b9f72c129f6349306925b794200b54" sha1="b52f5461c1e2c5df6821176cb7e85eb3534e0c11" />
+	</game>
+	<game name="Coin Fall (World) (GBA Jam 2022) (Aftermarket) (Unl)">
+		<description>Coin Fall (World) (GBA Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Coin Fall (World) (GBA Jam 2022) (Aftermarket) (Unl).gba" size="138820" crc="320f75b2" md5="08373925ffbf4332a5cac38496f8167b" sha1="d60945a9c0ebfca06de339002bb2655dd6a04f0c" />
+	</game>
+	<game name="Crash Bandicoot - Ringo Bazooka de Oobare! (Japan)">
+		<description>Crash Bandicoot - Ringo Bazooka de Oobare! (Japan)</description>
+		<rom name="Crash Bandicoot - Ringo Bazooka de Oobare! (Japan).gba" size="96232" crc="DE10C534" md5="7C6C9DCF9050FF306EF9A67B6CAC2C6A" sha1="5499502E87969177327F9D14E449517418F04310"/>
+	</game>
+	<game name="Crash Bandicoot Blast! (Europe) (En,Fr,De,Es,It,Nl)">
+		<description>Crash Bandicoot Blast! (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Crash Bandicoot Blast! (Europe) (En,Fr,De,Es,It,Nl).gba" size="95120" crc="918B3405" md5="0538EA9F0D8775AC355606D5240661B5" sha1="0A05775C90EE7EA71DBDF5B89CD6AD842793B7D9"/>
+	</game>
+	<game name="Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl)">
+		<description>Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl).gba" size="94512" crc="D9DE8BD8" md5="D7A9EC35339BB4D26F3296C3ED851645" sha1="30BA9E987D909F6F497C472B266D8BCB70069B68"/>
+	</game>
+	<game name="Dark Eden (Unknown) (Prototype)">
+		<description>Dark Eden (Unknown) (Prototype)</description>
+		<rom name="Dark Eden (Unknown) (Prototype).gba" size="1361276" crc="9CF479D2" md5="50E9DBC3731383D6452584BFAD42297D" sha1="DF70DB3A44117AF3C744388AA17819ED8017E1D2"/>
+	</game>
+	<game name="Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl)">
+		<description>Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="2059172" crc="8515069c" md5="0f424c61285bfee9a940bc9aa47c61bf" sha1="d2546be26c1e902e09cbb288ff9e4f654ae5194b" />
+	</game>
+	<game name="Funny Bird Game 2 (World) (Aftermarket) (Unl)">
+		<description>Funny Bird Game 2 (World) (Aftermarket) (Unl)</description>
+		<rom name="Funny Bird Game 2 (World) (Aftermarket) (Unl).gba" size="98200" crc="a3738e60" md5="609b56cf77e11f798f2913efbef0d94f" sha1="ee613ccdde3aa09aeb9ec3058bef830df0d9dee8" />
+	</game>
+	<game name="GBA Microjam '23 (World) (v1.02) (Aftermarket) (Unl)">
+		<description>GBA Microjam '23 (World) (v1.02) (Aftermarket) (Unl)</description>
+		<rom name="GBA Microjam '23 (World) (v1.02) (Aftermarket) (Unl).gba" size="11166812" crc="dd16556a" md5="0eaffe3960f85cbda916d30662f36d5e" sha1="75f3c1e25a6d5929cefa45d83484e5870ee96cd6" />
+	</game>
+	<game name="Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble)">
+		<description>Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble)</description>
+		<rom name="Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble).gba" size="33554432" crc="71ea7d97" md5="9c7b11ea67d07798602d3ff791f797e4" sha1="fff4c3f8dc3fd8e57b0ea5a23f1430fa93d8950a" />
+	</game>
+	<game name="Kadu Bird (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Kadu Bird (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Kadu Bird (World) (v1.0) (Aftermarket) (Unl).gba" size="1413432" crc="b4a5f197" md5="1d9eb0f4c79935ec84d0c5b0df3230e8" sha1="33c83fd234591fbb78aebd24b60e89c3b24c007d" />
+	</game>
+	<game name="Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl)">
+		<description>Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="638704" crc="84602266" md5="6d2a68e6c7511a55b0e47ebb8d880dda" sha1="40d150f3612f6ab27943ca421634ceea0b70dd4f" />
+	</game>
+	<game name="MeteoRain (World) (GBA Jam 2021) (Aftermarket) (Unl)">
+		<description>MeteoRain (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="MeteoRain (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="1710503" crc="c03ecaaa" md5="a0149ff775d81a1d82e9c5d7dbb63ed9" sha1="b4c1e155fd6e7e05baccc8b8bea80a9185b0cd40" />
+	</game>
+	<game name="Neo Racing Genesis (World) (v0.21) (Aftermarket) (Unl)">
+		<description>Neo Racing Genesis (World) (v0.21) (Aftermarket) (Unl)</description>
+		<rom name="Neo Racing Genesis (World) (v0.21) (Aftermarket) (Unl).gba" size="139656" crc="adfca566" md5="fba9751b89d92a80965d9a61009ed1aa" sha1="bfe3615711c9404d6af232bffec360b073a67573" />
+	</game>
+	<game name="Picross Advance (World) (GBAX2005) (Aftermarket) (Unl)">
+		<description>Picross Advance (World) (GBAX2005) (Aftermarket) (Unl)</description>
+		<rom name="Picross Advance (World) (GBAX2005) (Aftermarket) (Unl).gba" size="664164" crc="33011f7c" md5="43c413e3b438bce1b1b4e1b6859e72b9" sha1="07407e68cbfea16d6f713481df048c5474f0d3b0" />
+	</game>
+	<game name="Picross Advance (World) (RC2) (Aftermarket) (Unl)">
+		<description>Picross Advance (World) (RC2) (Aftermarket) (Unl)</description>
+		<rom name="Picross Advance (World) (RC2) (Aftermarket) (Unl).gba" size="625116" crc="4ec6a8e7" md5="aa1e384bd43b0c607bf3367ccfb4c4c8" sha1="ce7ef4f5c0974d1bd60b74c218d08aa86ac4874e" />
+	</game>
+	<game name="Radicorn (World) (Aftermarket) (Unl)">
+		<description>Radicorn (World) (Aftermarket) (Unl)</description>
+		<rom name="Radicorn (World) (Aftermarket) (Unl).gba" size="88704" crc="c176fc59" md5="09698b7f688a00a7ac4a67a225c2181f" sha1="42e722987387bda61f2fa34c22e1789df9d5c0d4" />
+	</game>
+	<game name="Scrolls of Fire (World) (GBA Winter Jam '21) (Aftermarket) (Unl)">
+		<description>Scrolls of Fire (World) (GBA Winter Jam '21) (Aftermarket) (Unl)</description>
+		<rom name="Scrolls of Fire (World) (GBA Winter Jam '21) (Aftermarket) (Unl).gba" size="8388608" crc="dc7ae90b" md5="6da65b9770fb37a2241da500af621e5f" sha1="4b86384dc02d22ebbfdd5a3f85596213610b038b" />
+	</game>
+	<game name="Snakes (World) (Aftermarket) (Unl)">
+		<description>Snakes (World) (Aftermarket) (Unl)</description>
+		<rom name="Snakes (World) (Aftermarket) (Unl).gba" size="26316" crc="71ea10ce" md5="e5f3bd0d81e17fbe1f27391af8ecfe83" sha1="8fe3b0d9bfbc4087bedcbdaf82c86e8c96340910" />
+	</game>
+	<game name="Sudoku Micro (World) (Aftermarket) (Unl)">
+		<description>Sudoku Micro (World) (Aftermarket) (Unl)</description>
+		<rom name="Sudoku Micro (World) (Aftermarket) (Unl).gba" size="1590116" crc="b88795ac" md5="f8931a1a9a842de8e11e39223350af60" sha1="d15a759a6673f8b6ffe7ec95c170bbc7e85ee07b" />
+	</game>
+	<game name="Super Block Jump (World) (v1.13a) (Aftermarket) (Unl)">
+		<description>Super Block Jump (World) (v1.13a) (Aftermarket) (Unl)</description>
+		<rom name="Super Block Jump (World) (v1.13a) (Aftermarket) (Unl).gba" size="5159064" crc="35330f9f" md5="344c07ad6b714e91b25c908a5e3c61dc" sha1="4ca2f7b553f73380abd5a47dce3f3c29ba097911" />
+	</game>
+	<game name="Super Mario - The Last GBA Quest (World) (v2.00) (Aftermarket) (Unl)">
+		<description>Super Mario - The Last GBA Quest (World) (v2.00) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario - The Last GBA Quest (World) (v2.00) (Aftermarket) (Unl).gba" size="13253992" crc="b6ded5a3" md5="d6b69c7d686163350141a5860d1599ad" sha1="bc3106d88cffd0d127898d5739d850cb3eea7ca2" />
+	</game>
+	<game name="Tetrigram (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Tetrigram (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Tetrigram (World) (v1.0) (Aftermarket) (Unl).gba" size="137068" crc="d78e5000" md5="2050e27bdf4b7281482ce766a8c3676d" sha1="2ff15250a63ba842d2ae0418c2fd842cf8695fe9" />
+	</game>
+	<game name="Thinking With Boxes (World) (GMTK Game Jam 2021) (Aftermarket) (Unl)">
+		<description>Thinking With Boxes (World) (GMTK Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="Thinking With Boxes (World) (GMTK Game Jam 2021) (Aftermarket) (Unl).gba" size="131072" crc="b3d5d73d" md5="5db9d07fc98706d0e2f89e11708dcfa7" sha1="69127756d96375d8fa0336db48416e630e8da8e0" />
+	</game>
+	<game name="Touhou Kaisekiki - Arabasiri (World) (Aftermarket) (Unl)">
+		<description>Touhou Kaisekiki - Arabasiri (World) (Aftermarket) (Unl)</description>
+		<rom name="Touhou Kaisekiki - Arabasiri (World) (Aftermarket) (Unl).gba" size="551204" crc="6bf77e36" md5="5ff749b6f198c9f0d597b9b7e8eaaae2" sha1="3ea21468dc4905374753c1932fe6b8790349f41a" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (Europe)">
+		<description>Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (Europe)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (Europe).gba" size="16777216" crc="3e276294" md5="e2ef84f13c9be7389686cec97c99c567" sha1="44cbd13738afa9767f9acd6f03b2a6af9c82e620" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (Japan)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (Japan).gba" size="16777216" crc="88ec163b" md5="89e81c6a30d524fce703eea4e3ee1e61" sha1="032073cc5e014112c004f94b0e5031159b577ff7" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (USA)">
+		<description>Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (USA)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (USA).gba" size="16777216" crc="6f749a70" md5="5cdf70b8eb82b52f18be9b496d6ddbc1" sha1="8fa2c60e5ce03fecf537931cee2df89db75fff00" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Europe)">
+		<description>Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Europe)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Europe).gba" size="8388608" crc="ee317f69" md5="ec2e23cc5fd7a3ea4e32ac7b8d488103" sha1="3ded1227698fbdb2ba47f03025cd1934fc184b99" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Japan)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Japan).gba" size="8388608" crc="8d52b3c5" md5="c5401124a48f173f05fb10fb9e716011" sha1="6816f044c3f4cac76e888c0ec36dc216e7c140d2" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (USA)">
+		<description>Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (USA)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (USA).gba" size="8388608" crc="297dcb65" md5="db4eca15664f70e935595a9fd810a417" sha1="8c69db661aa3adf660aa6dab9e3ad217b0b1297c" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 6 - Expert 2 (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 6 - Expert 2 (Japan)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 6 - Expert 2 (Japan).gba" size="16777216" crc="c65253cc" md5="f1319dc593397341a307fbed618b631a" sha1="945b0d99cae62c63170b7a310fb39028d787a397" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (Japan)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (Japan).gba" size="8388608" crc="51b35e87" md5="72f072d0e26a9e3d12b6107598cbaf69" sha1="a0ad0cbff3d74bb3e234abcff866994ea602c43a" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (USA)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (USA)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (USA).gba" size="8388608" crc="8b5e0a27" md5="1ac4901f9a831d6b86ca776bb61f8d8b" sha1="fdd69455a072b2f74e6c5c50b96daa0438156b27" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Monster Capsule (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (De).gbc" size="2097152" crc="c9e2b613" md5="f487d6784a5b3981f24b333915e3b7ba" sha1="c0c15f21204d4e4cd359ded498cb66d8fdd292cb" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Monster Capsule (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (En).gbc" size="2097152" crc="88198db7" md5="308ed22c743901070fa520f982f0c95b" sha1="b2503c22c9d9b6e95b5b450251ff20282a0f53da" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Monster Capsule (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (Es).gbc" size="2097152" crc="87c7b4ba" md5="6aa25a34f3d5950e441bee7385b310f0" sha1="606c66f7bb92fea89c74bedc30d5221527459fe2" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Monster Capsule (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (Fr).gbc" size="2097152" crc="8ef209b9" md5="dfdc8523939095adf28f4e72d13ff9be" sha1="5517157d4ff86bb370aad292cc8369d29bf64568" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Monster Capsule (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (It).gbc" size="2097152" crc="975d1612" md5="1ec852688eeb29f14802826e9990de80" sha1="22414be3d2ea7433495b8c769a62beed62d5df97" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Monster Capsule (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Monster Capsule (Ja).gbc" size="1048576" crc="9187f577" md5="f83db6033b248b047f255230ccbe27d6" sha1="1c1f34307873b2214eceaf9698b685fbf9c098f1" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (Europe)">
+		<description>Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (Europe)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (Europe).gba" size="16777216" crc="6821c1f3" md5="38fd9bcd89d2599c5f4a530009932b54" sha1="a52e3b0989fdcdf4728d4a4baecd5923fb02153e" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (Japan)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (Japan).gba" size="16777216" crc="83174848" md5="d1b1b1f209099180bc1fe411c90ffd48" sha1="5100473b24d32587577bf62bf0b9db7b1153fb22" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (USA)">
+		<description>Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (USA)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (USA).gba" size="16777216" crc="b23339ce" md5="1d49be8c72bc513efc4445a1d45bcc15" sha1="1ccbfa7b14e448908b7f05bdc6e845ac2e8c747c" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - The Eternal Duelist Soul (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - The Eternal Duelist Soul (Japan)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - The Eternal Duelist Soul (Japan).gba" size="8388608" crc="2e809f33" md5="7673372484e39cbc94c07b9d8578f579" sha1="d8289ff1bfb6f99716eea32dde511a5d2296b57d" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - The Eternal Duelist Soul (USA)">
+		<description>Yu-Gi-Oh! Early Days Collection - The Eternal Duelist Soul (USA)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - The Eternal Duelist Soul (USA).gba" size="8388608" crc="27a52ea7" md5="b7fae231ea1950fda67f8daa481debca" sha1="ad9b45744b40fda69da96c40861e8f5059c11c87" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - The Sacred Cards (Europe)">
+		<description>Yu-Gi-Oh! Early Days Collection - The Sacred Cards (Europe)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - The Sacred Cards (Europe).gba" size="16777216" crc="ce6adacf" md5="35f01cfcbaf371f8580321c246255ac4" sha1="0dc0b509c24a62ff551dfc1c88901b57aa860ec0" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - The Sacred Cards (Japan">
+		<description>Yu-Gi-Oh! Early Days Collection - The Sacred Cards (Japan</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - The Sacred Cards (Japan.gba" size="16777216" crc="1c571df2" md5="d1178885818a0e0fda34a712dcfacf1a" sha1="347b6aabe16751f95f3da9daa98ebff18daa23a7" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - The Sacred Cards (USA)">
+		<description>Yu-Gi-Oh! Early Days Collection - The Sacred Cards (USA)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - The Sacred Cards (USA).gba" size="16777216" crc="bf7fbd2e" md5="5dae2d0218e07534e0744043780eec90" sha1="d3710031520d9cdae70d870c60b1667285fe5230" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - World Championship Tournament 2004 (Europe)">
+		<description>Yu-Gi-Oh! Early Days Collection - World Championship Tournament 2004 (Europe)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - World Championship Tournament 2004 (Europe).gba" size="16777216" crc="88aae191" md5="0978660e09081be5f982b30557707685" sha1="945775d714dd31b4198e3721754140d8b5ed5803" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - World Championship Tournament 2004 (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - World Championship Tournament 2004 (Japan)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - World Championship Tournament 2004 (Japan).gba" size="16777216" crc="1c82463d" md5="81ae1cabe6d3bb7cdf4ee538a2e483a2" sha1="cb4197e0f0aab5b31c581caa11fb9bc33b040d66" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - World Championship Tournament 2004 (USA)">
+		<description>Yu-Gi-Oh! Early Days Collection - World Championship Tournament 2004 (USA)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - World Championship Tournament 2004 (USA).gba" size="16777216" crc="dd5efbf4" md5="22e3f8a1ccdebfb89777d371f7a57db3" sha1="b8285e2e5c934b167767485dc3dd0c80c5cff555" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (Europe)">
+		<description>Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (Europe)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (Europe).gba" size="16777216" crc="c25bccc6" md5="1983020e5999263be318352feb5921b5" sha1="de180978e6ec56ec72c1a3a49912a9087903cb68" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (Japan)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (Japan).gba" size="16777216" crc="dd6a43f9" md5="13e17b996a773d6d161e1d64a4c41436" sha1="c4981e9df360165e05a97e58fdfbdafbfcaa077c" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (USA)">
+		<description>Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (USA)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (USA).gba" size="16777216" crc="9f64379c" md5="1df9e439464c27c5da6df24d66bd7d35" sha1="69a258f99c06db3673fa7fa701b3adeee1197404" />
+	</game>
+</datafile>

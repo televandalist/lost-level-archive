@@ -179,4 +179,148 @@
 		<description>Wishing Sarah (World) (PT-BR) (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Wishing Sarah (World) (PT-BR) (v1.1) (Aftermarket) (Unl).gbc" size="524288" crc="ab6cf21e" md5="f7eba1c53b02624852daea423a71c4ea" sha1="575b8b0f6fdb2d41623e7f2fe9902c87236f1a36" />
 	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (De).gbc" size="4194304" crc="3b68d368" md5="deb664a34525670c74e7125ae1cb9b44" sha1="d232964de9dc386bca3c23802eaa3e71f2e7602b" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (En).gbc" size="4194304" crc="cb291fda" md5="415a515431f475a205677f5ce6e8f06f" sha1="4daf19bd6d6535924ace90b426b329cc9b50eecc" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Es).gbc" size="4194304" crc="70b0ccc8" md5="57668627e94a89a7af41106f1e824f29" sha1="a5aba657a53d94e702912312c3432a592fef8161" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Fr).gbc" size="4194304" crc="24023cd2" md5="874b0bd243476ea3e499c4a197340b7a" sha1="66bedfdb3e61ade6edac3ebe6a157b72c5aa07d3" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (It).gbc" size="4194304" crc="4a88c023" md5="5502be61fa069a471986660038855a49" sha1="13d2e9c31096639596592fdc4b7bde4365f21244" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Ja).gbc" size="4194304" crc="09d03ee2" md5="e32f8091f32772b4132710c96c69351b" sha1="31ac45e866b015450d6d5ac50a83e5772a883e65" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (De).gbc" size="4194304" crc="997e4860" md5="ab07c5bc4e95338a130b64c39505a3fb" sha1="10e00a0e85b480b69beeda865f665bfd190bca42" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (En).gbc" size="4194304" crc="49f9197a" md5="abd8693c2f03acd8c0e2508e61268b70" sha1="31bace85728b88b2af7afb3b7fe82d7bf7279ad7" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Es).gbc" size="4194304" crc="4d825f68" md5="e4c2f4212e285a49083e860e38cfffcf" sha1="3e47b9acd3edc799562d5d26cb452841b10eb6dd" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Fr).gbc" size="4194304" crc="72a68eee" md5="acdc1e4ea90d13f055dfca2dab986e5a" sha1="4d039ddcfff3ac3ca51ae9e357a224b3b2fba82d" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (It).gbc" size="4194304" crc="ffd35e8b" md5="ac56166a141560aaedf3a71e50a655d4" sha1="b02a06e85c4997a8ede73890b6c98056d7df51d2" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Ja).gbc" size="4194304" crc="7c3d2b6e" md5="1a6a93843aac109b11a0eadcaf3d0b0e" sha1="8887515741720c1af759ab3ef6346a0fed2d39a5" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (De).gbc" size="4194304" crc="eec7efb9" md5="4bcbc2d3b173c5f53fba3a6c4c2b9920" sha1="a7827a3d22145630278775b94fdcfa3de8a352d5" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (En).gbc" size="4194304" crc="aeca7189" md5="7d817adcce9ecb3ad270dc053781f3d6" sha1="ede1b6dad61376f03da154deb94c1a1ae51c1c6e" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Es).gbc" size="4194304" crc="af367799" md5="bd7ff710b645110cfda420694019ec71" sha1="828b392b95a7970f863943d0ca816c7be07c4f0b" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Fr).gbc" size="4194304" crc="44fcdab6" md5="2c00464dcac758c6428cf5f61717c51e" sha1="db2909cbb749469c0a23d657ed78010aa7b3b788" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (It).gbc" size="4194304" crc="51e31889" md5="97f6e15e24d95dbd17ba6c924ec2a6c1" sha1="2a7035eea32250f3e30596e77667a3fb08ceaa0e" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Ja).gbc" size="4194304" crc="38c11949" md5="2b1da77b7c41afab3558cf364cfeb8b3" sha1="e7e11a03917670e4ebfc9e13cf1e2665ad9f9ea6" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (De).gbc" size="4194304" crc="cd6b782d" md5="54a5f9b4bae5ebd452e56277f5ee82df" sha1="fc439a06eaf3dcba0b87dcb69d94897948b0086f" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (En).gbc" size="4194304" crc="8813b725" md5="0b9b51fdd41a15a10d02d7fbf64ac7de" sha1="56e3a8afd42da8a42769e8f4fbe3485215927bfb" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Es).gbc" size="4194304" crc="7fb85bc0" md5="1dcb73c62167339df4c848ba466547db" sha1="8fa7d7a560143fd8350d1ca25887542959f4fd25" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Fr).gbc" size="4194304" crc="d45cca53" md5="0b7253cff85faac4dd2b9fc441f52feb" sha1="e29555c244e5fa3ca833af072f337269c6a7e243" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (It).gbc" size="4194304" crc="d1ba23f1" md5="a47e4e4e97d8c78448af704df7db689f" sha1="2f3a5b70bd7e7293eea17bcb798e4644c7b9c7cd" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Ja).gbc" size="4194304" crc="b5abda21" md5="97819d8701876ae3d3deee8b98749e8a" sha1="70a93988e65c4ade6c6472df03f3b585de9acd79" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (De).gbc" size="4194304" crc="ba9106ec" md5="ba3016029d9af8c36fb0a0362e91bd46" sha1="d5309c736ec4319e5575b10d7e44233d0ff024e3" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (En).gbc" size="4194304" crc="46029fa0" md5="2caeb63777c2f947a95bfab36cdb43e0" sha1="5427cbbb457d98d7acbca117a419bb833f4630f5" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Es).gbc" size="4194304" crc="6d79c32d" md5="3542cf59e728b34b50d314fb9a17e6bd" sha1="677ee052ade5c6c2ade6029bc50357f78381e5d8" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Fr).gbc" size="4194304" crc="c4fdffc5" md5="6e3b79e6c7c44311f01f4b97df370882" sha1="13f6c14691066b83ae2d7b56d26024ba108bce4d" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (It).gbc" size="4194304" crc="3d7b78a5" md5="7c56d2b3194901d2ca52cd953484ded4" sha1="7610f17287141fadb634f90e33dac4c065105fd0" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Ja).gbc" size="4194304" crc="6b6003b0" md5="2e047e731d76cdc012dcc42df2f2c855" sha1="96fd23ca53b402dd8b43953d9514beea6d5e7bda" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (De).gbc" size="4194304" crc="e514f2bc" md5="e2a25621d6701b8fd75444ceb6d42e91" sha1="c18a226a608b278ddafb247e436e606687acc2f9" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (En).gbc" size="4194304" crc="6a5c73ff" md5="f7000cf59d9f402f88053b58b285399f" sha1="d05bd5115066e4805c63a8e27b490ecd3d81ce99" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Es).gbc" size="4194304" crc="32158e04" md5="b9d30c4fe3f4e0801b0e187b07b6f6fa" sha1="c005ca0f4b5aaf41654aac5a35d8f924f1c1444a" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Fr).gbc" size="4194304" crc="d6f4ba0a" md5="4e855f025c999cc8cbbe002927c26542" sha1="71b4aa76a38059dbee068c6c78357a94fb45b7f6" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (It).gbc" size="4194304" crc="30daecbb" md5="338b94a31ee1186f884229fba4ac78f6" sha1="fbc9cfbc9f344385ee505f5d69d1d10b1a6fd6fa" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Ja).gbc" size="4194304" crc="4a657067" md5="17a43887863c2e485ca72940f4738f79" sha1="e1addd4abc8c770288e94f57a2c1657b4d9642ba" />
+	</game>
 </datafile>
