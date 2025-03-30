@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>002</id>
+		<name>002 - Lost Level Archive - Nintendo - Nintendo 64</name>
+		<description>Nintendo - Nintendo 64</description>
+		<version>v20250330</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="64Doom - Doom (USA) (Aftermarket) (Unl) (jnmartin84)">
+		<description>64Doom - Doom (USA) (Aftermarket) (Unl) (jnmartin84)</description>
+		<rom name="64Doom - Doom (USA) (Aftermarket) (Unl) (jnmartin84).z64" size="33554432" crc="734a7aff" md5="0cb06ce3471241aa4e4b483b7f0c06e9" sha1="57b322dc9dbeef958babe1f8f0f53620ec5d054c" />
+	</game>
+	<game name="Dragon Sword 64 (USA) (Prototype) (1999-08-25)">
+		<description>Dragon Sword 64 (USA) (Prototype) (1999-08-25)</description>
+		<rom name="Dragon Sword 64 (USA) (Prototype) (1999-08-25).n64" size="9448848" crc="dcea9210" md5="770d0d2bb08235613569667a284bca2c" sha1="efbdbcb499a3d8a37613ca1d94528016bdbf5735" />
+	</game>
+	<game name="Penguins Luv Melons (World) (v1.0) (Aftermarket) (Unl) (Sanni)">
+		<description>Penguins Luv Melons (World) (v1.0) (Aftermarket) (Unl) (Sanni)</description>
+		<rom name="Penguins Luv Melons (World) (v1.0) (Aftermarket) (Unl) (Sanni).z64" size="2097152" crc="11D844EE" md5="41DC72AF11C2199081E1A34CFFCD37C0" sha1="ABA196213ABC3919E5D343247A9568F49FFF7A7B"/>
+	</game>
+	<game name="Penguins Luv Melons (World) (v2.0) (Aftermarket) (Unl) (Sanni)" cloneof="Penguins Luv Melons (World) (v1.0) (Aftermarket) (Unl) (Sanni)">
+		<description>Penguins Luv Melons (World) (v2.0) (Aftermarket) (Unl) (Sanni)</description>
+		<rom name="Penguins Luv Melons (World) (v2.0) (Aftermarket) (Unl) (Sanni).z64" size="2097152" crc="64C3539A" md5="D3EA2A16F8C7DEFC9D16268697D6A784" sha1="510DABF4D8485870778B695956AEEB376F9C34A5"/>
+	</game>
+	<game name="Portal64 (World) (v0.13 - 2023-11-16) (Aftermarket) (Unl)">
+		<description>Portal64 (World) (v0.13 - 2023-11-16) (Aftermarket) (Unl)</description>
+		<rom name="Portal64 (World) (v0.13 - 2023-11-16) (Aftermarket) (Unl).z64" size="43974656" crc="90995D8F" md5="A1CC17627435A9BB10210D513B70143F" sha1="15D47AC86A9D4D97421958EF67361C0B845E5C28"/>
+	</game>
+	<game name="Swoop 64, The (World) (Aftermarket) (Unl) (Team Zenden)">
+		<description>Swoop 64, The (World) (Aftermarket) (Unl) (Team Zenden)</description>
+		<rom name="Swoop 64, The (World) (Aftermarket) (Unl) (Team Zenden).z64" size="8369744" crc="DB231D8E" md5="57405FE8571F2A0ABF1A081E18F9CA4D" sha1="ECBB956F8469169C46245A6AB749F8D2DBC9526C"/>
+	</game>
+</datafile>

@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20250328</version>
+		<version>v20250330</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -15,6 +15,18 @@
 		<description>Apotris (World) (v4.0.2) (Aftermarket) (Unl)</description>
 		<rom name="Apotris (World) (v4.0.2) (Aftermarket) (Unl).gba" size="4194304" crc="107f69e0" md5="cbbb81a27188b76d68374ec7ef888329" sha1="7b4be37971335759ecc828b290338ab35e047017" />
 	</game>
+	<game name="Astrohawk Advance (World) (Demo) (Unl)">
+		<description>Astrohawk Advance (World) (Demo) (Unl)</description>
+		<rom name="Astrohawk Advance (World) (Demo) (Unl).gba" size="1385156" crc="23bcf025" md5="04025b24d369f753bde8856f76bcbf31" sha1="ccb0965eae5a214d2d68db0c5b9549a487f3efa2" />
+	</game>
+	<game name="Ballistic (World) (v1.0) (Public Domain) (Unl)">
+		<description>Ballistic (World) (v1.0) (Public Domain) (Unl)</description>
+		<rom name="Ballistic (World) (v1.0) (Public Domain) (Unl).gba" size="211916" crc="8dae214d" md5="73f4ffdbc667b07dde0e62cb64914cdf" sha1="2e24401d38ab45ab6f6c2bbec04c2accbeb7441c" />
+	</game>
+	<game name="Blast Arena Advance (World) (Cartridge Version) (Unl)">
+		<description>Blast Arena Advance (World) (Cartridge Version) (Unl)</description>
+		<rom name="Blast Arena Advance (World) (Cartridge Version) (Unl).gba" size="1286072" crc="bc8cf4a8" md5="cde17fc4f3d41365cb92dd1187196cd8" sha1="38f38fb5644ae74e6cfa2c6c421cee3c37321382" />
+	</game>
 	<game name="Bridge Quest (World) (GBA Jam 2021) (Aftermarket) (Unl)">
 		<description>Bridge Quest (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
 		<rom name="Bridge Quest (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="1694728" crc="5116e31b" md5="0493453a2ed93db06e3f98225ec255d3" sha1="5642358e2ee6095da4827143ab10a6e459a9ea67" />
@@ -22,6 +34,18 @@
 	<game name="BulletGBA (World) (v5.0) (Aftermarket) (Unl)">
 		<description>BulletGBA (World) (v5.0) (Aftermarket) (Unl)</description>
 		<rom name="BulletGBA (World) (v5.0) (Aftermarket) (Unl).gba" size="8388608" crc="70cc879d" md5="02b9f72c129f6349306925b794200b54" sha1="b52f5461c1e2c5df6821176cb7e85eb3534e0c11" />
+	</game>
+	<game name="Bust-A-Move GBA (World) (Fan Port by Russ Prince) (Unl)">
+		<description>Bust-A-Move GBA (World) (Fan Port by Russ Prince) (Unl)</description>
+		<rom name="Bust-A-Move GBA (World) (Fan Port by Russ Prince) (Unl).gba" size="943512" crc="da9dbbb1" md5="069590b64f6232c6a50c8522f71cdf73" sha1="b8593dc2a6170ebe58ec77a0e9d1d5f3811d0e6d" />
+	</game>
+	<game name="Chocobo World Deluxe (World) (v1.01) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl)">
+		<description>Chocobo World Deluxe (World) (v1.01) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl)</description>
+		<rom name="Chocobo World Deluxe (World) (v1.01) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl).gba" size="543800" crc="c87dd86b" md5="be4b25a8e1d8563803c308d7b8686264" sha1="a0e921255ccc0ebf21083abfe95853921be736bd" />
+	</game>
+	<game name="Chopper (World) (GBAX 2004 Coding Competition) (Unl)">
+		<description>Chopper (World) (GBAX 2004 Coding Competition) (Unl)</description>
+		<rom name="Chopper (World) (GBAX 2004 Coding Competition) (Unl).gba" size="295296" crc="286a2498" md5="59bcfa4952f224974be15d27e937de54" sha1="e30b685510772d0adcabd6bdaeb2da9e1b5fca65" />
 	</game>
 	<game name="Coin Fall (World) (GBA Jam 2022) (Aftermarket) (Unl)">
 		<description>Coin Fall (World) (GBA Jam 2022) (Aftermarket) (Unl)</description>
@@ -39,6 +63,10 @@
 		<description>Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Crash Bandicoot Blast! (USA) (En,Fr,De,Es,It,Nl).gba" size="94512" crc="D9DE8BD8" md5="D7A9EC35339BB4D26F3296C3ED851645" sha1="30BA9E987D909F6F497C472B266D8BCB70069B68"/>
 	</game>
+	<game name="Cross Channel (World) (Fan Port) Unl)">
+		<description>Cross Channel (World) (Fan Port) Unl)</description>
+		<rom name="Cross Channel (World) (Fan Port) Unl).gba" size="28246016" crc="e4c44975" md5="d0094eca42c37b7e631bdd714a902286" sha1="3ea10ba9507fa50a3da02cb86f9826dc71b635f4" />
+	</game>
 	<game name="Dark Eden (Unknown) (Prototype)">
 		<description>Dark Eden (Unknown) (Prototype)</description>
 		<rom name="Dark Eden (Unknown) (Prototype).gba" size="1361276" crc="9CF479D2" md5="50E9DBC3731383D6452584BFAD42297D" sha1="DF70DB3A44117AF3C744388AA17819ED8017E1D2"/>
@@ -47,33 +75,113 @@
 		<description>Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl)</description>
 		<rom name="Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="2059172" crc="8515069c" md5="0f424c61285bfee9a940bc9aa47c61bf" sha1="d2546be26c1e902e09cbb288ff9e4f654ae5194b" />
 	</game>
+	<game name="Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl)">
+		<description>Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl)</description>
+		<rom name="Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl).gba" size="32764" crc="f848cfd1" md5="0bc483bbb1ba8ea1027bbfda343652bb" sha1="e85720700014f6a44db21fd1a1a09ac79e0e39d8" />
+	</game>
+	<game name="Downwell GBA (World) (Demake) (Aftermarket) (Unl)">
+		<description>Downwell GBA (World) (Demake) (Aftermarket) (Unl)</description>
+		<rom name="Downwell GBA (World) (Demake) (Aftermarket) (Unl).gba" size="2471852" crc="cbd68da8" md5="94c2be0f2baca7f4663ff32075ac030e" sha1="8e362e374ffebdd40caf36063ceecd3acaf2fc39" />
+	</game>
+	<game name="Dragon Tiles (World) (GBAX 2003 Coding Competition) (Unl)">
+		<description>Dragon Tiles (World) (GBAX 2003 Coding Competition) (Unl)</description>
+		<rom name="Dragon Tiles (World) (GBAX 2003 Coding Competition) (Unl).gba" size="25148" crc="4a93df57" md5="8ce9a0b8f033962a4d6e51af2b68fc64" sha1="74205f8b2bef5a7225dba40e4da2d3d4c49902b4" />
+	</game>
+	<game name="El Hazard - The Magnificent World (World) (v1.0) (Fan Port by Jinnai) (Unl)">
+		<description>El Hazard - The Magnificent World (World) (v1.0) (Fan Port by Jinnai) (Unl)</description>
+		<rom name="El Hazard - The Magnificent World (World) (v1.0) (Fan Port by Jinnai) (Unl).gba" size="32356596" crc="f8ae6d64" md5="e658d5ced3bbce3a06258982655337df" sha1="1ae408796ff3b6b050b27c86907a2abca15d9491" />
+	</game>
 	<game name="Funny Bird Game 2 (World) (Aftermarket) (Unl)">
 		<description>Funny Bird Game 2 (World) (Aftermarket) (Unl)</description>
 		<rom name="Funny Bird Game 2 (World) (Aftermarket) (Unl).gba" size="98200" crc="a3738e60" md5="609b56cf77e11f798f2913efbef0d94f" sha1="ee613ccdde3aa09aeb9ec3058bef830df0d9dee8" />
+	</game>
+	<game name="GapMan (World) (DragonBASIC) (Unl)">
+		<description>GapMan (World) (DragonBASIC) (Unl)</description>
+		<rom name="GapMan (World) (DragonBASIC) (Unl).gba" size="122052" crc="71985289" md5="b6cf8c738f207bdf4811d67f6d7642e7" sha1="e99bdf5bb4968d204bb1f050ef74f6325226f1d3" />
 	</game>
 	<game name="GBA Microjam '23 (World) (v1.02) (Aftermarket) (Unl)">
 		<description>GBA Microjam '23 (World) (v1.02) (Aftermarket) (Unl)</description>
 		<rom name="GBA Microjam '23 (World) (v1.02) (Aftermarket) (Unl).gba" size="11166812" crc="dd16556a" md5="0eaffe3960f85cbda916d30662f36d5e" sha1="75f3c1e25a6d5929cefa45d83484e5870ee96cd6" />
 	</game>
+	<game name="GBACRAFT (World) (Aftermarket) (Unl)">
+		<description>GBACRAFT (World) (Aftermarket) (Unl)</description>
+		<rom name="GBACRAFT (World) (Aftermarket) (Unl).gba" size="331964" crc="5eca3aa3" md5="a217568fa2774c8a191a55d7f633e3ad" sha1="b48234b45510296f9ee724c10b4661bf7e68fd1c" />
+	</game>
+	<game name="Gleam (World) (v2006) (Unl)">
+		<description>Gleam (World) (v2006) (Unl)</description>
+		<rom name="Gleam (World) (v2006) (Unl).gba" size="30709368" crc="c4b63fe6" md5="06bcdc20120e43c623020cd811254587" sha1="4164633bbd32dee5c7e9571a07bd76d1e5773af8" />
+	</game>
 	<game name="Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble)">
 		<description>Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble)</description>
 		<rom name="Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble).gba" size="33554432" crc="71ea7d97" md5="9c7b11ea67d07798602d3ff791f797e4" sha1="fff4c3f8dc3fd8e57b0ea5a23f1430fa93d8950a" />
+	</game>
+	<game name="Gravity Ball Advance (World) (v2008) (Aftermarket) (Unl)">
+		<description>Gravity Ball Advance (World) (v2008) (Aftermarket) (Unl)</description>
+		<rom name="Gravity Ball Advance (World) (v2008) (Aftermarket) (Unl).gba" size="5389232" crc="190a88c6" md5="f56df89da1d5405402166b06e19d15e5" sha1="74717bcf5b9dc43a7292fb9f62af67e37118c3af" />
+	</game>
+	<game name="Hajimete no Orusuban (Japan) (En - Voice-Spc) (Fan Port) (Unl)">
+		<description>Hajimete no Orusuban (Japan) (En - Voice-Spc) (Fan Port) (Unl)</description>
+		<rom name="Hajimete no Orusuban (Japan) (En - Voice-Spc) (Fan Port) (Unl).gba" size="31883264" crc="faede331" md5="733e79630527629cbbe757b3e7f30a31" sha1="55ad1565fe49c05e7da50eb8e606b31cf3f86e26" />
+	</game>
+	<game name="Holy Hell (World) (NEO Retro Coding Compo 2012) (Aftermarket) (Unl)">
+		<description>Holy Hell (World) (NEO Retro Coding Compo 2012) (Aftermarket) (Unl)</description>
+		<rom name="Holy Hell (World) (NEO Retro Coding Compo 2012) (Aftermarket) (Unl).gba" size="5906924" crc="423feb61" md5="ef3cb9217337e5ee4ee699087271f6a6" sha1="aafba4a0c37d34aa81a386fed2907e7f0e799d29" />
+	</game>
+	<game name="Jump Kid (World) (GBA Jam 2022) (Aftermarket) (Unl)">
+		<description>Jump Kid (World) (GBA Jam 2022) (Aftermarket) (Unl)</description>
+		<rom name="Jump Kid (World) (GBA Jam 2022) (Aftermarket) (Unl).gba" size="224596" crc="d7bd1150" md5="4ebd37d4c97a811768527139eb508186" sha1="f3bc636d731b5526949e6b10baaa1aaadbe530e1" />
 	</game>
 	<game name="Kadu Bird (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Kadu Bird (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Kadu Bird (World) (v1.0) (Aftermarket) (Unl).gba" size="1413432" crc="b4a5f197" md5="1d9eb0f4c79935ec84d0c5b0df3230e8" sha1="33c83fd234591fbb78aebd24b60e89c3b24c007d" />
 	</game>
+	<game name="Kagetsu Touya (Japan) (Fan Port) (Unl)">
+		<description>Kagetsu Touya (Japan) (Fan Port) (Unl)</description>
+		<rom name="Kagetsu Touya (Japan) (Fan Port) (Unl).gba" size="16547840" crc="119a8285" md5="ba753b74237fde2d26264b0b095c1a8a" sha1="9e8810eb181ad3e260c5e4d6c484df7991a9f144" />
+	</game>
+	<game name="Kimiga Nozomu Eien (Japan) (Fan Port) (Unl)">
+		<description>Kimiga Nozomu Eien (Japan) (Fan Port) (Unl)</description>
+		<rom name="Kimiga Nozomu Eien (Japan) (Fan Port) (Unl).gba" size="29097984" crc="8da71862" md5="2e13a93cc89cd008cbdcaf875c5b0afd" sha1="0cd12d7f4602dd3c4c2eee8cb8e1a55c23ba05ae" />
+	</game>
 	<game name="Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl)">
 		<description>Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl)</description>
 		<rom name="Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="638704" crc="84602266" md5="6d2a68e6c7511a55b0e47ebb8d880dda" sha1="40d150f3612f6ab27943ca421634ceea0b70dd4f" />
+	</game>
+	<game name="Lockjaw - The Overdose (World) (v20060722) (Unl)">
+		<description>Lockjaw - The Overdose (World) (v20060722) (Unl)</description>
+		<rom name="Lockjaw - The Overdose (World) (v20060722) (Unl).gba" size="147200" crc="7d286b94" md5="5038fcb3ad23f3ee6c15efb8005078d4" sha1="e5f3eef9d7ed3aa3bf31a33b4b528e8d2384aaa2" />
+	</game>
+	<game name="Luigi Puzzle (World) (v1.2) (Unl)">
+		<description>Luigi Puzzle (World) (v1.2) (Unl)</description>
+		<rom name="Luigi Puzzle (World) (v1.2) (Unl).gba" size="371376" crc="d907f726" md5="ff1419ab6c2a099eed072762978bc1cc" sha1="336526b321180a1b30c43bed2d65297616887e94" />
+	</game>
+	<game name="Luminesweeper (World) (v20051210 - Custom Skins) (Unl)">
+		<description>Luminesweeper (World) (v20051210 - Custom Skins) (Unl)</description>
+		<rom name="Luminesweeper (World) (v20051210 - Custom Skins) (Unl).gba" size="2699696" crc="df4df0c7" md5="aa1d9dd2a9329530b925e7cbfe5ae8c6" sha1="701e6c5226a5416acff08f25a567e5b9deda70c1" />
+	</game>
+	<game name="Luminous (World) (v20051122) (Unl)">
+		<description>Luminous (World) (v20051122) (Unl)</description>
+		<rom name="Luminous (World) (v20051122) (Unl).gba" size="935220" crc="7197f168" md5="92943c659a5628c46d23f7e933f73c9a" sha1="5ef8a021188ba8db7c60884bbd7d716df30216ba" />
+	</game>
+	<game name="MarioBreak (World) (v1.0) (Unl)">
+		<description>MarioBreak (World) (v1.0) (Unl)</description>
+		<rom name="MarioBreak (World) (v1.0) (Unl).gba" size="356940" crc="c4363bc5" md5="eb8331aad42437f7d510ef3dad9b5ca4" sha1="f0648975f38e6a731ed864ca99eae38fed51a242" />
 	</game>
 	<game name="MeteoRain (World) (GBA Jam 2021) (Aftermarket) (Unl)">
 		<description>MeteoRain (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
 		<rom name="MeteoRain (World) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="1710503" crc="c03ecaaa" md5="a0149ff775d81a1d82e9c5d7dbb63ed9" sha1="b4c1e155fd6e7e05baccc8b8bea80a9185b0cd40" />
 	</game>
+	<game name="Mortal Konsole - Pong Edition (World) (v20040928) (Unl)">
+		<description>Mortal Konsole - Pong Edition (World) (v20040928) (Unl)</description>
+		<rom name="Mortal Konsole - Pong Edition (World) (v20040928) (Unl).gba" size="1463928" crc="55c362b0" md5="902d7519ae193778bbd83eebb90820f8" sha1="89bf818e4224e175eced70cf08d7b499144bfda6" />
+	</game>
 	<game name="Neo Racing Genesis (World) (v0.21) (Aftermarket) (Unl)">
 		<description>Neo Racing Genesis (World) (v0.21) (Aftermarket) (Unl)</description>
 		<rom name="Neo Racing Genesis (World) (v0.21) (Aftermarket) (Unl).gba" size="139656" crc="adfca566" md5="fba9751b89d92a80965d9a61009ed1aa" sha1="bfe3615711c9404d6af232bffec360b073a67573" />
+	</game>
+	<game name="Nuclear Love (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Nuclear Love (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Nuclear Love (World) (v1.1) (Aftermarket) (Unl).gba" size="545832" crc="22a6a8e9" md5="3799e4aee79b79af793511121d702811" sha1="d97b2c014c97a3f859ad8fb453fabbe57fabb985" />
 	</game>
 	<game name="Picross Advance (World) (GBAX2005) (Aftermarket) (Unl)">
 		<description>Picross Advance (World) (GBAX2005) (Aftermarket) (Unl)</description>
@@ -91,9 +199,25 @@
 		<description>Scrolls of Fire (World) (GBA Winter Jam '21) (Aftermarket) (Unl)</description>
 		<rom name="Scrolls of Fire (World) (GBA Winter Jam '21) (Aftermarket) (Unl).gba" size="8388608" crc="dc7ae90b" md5="6da65b9770fb37a2241da500af621e5f" sha1="4b86384dc02d22ebbfdd5a3f85596213610b038b" />
 	</game>
+	<game name="Simonchu (World) (gbadev.org Compo 2002) (Unl)">
+		<description>Simonchu (World) (gbadev.org Compo 2002) (Unl)</description>
+		<rom name="Simonchu (World) (gbadev.org Compo 2002) (Unl).gba" size="537376" crc="a8cf83e3" md5="809378adf0ceccc5e499d5cc9a1d050c" sha1="4a0963103b10cb1d80b5b521f5fcc8b1e81055ac" />
+	</game>
 	<game name="Snakes (World) (Aftermarket) (Unl)">
 		<description>Snakes (World) (Aftermarket) (Unl)</description>
 		<rom name="Snakes (World) (Aftermarket) (Unl).gba" size="26316" crc="71ea10ce" md5="e5f3bd0d81e17fbe1f27391af8ecfe83" sha1="8fe3b0d9bfbc4087bedcbdaf82c86e8c96340910" />
+	</game>
+	<game name="Snek GBA (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Snek GBA (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Snek GBA (World) (v1.1) (Aftermarket) (Unl).gba" size="1723292" crc="fb2d0653" md5="e4f9de53202eab5dc56798fc706fb538" sha1="7a3b1a44f0daa3b708d6c40e6be00243c6c33b62" />
+	</game>
+	<game name="Sonic Epoch Advance (World) (v20040904) (Unl)">
+		<description>Sonic Epoch Advance (World) (v20040904) (Unl)</description>
+		<rom name="Sonic Epoch Advance (World) (v20040904) (Unl).gba" size="23340636" crc="11bacde5" md5="336a7f9d60a12d8709d128511a2dddbc" sha1="45c091bfa49d00f64f553fd5c7ad74fb955e8f76" />
+	</game>
+	<game name="SonyC (World) (Demo - MSX Port) (Unl)">
+		<description>SonyC (World) (Demo - MSX Port) (Unl)</description>
+		<rom name="SonyC (World) (Demo - MSX Port) (Unl).gba" size="372744" crc="dfd9c36a" md5="2dfeaaab827614e32b8868e522be4783" sha1="876b7caba27a24947b943d61bc4a998f2c59c6ab" />
 	</game>
 	<game name="Sudoku Micro (World) (Aftermarket) (Unl)">
 		<description>Sudoku Micro (World) (Aftermarket) (Unl)</description>
@@ -107,9 +231,17 @@
 		<description>Super Mario - The Last GBA Quest (World) (v2.00) (Aftermarket) (Unl)</description>
 		<rom name="Super Mario - The Last GBA Quest (World) (v2.00) (Aftermarket) (Unl).gba" size="13253992" crc="b6ded5a3" md5="d6b69c7d686163350141a5860d1599ad" sha1="bc3106d88cffd0d127898d5739d850cb3eea7ca2" />
 	</game>
+	<game name="Super Wings (World) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl)">
+		<description>Super Wings (World) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl)</description>
+		<rom name="Super Wings (World) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl).gba" size="238472" crc="b5d00a7c" md5="93ac19b63fb06f280069ce243350bd69" sha1="e05616746ece855521f157db5c39af50d07a1c22" />
+	</game>
 	<game name="Tetrigram (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Tetrigram (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Tetrigram (World) (v1.0) (Aftermarket) (Unl).gba" size="137068" crc="d78e5000" md5="2050e27bdf4b7281482ce766a8c3676d" sha1="2ff15250a63ba842d2ae0418c2fd842cf8695fe9" />
+	</game>
+	<game name="They See Me Rollin' (World) (Kiwijam 2021) (Aftermarket) (Unl)">
+		<description>They See Me Rollin' (World) (Kiwijam 2021) (Aftermarket) (Unl)</description>
+		<rom name="They See Me Rollin' (World) (Kiwijam 2021) (Aftermarket) (Unl).gba" size="866472" crc="1ad5ddfe" md5="1462d70092d98d8f7560948bcaf1c46b" sha1="f72a407f913d0966130e2f9642d6d1c1fc4587f7" />
 	</game>
 	<game name="Thinking With Boxes (World) (GMTK Game Jam 2021) (Aftermarket) (Unl)">
 		<description>Thinking With Boxes (World) (GMTK Game Jam 2021) (Aftermarket) (Unl)</description>
@@ -118,6 +250,22 @@
 	<game name="Touhou Kaisekiki - Arabasiri (World) (Aftermarket) (Unl)">
 		<description>Touhou Kaisekiki - Arabasiri (World) (Aftermarket) (Unl)</description>
 		<rom name="Touhou Kaisekiki - Arabasiri (World) (Aftermarket) (Unl).gba" size="551204" crc="6bf77e36" md5="5ff749b6f198c9f0d597b9b7e8eaaae2" sha1="3ea21468dc4905374753c1932fe6b8790349f41a" />
+	</game>
+	<game name="Trailblazer Advance (World) (v0.9b) (Unl)">
+		<description>Trailblazer Advance (World) (v0.9b) (Unl)</description>
+		<rom name="Trailblazer Advance (World) (v0.9b) (Unl).gba" size="383072" crc="316f42b5" md5="f217c3e11fca80a3a3775b48e76fee41" sha1="aa4824638acb435dec5b9ec993c56fa5cd6e5b4d" />
+	</game>
+	<game name="Trials of Chaos (World) (GBA Jam 2024) (Aftermarket) (Unl)">
+		<description>Trials of Chaos (World) (GBA Jam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Trials of Chaos (World) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="17901224" crc="1822f291" md5="d9371f098dfaaf7d52bca4cbc333223d" sha1="65f52d937a2c3247753f2d59bf39bbaf6f23da56" />
+	</game>
+	<game name="Vulkanon (World) (v2.1) (Unl)">
+		<description>Vulkanon (World) (v2.1) (Unl)</description>
+		<rom name="Vulkanon (World) (v2.1) (Unl).gba" size="2097152" crc="671d450c" md5="9a44f0f3bd5b590cb67ebd2371615b8b" sha1="eb7324178aa1c3b8dc0a9a9e2fd2631b448c9f01" />
+	</game>
+	<game name="Xiangui (World) (v20040816) (Unl)">
+		<description>Xiangui (World) (v20040816) (Unl)</description>
+		<rom name="Xiangui (World) (v20040816) (Unl).gba" size="124204" crc="ab7ddb40" md5="2757e5e7b572b708f80dbca245d1b471" sha1="bf0a3c40380a73d2b757ec840766395a05dafaa0" />
 	</game>
 	<game name="Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (Europe)">
 		<description>Yu-Gi-Oh! Early Days Collection - 7 Trials to Glory - World Championship Tournament 2005 (Europe)</description>

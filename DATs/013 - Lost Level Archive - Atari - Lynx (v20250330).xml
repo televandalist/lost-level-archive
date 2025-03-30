@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>013</id>
+		<name>013 - Lost Level Archive - Atari - Lynx</name>
+		<description>Atari - Lynx</description>
+		<version>v20250330</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="CHIP-8 Emulator (World) (Aftermarket) (Unl)">
+		<description>CHIP-8 Emulator (World) (Aftermarket) (Unl)</description>
+		<rom name="CHIP-8 Emulator (World) (Aftermarket) (Unl).lnx" size="23511" crc="ed70fbcc" md5="3d4c70cba51a5c1f0e2fc3c1acb4be50" sha1="27e4cf003e98bc8a66c3627976b18e33fa820b12" />
+	</game>
+	<game name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)">
+		<description>Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)</description>
+		<rom name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos).lnx" size="262208" crc="482719d8" md5="f3663cf094ca1ab6883d6b3c03e7429d" sha1="f826cecb0e2ddc3620d6509b821591aa11d0ec4e" />
+	</game>
+</datafile>

@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250328</version>
+		<version>v20250330</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -87,9 +87,17 @@
 		<description>Cozy Cat Cafe (World) (Aftermarket) (Unl)</description>
 		<rom name="Cozy Cat Cafe (World) (Aftermarket) (Unl).gb" size="262144" crc="5b4916c2" md5="74b7efc484228e5c4e5ef9e85b8bd385" sha1="9b87a215fd22ddd8cba21d229e8027eba198d7bd" />
 	</game>
+	<game name="Crazy Burger (Asia) (Multicart Rip) (Unl)">
+		<description>Crazy Burger (Asia) (Multicart Rip) (Unl)</description>
+		<rom name="Crazy Burger (Asia) (Multicart Rip) (Unl).gb" size="65536" crc="cd6e3136" md5="2028ab8ca756addb6817cd3993c7a799" sha1="7c100be43ed57b4011bfa5dceab244da8f987305" />
+	</game>
 	<game name="Cross Shuriken (World) (v20230630) (Aftermarket) (Unl)">
 		<description>Cross Shuriken (World) (v20230630) (Aftermarket) (Unl)</description>
 		<rom name="Cross Shuriken (World) (v20230630) (Aftermarket) (Unl).gb" size="32768" crc="c2c72b3d" md5="0a04f6433d50091d6a329d5d2bf71239" sha1="1972afd8151e375b3b3326725910ec462d85b7d5" />
+	</game>
+	<game name="Dan Laser (Asia) (Multicart Rip) (Unl)">
+		<description>Dan Laser (Asia) (Multicart Rip) (Unl)</description>
+		<rom name="Dan Laser (Asia) (Multicart Rip) (Unl).gb" size="32768" crc="aabc00f6" md5="1fca063770dda5cdfae166a4dcb3c6c5" sha1="54ac969c8c3e36d9a24e7862cd1f81b3f23772f9" />
 	</game>
 	<game name="Davilex Nostalgie Pack (World) (Davilex Game Jam) (Aftermarket) (Unl)">
 		<description>Davilex Nostalgie Pack (World) (Davilex Game Jam) (Aftermarket) (Unl)</description>
@@ -107,9 +115,17 @@
 		<description>Dead Names (World) (Aftermarket) (Unl)</description>
 		<rom name="Dead Names (World) (Aftermarket) (Unl).gb" size="524288" crc="5baf24f7" md5="b920efd0d74e6a1f57a5237f4ff0c361" sha1="982f4d1e3acbf9200169b52eff2ce4f79114aeed" />
 	</game>
+	<game name="Deep - Final Mission (Asia) (Multicart Rip) (Unl)">
+		<description>Deep - Final Mission (Asia) (Multicart Rip) (Unl)</description>
+		<rom name="Deep - Final Mission (Asia) (Multicart Rip) (Unl).gb" size="65536" crc="44e97af9" md5="dd20af800479bbb6025cda8bb6466fb7" sha1="70c90365f4aefe5e320f9459e63b2ba9bccbfa3c" />
+	</game>
 	<game name="Deep Dungeon (World) (v1.3) (Aftermarket) (GB Studio)">
 		<description>Deep Dungeon (World) (v1.3) (Aftermarket) (GB Studio)</description>
 		<rom name="Deep Dungeon (World) (v1.3) (Aftermarket) (GB Studio).gb" size="2097152" crc="D67E1A10" md5="4F9B77AFB81D66E6AF1BD54B7B06351F" sha1="060CEA84DA0F1047E6FB1FA2153961EBA84413CA"/>
+	</game>
+	<game name="Delia - The Traveling Witch (World) (v1.5) (Aftermarket) (GB Studio)">
+		<description>Delia - The Traveling Witch (World) (v1.5) (Aftermarket) (GB Studio)</description>
+		<rom name="Delia - The Traveling Witch (World) (v1.5) (Aftermarket) (GB Studio).gb" size="1048576" crc="0fdbc833" md5="12b829b53cbd7b671d0f24bd2bccb585" sha1="29529384625855ba0745a6158d0a48c9b0d238b9" />
 	</game>
 	<game name="Desert Bus (World) (Aftermarket) (Unl)">
 		<description>Desert Bus (World) (Aftermarket) (Unl)</description>
@@ -134,6 +150,10 @@
 	<game name="Dragony's Drive (World) (v1.0) (Aftermarket) (GB Studio)">
 		<description>Dragony's Drive (World) (v1.0) (Aftermarket) (GB Studio)</description>
 		<rom name="Dragony's Drive (World) (v1.0) (Aftermarket) (GB Studio).gb" size="131072" crc="7188d32e" md5="a471b781064f169b63b702b5b9925d9f" sha1="b254ae8d9d7eafbb1d416c80a4be7331bce8f6d7" />
+	</game>
+	<game name="Explosive Brick '94 (Asia) (Multicart Rip) (Unl)">
+		<description>Explosive Brick '94 (Asia) (Multicart Rip) (Unl)</description>
+		<rom name="Explosive Brick '94 (Asia) (Multicart Rip) (Unl).gb" size="32768" crc="e5541ff5" md5="377d58fdbc0928ebb4516e41885c5b4b" sha1="81bac46c005183313117d3e9145122db6a3e6227" />
 	</game>
 	<game name="Fishin' for Average Caucasian Boyfriends (World) (v20240307) (Aftermarket) (GB Studio)">
 		<description>Fishin' for Average Caucasian Boyfriends (World) (v20240307) (Aftermarket) (GB Studio)</description>
@@ -207,6 +227,10 @@
 		<description>Logic Island (World) (v2.1) (Aftermarket) (Unl)</description>
 		<rom name="Logic Island (World) (v2.1) (Aftermarket) (Unl).gb" size="32768" crc="f7334dd8" md5="29ea5f06ac497d805bd686bf948c9d81" sha1="79732b7f8f87be3db152b4cfa1e5248e4f5213d1" />
 	</game>
+	<game name="Magic Ball (Europe) (Hot Kid Game Pak) (Unl)">
+		<description>Magic Ball (Europe) (Hot Kid Game Pak) (Unl)</description>
+		<rom name="Magic Ball (Europe) (Hot Kid Game Pak) (Unl).gb" size="131072" crc="0af9089e" md5="abf5b7ec126f182eedf4a28567b2a33c" sha1="72a58a7af014c8853eba333fc7ce8bf424532d20" />
+	</game>
 	<game name="Max Pirate (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Max Pirate (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Max Pirate (World) (v1.0) (Aftermarket) (Unl).gb" size="32768" crc="7d469b66" md5="a67b8f4599df3bb2a6ac58e193db69f4" sha1="35f9784f0d6093f2411c3265198c940645f4d065" />
@@ -251,6 +275,10 @@
 		<description>Noah - Fun-A-Day Edition (World) (v1.5.1) (Aftermarket) (Unl)</description>
 		<rom name="Noah - Fun-A-Day Edition (World) (v1.5.1) (Aftermarket) (Unl).gb" size="524288" crc="94af3d1b" md5="4b536bd3eba2b2325e5a31664aa8d2ee" sha1="08e9fa38c4fec4e62789d4a156a6219b89b7d9ad" />
 	</game>
+	<game name="Off Grid (World) (Aftermarket) (GB Studio)">
+		<description>Off Grid (World) (Aftermarket) (GB Studio)</description>
+		<rom name="Off Grid (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="6c7a37da" md5="0082854daeb4209b64d93bd26ce0073d" sha1="29c8c0e75a2bf73788c6c1c6c471458dbd80d0af" />
+	</game>
 	<game name="Persona 4 (World) (Demo) (Aftermarket) (Unl)">
 		<description>Persona 4 (World) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Persona 4 (World) (Demo) (Aftermarket) (Unl).gb" size="262144" crc="68A9AAB6" md5="F6332C87AB33177B3B8650A9D9500851" sha1="BFDC9D2084EBF2C208F664397A092D7B768CD74F"/>
@@ -283,6 +311,10 @@
 		<description>Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio)</description>
 		<rom name="Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio).gb" size="524288" crc="7c2986d0" md5="902922ccd6620ace3d3202b96058a68b" sha1="07f34918dc7ca6783e5e7ac3e87e88a1edbf8e62" />
 	</game>
+	<game name="Rabbit Catcher (World) (Aftermarket) (Unl)">
+		<description>Rabbit Catcher (World) (Aftermarket) (Unl)</description>
+		<rom name="Rabbit Catcher (World) (Aftermarket) (Unl).gb" size="131072" crc="e1815b50" md5="61048a4448e50cacc74fbf774a6b13c9" sha1="e007316c73a4bb748606a4af610806ad9c99cc71" />
+	</game>
 	<game name="Resident Evil (World) (v8.0) (Aftermarket) (GB Studio)">
 		<description>Resident Evil (World) (v8.0) (Aftermarket) (GB Studio)</description>
 		<rom name="Resident Evil (World) (v8.0) (Aftermarket) (GB Studio).gb" size="1048576" crc="90adeee5" md5="31ec772586614cc233332fba9fbd3824" sha1="7c76489ff1b804b57fd884eac0973d3e4cefb4e7" />
@@ -290,6 +322,10 @@
 	<game name="Retro Adventure (World) (Aftermarket) (Unl)">
 		<description>Retro Adventure (World) (Aftermarket) (Unl)</description>
 		<rom name="Retro Adventure (World) (Aftermarket) (Unl).gb" size="262144" crc="521DE56F" md5="0BC273DFA6A9ED9EAA8687BC391D946C" sha1="1AA79F122D155D21B60D4B51FB14263FD9145A5C"/>
+	</game>
+	<game name="Retro Handheld Simulator (World) (v2.0) (Aftermarket) (GB Studio)">
+		<description>Retro Handheld Simulator (World) (v2.0) (Aftermarket) (GB Studio)</description>
+		<rom name="Retro Handheld Simulator (World) (v2.0) (Aftermarket) (GB Studio).gb" size="131072" crc="34427f8b" md5="b67be1c438793af3c8d13ec08750c736" sha1="a039e1a291839655764a05b24fc5dee7d7890e4d" />
 	</game>
 	<game name="Renegade Rush (World) (v20210930) (Aftermarket) (Unl)">
 		<description>Renegade Rush (World) (v20210930) (Aftermarket) (Unl)</description>
@@ -302,6 +338,10 @@
 	<game name="Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl)">
 		<description>Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl)</description>
 		<rom name="Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl).gb" size="524288" crc="5FD53151" md5="6762619D05C36252B1DDFB67230F52F0" sha1="73CB2330F9B58A324A41F6AA85B53AB8CC946AFC"/>
+	</game>
+	<game name="Sky Ace (Asia) (Multicart Rip) (Unl)">
+		<description>Sky Ace (Asia) (Multicart Rip) (Unl)</description>
+		<rom name="Sky Ace (Asia) (Multicart Rip) (Unl).gb" size="65536" crc="395fe571" md5="6db219fbce9d16272f7566b626c16523" sha1="e62d74152d06ae817658cdcb20954fc32d33dc65" />
 	</game>
 	<game name="Slime Trials (World) (Aftermarket) (Unl)">
 		<description>Slime Trials (World) (Aftermarket) (Unl)</description>
@@ -395,7 +435,6 @@
 		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja)</description>
 		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja).gb" size="2097152" crc="65a35ae5" md5="35e6e4336d8c1a1997cf7c4f047bc91a" sha1="034102d67a62a9b0c31053b40e0430a32ed92d06" />
 	</game>
-
 	<game name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)">
 		<description>Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)</description>
 		<rom name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio).gb" size="262144" crc="8cdf4b90" md5="97b6eb86385cc51fed8f65c6db04548a" sha1="9df6bf7c2babc47cc9e461d16a7ab1a24d898003" />
@@ -404,5 +443,8 @@
 		<description>Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio)</description>
 		<rom name="Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio).gb" size="524288" crc="c5447011" md5="b814eb1064975392a2db18b5f410abf7" sha1="8197ed0ac5591893b7d04ed3f02529f120daab7e" />
 	</game>
-
+	<game name="Zoo Block (Asia) (Multicart Rip) (Unl)">
+		<description>Zoo Block (Asia) (Multicart Rip) (Unl)</description>
+		<rom name="Zoo Block (Asia) (Multicart Rip) (Unl).gb" size="32768" crc="fc6f3bc2" md5="6fb9c74b7a59a01b36a1240967c16d16" sha1="2d6d85b8b6345b3e200f3dd30c2e28e5fea555da" />
+	</game>
 </datafile>

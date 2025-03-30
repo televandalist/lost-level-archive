@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>011</id>
+		<name>011 - Lost Level Archive - Sega - Master System</name>
+		<description>Sega - Master System</description>
+		<version>v20250330</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)">
+		<description>Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)</description>
+		<rom name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl).sms" size="262144" crc="79e2aeb2" md5="8dc6002e19f66bd7dba7f9adb6f8918e" sha1="32bd664de24ac4fc8c96416bc0fa3aaa37c3d060" />
+	</game>
+	<game name="Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl)">
+		<description>Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl)</description>
+		<rom name="Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl).sms" size="131072" crc="dbc88d37" md5="8635b8ecbce48c128cd5a6376843cf9b" sha1="f1e16dee2be2e9046608cd0532c5ab5a4145cdcd" />
+	</game>
+	<game name="Snail Maze - Music Demo (USA, Europe)">
+		<description>Snail Maze - Music Demo (USA, Europe)</description>
+		<rom name="Snail Maze - Music Demo (USA, Europe).sms" size="32768" crc="304fe02b" md5="ffcb0fedde6b7f8377ca99232c123597" sha1="499ac51501035b5ec5a993c0c9c0163d8a49e35c" />
+	</game>
+	<game name="Snail Maze - SMS BIOS (v1.3) (USA, Europe)">
+		<description>Snail Maze - SMS BIOS (v1.3) (USA, Europe)</description>
+		<rom name="Snail Maze - SMS BIOS (v1.3) (USA, Europe).sms" size="8192" crc="5ad6edac" md5="4f47e48248f6498bff9018789f26c9f8" sha1="083ce08bff13b3530371c6021dc740f1cfc78e0c" />
+	</game>
+	<game name="Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl)">
+		<description>Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl)</description>
+		<rom name="Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl).sms" size="32768" crc="016e55cf" md5="579651894466cdb1f89174021d57ed47" sha1="bef4400b208b4288e0523818c9743a79ce693d05" />
+	</game>
+	<game name="Vexed (USA) (v1.15) (Aftermarket) (Unl)">
+		<description>Vexed (USA) (v1.15) (Aftermarket) (Unl)</description>
+		<rom name="Vexed (USA) (v1.15) (Aftermarket) (Unl).sms" size="32768" crc="47c39bac" md5="2cde86c5890081de8c16ff598a756be3" sha1="de0059bbd7b11bb29ca690a1e9e5ed9e0fc89943" />
+	</game>
+</datafile>
