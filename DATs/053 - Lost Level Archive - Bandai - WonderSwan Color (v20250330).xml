@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>053</id>
+		<name>053 - Lost Level Archive - Bandai - WonderSwan Color</name>
+		<description>Bandai - WonderSwan Color</description>
+		<version>v20250330</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Mazy (World) (v20230618) (Aftermarket) (Unl)">
+		<description>Mazy (World) (v20230618) (Aftermarket) (Unl)</description>
+		<rom name="Mazy (World) (v20230618) (Aftermarket) (Unl).wsc" size="65536" crc="2620c258" md5="4ea83a19867a3e32749b1c9d898583ca" sha1="d7dd04a77d8c0edee79df61a3cd7f308fdde611d" />
+	</game>
+	<game name="Wondersnake 2 (World) (Aftermarket) (Unl)">
+		<description>Wondersnake 2 (World) (Aftermarket) (Unl)</description>
+		<rom name="Wondersnake 2 (World) (Aftermarket) (Unl).wsc" size="524288" crc="d93ab792" md5="176d0098f1daf9440706a9571e15fe68" sha1="4aefebd63691f22e5725d7590f6b971c7b26ae4a" />
+	</game>
+	<game name="Wondersnake (World) (Aftermarket) (Unl)">
+		<description>Wondersnake (World) (Aftermarket) (Unl)</description>
+		<rom name="Wondersnake (World) (Aftermarket) (Unl).wsc" size="524288" crc="a0591f00" md5="f8706cc921099ce84b2dd154b3cbbac6" sha1="fec915b4993f2d84ea30bd0fa4d8575e9074d292" />
+	</game>
+</datafile>

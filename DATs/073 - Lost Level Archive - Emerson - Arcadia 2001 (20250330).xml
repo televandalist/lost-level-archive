@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>073</id>
+		<name>073 - Lost Level Archive - Emerson - Arcadia 2001</name>
+		<description>Emerson - Arcadia 2001</description>
+		<version>v20250330</version>
+		<author>televandalist</author>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Astro Invaders (USA, Europe)">
+		<description>Astro Invaders (USA, Europe)</description>
+		<rom name="Astro Invaders (USA, Europe).bin" size="4096" crc="ddcf5b2c" md5="7fa659305834e5ceb8a12782e8e61cbb" sha1="b6f693e3333607181fbe3a43dffa9f30f9656998" />
+	</game>
+	<game name="Battle (USA, Europe)">
+		<description>Battle (USA, Europe)</description>
+		<rom name="Battle (USA, Europe).bin" size="4096" crc="6818c8bd" md5="c24eeb1e21bf11ec7a995e72142efbcb" sha1="21eadc7841e0a59671aacca93d28d81c580f16f2" />
+	</game>
+	<game name="Combat (USA, Europe)">
+		<description>Combat (USA, Europe)</description>
+		<rom name="Combat (USA, Europe).bin" size="4096" crc="a6bffa9e" md5="0685c7d2a7b5139992d126419de76daf" sha1="87addcdd0fccb5f36066f21938458235d5a37bd0" />
+	</game>
+</datafile>

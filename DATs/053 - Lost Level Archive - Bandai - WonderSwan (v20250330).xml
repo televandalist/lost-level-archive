@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>053</id>
+		<name>053 - Lost Level Archive - Bandai - WonderSwan</name>
+		<description>Bandai - WonderSwan</description>
+		<version>v20250330</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Cracky Mini (World) (v20240612) (Aftermarket) (Unl)">
+		<description>Cracky Mini (World) (v20240612) (Aftermarket) (Unl)</description>
+		<rom name="Cracky Mini (World) (v20240612) (Aftermarket) (Unl).ws" size="65536" crc="3071302b" md5="2ad72633b07f623b6eb0a641ec44dfd3" sha1="0323adb8a740466f7d2b6f29dc55acaee357be48" />
+	</game>
+</datafile>

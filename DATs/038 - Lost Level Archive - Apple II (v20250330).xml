@@ -5,7 +5,7 @@
 		<id>038</id>
 		<name>038 - Lost Level Archive - Apple II</name>
 		<description>Apple II</description>
-		<version>v20250327</version>
+		<version>v20250330</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
@@ -1101,6 +1101,10 @@
 		<description>Prince of Persia (1989) (Brøderbund) (Rebuilt from Source)</description>
 		<rom name="Prince of Persia (1989) (Brøderbund) (Rebuilt from Source) (Disk 1).nib" size="232960" crc="b2715492" md5="d7c976c61c01f620e7cb1d3a5d432601" sha1="610108ac42dbc3f061606eea97b2a8cfd039e9dc" />
 		<rom name="Prince of Persia (1989) (Brøderbund) (Rebuilt from Source) (Disk 2).nib" size="232960" crc="6af84266" md5="4f319042ecb13e6a6090456d18b2aef3" sha1="64744920e918e65c30b90fea63b760b4097a03d2" />
+	</game>
+	<game name="Pyramid of Ra (2018) (v1.03) (Naspite Labs)">
+		<description>Pyramid of Ra (2018) (v1.03) (Naspite Labs)</description>
+		<rom name="Pyramid of Ra (2018) (v1.03) (Naspite Labs).dsk" size="143360" crc="0d37593c" md5="20b0f9a506f759ea815dbacd3eadcd7d" sha1="3cbf451747c03a6e3fb4f4fdf14807e99cd66063" />
 	</game>
 	<game name="Retro Fever (2014) (Brandon Bogle &amp; Brian Picchi)">
 		<description>Retro Fever (2014) (Brandon Bogle &amp; Brian Picchi)</description>

@@ -5,7 +5,7 @@
 		<id>045</id>
 		<name>045 - Lost Level Archive - Mattel - Intellivision</name>
 		<description>Mattel - Intellivision</description>
-		<version>v20250325</version>
+		<version>v20250330</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -42,6 +42,10 @@
 	<game name="Pumpkin Attack (World) (Aftermarket) (Unl)">
 		<description>Pumpkin Attack (World) (Aftermarket) (Unl)</description>
 		<rom name="Pumpkin Attack (World) (Aftermarket) (Unl).int" size="26685" crc="26e0bcaa" md5="b593690baa3643df336e2385e9c24dfe" sha1="4288013866edc5e398fc58ba2c686fe2ac781fb4" />
+	</game>
+	<game name="Stack Em (USA) (v20040925) (Aftermarket) (Unl)">
+		<description>Stack Em (USA) (v20040925) (Aftermarket) (Unl)</description>
+		<rom name="Stack Em (USA) (v20040925) (Aftermarket) (Unl).int" size="4153" crc="465f6e26" md5="d2b93aad3d2862bb71b77686ce12b733" sha1="e742cf53e85dda16a87b6d1e5086f831b162c0f9" />
 	</game>
 	<game name="Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)">
 		<description>Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)</description>

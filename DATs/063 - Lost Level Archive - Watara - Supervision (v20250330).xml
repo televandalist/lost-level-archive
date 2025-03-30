@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>063</id>
+		<name>063 - Lost Level Archive - Watara - Supervision</name>
+		<description>Watara - Supervision</description>
+		<version>v20250330</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Assembloids (World) (Aftermarket) (Unl)">
+		<description>Assembloids (World) (Aftermarket) (Unl)</description>
+		<rom name="Assembloids (World) (Aftermarket) (Unl).sv" size="65536" crc="c71131e4" md5="6dd574473abfe47583c81a2fe33d3d02" sha1="79831275a6a30064d400b21c7eff709403ebcecc" />
+	</game>
+	<game name="Cross Bomber (World) (Aftermarket) (Unl)">
+		<description>Cross Bomber (World) (Aftermarket) (Unl)</description>
+		<rom name="Cross Bomber (World) (Aftermarket) (Unl).sv" size="32768" crc="5fac2aa3" md5="7a905b02571bfd0a7fdbb03b0637af4f" sha1="d579049862297d05ad8fbf318cf21f5423ed9b64" />
+	</game>
+	<game name="Cross Chase (World) (Aftermarket) (Unl)">
+		<description>Cross Chase (World) (Aftermarket) (Unl)</description>
+		<rom name="Cross Chase (World) (Aftermarket) (Unl).sv" size="32768" crc="346a7bba" md5="c077ce97c8d134230a68006ccc788b60" sha1="6564e4644e66005d8fb9fe23018b514503e0c869" />
+	</game>
+	<game name="Cross Horde (World) (Aftermarket) (Unl)">
+		<description>Cross Horde (World) (Aftermarket) (Unl)</description>
+		<rom name="Cross Horde (World) (Aftermarket) (Unl).sv" size="32768" crc="7885ce58" md5="4048c11b1be067483fa948724fbb9869" sha1="a09c3c83ea7e8f610611be852a4f51262d94e280" />
+	</game>
+	<game name="Cross Shoot (World) (Aftermarket) (Unl)">
+		<description>Cross Shoot (World) (Aftermarket) (Unl)</description>
+		<rom name="Cross Shoot (World) (Aftermarket) (Unl).sv" size="32768" crc="017f75af" md5="19b3812f3a3ffbf3eff501521078c5a2" sha1="8b734d620eb8d28f4ab932fe686fc884b9299910" />
+	</game>
+	<game name="Cross Shuriken (World) (Aftermarket) (Unl)">
+		<description>Cross Shuriken (World) (Aftermarket) (Unl)</description>
+		<rom name="Cross Shuriken (World) (Aftermarket) (Unl).sv" size="32768" crc="36a6a62b" md5="6f4938e6ea4b8e62479a0081c4ab3ab5" sha1="c244b0075a81e1175e359f5e7bf56d8f26269a1b" />
+	</game>
+	<game name="Cross Snake (World) (Aftermarket) (Unl)">
+		<description>Cross Snake (World) (Aftermarket) (Unl)</description>
+		<rom name="Cross Snake (World) (Aftermarket) (Unl).sv" size="32768" crc="24b141f7" md5="a7055f5cd9a3101e26ce62dd022c3635" sha1="50d811b555e4471765121a36173f4356d971363a" />
+	</game>
+	<game name="Cross Stinger (World) (Aftermarket) (Unl)">
+		<description>Cross Stinger (World) (Aftermarket) (Unl)</description>
+		<rom name="Cross Stinger (World) (Aftermarket) (Unl).sv" size="32768" crc="b79492ae" md5="6cfe4c52ddc5afca426889a210eb1e99" sha1="93dffde8ccd6c13e7cbb8a1c5ea830b07980ab52" />
+	</game>
+	<game name="Cross Verbix (World) (Aftermarket) (Unl)">
+		<description>Cross Verbix (World) (Aftermarket) (Unl)</description>
+		<rom name="Cross Verbix (World) (Aftermarket) (Unl).sv" size="32768" crc="2606a717" md5="a989076fdf62db8e63b5604d579a1e72" sha1="0aa4e96ea1c6c76a7f6639adbc4d1ef7e5e1303f" />
+	</game>
+</datafile>

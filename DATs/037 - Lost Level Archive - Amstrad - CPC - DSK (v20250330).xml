@@ -5,12 +5,16 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (DSK)</name>
 		<description>Amstrad - CPC (DSK)</description>
-		<version>v20250310</version>
+		<version>v20250330</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="3D Ballhunter (Germany) (1989) (PC Amstrad International)">
+		<description>3D Ballhunter (Germany) (1989) (PC Amstrad International)</description>
+		<rom name="3D Ballhunter (Germany) (1989) (PC Amstrad International).dsk" size="194816" crc="7a917e5d" md5="b0b46a2d26f4431edf2f10d03e81c5d1" sha1="a4bbcea2b90afe2502b12c9b69953e9aecbc9222" />
+	</game>
 	<game name="8bit Wars (2001) (21bloques)">
 		<description>8bit Wars (2001) (21bloques)</description>
 		<rom name="8bit Wars (2021) (CPCRetroDev 2021) (21bloques).dsk" size="194816" crc="5854bdac" md5="50ab098f9aaf7bcb19ac8c194d8afc21" sha1="5ea0dded4c341a3ed8b867cd509bc4504c879dd5" />
@@ -19,9 +23,17 @@
 		<description>Abbey of Crime, The (1987) (Opera Soft) (En)</description>
 		<rom name="Abbey of Crime, The (1987) (Opera Soft) (En).dsk" size="162025" crc="6e5f98ff" md5="e5eb771fbdc275ad2bcc219845bf7055" sha1="6fc875537d88a82fd4b53f4b71bbb0e42e565f1f" />
 	</game>
-	<game name="Abduction of Oszar Z, The (2020) (Dreamin' Bits)">
-		<description>Abduction of Oszar Z, The (2020) (Dreamin' Bits)</description>
-		<rom name="Abduction of Oszar Z, The (2020) (Dreamin' Bits).dsk" size="204544" crc="1367ac9d" md5="8260045bbcbf9edbfe6de05061d555df" sha1="ca51c25f5849d86f87ccb7106a7fac1a12017ff8" />
+	<game name="Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits)">
+		<description>Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits)</description>
+		<rom name="Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits).dsk" size="204544" crc="1367ac9d" md5="8260045bbcbf9edbfe6de05061d555df" sha1="ca51c25f5849d86f87ccb7106a7fac1a12017ff8" />
+	</game>
+	<game name="Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits)">
+		<description>Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits)</description>
+		<rom name="Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits).dsk" size="204544" crc="dc669af4" md5="872679c033a45500fffda573fa3a5d4f" sha1="c21bd77cf211f8b4005a6d65feecc745e91f719e" />
+	</game>
+	<game name="Akalabeth World Of Doom (UK) (2015) (Richard Garriot)">
+		<description>Akalabeth World Of Doom (UK) (2015) (Richard Garriot)</description>
+		<rom name="Akalabeth World Of Doom (UK) (2015) (Richard Garriot).dsk" size="204544" crc="cc2299cf" md5="636a3ec7f8a677300a757b84739e4471" sha1="dc506cb6e36c6de4b90b3347a220d8b399aaf548" />
 	</game>
 	<game name="Aliens'n Tanks (2021) (v1.0) (Ohcaco Games)">
 		<description>Aliens'n Tanks (2021) (v1.0) (Ohcaco Games)</description>
@@ -83,6 +95,10 @@
 	<game name="Cloud Sailor (2021) (rhgi1)">
 		<description>Cloud Sailor (2021) (rhgi1)</description>
 		<rom name="Cloud Sailor (2021) (CPCRetroDev 2021) (rhgi1).dsk" size="204544" crc="4331e0d3" md5="b5bca00cad3e57d12f85312cabf1aa90" sha1="b24d0bfeb830761aad3249d9f0efca9c131c44e4" />
+	</game>
+	<game name="Cobra Pinball (France, UK) (1985) (Cobra Soft)">
+		<description>Cobra Pinball (France, UK) (1985) (Cobra Soft)</description>
+		<rom name="Cobra Pinball (France, UK) (1985) (Cobra Soft).dsk" size="194816" crc="96331f5f" md5="7295898aab54c329dfc7443cd6d9ae69" sha1="65df408aff31ebcb517c328bd611be4cea6997ee" />
 	</game>
 	<game name="Compilation jeux 10 Lignes Basic (2023) (Studio Vetea) (v1.0)">
 		<description>Compilation jeux 10 Lignes Basic (2023) (Studio Vetea) (v1.0)</description>
@@ -156,6 +172,10 @@
 		<description>KILLMIL (2021) (OldSchoolAmstrad)</description>
 		<rom name="KILLMIL (2021) (CPCRetroDev 2021) (OldSchoolAmstrad).dsk" size="204544" crc="23133a24" md5="6d96a3b69e940dff3f5b2b473b9497fe" sha1="5fde293605a4601631b73bc1eb998ce99a40b60a" />
 	</game>
+	<game name="Last Brew, The (2023) (CPCRetroDev 2023) (Vec)">
+		<description>Last Brew, The (2023) (CPCRetroDev 2023) (Vec)</description>
+		<rom name="Last Brew, The (2023) (CPCRetroDev 2023) (Vec).dsk" size="204544" crc="97f0963a" md5="840e4fa1ff356ca3a71ea5000dbd7b6a" sha1="9a80b5a069ca25a74fb695e3a9ea6dfbf4920857" />
+	</game>
 	<game name="Last Fungus, The (2021) (Ocacho Games)">
 		<description>Last Fungus, The (2021) (Ocacho Games)</description>
 		<rom name="Last Fungus, The (2021) (CPCRetroDev 2021) (Ocacho Games).dsk" size="204544" crc="17f02eae" md5="5811f93eb0b9ed9457766c491b67ad3d" sha1="9b8683049c249bcdfb2a499badfa38860f6b6242" />
@@ -163,6 +183,10 @@
 	<game name="LoopWorlds (2021) (DreamyZombies)">
 		<description>LoopWorlds (2021) (DreamyZombies)</description>
 		<rom name="LoopWorlds (2021) (CPCRetroDev 2021) (DreamyZombies).dsk" size="204544" crc="c04120bb" md5="48a71a1e2f690627e516a0749734489a" sha1="83a1d206efe7cf263270f7497232eeaa08776ff3" />
+	</game>
+	<game name="Magica (2016) (v1.0.2) (Juan J. Martinez)">
+		<description>Magica (2016) (v1.0.2) (Juan J. Martinez)</description>
+		<rom name="Magica (2016) (v1.0.2) (Juan J. Martinez).dsk" size="204544" crc="da244e71" md5="a890a84e0a2f3c5eea151c5cac830f68" sha1="86f9f88dbd16409162885832009caaad46c50243" />
 	</game>
 	<game name="Miss Input 2 (2020) (ChupiGames) (En)">
 		<description>Miss Input 2 (2020) (ChupiGames) (En)</description>
@@ -196,6 +220,10 @@
 		<description>One Wonder (2023) (CPCRetroDev 2023) (Kaiwa-ams1)</description>
 		<rom name="One Wonder (2023) (CPCRetroDev 2023) (Kaiwa-ams1).dsk" size="204544" crc="a860ca8a" md5="7125af3c77b157ff29489bdf55a66589" sha1="c99c1ddbbde3d3e202126f3f321965dc61085986" />
 	</game>
+	<game name="Orion Prime (UK) (2009) (128K) (Targhan, Supersly)">
+		<description>Orion Prime (UK) (2009) (128K) (Targhan, Supersly)</description>
+		<rom name="Orion Prime (UK) (2009) (128K) (Targhan, Supersly).dsk" size="859392" crc="5973455c" md5="2caba7a5b156a71c95f1a7c776aaf169" sha1="0d836189c3b649b2f584d931b2cb546b790d8448" />
+	</game>
 	<game name="Paintball Training (2023) (altanerus dog)">
 		<description>Paintball Training (2023) (altanerus dog)</description>
 		<rom name="Paintball Training (2023) (altanerus dog).dsk" size="194816" crc="5ac6844d" md5="bc8459a5878e5b72ac70de51ec406dcc" sha1="e95e5419c115de0d58c0bd8faf8cee3651d3f8bf" />
@@ -216,6 +244,10 @@
 		<description>Prince Of Persia (1990) (Broderbund) (En,Fr)</description>
 		<rom name="Prince Of Persia (1990) (Broderbund) (En,Fr).dsk" size="195635" crc="a14a1e0f" md5="de9bc6484cbd37507943bb10e93a7b30" sha1="4686ce395d066d0c2959d7ba3b588d2c2aa5e70e" />
 	</game>
+	<game name="Pulzar (2024) (Snauts)">
+		<description>Pulzar (2024) (Snauts)</description>
+		<rom name="Pulzar (2024) (Snauts).dsk" size="204544" crc="190cd6c5" md5="33327d448f4f5b9823bfd6b91eb4816a" sha1="1709721ba5ea4987b7eac9554d8c9fdd4d5a8f41" />
+	</game>
 	<game name="Rainbow Wielder (2021) (PyroClastic Software)">
 		<description>Rainbow Wielder (2021) (PyroClastic Software)</description>
 		<rom name="Rainbow Wielder (2021) (CPCRetroDev 2021) (PyroClastic Software).dsk" size="204544" crc="ec27d588" md5="50bf061d5098b1dde33eb5d19d6bf703" sha1="4a27c68593fb312733b38e3fb096e52d021a300a" />
@@ -223,6 +255,10 @@
 	<game name="Retromancer, The (2023) (CPCRetroDev 2023) (RetroMancer93)">
 		<description>Retromancer, The (2023) (CPCRetroDev 2023) (RetroMancer93)</description>
 		<rom name="Retromancer, The (2023) (CPCRetroDev 2023) (RetroMancer93).dsk" size="204544" crc="7a8cc042" md5="cb3b3e900b20557cdd1b02da15905bfb" sha1="82639336e05a992df53aafa2e41879cc42574093" />
+	</game>
+	<game name="Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes)">
+		<description>Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes)</description>
+		<rom name="Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes).dsk" size="204544" crc="0d9457ac" md5="e94711c7169b448d4059a44a6102ca15" sha1="26b843da4addcb4de928f437ecfdcbfd1c16421e" />
 	</game>
 	<game name="Rick Dangerous 2 (1990) (Core Design) (En)">
 		<description>Rick Dangerous 2 (1990) (Core Design) (En)</description>
@@ -272,6 +308,18 @@
 	<game name="Space Rescue in Jupiter (2023) (altanerus dog)">
 		<description>Space Rescue in Jupiter (2023) (altanerus dog)</description>
 		<rom name="Space Rescue in Jupiter (2023) (altanerus dog).dsk" size="194816" crc="ea8fb4b0" md5="1cdf7c3ad019febf50476a973daa080b" sha1="de0ab335aa10573a22f4ab626d4f7906a6c5a744" />
+	</game>
+	<game name="Sudoku (2008) (Kevin Thacker)">
+		<description>Sudoku (2008) (Kevin Thacker)</description>
+		<rom name="Sudoku (2008) (Kevin Thacker).dsk" size="194816" crc="484b1a17" md5="a2822ff9296a828197467c16ecccab1b" sha1="b0396aae38224eca0fcb8df47de7b6805b289f56" />
+	</game>
+	<game name="Sudoku Master (2009) (Binary Sciences)">
+		<description>Sudoku Master (2009) (Binary Sciences)</description>
+		<rom name="Sudoku Master (2009) (Binary Sciences).dsk" size="204544" crc="2ad0f65c" md5="8cda26df9d06013a54af59e1b7013e20" sha1="ac928d24c4aba7d60a2bc86d13883ea1036a1105" />
+	</game>
+	<game name="Super Lode Runner (UK) (1994) (Prototype) (Odiesoft)">
+		<description>Super Lode Runner (UK) (1994) (Prototype) (Odiesoft)</description>
+		<rom name="Super Lode Runner (UK) (1994) (Prototype) (Odiesoft).dsk" size="204544" crc="8e301f04" md5="381e50c8bdaf31bcd6e254ebc842793d" sha1="807eb368fb7437d63fb3c2eac5e57ef492ad0f59" />
 	</game>
 	<game name="Superpix (2014) (Crack'n'Rom) (En) (v1.2)">
 		<description>Superpix (2014) (Crack'n'Rom) (En) (v1.2)</description>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>033</id>
+		<name>033 - Lost Level Archive - Sega - SG-1000</name>
+		<description>Sega - SG-1000</description>
+		<version>v20250330</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Earth Attack (USA) (v2021116) (Aftermarket) (Unl)">
+		<description>Earth Attack (USA) (v2021116) (Aftermarket) (Unl)</description>
+		<rom name="Earth Attack (USA) (v2021116) (Aftermarket) (Unl).sg" size="16384" crc="575c7f2a" md5="be7798f9073f9a587ff0a36b646c65b7" sha1="92636a511152051a593976a4651c85c8affea614" />
+	</game>
+	<game name="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl)">
+		<description>Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl)</description>
+		<rom name="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl).sg" size="32768" crc="c3bdd92c" md5="1065ae51e06b8a07ce99998a37c7db79" sha1="f59be1768fbab79d1bffb886f4074d1e06498f9f" />
+	</game>
+	<game name="Foryster (USA) (v00.9) (Aftermarket) (Unl)">
+		<description>Foryster (USA) (v00.9) (Aftermarket) (Unl)</description>
+		<rom name="Foryster (USA) (v00.9) (Aftermarket) (Unl).sg" size="32768" crc="f8d7fa2c" md5="7aeb05029bdb9a571b1b72482daad5eb" sha1="6d9ed7208032ad3ec9011bbc999cea426aca46d3" />
+	</game>
+	<game name="H7N9 (USA) (v20161024) (Aftermarket) (Unl)">
+		<description>H7N9 (USA) (v20161024) (Aftermarket) (Unl)</description>
+		<rom name="H7N9 (USA) (v20161024) (Aftermarket) (Unl).sg" size="8192" crc="8643027f" md5="784f9220a864953323b42aef566d667e" sha1="5848cc4a8116ce428caa8b775829ed4ffee8fb52" />
+	</game>
+	<game name="Hopman (USA) (v1.0) (Aftermarket) (Unl)">
+		<description>Hopman (USA) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Hopman (USA) (v1.0) (Aftermarket) (Unl).sg" size="9958" crc="8bc01dd6" md5="ed86987c468fbdcf6255a22536c3bac1" sha1="b9ca846d0dbdbd32ed00fa106fb162a0aceda259" />
+	</game>
+	<game name="Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket) (Unl)">
+		<description>Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket) (Unl).sg" size="49152" crc="3246adab" md5="e13c66c69904b94459fa46da26aca87e" sha1="4b36acfb4faacdbcce56baf3ddba5cd8d72ce047" />
+	</game>
+	<game name="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl)">
+		<description>Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl).sg" size="49152" crc="d31c6b3b" md5="c07672a810c23e269a65a02e3893172a" sha1="e2dbe48a9a4490857ae7d51e306f6afba5aac3fa" />
+	</game>
+	<game name="Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl)">
+		<description>Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl)</description>
+		<rom name="Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl).sg" size="32768" crc="5f9f8b15" md5="9ced5749ab0db9d67b5446381a0182f7" sha1="c52e3ff244bc55802b2856054fb01aba7f747620" />
+	</game>
+	<game name="Libreway (USA) (v2014-06-16) (Aftermarket) (Unl)">
+		<description>Libreway (USA) (v2014-06-16) (Aftermarket) (Unl)</description>
+		<rom name="Libreway (USA) (v2014-06-16) (Aftermarket) (Unl).sg" size="8192" crc="2453064d" md5="66192a925bcf6e76c63667126709e97b" sha1="0a2ccd9d8c41ab4d254985975ddedb0786d64105" />
+	</game>
+	<game name="Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl) (under4mhz)">
+		<description>Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl) (under4mhz)</description>
+		<rom name="Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl) (under4mhz).sg" size="32768" crc="d07afa95" md5="894cb6837dc67fd4ada3be7126c1cbd4" sha1="7524486ce0fa3c7a21c5231cce35133ef2f20a57" />
+	</game>
+	<game name="Palikat (USA) (v1.0) (Aftermarket) (Unl)">
+		<description>Palikat (USA) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Palikat (USA) (v1.0) (Aftermarket) (Unl).sg" size="32768" crc="ec169914" md5="a90090e446b4e86ce3cadc451530c0ad" sha1="77493202ba6e5eec599c054e96fe8f86b84b0c96" />
+	</game>
+	<game name="Pegged (World) (v1.02) (Aftermarket) (Unl) (under4mhz)">
+		<description>Pegged (World) (v1.02) (Aftermarket) (Unl) (under4mhz)</description>
+		<rom name="Pegged (World) (v1.02) (Aftermarket) (Unl) (under4mhz).sg" size="32768" crc="f6c2547d" md5="54be39abfa98f34f9cfeeeaa75aee054" sha1="c524f5f682e3b39608f4a04f4a29f80b923dce1b" />
+	</game>
+	<game name="Pitman (World) (v1.02) (Aftermarket) (Unl) (under4mhz)">
+		<description>Pitman (World) (v1.02) (Aftermarket) (Unl) (under4mhz)</description>
+		<rom name="Pitman (World) (v1.02) (Aftermarket) (Unl) (under4mhz).sg" size="32768" crc="16dcf8b1" md5="2ac27fc45f429cd0d5ea4f93e2cc6961" sha1="d308f650d4b74cccaa765db2d5d138179e78fd87" />
+	</game>
+	<game name="Pitman (World) (v1.03) (Aftermarket) (Unl) (under4mhz)">
+		<description>Pitman (World) (v1.03) (Aftermarket) (Unl) (under4mhz)</description>
+		<rom name="Pitman (World) (v1.03) (Aftermarket) (Unl) (under4mhz).sg" size="32768" crc="e325f022" md5="f8d0df42b3143c16d3730a37ff1190b9" sha1="22b6c05f186bc87bfbeb734e8ef107d314f6825d" />
+	</game>
+	<game name="Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket) (Unl)">
+		<description>Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket) (Unl).sg" size="32768" crc="af29bba8" md5="3bec2aa3d11a1d1e9b1de9dbef6b513c" sha1="4984dbeab2f7f04bd05b1e357583e005677709d4" />
+	</game>
+	<game name="Snake (under4mhz) (USA) (v1.0) (Aftermarket) (Unl)">
+		<description>Snake (under4mhz) (USA) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Snake (under4mhz) (USA) (v1.0) (Aftermarket) (Unl).sg" size="32768" crc="c885db61" md5="bb91e8818fdd78c9e6cd2b94bbe552ff" sha1="47829d776889e2f4cf48d41ce07a374d14c521a2" />
+	</game>
+	<game name="Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins)">
+		<description>Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins)</description>
+		<rom name="Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins).sg" size="49152" crc="aa8ea6eb" md5="44a7e8eaf9187835f3fb6c6ddda45327" sha1="ffd3c645662d8926965d4e334f68764648db851f" />
+	</game>
+</datafile>
