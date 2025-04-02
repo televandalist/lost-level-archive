@@ -126,7 +126,6 @@
 		<rom name="data\SOUNDS.CK1" size="8898" crc="569e89e0" md5="c726f4948d49c5b212cc6f6bc8a72247" sha1="42cf2e625428c4605a352fbdffbb525e18dce7da" />
 		<rom name="data\STORYTXT.CK1" size="3504" crc="231a12cf" md5="0f6e2c7fc0ec2df428757386b072b071" sha1="d930d9066f7c9a2035c6cd8f85e2f6a149fbe147" />
 		<rom name="data\VENDOR.DOC" size="8876" crc="6e7acc98" md5="f8a5a377b9dbec63bba25148ea80adca" sha1="b05db19a7e18e88562d6ec1629d66cf75a7dd269" />
-		<rom name="ck.log" size="4975" crc="e04c0660" md5="e589424554113f7a6ff1e0205ddfef44" sha1="55c3061e70fbfb17269497921b64c78dd4d6c4fa" />
 		<rom name="demo.dat" size="103652" crc="ded01821" md5="91ad45403caa88a5126f11127c80da66" sha1="8c92276ff4f1187b8092443f5f02416af1511dbc" />
 		<rom name="EBOOT.PBP" size="438282" crc="05ea3e30" md5="fa34c96d82f6d44bc0fb4c91d0e40334" sha1="ab3fda2a73f3b151c00d6a37f28ebdc7b7dd5ad7" />
 		<rom name="ep1attr.dat" size="12587" crc="01afea56" md5="1bdb53f85ebb7edf5060e0cdc4f0825e" sha1="eac9f0e3ac54df56c30fcdd5188b69d2920b5a19" />
@@ -1795,7 +1794,6 @@
 		<rom name="shipedit.doc" size="17174" crc="17d0a1eb" md5="85bde37e0ba21d06313b1083c37d447f" sha1="cd203a94ba80a8bc7e731d95c4989f99cfba9070" />
 		<rom name="shipedit.pcx" size="13450" crc="e146748e" md5="7257a225afac10ea6ab49025ae80abca" sha1="1781a9677345ca990a80177bc839cae76474a809" />
 		<rom name="stderr.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
-		<rom name="stdout.txt" size="495" crc="4923bec1" md5="354792757f89d060aaefac9f613b244a" sha1="4dbd574fe9ae668cec6a099d1a392bf5df97a870" />
 		<rom name="tshp2.pcx" size="62168" crc="bcac7849" md5="d4f64be18e1c4cbfb4a36b9159f712cd" sha1="04cc3cdc73ec23d092cfd7618d9ae5e34e82b791" />
 		<rom name="tyrend.anm" size="3315848" crc="8b3019bd" md5="2a228071c3a226a7ece9f5f4c2d5b776" sha1="88bb0176e7b7125714c2bad72d18b93ca5882c1c" />
 		<rom name="tyrian1.lvl" size="538262" crc="06ce2efe" md5="a1e73e0586ce715ab7daaedfe9b98595" sha1="39825b5d69a07232d91886da68d217465a74695c" />
@@ -2728,7 +2726,6 @@
 		<rom name="games\test\game\test.rpy" size="5033" crc="882d1046" md5="d4230ccbd11240a1c8938cea3862d658" sha1="9e012830c5fd3e8e789cbaa3173713d6df42faa0" />
 		<rom name="games\test\game\utan.png" size="7275" crc="46ed257b" md5="7430549607e817f176e0d2fe3c17df4b" sha1="ffd7560e6c23056b8a46807258a751d898956a53" />
 		<rom name="games\test\game\uvao.png" size="8219" crc="03bc80bb" md5="a2f5f11425ee3261baa6c35c1f68aab5" sha1="b8ff3b4044949119c2df519bda37f388d3f736f7" />
-		<rom name="games\test\saves\persistent" size="4" crc="df1f186e" md5="f17c6890ce3e5d805aad7ee46da00fd7" sha1="855ca7e4e0c1c862e50b76ecfb4184cc39df46fe" />
 		<rom name="games\test\saves\placeholder.txt" size="43" crc="2c99615b" md5="671e788f868ffad22e5d56b1698ab6f9" sha1="f5892e97734ec5743bec1f36c95cb71fb42480b2" />
 		<rom name="renpsp\blank.ogg" size="5521" crc="9504c54e" md5="6f3a856ac392cac286a002becf21845a" sha1="6817e55931dec107e622464ab4b655d15672dba2" />
 		<rom name="renpsp\cooleyesBridge.prx" size="3182" crc="7cd73034" md5="9288fa989840d57ccf5b8f8ba7eb47a0" sha1="ef75aa716cee6abf369af76d9aa04cb63ac32eeb" />
@@ -2766,7 +2763,6 @@
 		<rom name="lpp.lua" size="362" crc="9a0006b8" md5="c19d2ccb59183b331a6161416e5013d3" sha1="4c87d87d4b4f99cec8be41e5452491277bc26b75" />
 		<rom name="lua.prx" size="1076382" crc="51081546" md5="27a62ab9e6a744300cddd8d0876e917b" sha1="ea8d3a9957ebb391be52a423e6decdbd411e6cb1" />
 		<rom name="readme_renpsp.txt" size="864" crc="bd3ac744" md5="734a995aeb12287ffb4b4c9eba2b370a" sha1="df34f3427e09eca2c20cb3bd61d071f34b782481" />
-		<rom name="renpsp.log" size="638" crc="266cf35e" md5="e302ca4e3111e410719ebedc4f98e42c" sha1="883fb017320aa7a209578f6c1a8a6e5793eb05b5" />
 		<rom name="version.txt" size="4479" crc="64ba3ddb" md5="1e6c5a220ebe23a7935f24232819b215" sha1="86a413af2dd03eafca7662fd7c660f59485d68d7" />
 		<rom name="win32.lua" size="374" crc="7e38f265" md5="f7163edac47e6032b0506527a954cc1f" sha1="00dc1c7d6b90c45bb9862c187ace8ed45c0db013" />
 		<rom name="win32_start.bat" size="93" crc="3c9be14a" md5="17b4fb19b77d474c72c6ae48c9d6f60f" sha1="96e0d67cd79d492e1a55cd05e7ee71b20fe29676" />
