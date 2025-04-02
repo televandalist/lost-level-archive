@@ -1793,7 +1793,6 @@
 		<rom name="shapesz.dat" size="243712" crc="c038864b" md5="d853b53ac66e5409650e97fb3bbf2671" sha1="5d809fc471f638c697de937f84a5c216b8a79424" />
 		<rom name="shipedit.doc" size="17174" crc="17d0a1eb" md5="85bde37e0ba21d06313b1083c37d447f" sha1="cd203a94ba80a8bc7e731d95c4989f99cfba9070" />
 		<rom name="shipedit.pcx" size="13450" crc="e146748e" md5="7257a225afac10ea6ab49025ae80abca" sha1="1781a9677345ca990a80177bc839cae76474a809" />
-		<rom name="stderr.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
 		<rom name="tshp2.pcx" size="62168" crc="bcac7849" md5="d4f64be18e1c4cbfb4a36b9159f712cd" sha1="04cc3cdc73ec23d092cfd7618d9ae5e34e82b791" />
 		<rom name="tyrend.anm" size="3315848" crc="8b3019bd" md5="2a228071c3a226a7ece9f5f4c2d5b776" sha1="88bb0176e7b7125714c2bad72d18b93ca5882c1c" />
 		<rom name="tyrian1.lvl" size="538262" crc="06ce2efe" md5="a1e73e0586ce715ab7daaedfe9b98595" sha1="39825b5d69a07232d91886da68d217465a74695c" />
