@@ -1,3 +1,5 @@
+**Note: I am aware of the inconsistencies in the naming scheme for some consoles. I plan to fix this after I've had time to do some more research.**
+
 ![lostlevelarchive](https://github.com/televandalist/lost-level-archive/assets/45054151/80332816-29b5-4011-aed0-e06e68ae08b6)
 
 ### Project Information
