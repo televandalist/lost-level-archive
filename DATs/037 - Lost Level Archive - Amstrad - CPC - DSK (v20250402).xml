@@ -120,9 +120,9 @@
 		<description>Chaos Rising (2018) (EgoTrip)</description>
 		<rom name="Chaos Rising (2018) (EgoTrip).dsk" size="194816" crc="e5faba31" md5="f4cf3d067e10c4de22823b6fb2df6fc0" sha1="77cb6a15c20a128f40352d79dd980f56437f6bb2" />
 	</game>
-	<game name="Chaos Rising Part 2 (2021) (EgoTrip)">
-		<description>Chaos Rising Part 2 (2021) (EgoTrip)</description>
-		<rom name="Chaos Rising Part 2 (2021) (EgoTrip).dsk" size="204544" crc="9b174f1b" md5="e4bd16f57ddf714dd1091cb2a08290d9" sha1="e791fc0f6bc4daf7428de0140bdf1df2fd24c632" />
+	<game name="Chaos Rising Part 2 (2021) (v1.2) (EgoTrip)">
+		<description>Chaos Rising Part 2 (2021) (v1.2) (EgoTrip)</description>
+		<rom name="Chaos Rising Part 2 (2021) (v1.2) (EgoTrip).dsk" size="204544" crc="9b174f1b" md5="e4bd16f57ddf714dd1091cb2a08290d9" sha1="e791fc0f6bc4daf7428de0140bdf1df2fd24c632" />
 	</game>
 	<game name="Cloud Sailor (2021) (rhgi1)">
 		<description>Cloud Sailor (2021) (rhgi1)</description>
