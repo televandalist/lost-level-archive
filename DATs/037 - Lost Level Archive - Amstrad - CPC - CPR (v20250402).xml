@@ -11,6 +11,14 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Brick Rick (2020) (v1.0.1) (reidrac)">
+		<description>Brick Rick (2020) (v1.0.1) (reidrac)</description>
+		<rom name="Brick Rick (2020) (v1.0.1) (reidrac).cpr" size="524556" crc="03a90123" md5="568362c6b4ce1aea85b8d2de40908fc9" sha1="a6dafd3f7b7960460e94862a8a4725c90087c065" />
+	</game>
+	<game name="Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)">
+		<description>Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)</description>
+		<rom name="Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez).cpr" size="524556" crc="abb3728d" md5="aef578c87068c77ce8eb390a58cd2ed8" sha1="7ed067623d6ef70d8bd448034224db88251b7168" />
+	</game>
 	<game name="La Culotte de Zelda (v3.2) (En) (Zisquier)">
 		<description>La Culotte de Zelda (v3.2) (En) (Zisquier)</description>
 		<rom name="La Culotte de Zelda (v3.2) (En) (Zisquier).cpr" size="524556" crc="c2261a40" md5="67c66829dc2456c48bb84e9cd93fe354" sha1="cb9d0ad4d3379902215d29ddfad6dfe241c13649" />

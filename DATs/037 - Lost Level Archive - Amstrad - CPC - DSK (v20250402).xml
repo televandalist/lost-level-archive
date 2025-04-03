@@ -19,6 +19,14 @@
 		<description>3D Ballhunter (Germany) (1989) (PC Amstrad International)</description>
 		<rom name="3D Ballhunter (Germany) (1989) (PC Amstrad International).dsk" size="194816" crc="7a917e5d" md5="b0b46a2d26f4431edf2f10d03e81c5d1" sha1="a4bbcea2b90afe2502b12c9b69953e9aecbc9222" />
 	</game>
+	<game name="3D Quasars (UK) (1985) (Solar Software) (Tape Conversion)">
+		<description>3D Quasars (UK) (1985) (Solar Software) (Tape Conversion)</description>
+		<rom name="3D Quasars (UK) (1985) (Solar Software) (Tape Conversion).dsk" size="194816" crc="50447737" md5="679e02b594f9a8dea70c489f47ef2535" sha1="2eae9c471a1918aa496db5779f7fcaaac402fb30" />
+	</game>
+	<game name="3D Time Trek (UK) (1985) (Anirog)">
+		<description>3D Time Trek (UK) (1985) (Anirog)</description>
+		<rom name="3D Time Trek (UK) (1985) (Anirog).dsk" size="194816" crc="d1abfa6b" md5="4c32734d8b901bbc69204575d1b3b24c" sha1="b682d1cf4c240149f5aa94c12f6abb03c12e3aff" />
+	</game>
 	<game name="8bit Wars (2001) (21bloques)">
 		<description>8bit Wars (2001) (21bloques)</description>
 		<rom name="8bit Wars (2021) (CPCRetroDev 2021) (21bloques).dsk" size="194816" crc="5854bdac" md5="50ab098f9aaf7bcb19ac8c194d8afc21" sha1="5ea0dded4c341a3ed8b867cd509bc4504c879dd5" />
@@ -34,6 +42,10 @@
 	<game name="Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits)">
 		<description>Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits)</description>
 		<rom name="Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits).dsk" size="204544" crc="dc669af4" md5="872679c033a45500fffda573fa3a5d4f" sha1="c21bd77cf211f8b4005a6d65feecc745e91f719e" />
+	</game>
+	<game name="Acornsoft Pacman (UK) (2006) (Richard Wilson)">
+		<description>Acornsoft Pacman (UK) (2006) (Richard Wilson)</description>
+		<rom name="Acornsoft Pacman (UK) (2006) (Richard Wilson).dsk" size="194816" crc="5146ff59" md5="806b20162a8e524b12123bffe0a74f8c" sha1="d14be9c486d3557833fcc1b104726a3936988c89" />
 	</game>
 	<game name="Akalabeth World Of Doom (UK) (2015) (Richard Garriot)">
 		<description>Akalabeth World Of Doom (UK) (2015) (Richard Garriot)</description>
@@ -79,6 +91,14 @@
 		<description>Bloktris (2023) (Under4Mhz) (v1.03)</description>
 		<rom name="Bloktris (2023) (Under4Mhz) (v1.03).dsk" size="204544" crc="51c6ccd7" md5="ace03d8e72c44f5a43b1dafd260c00b7" sha1="3e1603f21054addcfe0a7916e1e02fb3fbf3ddaa" />
 	</game>
+	<game name="Boulder Dash 4 (1988) (France) (Mirrorsoft)">
+		<description>Boulder Dash 4 (1988) (France) (Mirrorsoft)</description>
+		<rom name="Boulder Dash 4 (1988) (France) (Mirrorsoft).dsk" size="287232" crc="86e5113e" md5="bea34dc1ecacf740e19be4a7ffcfce25" sha1="cbfbe7a81d90ee482ad8bf3ee13bf1ea789c941e" />
+	</game>
+	<game name="Brick Rick (2020) (v1.0.1) (reidrac)">
+		<description>Brick Rick (2020) (v1.0.1) (reidrac)</description>
+		<rom name="Brick Rick (2020) (v1.0.1) (reidrac).dsk" size="204544" crc="ac5b3e68" md5="44a843bcc686952b9729b86d7597b4cf" sha1="0eb852292178354a24503c7ff12ec804311499f2" />
+	</game>
 	<game name="Bubble Bobble (1988) (Firebird) (En)">
 		<description>Bubble Bobble (1988) (Firebird) (En)</description>
 		<rom name="Bubble Bobble (1988) (Firebird) (En).dsk" size="199680" crc="20e10aa2" md5="776d58b99c356569145dc55190d2c8ab" sha1="b70479da7cace8b904bc7fc51b45b7ddfc01ca27" />
@@ -95,6 +115,14 @@
 	<game name="Castle Kid (2021) (AxolotIUA)">
 		<description>Castle Kid (2021) (AxolotIUA)</description>
 		<rom name="Castle Kid (2021) (CPCRetroDev 2021) (AxolotIUA).dsk" size="204544" crc="4bf03c0e" md5="33f3d3ec3138d571ba4c5524715a202b" sha1="59f6acb648aeca17ee2a0e53c5146d68cb28d4c3" />
+	</game>
+	<game name="Chaos Rising (2018) (EgoTrip)">
+		<description>Chaos Rising (2018) (EgoTrip)</description>
+		<rom name="Chaos Rising (2018) (EgoTrip).dsk" size="194816" crc="e5faba31" md5="f4cf3d067e10c4de22823b6fb2df6fc0" sha1="77cb6a15c20a128f40352d79dd980f56437f6bb2" />
+	</game>
+	<game name="Chaos Rising Part 2 (2021) (EgoTrip)">
+		<description>Chaos Rising Part 2 (2021) (EgoTrip)</description>
+		<rom name="Chaos Rising Part 2 (2021) (EgoTrip).dsk" size="204544" crc="9b174f1b" md5="e4bd16f57ddf714dd1091cb2a08290d9" sha1="e791fc0f6bc4daf7428de0140bdf1df2fd24c632" />
 	</game>
 	<game name="Cloud Sailor (2021) (rhgi1)">
 		<description>Cloud Sailor (2021) (rhgi1)</description>
@@ -131,6 +159,14 @@
 	<game name="Cult, The (Es) (2023) (64K) (Tartessos Games)">
 		<description>Cult, The (Es) (2023) (64K) (Tartessos Games)</description>
 		<rom name="Cult, The (Es) (2023) (64K) (Tartessos Games).dsk" size="194816" crc="5c291d16" md5="c9decf9e2440ffa2ea2c1367dec032b0" sha1="35a2dd4dc7254ea2f96a57ed9baac0d6c755e4d1" />
+	</game>
+	<game name="Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)">
+		<description>Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)</description>
+		<rom name="Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez).dsk" size="204544" crc="6f9690c7" md5="30c2b4b5e77641b29d5670dc690c8e31" sha1="55f6b89956d3b750e34c15796efd57ca94d394e0" />
+	</game>
+	<game name="Dempsey and Makepeace (UK) (1986) (Britannia Software)">
+		<description>Dempsey and Makepeace (UK) (1986) (Britannia Software)</description>
+		<rom name="Dempsey and Makepeace (UK) (1986) (Britannia Software).dsk" size="194816" crc="2a0d5f49" md5="b5196099972881b5d7229909bf0d74c7" sha1="7aa6fb13f7e18d2c749fb668e7bbe0c045699015" />
 	</game>
 	<game name="Dokoban (2022) (Copper France)">
 		<description>Dokoban (2022) (Copper France)</description>
@@ -188,6 +224,10 @@
 		<description>Galactic Tomb (2022) (128K) (ESP Soft)</description>
 		<rom name="Galactic Tomb (2022) (128K) (ESP Soft).dsk" size="194816" crc="7bf0c4cc" md5="49b4171093f34ef21b7c20914c3b93a7" sha1="47905d4680cd52f75ada8fc8e9f2ece022ad9fbd" />
 	</game>
+	<game name="Galastrad (2024) (v1.02) (AYOR61)">
+		<description>Galastrad (2024) (v1.02) (AYOR61)</description>
+		<rom name="Galastrad (2024) (v1.02) (AYOR61).dsk" size="204544" crc="b95d4f96" md5="3226ac3244f5b1ea784029ab5b7f4240" sha1="4b6bbdfedf6754e584bacb64b7ee4dee417b2159" />
+	</game>
 	<game name="Get Out of My Store! (2021) (PyroBombastic Games)">
 		<description>Get Out of My Store! (2021) (PyroBombastic Games)</description>
 		<rom name="Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games).dsk" size="204544" crc="ba385f1d" md5="4737bcf67c163be6ea3bc31aa7655eec" sha1="749dd684f4600c4c1f9a27a134119a8d074b4a45" />
@@ -208,9 +248,21 @@
 		<description>Into the Darkness (2021) (Popcorn Games)</description>
 		<rom name="Into the Darkness (2021) (CPCRetroDev 2021) (Popcorn Games).dsk" size="204544" crc="b6b70c52" md5="a4a69c6680d31ab5181aee9466c61997" sha1="6fe37132c8892340e7b28fcbfe56fe3ae331e75e" />
 	</game>
+	<game name="Juegue con su Amstrad - Kart 3000 (Es) (1987) (Sygran)">
+		<description>Juegue con su Amstrad - Kart 3000 (Es) (1987) (Sygran)</description>
+		<rom name="Juegue con su Amstrad - Kart 3000 (Es) (1987) (Sygran).dsk" size="194816" crc="3c499ffd" md5="118a8f37ef646c49f2c36c246d0f1496" sha1="39631b5c4dd2fb74aa497686687872f2d2ee2c79" />
+	</game>
+	<game name="Juegue con su Amstrad - Max (Es) (1987) (Sygran)">
+		<description>Juegue con su Amstrad - Max (Es) (1987) (Sygran)</description>
+		<rom name="Juegue con su Amstrad - Max (Es) (1987) (Sygran).dsk" size="194816" crc="5f6274c0" md5="d5ef3efa7653bb4fc6b0f9bdcd66d088" sha1="6928a2c2156b590e3dff248b0080ebe78dd397e7" />
+	</game>
 	<game name="KILLMIL (2021) (OldSchoolAmstrad)">
 		<description>KILLMIL (2021) (OldSchoolAmstrad)</description>
 		<rom name="KILLMIL (2021) (CPCRetroDev 2021) (OldSchoolAmstrad).dsk" size="204544" crc="23133a24" md5="6d96a3b69e940dff3f5b2b473b9497fe" sha1="5fde293605a4601631b73bc1eb998ce99a40b60a" />
+	</game>
+	<game name="Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez)">
+		<description>Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez)</description>
+		<rom name="Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez).dsk" size="204544" crc="38fd5e84" md5="0634b6301b5b111d244c1a506d6444fd" sha1="de87874530a4ad67e378da0d887dad6aa14d4015" />
 	</game>
 	<game name="Last Brew, The (2023) (CPCRetroDev 2023) (Vec)">
 		<description>Last Brew, The (2023) (CPCRetroDev 2023) (Vec)</description>
@@ -236,6 +288,10 @@
 		<description>Mandarin, The (2022) (Mananuk)</description>
 		<rom name="Mandarin, The (2022) (Mananuk).dsk" size="194816" crc="a8497f8f" md5="cc08363a0285f2ccc694f56ee6d2ce71" sha1="77607c51b8207f883ccf40339b54bebd825872cf" />
 	</game>
+	<game name="Mario Bros (2023) (Choice Software)">
+		<description>Mario Bros (2023) (Choice Software)</description>
+		<rom name="Mario Bros (2023) (Choice Software).dsk" size="194816" crc="b4fd078b" md5="0fc2e391910162786987829314a9ec21" sha1="e9a256d2f87cb18835b4c47d6de16c6551d76948" />
+	</game>
 	<game name="Miss Input 2 (2020) (ChupiGames) (En)">
 		<description>Miss Input 2 (2020) (ChupiGames) (En)</description>
 		<rom name="Miss Input 2 (2020) (ChupiGames) (En).dsk" size="204544" crc="ffabf636" md5="09d1c3626e70a31150a93dc3ce4e25a5" sha1="60e4002d2b115ad0875cb7220b006f45c98c7f55" />
@@ -259,6 +315,10 @@
 	<game name="Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)">
 		<description>Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)</description>
 		<rom name="Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0).dsk" size="204544" crc="8084b262" md5="bd6c3d0c91434d45eb509f06f10400df" sha1="4432b4894ed5892da1faf00e8d06f81772970c71" />
+	</game>
+	<game name="MYRAMPOS (UK) (1990) (Martin Korth)">
+		<description>MYRAMPOS (UK) (1990) (Martin Korth)</description>
+		<rom name="MYRAMPOS (UK) (1990) (Martin Korth).dsk" size="194816" crc="ae7b27ea" md5="d523886d32b04ee24f3ded026a550380" sha1="f516f5a959d0fa03c1e7ebdf47c08facb4941473" />
 	</game>
 	<game name="Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio)">
 		<description>Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio)</description>
@@ -307,6 +367,10 @@
 	<game name="Rainbow Wielder (2021) (PyroClastic Software)">
 		<description>Rainbow Wielder (2021) (PyroClastic Software)</description>
 		<rom name="Rainbow Wielder (2021) (CPCRetroDev 2021) (PyroClastic Software).dsk" size="204544" crc="ec27d588" md5="50bf061d5098b1dde33eb5d19d6bf703" sha1="4a27c68593fb312733b38e3fb096e52d021a300a" />
+	</game>
+	<game name="Rebelstar (UK) (1986) (Firebird)">
+		<description>Rebelstar (UK) (1986) (Firebird)</description>
+		<rom name="Rebelstar (UK) (1986) (Firebird).dsk" size="194816" crc="b15eaf9e" md5="25ad40449089fc7e6994f041d24648d2" sha1="0033c8612697de4e40030c89309e8615ecac7a91" />
 	</game>
 	<game name="Red Sunset (v3.0) (2022) (ESP Soft)">
 		<description>Red Sunset (v3.0) (2022) (ESP Soft)</description>
@@ -361,6 +425,10 @@
 		<description>Sim City (1990) (Infogrames) (Newschool Cracking)</description>
 		<rom name="Sim City (1990) (Infogrames) (Newschool Cracking).dsk" size="194816" crc="1c108da3" md5="41be2538f6ebb6a7fde82b57a9299ea4" sha1="7245b1229ef34bc002e2e04317916cde3db933a3" />
 	</game>
+	<game name="Small Games for Smart Minds (2007) (ESP Soft)">
+		<description>Small Games for Smart Minds (2007) (ESP Soft)</description>
+		<rom name="Small Games for Smart Minds (2007) (ESP Soft).dsk" size="194816" crc="0cfa3980" md5="20f7b392931ccbaf77e4399abe637fc3" sha1="9cbf5a7367ec263ff0f0b17011d0cefa11b10289" />
+	</game>
 	<game name="Sorcerers (v1.1) (2020) (Salva Kantero)">
 		<description>Sorcerers (v1.1) (2020) (Salva Kantero)</description>
 		<rom name="Sorcerers (v1.1) (2020) (Salva Kantero).dsk" size="204544" crc="11dbcebe" md5="4aae7b4beb43ec00af5ddff50eb4beb2" sha1="107b5f8d23242ccdd4b9ce17adfed643f9cc39eb" />
@@ -397,6 +465,14 @@
 	<game name="Survive the Week (2021) (Es) (Carlos Pérezgrin)">
 		<description>Survive the Week (2021) (Es) (Carlos Pérezgrin)</description>
 		<rom name="Survive the Week (2021) (CPCRetroDev 2021) (Es) (Carlos Pérezgrin).dsk" size="204544" crc="1a6010aa" md5="663382f1495c1d5df91b913db7f7eef0" sha1="aba65fef8b32292bb0bb3ee6a0c27e7e9198a8e3" />
+	</game>
+	<game name="Todo sobre el Amstrad - 14 - Bugs (1987) (En,Es) (G.T.S. Editorial)">
+		<description>Todo sobre el Amstrad - 14 - Bugs (1987) (En,Es) (G.T.S. Editorial)</description>
+		<rom name="Todo sobre el Amstrad - 14 - Bugs (1987) (En,Es) (G.T.S. Editorial).dsk" size="194816" crc="9caa593e" md5="db0328b0e542502f962c3f8253365d93" sha1="c1dcbb65fd1c9a5909e9cade55c0bd6d5bb04a2c" />
+	</game>
+	<game name="Todo sobre el Amstrad - 15 - Laser (1987) (En,Es) (G.T.S. Editorial)">
+		<description>Todo sobre el Amstrad - 15 - Laser (1987) (En,Es) (G.T.S. Editorial)</description>
+		<rom name="Todo sobre el Amstrad - 15 - Laser (1987) (En,Es) (G.T.S. Editorial).dsk" size="194816" crc="de7c5712" md5="19f2aecdacf501faedb8164f0a3371cd" sha1="0d5213d8f14fcbbca528e608287ecf21c60c19da" />
 	</game>
 	<game name="WhatTheRock (2023) (Createvia)">
 		<description>WhatTheRock (2023) (Createvia)</description>

@@ -31,6 +31,10 @@
 		<description>Amstred (2021) (Ancient World)</description>
 		<rom name="Amstred (2021) (CPCRetroDev 2021) (Ancient World).cdt" size="159739" crc="4bdbb0bd" md5="d7300ac9268c123849efaf5ad3cc8632" sha1="4cc182459c65a58325cf4c323647c94402966033" />
 	</game>
+	<game name="Balkanoid (2023) (CPCRetroDev 2023) (Eduard Andrei Duta, Francisco Wendeburg)">
+		<description>Balkanoid (2023) (CPCRetroDev 2023) (Eduard Andrei Duta, Francisco Wendeburg)</description>
+		<rom name="Balkanoid (2023) (CPCRetroDev 2023) (Eduard Andrei Duta, Francisco Wendeburg).cdt" size="34423" crc="040be936" md5="4c5db9990872daaa5f450374b3d0de2e" sha1="ed9ebd3fee09b79adcf7a0d30043607a98ce8eab" />
+	</game>
 	<game name="Barking Adventure (2021) (capAI)">
 		<description>Barking Adventure (2021) (capAI)</description>
 		<rom name="Barking Adventure (2021) (CPCRetroDev 2021) (capAI).cdt" size="28505" crc="a4f40e73" md5="a4173d7455c49a9894c033ce9508add3" sha1="3cd8aae888b723bf7b00a9449f640cf69b107117" />
@@ -38,6 +42,10 @@
 	<game name="Beach Buggy Simulator (1988) (Firebird) (v4.88)">
 		<description>Beach Buggy Simulator (1988) (Firebird) (v4.88)</description>
 		<rom name="Beach Buggy Simulator (1988) (Firebird) (v4.88).cdt" size="73439" crc="1be27206" md5="bcbdfd52ad28e91b9275fc9a4de5a7ea" sha1="bd59539b9a0a492b5de374f410214070911ec896" />
+	</game>
+	<game name="Brick Rick (2020) (v1.0.1) (reidrac)">
+		<description>Brick Rick (2020) (v1.0.1) (reidrac)</description>
+		<rom name="Brick Rick (2020) (v1.0.1) (reidrac).cdt" size="19071" crc="87b42465" md5="84e0ff8d62ce2c8e9638a345d808cf08" sha1="278820c192df521e07a2c5620950363b9359b474" />
 	</game>
 	<game name="Capeture, The (2021) (Cyb3r Apes)">
 		<description>Capeture, The (2021) (Cyb3r Apes)</description>
@@ -62,6 +70,10 @@
 	<game name="Cult, The (Es) (2023) (64K) (Tartessos Games)">
 		<description>Cult, The (Es) (2023) (64K) (Tartessos Games)</description>
 		<rom name="Cult, The (Es) (2023) (64K) (Tartessos Games).cdt" size="20633" crc="9ba4e265" md5="7921a89eebb36bb5185131e75dab6be3" sha1="f97c68855c22a1a1e68086b72fa16730a989ff4a" />
+	</game>
+	<game name="Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)">
+		<description>Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)</description>
+		<rom name="Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez).cdt" size="38893" crc="4b1211ab" md5="8c69dd52d72f3d4887946a9429242a7b" sha1="aeecf2f866afc21573a5e0fa6ce0130f5ed249ec" />
 	</game>
 	<game name="DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird)">
 		<description>DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird)</description>
@@ -115,6 +127,10 @@
 		<description>Galactic Tomb (2022) (ESP Soft) (Side B)</description>
 		<rom name="Galactic Tomb (2022) (ESP Soft) (Side B).cdt" size="81489" crc="87872a36" md5="fe9ac683006e6c6aa9ac069ebe24712c" sha1="06f4e2b2db62fdd6bad6cddf71b5a42261accde8" />
 	</game>
+	<game name="Galastrad (2024) (v1.02) (AYOR61)">
+		<description>Galastrad (2024) (v1.02) (AYOR61)</description>
+		<rom name="Galastrad (2024) (v1.02) (AYOR61).cdt" size="53854" crc="c844c1a9" md5="d9058d93fe92e3ada0cc436e14220001" sha1="ada53d415d5c32d697d1fedec8d8d5f298909f92" />
+	</game>
 	<game name="Get Out of My Store! (2021) (PyroBombastic Games)">
 		<description>Get Out of My Store! (2021) (PyroBombastic Games)</description>
 		<rom name="Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games).cdt" size="42886" crc="5a2a71cd" md5="907d7ea047c09bd9a6630f69c2033932" sha1="9d15fe59728186359a2dde7e0c306a0ee9cfa7dd" />
@@ -130,6 +146,10 @@
 	<game name="KILLMIL (2021) (OldSchoolAmstrad)">
 		<description>KILLMIL (2021) (OldSchoolAmstrad)</description>
 		<rom name="KILLMIL (2021) (CPCRetroDev 2021) (OldSchoolAmstrad).cdt" size="38404" crc="62a634fd" md5="27caee6399b613461df66128a6d3450d" sha1="036692d1325881d88da6255b230ea5486f3445cf" />
+	</game>
+	<game name="Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez)">
+		<description>Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez)</description>
+		<rom name="Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez).cdt" size="26225" crc="b656caa9" md5="150ddd0a99231097f579420dc8591ff4" sha1="3e287c4c31d1fb90a911c8941461a657999056c9" />
 	</game>
 	<game name="Last Fungus, The (2021) (Ocacho Games)">
 		<description>Last Fungus, The (2021) (Ocacho Games)</description>
@@ -189,6 +209,10 @@
 	<game name="Shinobu (2020) (v20201006) (RubenRubioM)">
 		<description>Shinobu (2020) (v20201006) (RubenRubioM)</description>
 		<rom name="Shinobu (2020) (v20201006) (RubenRubioM).cdt" size="39447" crc="1d2d7b5a" md5="2baba6bfdc680f0c9b9d2e78feef9771" sha1="85d9b8658b7abc0c79a5c5e5a149e2784089616d" />
+	</game>
+	<game name="Small Games for Smart Minds (2007) (ESP Soft)">
+		<description>Small Games for Smart Minds (2007) (ESP Soft)</description>
+		<rom name="Small Games for Smart Minds (2007) (ESP Soft).cdt" size="33108" crc="24def383" md5="e7c654c1d6b5ffd39928610aa212cb94" sha1="d6869fa3d6eb2b33b3be77dfec4b55059b4c130e" />
 	</game>
 	<game name="Sorcerers (v1.1) (2020) (Salva Kantero)">
 		<description>Sorcerers (v1.1) (2020) (Salva Kantero)</description>
