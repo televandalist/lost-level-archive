@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>043</id>
+		<name>043 - Lost Level Archive - Panasonic - 3DO Interactive Multiplayer</name>
+		<description>Panasonic - 3DO Interactive Multiplayer</description>
+		<version>v20250402</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola)" cloneof="Battle Blues (Korea)">
+		<description>Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola)</description>
+		<rom name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola).bin" size="556662784" crc="0B719E72" md5="938E70E4B336531A66CC464537591DF6" sha1="887AD58F98BF09DF8CA7B6415D01B2B5BAA2BF89"/>
+		<rom name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola).cue" size="115" crc="3CB951FD" md5="4891D7F33BD9118F57AEB4D639ACED8F" sha1="DF1D07F731CEA9213289ACC3D43FE32476DD6DE5"/>
+	</game>
+	<game name="Bizarro Untergrund (USA) (v1.0.0) (Aftermarket) (Optimus6128)">
+		<description>Bizarro Untergrund (USA) (v1.0.0) (Aftermarket) (Optimus6128)</description>
+		<rom name="Bizarro Untergrund (USA) (v1.0.0) (Aftermarket) (Optimus6128).iso" size="74678272" crc="e6775345" md5="473d000454ff70eae8fd3ae0a627d03e" sha1="ced6b79de2354d4caa71866490e25938d4517f24" />
+	</game>
+	<game name="Bizarro Untergrund (USA) (v1.0.1) (Aftermarket) (Optimus6128)">
+		<description>Bizarro Untergrund (USA) (v1.0.1) (Aftermarket) (Optimus6128)</description>
+		<rom name="Bizarro Untergrund (USA) (v1.0.1) (Aftermarket) (Optimus6128).iso" size="74711040" crc="ee6c457e" md5="cad74e7dcaf02fc68f8745be91a3f3dd" sha1="f10cdd0849547aef7e04b832804cfcce075c04f8" />
+	</game>
+	<game name="Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter)">
+		<description>Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter)</description>
+		<rom name="Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter).iso" size="4030464" crc="d2d2fbaf" md5="0204286b4659a7de0a9ac9dd37a394fa" sha1="d21203a11444bd3eb07522737f61fc8a36e46f2a" />
+	</game>
+</datafile>

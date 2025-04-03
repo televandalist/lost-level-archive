@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -223,6 +223,10 @@
 		<description>Libbet and the Magic Floor GB (World) (v0.08) (Aftermarket) (Unl)</description>
 		<rom name="Libbet and the Magic Floor GB (World) (v0.08) (Aftermarket) (Unl).gb" size="32768" crc="7a9dea01" md5="ce9716a3a431f9722d58d30947f26921" sha1="bc173e97e0f9509051de84b33b0ce9ee3184e04e" />
 	</game>
+	<game name="Life is 2-D - Episode 1 - Chrysalis (World) (v20200120) (Aftermarket) (lifeis2d)">
+		<description>Life is 2-D - Episode 1 - Chrysalis (World) (v20200120) (Aftermarket) (lifeis2d)</description>
+		<rom name="Life is 2-D - Episode 1 - Chrysalis (World) (v20200120) (Aftermarket) (lifeis2d).gb" size="1048576" crc="be3d7455" md5="39348f34676a08db71c74a7d44f0aa6f" sha1="2375681cd26e032ee9c9e12fd486fd00e9477ee0" />
+	</game>
 	<game name="Logic Island (World) (v2.1) (Aftermarket) (Unl)">
 		<description>Logic Island (World) (v2.1) (Aftermarket) (Unl)</description>
 		<rom name="Logic Island (World) (v2.1) (Aftermarket) (Unl).gb" size="32768" crc="f7334dd8" md5="29ea5f06ac497d805bd686bf948c9d81" sha1="79732b7f8f87be3db152b4cfa1e5248e4f5213d1" />
@@ -254,6 +258,10 @@
 	<game name="Nasferatu's Revenge (World) (Aftermarket) (GB Studio)">
 		<description>Nasferatu's Revenge (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Nasferatu's Revenge (World) (Aftermarket) (GB Studio).gb" size="524288" crc="01a7c8e1" md5="3e519953594c77f84a81ebc07007bfa2" sha1="35e9d7329ab8bed93ea781e76a8a05fc53a5033c" />
+	</game>
+	<game name="New Adventures of Sonic the Hedgehog, The (World) (v1.0) (Aftermarket) (GB Studio)">
+		<description>New Adventures of Sonic the Hedgehog, The (World) (v1.0) (Aftermarket) (GB Studio)</description>
+		<rom name="New Adventures of Sonic the Hedgehog, The (World) (v1.0) (Aftermarket) (GB Studio).gb" size="524288" crc="d2f8a25f" md5="ebb4915a6897804a2cbf72cd7f60d4f5" sha1="f82dbfe7282050d96df3a9c561f77c033bbc16cb" />
 	</game>
 	<game name="Night of the Shy Guy (World) (Aftermarket) (GB Studio)">
 		<description>Night of the Shy Guy (World) (Aftermarket) (GB Studio)</description>
@@ -335,6 +343,10 @@
 		<description>Rex Run (World) (Aftermarket) (Unl)</description>
 		<rom name="Rex Run (World) (Aftermarket) (Unl).gb" size="32768" crc="032F41FE" md5="41EAB5D6F3D462B9E6A933A4C47BC61D" sha1="ACFF59AE88FBD285623714746DF585ACA735C343"/>
 	</game>
+	<game name="San Andreas on the Go (World) (v20220107) (Aftermarket) (bacalhau_seco)">
+		<description>San Andreas on the Go (World) (v20220107) (Aftermarket) (bacalhau_seco)</description>
+		<rom name="San Andreas on the Go (World) (v20220107) (Aftermarket) (bacalhau_seco).gb" size="131072" crc="c1b80a22" md5="b5ea2f62761566b1e088f97e32d272dd" sha1="012ae848bfb93817b17f3470b19c262f1365ebbd" />
+	</game>
 	<game name="Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl)">
 		<description>Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl)</description>
 		<rom name="Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl).gb" size="524288" crc="5FD53151" md5="6762619D05C36252B1DDFB67230F52F0" sha1="73CB2330F9B58A324A41F6AA85B53AB8CC946AFC"/>
@@ -370,6 +382,10 @@
 	<game name="Surfer Bunny (World) (Aftermarket) (GB Studio)">
 		<description>Surfer Bunny (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Surfer Bunny (World) (Aftermarket) (GB Studio).gb" size="131072" crc="68100a9e" md5="32531d617b9031645cddb629fbfd0117" sha1="c28dcd6e8934118c874159cb9ba61dc70515d18d" />
+	</game>
+	<game name="Time to Unwind (World) (v1.0) (Aftermarket) (GB Studio)">
+		<description>Time to Unwind (World) (v1.0) (Aftermarket) (GB Studio)</description>
+		<rom name="Time to Unwind (World) (v1.0) (Aftermarket) (GB Studio).gb" size="1048576" crc="179a156b" md5="e5006cdd137f6fc0f3dd4d321e543055" sha1="cd5e9530334a3b365b43ae80367d63842b22c81a" />
 	</game>
 	<game name="Tobu Tobu Bozu (World) (v2022-05-23) (Aftermarket) (Unl)">
 		<description>Tobu Tobu Bozu (World) (v2022-05-23) (Aftermarket) (Unl)</description>

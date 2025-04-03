@@ -5,7 +5,7 @@
 		<id>045</id>
 		<name>045 - Lost Level Archive - Mattel - Intellivision</name>
 		<description>Mattel - Intellivision</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -34,6 +34,10 @@
 	<game name="Maria (World) (Aftermarket) (Unl)">
 		<description>Maria (World) (Aftermarket) (Unl)</description>
 		<rom name="Maria (World) (Aftermarket) (Unl).int" size="84560" crc="0905ce31" md5="88db0fa3d2194e4133fd67b6e21cd6f2" sha1="ee5cca979324934ac7582afd608a71c7489b472e" />
+	</game>
+	<game name="Pac-Man (1983) (Atarisoft)">
+		<description>Pac-Man (1983) (Atarisoft)</description>
+		<rom name="Pac-Man (1983) (Atarisoft).int" size="24576" crc="a21c31c3" md5="34b9e686aee6f418d431a2f9a5a5c0cb" sha1="66ddc9c56edee06564c1252c7c6bc3123da8c31d" />
 	</game>
 	<game name="Princess Quest (World) (Aftermarket) (Unl)">
 		<description>Princess Quest (World) (Aftermarket) (Unl)</description>

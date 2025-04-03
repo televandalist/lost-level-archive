@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -26,6 +26,22 @@
 	<game name="Asterix (Europe) (CX2696)">
 		<description>Asterix (Europe) (CX2696)</description>
 		<rom name="Asterix (Europe) (CX2696).a26" size="8192" crc="2e3deb79" md5="faebcb2ef1f3831b2fc1dbd39d36517c" sha1="ff31d885ea3d96850547fdb8978d12d0965a2c1f" />
+	</game>
+	<game name="Baby (NTSC) (Demo) (Aftermarket) (RobsomeStudios)">
+		<description>Baby (NTSC) (Demo) (Aftermarket) (RobsomeStudios)</description>
+		<rom name="Baby (NTSC) (Demo) (Aftermarket) (RobsomeStudios).a26" size="4096" crc="0d43ea80" md5="52c7094713594ca0d7a345cfd4ca6929" sha1="624dc2dd2bb79851ee19a15c3d6a5e9ec560e8e3" />
+	</game>
+	<game name="Baby (NTSC) (v1.0) (Aftermarket) (RobsomeStudios)">
+		<description>Baby (NTSC) (v1.0) (Aftermarket) (RobsomeStudios)</description>
+		<rom name="Baby (NTSC) (v1.0) (Aftermarket) (RobsomeStudios).a26" size="4096" crc="0d43ea80" md5="52c7094713594ca0d7a345cfd4ca6929" sha1="624dc2dd2bb79851ee19a15c3d6a5e9ec560e8e3" />
+	</game>
+	<game name="Baby (NTSC) (v2.0) (Aftermarket) (RobsomeStudios)">
+		<description>Baby (NTSC) (v2.0) (Aftermarket) (RobsomeStudios)</description>
+		<rom name="Baby (NTSC) (v2.0) (Aftermarket) (RobsomeStudios).a26" size="4096" crc="bd1f26a0" md5="3488a709f614aaa4dc670e5e577cb92a" sha1="a71d4e731cc3833535c10df0db603ba2e5ca7b42" />
+	</game>
+	<game name="Baby (NTSC) (v3.0) (Aftermarket) (RobsomeStudios)">
+		<description>Baby (NTSC) (v3.0) (Aftermarket) (RobsomeStudios)</description>
+		<rom name="Baby (NTSC) (v3.0) (Aftermarket) (RobsomeStudios).a26" size="4096" crc="bffe982e" md5="795bafe9e9f4ea7a5d2c34c1a4fea992" sha1="e4fd953bb42de4906586222e4a622f369e9c5d58" />
 	</game>
 	<game name="Birds and Beans (NTSC) (Aftermarket) (Unl) (Bluswimmer)">
 		<description>Birds and Beans (NTSC) (Aftermarket) (Unl) (Bluswimmer)</description>
@@ -131,6 +147,10 @@
 		<description>Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway)</description>
 		<rom name="Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway).a26" size="32768" crc="9158b4ed" md5="c74ddb744209a92382616e2fa38d1378" sha1="c2fd4bf592d2c1948d4cba02da7980f1df8751f4" />
 	</game>
+	<game name="Meteor Fall (NTSC) (Aftermarket) (lucascm)">
+		<description>Meteor Fall (NTSC) (Aftermarket) (lucascm)</description>
+		<rom name="Meteor Fall (NTSC) (Aftermarket) (lucascm).a26" size="4096" crc="70249a4d" md5="cd45895074b3579b2a923bb84143cabe" sha1="19cc10b08963db7b9798e00a82b4ae27c1a951a7" />
+	</game>
 	<game name="Myst (VCS) (USA) (Aftermarket) (Unl)">
 		<description>Myst (VCS) (USA) (Aftermarket) (Unl)</description>
 		<rom name="Myst (VCS) (USA) (Aftermarket) (Unl).e7" size="16384" crc="4f2aba5b" md5="ac8b54d6994ae6c799687cdc37e393c2" sha1="bb8d1cd1648080cfdaef2f6ab38700aef0bfc3d1" />
@@ -138,6 +158,18 @@
 	<game name="Nemo in Sea (USA) (Aftermarket) (Unl)">
 		<description>Nemo in Sea (USA) (Aftermarket) (Unl)</description>
 		<rom name="Nemo in Sea (USA) (Aftermarket) (Unl).a26" size="16384" crc="b85c58a5" md5="0a1eb409f15d6da08a7a11be6b4948fe" sha1="942a65f9b1fa977422b3f394e263263ddc866d20" />
+	</game>
+	<game name="Night Watch at Wilford's (NTSC) (Aftermarket) (PixRuss)">
+		<description>Night Watch at Wilford's (NTSC) (Aftermarket) (PixRuss)</description>
+		<rom name="Night Watch at Wilford's (NTSC) (Aftermarket) (PixRuss).a26" size="16384" crc="4fd76c4d" md5="1c11a231ef51cd45075d9c3c30c9621a" sha1="53d30e5f3805eec497010a3077722e3a697439a8" />
+	</game>
+	<game name="Night Watch at Wilford's (PAL50) (Aftermarket) (PixRuss)">
+		<description>Night Watch at Wilford's (PAL50) (Aftermarket) (PixRuss)</description>
+		<rom name="Night Watch at Wilford's (PAL50) (Aftermarket) (PixRuss).a26" size="16384" crc="92e7e284" md5="3af953e8acd017bb853384dcf519452a" sha1="beffc78b83926868d1e2590fbbd8cd5ba08c118c" />
+	</game>
+	<game name="Night Watch at Wilford's (PAL60) (Aftermarket) (PixRuss)">
+		<description>Night Watch at Wilford's (PAL60) (Aftermarket) (PixRuss)</description>
+		<rom name="Night Watch at Wilford's (PAL60) (Aftermarket) (PixRuss).a26" size="16384" crc="33922477" md5="853e40eb948d72295ec9435378453806" sha1="24e71da2109686ce6360bf4ad4f293a5089b9692" />
 	</game>
 	<game name="Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Unl) (Dennis Debro)">
 		<description>Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Unl) (Dennis Debro)</description>
@@ -187,6 +219,10 @@
 		<description>Snake (Rick Skrbina) (USA) (Aftermarket) (Unl)</description>
 		<rom name="Snake (Rick Skrbina) (USA) (Aftermarket) (Unl).a26" size="4096" crc="5c0b7e5f" md5="bd81069d0945f26d7ff753767208c305" sha1="5c41c48869aa4b64111a24011589be33e7f73ade" />
 	</game>
+	<game name="Space Barricade (NTSC) (Aftermarket) (lott72)">
+		<description>Space Barricade (NTSC) (Aftermarket) (lott72)</description>
+		<rom name="Space Barricade (NTSC) (Aftermarket) (lott72).a26" size="4096" crc="300a15ee" md5="c09aeadc68448329b9e21f47e9872dc6" sha1="1383096dda44d68a7c4d381eb8d1d12b2db0e0e4" />
+	</game>
 	<game name="Spies in the Night (NTSC) (Aftermarket) (Unl) (Jared Gray West)">
 		<description>Spies in the Night (NTSC) (Aftermarket) (Unl) (Jared Gray West)</description>
 		<rom name="Spies in the Night (NTSC) (Aftermarket) (Unl) (Jared Gray West).a26" size="8192" crc="6209531c" md5="aecdc8da1d67ad5fd520582750e19938" sha1="934b652be776f37b597e94675b9609fd9b711960" />
@@ -223,9 +259,13 @@
 		<description>Touhou (USA) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Touhou (USA) (Demo) (Aftermarket) (Unl).a26" size="4096" crc="0c0a6fbc" md5="494af1350a71d7de6661dac265dbbd82" sha1="39cd9520a140ff9f58098dd9ac2cfcae294f30b4" />
 	</game>
-	<game name="Trashmania - Remix (USA) (Aftermarket) (Unl)">
-		<description>Trashmania - Remix (USA) (Aftermarket) (Unl)</description>
-		<rom name="Trashmania - Remix (USA) (Aftermarket) (Unl).a26" size="8192" crc="500d653c" md5="24d468d81ac91c521d01c05904dcad95" sha1="6336696c648474bf449537defa747980ce9de863" />
+	<game name="Trashmania - Classic (NTSC) (Aftermarket) (Jennifer Raye)">
+		<description>Trashmania - Classic (NTSC) (Aftermarket) (Jennifer Raye)</description>
+		<rom name="Trashmania - Classic (NTSC) (Aftermarket) (Jennifer Raye).a26" size="4096" crc="b820f5d2" md5="13db98daa9842a0ba0db1bbc2d4e9e9d" sha1="163e196001d4724188c6af2ff730c284418f03b7" />
+	</game>
+	<game name="Trashmania - Remix (NTSC) (Aftermarket) (Jennifer Raye)">
+		<description>Trashmania - Remix (NTSC) (Aftermarket) (Jennifer Raye)</description>
+		<rom name="Trashmania - Remix (NTSC) (Aftermarket) (Jennifer Raye).a26" size="8192" crc="500d653c" md5="24d468d81ac91c521d01c05904dcad95" sha1="6336696c648474bf449537defa747980ce9de863" />
 	</game>
 	<game name="Video Simon (NTSC) (Aftermarket) (Unl) (Mark De Smet)">
 		<description>Video Simon (NTSC) (Aftermarket) (Unl) (Mark De Smet)</description>

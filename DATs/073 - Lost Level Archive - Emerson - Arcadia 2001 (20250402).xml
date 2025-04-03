@@ -5,7 +5,7 @@
 		<id>073</id>
 		<name>073 - Lost Level Archive - Emerson - Arcadia 2001</name>
 		<description>Emerson - Arcadia 2001</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
@@ -21,5 +21,17 @@
 	<game name="Combat (USA, Europe)">
 		<description>Combat (USA, Europe)</description>
 		<rom name="Combat (USA, Europe).bin" size="4096" crc="a6bffa9e" md5="0685c7d2a7b5139992d126419de76daf" sha1="87addcdd0fccb5f36066f21938458235d5a37bd0" />
+	</game>
+	<game name="Doraemon (Japan) (1983) (Bandai)">
+		<description>Doraemon (Japan) (1983) (Bandai)</description>
+		<rom name="Doraemon (Japan) (1983) (Bandai).bin" size="8192" crc="62c45881" md5="2938509d9c2a2316b460b2a617581771" sha1="a16fda96d00c8b08bb362f2573a45939aa6be051" />
+	</game>
+	<game name="JTron (World) (2003) (Amigan Software)">
+		<description>JTron (World) (2003) (Amigan Software)</description>
+		<rom name="JTron (World) (2003) (Amigan Software).bin" size="2048" crc="a768c764" md5="906040af349e793bae5b062f3074e71e" sha1="9f6ace424cfbba87eaf06c165fa561099f8d8634" />
+	</game>
+	<game name="Tetris (Austria) (2003) (Peter Trauner)">
+		<description>Tetris (Austria) (2003) (Peter Trauner)</description>
+		<rom name="Tetris (Austria) (2003) (Peter Trauner).bin" size="4096" crc="296c8465" md5="69cf3728f7db96c311bc8b3b8917baff" sha1="ee910ce4753986989ac44fc9ead97920f14d1571" />
 	</game>
 </datafile>

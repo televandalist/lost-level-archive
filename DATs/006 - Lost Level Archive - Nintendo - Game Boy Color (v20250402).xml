@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -51,6 +51,10 @@
 		<description>Combo Fishing (World) (Aftermarket) (Unl)</description>
 		<rom name="Combo Fishing (World) (Aftermarket) (Unl).gbc" size="524288" crc="5c307010" md5="029cd8ae6b130b91918597239464cc35" sha1="61217782f0947a6c947c8a12eff12a8b9ce6d120" />
 	</game>
+	<game name="Connect All the Bots (World) (v20220619) (allalonegamez)">
+		<description>Connect All the Bots (World) (v20220619) (allalonegamez)</description>
+		<rom name="Connect All the Bots (World) (v20220619) (allalonegamez).gbc" size="262144" crc="2af4f738" md5="322d262c6c7d3c18dc2ea91ad65be08e" sha1="a5b592adf3a6d68853708e53bd4bb74bcf40be5d" />
+	</game>
 	<game name="Consume (World) (Aftermarket) (GB Studio)">
 		<description>Consume (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Consume (World) (Aftermarket) (GB Studio).gbc" size="2097152" crc="8caff077" md5="143dfbbdfa9b188684d0837692df581d" sha1="99608d5b8282be899c952ed7433164e40440acc0" />
@@ -91,6 +95,10 @@
 		<description>Geometrix (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Geometrix (World) (v1.0) (Aftermarket) (Unl).gbc" size="32768" crc="36ddbadd" md5="04438a4b074a8b4f8ea00619cae1d7f7" sha1="634abc5f16ccc20696d428457dd3f9b7249c0942" />
 	</game>
+	<game name="Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios)">
+		<description>Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios)</description>
+		<rom name="Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios).gbc" size="131072" crc="2bc7966a" md5="bdb05d090a09740ae2c176b218b9fb8e" sha1="3fb6e11f707e0a3f768245e789897532b6fe79be" />
+	</game>
 	<game name="Grand Battle Stadium (World) (v0.2.1) (GB Comp 2021) (Aftermarket) (GB Studio)">
 		<description>Grand Battle Stadium (World) (v0.2.1) (GB Comp 2021) (Aftermarket) (GB Studio)</description>
 		<rom name="Grand Battle Stadium (World) (v0.2.1) (GB Comp 2021) (Aftermarket) (GB Studio).gbc" size="1048576" crc="d9515abf" md5="5c078d0d969c6f05ff4526c44dae0ac3" sha1="f65f2af36430a401ce03212f835242a3e77e36ba" />
@@ -114,6 +122,10 @@
 	<game name="Inventory Full (World) (v1.0.3) (Aftermarket) (Unl)">
 		<description>Inventory Full (World) (v1.0.3) (Aftermarket) (Unl)</description>
 		<rom name="Inventory Full (World) (v1.0.3) (Aftermarket) (Unl).gbc" size="524288" crc="36174683" md5="e9bf8b6977020c869dc5f2d3304961c2" sha1="ff5fc33f6009a8819c6cbde00174c074aab3ecef" />
+	</game>
+	<game name="Jayro's Keys (World) (v1.1) (Aftermarket) (Jayro Jones)">
+		<description>Jayro's Keys (World) (v1.1) (Aftermarket) (Jayro Jones)</description>
+		<rom name="Jayro's Keys (World) (v1.1) (Aftermarket) (Jayro Jones).gbc" size="131072" crc="8bc08db4" md5="6ee378cde01d68d732684c5d10fe8c41" sha1="db1aeb16a912d4601e3dbadfe110dcaf8429d14f" />
 	</game>
 	<game name="Jet Set Willy (World) (WLS) (Aftermarket) (GB Studio)">
 		<description>Jet Set Willy (World) (WLS) (Aftermarket) (GB Studio)</description>

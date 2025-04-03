@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>056</id>
+		<name>056 - Lost Level Archive - SNK - Neo Geo CD</name>
+		<description>SNK - Neo Geo CD</description>
+		<version>v20250402</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon)">
+		<description>Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon)</description>
+		<rom name="Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon).bin" size="2648352" crc="a90e5870" md5="9da3fd57be1d082bcd556fc347a6d716" sha1="c6bb438240a5e334628e16ea6a932491c00a24af" />
+		<rom name="Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon).cue" size="135" crc="1fd48e62" md5="a2d78635a774697a538108d6460a9938" sha1="a28456376a693aa652fcd0d3e7a08d5b6b700d14" />
+		<rom name="Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon).iso" size="2306048" crc="f48a2d13" md5="8cc5a2a797667e28d3046c63b4e367c4" sha1="332ac959eb7024961cc2344a169a1666e0561229" />
+	</game>
+	<game name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman)">
+		<description>Shinobi (World) (v1.0) (Aftermarket) (Hoffman)</description>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 1).bin" size="3379824" crc="4494c53e" md5="84d2108cc683378b04a4cd7a1ba5b562" sha1="8117a2e3aadddb435f2db8adef9078094d87b48f" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 2).wav" size="38208664" crc="01c4bcc9" md5="547a7cad783ecab76164a7140fa8923d" sha1="28b81460bb9fb0654848425e9975e34b0345696b" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 3).wav" size="37766466" crc="cb2360d3" md5="cbeb08a08722b16a0286fd5b57e43418" sha1="1d33c21a1a039eac733555c9c7d2dc521b1289a3" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 4).wav" size="37636566" crc="6bcde1a1" md5="81f33df058d3127d2bf7b5c36b370037" sha1="88b753a170d591b7c279250e7356d0c1f7626769" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 5).wav" size="38182890" crc="f6456b49" md5="4a0a023288f0214718478fe75510a108" sha1="31b0bcedfa854b6ba0f29d14c2c3acb7efc0f9d6" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 6).wav" size="39670190" crc="387ade76" md5="a703f9ddcf95ae234bc16a4f0dcaf4c8" sha1="e3a098cb0386463f2fcf2f54cea0d016bccf3ad0" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 7).wav" size="39542450" crc="cfc12765" md5="1a5f460677fc359ee3457283dd8d952a" sha1="901bec4cef1b848f34b26ba269129368a9729a05" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 8).wav" size="18483482" crc="7a018043" md5="ebb2b2e43ae58ee0ee25833ac1c1abe9" sha1="18b276479d297ec77a3af6f500d48813f2174b9c" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 9).wav" size="5450646" crc="e22f622f" md5="e36cc50cbedc784633e943925c297f75" sha1="44fc196a5401f81019c1349acee2ed0eab212a9a" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 10).wav" size="28651464" crc="9a284eb7" md5="97431a62ce3ea90936d301887a215069" sha1="4ee6e5c96d10f90634a8951e18f6d948be2fbd1a" />
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman).cue" size="1364" crc="55d6bbc2" md5="287932aeba8a7479ac562ee7111c7a52" sha1="d2947a95cb7db0b6a1147d3897ebc1b1b8d90445" />
+	</game>
+	<game name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman)">
+		<description>Shinobi (World) (v1.1) (Aftermarket) (Hoffman)</description>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 1).bin" size="3379824" crc="2dd7edf9" md5="5fd77983f3cb0909e67c26f80bd9b642" sha1="363ea94f8af260d1ed9bd47de2e4c2ff6cd2ce26" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 2).wav" size="38208664" crc="01c4bcc9" md5="547a7cad783ecab76164a7140fa8923d" sha1="28b81460bb9fb0654848425e9975e34b0345696b" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 3).wav" size="37766466" crc="cb2360d3" md5="cbeb08a08722b16a0286fd5b57e43418" sha1="1d33c21a1a039eac733555c9c7d2dc521b1289a3" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 4).wav" size="37636566" crc="6bcde1a1" md5="81f33df058d3127d2bf7b5c36b370037" sha1="88b753a170d591b7c279250e7356d0c1f7626769" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 5).wav" size="38182890" crc="f6456b49" md5="4a0a023288f0214718478fe75510a108" sha1="31b0bcedfa854b6ba0f29d14c2c3acb7efc0f9d6" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 6).wav" size="39670190" crc="387ade76" md5="a703f9ddcf95ae234bc16a4f0dcaf4c8" sha1="e3a098cb0386463f2fcf2f54cea0d016bccf3ad0" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 7).wav" size="39542450" crc="cfc12765" md5="1a5f460677fc359ee3457283dd8d952a" sha1="901bec4cef1b848f34b26ba269129368a9729a05" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 8).wav" size="18483482" crc="7a018043" md5="ebb2b2e43ae58ee0ee25833ac1c1abe9" sha1="18b276479d297ec77a3af6f500d48813f2174b9c" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 9).wav" size="5450646" crc="e22f622f" md5="e36cc50cbedc784633e943925c297f75" sha1="44fc196a5401f81019c1349acee2ed0eab212a9a" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 10).wav" size="28651464" crc="9a284eb7" md5="97431a62ce3ea90936d301887a215069" sha1="4ee6e5c96d10f90634a8951e18f6d948be2fbd1a" />
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman).cue" size="1364" crc="3f49d77e" md5="8c2675ec040ba57d7001bec24ba8f58b" sha1="a0b208e9f4713768071cc96d9816e5017dbe75a2" />
+	</game>
+</datafile>

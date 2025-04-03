@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX</name>
 		<description>Microsoft - MSX</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -43,6 +43,10 @@
 		<description>PAC-01 (2021) (ARC8)</description>
 		<rom name="PAC-01 (2021) (ARC8).rom" size="32768" crc="c22e6f4f" md5="2f8f2935031e27c753e3d45f77994c3a" sha1="623bcc57d6ac6aaa18f2e374ce32b482f5d7894b" />
 	</game>
+	<game name="Pinball (2021) (Kotai)">
+		<description>Pinball (2021) (Kotai)</description>
+		<rom name="Pinball (2021) (Kotai).dsk" size="737280" crc="bf12a95b" md5="021747237ceaf61a578de2bb12772ae9" sha1="030af859ba9b0ccfe1409b34b2fc61d566eb4acd" />
+	</game>
 	<game name="Pornoman (19xx) (Knight Software)">
 		<description>Pornoman (19xx) (Knight Software)</description>
 		<rom name="Pornoman (19xx) (Knight Software).rom" size="737280" crc="6c9d3977" md5="9e016a6f8743655eacc8e22e96d95c4e" sha1="98266bd9ff2155e8e013ff24d39712d21bdb495c" />
@@ -62,5 +66,9 @@
 	<game name="Super Mario World (2016) (Noramos)">
 		<description>Super Mario World (2016) (Noramos)</description>
 		<rom name="Super Mario World (2016) (Noramos).rom" size="1335296" crc="9d90c0a6" md5="da28da0bb524bd0072e10b2799a88a75" sha1="77b37d7028d5f657239eb24f0c16097a6e183f8d" />
+	</game>
+	<game name="Volleyring (2021) (Nick Shcherbyna)">
+		<description>Volleyring (2021) (Nick Shcherbyna)</description>
+		<rom name="Volleyring (2021) (Nick Shcherbyna).dsk" size="737280" crc="ae6ce0c3" md5="033c9cf8fe0d07f3c5abb43f89908a50" sha1="ac3144dd14c75ac13ec0bd33cf2c31512f26423a" />
 	</game>
 </datafile>

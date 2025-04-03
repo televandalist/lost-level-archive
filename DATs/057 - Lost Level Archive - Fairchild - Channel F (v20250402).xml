@@ -5,7 +5,7 @@
 		<id>057</id>
 		<name>057 - Lost Level Archive - Fairchild - Channel F</name>
 		<description>Fairchild - Channel F</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -42,6 +42,10 @@
 	<game name="Shark (USA) (Aftermarket) (Unl)">
 		<description>Shark (USA) (Aftermarket) (Unl)</description>
 		<rom name="Shark (USA) (Aftermarket) (Unl).bin" size="3072" crc="e4bd59a1" md5="3f101828e1e64235a673f337addb3952" sha1="65a529a63407c7bc467af445af851207600f73be" />
+	</game>
+	<game name="Space Race (USA) (v2023) (Aftermarket) (MikeBloke)">
+		<description>Space Race (USA) (v2023) (Aftermarket) (MikeBloke)</description>
+		<rom name="Space Race (USA) (v2023) (Aftermarket) (MikeBloke).bin" size="4094" crc="55a76115" md5="b604104cacfda30315b60b00b3ca5ade" sha1="c6faa060ce3483f885205f9e1c070c5193712435" />
 	</game>
 	<game name="Speed Race (Directional Controls) (USA) (Aftermarket) (Unl)">
 		<description>Speed Race (Directional Controls) (USA) (Aftermarket) (Unl)</description>

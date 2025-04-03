@@ -5,7 +5,7 @@
 		<id>047</id>
 		<name>047 - Lost Level Archive - NEC - PC-8801</name>
 		<description>NEC - PC-8801</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,6 +14,10 @@
 	<game name="Ascend (2022) (Inufuto)">
 		<description>Ascend (2022) (Inufuto)</description>
 		<rom name="Ascend (2022) (Inufuto).d88" size="348848" crc="aada6f57" md5="5def00835e061a54fe6d1fa2d5a8d2b0" sha1="4a2b0196b8c45f78b496434b58d49dfac8475538" />
+	</game>
+	<game name="Hachinoid (v1.0.1) (2021) (bent)">
+		<description>Hachinoid (v1.0.1) (2021) (bent)</description>
+		<rom name="Hachinoid (v1.0.1) (2021) (bent).d88" size="348848" crc="ad308a68" md5="249870e7657a87a5d0e6256c5c43418a" sha1="8f3e70c49c098c73c23ac7256ec332905da47d2e" />
 	</game>
 	<game name="Hopman (2023) (Inufuto)">
 		<description>Hopman (2023) (Inufuto)</description>

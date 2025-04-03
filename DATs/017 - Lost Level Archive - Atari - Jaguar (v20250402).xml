@@ -5,7 +5,7 @@
 		<id>017</id>
 		<name>017 - Lost Level Archive - Atari - Jaguar</name>
 		<description>Atari - Jaguar</description>
-		<version>v20250325</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -18,5 +18,13 @@
 	<game name="Black Out! (World) (Aftermarket) (Unl)">
 		<description>Black Out! (World) (Aftermarket) (Unl)</description>
 		<rom name="Black Out! (World) (Aftermarket) (Unl).j64" size="1963132" crc="2e793832" md5="f3f81e5c5ab19410d683d11d1cbb85f2" sha1="318fc3e305449535ff7a3cffe2445ed47c1e3ac3" />
+	</game>
+	<game name="Elansar (USA) (Aftermarket) (OrionSoft)">
+		<description>Elansar (USA) (Aftermarket) (OrionSoft)</description>
+		<rom name="Elansar (USA) (Aftermarket) (OrionSoft).j64" size="4194304" crc="a2976cca" md5="2037b547197dd17fe53dacb25f12f19b" sha1="441697383ac03734c2881e5394843e4290532455" />
+	</game>
+	<game name="Star Fighter (USA) (Demo) (Aftermarket) (Gedalya)">
+		<description>Star Fighter (USA) (Demo) (Aftermarket) (Gedalya)</description>
+		<rom name="Star Fighter (USA) (Demo) (Aftermarket) (Gedalya).rom" size="4194304" crc="832bf4ca" md5="a5767fc6c628759a5b6ba99874ff8bc4" sha1="193edcd6f0bf0524f012c60e73e6f7f9ad9a2fc7" />
 	</game>
 </datafile>

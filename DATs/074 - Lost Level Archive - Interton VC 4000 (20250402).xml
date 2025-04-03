@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>074</id>
+		<name>074 - Lost Level Archive - Interton - VC 4000</name>
+		<description>Interton - VC 4000</description>
+		<version>v20250402</version>
+		<author>televandalist</author>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Canabalt (World) (v20180101) (Aftermarket) (senilyDeluxe)">
+		<description>Canabalt (World) (v20180101) (Aftermarket) (senilyDeluxe)</description>
+		<rom name="Canabalt (World) (v20180101) (Aftermarket) (senilyDeluxe).bin" size="4031" crc="c8311b54" md5="82c999bc12e38600ad9e70508d2dab8c" sha1="17c2adfd214a273114a9519ccce8d0a0de1efd38" />
+	</game>
+	<game name="Crazy Crab (World) (1983) (Radofin Electronics)">
+		<description>Crazy Crab (World) (1983) (Radofin Electronics)</description>
+		<rom name="Crazy Crab (World) (1983) (Radofin Electronics).bin" size="4096" crc="8f3f2e9c" md5="d6f58d9c6ac013e897337d9b2bc3be03" sha1="16b8b896f0f6495b12ae6eb12f452d4817a87f98" />
+	</game>
+	<game name="Flappy Birds 2 (World) (v20170530) (Aftermarket) (senilyDeluxe)">
+		<description>Flappy Birds 2 (World) (v20170530) (Aftermarket) (senilyDeluxe)</description>
+		<rom name="Flappy Birds 2 (World) (v20170530) (Aftermarket) (senilyDeluxe).bin" size="2048" crc="e6f6830a" md5="312050bd0346e2bb54ec2308d7f281ef" sha1="7a78690e755a4634437e653a272b1ba17fad82f6" />
+	</game>
+	<game name="Leapfrog (World) (1982) (Voltmace - Derek Andrews)">
+		<description>Leapfrog (World) (1982) (Voltmace - Derek Andrews)</description>
+		<rom name="Leapfrog (World) (1982) (Voltmace - Derek Andrews).bin" size="4096" crc="105eb530" md5="8629936b14899ae89d57bb648112a9f1" sha1="7211b0b1c6e8798399f4f6d2a942db4e8379c691" />
+	</game>
+	<game name="Monster Munchers (World) (1981) (Rowtron)">
+		<description>Monster Munchers (World) (1981) (Rowtron)</description>
+		<rom name="Monster Munchers (World) (1981) (Rowtron).bin" size="2048" crc="df923137" md5="dff0d751378612a78da0dfa015374664" sha1="59d53670590dab3f9ebb30279cff44098fc27be2" />
+	</game>
+	<game name="Munch &amp; Crunch (World) (1982) (Voltmace - Derek Andrews)">
+		<description>Munch &amp; Crunch (World) (1982) (Voltmace - Derek Andrews)</description>
+		<rom name="Munch &amp; Crunch (World) (1982) (Voltmace - Derek Andrews).bin" size="4096" crc="704a1593" md5="491c2c9faecbd6eee4f86e1971272936" sha1="5f0b95904d6d36368727c1e0c91d94627a7471d6" />
+	</game>
+	<game name="Munch &amp; Crunch - Enhanced (World) (1982) (Voltmace - Derek Andrews)">
+		<description>Munch &amp; Crunch - Enhanced (World) (1982) (Voltmace - Derek Andrews)</description>
+		<rom name="Munch &amp; Crunch - Enhanced (World) (1982) (Voltmace - Derek Andrews).bin" size="4121" crc="2bef2934" md5="266bd11247683b0ff4da015fb305b9c4" sha1="157cf0085e8663efe33f3a64415bf8e2bbe3f70f" />
+	</game>
+	<game name="Super Knockout (World) (1980) (Radofin - Andrew Choi)">
+		<description>Super Knockout (World) (1980) (Radofin - Andrew Choi)</description>
+		<rom name="Super Knockout (World) (1980) (Radofin - Andrew Choi).bin" size="2048" crc="3467cf62" md5="02f80a2595062bf81da2b6d97f314ac9" sha1="2177abd604b9eb263d0fdb66f92452d2a09c1306" />
+	</game>
+	<game name="Tetris (World) (v20200922) (Aftermarket) (SimonAugustin)">
+		<description>Tetris (World) (v20200922) (Aftermarket) (SimonAugustin)</description>
+		<rom name="Tetris (World) (v20200922) (Aftermarket) (SimonAugustin).bin" size="4096" crc="9cbb3c2e" md5="0cbac5ace65a63613587152d2ef87311" sha1="abeb3c61a7818914b3219ee74018a8d2d3176dcc" />
+	</game>
+</datafile>

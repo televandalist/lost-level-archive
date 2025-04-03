@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>051</id>
+		<name>051 - Lost Level Archive - Atari - 7800</name>
+		<description>Atari - 7800</description>
+		<version>v20250402</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke)">
+		<description>Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke)</description>
+		<rom name="Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke).a78" size="32896" crc="59812261" md5="6b3c664b4223085f835ef1a6ca346687" sha1="267776f2da752d5b6420252a9176cf430344454f" />
+	</game>
+	<game name="Knight Guy On Board - 30 Squares Of Fate (USA) (Aftermarket) (vhzc)">
+		<description>Knight Guy On Board - 30 Squares Of Fate (USA) (Aftermarket) (vhzc)</description>
+		<rom name="Knight Guy On Board - 30 Squares Of Fate (USA) (Aftermarket) (vhzc).a78" size="147584" crc="676267c7" md5="d08626cefd8811efe46c9ae3528d4ed2" sha1="aa107e8ae28300d9a2a39fe266986237539a6bd0" />
+	</game>
+	<game name="Pac-Man 7800 (USA) (v1.0a) (Bob DeCrescenzo)">
+		<description>Pac-Man 7800 (USA) (v1.0a) (Bob DeCrescenzo)</description>
+		<rom name="Pac-Man 7800 (USA) (v1.0a) (Bob DeCrescenzo).a78" size="16384" crc="96159f91" md5="8338eca612eedf6ddec57d54942863e7" sha1="d2083ad36797b4dd377d72f452ecd9c773cf37d2" />
+	</game>
+	<game name="TiME Salvo (USA) (Aftermarket) (Mike Saarna)">
+		<description>TiME Salvo (USA) (Aftermarket) (Mike Saarna)</description>
+		<rom name="TiME Salvo (USA) (Aftermarket) (Mike Saarna).a78" size="49280" crc="99908716" md5="668c10974001dc1b02466bdaaa6c7d2b" sha1="83d24c64ca9def70012c4b3fb50c949ac4ce0560" />
+	</game>
+</datafile>

@@ -5,12 +5,16 @@
 		<id>069</id>
 		<name>069 - Lost Level Archive - Wellback - Mega Duck</name>
 		<description>Wellback - Mega Duck</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Aerial (World) (Aftermarket) (Inufuto)">
+		<description>Aerial (World) (Aftermarket) (Inufuto)</description>
+		<rom name="Aerial (World) (Aftermarket) (Inufuto).bin" size="16384" crc="6a324ac3" md5="b26307c090211b85672a3a71ef3bd53f" sha1="6028dd33cf97caffa9025010399127ee5fd75669" />
+	</game>
 	<game name="Black Castle (World) (Aftermarket) (Unl)">
 		<description>Black Castle (World) (Aftermarket) (Unl)</description>
 		<rom name="Black Castle (World) (Aftermarket) (Unl).duck" size="65536" crc="312fec34" md5="0b41ffad1c44a3252f2ece6ee0f502f3" sha1="96ec1dea0b406905338a6ff71149662a132b3209" />
@@ -23,9 +27,21 @@
 		<description>Canyon Racer (World)(v0.7.6) (No FX) (Aftermarket) (Unl)</description>
 		<rom name="Canyon Racer (World)(v0.7.6) (No FX) (Aftermarket) (Unl).duck" size="32768" crc="9fa63c31" md5="fcb469fa705f23d493689e2f7312d822" sha1="f85491c8ed827483f45ff5f13ee5e195fdcaff1e" />
 	</game>
+	<game name="Hopman (World) (Aftermarket) (Inufuto)">
+		<description>Hopman (World) (Aftermarket) (Inufuto)</description>
+		<rom name="Hopman (World) (Aftermarket) (Inufuto).bin" size="16384" crc="a7b2ba02" md5="115a709d9d524c1ea5d36c65d9b8dbe8" sha1="95102b92b7d52332f0ea7ad04e36b92561687958" />
+	</game>
 	<game name="Max Pirate (World) (v20240504) (Aftermarket) (Unl)">
 		<description>Max Pirate (World) (v20240504) (Aftermarket) (Unl)</description>
 		<rom name="Max Pirate (World) (v20240504) (Aftermarket) (Unl).duck" size="32768" crc="2eacd525" md5="ac17e9ce88054fde0132242e23873923" sha1="539b18cd46ef8090b01941d37cc5c0c731c332d6" />
+	</game>
+	<game name="Pegged (World) (v1.2) (Aftermarket) (Under4Mhz)">
+		<description>Pegged (World) (v1.2) (Aftermarket) (Under4Mhz)</description>
+		<rom name="Pegged (World) (v1.2) (Aftermarket) (Under4Mhz).bin" size="32768" crc="c8afd1d2" md5="651635c9b964bdd1fde94adf6b6f38ec" sha1="ab492a3c815a9558d29a90dfa837c571080616fd" />
+	</game>
+	<game name="Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy)">
+		<description>Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy)</description>
+		<rom name="Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy).bin" size="32768" crc="94237a93" md5="4f78024f2102292fc03929cdd957319e" sha1="017606edfb915e320c2ff10a7aa12d205cb0b5dc" />
 	</game>
 	<game name="Vexed (World) (v1.08) (Aftermarket) (Unl)">
 		<description>Vexed (World) (v1.08) (Aftermarket) (Unl)</description>

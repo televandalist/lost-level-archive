@@ -5,7 +5,7 @@
 		<id>038</id>
 		<name>038 - Lost Level Archive - Apple II</name>
 		<description>Apple II</description>
-		<version>v20250330</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
@@ -1085,9 +1085,9 @@
 		<rom name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software) (Disk 1).dsk" size="143360" crc="1fa3f4c9" md5="9d3749dceb156e166fea18765263ba92" sha1="605cfd5a7896f555b3685caedcde78fd309c263f" />
 		<rom name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software) (Disk 2).dsk" size="143360" crc="1661e4a9" md5="b70feb11a48af379b44300e8a20e47ca" sha1="18d77b7d0cfcd9ec0d6c7873c1e12670e6ecfb99" />
 	</game>
-	<game name="Lamp Chops! (2013) (Brian Picchi)">
-		<description>Lamp Chops! (2013) (Brian Picchi)</description>
-		<rom name="Lamp Chops! (2013) (Brian Picchi).do" size="143360" crc="4eeabced" md5="c6471ced618c7621101677095c04df76" sha1="ad3dea5ff554c2ef2c723cafeb30a3b5333800e6" />
+	<game name="Lamb Chops! (2013) (Brian Picchi)">
+		<description>Lamb Chops! (2013) (Brian Picchi)</description>
+		<rom name="Lamb Chops! (2013) (Brian Picchi).do" size="143360" crc="4eeabced" md5="c6471ced618c7621101677095c04df76" sha1="ad3dea5ff554c2ef2c723cafeb30a3b5333800e6" />
 	</game>
 	<game name="Oregon (1975) (MECC) (Applesoft BASIC Conversion by Chris Torrence)">
 		<description>Oregon (1975) (MECC) (Applesoft BASIC Conversion by Chris Torrence)</description>

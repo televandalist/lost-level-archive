@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250303</version>
+		<version>v20250402</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -95,6 +95,12 @@
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 26).bin" size="15974784" crc="3ACCF64E" md5="55E2C42BF0E9EE6D4C1D256D62054626" sha1="FD88923E10288CFEB8A500262E40E5B9B0FDB4C3"/>
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga).cue" size="3674" crc="4079D6C9" md5="39EB5C2068C2C18D2EBFF906C9F5DEC6" sha1="2449FCBB26DC339191AE9506CFA2AF858D69E732"/>
 	</game>
+	<game name="Medievil (USA) (Prototype) (1997-09-07) (SCEE)">
+		<description>Medievil (USA) (Prototype) (1997-09-07) (SCEE)</description>
+		<rom name="Medievil (USA) (Prototype) (1997-09-07) (SCEE) (Track 1).bin" size="321071520" crc="4bf61244" md5="d6685268d723bceae318ef38f78618fa" sha1="f33a64438bfef2c6514fe8d2529f16f29e9c8991" />
+		<rom name="Medievil (USA) (Prototype) (1997-09-07) (SCEE) (Track 2).bin" size="32970336" crc="9398f2c7" md5="42c47549179d745454b38082f3820cf5" sha1="b059e2710609eb3a79214805aa99f9361093a5ef" />
+		<rom name="Medievil (USA) (Prototype) (1997-09-07) (SCEE).cue" size="239" crc="77be67af" md5="cb9ce96c35c0b47c9f78357046f06950" sha1="49f95b9a052814ec914392c50c1f7ac04495237a" />
+	</game>
 	<game name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)">
 		<description>Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)</description>
 		<rom name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k) (Track 1).bin" size="615675984" crc="17074f06" md5="f03d8f7427e0868d044e7bd1b241375d" sha1="f9bcf686edbef10d01764f3e3966a86a6c9cd084"/>
@@ -111,10 +117,30 @@
 		<rom name="Mega Man X4 (USA) (Undub) (v1.13) (acediez) (Retranslation) (NectarHime).bin" size="595862736" crc="f27353fd" md5="bafc89e8f24339e85b66443d6959a993" sha1="823208f8b0fa3dec8b544eb150e6fe8de33c2122" />
 		<rom name="Mega Man X4 (USA) (Undub) (v1.13) (acediez) (Retranslation) (NectarHime).cue" size="138" crc="f210cc06" md5="f7ad6ed605c4ac1c5a4b753b3d959e71" sha1="a208f76a280c7f001bb7f49a7c49abe747c51a17" />
 	</game>
+	<game name="Mike Visor (USA) (Aftermarket) (Aionmagan)">
+		<description>Mike Visor (USA) (Aftermarket) (Aionmagan)</description>
+		<rom name="Mike Visor (USA) (Aftermarket) (Aionmagan).bin" size="40252128" crc="db70c283" md5="f1be3a75abfd3b9a30d522c50f4fbbae" sha1="89403d86af691bf2b79c7cd58eb07a7592e45613" />
+		<rom name="Mike Visor (USA) (Aftermarket) (Aionmagan).cue" size="108" crc="367d8780" md5="9faead6af01fd8079a6211b4ec9e1dcd" sha1="a632a617856879af3d07e41f661c6db8c15e1e3b" />
+	</game>
 	<game name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)">
 		<description>Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)</description>
 		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).bin" size="627626496" crc="8277E2C3" md5="D7F9E75C03C5E73C5FAB5393FB02F486" sha1="9AEECC21E91BAA43FB7935BB43C77513A4636546"/>
 		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).cue" size="121" crc="6BD72052" md5="59DA714172EB28D6B74692F439FFA00C" sha1="921CAC92A2F10F7D08749B23119975D78F4F38F0"/>
+	</game>
+	<game name="PETSCOP - Restored (NTSC) (v1.0) (Aftermarket) (NITROYUASH)">
+		<description>PETSCOP - Restored (NTSC) (v1.0) (Aftermarket) (NITROYUASH)</description>
+		<rom name="PETSCOP - Restored (NTSC) (v1.0) (Aftermarket) (NITROYUASH).bin" size="184088688" crc="0b9c3f72" md5="76fa4bdf13de6dac763b48cff4c26719" sha1="f0e8bbd635a2317e08d33d397d390d3a8dcff7ec" />
+		<rom name="PETSCOP - Restored (NTSC) (v1.0) (Aftermarket) (NITROYUASH).cue" size="125" crc="e7e8968e" md5="e0d1ce4240659bcb8c417c9c3ed1e70f" sha1="33bf21fb6b521f21f1f888da703f43fd1a5a8426" />
+	</game>
+	<game name="PETSCOP - Restored (NTSC) (v1.1) (Aftermarket) (NITROYUASH)">
+		<description>PETSCOP - Restored (NTSC) (v1.1) (Aftermarket) (NITROYUASH)</description>
+		<rom name="PETSCOP - Restored (NTSC) (v1.1) (Aftermarket) (NITROYUASH).bin" size="184253328" crc="d5dfbbf1" md5="b34cce263b63084768c26f8eca43848b" sha1="777a69e73e06677fde77c3b2f18bbaf984d06a62" />
+		<rom name="PETSCOP - Restored (NTSC) (v1.1) (Aftermarket) (NITROYUASH).cue" size="125" crc="83d4fb06" md5="e56944fadd6468b08251df7d21111a40" sha1="1940efd3e9e708ae75036292779eaec0d5d5515b" />
+	</game>
+	<game name="PETSCOP - Restored (NTSC) (v1.2) (Aftermarket) (NITROYUASH)">
+		<description>PETSCOP - Restored (NTSC) (v1.2) (Aftermarket) (NITROYUASH)</description>
+		<rom name="PETSCOP - Restored (NTSC) (v1.2) (Aftermarket) (NITROYUASH).bin" size="184582608" crc="ee3db5d8" md5="7cfbfbb58f513465ab51802a3182ea36" sha1="359b6176b46ef3ecb74b4a3ff511256ef10782c7" />
+		<rom name="PETSCOP - Restored (NTSC) (v1.2) (Aftermarket) (NITROYUASH).cue" size="125" crc="2f904d9e" md5="7abc3af9b56d1252b63c23f74efc63d3" sha1="90c0b439e134ca8b88f3f17337100d88f3f1432c" />
 	</game>
 	<game name="PlayStation Doom - Master Edition (Beta 4) (Team GEC)">
 		<description>PlayStation Doom - Master Edition (Beta 4) (Team GEC)</description>
@@ -232,6 +258,11 @@
 		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).img" size="511489440" crc="9E8F9BA7" md5="436B6476F41C3541D013C070B670D210" sha1="97337A27C44FC5A8787DFF63F6CA8A18363C650B"/>
 		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).sub" size="20877120" crc="87C0751C" md5="8423CFC6526F5F26B7DF9884056A8366" sha1="CD5FFF4F2FE88609096DD1079C39F89FA29052A6"/>
 	</game>
+	<game name="Superman (USA) (Prototype) (2000-06-22) (Titus Software)">
+		<description>Superman (USA) (Prototype) (2000-06-22) (Titus Software)</description>
+		<rom name="Superman (USA) (Prototype) (2000-06-22) (Titus Software).bin" size="250563264" crc="04fd0328" md5="0f82d01fb3fe8bd3f3566737a26a57ad" sha1="49c407ed17167c59b8ce26f3fed8dfd1b426a565" />
+		<rom name="Superman (USA) (Prototype) (2000-06-22) (Titus Software).cue" size="122" crc="15db8f0b" md5="898918ea81c9a5b47b3efb20c73107f4" sha1="57c70353e536749f4642ce6202a25042a7756c15" />
+	</game>
 	<game name="Tomb Raider - The Times (USA) (Bonus Level) (v1.1)">
 		<description>Tomb Raider - The Times (USA) (Bonus Level) (v1.1)</description>
 		<rom name="Tomb Raider - The Times (USA) (Bonus Level) (v1.1).bin" size="129522288" crc="10520814" md5="f460e66b51ba93b2bb6940336de7fd1e" sha1="b298a88393b1b30ed9cfde09a2d8739c4d9ed1a7" />
@@ -251,5 +282,12 @@
 		<description>WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio)</description>
 		<rom name="WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio).bin" size="650158656" crc="e514c3aa" md5="50aeccd8ea8d2975d1eac06c3f9bae03" sha1="860f99e2dce82230e25ba48611fd9268e5420d44" />
 		<rom name="WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio).cue" size="117" crc="4932305a" md5="3bd5ef83a018f003fd047b78b411e54e" sha1="54f106827da945905dc754aa713fa1360374aa95" />
+	</game>
+	<game name="Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl)">
+		<description>Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl)</description>
+		<rom name="Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl) (Disc 1).bin" size="434160384" crc="402bebbd" md5="dc52970e6c0ed5bc84cd835fb5d79b57" sha1="cce73253430e989359061078c7bbaf8d73c17d35" />
+		<rom name="Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl) (Disc 1).cue" size="544" crc="2da6f7e9" md5="d2e52f48f1c35a493de4029646b7baa0" sha1="0984011f508962e9138fd900c4befc42c2f35d34" />
+		<rom name="Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl) (Disc 2).bin" size="441468048" crc="f57f17da" md5="31d8af3009341b42d5821eea3590a926" sha1="f85c7176adcf0cb92972cac8d21ca92e5af33856" />
+		<rom name="Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl) (Disc 2).cue" size="544" crc="7184f1f1" md5="c5dfeda7775f92275ba6a7dc37be159c" sha1="04277fd43bf81d2937ba43011eda23a67486f96b" />
 	</game>
 </datafile>

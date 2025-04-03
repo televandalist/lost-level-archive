@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>037</id>
+		<name>037 - Lost Level Archive - Amstrad - CPC (CPR)</name>
+		<description>Amstrad - CPC (CPR)</description>
+		<version>v20250402</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="La Culotte de Zelda (v3.2) (En) (Zisquier)">
+		<description>La Culotte de Zelda (v3.2) (En) (Zisquier)</description>
+		<rom name="La Culotte de Zelda (v3.2) (En) (Zisquier).cpr" size="524556" crc="c2261a40" md5="67c66829dc2456c48bb84e9cd93fe354" sha1="cb9d0ad4d3379902215d29ddfad6dfe241c13649" />
+	</game>
+	<game name="La Culotte de Zelda (v3.2) (Fr) (Zisquier)">
+		<description>La Culotte de Zelda (v3.2) (Fr) (Zisquier)</description>
+		<rom name="La Culotte de Zelda (v3.2) (Fr) (Zisquier).cpr" size="524556" crc="c1e8061c" md5="3aaad81cb74dec43fd0a29c88379aee2" sha1="17e63d0ea81505a61c2a3f4e5a707d72a167d5a7" />
+	</game>
+	<game name="Mandarin, The (2022) (Mananuk)">
+		<description>Mandarin, The (2022) (Mananuk)</description>
+		<rom name="Mandarin, The (2022) (Mananuk).cpr" size="262284" crc="b2bd0ff9" md5="c3d025b4ae07780f2544ee4b303b8d3a" sha1="0c625842ce37323ef8b140df043ebca1ada650b5" />
+	</game>
+	<game name="Puzzle Bobble (v1.2) (2021) (Crazy Piri)">
+		<description>Puzzle Bobble (v1.2) (2021) (Crazy Piri)</description>
+		<rom name="Puzzle Bobble (v1.2) (2021) (Crazy Piri).cpr" size="524556" crc="825e7ada" md5="34d71d15f0c7a9316b3e8c0aed16b70d" sha1="82f68d822b8a1712ccebe5f55e0d4fc868db64cd" />
+	</game>
+</datafile>
