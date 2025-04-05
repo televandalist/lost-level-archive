@@ -5,23 +5,52 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250402</version>
+		<version>v20250405</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica)">
+		<description>Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica)</description>
+		<rom name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica).iso" size="4421877760" crc="027a757f" md5="d3a3f8cc08d3e6277aa72fc16f994e4d" sha1="418d1c70a77c3ffaa4f453b3cfb4422a2dd5eff2" />
+	</game>
+	<game name="Atelier Marie + Elie - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (En) (v1.01) (Atelier Traduction)">
+		<description>Atelier Marie + Elie - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (En) (v1.01) (Atelier Traduction)</description>
+		<rom name="Atelier Marie + Elie - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (En) (v1.01) (Atelier Traduction).iso" size="1551040512" crc="ded23029" md5="2bbe14b0851b7eff48cb8d9969343460" sha1="34048d18ebc554d1caf5e7b614cf1c06817a51f9" />
+	</game>
 	<game name="Beats of Rage (USA) (Aftermarket) (Neill Corlett)">
 		<description>Beats of Rage (USA) (Aftermarket) (Neill Corlett)</description>
 		<rom name="Beats of Rage (USA) (Aftermarket) (Neill Corlett).iso" size="1384906752" crc="b4b3fe4f" md5="32c8fa6122f2b2cde8c803498dd61168" sha1="3b071c02180b8be543b35ca6f65867e973d2913a" />
+	</game>
+	<game name="Bionicle City of Legends (USA) (Prototype - Tech Demo) (2004-01-16)">
+		<description>Bionicle City of Legends (USA) (Prototype - Tech Demo) (2004-01-16)</description>
+		<rom name="Bionicle City of Legends (USA) (Prototype - Tech Demo) (2004-01-16).iso" size="13430784" crc="de60b4ce" md5="1fdc56098effaa27377ea4ee3a3b798e" sha1="4682ef0723ec0c71fb9fce32ed9ed1344e025837" />
 	</game>
 	<game name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop)">
 		<description>Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop)</description>
 		<rom name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop).iso" size="3576135680" crc="3953BE9B" md5="C233E45F26E2E7DD10F40CED77DD9EFF" sha1="DDDFF595592443F0BFAD9C1118251A5393136CD7"/>
 	</game>
+	<game name="Dog of Bay (Japan) (En) (v1.0) (Hilltop)">
+		<description>Dog of Bay (Japan) (En) (v1.0) (Hilltop)</description>
+		<rom name="Dog of Bay (Japan) (En) (v1.0) (Hilltop).bin" size="703215072" crc="53b19f61" md5="ea1b7d3b99129437a39a63a87323251c" sha1="c7f75b123bbeda389004b87413c8661d4aeb59d7" />
+		<rom name="Dog of Bay (Japan) (En) (v1.0) (Hilltop).cue" size="106" crc="8b79bf38" md5="496efe6b7c07b6becd2b3b943e648294" sha1="e5e6c5c108cebdf02bbff78dc915fd9af2a26e1e" />
+	</game>
+	<game name="Dragon Quest V - Tenkuu no Hanayome (Japan) (En) (v1.2 - DQ Naming) (DQ Translations)">
+		<description>Dragon Quest V - Tenkuu no Hanayome (Japan) (En) (v1.2 - DQ Naming) (DQ Translations)</description>
+		<rom name="Dragon Quest V - Tenkuu no Hanayome (Japan) (En) (v1.2 - DQ Naming) (DQ Translations).iso" size="2654199808" crc="d36dcc95" md5="6015480cd73d80417a0e483c71c4a0d2" sha1="da3b402b003867dcaeadfe36aebcc933051250a2" />
+	</game>
 	<game name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)">
 		<description>Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)</description>
 		<rom name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller).iso" size="4196139008" crc="28EF1BC9" md5="A775E7F26F1EF2934435D731D03BA978" sha1="D173C4C6C96C47A9642835AB8DA829349B2633B5"/>
+	</game>
+	<game name="Dynasty Warriors 4 (USA) (Undub) (v1.0) (General Plastro, swosho)">
+		<description>Dynasty Warriors 4 (USA) (Undub) (v1.0) (General Plastro, swosho)</description>
+		<rom name="Dynasty Warriors 4 (USA) (Undub) (v1.0) (General Plastro, swosho).iso" size="2832674816" crc="470a7b55" md5="a4b3c6640bf8fdbde854c392f326ed18" sha1="2135f506e2965978c0013303aa1f59a649c41fa2" />
+	</game>
+	<game name="Dynasty Warriors 4 - Xtreme Legends (USA) (Undub) (v1.0) (General Plastro, swosho)">
+		<description>Dynasty Warriors 4 - Xtreme Legends (USA) (Undub) (v1.0) (General Plastro, swosho)</description>
+		<rom name="Dynasty Warriors 4 - Xtreme Legends (USA) (Undub) (v1.0) (General Plastro, swosho).iso" size="3221368832" crc="7fab6683" md5="1e0cb9fd9b058aba335125f3e2a877d8" sha1="5d76443a890c3deb9f5ae409e0bbec78f9371d11" />
 	</game>
 	<game name="Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.1) (Wagrenier)">
 		<description>Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.1) (Wagrenier)</description>
@@ -31,9 +60,37 @@
 		<description>Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.2) (Wagrenier)</description>
 		<rom name="Fatal Frame II - Crimson Butterfly (USA) (Undub) (v1.0.2) (Wagrenier).iso" size="3332530176" crc="67f461bd" md5="8b33f35838ce97e73d311e14b1a3385b" sha1="a0e64f672401959924d87e1256d81f8683bc88bc" />
 	</game>
+	<game name="Fruit'y (USA) (v1.0) (Retroguru)">
+		<description>Fruit'y (USA) (v1.0) (Retroguru)</description>
+		<rom name="Fruit'y (USA) (v1.0) (Retroguru).iso" size="25051136" crc="aae1cca2" md5="4c7efd3186c49b8d33991d037a186c78" sha1="88d59a78fd2739d821bff928c8cca52a5eb32f23" />
+	</game>
+	<game name="GT4 Beta (2006-06-06) - Gran Turismo 4 Spec II (v1.09)">
+		<description>GT4 Beta (2006-06-06) - Gran Turismo 4 Spec II (v1.09)</description>
+		<rom name="GT4 Beta (2006-06-06) - Gran Turismo 4 Spec II (v1.09).iso" size="3683385344" crc="cc630bde" md5="d95742bbaae53eff1dd3ac306e60281e" sha1="da4de35cc8c2aae655ac45ce9c7d22534c87e0bc" />
+	</game>
+	<game name="GTASA - Grand Theft Auto Generations (v5.0.4 Beta)">
+		<description>GTASA - Grand Theft Auto Generations (v5.0.4 Beta)</description>
+		<rom name="GTASA - Grand Theft Auto Generations (v5.0.4 Beta).iso" size="3622928384" crc="41a9ae56" md5="6cba458eb4ba37a2816d2cb3542ae2bb" sha1="e38e5114571f7532857b7ae2b2db21321cb5db79" />
+	</game>
+	<game name="Guitar Hero (USA) (Prototype - Production Build) (2005-09-08)">
+		<description>Guitar Hero (USA) (Prototype - Production Build) (2005-09-08)</description>
+		<rom name="Guitar Hero (USA) (Prototype - Production Build) (2005-09-08).iso" size="1453129728" crc="ee351bd2" md5="92e06a5a38783936ef97f1005671204f" sha1="bfef49c301acba46f79c0a76beedc7c2b634d15f" />
+	</game>
 	<game name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)">
 		<description>Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)</description>
 		<rom name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex).iso" size="342163456" crc="6D930783" md5="7A073C1EED023C555B11B359E6F30BF5" sha1="955F84095148204C05ED43710C90A86F6B85C9BC"/>
+	</game>
+	<game name="Hermes - Run a la Carte (2017) v1.01 (Retroguru)">
+		<description>Hermes - Run a la Carte (2017) v1.01 (Retroguru)</description>
+		<rom name="Hermes - Run a la Carte (2017) v1.01 (Retroguru).iso" size="25051136" crc="bc46ca6d" md5="2588423b1743d6db2def9597f933e2b8" sha1="35c0140a2d4c353c301e59d750e511ccfb36af59" />
+	</game>
+	<game name="MKD - Ultimate Mortal Kombat Deception (v6.0) (Ermaccer)">
+		<description>MKD - Ultimate Mortal Kombat Deception (v6.0) (Ermaccer)</description>
+		<rom name="MKD - Ultimate Mortal Kombat Deception (v6.0) (Ermaccer).iso" size="3042639872" crc="d0f25566" md5="1e7ef43d004d2efa016f3116d8659b9c" sha1="03e47307172e0edd5b7ea0c52b2e354c378e2c53" />
+	</game>
+	<game name="Nicktoons Slap Shot (USA) (Prototype) (2004-03-25)">
+		<description>Nicktoons Slap Shot (USA) (Prototype) (2004-03-25)</description>
+		<rom name="Nicktoons Slap Shot (USA) (Prototype) (2004-03-25).iso" size="129282048" crc="1cc6650b" md5="e870118777ef83bd7eb11bdf758d66c3" sha1="a9a672902c0b0532c3ad0617aacaa51221f032b3" />
 	</game>
 	<game name="Project Zero (Europe) (Undub) (v1.0.3) (wagrenier) (Fixes) (Widescreen)">
 		<description>Project Zero (Europe) (Undub) (v1.0.3) (wagrenier) (Fixes) (Widescreen)</description>
@@ -74,6 +131,15 @@
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01) (Original BGM) (Controllable Party) (TGE)</description>
 		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01) (Original BGM) (Controllable Party) (TGE).iso" size="4534960128" crc="da576993" md5="7b41861db8d5314c1c80ec918f6e14ef" sha1="4bcff9b964e0c2afc7f0644d93d2046582d4c824" />
 	</game>
+	<game name="Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) (En) (v1.1.3) (Jang &amp; Krisan Thyme)">
+		<description>Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) (En) (v1.1.3) (Jang &amp; Krisan Thyme)</description>
+		<rom name="Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) (En) (v1.1.3) (Jang &amp; Krisan Thyme).iso" size="3431858176" crc="ed543437" md5="98cbb652b8d149954e11dba6d14cabf6" sha1="63f6993e39acd3493c6483f3e6846d5d62e809ea" />
+	</game>
+	<game name="Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop)">
+		<description>Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop)</description>
+		<rom name="Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop).bin" size="230677104" crc="567a4f3c" md5="2694959833da0fb99c948f36bccb8f0d" sha1="aab7ff19c07c97dcf6241242a2cef98faa610fad" />
+		<rom name="Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop).cue" size="151" crc="ade23b85" md5="e7f546b70741603911851131ac93175f" sha1="3775575988c0fce8e856ab48a332a374f00ac47d" />
+	</game>
 	<game name="Suikoden V (USA) (Undub) (Unknown)">
 		<description>Suikoden V (USA) (Undub) (Unknown)</description>
 		<rom name="Suikoden V (USA) (Undub) (Unknown).iso" size="4494260224" crc="B636742B" md5="D3419C57EB0FC16C366C087A381BD214" sha1="6FAC76A54F9B150F6BEFE0C035DAB0654EFDCF93"/>
@@ -81,6 +147,10 @@
 	<game name="Suikoden V (USA) (Undub) (Unknown) (Widescreen)">
 		<description>Suikoden V (USA) (Undub) (Unknown) (Widescreen)</description>
 		<rom name="Suikoden V (USA) (Undub) (Unknown) (Widescreen).iso" size="4494260224" crc="3AF525BE" md5="AD4B250810B9D19AA824DF6945B211AC" sha1="F227D5CC549FAECA78E4AA3B6185DB27A3AD90B9"/>
+	</game>
+	<game name="Tales of Destiny - Director's Cut (Japan) (En) (v1.5) (furiousg4m3r)">
+		<description>Tales of Destiny - Director's Cut (Japan) (En) (v1.5) (furiousg4m3r)</description>
+		<rom name="Tales of Destiny - Director's Cut (Japan) (En) (v1.5) (furiousg4m3r).iso" size="4479664128" crc="171629bb" md5="a117266c7032fb313305c55f8ff7f354" sha1="3ec222c7201efab1d5e6c108493e9c84cf227cda" />
 	</game>
 	<game name="Tales of the Abyss (USA) (Es) (v1.0) (Tales Translations) (Undub) (v2.5) (Kotoba Group)">
 		<description>Tales of the Abyss (USA) (Es) (v1.0) (Tales Translations) (Undub) (v2.5) (Kotoba Group)</description>

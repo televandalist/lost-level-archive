@@ -5,11 +5,15 @@
 		<id>073</id>
 		<name>073 - Lost Level Archive - Emerson - Arcadia 2001</name>
 		<description>Emerson - Arcadia 2001</description>
-		<version>v20250402</version>
+		<version>v20250405</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="3D Attack (Europe) (1983) (UA Ltd.)">
+		<description>3D Attack (Europe) (1983) (UA Ltd.)</description>
+		<rom name="3D Attack (Europe) (1983) (UA Ltd.).bin" size="8192" crc="ef110a16" md5="341fc26add52d23acc2b29f6bab42134" sha1="d520a2fbad0b01888ad773cc624671807dd7047f" />
+	</game>
 	<game name="Astro Invaders (USA, Europe)">
 		<description>Astro Invaders (USA, Europe)</description>
 		<rom name="Astro Invaders (USA, Europe).bin" size="4096" crc="ddcf5b2c" md5="7fa659305834e5ceb8a12782e8e61cbb" sha1="b6f693e3333607181fbe3a43dffa9f30f9656998" />
@@ -26,6 +30,10 @@
 		<description>Doraemon (Japan) (1983) (Bandai)</description>
 		<rom name="Doraemon (Japan) (1983) (Bandai).bin" size="8192" crc="62c45881" md5="2938509d9c2a2316b460b2a617581771" sha1="a16fda96d00c8b08bb362f2573a45939aa6be051" />
 	</game>
+	<game name="Dr. Slump (Japan) (1983) (Bandai)">
+		<description>Dr. Slump (Japan) (1983) (Bandai)</description>
+		<rom name="Dr. Slump (Japan) (1983) (Bandai).bin" size="8192" crc="927c375a" md5="2a636fc1b2c414f87c078c06f279d618" sha1="389259f1505deef5c0fb83f9cf8b0f7fa4ed5d04" />
+	</game>
 	<game name="JTron (World) (2003) (Amigan Software)">
 		<description>JTron (World) (2003) (Amigan Software)</description>
 		<rom name="JTron (World) (2003) (Amigan Software).bin" size="2048" crc="a768c764" md5="906040af349e793bae5b062f3074e71e" sha1="9f6ace424cfbba87eaf06c165fa561099f8d8634" />
@@ -33,5 +41,9 @@
 	<game name="Tetris (Austria) (2003) (Peter Trauner)">
 		<description>Tetris (Austria) (2003) (Peter Trauner)</description>
 		<rom name="Tetris (Austria) (2003) (Peter Trauner).bin" size="4096" crc="296c8465" md5="69cf3728f7db96c311bc8b3b8917baff" sha1="ee910ce4753986989ac44fc9ead97920f14d1571" />
+	</game>
+	<game name="Tetris (Japan) (Homebrew)">
+		<description>Tetris (Japan) (Homebrew)</description>
+		<rom name="Tetris (Japan) (Homebrew).bin" size="8160" crc="c5c578e8" md5="10b3d082c57cdf5a6353149e1ed2962f" sha1="35e333a94c897f1b386917c67fb7e7e92dc11f4d" />
 	</game>
 </datafile>

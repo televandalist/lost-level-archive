@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX</name>
 		<description>Microsoft - MSX</description>
-		<version>v20250402</version>
+		<version>v20250405</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,6 +14,10 @@
 	<game name="10 Lines Princess (World) (Aftermarket) (Unl)">
 		<description>10 Lines Princess (World) (Aftermarket) (Unl)</description>
 		<rom name="10 Lines Princess (World) (Aftermarket) (Unl).dsk" size="737280" crc="bb022514" md5="e40432b864c4b7440f8b265ebfa0a7f5" sha1="bfa9fe277158141a700915da73d7980e516e50de" />
+	</game>
+	<game name="Bloktris (v1.03) (2023) (Under4Mhz)">
+		<description>Bloktris (v1.03) (2023) (Under4Mhz)</description>
+		<rom name="Bloktris (v1.03) (2023) (Under4Mhz).rom" size="32768" crc="070e0601" md5="061420f43c8c4cfda214b9f5185f5066" sha1="5d0d82c4cc0bc57365aafe6fd06c8caa5ddb9bb5" />
 	</game>
 	<game name="Chocobo Racing (2004) (HL-Soft)">
 		<description>Chocobo Racing (2004) (HL-Soft)</description>

@@ -5,7 +5,7 @@
 		<id>046</id>
 		<name>046 - Lost Level Archive - GCE - Vectrex</name>
 		<description>GCE - Vectrex</description>
-		<version>v20250330</version>
+		<version>v20250405</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -58,6 +58,10 @@
 	<game name="Turkey Hero (World) (v0.97) (Aftermarket) (Unl)">
 		<description>Turkey Hero (World) (v0.97) (Aftermarket) (Unl)</description>
 		<rom name="Turkey Hero (World) (v0.97) (Aftermarket) (Unl).vec" size="27356" crc="9882e195" md5="af799d55b39593eaa844df3235a51fd6" sha1="f02f1952dee7786b1f982987eac0347534889251" />
+	</game>
+	<game name="Turkey Runner (World) (v0.90) (Aftermarket) (Brett Walach)">
+		<description>Turkey Runner (World) (v0.90) (Aftermarket) (Brett Walach)</description>
+		<rom name="Turkey Runner (World) (v0.90) (Aftermarket) (Brett Walach).vec" size="29693" crc="176e33d2" md5="f03893002b146a458c894cddadfc738d" sha1="e174c2d7180a850e6d4e586e141ceb64004661ab" />
 	</game>
 	<game name="Vec-Man (World) (v2.5 - ParaJVE Version) (Aftermarket) (Unl)">
 		<description>Vec-Man (World) (v2.5 - ParaJVE Version) (Aftermarket) (Unl)</description>

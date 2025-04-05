@@ -5,12 +5,16 @@
 		<id>033</id>
 		<name>033 - Lost Level Archive - Sega - SG-1000</name>
 		<description>Sega - SG-1000</description>
-		<version>v20250330</version>
+		<version>v20250405</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Bloktris (v1.03) (2023) (Under4Mhz)">
+		<description>Bloktris (v1.03) (2023) (Under4Mhz)</description>
+		<rom name="Bloktris (v1.03) (2023) (Under4Mhz).sg" size="49152" crc="ca3c78e2" md5="e727be51ab6ffe4c1ad410bc6ed93d00" sha1="9bd8d9c22097411fedd2307ce8f2e74937a08e15" />
+	</game>
 	<game name="Earth Attack (USA) (v2021116) (Aftermarket) (Unl)">
 		<description>Earth Attack (USA) (v2021116) (Aftermarket) (Unl)</description>
 		<rom name="Earth Attack (USA) (v2021116) (Aftermarket) (Unl).sg" size="16384" crc="575c7f2a" md5="be7798f9073f9a587ff0a36b646c65b7" sha1="92636a511152051a593976a4651c85c8affea614" />

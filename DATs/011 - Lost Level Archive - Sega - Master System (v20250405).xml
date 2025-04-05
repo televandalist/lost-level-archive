@@ -5,12 +5,16 @@
 		<id>011</id>
 		<name>011 - Lost Level Archive - Sega - Master System</name>
 		<description>Sega - Master System</description>
-		<version>v20250330</version>
+		<version>v20250405</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Bloktris (v1.03) (2023) (Under4Mhz)">
+		<description>Bloktris (v1.03) (2023) (Under4Mhz)</description>
+		<rom name="Bloktris (v1.03) (2023) (Under4Mhz).sms" size="262144" crc="7ddd30cb" md5="e5ba57dce3a2995d093aef67effde27d" sha1="cda74a2a596fc5afaf84c74c5b4f54a7b989f87b" />
+	</game>
 	<game name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)">
 		<description>Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)</description>
 		<rom name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl).sms" size="262144" crc="79e2aeb2" md5="8dc6002e19f66bd7dba7f9adb6f8918e" sha1="32bd664de24ac4fc8c96416bc0fa3aaa37c3d060" />

@@ -5,12 +5,17 @@
 		<id>076</id>
 		<name>076 - Lost Level Archive - NEC - PC Engine CD - TurboGrafx-CD</name>
 		<description>NEC - PC Engine CD - TurboGrafx-CD</description>
-		<version>v20250402</version>
+		<version>v20250405</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper)">
+		<description>Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper)</description>
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper).bin" size="739602864" crc="a33c15c3" md5="1911b009009ef9812db0f292f723846c" sha1="fb4be5ded8340f4304849dc0aa2c9bf9c876d2c3" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper).cue" size="1051" crc="017ddc12" md5="a900f2d730f786c9065fd438ac5d0afb" sha1="131beae0d033d515fc4dce021229a45c2796a3a8" />
+	</game>
 	<game name="Insantaty (World) (Aftermarket) (AetherBye)">
 		<description>Insantaty (World) (Aftermarket) (AetherBye)</description>
 		<rom name="Insantaty (World) (Aftermarket) (AetherBye).cue" size="603" crc="79e3301e" md5="395708ae0b1fd6cf15f267a6f5126d07" sha1="1886fb60530019111e2469eded376c3859be166d" />
