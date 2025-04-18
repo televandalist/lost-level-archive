@@ -11,6 +11,13 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Alone In The Dark - The New Nightmare (Europe) (Ru) (Paradox)">
+		<description>Alone In The Dark - The New Nightmare (Europe) (Ru) (Paradox)</description>
+		<rom name="Alone In The Dark - The New Nightmare (Europe) (Ru) (Paradox) (Disc 1).bin" size="738457440" crc="16208eed" md5="357726f22a04cd57552d87184c3d5d42" sha1="67f7a9b4b41368488ca878601bc241145cc762f0" />
+		<rom name="Alone In The Dark - The New Nightmare (Europe) (Ru) (Paradox) (Disc 1).cue" size="136" crc="0d2b4e2c" md5="3ecd02894120f82b7db2d6177b7591e5" sha1="a2f61b7e631783acb310725be4473165c49fa38a" />
+		<rom name="Alone In The Dark - The New Nightmare (Europe) (Ru) (Paradox) (Disc 2).bin" size="779655072" crc="e2cb364c" md5="964bc46248b84efef4e0772ea46704c7" sha1="56b8b6d61f14c7fc0fc2ec26f41997818a218d69" />
+		<rom name="Alone In The Dark - The New Nightmare (Europe) (Ru) (Paradox) (Disc 2).cue" size="136" crc="0c7668fd" md5="41e6f7e3baca80d239e55c9cee28e410" sha1="f481a40dbc829f0dcc502cb7d4e5f2a30e832710" />
+	</game>
 	<game name="Another World (USA) (DOS Port) (Release 3 - 2021-06-26) (Unlicensed)">
 		<description>Another World (USA) (DOS Port) (Release 3 - 2021-06-26) (Unlicensed)</description>
 		<rom name="Another World (USA) (DOS Port) (Release 3 - 2021-06-26) (Unlicensed).iso" size="3123456" crc="13b76f06" md5="9e4db59dc8c41de76675afb1395d83db" sha1="5c977d41b309fe37d047f399b5143f22f22cbe1a"/>
@@ -39,10 +46,40 @@
 		<rom name="Castlevania - Symphony of the Night - Reborn (Normal Mode) (v1.5.1) (MAUK) (Track 2).bin" size="44676240" crc="70efb5c6" md5="8f4b1df20c0173f7c2e6a30bd3109ac8" sha1="1cb96a57f7363a2a43e79683f1a79c62bb6190dc" />
 		<rom name="Castlevania - Symphony of the Night - Reborn (Normal Mode) (v1.5.1) (MAUK).cue" size="318" crc="09bf872c" md5="2149e9c78dbad3cb4dcab5679a490849" sha1="8bc1dd04c2fc626a441f23587dde170a2c3b1156" />
 	</game>
+	<game name="Cave Story (Europe) (Release 7) (Aftermarket) (Unl)">
+		<description>Cave Story (Europe) (Release 7) (Aftermarket) (Unl)</description>
+		<rom name="Cave Story (Europe) (Release 7) (Aftermarket) (Unl).bin" size="32565792" crc="7e397559" md5="fef3ef292f3b8d354d40f3e8ee5ad141" sha1="7df94494fa897abbb6b297e4b0974991d5a73c23" />
+		<rom name="Cave Story (Europe) (Release 7) (Aftermarket) (Unl).cue" size="117" crc="2dc82a91" md5="deb8e25d265826a57bb11f85ef91e1ee" sha1="1a985ce9f959c3a2291e48692f13c1d4302c3f66" />
+	</game>
+	<game name="Cave Story (USA) (Release 7) (Aftermarket) (Unl)">
+		<description>Cave Story (USA) (Release 7) (Aftermarket) (Unl)</description>
+		<rom name="Cave Story (USA) (Release 7) (Aftermarket) (Unl).bin" size="32565792" crc="741a1689" md5="119f33300a347095f5c77024e62965cc" sha1="b12f06636f13a76d1092dd355d6ee8abc9ae346c" />
+		<rom name="Cave Story (USA) (Release 7) (Aftermarket) (Unl).cue" size="114" crc="3d15cdfb" md5="6026d7d79f3b88ecbff0f2d2cdab6592" sha1="65d446ef653a1877e8790757f90652c05c24547d" />
+	</game>
+	<game name="Cave Story (USA) (Test 5) (Aftermarket) (Unl)">
+		<description>Cave Story (USA) (Test 5) (Aftermarket) (Unl)</description>
+		<rom name="Cave Story (USA) (Test 5) (Aftermarket) (Unl).bin" size="32563440" crc="00b580f8" md5="27fd9fe1b15ab73bec40ed48784aa9a8" sha1="ae377348d1a8d59744cd044564aaeeb77632cd5a" />
+		<rom name="Cave Story (USA) (Test 5) (Aftermarket) (Unl).cue" size="111" crc="d8f58b1a" md5="fd68fbe60b37127ab54f01d0317f70d4" sha1="d008e93c0f888718a7bfd4228145ec39947b823f" />
+	</game>
 	<game name="Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks)">
 		<description>Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks)</description>
 		<rom name="Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks).bin" size="37206288" crc="89f7fe6d" md5="31c01e62211abcb533b62770f0c78a80" sha1="7d8ed0ae83129e9d904e65c6652bbb1b5bbac3e2"/>
 		<rom name="Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks).cue" size="448" crc="e22cedf8" md5="06643c413a59078d72fa6edf47a1db40" sha1="6cb268eeadf7698b8485825f9e43a2363d6310f4"/>
+	</game>
+	<game name="Clay Fighter - Extreme (Apr 4, 1997 prototype)">
+		<description>Clay Fighter - Extreme (Apr 4, 1997 prototype)</description>
+		<rom name="ClayFighter Extreme (v1997-04-10) (Proto).bin" size="24500784" crc="d33c4307" md5="be5f92381e0089846376c8a52dd7ca91" sha1="a7da2f17d9d95169445de41cdde2fd93dfbc4ef9" />
+		<rom name="ClayFighter Extreme (v1997-04-10) (Proto).cue" size="105" crc="f8372aa8" md5="14af16360de83e112a252f8cebe612a0" sha1="b126499810357764ae7497a4df784dce3b127448" />
+	</game>
+	<game name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz)">
+		<description>Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz)</description>
+		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz).bin" size="126850416" crc="46fa0ea2" md5="2d83239ad3153bf2bc6eb0895f220408" sha1="d58cd3b117fe644f8c085c4b887bac1c793d2cfa" />
+		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz).cue" size="116" crc="c4a946dd" md5="a6c409572fa6d60605ed4138d2aadc83" sha1="f667ea49d78681e5e38335c892e2edf7fd331d30" />
+	</game>
+	<game name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz)">
+		<description>Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz)</description>
+		<rom name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz).bin" size="130728864" crc="13e9a37e" md5="e2f0d869fb2c8c24843e7b11dcee05ff" sha1="e5b5987c788b78774afbf1d10855e884470f9680" />
+		<rom name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz).cue" size="128" crc="9d16284c" md5="0e0956c3fa3a3c9668f06b6368c1d2d6" sha1="71dcd8f08c683f89c06046010a7c9ebf8284e70e" />
 	</game>
 	<game name="Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper)">
 		<description>Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper)</description>
@@ -64,6 +101,11 @@
 		<description>Klaymen Klaymen - Neverhood no Nazo (Japan) (En) (Unknown)</description>
 		<rom name="Klaymen Klaymen - Neverhood no Nazo (Japan) (En) (Unknown).bin" size="749930496" crc="38f0c0fd" md5="118d51dd8c9ac56e6c723aadf412fb66" sha1="8301bc7e27ebbb479601a936f398b07dc01c60c2" />
 		<rom name="Klaymen Klaymen - Neverhood no Nazo (Japan) (En) (Unknown).cue" size="124" crc="66891cb1" md5="dad24023c18d6247efd7c163a27ccfd2" sha1="03311370deefa7cfa5281e2bda666326626e7a7e" />
+	</game>
+	<game name="Loonies 8192 (NTSC) (r66) (Aftermarket) (Unl)">
+		<description>Loonies 8192 (NTSC) (r66) (Aftermarket) (Unl)</description>
+		<rom name="Loonies 8192 (NTSC) (r66) (Aftermarket) (Unl).bin" size="16393440" crc="0cdb2531" md5="ec70e4d17298ab9a935bc26e3292b1c3" sha1="0ad90b8f12040a599bd4f11f4a9b248e2efa9026" />
+		<rom name="Loonies 8192 (NTSC) (r66) (Aftermarket) (Unl).cue" size="289" crc="60796e54" md5="90f37d0e5da9837293769c4b9a33434e" sha1="5719674947b09db9c54bca772607e3a30131b8ef" />
 	</game>
 	<game name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)">
 		<description>Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga)</description>
@@ -197,6 +239,11 @@
 		<rom name="PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout).bin" size="81165168" crc="3200c7fe" md5="4e0560bced6c8086eaed8a856093f906" sha1="698c583dbd0cb40a665fbbda2f563dc01e8e3a2a" />
 		<rom name="PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout).cue" size="122" crc="a51c5c7e" md5="887c985d15266e102f4c8b69fc010281" sha1="56377393a0970e3dec0c8fccfe371d9464810e00" />
 	</game>
+	<game name="PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick)">
+		<description>PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick)</description>
+		<rom name="PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick).bin" size="110654544" crc="c6f04719" md5="7ce1af7412c1b82853a3a8eabd7b5b91" sha1="27779d190f74547fb08b8452ddeaf757c7113394" />
+		<rom name="PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick).cue" size="113" crc="aab5ff9a" md5="dae9f310309036ebe99d7160a6c5ffa2" sha1="1aa75489a06722d867223b93e2722abac53d7b13" />
+	</game>
 	<game name="PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)">
 		<description>PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)</description>
 		<rom name="PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000).bin" size="229178880" crc="eb831e71" md5="cd7ad8a834f7160d959122e133f4384a" sha1="bfad6a37ee2e941a95e2c9ba42bd44505d6e1741" />
@@ -211,6 +258,11 @@
 		<description>PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000)</description>
 		<rom name="PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000).bin" size="230493648" crc="000ed215" md5="d2156077fa6b7d7dfdfc64319c5bf91b" sha1="cc5de605879bf2b6762ef19dafa20f970f5f37cb" />
 		<rom name="PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000).cue" size="119" crc="22f38deb" md5="bbb6907542803db80926eedefa30056b" sha1="3dfda9abebe56a338051373731b05f0fd3ce98e3" />
+	</game>
+	<game name="PSXFunkin' - Vs. Dave and Bambi (DreamcastNick)">
+		<description>PSXFunkin' - Vs. Dave and Bambi (DreamcastNick)</description>
+		<rom name="PSXFunkin' - Vs. Dave and Bambi (DreamcastNick).bin" size="606340896" crc="4fd919ca" md5="f0a98226a70d6663279a8b9ac722d6db" sha1="4df046c005e7bb2551b6e9e075203144c2582d9c" />
+		<rom name="PSXFunkin' - Vs. Dave and Bambi (DreamcastNick).cue" size="113" crc="7606878f" md5="1e7a09ac73f981c2c41df7e9098620d5" sha1="3b75c168f1e241f9acdd2f6d661497febd2e4775" />
 	</game>
 	<game name="PSXFunkin' - VS. Imposter V4 (Tomscop)">
 		<description>PSXFunkin' - VS. Imposter V4 (Tomscop)</description>
@@ -239,6 +291,16 @@
 		<rom name="PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE).bin" size="155831760" crc="af686ae2" md5="2c9522c177a84b6f0dd5a8c93dfe2b5e" sha1="b0bf66713fe720cdbdb822af8ededda34be2132b" />
 		<rom name="PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE).cue" size="114" crc="1e63bd94" md5="b82b8c90c54dc6473b3617f814e2a1ab" sha1="ee1e47c3cf28e9b9545b96a851043b4d10d01d66" />
 	</game>
+	<game name="PSXFunkin' - Vs. Shaggy (v2.5.3) (DreamcastNick)">
+		<description>PSXFunkin' - Vs. Shaggy (v2.5.3) (DreamcastNick)</description>
+		<rom name="PSXFunkin' - Vs. Shaggy (v2.5.3) (DreamcastNick).bin" size="403328016" crc="7b463f93" md5="adc7a8392277e3393f25509460c64092" sha1="70567ed9f4ebd69be28eee1ad4d213ef56bff6ea" />
+		<rom name="PSXFunkin' - Vs. Shaggy (v2.5.3) (DreamcastNick).cue" size="114" crc="e2c6d03f" md5="87f229fc81ab4dde7bab51624906a5af" sha1="8ac50448c5bd86021407bf395df32909225ccf78" />
+	</game>
+	<game name="PSXFunkin' - Vs. Sky (Nintendo bro385)">
+		<description>PSXFunkin' - Vs. Sky (Nintendo bro385)</description>
+		<rom name="PSXFunkin' - Vs. Sky (Nintendo bro385).bin" size="86490096" crc="319901b6" md5="5eeeb7883e848d266adf91362f6b8c6a" sha1="69151d004fee3d0c3881dcb7f700dab92311a349" />
+		<rom name="PSXFunkin' - Vs. Sky (Nintendo bro385).cue" size="101" crc="2a28c1dd" md5="15e717e7c85c8ea932b0318e4fd77e9e" sha1="1ab23e38a4d0eca7b79d83a8cede89ee80e832cf" />
+	</game>
 	<game name="PSXFunkin' - VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000)">
 		<description>PSXFunkin' - VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000)</description>
 		<rom name="PSXFunkin' - VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000).bin" size="74781840" crc="4d9169bd" md5="9aeab180e4e2b6ce6ea0288da2c43233" sha1="43299955579d32c27583f3ba3a94bf8a019c6b69" />
@@ -248,6 +310,16 @@
 		<description>PSXFunkin' - VS. Tricky (CKDev, Lord Scout)</description>
 		<rom name="PSXFunkin' - VS. Tricky (CKDev, Lord Scout).bin" size="113324064" crc="5bc8cb67" md5="59a9b0778cce3c9afa56a807bd85989c" sha1="2a963810a63c9ab6dd0c90492eafc4dabf1472ca" />
 		<rom name="PSXFunkin' - VS. Tricky (CKDev, Lord Scout).cue" size="109" crc="f4b9cd92" md5="38808f828dd190c45597ae912a0bfe64" sha1="697a9a7085dae3c6c9680988bc9fbb16e566fcd0" />
+	</game>
+	<game name="PSXFunkin' - With Parappa (v1.1.0) (LordScout)">
+		<description>PSXFunkin' - With Parappa (v1.1.0) (LordScout)</description>
+		<rom name="PSXFunkin' - With Parappa (v1.1.0) (LordScout).bin" size="218249136" crc="3ed9b3ff" md5="698b4a843054d2fe79b3c8027618eb72" sha1="7cd73c51355daa7ae24ea8f12fd4124cd88d5a73" />
+		<rom name="PSXFunkin' - With Parappa (v1.1.0) (LordScout).cue" size="112" crc="11451a21" md5="21124cd44e7a11aec95cf3de5e07406e" sha1="8ab1b638470788052a7744520c7743fd5f34e37a" />
+	</game>
+	<game name="Rayman - Kaizoman (v20230719) (Destabilize)">
+		<description>Rayman - Kaizoman (v20230719) (Destabilize)</description>
+		<rom name="Rayman - Kaizoman (v20230719) (Destabilize).bin" size="618025632" crc="244806fd" md5="86dcdcefbf1d006d13914c0b3c8105ae" sha1="17f2462d48778a2f6f0e1c13680cc6f2906d4b51" />
+		<rom name="Rayman - Kaizoman (v20230719) (Destabilize).cue" size="3309" crc="6b6ac1f1" md5="ae6f54aa772cf5db6c38346c6f0b3b44" sha1="192de28af27f894cecf8b7c616fcf19267d5b147" />
 	</game>
 	<game name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)">
 		<description>Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)</description>
@@ -276,6 +348,16 @@
 		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).bin" size="661027248" crc="6EC403D1" md5="23CDD171B7909528F834F0C9765F27C0" sha1="029593955983A15F900C763622E0CE78BED1288F"/>
 		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).cue" size="127" crc="524FC91C" md5="1E189CE109C4F26FBEC8631AC6C8936E" sha1="FEFDFA29A1933DECDE58BEC4222C826D1AD3B5B7"/>
 	</game>
+	<game name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie)">
+		<description>Roll Boss Rush (World) (Aftermarket) (Mini Zombie)</description>
+		<rom name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie).bin" size="132330576" crc="a851808a" md5="0d563d7df4d84869eb9da9c7b6cddbf9" sha1="a30c75951524d4a363f53d9df001ecae10ae43c9" />
+		<rom name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie).cue" size="116" crc="682a2966" md5="dcbae52e5220df3e62476cb2bcfbb5de" sha1="95b32a8de2d408b7331ad2ebce137586e588e28f" />
+	</game>
+	<game name="StarCon (USA) (v1998-07-15) (Proto)">
+		<description>StarCon (USA) (v1998-07-15) (Proto)</description>
+		<rom name="StarCon (USA) (v1998-07-15) (Proto).bin" size="183653568" crc="eba52554" md5="1efc1f2279082eb7aeb48354ac7bbaf3" sha1="fc9d83c56839928ffb5c03be78eb2a031f74c0f9" />
+		<rom name="StarCon (USA) (v1998-07-15) (Proto).cue" size="138" crc="22bd276a" md5="ba9362fb35147a2dbe0a0ab4022eece7" sha1="ea76fc09f30470430b1a7c8202a9bada41767bcc" />
+	</game>
 	<game name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26)">
 		<description>Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26)</description>
 		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26).ccd" size="785" crc="C140C0D3" md5="C4C9D5C7B4AB27165C245EEF7A78106B" sha1="4D827E2A3C2AC5C0B72756388422FA754E3F4BFC"/>
@@ -302,6 +384,14 @@
 		<description>Tomb Raider II - The Golden Mask (USA) (Expansion)</description>
 		<rom name="Tomb Raider II - The Golden Mask (USA) (Expansion).bin" size="587113296" crc="bf469149" md5="ea50ca10efe0196f597e6f5bdf183716" sha1="cf3376eeac921597a37114a42dc9b3440fd86ada" />
 		<rom name="Tomb Raider II - The Golden Mask (USA) (Expansion).cue" size="3954" crc="ed9c3f29" md5="c544043f858ad5ca93ad7373b5ead25b" sha1="246112f8fcad1471d6253f2809df223bf18225a7" />
+	</game>
+	<game name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius)">
+		<description>Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius)</description>
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius) (Track 1).bin" size="349326096" crc="80ec7c98" md5="669d0707639faf0f456e2fb360153fe3" sha1="a9e7e4ef5b576a5920ad921357770c0b66271a91" />
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius) (Track 2).bin" size="33043248" crc="5f57803c" md5="d6fc12becd9a4fc82d0ba68767a96262" sha1="f20f391b0c33e22621cd1c2a13d4171046da1219" />
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius) (Track 3).bin" size="25580352" crc="8fd6ab8d" md5="1a49bf16e8e46af2744db39cc517034b" sha1="635416f6871854ead90c9a6cab2cc4afbe2e0615" />
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius) (Track 4).bin" size="34085184" crc="426ca814" md5="c1d500ec05f6919d754c6ff1984db40e" sha1="04786e51a431ac37910f7b2e3fc5294e44b3664f" />
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius).cue" size="626" crc="d0583ece" md5="1ac329c9ff0e8a8e3b92d5e5bf49575d" sha1="bb79a7d982c1e6913c5901f6b3fd5f42a4286ca5" />
 	</game>
 	<game name="WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio)">
 		<description>WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio)</description>

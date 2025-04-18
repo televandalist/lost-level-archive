@@ -11,6 +11,13 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly)">
+		<description>Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly)</description>
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly) (Track 1).bin" size="614400" crc="71ed9787" md5="82b3a2154ccc53f3ce2f256dfab810c9" sha1="347668eceb64e9803d7cde0b464c7c174ff5f9d9" />
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly) (Track 2).bin" size="1735776" crc="2ba0673d" md5="a3eb757c01a75746ab5a77b40ba20953" sha1="cbf6e5ebf591a6c29d7a902a60d7cead2cba7d37" />
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly) (Track 3).bin" size="1032499200" crc="247a8d3c" md5="36a9da7e696d3bb9843a6039d388102a" sha1="c138e1896e26ff89d36fce93336e26a5f2b70de2" />
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly).gdi" size="294" crc="d5538753" md5="1e02a5207b09f90c170f9dace97386f8" sha1="8f89838fe9ef6f06ec292e072092bd6478ed0406" />
+	</game>
 	<game name="Castlevania Resurrection (E3 Pre-Demo) (GDI)">
 		<description>Castlevania Resurrection (E3 Pre-Demo) (GDI)</description>
 		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 01).iso" size="1169408" crc="172a23e5" md5="59cb09e897e41fd4336675377f190dd8" sha1="e943b8d2fb9b3fcaed6360538553f821e484d537" />
@@ -25,6 +32,14 @@
 		<rom name="track01.bin" size="705600" crc="51abfce2" md5="8e368bb0ac2f0518043344324fa762ad" sha1="c1e214cd4e1af0e3d39c6d519cac981fad34f495" />
 		<rom name="track02.raw" size="1735776" crc="0de03f29" md5="d09be539a7074a058159505b7f5fdcb3" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" />
 		<rom name="track03.bin" size="1185760800" crc="2823c878" md5="663f0e75a9fdcb2a98bf13df46c61cd5" sha1="cc3feafd35d906e0d4207b2e94b3e96baa14c7e9" />
+	</game>
+	<game name="Golem no Maigo (Japan) (En) (v1.0) (Rolly)">
+		<description>Golem no Maigo (Japan) (En) (v1.0) (Rolly)</description>
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly) (Track 1).bin" size="356352" crc="240dd333" md5="71a2a86f4f0558cc4e6d2f9fe57492a1" sha1="80f56daff866bec9191958362d14146332a746ae" />
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly) (Track 2).bin" size="705600" crc="02864c0e" md5="1234dd57f3af7775d57493b54d59bceb" sha1="aa64beff052e53741bba9c2f10aa781d05c96e38" />
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly) (Track 3).bin" size="180224" crc="d01d31a9" md5="a4a38f762b0c12c690a43b2c159dad2b" sha1="a787bf2b3ed17dd625c6e4da515debea5a88949b" />
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly) (Track 4).bin" size="483002368" crc="d674c46d" md5="6bcdcfacf7ccd04f76735638a9241ef2" sha1="26cc4b2182cd77d61fdfb068f2a897f57aeee4ab" />
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly).gdi" size="307" crc="55babf0d" md5="a5bd9693d8e49dc1674357caec739dd3" sha1="660c0309aab3cae8075d268a882d0c276c42662a" />
 	</game>
 	<game name="Grandia II (USA) (Undub) (v1.00) (AnoHito)" cloneof="Grandia II (USA)">
 		<description>Grandia II (USA) (Undub) (v1.00) (AnoHito)</description>
@@ -61,6 +76,27 @@
 		<rom name="track08.raw" size="13566336" crc="caf9e6f9" md5="1c8fa6f4afbc3b962d5fd9fef574aa54" sha1="d9cdaec2bb7f52b2ebe60b5db2523c1f787105f1" />
 		<rom name="track09.bin" size="966634368" crc="318ecd3c" md5="a33d22c27b9213b1bbc484a420cb8d89" sha1="bd7f3653c65fcb397505efa161981fe6e67c0e14" />
 	</game>
+	<game name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella)">
+		<description>Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella)</description>
+		<rom name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella) (Track 01).bin" size="21015120" crc="ab538372" md5="7d0a76c3f69076dd642e763dcfcc0a32" sha1="a8d773dd4c32a8e8143ef4abc1d5c5dc7847c00b" />
+		<rom name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella) (Track 02).bin" size="17654112" crc="02442908" md5="b5ada53e08ed1c5a20207895d4115ce1" sha1="b982450a02f9ace5c3de2c510bb7e32a60c2c29c" />
+		<rom name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella) (Track 03).bin" size="1185760800" crc="dcd96aee" md5="788c30f19e6517df394ae1fa10388fd0" sha1="b38b4a465bfee76b1e2d42639a6b6e5e81681c8d" />
+		<rom name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella).gdi" size="334" crc="331926be" md5="97e9eca32514718b98465fb62a385a05" sha1="8e84f5430be09ba4d76314c547c85cd909e5974c" />
+	</game>
+	<game name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria)">
+		<description>Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria)</description>
+		<rom name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria) (Track 1).bin" size="4864000" crc="fbd07581" md5="9e280abac2dc46b3e610bd012212e54e" sha1="f2d2b95f5e6244c2b11521ac3d3f197dccfaa642" />
+		<rom name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria) (Track 2).bin" size="2822400" crc="cd9e3f56" md5="1c31d7f58be6ed5eb334db153c9dbac3" sha1="6ebd685a93202920ff5f43cdbb728661cc637889" />
+		<rom name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria) (Track 3).bin" size="1032499200" crc="85cc5bcc" md5="6ef9b7b4f4a239428409a584d2e5ba73" sha1="58c1e260992a34755b159ff892aed42951573bfd" />
+		<rom name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria).gdi" size="313" crc="e0c7e8f1" md5="f545f9581bd2eca54186aabee174cb72" sha1="23f788b419328db7b58e27cad39c013861e23a69" />
+	</game>
+	<game name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin)">
+		<description>Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin)</description>
+		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin) (Track 01).bin" size="1058400" crc="8990e0f6" md5="037e846bf5bc602251c40c8497fa3a1b" sha1="fa309e44461f58040ba96d66e34baea1388a1fb3" />
+		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin) (Track 02).bin" size="10948560" crc="c9961131" md5="932face99d8ebc48de4adb89b0d260e0" sha1="aee5d258dfbd01f226b585243f7725d4843c92df" />
+		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin) (Track 03).bin" size="1185760800" crc="1b9a87e6" md5="f698dfcbae6873352895e81dec097ec4" sha1="ae146a07911d77b15db42dd9c3cd622314661b6d" />
+		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin).gdi" size="291" crc="be2e7983" md5="4a720e4b817f1e56f5f69c89430b73a7" sha1="0392b5b76e2b40d702161ff531cbd21b63f49b04" />
+	</game>
 	<game name="Propeller Arena (USA) (2001-09-11) (Prototype) (BIN-CUE)">
 		<description>Propeller Arena (USA) (2001-09-11) (Prototype) (BIN-CUE)</description>
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 1).bin" size="705600" crc="0273e7ae" md5="9c9aff05221526e2de67f17338c7069f" sha1="16da502568f6a520d1f84fdb8c3775143b3aa5c5" />
@@ -74,6 +110,17 @@
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 2).raw" size="1237152" crc="99566185" md5="5a6c3ee28764b05886836c5552f87e8a" sha1="149f252882d31cbd0f21a2f93f4380135caeb1b2" />
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 3).bin" size="1185760800" crc="74446f13" md5="caa392704776a842f1273761dd790b7f" sha1="d40776e64a20aa19930c3f06406cbe9794505be1" />
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype).gdi" size="234" crc="ace7679f" md5="ec6815225e4066cad23e57caffad0f21" sha1="7d419c7675d930f280a74ea90b19e64b6f5326a3" />
+	</game>
+	<game name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1)">
+		<description>Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1)</description>
+		<rom name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1) (Disc 1) (Track 1).bin" size="705600" crc="fdf2bf73" md5="dad70590e77d8190fe4198e0972be798" sha1="4ac87551f8476a889e127705e22e0c51e07d1817" />
+		<rom name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1) (Disc 1) (Track 2).bin" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" />
+		<rom name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1) (Disc 1) (Track 3).bin" size="1185760800" crc="413470c0" md5="49aad027829ff08964893fe78f8b1f7e" sha1="696c48da4f83c0bb0c2a9cb329139e13534b52d7" />
+		<rom name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1) (Disc 1).gdi" size="324" crc="da467f9d" md5="6d67a40f1ee678ba3db1680dc98d8fe8" sha1="2fc3dafca02e23c397c57f9957d3ac26c4f4c0ad" />
+		<rom name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1) (Disc 2) (Track 1).bin" size="705600" crc="ac480b86" md5="119f4ba601e5c1b0d8819b9299a33245" sha1="4fcda01f098a419a52d79539543fbc6dcc3a0e36" />
+		<rom name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1) (Disc 2) (Track 2).bin" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" />
+		<rom name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1) (Disc 2) (Track 3).bin" size="1185760800" crc="a261d878" md5="37badf5d3f72926080b6137aac1b3ae1" sha1="9312048da9e6c83d5bfdd837653317354fc281af" />
+		<rom name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1) (Disc 2).gdi" size="324" crc="0bdfe826" md5="a25f927f0183e91a6108a2209fa544ad" sha1="53e3d5aee3642ea1ec70f19b8d0f22d90f33f289" />
 	</game>
 	<game name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger)">
 		<description>Resident Evil 2 - Special Edition (v1.0) (Green Ranger)</description>
@@ -112,6 +159,13 @@
 		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (Track 02).raw" size="2147376" crc="1620e4e8" md5="ef62e7c19496ecbef1d5c755e37a152b" sha1="e50b6b0c2adb2752bc2ee0f9fbe486d6b81099ce" />
 		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (Track 03).bin" size="1185760800" crc="b75aab61" md5="9702319e97135bef28e3f0019d261798" sha1="18de6a9a5ae499992139ac27366f184969006856" />
 		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype).gdi" size="267" crc="48e28b2d" md5="a586e510d511885a5d05b2435db7160f" sha1="2e9c99f307c6c2567b0cc57ca44c8e2d12915941" />
+	</game>
+	<game name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE)">
+		<description>Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE)</description>
+		<rom name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE) (Track 1).bin" size="1980384" crc="91085a49" md5="71828a7508803faf6803b79277a19ba3" sha1="3831d394847474fee9806937de3809ec1357a846" />
+		<rom name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE) (Track 2).bin" size="2076816" crc="2c8741b5" md5="2fcdfd967c3fdc59812877628f480653" sha1="123ec231eeecaaea208432e7313bc16f1bd22f2a" />
+		<rom name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE) (Track 3).bin" size="1185760800" crc="b6a1d587" md5="a142c7a1db1439bcc724a894b59575f3" sha1="9152e0c6bff875edf0e1fcc70edb0e39070d3f5e" />
+		<rom name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE).cue" size="444" crc="e308dc72" md5="08db1f35063096b400a630e9bffcf9ef" sha1="567b527e6aeb943588c86dad9088b42ca7944169" />
 	</game>
 	<game name="Ultimate Doom, The (World) (Aftermarket) (Unl)">
 		<description>Ultimate Doom, The (World) (Aftermarket) (Unl)</description>

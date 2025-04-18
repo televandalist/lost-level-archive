@@ -11,6 +11,11 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster)">
+		<description>Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster)</description>
+		<rom name="Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster).bin" size="719038112" crc="6176265a" md5="8efaa16bce7cdb1c35048b4f049ce4d7" sha1="72606100a70a0dea7d9796f1cf0035bf90176c01" />
+		<rom name="Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster).cue" size="953" crc="38fbcf22" md5="ae99bf33af61381e10f172dd4f18a839" sha1="07b88578d1b479b24988b20b8bb35f764fec8a75" />
+	</game>
 	<game name="Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon)">
 		<description>Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon)</description>
 		<rom name="Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon).bin" size="2648352" crc="a90e5870" md5="9da3fd57be1d082bcd556fc347a6d716" sha1="c6bb438240a5e334628e16ea6a932491c00a24af" />
