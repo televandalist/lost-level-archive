@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250405</version>
+		<version>v20250418</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -92,11 +92,6 @@
 		<description>Nicktoons Slap Shot (USA) (Prototype) (2004-03-25)</description>
 		<rom name="Nicktoons Slap Shot (USA) (Prototype) (2004-03-25).iso" size="129282048" crc="1cc6650b" md5="e870118777ef83bd7eb11bdf758d66c3" sha1="a9a672902c0b0532c3ad0617aacaa51221f032b3" />
 	</game>
-	<game name="Project Zero (Europe) (Undub) (v1.0.3) (wagrenier) (Fixes) (Widescreen)">
-		<description>Project Zero (Europe) (Undub) (v1.0.3) (wagrenier) (Fixes) (Widescreen)</description>
-		<link type="Project Page">https://github.com/wagrenier/ZeroUndub</link>
-		<rom name="Project Zero (Europe) (Undub) (v1.0.3) (wagrenier) (Fixes) (Widescreen).iso" size="3750100992" crc="8d025d38" md5="59d730a5d57a91bc2599308bb2883a0a" sha1="8f4e4f53e74f74c4ea67ffadad163a65af3f5591" />
-	</game>
 	<game name="Project Zero (Europe) (Undub) (v1.0.3) (wagrenier)">
 		<description>Project Zero (Europe) (Undub) (v1.0.3) (wagrenier)</description>
 		<link type="Project Page">https://github.com/wagrenier/ZeroUndub</link>
@@ -111,13 +106,13 @@
 		<description>Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32)</description>
 		<rom name="Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32).iso" size="19466240" crc="1af1fba9" md5="7d1efb60b53865504b4e6b1c2d1b8dc2" sha1="84752fb9c30d90025a2389ae843e68340d4ebdaa" />
 	</game>
-	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (SlayerOfGod)">
-		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (SlayerOfGod)</description>
-		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (SlayerOfGod).iso" size="4484464640" crc="920015fa" md5="df0ddaf6390d668fe61cdd8eb25a4a06" sha1="6563d2863443c3062390a267d739e92ad68152c1" />
+	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.0) (SlayerOfGod)">
+		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.0) (SlayerOfGod)</description>
+		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.0) (SlayerOfGod).iso" size="4484464640" crc="920015fa" md5="df0ddaf6390d668fe61cdd8eb25a4a06" sha1="6563d2863443c3062390a267d739e92ad68152c1" />
 	</game>
-	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (SlayerOfGod)">
-		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (SlayerOfGod)</description>
-		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (SlayerOfGod).iso" size="4484562944" crc="30d6c9fc" md5="9b47ff4c64bcba63c51a684cebef5ac6" sha1="d74f6f5450d966679f23cb867f0ca8f88b481392" />
+	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.0) (Kotoba)">
+		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.0) (Kotoba)</description>
+		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.0) (Kotoba).iso" size="4484562944" crc="30d6c9fc" md5="9b47ff4c64bcba63c51a684cebef5ac6" sha1="d74f6f5450d966679f23cb867f0ca8f88b481392" />
 	</game>
 	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)">
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)</description>
