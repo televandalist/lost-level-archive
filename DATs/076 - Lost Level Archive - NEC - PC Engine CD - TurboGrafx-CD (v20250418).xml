@@ -5,16 +5,16 @@
 		<id>076</id>
 		<name>076 - Lost Level Archive - NEC - PC Engine CD - TurboGrafx-CD</name>
 		<description>NEC - PC Engine CD - TurboGrafx-CD</description>
-		<version>v20250405</version>
+		<version>v20250418</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper)">
-		<description>Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper)</description>
-		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper).bin" size="739602864" crc="a33c15c3" md5="1911b009009ef9812db0f292f723846c" sha1="fb4be5ded8340f4304849dc0aa2c9bf9c876d2c3" />
-		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper).cue" size="1051" crc="017ddc12" md5="a900f2d730f786c9065fd438ac5d0afb" sha1="131beae0d033d515fc4dce021229a45c2796a3a8" />
+	<game name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.3) (Supper)">
+		<description>Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.3) (Supper)</description>
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.3) (Supper).bin" size="739602864" crc="a33c15c3" md5="1911b009009ef9812db0f292f723846c" sha1="fb4be5ded8340f4304849dc0aa2c9bf9c876d2c3" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.3) (Supper).cue" size="1051" crc="d7ea9556" md5="f26c21398cb5cbd7f8552540b967117b" sha1="245c27621e214882635fca8526a938d1f8e897b3" />
 	</game>
 	<game name="Insantaty (World) (Aftermarket) (AetherBye)">
 		<description>Insantaty (World) (Aftermarket) (AetherBye)</description>
