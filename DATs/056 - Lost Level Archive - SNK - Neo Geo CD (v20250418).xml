@@ -5,7 +5,7 @@
 		<id>056</id>
 		<name>056 - Lost Level Archive - SNK - Neo Geo CD</name>
 		<description>SNK - Neo Geo CD</description>
-		<version>v20250402</version>
+		<version>v20250418</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -15,7 +15,6 @@
 		<description>Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon)</description>
 		<rom name="Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon).bin" size="2648352" crc="a90e5870" md5="9da3fd57be1d082bcd556fc347a6d716" sha1="c6bb438240a5e334628e16ea6a932491c00a24af" />
 		<rom name="Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon).cue" size="135" crc="1fd48e62" md5="a2d78635a774697a538108d6460a9938" sha1="a28456376a693aa652fcd0d3e7a08d5b6b700d14" />
-		<rom name="Project Neon Caravan (World) (Demo) (Aftermarket) (Team Project Neon).iso" size="2306048" crc="f48a2d13" md5="8cc5a2a797667e28d3046c63b4e367c4" sha1="332ac959eb7024961cc2344a169a1666e0561229" />
 	</game>
 	<game name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman)">
 		<description>Shinobi (World) (v1.0) (Aftermarket) (Hoffman)</description>
@@ -44,5 +43,12 @@
 		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 9).wav" size="5450646" crc="e22f622f" md5="e36cc50cbedc784633e943925c297f75" sha1="44fc196a5401f81019c1349acee2ed0eab212a9a" />
 		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 10).wav" size="28651464" crc="9a284eb7" md5="97431a62ce3ea90936d301887a215069" sha1="4ee6e5c96d10f90634a8951e18f6d948be2fbd1a" />
 		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman).cue" size="1364" crc="3f49d77e" md5="8c2675ec040ba57d7001bec24ba8f58b" sha1="a0b208e9f4713768071cc96d9816e5017dbe75a2" />
+	</game>
+	<game name="Time Up's (World) (Aftermarket) (Unl)">
+		<description>Time Up's (World) (Aftermarket) (Unl)</description>
+		<rom name="Time Up's (World) (Aftermarket) (Unl).ccd" size="2005" crc="7e5578cf" md5="40407816a93a14b51ec9516412ede6f7" sha1="95e56968fd4cd09859b1f9282bba9d77e076521f" />
+		<rom name="Time Up's (World) (Aftermarket) (Unl).cue" size="4340" crc="25d4bfe1" md5="20445ebe4338fde68d9de149bc7c1e59" sha1="7b5e0fa7f4688516614223bd421db88e9e9743de" />
+		<rom name="Time Up's (World) (Aftermarket) (Unl).img" size="254611056" crc="590ce7c4" md5="923c54740a822eefd1ce05d3fce4ffa7" sha1="7a309faefa57a04e00e5e7afc8a3140313da7f99" />
+		<rom name="Time Up's (World) (Aftermarket) (Unl).sub" size="10392288" crc="1243dd98" md5="59f52a60ef590156c3085821e2b9f105" sha1="de53d36b12b971db8655a14074f826aaf0d3db6a" />
 	</game>
 </datafile>

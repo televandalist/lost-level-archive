@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>007</id>
+		<name>007 - Lost Level Archive - Nintendo - Famicom - NES (UNF)</name>
+		<description>Nintendo - Famicom - NES (UNF)</description>
+		<version>v20250418</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Legend of Zelda, The - Triforce of the Gods (China) (Bootleg) (Unl)">
+		<description>Legend of Zelda, The - Triforce of the Gods (China) (Bootleg) (Unl)</description>
+		<rom name="Legend of Zelda, The - Triforce of the Gods (China) (Bootleg) (Unl).unf" size="2097259" crc="7e5d38bc" md5="27c2f42fc219e0360e4d3ae448cb0f29" sha1="9f5844bc73e7215f48678da179d0a8b3d53b2303" />
+	</game>
+	<game name="Mortal Kombat II (Yoko Soft) (China) (En) (Bootleg) (Unl)">
+		<description>Mortal Kombat II (Yoko Soft) (China) (En) (Bootleg) (Unl)</description>
+		<rom name="Mortal Kombat II (Yoko Soft) (China) (En) (Bootleg) (Unl).unf" size="524394" crc="66c567d3" md5="dfaa720ae4b1670c0e6f0d5a0449b03b" sha1="aca98e4570f05a33d72a50a685243999e06faf85" />
+	</game>
+	<game name="Mortal Kombat II (Yoko Soft) (China) (Ru) (Bootleg) (Unl)">
+		<description>Mortal Kombat II (Yoko Soft) (China) (Ru) (Bootleg) (Unl)</description>
+		<rom name="Mortal Kombat II (Yoko Soft) (China) (Ru) (Bootleg) (Unl).unf" size="524394" crc="6ede7f49" md5="4c73a251e911c7b5125a43962fd755f7" sha1="46d80f2d97e64077516f03a8932cc1c6712e86e4" />
+	</game>
+	<game name="Mortal Kombat II (Yoko Soft) - MK V Pro (China) (En) (Bootleg) (Unl)">
+		<description>Mortal Kombat II (Yoko Soft) - MK V Pro (China) (En) (Bootleg) (Unl)</description>
+		<rom name="Mortal Kombat II (Yoko Soft) - MK V Pro (China) (En) (Bootleg) (Unl).unf" size="524398" crc="e0ecb4e2" md5="448e681940e2f4809e6bb4af3cda099a" sha1="c6268c6738a04277ed50c2fe599c754f78c5ed66" />
+	</game>
+	<game name="Mortal Kombat II (Yoko Soft) - MK V Pro (China) (Ru) (Bootleg) (Unl)">
+		<description>Mortal Kombat II (Yoko Soft) - MK V Pro (China) (Ru) (Bootleg) (Unl)</description>
+		<rom name="Mortal Kombat II (Yoko Soft) - MK V Pro (China) (Ru) (Bootleg) (Unl).unf" size="524398" crc="3c29d9e6" md5="e1407884d380c88905c52b72c4adb1f6" sha1="50aaca7076ff068a7e9c0ffea179eb9f0ad4863d" />
+	</game>
+	<game name="Samurai Spirits (Taiwan) (Bootleg) (Unl)">
+		<description>Samurai Spirits (Taiwan) (Bootleg) (Unl)</description>
+		<rom name="Samurai Spirits (Taiwan) (Bootleg) (Unl).unf" size="786559" crc="08c3dbf6" md5="ec199f8e186eb64707bdbf0c31ae3741" sha1="4bd43306862972d1527c9427e528708b0cb712c5" />
+	</game>
+	<game name="Shudo (China) (Bootleg) (Unl)">
+		<description>Shudo (China) (Bootleg) (Unl)</description>
+		<rom name="Shudo (China) (Bootleg) (Unl).unf" size="196736" crc="28b9fe15" md5="723a293e8a150a713e0eefef178b3685" sha1="627f16c65425e609ddeaf72951e9c5b2a5cc5b37" />
+	</game>
+</datafile>

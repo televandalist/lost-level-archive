@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250402</version>
+		<version>v20250418</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -121,6 +121,31 @@
 		<description>Mike Visor (USA) (Aftermarket) (Aionmagan)</description>
 		<rom name="Mike Visor (USA) (Aftermarket) (Aionmagan).bin" size="40252128" crc="db70c283" md5="f1be3a75abfd3b9a30d522c50f4fbbae" sha1="89403d86af691bf2b79c7cd58eb07a7592e45613" />
 		<rom name="Mike Visor (USA) (Aftermarket) (Aionmagan).cue" size="108" crc="367d8780" md5="9faead6af01fd8079a6211b4ec9e1dcd" sha1="a632a617856879af3d07e41f661c6db8c15e1e3b" />
+	</game>
+	<game name="Net Yaroze - 2019 Mini Compilation (NTSC) (Aftermarket) (Unl)">
+		<description>Net Yaroze - 2019 Mini Compilation (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Net Yaroze - 2019 Mini Compilation (NTSC) (Aftermarket) (Unl).bin" size="53134032" crc="b13ef463" md5="95ed2e2a807c19fee5ff0b437745a0fd" sha1="2672ddc2374f615be873d9139c79babd6bab26a4" />
+		<rom name="Net Yaroze - 2019 Mini Compilation (NTSC) (Aftermarket) (Unl).cue" size="127" crc="8c4c4ecf" md5="aff6ec0cd0123c98e182c88f478b90f2" sha1="a778ab7aebd23ce9182189fe2adbb35b0f13a534" />
+	</game>
+	<game name="Net Yaroze - Game Jam 2022 (NTSC) (Aftermarket) (Unl)">
+		<description>Net Yaroze - Game Jam 2022 (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Net Yaroze - Game Jam 2022 (NTSC) (Aftermarket) (Unl).bin" size="219420432" crc="4246fa98" md5="1c5324f9850a224abb308bef8384e283" sha1="2b3b4feb7b6a0d86db941cb634634fd3e3bd9029" />
+		<rom name="Net Yaroze - Game Jam 2022 (NTSC) (Aftermarket) (Unl).cue" size="884" crc="52f3c74d" md5="2e64fd6d3b2aafb9ba9e5428bd5bda89" sha1="755f54e43cf8ae1b059597857d2a433513a53a90" />
+	</game>
+	<game name="Net Yaroze - Game Jam 2022 (PAL) (Aftermarket) (Unl)">
+		<description>Net Yaroze - Game Jam 2022 (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Net Yaroze - Game Jam 2022 (PAL) (Aftermarket) (Unl).bin" size="218985312" crc="62ab8b2a" md5="f199482c8e4b7189c68661a8b5a66c47" sha1="5d2aadf1c57012294b006ac56592a9c5bc51b2f0" />
+		<rom name="Net Yaroze - Game Jam 2022 (PAL) (Aftermarket) (Unl).cue" size="883" crc="28ed8f6b" md5="5ca5c18a44a81e2f53d5a57045a48819" sha1="9216c6ed7a91e52a937c2475a225f36691bbbf43" />
+	</game>
+	<game name="Net Yaroze - Game Jam 2023 (NTSC) (Aftermarket) (Unl)">
+		<description>Net Yaroze - Game Jam 2023 (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Net Yaroze - Game Jam 2023 (NTSC) (Aftermarket) (Unl).bin" size="46802448" crc="3e574b30" md5="e99db2b707baba3c86a42d14a4597034" sha1="66c757144707e399e94574c37cb07419ad8c3198" />
+		<rom name="Net Yaroze - Game Jam 2023 (NTSC) (Aftermarket) (Unl).cue" size="121" crc="57667d98" md5="3044334bb80c05c314b391096218a2b7" sha1="496b79cc539b2360cbc3d386954c0448aa05e57d" />
+	</game>
+	<game name="Net Yaroze - Game Jam 2023 (PAL) (Aftermarket) (Unl)">
+		<description>Net Yaroze - Game Jam 2023 (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Net Yaroze - Game Jam 2023 (PAL) (Aftermarket) (Unl).bin" size="46630752" crc="d65e210b" md5="2f7bba7058979931e412cb8a2c85b9b5" sha1="e85d0ca8b6f8833d90070aee4b4747eceac1e56f" />
+		<rom name="Net Yaroze - Game Jam 2023 (PAL) (Aftermarket) (Unl).cue" size="120" crc="bd4b44b0" md5="750c9b24da11ce5599b3bd5d22d27dd3" sha1="9fde2219bde55dbe47ca242c433808d45a35f924" />
 	</game>
 	<game name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)">
 		<description>Net Yaroze Collection 2014 (World) (Net Yaroze) (Various)</description>

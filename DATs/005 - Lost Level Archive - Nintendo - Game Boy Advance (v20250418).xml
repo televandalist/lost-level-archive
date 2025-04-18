@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20250402</version>
+		<version>v20250418</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,6 +14,10 @@
 	<game name="Apotris (World) (v4.0.2) (Aftermarket) (Unl)">
 		<description>Apotris (World) (v4.0.2) (Aftermarket) (Unl)</description>
 		<rom name="Apotris (World) (v4.0.2) (Aftermarket) (Unl).gba" size="4194304" crc="107f69e0" md5="cbbb81a27188b76d68374ec7ef888329" sha1="7b4be37971335759ecc828b290338ab35e047017" />
+	</game>
+	<game name="Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl)">
+		<description>Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl).gba" size="33554432" crc="17e5586a" md5="885afa63766831dae4f8379999d99bdc" sha1="1151d4df2761384528fecd47a7ef1a32de93fb44" />
 	</game>
 	<game name="Astrohawk Advance (World) (Demo) (Unl)">
 		<description>Astrohawk Advance (World) (Demo) (Unl)</description>
@@ -38,6 +42,10 @@
 	<game name="Bust-A-Move GBA (World) (Fan Port by Russ Prince) (Unl)">
 		<description>Bust-A-Move GBA (World) (Fan Port by Russ Prince) (Unl)</description>
 		<rom name="Bust-A-Move GBA (World) (Fan Port by Russ Prince) (Unl).gba" size="943512" crc="da9dbbb1" md5="069590b64f6232c6a50c8522f71cdf73" sha1="b8593dc2a6170ebe58ec77a0e9d1d5f3811d0e6d" />
+	</game>
+	<game name="Celeste (World) (v1.1 Beta) (Aftermarket) (Unl)">
+		<description>Celeste (World) (v1.1 Beta) (Aftermarket) (Unl)</description>
+		<rom name="Celeste (World) (v1.1 Beta) (Aftermarket) (Unl).gba" size="1049632" crc="093e3f81" md5="b80cc711be05a40a2707fbf8027f120e" sha1="28e06f2cf9782a68a2fe17fabdab95ef91212d6e" />
 	</game>
 	<game name="Chocobo World Deluxe (World) (v1.01) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl)">
 		<description>Chocobo World Deluxe (World) (v1.01) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl)</description>
@@ -147,6 +155,10 @@
 		<description>Kimiga Nozomu Eien (Japan) (Fan Port) (Unl)</description>
 		<rom name="Kimiga Nozomu Eien (Japan) (Fan Port) (Unl).gba" size="29097984" crc="8da71862" md5="2e13a93cc89cd008cbdcaf875c5b0afd" sha1="0cd12d7f4602dd3c4c2eee8cb8e1a55c23ba05ae" />
 	</game>
+	<game name="Kinoko (World) (Aftermarket) (Unl)">
+		<description>Kinoko (World) (Aftermarket) (Unl)</description>
+		<rom name="Kinoko (World) (Aftermarket) (Unl).gba" size="212608" crc="a5ba26b7" md5="eb498f1d86dcaac2d8d75ab7e2fbc8ef" sha1="ccaa55623c15dd4cfbac6f2dd278989bf8b1295a" />
+	</game>
 	<game name="Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl)">
 		<description>Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl)</description>
 		<rom name="Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl).gba" size="638704" crc="84602266" md5="6d2a68e6c7511a55b0e47ebb8d880dda" sha1="40d150f3612f6ab27943ca421634ceea0b70dd4f" />
@@ -154,6 +166,10 @@
 	<game name="Lockjaw - The Overdose (World) (v20060722) (Unl)">
 		<description>Lockjaw - The Overdose (World) (v20060722) (Unl)</description>
 		<rom name="Lockjaw - The Overdose (World) (v20060722) (Unl).gba" size="147200" crc="7d286b94" md5="5038fcb3ad23f3ee6c15efb8005078d4" sha1="e5f3eef9d7ed3aa3bf31a33b4b528e8d2384aaa2" />
+	</game>
+	<game name="Loonies 8192 (World) (r66 - Sound Fix) (Aftermarket) (Unl)">
+		<description>Loonies 8192 (World) (r66 - Sound Fix) (Aftermarket) (Unl)</description>
+		<rom name="Loonies 8192 (World) (r66 - Sound Fix) (Aftermarket) (Unl).gba" size="329280" crc="41867da6" md5="50286f8303363bef56e0da3da4476fa1" sha1="9f61a5e18a3665f114ed0f9b1f34ef69418dee20" />
 	</game>
 	<game name="Luigi Puzzle (World) (v1.2) (Unl)">
 		<description>Luigi Puzzle (World) (v1.2) (Unl)</description>
@@ -166,6 +182,10 @@
 	<game name="Luminous (World) (v20051122) (Unl)">
 		<description>Luminous (World) (v20051122) (Unl)</description>
 		<rom name="Luminous (World) (v20051122) (Unl).gba" size="935220" crc="7197f168" md5="92943c659a5628c46d23f7e933f73c9a" sha1="5ef8a021188ba8db7c60884bbd7d716df30216ba" />
+	</game>
+	<game name="Magic Floor (World) (Aftermarket) (Unl)">
+		<description>Magic Floor (World) (Aftermarket) (Unl)</description>
+		<rom name="Magic Floor (World) (Aftermarket) (Unl).gba" size="5660" crc="dfbd4abf" md5="c8845c74ebe2bb6e145439be824bfffa" sha1="1d97018500eaf7a8c90177e89ab419fb16238844" />
 	</game>
 	<game name="MarioBreak (World) (v1.0) (Unl)">
 		<description>MarioBreak (World) (v1.0) (Unl)</description>
@@ -186,6 +206,10 @@
 	<game name="Nuclear Love (World) (v1.1) (Aftermarket) (Unl)">
 		<description>Nuclear Love (World) (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Nuclear Love (World) (v1.1) (Aftermarket) (Unl).gba" size="545832" crc="22a6a8e9" md5="3799e4aee79b79af793511121d702811" sha1="d97b2c014c97a3f859ad8fb453fabbe57fabb985" />
+	</game>
+	<game name="OpenLara GBA (World) (v20230302) (Aftermarket) (Unl)">
+		<description>OpenLara GBA (World) (v20230302) (Aftermarket) (Unl)</description>
+		<rom name="OpenLara GBA (World) (v20230302) (Aftermarket) (Unl).gba" size="10210240" crc="3ac64ef0" md5="092608265cc47ee746747c04d84d69a3" sha1="775f5965414874cd1117c1ad0fcd78d8033ad5fc" />
 	</game>
 	<game name="Picross Advance (World) (GBAX2005) (Aftermarket) (Unl)">
 		<description>Picross Advance (World) (GBAX2005) (Aftermarket) (Unl)</description>
