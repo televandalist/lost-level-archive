@@ -110,9 +110,17 @@
 		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.0) (SlayerOfGod)</description>
 		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.0) (SlayerOfGod).iso" size="4484464640" crc="920015fa" md5="df0ddaf6390d668fe61cdd8eb25a4a06" sha1="6563d2863443c3062390a267d739e92ad68152c1" />
 	</game>
+	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.02) (SlayerOfGod)">
+		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.02) (SlayerOfGod)</description>
+		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.02) (SlayerOfGod).iso" size="4484497408" crc="840eca1f" md5="cedc291f810e9b07cd166fbc072c4fc0" sha1="bb7545b4fccaef81ba22f41e418027c17ae3f202" />
+	</game>
 	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.0) (Kotoba)">
 		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.0) (Kotoba)</description>
 		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.0) (Kotoba).iso" size="4484562944" crc="30d6c9fc" md5="9b47ff4c64bcba63c51a684cebef5ac6" sha1="d74f6f5450d966679f23cb867f0ca8f88b481392" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.02) (Kotoba)">
+		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.02) (Kotoba)</description>
+		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.02) (Kotoba).iso" size="4485382144" crc="1b630d0a" md5="55fe2385e132d544a3d1c36c2b8a8ea4" sha1="778e82c7463233727bcc0a7e856545ed7eb52553" />
 	</game>
 	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)">
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)</description>
