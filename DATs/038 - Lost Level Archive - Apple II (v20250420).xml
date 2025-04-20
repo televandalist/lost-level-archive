@@ -5,7 +5,7 @@
 		<id>038</id>
 		<name>038 - Lost Level Archive - Apple II</name>
 		<description>Apple II</description>
-		<version>v20250402</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
@@ -1117,5 +1117,9 @@
 	<game name="Tristam (2020) (Hugo Labrande)">
 		<description>Tristam (2020) (Hugo Labrande)</description>
 		<rom name="Tristam (2020) (Hugo Labrande).dsk" size="143360" crc="f71adc40" md5="db076f7e013216e221fad1de00fa56bd" sha1="7fabf9ce7eec4533e826a0ba2060193443b6b199" />
+	</game>
+	<game name="Where in Hell is Carmen Santiago (1990) (St. John M. Morrison)">
+		<description>Where in Hell is Carmen Santiago (1990) (St. John M. Morrison)</description>
+		<rom name="Where in Hell is Carmen Santiago (1990) (St. John M. Morrison).po" size="819200" crc="292bb5d1" md5="fd57e7627fec7a3e889d2342653fc180" sha1="e266225921b9615bef29a65d192ee4b9060b4416" />
 	</game>
 </datafile>

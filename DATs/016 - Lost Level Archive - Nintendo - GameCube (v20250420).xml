@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20250418</version>
+		<version>v20250420</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -54,6 +54,10 @@
 	<game name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker)">
 		<description>Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker)</description>
 		<rom name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker).iso" size="1408532480" crc="de2b5629" md5="bfb3752412c9827732b53f6590ccb408" sha1="753af1b8024d0e43d1d0047d65b4be67143fd22e" />
+	</game>
+	<game name="Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi)">
+		<description>Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi)</description>
+		<rom name="Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi).iso" size="1459978240" crc="c9ee72ac" md5="b1ceae4be3e4a477a4a82046128eef2d" sha1="13c9efcce277bc313ff7158e7e5cd44741938a7b" />
 	</game>
 	<game name="Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker)">
 		<description>Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker)</description>

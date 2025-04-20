@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250402</version>
+		<version>v20250420</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -298,6 +298,10 @@
 	<game name="Wishing Sarah (World) (PT-BR) (v1.1) (Aftermarket) (Unl)" cloneof="Wishing Sarah (World) (En) (v1.1) (Aftermarket) (Unl)">
 		<description>Wishing Sarah (World) (PT-BR) (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Wishing Sarah (World) (PT-BR) (v1.1) (Aftermarket) (Unl).gbc" size="524288" crc="ab6cf21e" md5="f7eba1c53b02624852daea423a71c4ea" sha1="575b8b0f6fdb2d41623e7f2fe9902c87236f1a36" />
+	</game>
+	<game name="Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)">
+		<description>Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)</description>
+		<rom name="Yoshi Joins Bowser (World) (Aftermarket) (GB Studio).gbc" size="4194304" crc="50d28cbd" md5="e383d1b54c470c6ab2a09d43398929a1" sha1="8d2f22d8ad9a48311d27ac5096f7118c0e9e5282" />
 	</game>
 	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (De)">
 		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (De)</description>

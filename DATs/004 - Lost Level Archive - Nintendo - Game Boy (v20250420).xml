@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250402</version>
+		<version>v20250420</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -239,6 +239,10 @@
 		<description>Max Pirate (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Max Pirate (World) (v1.0) (Aftermarket) (Unl).gb" size="32768" crc="7d469b66" md5="a67b8f4599df3bb2a6ac58e193db69f4" sha1="35f9784f0d6093f2411c3265198c940645f4d065" />
 	</game>
+	<game name="Melting Apartment, The (World) (Aftermarket) (Unl)">
+		<description>The Melting Apartment, The (World) (Aftermarket) (Unl)</description>
+		<rom name="The Melting Apartment, The (World) (Aftermarket) (Unl).gb" size="524288" crc="07a2e41b" md5="8f325b05c4d5cb9b98fe8ac87e310525" sha1="2c0087d9af656ebd6705c33b7397f976eab6d623" />
+	</game>
 	<game name="Miaobot Zero (World) (v2021-10-28) (Aftermarket) (GB Studio)">
 		<description>Miaobot Zero (World) (v2021-10-28) (Aftermarket) (GB Studio)</description>
 		<rom name="Miaobot Zero (World) (v2021-10-28) (Aftermarket) (GB Studio).gb" size="262144" crc="551f0903" md5="5acd22e418db258b36576b51f8a4ca2b" sha1="727fdf6fcf606619039db6623b396860640c2833" />
@@ -254,6 +258,10 @@
 	<game name="Murder Mansion (World) (Aftermarket) (GB Studio)">
 		<description>Murder Mansion (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Murder Mansion (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="213fd097" md5="f3f2e788eb24b519295b72fc79fcad1d" sha1="f7f26ffdc3eed3a843bce94d6926bab00c933c51" />
+	</game>
+	<game name="My Dinner with Andre (World) (v1.1) (Aftermarket) (GB Studio)">
+		<description>My Dinner with Andre (World) (v1.1) (Aftermarket) (GB Studio)</description>
+		<rom name="My Dinner with Andre (World) (v1.1) (Aftermarket) (GB Studio).gb" size="262144" crc="0010b680" md5="5d9607f5fdaee714bb14fdfe0fdcab59" sha1="86c8413550007e1e57166d2c2313e65878a8053b" />
 	</game>
 	<game name="Nasferatu's Revenge (World) (Aftermarket) (GB Studio)">
 		<description>Nasferatu's Revenge (World) (Aftermarket) (GB Studio)</description>
@@ -286,6 +294,10 @@
 	<game name="Off Grid (World) (Aftermarket) (GB Studio)">
 		<description>Off Grid (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Off Grid (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="6c7a37da" md5="0082854daeb4209b64d93bd26ce0073d" sha1="29c8c0e75a2bf73788c6c1c6c471458dbd80d0af" />
+	</game>
+	<game name="Paramo Yermo (World) (Aftermarket) (GB Studio)">
+		<description>Paramo Yermo (World) (Aftermarket) (GB Studio)</description>
+		<rom name="Paramo Yermo (World) (Aftermarket) (GB Studio).gb" size="2097152" crc="ed36f665" md5="1cf039797685a45f5ed64babf9890d77" sha1="bf6a4f2aa57eb09a11f760dc48a7e4cb9da8e48a" />
 	</game>
 	<game name="Persona 4 (World) (Demo) (Aftermarket) (Unl)">
 		<description>Persona 4 (World) (Demo) (Aftermarket) (Unl)</description>
@@ -390,6 +402,10 @@
 	<game name="Tobu Tobu Bozu (World) (v2022-05-23) (Aftermarket) (Unl)">
 		<description>Tobu Tobu Bozu (World) (v2022-05-23) (Aftermarket) (Unl)</description>
 		<rom name="Tobu Tobu Bozu (World) (v2022-05-23) (Aftermarket) (Unl).gb" size="65536" crc="fbaa7957" md5="c04939867633fcbf03be03ca9f7ff2c6" sha1="711384049bf85e9865adb3cc6fca02cc4a215f70" />
+	</game>
+	<game name="Touhou Pocket Festival (World) (Aftermarket) (GB Studio)">
+		<description>Touhou Pocket Festival (World) (Aftermarket) (GB Studio)</description>
+		<rom name="Touhou Pocket Festival (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="e2cc0500" md5="1ac382c4ddb6912cd2ecc8fb3d970122" sha1="f824ba496af84c966311bb54fc9062598bf829d4" />
 	</game>
 	<game name="Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl)">
 		<description>Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl)</description>

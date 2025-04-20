@@ -5,12 +5,20 @@
 		<id>033</id>
 		<name>033 - Lost Level Archive - Sega - SG-1000</name>
 		<description>Sega - SG-1000</description>
-		<version>v20250405</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Arno Dash 2 (World) (v1.00) (Aftermarket) (under4mhz)">
+		<description>Arno Dash 2 (World) (v1.00) (Aftermarket) (under4mhz)</description>
+		<rom name="Arno Dash 2 (World) (v1.00) (Aftermarket) (under4mhz).sg" size="32768" crc="1658bc8a" md5="f94e47b23647a53f0d2f161f53ef2387" sha1="022f328a84b973cd088bfe07a5026e948dcd0f36" />
+	</game>
+	<game name="Arno Dash 2 (World) (v1.03) (Aftermarket) (under4mhz)">
+		<description>Arno Dash 2 (World) (v1.03) (Aftermarket) (under4mhz)</description>
+		<rom name="Arno Dash 2 (World) (v1.03) (Aftermarket) (under4mhz).sg" size="32768" crc="e0478a53" md5="579bd664e64f02ec1bf5085bffc0d7e0" sha1="205568a00dfbf57e8549b03beb274eda11a0ee93" />
+	</game>
 	<game name="Bloktris (v1.03) (2023) (Under4Mhz)">
 		<description>Bloktris (v1.03) (2023) (Under4Mhz)</description>
 		<rom name="Bloktris (v1.03) (2023) (Under4Mhz).sg" size="49152" crc="ca3c78e2" md5="e727be51ab6ffe4c1ad410bc6ed93d00" sha1="9bd8d9c22097411fedd2307ce8f2e74937a08e15" />
@@ -47,6 +55,10 @@
 		<description>Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl)</description>
 		<rom name="Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl).sg" size="32768" crc="5f9f8b15" md5="9ced5749ab0db9d67b5446381a0182f7" sha1="c52e3ff244bc55802b2856054fb01aba7f747620" />
 	</game>
+	<game name="Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)">
+		<description>Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)</description>
+		<rom name="Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano).sg" size="16384" crc="f13c5493" md5="255bfd63a0ed3154c37f41b69718fa08" sha1="f7250673dc751f1fa53cb48024131741c0d347fe" />
+	</game>
 	<game name="Libreway (USA) (v2014-06-16) (Aftermarket) (Unl)">
 		<description>Libreway (USA) (v2014-06-16) (Aftermarket) (Unl)</description>
 		<rom name="Libreway (USA) (v2014-06-16) (Aftermarket) (Unl).sg" size="8192" crc="2453064d" md5="66192a925bcf6e76c63667126709e97b" sha1="0a2ccd9d8c41ab4d254985975ddedb0786d64105" />
@@ -82,5 +94,9 @@
 	<game name="Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins)">
 		<description>Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins)</description>
 		<rom name="Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins).sg" size="49152" crc="aa8ea6eb" md5="44a7e8eaf9187835f3fb6c6ddda45327" sha1="ffd3c645662d8926965d4e334f68764648db851f" />
+	</game>
+	<game name="XBill (World) (v20180602) (Aftermarket) (nitrofurano)">
+		<description>XBill (World) (v20180602) (Aftermarket) (nitrofurano)</description>
+		<rom name="XBill (World) (v20180602) (Aftermarket) (nitrofurano).sg" size="32768" crc="c84d1e3f" md5="9513f61620d628ac6bd7e91d95d8c026" sha1="6573b2ed4732353fb53f8e0a6e1c0eb82b3b14f9" />
 	</game>
 </datafile>

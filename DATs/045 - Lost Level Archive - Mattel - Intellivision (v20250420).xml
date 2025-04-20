@@ -5,7 +5,7 @@
 		<id>045</id>
 		<name>045 - Lost Level Archive - Mattel - Intellivision</name>
 		<description>Mattel - Intellivision</description>
-		<version>v20250402</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -47,9 +47,17 @@
 		<description>Pumpkin Attack (World) (Aftermarket) (Unl)</description>
 		<rom name="Pumpkin Attack (World) (Aftermarket) (Unl).int" size="26685" crc="26e0bcaa" md5="b593690baa3643df336e2385e9c24dfe" sha1="4288013866edc5e398fc58ba2c686fe2ac781fb4" />
 	</game>
-	<game name="Stack Em (USA) (v20040925) (Aftermarket) (Unl)">
-		<description>Stack Em (USA) (v20040925) (Aftermarket) (Unl)</description>
-		<rom name="Stack Em (USA) (v20040925) (Aftermarket) (Unl).int" size="4153" crc="465f6e26" md5="d2b93aad3d2862bb71b77686ce12b733" sha1="e742cf53e85dda16a87b6d1e5086f831b162c0f9" />
+	<game name="Stack Em (World) (v20040925) (Aftermarket) (Unl)">
+		<description>Stack Em (World) (v20040925) (Aftermarket) (Unl)</description>
+		<rom name="Stack Em (World) (v20040925) (Aftermarket) (Unl).int" size="4153" crc="465f6e26" md5="d2b93aad3d2862bb71b77686ce12b733" sha1="e742cf53e85dda16a87b6d1e5086f831b162c0f9" />
+	</game>
+	<game name="Stonix (World) (Aftermarket) (Unl)">
+		<description>Stonix (World) (Aftermarket) (Unl)</description>
+		<rom name="Stonix (World) (Aftermarket) (Unl).rom" size="32833" crc="dd8b7f8e" md5="d221b60ded95ce8d53022dc2d1aa57e9" sha1="7772156ce784028af8b7a468a410a83ab2c93378" />
+	</game>
+	<game name="Sydney Hunter and the Sacred Tribe (World) (Aftermarket) (Unl)">
+		<description>Sydney Hunter and the Sacred Tribe (World) (Aftermarket) (Unl)</description>
+		<rom name="Sydney Hunter and the Sacred Tribe (World) (Aftermarket) (Unl).rom" size="84041" crc="31badc41" md5="473baa8d6a2c21261d975516bf270c15" sha1="7cb1b758639b28c7be5df3e7bfbaa0b892c640b8" />
 	</game>
 	<game name="Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)">
 		<description>Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)</description>

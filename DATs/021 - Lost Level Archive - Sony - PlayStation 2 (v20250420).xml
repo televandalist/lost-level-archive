@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250418</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -111,6 +111,10 @@
 	<game name="MKD - Ultimate Mortal Kombat Deception (v6.0) (Ermaccer)">
 		<description>MKD - Ultimate Mortal Kombat Deception (v6.0) (Ermaccer)</description>
 		<rom name="MKD - Ultimate Mortal Kombat Deception (v6.0) (Ermaccer).iso" size="3042639872" crc="d0f25566" md5="1e7ef43d004d2efa016f3116d8659b9c" sha1="03e47307172e0edd5b7ea0c52b2e354c378e2c53" />
+	</game>
+	<game name="Meritous (USA) (v1.02) (Aftermarket) (Unl)">
+		<description>Meritous (USA) (v1.02) (Aftermarket) (Unl)</description>
+		<rom name="Meritous (USA) (v1.02) (Aftermarket) (Unl).iso" size="28334080" crc="c615899b" md5="d65b3a0b1d103b56974a509643751877" sha1="744a7c0690c29e4413ed289d7725ed4f4e4340c0" />
 	</game>
 	<game name="Naruto Shippuden - Ultimate Ninja 5 (Europe) (En,Fr,De,Es,It) (60FPS) (v1.5) (Bit.Raiden, ZMath3us)">
 		<description>Naruto Shippuden - Ultimate Ninja 5 (Europe) (En,Fr,De,Es,It) (60FPS) (v1.5) (Bit.Raiden, ZMath3us)</description>

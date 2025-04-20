@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250402</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -63,6 +63,10 @@
 		<description>Larry and the Long Look for a Luscious Lover (USA) (Aftermarket) (Khan Games)</description>
 		<rom name="Larry and the Long Look for a Luscious Lover (USA) (Aftermarket) (Khan Games).nes" size="524304" crc="96f31fb9" md5="cbe8c84e8c6633fca1e031d1c92d3ffc" sha1="34fa5461e49aed52d96888bf4c14812aec2ae99b" />
 	</game>
+	<game name="Legend of Zelda, The - Triforce of the Gods (China) (En) (v1.1) (pacsnacdave)">
+		<description>Legend of Zelda, The - Triforce of the Gods (China) (En) (v1.1) (pacsnacdave)</description>
+		<rom name="Legend of Zelda, The - Triforce of the Gods (China) (En) (v1.1) (pacsnacdave).nes" size="2097259" crc="7bfe3590" md5="cba5237bdd24506d75e7b4a194b3c097" sha1="6e07687f9e45a4e79d5e95a34537c76f2485af11" />
+	</game>
 	<game name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)">
 		<description>LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)</description>
 		<rom name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick).nes" size="24592" crc="82dbc5e3" md5="4c551bd96e85ba9164c732bbcdf60e2c" sha1="6aa612921e4cbee9027db7f740950488a3326229" />
@@ -74,6 +78,34 @@
 	<game name="Microsoft Windows '98 (China) (Aftermarket) (Bootleg) (Bei Tongfang)">
 		<description>Microsoft Windows '98 (China) (Aftermarket) (Bootleg) (Bei Tongfang)</description>
 		<rom name="Microsoft Windows '98 (China) (Aftermarket) (Bootleg) (Bei Tongfang).nes" size="524304" crc="5abe6cdb" md5="3ddc757b5ac78401de071b56445a3fde" sha1="d5fb9b805293abc58fe30e0077a5c7fa72690bd3" />
+	</game>
+	<game name="MK3 - Mortal Combat 3 - Extra 60 (Asia) (Bootleg) (Unl) (SuperGame)">
+		<description>MK3 - Mortal Combat 3 - Extra 60 (Asia) (Bootleg) (Unl) (SuperGame)</description>
+		<rom name="MK3 - Mortal Combat 3 - Extra 60 (Asia) (Bootleg) (Unl) (SuperGame).nes" size="786448" crc="7e725fba" md5="4b51ff5ac700a0b19df64a07f44cc37b" sha1="29d77900308cae80e214153819702abb547de7a8" />
+	</game>
+	<game name="MK3 - Mortal Combat 3 - Extra 60 (Asia) (Ru) (Bootleg) (Unl) (SuperGame)">
+		<description>MK3 - Mortal Combat 3 - Extra 60 (Asia) (Ru) (Bootleg) (Unl) (SuperGame)</description>
+		<rom name="MK3 - Mortal Combat 3 - Extra 60 (Asia) (Ru) (Bootleg) (Unl) (SuperGame).nes" size="786448" crc="161def2d" md5="8157576805ecc702738c8eb45b6d333a" sha1="06dd1b26ed472e23dfdab85976068f3c04a6c0c0" />
+	</game>
+	<game name="MK3 - Ultimate Mortal Kombat 3 - 14 People (Taiwan) (Ru) (Bootleg) (Unl) (Hummer Team)">
+		<description>MK3 - Ultimate Mortal Kombat 3 - 14 People (Taiwan) (Ru) (Bootleg) (Unl) (Hummer Team)</description>
+		<rom name="MK3 - Ultimate Mortal Kombat 3 - 14 People (Taiwan) (Ru) (Bootleg) (Unl) (Hummer Team).nes" size="393232" crc="b7023c00" md5="078c70a92791646a486abef895ca1406" sha1="7093579ebd9634e43e0f41e6479c99d9b3fc8d9d" />
+	</game>
+	<game name="MKII - Mortal Kombat V 1996 - Turbo 30 Peoples (China) (Ru) (Bootleg) (Unl) (YOKO)">
+		<description>MKII - Mortal Kombat V 1996 - Turbo 30 Peoples (China) (Ru) (Bootleg) (Unl) (YOKO)</description>
+		<rom name="MKII - Mortal Kombat V 1996 - Turbo 30 Peoples (China) (Ru) (Bootleg) (Unl) (YOKO).nes" size="393232" crc="379b6e95" md5="9b9b0266cab2f644730b2809f91d6807" sha1="472089c2f475388ba350aeb835724242de111a4e" />
+	</game>
+	<game name="MKII - Mortal Kombat V Turbo - 30 People (China) (Ru) (v1.1) (Bootleg) (Unl) (YOKO)">
+		<description>MKII - Mortal Kombat V Turbo - 30 People (China) (Ru) (v1.1) (Bootleg) (Unl) (YOKO)</description>
+		<rom name="MKII - Mortal Kombat V Turbo - 30 People (China) (Ru) (v1.1) (Bootleg) (Unl) (YOKO).nes" size="393232" crc="beb265cf" md5="bcc1029f411632e6e4f617475baa8310" sha1="6c112a54676f8baeccd3424c65c9f818860be2c0" />
+	</game>
+	<game name="Mortal Kombat 3 (Asia) (Bootleg) (Unl) (SuperGame)">
+		<description>Mortal Kombat 3 (Asia) (Bootleg) (Unl) (SuperGame)</description>
+		<rom name="Mortal Kombat 3 (Asia) (Bootleg) (Unl) (SuperGame).nes" size="524304" crc="4c7d01f3" md5="51320b98b7b8ea84594e38acd589f374" sha1="cf04799d70b44ba9c5a8ecbe71308a29736b1204" />
+	</game>
+	<game name="Mortal Kombat 3 - Extra 60 (Asia) (Bootleg) (Unl) (SuperGame)">
+		<description>Mortal Kombat 3 - Extra 60 (Asia) (Bootleg) (Unl) (SuperGame)</description>
+		<rom name="Mortal Kombat 3 - Extra 60 (Asia) (Bootleg) (Unl) (SuperGame).nes" size="524304" crc="5d84a453" md5="8150158051ae143cc25e48c0e4cb89ee" sha1="4491a5f560e3ffb1139b7b7cae2afdb35fc4cb38" />
 	</game>
 	<game name="Mosh Lift (USA) (NESDev Compo 2023) (Aftermarket) (Unl) (Morphcat Games)">
 		<description>Mosh Lift (USA) (NESDev Compo 2023) (Aftermarket) (Unl) (Morphcat Games)</description>
@@ -158,6 +190,10 @@
 	<game name="Super Donkey Kong 2 (Taiwan) (Aftermarket) (Bootleg) (NT)">
 		<description>Super Donkey Kong 2 (Taiwan) (Aftermarket) (Bootleg) (NT)</description>
 		<rom name="Super Donkey Kong 2 (Taiwan) (Aftermarket) (Bootleg) (NT).nes" size="393232" crc="d8ead497" md5="ee7e7b670303b2b91a725b7877b03277" sha1="377dbb2e19f910a35b409cfcea7f52ce82b83e79" />
+	</game>
+	<game name="Tomb Raider (Asia) (En) (v1.0) (pacnsacdave) (Bootleg) (Unl)">
+		<description>Tomb Raider (Asia) (En) (v1.0) (pacnsacdave) (Bootleg) (Unl)</description>
+		<rom name="Tomb Raider (Asia) (En) (v1.0) (pacnsacdave) (Bootleg) (Unl).nes" size="524304" crc="96878506" md5="dda1ab0133d84ed8881c2a2a6f066c45" sha1="a2d76eb181572ee3fa7f8b50267bed70be7052ef" />
 	</game>
 	<game name="We Are Hejickle (USA) (v3.0) (Aftermarket) (Unl) (Pubby)">
 		<description>We Are Hejickle (USA) (v3.0) (Aftermarket) (Unl) (Pubby)</description>

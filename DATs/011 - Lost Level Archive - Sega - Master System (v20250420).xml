@@ -5,7 +5,7 @@
 		<id>011</id>
 		<name>011 - Lost Level Archive - Sega - Master System</name>
 		<description>Sega - Master System</description>
-		<version>v20250405</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -18,6 +18,10 @@
 	<game name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)">
 		<description>Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)</description>
 		<rom name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl).sms" size="262144" crc="79e2aeb2" md5="8dc6002e19f66bd7dba7f9adb6f8918e" sha1="32bd664de24ac4fc8c96416bc0fa3aaa37c3d060" />
+	</game>
+	<game name="Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)">
+		<description>Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)</description>
+		<rom name="Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano).sms" size="16384" crc="4ffd231b" md5="ef6f43f97be9c2a51c7dbe413032236d" sha1="6621608f3f73ef6351594b99e06f72cedba9c257" />
 	</game>
 	<game name="Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl)">
 		<description>Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl)</description>

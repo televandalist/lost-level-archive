@@ -5,7 +5,7 @@
 		<id>043</id>
 		<name>043 - Lost Level Archive - Panasonic - 3DO Interactive Multiplayer</name>
 		<description>Panasonic - 3DO Interactive Multiplayer</description>
-		<version>v20250402</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -16,6 +16,10 @@
 		<rom name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola).bin" size="556662784" crc="0B719E72" md5="938E70E4B336531A66CC464537591DF6" sha1="887AD58F98BF09DF8CA7B6415D01B2B5BAA2BF89"/>
 		<rom name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola).cue" size="115" crc="3CB951FD" md5="4891D7F33BD9118F57AEB4D639ACED8F" sha1="DF1D07F731CEA9213289ACC3D43FE32476DD6DE5"/>
 	</game>
+	<game name="BioFury (USA) (Aftermarket) (Zyzix Games)">
+		<description>BioFury (USA) (Aftermarket) (Zyzix Games)</description>
+		<rom name="BioFury (USA) (Aftermarket) (Zyzix Games).iso" size="78905344" crc="0c1dc09b" md5="6140c3160e394f84c7ac819d4635400f" sha1="c0763b914c61aa5b208f5408ff6d02938d79b1c0" />
+	</game>
 	<game name="Bizarro Untergrund (USA) (v1.0.0) (Aftermarket) (Optimus6128)">
 		<description>Bizarro Untergrund (USA) (v1.0.0) (Aftermarket) (Optimus6128)</description>
 		<rom name="Bizarro Untergrund (USA) (v1.0.0) (Aftermarket) (Optimus6128).iso" size="74678272" crc="e6775345" md5="473d000454ff70eae8fd3ae0a627d03e" sha1="ced6b79de2354d4caa71866490e25938d4517f24" />
@@ -23,6 +27,10 @@
 	<game name="Bizarro Untergrund (USA) (v1.0.1) (Aftermarket) (Optimus6128)">
 		<description>Bizarro Untergrund (USA) (v1.0.1) (Aftermarket) (Optimus6128)</description>
 		<rom name="Bizarro Untergrund (USA) (v1.0.1) (Aftermarket) (Optimus6128).iso" size="74711040" crc="ee6c457e" md5="cad74e7dcaf02fc68f8745be91a3f3dd" sha1="f10cdd0849547aef7e04b832804cfcce075c04f8" />
+	</game>
+	<game name="JinglesDefense (World) (v1.2.0) (Aftermarket) (retroloveletter)">
+		<description>JinglesDefense (World) (v1.2.0) (Aftermarket) (retroloveletter)</description>
+		<rom name="JinglesDefense (World) (v1.2.0) (Aftermarket) (retroloveletter).iso" size="22806528" crc="47a74864" md5="9c4c8466e7d42ecae6f11a29146ca73b" sha1="eec4534631803aaa462be42486a2ee736363e0bc" />
 	</game>
 	<game name="Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter)">
 		<description>Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter)</description>

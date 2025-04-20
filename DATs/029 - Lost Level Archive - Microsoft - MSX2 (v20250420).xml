@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX2</name>
 		<description>Microsoft - MSX2</description>
-		<version>v20250330</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -78,6 +78,10 @@
 	<game name="Robo Crush (1990) (64K) (System Soft) (Disk 2 of 2)">
 		<description>Robo Crush (1990) (64K) (System Soft) (Disk 2 of 2)</description>
 		<rom name="Robo Crush (1990) (64K) (System Soft) (Disk 2 of 2).dsk" size="737280" crc="2681c86e" md5="4d01f63b1b44c9e239c5b1c3d7fce86e" sha1="1227fef2cd46ec07159d78718bee08dba0f53a8c" />
+	</game>
+	<game name="Sonyc (1995) (Analogy)">
+		<description>Sonyc (1995) (Analogy)</description>
+		<rom name="Sonyc (1995) (Analogy).dsk" size="737280" crc="5479c32c" md5="8862fece2e199eecb0d8f68e0f9dee70" sha1="eb49ada017dcc5b807b6ee15ee2e5e8026535edc" />
 	</game>
 	<game name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1 of 2)">
 		<description>Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1 of 2)</description>

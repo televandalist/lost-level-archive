@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20250402</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,6 +14,10 @@
 	<game name="Alien Force (NTSC) (Aftermarket) (Unl) (Nova32)">
 		<description>Alien Force (NTSC) (Aftermarket) (Unl) (Nova32)</description>
 		<rom name="Alien Force (NTSC) (Aftermarket) (Unl) (Nova32).a26" size="8192" crc="7c5ceba6" md5="e204a6b63a8e6e1400fde46bbd054722" sha1="9b9ed3cc635203a6f917032ed741e2c1fdcc1af3" />
+	</game>
+	<game name="Alien Pinball (NTSC) (v1.0) (Aftermarket) (Unl)">
+		<description>Alien Pinball (NTSC) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Alien Pinball (NTSC) (v1.0) (Aftermarket) (Unl).a26" size="32768" crc="e4299757" md5="e8229245b82ed09ec182d74f62482002" sha1="622abb998e24e1434c72e26c2aeb8c33bcb12bb0" />
 	</game>
 	<game name="Amazona Adventure (USA) (Aftermarket) (Unl)">
 		<description>Amazona Adventure (USA) (Aftermarket) (Unl)</description>
@@ -63,6 +67,26 @@
 		<description>BLT Blast (USA) (v20150605) (Aftermarket) (Unl)</description>
 		<rom name="BLT Blast (USA) (v20150605) (Aftermarket) (Unl).a26" size="4096" crc="8aa40380" md5="4b69cc7a0adb28188a69508074ee3b9e" sha1="b598bf730dff8a370f81121f5b92b169de5047d6" />
 	</game>
+	<game name="Book of Five Rings (NTSC) (Aftermarket) (Unl)">
+		<description>Book of Five Rings (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Book of Five Rings (NTSC) (Aftermarket) (Unl).a26" size="4096" crc="d1b09aca" md5="dd3988ffca042b1b22e17f0998275dec" sha1="341e9a233200591af03be6725ce572cfe10e571e" />
+	</game>
+	<game name="C.H.E.A.T. (NTSC) (v1.4) (Aftermarket) (Unl)">
+		<description>C.H.E.A.T. (NTSC) (v1.4) (Aftermarket) (Unl)</description>
+		<rom name="C.H.E.A.T. (NTSC) (v1.4) (Aftermarket) (Unl).a26" size="8192" crc="e0606ec1" md5="f0a6612088cd402fc58e5833e2c64745" sha1="42c592821747922c409393f5ef592e2cd9c04e06" />
+	</game>
+	<game name="Castle of Devils (NTSC) (v1.0) (Aftermarket) (Unl)">
+		<description>Castle of Devils (NTSC) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Castle of Devils (NTSC) (v1.0) (Aftermarket) (Unl).a26" size="16384" crc="fa921fae" md5="629163c6022b4cce9e721091799a272a" sha1="98dbc34deda3f04c98de8fda78339d02f7781d5e" />
+	</game>
+	<game name="Castle of Devils (NTSC) (v1.1) (Aftermarket) (Unl)">
+		<description>Castle of Devils (NTSC) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Castle of Devils (NTSC) (v1.1) (Aftermarket) (Unl).a26" size="16384" crc="2b2313f0" md5="0a8e047fe9f59e00feb87f2bcf599897" sha1="5371103d594b503f708a0c69fa7266618bb1607d" />
+	</game>
+	<game name="Cave Raider (NTSC) (v1.07) (Aftermarket) (Unl)">
+		<description>Cave Raider (NTSC) (v1.07) (Aftermarket) (Unl)</description>
+		<rom name="Cave Raider (NTSC) (v1.07) (Aftermarket) (Unl).a26" size="65536" crc="f1b0ce44" md5="e532c1a9c4110c4a359b8e7514dc5c48" sha1="4ff934e5cc2f28ad815c97933e5996f7e6aafa06" />
+	</game>
 	<game name="Conquest of Mars (USA) (Aftermarket) (Unl)">
 		<description>Conquest of Mars (USA) (Aftermarket) (Unl)</description>
 		<rom name="Conquest of Mars (USA) (Aftermarket) (Unl).a26" size="16384" crc="bace5a14" md5="c2fbef02b6eea37d8df3e91107f89950" sha1="9ff196f1137be8deecf23448ebf817c060d2b595" />
@@ -79,9 +103,17 @@
 		<description>Dark Mage (NTSC) (Beta) (Aftermarket) (Unl) (Greg Troutman)</description>
 		<rom name="Dark Mage (NTSC) (Beta) (Aftermarket) (Unl) (Greg Troutman).a26" size="4096" crc="6dbf6d2d" md5="2b71a59a53be5883399917bf582b7772" sha1="e58e06dce22f9041607ab3387efebefe2b3be85e" />
 	</game>
+	<game name="Duelo (NTSC) (v1.0) (Aftermarket) (Unl)">
+		<description>Duelo (NTSC) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Duelo (NTSC) (v1.0) (Aftermarket) (Unl).a26" size="2048" crc="555ba0e3" md5="ecdf8cd1b01926cee3814604888503b0" sha1="713eb14ac975f79d988d791007a4f8fba97d2d70" />
+	</game>
 	<game name="Euchre (USA) (Aftermarket) (Unl)">
 		<description>Euchre (USA) (Aftermarket) (Unl)</description>
 		<rom name="Euchre (USA) (Aftermarket) (Unl).a26" size="4096" crc="b600ae88" md5="6205855cc848d1f6c4551391b9bfa279" sha1="47c2b4444b374352e5be15efc9330ddfec3ca71c" />
+	</game>
+	<game name="Fish (NTSC) (Proto) (1983-12-22)">
+		<description>Fish (NTSC) (Proto) (1983-12-22)</description>
+		<rom name="Fish (NTSC) (Proto) (1983-12-22).a26" size="4096" crc="d1ac6dc6" md5="42110c026e7a30c732e3f56ece48cd05" sha1="9c5e9c4ea35a2eed3045952bde5127f04ca3ad53" />
 	</game>
 	<game name="Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket) (Unl)">
 		<description>Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket) (Unl)</description>
@@ -94,6 +126,18 @@
 	<game name="Flappy (USA) (RC2) (Aftermarket) (Unl)">
 		<description>Flappy (USA) (RC2) (Aftermarket) (Unl)</description>
 		<rom name="Flappy (USA) (RC2) (Aftermarket) (Unl).a26" size="4096" crc="1a7ec0c2" md5="2d33a44e82f88d05f6c50577218c0cae" sha1="14e043587ac67ed5792b4937ddf0e045adeb653a" />
+	</game>
+	<game name="Foxy Go Go Go! (NTSC) (Aftermarket) (Unl)">
+		<description>Foxy Go Go Go! (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Foxy Go Go Go! (NTSC) (Aftermarket) (Unl).a26" size="4096" crc="b52fd3bf" md5="ff27ac41047e4b4aa70b621e928ec967" sha1="9f0ee7d2a016fb49bf7b207d609b436d1c728916" />
+	</game>
+	<game name="Furcon Frenzy - Custom Character Version (NTSC) (Aftermarket) (Unl)">
+		<description>Furcon Frenzy - Custom Character Version (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Furcon Frenzy - Custom Character Version (NTSC) (Aftermarket) (Unl).a26" size="4096" crc="5999e05c" md5="c7b738379dcb9aafd22f31068f11604e" sha1="8cb75879b6fad64cace9a2a197f8c447897cc522" />
+	</game>
+	<game name="Furcon Frenzy - Scribbly Gum Version (NTSC) (Aftermarket) (Unl)">
+		<description>Furcon Frenzy - Scribbly Gum Version (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Furcon Frenzy - Scribbly Gum Version (NTSC) (Aftermarket) (Unl).a26" size="4096" crc="59699bcd" md5="28fd7490ddb2f24f7eb6ba97a8f67c6b" sha1="dfcc2531e583a977994aacd8bce9f26d4f362d00" />
 	</game>
 	<game name="Heartbreak (Europe) (PAL 60) (v20130327) (Aftermarket) (Unl)">
 		<description>Heartbreak (Europe) (PAL 60) (v20130327) (Aftermarket) (Unl)</description>
@@ -142,6 +186,22 @@
 	<game name="Lead 8K (USA) (Aftermarket) (Unl)">
 		<description>Lead 8K (USA) (Aftermarket) (Unl)</description>
 		<rom name="Lead 8K (USA) (Aftermarket) (Unl).a26" size="8192" crc="7311483c" md5="c8c67862963ffe262b80cbb35eeee046" sha1="02e6c778a6dbda1e6bf55aaeb1db23f57367dee8" />
+	</game>
+	<game name="Lucky Chase (NTSC) (v20230122) (Aftermarket) (Unl)">
+		<description>Lucky Chase (NTSC) (v20230122) (Aftermarket) (Unl)</description>
+		<rom name="Lucky Chase (NTSC) (v20230122) (Aftermarket) (Unl).a26" size="32768" crc="cabbe867" md5="9f552e23a8d4f03c2ec7c147cf7fb921" sha1="67441abdb69cf61039f489ea296751baaccd93b2" />
+	</game>
+	<game name="Lucky Chase (NTSC) (v20230603) (Aftermarket) (Unl)">
+		<description>Lucky Chase (NTSC) (v20230603) (Aftermarket) (Unl)</description>
+		<rom name="Lucky Chase (NTSC) (v20230603) (Aftermarket) (Unl).a26" size="32768" crc="3c01177e" md5="74a3225acd5a4ae82614f69a57233053" sha1="6f89738a4bb1efb3e2bd72f1c49efd0a02bb7455" />
+	</game>
+	<game name="Lucky Chase (PAL60) (v20230122) (Aftermarket) (Unl)">
+		<description>Lucky Chase (PAL60) (v20230122) (Aftermarket) (Unl)</description>
+		<rom name="Lucky Chase (PAL60) (v20230122) (Aftermarket) (Unl).a26" size="32768" crc="19740fa8" md5="d3dc1cec46f1a0af6faa61faef6cca50" sha1="56e377168895b596a83e5a0ebb2bc3e51a36da76" />
+	</game>
+	<game name="Lucky Chase (PAL60) (v20230603) (Aftermarket) (Unl)">
+		<description>Lucky Chase (PAL60) (v20230603) (Aftermarket) (Unl)</description>
+		<rom name="Lucky Chase (PAL60) (v20230603) (Aftermarket) (Unl).a26" size="32768" crc="589a3665" md5="8eabdf1a72a25b263f5519ec32e9d572" sha1="d301ea0d284d9fa7e9162ff63223ffb084fcbfec" />
 	</game>
 	<game name="Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway)">
 		<description>Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway)</description>
@@ -242,6 +302,14 @@
 	<game name="Strawberry Shortcake - Musical Match-Ups (Europe)">
 		<description>Strawberry Shortcake - Musical Match-Ups (Europe)</description>
 		<rom name="Strawberry Shortcake - Musical Match-Ups (Europe).a26" size="4096" crc="193579b0" md5="516ffd008057a1d78d007c851e6eff37" sha1="8df406604191aabe43d623d482ff5f38e6674634" />
+	</game>
+	<game name="Strike Zone Bowling (NTSC) (Aftermarket) (Unl)">
+		<description>Strike Zone Bowling (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Strike Zone Bowling (NTSC) (Aftermarket) (Unl).a26" size="32768" crc="78d98c32" md5="93199a4f25c8e01af423ac280e451cb5" sha1="c26490bffc6ea158c522e9a8cf0fd8a7e502d7a7" />
+	</game>
+	<game name="Strike Zone Bowling (PAL60) (Aftermarket) (Unl)">
+		<description>Strike Zone Bowling (PAL60) (Aftermarket) (Unl)</description>
+		<rom name="Strike Zone Bowling (PAL60) (Aftermarket) (Unl).a26" size="32768" crc="054d226c" md5="7cbbb78e2942a49ccd32b600c7d65d19" sha1="589a585e99015605b5c33ff6edd0b629332d779b" />
 	</game>
 	<game name="Tetris26 (NTSC) (Aftermarket) (Unl) (Colin Hughes)">
 		<description>Tetris26 (NTSC) (Aftermarket) (Unl) (Colin Hughes)</description>

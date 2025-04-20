@@ -5,7 +5,7 @@
 		<id>028</id>
 		<name>028 - Lost Level Archive - Nintendo - Virtual Boy</name>
 		<description>Nintendo - Virtual Boy</description>
-		<version>v20250330</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -22,6 +22,10 @@
 	<game name="Castle of Doom Redux (USA) (v20160509) (Aftermarket) (Unl)">
 		<description>Castle of Doom Redux (USA) (v20160509) (Aftermarket) (Unl)</description>
 		<rom name="Castle of Doom Redux (USA) (v20160509) (Aftermarket) (Unl).vb" size="1048576" crc="7dcd57ea" md5="6e1b74ec2bd027faa024f61339690d99" sha1="257fdfdf395517a187cb85b3eac95fb9e1765b99" />
+	</game>
+	<game name="Chris's Casino (USA) (Aftermarket) (Unl)">
+		<description>Chris's Casino (USA) (Aftermarket) (Unl)</description>
+		<rom name="Chris's Casino (USA) (Aftermarket) (Unl).vb" size="524288" crc="a7d19970" md5="82328b43c370a09d6fe36d6c9eb6d35c" sha1="559d7f06696b66b7cb3711d9ac76c00f0c2827dd" />
 	</game>
 	<game name="Flappy Cheep Cheep (USA) (Aftermarket) (Unl) (DogP)">
 		<description>Flappy Cheep Cheep (USA) (Aftermarket) (Unl) (DogP)</description>
