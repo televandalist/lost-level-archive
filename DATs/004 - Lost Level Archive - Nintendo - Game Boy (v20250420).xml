@@ -187,10 +187,6 @@
 		<description>GB Paint (World) (Aftermarket) (Unl)</description>
 		<rom name="GB Paint (World) (Aftermarket) (Unl).gb" size="131072" crc="2c77d091" md5="e5c30dd277d746345269b868f8f5eae1" sha1="7b1e27b76ffe563c5772000f60ad3dc2de0a54c3" />
 	</game>
-	<game name="Guns &amp; Riders (World) (Aftermarket) (Unl)">
-		<description>Guns &amp; Riders (World) (Aftermarket) (Unl)</description>
-		<rom name="Guns &amp; Riders (World) (Aftermarket) (Unl).gb" size="32768" crc="af58a3b0" md5="cf975880261a3767a64a28cc4357966e" sha1="c5bb09e1c094e256e611f96595976b67692f5bd4" />
-	</game>
 	<game name="Halo - Combat Devolved (World) (Aftermarket) (GB Studio)">
 		<description>Halo - Combat Devolved (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Halo - Combat Devolved (World) (Aftermarket) (GB Studio).gb" size="2097152" crc="460ee3ef" md5="dc06ee0aec594e662e80c2bde217afa1" sha1="5b2eff5fe082b5a02c2f6971a7be436aa36f0678" />
@@ -259,10 +255,6 @@
 		<description>Murder Mansion (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Murder Mansion (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="213fd097" md5="f3f2e788eb24b519295b72fc79fcad1d" sha1="f7f26ffdc3eed3a843bce94d6926bab00c933c51" />
 	</game>
-	<game name="My Dinner with Andre (World) (v1.1) (Aftermarket) (GB Studio)">
-		<description>My Dinner with Andre (World) (v1.1) (Aftermarket) (GB Studio)</description>
-		<rom name="My Dinner with Andre (World) (v1.1) (Aftermarket) (GB Studio).gb" size="262144" crc="0010b680" md5="5d9607f5fdaee714bb14fdfe0fdcab59" sha1="86c8413550007e1e57166d2c2313e65878a8053b" />
-	</game>
 	<game name="Nasferatu's Revenge (World) (Aftermarket) (GB Studio)">
 		<description>Nasferatu's Revenge (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Nasferatu's Revenge (World) (Aftermarket) (GB Studio).gb" size="524288" crc="01a7c8e1" md5="3e519953594c77f84a81ebc07007bfa2" sha1="35e9d7329ab8bed93ea781e76a8a05fc53a5033c" />
@@ -322,10 +314,6 @@
 	<game name="POG8 (World) (Low Rez Jam 2022) (Aftermarket) (GB Studio)">
 		<description>POG8 (World) (Low Rez Jam 2022) (Aftermarket) (GB Studio)</description>
 		<rom name="POG8 (World) (Low Rez Jam 2022) (Aftermarket) (GB Studio).gb" size="524288" crc="c75f4f9d" md5="ab26fce844b53be100bd3924a4297e9b" sha1="2c24369eb9b291e8af34927f96b5be523cf7e08d" />
-	</game>
-	<game name="Pogo Pete (World) (Aftermarket) (Unl)">
-		<description>Pogo Pete (World) (Aftermarket) (Unl)</description>
-		<rom name="Pogo Pete (World) (Aftermarket) (Unl).gb" size="262144" crc="185ce1d5" md5="30c2d9a5370f10c02e1ab84bceb43fcb" sha1="74021e84c1d095b2401302e26352e810dbc432d8" />
 	</game>
 	<game name="Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio)">
 		<description>Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio)</description>

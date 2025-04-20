@@ -75,10 +75,6 @@
 		<description>DE '22 (World) (v1.0.3) (Aftermarket) (Unl)</description>
 		<rom name="DE '22 (World) (v1.0.3) (Aftermarket) (Unl).gbc" size="524288" crc="a25e36ec" md5="55d9bf25d3c02a160e76c798923c3874" sha1="29e117c6555da9157d602a66b12c9fc18a7179eb" />
 	</game>
-	<game name="Decline (World) (v1.1 2022-06-15) (Aftermarket) (GB Studio)">
-		<description>Decline (World) (v1.1 2022-06-15) (Aftermarket) (GB Studio)</description>
-		<rom name="Decline (World) (v1.1 2022-06-15) (Aftermarket) (GB Studio).gbc" size="1048576" crc="f0f79077" md5="85fc0640de39ee331b710cdeac5918b2" sha1="145b03118821f65582b10d91b749f64364d25523" />
-	</game>
 	<game name="Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl)">
 		<description>Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl)</description>
 		<rom name="Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl).gbc" size="524288" crc="5322fa2b" md5="70b4c73e34c53ac818d15daa6682c396" sha1="355e76f7cf46b383320eb3ad8e40fc1db58f9ad1" />
@@ -290,14 +286,6 @@
 	<game name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)">
 		<description>Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)</description>
 		<rom name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl).gbc" size="32768" crc="210bce6a" md5="509a9b53e45415fa404b1f8c334e2f5b" sha1="5432978ad0ea805e9b807a87ddb6baabb73733d8" />
-	</game>
-	<game name="Wishing Sarah (World) (En) (v1.1) (Aftermarket) (Unl)">
-		<description>Wishing Sarah (World) (En) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Wishing Sarah (World) (En) (v1.1) (Aftermarket) (Unl).gbc" size="524288" crc="efa345cd" md5="83e0f56f6315f46aaf4e7b77576b00e9" sha1="0e32eb4ef5cc3c456072892c376c5ee5d4fc78f1" />
-	</game>
-	<game name="Wishing Sarah (World) (PT-BR) (v1.1) (Aftermarket) (Unl)" cloneof="Wishing Sarah (World) (En) (v1.1) (Aftermarket) (Unl)">
-		<description>Wishing Sarah (World) (PT-BR) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Wishing Sarah (World) (PT-BR) (v1.1) (Aftermarket) (Unl).gbc" size="524288" crc="ab6cf21e" md5="f7eba1c53b02624852daea423a71c4ea" sha1="575b8b0f6fdb2d41623e7f2fe9902c87236f1a36" />
 	</game>
 	<game name="Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)">
 		<description>Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)</description>

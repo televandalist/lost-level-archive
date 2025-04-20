@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20250325</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -70,10 +70,6 @@
 	<game name="Spider (USA) (AtGames) (Bootleg)">
 		<description>Spider (USA) (AtGames) (Bootleg).md</description>
 		<rom name="Spider (USA) (AtGames) (Bootleg).md" size="120848" crc="b4ba8100" md5="2aca804bb7eb2f30d3e1300b096a6f79" sha1="a5cdc2241b40a9acd7ab70f58e3dd21e503c551e" />
-	</game>
-	<game name="Super Byoon (World) (Aftermarket) (Unl) (neko800)">
-		<description>Super Byoon (World) (Aftermarket) (Unl) (neko800).md</description>
-		<rom name="Super Byoon (World) (Aftermarket) (Unl) (neko800).md" size="262144" crc="a92da414" md5="bb847c35890b4f1dc94fd15dc485968e" sha1="4742af51ce9d633077796e249808e7eb82ad4237" />
 	</game>
 	<game name="TetrisMD (World) (Aftermarket) (Unl) (NeroJin)">
 		<description>TetrisMD (World) (Aftermarket) (Unl) (NeroJin).md</description>

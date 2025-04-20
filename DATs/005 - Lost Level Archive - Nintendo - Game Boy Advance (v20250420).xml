@@ -5,16 +5,12 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20250418</version>
+		<version>v20250420</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="Apotris (World) (v4.0.2) (Aftermarket) (Unl)">
-		<description>Apotris (World) (v4.0.2) (Aftermarket) (Unl)</description>
-		<rom name="Apotris (World) (v4.0.2) (Aftermarket) (Unl).gba" size="4194304" crc="107f69e0" md5="cbbb81a27188b76d68374ec7ef888329" sha1="7b4be37971335759ecc828b290338ab35e047017" />
-	</game>
 	<game name="Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl)">
 		<description>Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl).gba" size="33554432" crc="17e5586a" md5="885afa63766831dae4f8379999d99bdc" sha1="1151d4df2761384528fecd47a7ef1a32de93fb44" />
