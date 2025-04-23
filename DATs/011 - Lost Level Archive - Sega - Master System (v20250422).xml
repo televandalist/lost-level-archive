@@ -5,12 +5,16 @@
 		<id>011</id>
 		<name>011 - Lost Level Archive - Sega - Master System</name>
 		<description>Sega - Master System</description>
-		<version>v20250420</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Black Castle (World) (v2024-05-23) (Aftermarket) (Unl)">
+		<description>Black Castle (World) (v2024-05-23) (Aftermarket) (Unl)</description>
+		<rom name="Black Castle (World) (v2024-05-23) (Aftermarket) (Unl).sms" size="131072" crc="e5f3b3f9" md5="ae6969c839d5a0d2c53229639482f61d" sha1="a3479109fb8a623a7a4f3e6af3cbf63bd88ac1ad" />
+	</game>
 	<game name="Bloktris (v1.03) (2023) (Under4Mhz)">
 		<description>Bloktris (v1.03) (2023) (Under4Mhz)</description>
 		<rom name="Bloktris (v1.03) (2023) (Under4Mhz).sms" size="262144" crc="7ddd30cb" md5="e5ba57dce3a2995d093aef67effde27d" sha1="cda74a2a596fc5afaf84c74c5b4f54a7b989f87b" />
@@ -18,6 +22,22 @@
 	<game name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)">
 		<description>Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)</description>
 		<rom name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl).sms" size="262144" crc="79e2aeb2" md5="8dc6002e19f66bd7dba7f9adb6f8918e" sha1="32bd664de24ac4fc8c96416bc0fa3aaa37c3d060" />
+	</game>
+	<game name="Extreme Volleyballl Infernal League (World) (v1.0.2) (Aftermarket) (Unl)">
+		<description>Extreme Volleyballl Infernal League (World) (v1.0.2) (Aftermarket) (Unl)</description>
+		<rom name="Extreme Volleyballl Infernal League (World) (v1.0.2) (Aftermarket) (Unl).sms" size="524288" crc="f7e6c14a" md5="25285037a067c5757caf5bc6c1eea7db" sha1="ad572577d93f25bd27c410300fcae3484d26ae25" />
+	</game>
+	<game name="Extreme Volleyballl Infernal League (World) (v1.0.3) (Aftermarket) (Unl)">
+		<description>Extreme Volleyballl Infernal League (World) (v1.0.3) (Aftermarket) (Unl)</description>
+		<rom name="Extreme Volleyballl Infernal League (World) (v1.0.3) (Aftermarket) (Unl).sms" size="524288" crc="f9e940b6" md5="69244242fca8522894904168681019e4" sha1="485384571802f8f25c434154ea9e360bc55de63a" />
+	</game>
+	<game name="Extreme Volleyballl Infernal League (World) (v1.0.5) (Aftermarket) (Unl)">
+		<description>Extreme Volleyballl Infernal League (World) (v1.0.5) (Aftermarket) (Unl)</description>
+		<rom name="Extreme Volleyballl Infernal League (World) (v1.0.5) (Aftermarket) (Unl).sms" size="524288" crc="6402d2d6" md5="a4ba794b418ccfe177c5318bcc0fa9fe" sha1="0ed34d0e119b170fd8ac9b65ff9bbb56e551de92" />
+	</game>
+	<game name="Extreme Volleyballl Infernal League (World) (v1.0.6) (Aftermarket) (Unl)">
+		<description>Extreme Volleyballl Infernal League (World) (v1.0.6) (Aftermarket) (Unl)</description>
+		<rom name="Extreme Volleyballl Infernal League (World) (v1.0.6) (Aftermarket) (Unl).sms" size="524288" crc="82ef4bda" md5="8b12cc57e9e1baf8cc4165d7f8a210fe" sha1="fab2398562886662775d413ee8457231b9bd7660" />
 	</game>
 	<game name="Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)">
 		<description>Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)</description>

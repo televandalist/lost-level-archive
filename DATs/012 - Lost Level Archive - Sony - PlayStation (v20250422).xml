@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250418</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -70,6 +70,11 @@
 		<description>Clay Fighter - Extreme (Apr 4, 1997 prototype)</description>
 		<rom name="ClayFighter Extreme (v1997-04-10) (Proto).bin" size="24500784" crc="d33c4307" md5="be5f92381e0089846376c8a52dd7ca91" sha1="a7da2f17d9d95169445de41cdde2fd93dfbc4ef9" />
 		<rom name="ClayFighter Extreme (v1997-04-10) (Proto).cue" size="105" crc="f8372aa8" md5="14af16360de83e112a252f8cebe612a0" sha1="b126499810357764ae7497a4df784dce3b127448" />
+	</game>
+	<game name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen)">
+		<description>Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen)</description>
+		<rom name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen).bin" size="843363696" crc="11cadd22" md5="634f05dee52770fee0a5b3f7c7089ab8" sha1="8471bd32fee059f038115ec223c914b18cf4daed" />
+		<rom name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen).cue" size="123" crc="0411d9b4" md5="929552f03c4d5fe15569e508630f4c25" sha1="7edee783284a40e295de04b09b70ffa0631199ed" />
 	</game>
 	<game name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz)">
 		<description>Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz)</description>
@@ -244,6 +249,11 @@
 		<rom name="PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick).bin" size="110654544" crc="c6f04719" md5="7ce1af7412c1b82853a3a8eabd7b5b91" sha1="27779d190f74547fb08b8452ddeaf757c7113394" />
 		<rom name="PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick).cue" size="113" crc="aab5ff9a" md5="dae9f310309036ebe99d7160a6c5ffa2" sha1="1aa75489a06722d867223b93e2722abac53d7b13" />
 	</game>
+	<game name="PSXFunkin' - Mind Games (USA) (v0.1) (Aftermarket) (Unl)">
+		<description>PSXFunkin' - Mind Games (USA) (v0.1) (Aftermarket) (Unl)</description>
+		<rom name="PSXFunkin' - Mind Games (USA) (v0.1) (Aftermarket) (Unl).bin" size="238384608" crc="046c85b5" md5="e581381baf05a0ede1f0794b9749197d" sha1="131cf9cd815b97a1673f847c8987b8327ed48ddc" />
+		<rom name="PSXFunkin' - Mind Games (USA) (v0.1) (Aftermarket) (Unl).cue" size="119" crc="3bd257ef" md5="6b4e3750d53201102d898b0471f653cc" sha1="c9be1e1aa0dd19d71bbf77f3e7eff5e69cef9309" />
+	</game>
 	<game name="PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)">
 		<description>PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)</description>
 		<rom name="PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000).bin" size="229178880" crc="eb831e71" md5="cd7ad8a834f7160d959122e133f4384a" sha1="bfad6a37ee2e941a95e2c9ba42bd44505d6e1741" />
@@ -342,6 +352,11 @@
 		<rom name="Resident Evil 2 - Infinite Darkness (Kawasake09) (Disc 1 - Leon).cue" size="130" crc="5ccf8da7" md5="6f32204425ef5bfad9bc9a0794821d3d" sha1="648194be7fe9860302bcaa6bf19d7334a54b2c0f" />
 		<rom name="Resident Evil 2 - Infinite Darkness (Kawasake09) (Disc 2 - Claire).bin" size="704623920" crc="4e128f20" md5="2c8abeab4cf755ed88e155827584c271" sha1="465392c04cb10b7ce7cc097b9b8d3815fd16596a" />
 		<rom name="Resident Evil 2 - Infinite Darkness (Kawasake09) (Disc 2 - Claire).cue" size="132" crc="2d7fa0a4" md5="80732839254af676380c862d87e2a4cf" sha1="281df9da3f7a1a3dc59dd082dec5f6b8c301785c" />
+	</game>
+	<game name="Resident Evil 3 - Nemesis (USA) (Pt) (v1.0) (Master Luc, Nemesis Fan Dubs)">
+		<description>Resident Evil 3 - Nemesis (USA) (Pt) (v1.0) (Master Luc, Nemesis Fan Dubs)</description>
+		<rom name="Resident Evil 3 - Nemesis (USA) (Pt) (v1.0) (Master Luc, Nemesis Fan Dubs).bin" size="722165136" crc="b1c21a77" md5="c9a1bc8c585afed4f550ff95d5579fcd" sha1="7694f4308c81a3e48fb75a31c6ed6d8ba52b0921" />
+		<rom name="Resident Evil 3 - Nemesis (USA) (Pt) (v1.0) (Master Luc, Nemesis Fan Dubs).cue" size="140" crc="b0fa2e4c" md5="20223c06ac665aef79f10350e24777f5" sha1="b65adc1b3c352587acc5d3481a82ad4310f759a5" />
 	</game>
 	<game name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)">
 		<description>Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)</description>

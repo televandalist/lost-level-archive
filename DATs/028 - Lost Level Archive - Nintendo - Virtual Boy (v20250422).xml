@@ -5,7 +5,7 @@
 		<id>028</id>
 		<name>028 - Lost Level Archive - Nintendo - Virtual Boy</name>
 		<description>Nintendo - Virtual Boy</description>
-		<version>v20250420</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -58,6 +58,10 @@
 	<game name="VB Racing (USA) (Reality Boy Version) (PVBCC) (Aftermarket) (Unl) (M.K.)">
 		<description>VB Racing (USA) (Reality Boy Version) (PVBCC) (Aftermarket) (Unl) (M.K.)</description>
 		<rom name="VB Racing (USA) (Reality Boy Version) (PVBCC) (Aftermarket) (Unl) (M.K.).vb" size="524288" crc="26f11298" md5="21bd18c1910c48e16de825cee681fa8c" sha1="e3e82fd42f1ca66f45a30283b4e8d6342c4a0107" />
+	</game>
+	<game name="Virtual E.T. (World) (Aftermarket) (Unl)">
+		<description>Virtual E.T. (World) (Aftermarket) (Unl)</description>
+		<rom name="Virtual E.T. (World) (Aftermarket) (Unl).vb" size="2097152" crc="a6ca6c30" md5="1cb7b3c61855944807c20b3a7a5a20a4" sha1="9187f39d84949d02605a41eb14a599d5cc4b6f49" />
 	</game>
 	<game name="VUE Snake (USA) (v1.1) (Aftermarket) (Unl) (KR155E)">
 		<description>VUE Snake (USA) (v1.1) (Aftermarket) (Unl) (KR155E)</description>

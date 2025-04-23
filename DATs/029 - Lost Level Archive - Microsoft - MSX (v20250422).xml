@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX</name>
 		<description>Microsoft - MSX</description>
-		<version>v20250420</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -38,6 +38,10 @@
 	<game name="DuckTales - The Lucky Dime (1994) (Nl) (meits)">
 		<description>DuckTales - The Lucky Dime (1994) (Nl) (meits)</description>
 		<rom name="DuckTales - The Lucky Dime (1994) (Nl) (meits).dsk" size="737280" crc="f04d358d" md5="336c0a775c0dc3c9d83b2974c99fa285" sha1="95ce5cbd0687552a52a3055c4ff8c667705a57ce" />
+	</game>
+	<game name="Earth Attack (World) (Aftermarket) (Unl)">
+		<description>Earth Attack (World) (Aftermarket) (Unl)</description>
+		<rom name="Earth Attack (World) (Aftermarket) (Unl).rom" size="32768" crc="c9596ccb" md5="7430d6033b56ac173194968be0a8d146" sha1="b4335bf70d19d80a1e59faa890e04c5fefee0072" />
 	</game>
 	<game name="Flappy Bird (2014) (Crunchworks)">
 		<description>Flappy Bird (2014) (Crunchworks)</description>

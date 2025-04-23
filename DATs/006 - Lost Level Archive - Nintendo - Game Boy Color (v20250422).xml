@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250420</version>
+		<version>v20250422</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -82,6 +82,10 @@
 	<game name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)">
 		<description>Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)</description>
 		<rom name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl).gbc" size="524288" crc="b5d08d14" md5="59e32f8c38b3400bc147a470c88fb582" sha1="cbb21e03b63f72648ac3dfbc5fc5818fd15b6d3c" />
+	</game>
+	<game name="Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl).gbc" size="1048576" crc="eed25d4f" md5="25ef30a66b243c1af2baffcfc835ac14" sha1="f5a0f63705746c822d720b583af4efbe9ba5c44c" />
 	</game>
 	<game name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)">
 		<description>G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)</description>
@@ -194,6 +198,10 @@
 	<game name="Noble Blood (World) (Shacknews Jam Fall 2023) (Aftermarket) (Unl)">
 		<description>Noble Blood (World) (Shacknews Jam Fall 2023) (Aftermarket) (Unl)</description>
 		<rom name="Noble Blood (World) (Shacknews Jam Fall 2023) (Aftermarket) (Unl).gbc" size="262144" crc="703c466b" md5="aaafb103c5c85e50a024b61e14f30497" sha1="49533d91ea8e40dbf716b7e4e879a6f8164d5ae8" />
+	</game>
+	<game name="Obscenture (World) (v1.01) (Aftermarket) (Unl)">
+		<description>Obscenture (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="Obscenture (World) (v1.01) (Aftermarket) (Unl).gbc" size="2097152" crc="95b6f7bb" md5="74996e87555cbf6e0e63bc61a43c7ddb" sha1="fc75c0335a98f6444bc5d9bd541c68ba98b19975" />
 	</game>
 	<game name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)">
 		<description>Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)</description>

@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250420</version>
+		<version>v20250422</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -198,6 +198,10 @@
 	<game name="Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio)">
 		<description>Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio)</description>
 		<rom name="Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio).gb" size="262144" crc="b97960b5" md5="9a7359abaaddedb18902fbaaf3e25db7" sha1="22569b9be919d9c4a37b4c1bfe137878998265b6" />
+	</game>
+	<game name="Higurashi - When They Cry (World) (Demo) (Aftermarket) (GB Studio)">
+		<description>Higurashi - When They Cry (World) (Demo) (Aftermarket) (GB Studio)</description>
+		<rom name="Higurashi - When They Cry (World) (Demo) (Aftermarket) (GB Studio).gb" size="524288" crc="fd76e70d" md5="211f73021b2dcd9aa4cb3be188742223" sha1="4582234d47891aad7657642d68fab23e94cf90f2" />
 	</game>
 	<game name="Hong Kong 97 GB (World) (v2022) (Aftermarket) (Unl)">
 		<description>Hong Kong 97 GB (World) (v2022) (Aftermarket) (Unl)</description>

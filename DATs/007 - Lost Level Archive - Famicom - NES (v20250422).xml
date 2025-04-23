@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250420</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -190,6 +190,10 @@
 	<game name="Super Donkey Kong 2 (Taiwan) (Aftermarket) (Bootleg) (NT)">
 		<description>Super Donkey Kong 2 (Taiwan) (Aftermarket) (Bootleg) (NT)</description>
 		<rom name="Super Donkey Kong 2 (Taiwan) (Aftermarket) (Bootleg) (NT).nes" size="393232" crc="d8ead497" md5="ee7e7b670303b2b91a725b7877b03277" sha1="377dbb2e19f910a35b409cfcea7f52ce82b83e79" />
+	</game>
+	<game name="Three Kingdoms - Battle of Red Cliffs (Asia) (Unl) (En) (v1.1) (pacnsacdave)">
+		<description>Three Kingdoms - Battle of Red Cliffs (Asia) (Unl) (En) (v1.1) (pacnsacdave)</description>
+		<rom name="Three Kingdoms - Battle of Red Cliffs (Asia) (Unl) (En) (v1.1) (pacnsacdave).nes" size="393232" crc="5b3c2708" md5="40aa488a88de70847e63494f5b98be5d" sha1="f5ee5807e09bd220a111782c1b47ec4ded01579f" />
 	</game>
 	<game name="Tomb Raider (Asia) (En) (v1.0) (pacnsacdave) (Bootleg) (Unl)">
 		<description>Tomb Raider (Asia) (En) (v1.0) (pacnsacdave) (Bootleg) (Unl)</description>

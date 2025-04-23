@@ -5,7 +5,7 @@
 		<id>073</id>
 		<name>073 - Lost Level Archive - Emerson - Arcadia 2001</name>
 		<description>Emerson - Arcadia 2001</description>
-		<version>v20250405</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
@@ -33,6 +33,10 @@
 	<game name="Dr. Slump (Japan) (1983) (Bandai)">
 		<description>Dr. Slump (Japan) (1983) (Bandai)</description>
 		<rom name="Dr. Slump (Japan) (1983) (Bandai).bin" size="8192" crc="927c375a" md5="2a636fc1b2c414f87c078c06f279d618" sha1="389259f1505deef5c0fb83f9cf8b0f7fa4ed5d04" />
+	</game>
+	<game name="Frogger (v1.03) (200x) (Amigan Software)">
+		<description>Frogger (v1.03) (200x) (Amigan Software)</description>
+		<rom name="Frogger (v1.03) (200x) (Amigan Software).bin" size="4096" crc="ff013b36" md5="f41fc491b1b095492485e2743c2ddc54" sha1="0514abd6093d81d6bc7f6e5f1d0d5543b08f7157" />
 	</game>
 	<game name="JTron (World) (2003) (Amigan Software)">
 		<description>JTron (World) (2003) (Amigan Software)</description>

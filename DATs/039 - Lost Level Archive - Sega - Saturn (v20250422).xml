@@ -5,12 +5,17 @@
 		<id>039</id>
 		<name>039 - Lost Level Archive - Sega - Saturn</name>
 		<description>Sega - Saturn</description>
-		<version>v20250418</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Anarch (USA) (v1.1) (Aftermarket) (Unl)">
+		<description>Anarch (USA) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Anarch (USA) (v1.1) (Aftermarket) (Unl).bin" size="665600" crc="26a9664a" md5="926d87fc39deb838ba8df581eec853c6" sha1="91c9b7aac7a88507415afb5df850e52afda4f3a2" />
+		<rom name="Anarch (USA) (v1.1) (Aftermarket) (Unl).cue" size="99" crc="e00b4a64" md5="27a5a75df35704f57211299456b68162" sha1="32c74047be77e4971fb7fe07c9ea14132fcd073b" />
+	</game>
 	<game name="DeathMask (Japan) (En) (v0.2) (ShadowMask)">
 		<description>DeathMask (Japan) (En) (v0.2) (ShadowMask)</description>
 		<rom name="DeathMask (Japan) (En) (v0.2) (ShadowMask) (Disc 1) (Track 1).bin" size="398929776" crc="a58f5962" md5="b0d15666ba80ed06768e39ba9966c5b3" sha1="6fd4fd07db13bfb2b54ec36df44532aeb01da370" />

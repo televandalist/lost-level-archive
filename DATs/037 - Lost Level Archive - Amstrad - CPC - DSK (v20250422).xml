@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (DSK)</name>
 		<description>Amstrad - CPC (DSK)</description>
-		<version>v20250402</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -212,6 +212,10 @@
 		<description>Forms (2023) (CPCRetroDev 2023) (John Lobo)</description>
 		<rom name="Forms (2023) (CPCRetroDev 2023) (John Lobo).dsk" size="204544" crc="7f0c3e73" md5="8262a98fc811f55656d78a13ec1f2b53" sha1="f7ff78a0165420cc0a640d7d7cd64dc3689d2682" />
 	</game>
+	<game name="Frogger (UK) (1992) (Deanysoft) (Proto) (2017-06-07)">
+		<description>Frogger (UK) (1992) (Deanysoft) (Proto) (2017-06-07)</description>
+		<rom name="Frogger (UK) (1992) (Deanysoft) (Proto) (2017-06-07).dsk" size="194816" crc="f75aa3fc" md5="4b1478cd72862b9e8d8ea4126f31cfd9" sha1="e3e9e6ac11415189ec2dfe8d3aa79e6aaba6800b" />
+	</game>
 	<game name="Froggo Hop (2021) (Popcorn Games)">
 		<description>Froggo Hop (2021) (Popcorn Games)</description>
 		<rom name="Froggo Hop (2021) (Popcorn Games).dsk" size="204544" crc="00e3bc4c" md5="864680b99dab1e46cf09a14522bc8ed1" sha1="09e36dfd41af01f03c817f4039df660d3afb513b" />
@@ -292,6 +296,14 @@
 		<description>Mario Bros (2023) (Choice Software)</description>
 		<rom name="Mario Bros (2023) (Choice Software).dsk" size="194816" crc="b4fd078b" md5="0fc2e391910162786987829314a9ec21" sha1="e9a256d2f87cb18835b4c47d6de16c6551d76948" />
 	</game>
+	<game name="Miniature Flipper, The (Germany) (1991) (Ansgar Scherp)">
+		<description>Miniature Flipper, The (Germany) (1991) (Ansgar Scherp)</description>
+		<rom name="Miniature Flipper, The (Germany) (1991) (Ansgar Scherp).dsk" size="204544" crc="dc127dd7" md5="e929c68f2f362c9f3a7fda388315a325" sha1="86f8b7126b164b89b5236fbdadb35c703c47f085" />
+	</game>
+	<game name="Miniature Flipper, The (Germany) (1991) (Ansgar Scherp) (Compatibility Fix) (Phoenix0870)">
+		<description>Miniature Flipper, The (Germany) (1991) (Ansgar Scherp) (Compatibility Fix) (Phoenix0870)</description>
+		<rom name="Miniature Flipper, The (Germany) (1991) (Ansgar Scherp) (Compatibility Fix) (Phoenix0870).dsk" size="204544" crc="bf969ed7" md5="141767e586d17d0ef6b6702657182ee5" sha1="4e1a4b89902950d6cfe0ef2d42ff73fd70107279" />
+	</game>
 	<game name="Miss Input 2 (2020) (ChupiGames) (En)">
 		<description>Miss Input 2 (2020) (ChupiGames) (En)</description>
 		<rom name="Miss Input 2 (2020) (ChupiGames) (En).dsk" size="204544" crc="ffabf636" md5="09d1c3626e70a31150a93dc3ce4e25a5" sha1="60e4002d2b115ad0875cb7220b006f45c98c7f55" />
@@ -336,6 +348,10 @@
 		<description>Orion Prime (UK) (2009) (128K) (Targhan, Supersly)</description>
 		<rom name="Orion Prime (UK) (2009) (128K) (Targhan, Supersly).dsk" size="859392" crc="5973455c" md5="2caba7a5b156a71c95f1a7c776aaf169" sha1="0d836189c3b649b2f584d931b2cb546b790d8448" />
 	</game>
+	<game name="Pac-Man Arcade Emulator (UK) (128K) (2012) (SyX)">
+		<description>Pac-Man Arcade Emulator (UK) (128K) (2012) (SyX)</description>
+		<rom name="Pac-Man Arcade Emulator (UK) (128K) (2012) (SyX).dsk" size="194816" crc="c7d98787" md5="feb00097e7338cfeaaba7f06f27a41ed" sha1="bf3ffc1369feca6c1233bd4925a3cce454539364" />
+	</game>
 	<game name="Paintball Training (2023) (altanerus dog)">
 		<description>Paintball Training (2023) (altanerus dog)</description>
 		<rom name="Paintball Training (2023) (altanerus dog).dsk" size="194816" crc="5ac6844d" md5="bc8459a5878e5b72ac70de51ec406dcc" sha1="e95e5419c115de0d58c0bd8faf8cee3651d3f8bf" />
@@ -347,6 +363,10 @@
 	<game name="Perched! (2021) (Lumina Studio)">
 		<description>Perched! (2021) (Lumina Studio)</description>
 		<rom name="Perched! (2021) (CPCRetroDev 2021) (Lumina Studio).dsk" size="204544" crc="8d080609" md5="6be9d9689dcca6edb367072ffa2212db" sha1="de9acc3cd0a5be6f8d8418283cc34519553e9be3" />
+	</game>
+	<game name="Pinball Dreams (UK) (128K) (2019) (Version double size) [Original]">
+		<description>Pinball Dreams (UK) (128K) (2019) (Version double size) [Original]</description>
+		<rom name="Pinball Dreams (UK) (128K) (2019) (Version double size) [Original].dsk" size="429312" crc="e370ff4d" md5="caeb52307ab07a0acf0083ede7a86cc3" sha1="f543123ade49604c6e4ffa08a052ee12ef15a9f9" />
 	</game>
 	<game name="Prelude to Chaos, A (2016) (EgoTrip)">
 		<description>Prelude to Chaos, A (2016) (EgoTrip)</description>
@@ -501,5 +521,9 @@
 	<game name="Wrecking Ball (2021) (Francesc Alcaucer)">
 		<description>Wrecking Ball (2021) (Francesc Alcaucer)</description>
 		<rom name="Wrecking Ball (2021) (CPCRetroDev 2021) (Francesc Alcaucer).dsk" size="194816" crc="c94ee0ef" md5="e6b4347bfbf1c96a49d461cd2f8d03c8" sha1="28e7ca8f01b2ff0d10d4bec10b60573e9a556fcc" />
+	</game>
+	<game name="Zlalox (2024) (Snauts)">
+		<description>Zlalox (2024) (Snauts)</description>
+		<rom name="Zlalox (2024) (Snauts).dsk" size="204544" crc="08a8701a" md5="1b5939fff2f602974804973869e0510a" sha1="8c35a9e58d3f11e2e18016646f3a6fa3206745ec" />
 	</game>
 </datafile>

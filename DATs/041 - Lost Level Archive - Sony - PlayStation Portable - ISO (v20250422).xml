@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20250328</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -18,6 +18,10 @@
 	<game name="Bakemonogatari Portable (Japan) (En) (v1.0) (Anime Game Translations Team)">
 		<description>Bakemonogatari Portable (Japan) (En) (v1.0) (Anime Game Translations Team)</description>
 		<rom name="Bakemonogatari Portable (Japan) (En) (v1.0) (Anime Game Translations Team).iso" size="1476192256" crc="8354cf89" md5="14db117c27d84bda9f12bad978517ac7" sha1="6bbae0b71f68ba77496dd3e5bf659a561a69c5ca" />
+	</game>
+	<game name="Binding of Isaac, The - Rebirth (Demake) (v0.2.0.4) (Yerson Games)">
+		<description>Binding of Isaac, The - Rebirth (Demake) (v0.2.0.4) (Yerson Games)</description>
+		<rom name="Binding of Isaac, The - Rebirth (Demake) (v0.2.0.4) (Yerson Games).iso" size="129433600" crc="49002cc0" md5="0ea4e9b722fcd52faa4a3cd64f0d999b" sha1="9044afbd63430c8ccfab34027619796f46b77fe9" />
 	</game>
 	<game name="BirdLife (v0.2) (bu-nyan)">
 		<description>BirdLife (v0.2) (bu-nyan)</description>
@@ -38,6 +42,10 @@
 	<game name="Danganronpa - Kibou no Gakuen to Zetsubou no Koukousi (Japan) (En) (v1.0) (Project Zetsubou)">
 		<description>Danganronpa - Kibou no Gakuen to Zetsubou no Koukousi (Japan) (En) (v1.0) (Project Zetsubou)</description>
 		<rom name="Danganronpa - Kibou no Gakuen to Zetsubou no Koukousi (Japan) (En) (v1.0) (Project Zetsubou).iso" size="1333657600" crc="bd75601f" md5="988145032f6aa6a3511503304e39af68" sha1="41c9fc7df729e1f995765c2175306346a0a11f3c" />
+	</game>
+	<game name="Dino Run PSP (v20230628) (@PSP_DEVELOPER)">
+		<description>Dino Run PSP (v20230628) (@PSP_DEVELOPER)</description>
+		<rom name="Dino Run PSP (World) (v20230628) (Aftermarket) (Unl).iso" size="114491392" crc="cc461711" md5="38d3e71d9497f05e5024cb54175bc7c8" sha1="9cff436740fc869e0999d53aca0fe6df84048509" />
 	</game>
 	<game name="Eiyuu Densetsu - Ao no Kiseki (Japan) (En) (v15) (Flame, Guren)">
 		<description>Eiyuu Densetsu - Ao no Kiseki (Japan) (En) (v15) (Flame, Guren)</description>

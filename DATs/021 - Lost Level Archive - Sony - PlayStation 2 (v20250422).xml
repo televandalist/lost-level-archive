@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250420</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -68,6 +68,14 @@
 		<description>GH2DX - Custom Edition - Force Controllers As Guitar - Brand New Hero (v1.0) (ParallaxDG)</description>
 		<rom name="GH2DX - Custom Edition - Force Controllers As Guitar - Brand New Hero (v1.0) (ParallaxDG).iso" size="1934884864" crc="68275054" md5="44398619f62df3b068b0d4b66cfc80ce" sha1="dc3dbe1163e4d871f272616f57b06736be2b48c0" />
 	</game>
+	<game name="GH2DX - Custom Edition - Iron Maiden (USA) (Aftermarket) (Unl)">
+		<description>GH2DX - Custom Edition - Iron Maiden (USA) (Aftermarket) (Unl)</description>
+		<rom name="GH2DX - Custom Edition - Iron Maiden (USA) (Aftermarket) (Unl).iso" size="2750513152" crc="24f7f09a" md5="1d4ab234e68502b930bfe345475f6d1e" sha1="a5c28911d8b8929b72fa560604df612a5e549896" />
+	</game>
+	<game name="GH2DX - Custom Edition - Sonic vs Mario (USA) (Aftermarket) (Unl)">
+		<description>GH2DX - Custom Edition - Sonic vs Mario (USA) (Aftermarket) (Unl)</description>
+		<rom name="GH2DX - Custom Edition - Sonic vs Mario (USA) (Aftermarket) (Unl).iso" size="2888871936" crc="c2c46443" md5="9f52572829f8a93e126f949eb7f1b12a" sha1="22fc7b56f3966f5cd8f6b0aaa0104cdf2ae1f281" />
+	</game>
 	<game name="GH2DX - Guitar Hero II Deluxe 2.0 (MiloHax)">
 		<description>GH2DX - Guitar Hero II Deluxe 2.0 (MiloHax)</description>
 		<rom name="GH2DX - Guitar Hero II Deluxe 2.0 (MiloHax).iso" size="4657152000" crc="4df05601" md5="cfdcfa37b2b330576254aad3e542e570" sha1="69ed7dfb261ca4bce0726cbe3f4996b3f6a808db" />
@@ -75,6 +83,10 @@
 	<game name="GT4 Beta (2006-06-06) - Gran Turismo 4 Spec II (v1.09)">
 		<description>GT4 Beta (2006-06-06) - Gran Turismo 4 Spec II (v1.09)</description>
 		<rom name="GT4 Beta (2006-06-06) - Gran Turismo 4 Spec II (v1.09).iso" size="3683385344" crc="cc630bde" md5="d95742bbaae53eff1dd3ac306e60281e" sha1="da4de35cc8c2aae655ac45ce9c7d22534c87e0bc" />
+	</game>
+	<game name="GTA III - Frosted Winter (v1.0) (En) (Zain Esc, Pistukas Mods)">
+		<description>GTA III - Frosted Winter (v1.0) (En) (Zain Esc, Pistukas Mods)</description>
+		<rom name="GTA III - Frosted Winter (v1.0) (En) (Zain Esc, Pistukas Mods).iso" size="2597027840" crc="9e639e5d" md5="d935ef382a07662500bbb2f8f7e8de13" sha1="d353173ed0d9622fc8d1d5ceb00213859458e1cd" />
 	</game>
 	<game name="GTALCS - Sindacco Chronicles (NTSC) (v2024-10-27) (Barcode Studia)">
 		<description>GTALCS - Sindacco Chronicles (NTSC) (v2024-10-27) (Barcode Studia)</description>
@@ -141,6 +153,10 @@
 	<game name="Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32)">
 		<description>Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32)</description>
 		<rom name="Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32).iso" size="19466240" crc="1af1fba9" md5="7d1efb60b53865504b4e6b1c2d1b8dc2" sha1="84752fb9c30d90025a2389ae843e68340d4ebdaa" />
+	</game>
+	<game name="Saint Seiya - The Hades (Europe) (Pt) (v1.0) (Dublado)">
+		<description>Saint Seiya - The Hades (Europe) (Pt) (v1.0) (Dublado)</description>
+		<rom name="Saint Seiya - The Hades (Europe) (Pt) (v1.0) (Dublado).iso" size="2083192832" crc="e1679c84" md5="2059174e3755f3b07785a9a55fda4b9b" sha1="c9b78227443d46bf245dd38e95dc5f05c4d5d3d5" />
 	</game>
 	<game name="Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.0) (SlayerOfGod)">
 		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Original Music) (v1.0) (SlayerOfGod)</description>

@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20250420</version>
+		<version>v20250422</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -207,6 +207,14 @@
 		<description>Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway)</description>
 		<rom name="Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway).a26" size="32768" crc="9158b4ed" md5="c74ddb744209a92382616e2fa38d1378" sha1="c2fd4bf592d2c1948d4cba02da7980f1df8751f4" />
 	</game>
+	<game name="Meooow! (NTSC) (Aftermarket) (Unl)">
+		<description>Meooow! (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Meooow! (NTSC) (Aftermarket) (Unl).a26" size="32768" crc="3132d0b7" md5="f37fe43b6b6e81c9cb3778819caf1172" sha1="93685d26ea418d82e80cec3a2716290b72797ac8" />
+	</game>
+	<game name="Meooow! (PAL) (Aftermarket) (Unl)">
+		<description>Meooow! (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Meooow! (PAL) (Aftermarket) (Unl).a26" size="32768" crc="0101848c" md5="2337dee4b4ffd22d687d24a87527d8fc" sha1="1eadc730bfff7de61acf115fed534c4cf55697d0" />
+	</game>
 	<game name="Meteor Fall (NTSC) (Aftermarket) (lucascm)">
 		<description>Meteor Fall (NTSC) (Aftermarket) (lucascm)</description>
 		<rom name="Meteor Fall (NTSC) (Aftermarket) (lucascm).a26" size="4096" crc="70249a4d" md5="cd45895074b3579b2a923bb84143cabe" sha1="19cc10b08963db7b9798e00a82b4ae27c1a951a7" />
@@ -262,6 +270,10 @@
 	<game name="Princess Rescue (PAL) (v2013-07-31) (Chris Spry)">
 		<description>Princess Rescue (PAL) (v2013-07-31) (Chris Spry)</description>
 		<rom name="Princess Rescue (PAL) (v2013-07-31) (Chris Spry).a26" size="32768" crc="85b8e00f" md5="0383dc02cb82302da3d155fd108bfe3a" sha1="7380960df4cdce8d3d7318fb003f7bcfde173812" />
+	</game>
+	<game name="Punch Chess (NTSC) (Aftermarket) (Unl)">
+		<description>Punch Chess (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Punch Chess (NTSC) (Aftermarket) (Unl).a26" size="4096" crc="d78cc534" md5="47195a0fe6ccdd82f09599eb11075a11" sha1="6efb3ac83872e7bf3ed3902db41c32caf66a83cf" />
 	</game>
 	<game name="Punch Out (Demake) (NTSC) (Aftermarket) (Unl) (MathanGames)">
 		<description>Punch Out (Demake) (NTSC) (Aftermarket) (Unl) (MathanGames)</description>
