@@ -249,10 +249,10 @@
 		<rom name="PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick).bin" size="110654544" crc="c6f04719" md5="7ce1af7412c1b82853a3a8eabd7b5b91" sha1="27779d190f74547fb08b8452ddeaf757c7113394" />
 		<rom name="PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick).cue" size="113" crc="aab5ff9a" md5="dae9f310309036ebe99d7160a6c5ffa2" sha1="1aa75489a06722d867223b93e2722abac53d7b13" />
 	</game>
-	<game name="PSXFunkin' - Mind Games (USA) (v0.1) (Aftermarket) (Unl)">
-		<description>PSXFunkin' - Mind Games (USA) (v0.1) (Aftermarket) (Unl)</description>
-		<rom name="PSXFunkin' - Mind Games (USA) (v0.1) (Aftermarket) (Unl).bin" size="238384608" crc="046c85b5" md5="e581381baf05a0ede1f0794b9749197d" sha1="131cf9cd815b97a1673f847c8987b8327ed48ddc" />
-		<rom name="PSXFunkin' - Mind Games (USA) (v0.1) (Aftermarket) (Unl).cue" size="119" crc="3bd257ef" md5="6b4e3750d53201102d898b0471f653cc" sha1="c9be1e1aa0dd19d71bbf77f3e7eff5e69cef9309" />
+	<game name="PSXFunkin' - Mind Games (USA) (v0.1) (Nintendo bro385)">
+		<description>PSXFunkin' - Mind Games (USA) (v0.1) (Nintendo bro385)</description>
+		<rom name="PSXFunkin' - Mind Games (USA) (v0.1) (Nintendo bro385).bin" size="238384608" crc="046c85b5" md5="e581381baf05a0ede1f0794b9749197d" sha1="131cf9cd815b97a1673f847c8987b8327ed48ddc" />
+		<rom name="PSXFunkin' - Mind Games (USA) (v0.1) (Nintendo bro385).cue" size="117" crc="7e540fd5" md5="84c861faaefad272cc0327922649744d" sha1="de6db835e9b201d4b149b03a344cd408584025d9" />
 	</game>
 	<game name="PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)">
 		<description>PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)</description>

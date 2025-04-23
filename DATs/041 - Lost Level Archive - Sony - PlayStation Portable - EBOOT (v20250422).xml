@@ -1383,8 +1383,8 @@
 		<rom name="README.txt" size="344" crc="fcdfe0d8" md5="01b068cd0c887f579d562f7dca1b8183" sha1="43ffd012de011fc62c1c6a9f356d8d1a06da83b9" />
 		<rom name="version = 1.4.0 - test_release" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
 	</game>
-	<game name="Funkey Kong PSP (Zora182)">
-		<description>Funkey Kong PSP (Zora182)</description>
+	<game name="Funky Kong PSP (Zora182)">
+		<description>Funky Kong PSP (Zora182)</description>
 		<rom name="GFX\DK Sprites\A.png" size="676" crc="fc4e95f6" md5="4589e1cfacd0a65c29e33b611df91b46" sha1="63f48995264e6a8afc587b5c81c1503247923f02" />
 		<rom name="GFX\DK Sprites\B.png" size="760" crc="83725cf4" md5="279c9aaf18c46ef90ba7bff8a108c7c0" sha1="e3be37920d0a1424012c2296ab47d983d631cb71" />
 		<rom name="GFX\DK Sprites\C.png" size="755" crc="a9648ba7" md5="1144ced8cdc6c70837c9868950957197" sha1="25d7085a7bac7975a4d2ef9f783960839076d6c7" />
