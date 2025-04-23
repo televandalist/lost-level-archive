@@ -103,13 +103,17 @@
 		<description>Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team)</description>
 		<rom name="Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team).iso" size="2104557568" crc="861ae034" md5="9cbc195582c9cecf9b496db34347577a" sha1="788468169873927f28a3072044e3985c7bca4bf6" />
 	</game>
+	<game name="SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team)">
+		<description>SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team)</description>
+		<rom name="SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team).iso" size="1459978240" crc="257dbcff" md5="3fa42dc96d0f6df66f682f24ab09e390" sha1="3cc0495e45301885106ad016418d66052c341642" />
+	</game>
 	<game name="SMS - Super Mario Eclipse (v1.0.4 Hotfix) (Eclipse Team)">
 		<description>SMS - Super Mario Eclipse (v1.0.4 Hotfix) (Eclipse Team)</description>
 		<rom name="SMS - Super Mario Eclipse (v1.0.4 Hotfix) (Eclipse Team).iso" size="1459978240" crc="e62348ec" md5="f721034d3b894d49b4592147770fc7b6" sha1="e181197b4d9de7157daa4cc5987d5b95e12ab92d" />
 	</game>
-	<game name="SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team)">
-		<description>SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team)</description>
-		<rom name="SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team).iso" size="1459978240" crc="257dbcff" md5="3fa42dc96d0f6df66f682f24ab09e390" sha1="3cc0495e45301885106ad016418d66052c341642" />
+	<game name="SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team)">
+		<description>SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team)</description>
+		<rom name="SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team).iso" size="1459978240" crc="d4a556c2" md5="a90852133e8b15e83b3250d6d9c3e122" sha1="1c5a384de335f23dfdde3eeadd66be428256c1bf" />
 	</game>
 	<game name="SMS - Super Mario Sunburn (v1.9) (Eclipse Team)">
 		<description>SMS - Super Mario Sunburn (v1.9) (Eclipse Team)</description>
