@@ -5,7 +5,7 @@
 		<id>038</id>
 		<name>038 - Lost Level Archive - Apple II</name>
 		<description>Apple II</description>
-		<version>v20250420</version>
+		<version>v20250423</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
@@ -1089,9 +1089,9 @@
 		<description>Lamb Chops! (2013) (Brian Picchi)</description>
 		<rom name="Lamb Chops! (2013) (Brian Picchi).do" size="143360" crc="4eeabced" md5="c6471ced618c7621101677095c04df76" sha1="ad3dea5ff554c2ef2c723cafeb30a3b5333800e6" />
 	</game>
-	<game name="Oregon (1975) (MECC) (Applesoft BASIC Conversion by Chris Torrence)">
-		<description>Oregon (1975) (MECC) (Applesoft BASIC Conversion by Chris Torrence)</description>
-		<rom name="Oregon (1975) (MECC) (Applesoft BASIC Conversion by Chris Torrence).dsk" size="143360" crc="713872c3" md5="de641cd4b5a8f0da32f4ca8b2ba6aa61" sha1="c7af4733146c19d9b77d8749a0a03bb767289e71" />
+	<game name="Oregon Trail (1975 Source Conversion) (2015) (Chris Torrence)">
+		<description>Oregon Trail (1975 Source Conversion) (2015) (Chris Torrence)</description>
+		<rom name="Oregon Trail (1975 Source Conversion) (2015) (Chris Torrence).dsk" size="143360" crc="713872c3" md5="de641cd4b5a8f0da32f4ca8b2ba6aa61" sha1="c7af4733146c19d9b77d8749a0a03bb767289e71" />
 	</game>
 	<game name="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)">
 		<description>Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)</description>
@@ -1121,5 +1121,12 @@
 	<game name="Where in Hell is Carmen Santiago (1990) (St. John M. Morrison)">
 		<description>Where in Hell is Carmen Santiago (1990) (St. John M. Morrison)</description>
 		<rom name="Where in Hell is Carmen Santiago (1990) (St. John M. Morrison).po" size="819200" crc="292bb5d1" md5="fd57e7627fec7a3e889d2342653fc180" sha1="e266225921b9615bef29a65d192ee4b9060b4416" />
+	</game>
+	<game name="Zork Zero (1988) (Infocom)">
+		<description>Zork Zero (1988) (Infocom)</description>
+		<rom name="Zork Zero (1988) (Infocom) (Disc 1).dsk" size="143360" crc="f1f44269" md5="30c495e656278f878b6b909f979a57c5" sha1="3da521e8ee3db80d94b9a64978699ca660bf0d78" />
+		<rom name="Zork Zero (1988) (Infocom) (Disc 2).dsk" size="143360" crc="d184b0cb" md5="2512d63dc36911fbf8aa69a7fbe23ea0" sha1="27ec48a0e99ede51baab83a77d6a77062a8f65e4" />
+		<rom name="Zork Zero (1988) (Infocom) (Disc 3).dsk" size="143360" crc="bdf5110f" md5="75d8c640efb409dadf74d0fdd01d2213" sha1="9f5a426ac1131334c7140bd4da31b83e81f9057f" />
+		<rom name="Zork Zero (1988) (Infocom) (Disc 4).dsk" size="143360" crc="8ba5174d" md5="aa437d3e944e8d83f6cf914f6d23a1fa" sha1="d5143ef7c66932fc5173656c335b9410828973b6" />
 	</game>
 </datafile>

@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250422</version>
+		<version>v20250423</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -319,6 +319,10 @@
 		<description>POG8 (World) (Low Rez Jam 2022) (Aftermarket) (GB Studio)</description>
 		<rom name="POG8 (World) (Low Rez Jam 2022) (Aftermarket) (GB Studio).gb" size="524288" crc="c75f4f9d" md5="ab26fce844b53be100bd3924a4297e9b" sha1="2c24369eb9b291e8af34927f96b5be523cf7e08d" />
 	</game>
+	<game name="Poopster (World) (v2019-08-04) (Aftermarket) (Zhamul)">
+		<description>Poopster (World) (v2019-08-04) (Aftermarket) (Zhamul)</description>
+		<rom name="Poopster (World) (v2019-08-04) (Aftermarket) (Zhamul).gb" size="131072" crc="28db5aac" md5="46c1883ba494cfdd8c80a03e6355187a" sha1="1a427f0793b758ce2bcd11e10ec65abfa80818bc" />
+	</game>
 	<game name="Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio)">
 		<description>Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio)</description>
 		<rom name="Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio).gb" size="524288" crc="7c2986d0" md5="902922ccd6620ace3d3202b96058a68b" sha1="07f34918dc7ca6783e5e7ac3e87e88a1edbf8e62" />
@@ -410,6 +414,10 @@
 	<game name="UNPAN (World) (Aftermarket) (GB Studio)">
 		<description>UNPAN (World) (Aftermarket) (GB Studio)</description>
 		<rom name="UNPAN (World) (Aftermarket) (GB Studio).gb" size="262144" crc="bd297a42" md5="6e684f059d3228b0c99e59cb69c3ee10" sha1="cb25e38391f733fa44d39edcbf12f6861ac70031" />
+	</game>
+	<game name="VR Pocket Manager (World) (Aftermarket) (GB Studio)">
+		<description>VR Pocket Manager (World) (Aftermarket) (GB Studio)</description>
+		<rom name="VR Pocket Manager (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="ec425a94" md5="9c83e00b56b75e49cd52922bfd7313d9" sha1="638f71d0718f6201395506415ace4ae69607aa4d" />
 	</game>
 	<game name="Wordyl (World) (v1.0.3) (Aftermarket) (Unl)">
 		<description>Wordyl (World) (v1.0.3) (Aftermarket) (Unl)</description>

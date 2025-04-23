@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20250420</version>
+		<version>v20250423</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -30,6 +30,10 @@
 	<game name="Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ)">
 		<description>Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ)</description>
 		<rom name="Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ).iso" size="1102137344" crc="c15ab5f1" md5="9ddce0cc0c508c63e2bfbf0c4c7515bd" sha1="eb83ab9ecffe760be2c60f0f9c9912a573164809" />
+	</game>
+	<game name="MKDD - Mario Kart Double Dash Extended (v2.0) (M64)">
+		<description>MKDD - Mario Kart Double Dash Extended (v2.0) (M64)</description>
+		<rom name="MKDD - Mario Kart Double Dash Extended (v2.0) (M64).iso" size="1459978240" crc="8de9c734" md5="a7a438445046286964d6896ee3036bca" sha1="7f10b48ef8fe66761f70cc7127394dc9e9f7eb19" />
 	</game>
 	<game name="Movie Mashup (v1.0) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
 		<description>Movie Mashup (v1.0) (Eyepie)</description>
@@ -107,6 +111,10 @@
 		<description>SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team)</description>
 		<rom name="SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team).iso" size="1459978240" crc="257dbcff" md5="3fa42dc96d0f6df66f682f24ab09e390" sha1="3cc0495e45301885106ad016418d66052c341642" />
 	</game>
+	<game name="SMS - Super Mario Sunburn (v1.9) (Eclipse Team)">
+		<description>SMS - Super Mario Sunburn (v1.9) (Eclipse Team)</description>
+		<rom name="SMS - Super Mario Sunburn (v1.9) (Eclipse Team).iso" size="1459978240" crc="28df0d93" md5="0aba511d344e6427d9a510d6bb3fff89" sha1="2cfcd09f4f4969fafd4bc6cd8c162790defc5fa1" />
+	</game>
 	<game name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)">
 		<description>SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)</description>
 		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks).iso" size="1459978240" crc="f83c34ed" md5="6fa091ffe7e0bed1fbaee64b08ca0c8e" sha1="c4aab132aa19bc9b8925a0e241b63bf6db4e9b22" />
@@ -143,9 +151,17 @@
 		<description>Super Doot Sunshine (v1.4.0) (warspyking)</description>
 		<rom name="Super Doot Sunshine (v1.4.0) (warspyking).iso" size="1459978240" crc="1e0e558e" md5="ee334e837718b5acb41ce5145a532165" sha1="90ffb58ecd98d137861414a5a52217ee8b40f08b" />
 	</game>
+	<game name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)">
+		<description>Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)</description>
+		<rom name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK).iso" size="1459978240" crc="ee2d9408" md5="6dff46ace2b4d59c4b82a84b3e6af653" sha1="a5477ef566185956dbdfe77e712eb718b53e3ad4" />
+	</game>
 	<game name="Super Sponge Ball (v1.1) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
 		<description>Super Sponge Ball (v1.1) (Eyepie)</description>
 		<rom name="Super Sponge Ball (v1.1) (Eyepie).iso" size="841252864" crc="de9be1ee" md5="784d343a929d3ff399c03324e252cd0d" sha1="259d373054def8dee0fb175a0f08e9fac9b097f4" />
+	</game>
+	<game name="Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex)">
+		<description>Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex)</description>
+		<rom name="Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex).iso" size="1459978240" crc="df3c3372" md5="b231c940f9e767c92e4ce6e86883682f" sha1="722b227cdc1da8ef63f670b9b230f3e176699bc8" />
 	</game>
 	<game name="Valley of the Lost (v1.2) (Latte)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
 		<description>Valley of the Lost (v1.2) (Latte)</description>

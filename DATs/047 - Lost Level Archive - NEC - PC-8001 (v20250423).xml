@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>047</id>
+		<name>047 - Lost Level Archive - NEC - PC-8001</name>
+		<description>NEC - PC-8001</description>
+		<version>v20250423</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Marine Alien (1980-08) (IO Magazine Vol. 5 No. 8)">
+		<description>Marine Alien (1980-08) (IO Magazine Vol. 5 No. 8)</description>
+		<rom name="MT.cmt" size="6203" crc="e2f281b6" md5="64b282b08e51eed92b6cdd386a5d2fd0" sha1="1b2e6fbc886a851d7d6833b3301a67504db3acc7" />
+	</game>
+	<game name="Mario Bros. Special (1984) (Hudson Soft) (PC-8001mkII, YB-5006)">
+		<description>Mario Bros. Special (1984) (Hudson Soft) (PC-8001mkII, YB-5006)</description>
+		<rom name="Mario Bros. Special (1984) (Hudson Soft) (PC-8001mkII, YB-5006).t88" size="46530" crc="737a1f23" md5="dbf318cb9c8af6e7a4e21cccd98feb00" sha1="54f2b682ca1ad7c1990638b8da6813148a39520d" />
+		<rom name="Mario Bros. Special - Readme.txt" size="176" crc="592765a2" md5="3c6fb77a3e5e6f2d9c93ab8686e105f8" sha1="8f80c0b9a6cfc1f60a8cc6c2b4e9a98e1aa99892" />
+		<rom name="Mario Bros. Special - Tape Side 1.wav" size="41088044" crc="adb9c2b5" md5="0eb38de30145073f343659ed94415800" sha1="a67fa2f99b77eced5a0fca7bfe6ae6c630d1c2e9" />
+		<rom name="Mario Bros. Special - Tape Side 2.wav" size="41226796" crc="96c87ef5" md5="cfbd9876615d7f9440af7bddd620f4c7" sha1="8e5a1d5dba6a14109ac45a956d888c96ba3d685a" />
+	</game>
+</datafile>

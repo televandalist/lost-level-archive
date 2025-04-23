@@ -5,7 +5,7 @@
 		<id>040</id>
 		<name>040 - Lost Level Archive - Sega - Dreamcast</name>
 		<description>Sega - Dreamcast</description>
-		<version>v20250422</version>
+		<version>v20250423</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -25,6 +25,13 @@
 		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 03).iso" size="43008" crc="cecbc1e5" md5="9c03008ef7d373bcc4006c1eecc860a2" sha1="f778bd3f4cb9c00007a7360de652cc11ceb1eec8" />
 		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 04).iso" size="31922176" crc="f9ab29c7" md5="9471351d23f5d34060af1d173dfeea44" sha1="16d99c9a5f2b109a6a0e47e768d33ffd13f0a933" />
 		<rom name="Castlevania - Resurrection (E3 Pre-Demo).gdi" size="292" crc="784a98c5" md5="96c3f80e5bd495402f2a3b5770616104" sha1="dbdfa9b3e909301f6800b3dbc7696e95e2b77d5a" />
+	</game>
+	<game name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella)">
+		<description>Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella)</description>
+		<rom name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella) (Track 1).bin" size="2241456" crc="8e334d36" md5="d4495a64148a52563c840e45e408ca1a" sha1="f806da6bf13e355880d9c63de923eac202f9d91f" />
+		<rom name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella) (Track 2).raw" size="1949808" crc="48f06eca" md5="aa36885d9fe775dc5fd1c25cc1065769" sha1="9c39a5d7505ca0a1f8f94a77da37616e461b5e57" />
+		<rom name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella) (Track 3).bin" size="1185760800" crc="f9d2ed82" md5="13239f6ce260a2c6c7d6cdc1a7786134" sha1="8648b8a14b5023f168cce8427f3059aa897edfd9" />
+		<rom name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella).gdi" size="262" crc="b86a3f3a" md5="cb98f9c43e35982cdb29ae826b4b28fa" sha1="df05cd584dcec72f339a6c2ecd5196857d7be93f" />
 	</game>
 	<game name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu)">
 		<description>Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu)</description>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>049</id>
+		<name>049 - Lost Level Archive - NEC - PC-FX</name>
+		<description>NEC - PC-FX</description>
+		<version>v20250423</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Anarch (USA) (v1.1) (Aftermarket) (Unl)">
+		<description>Anarch (USA) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Anarch (USA) (v1.1) (Aftermarket) (Unl) (Track 1).bin" size="614400" crc="50cbdcb3" md5="06108b182afdd069ffc30607024dcb60" sha1="3b1dab5322fc5f35e9b1f21245029968322defaf" />
+		<rom name="Anarch (USA) (v1.1) (Aftermarket) (Unl) (Track 2).wav" size="14119134" crc="61b47ab4" md5="360b3e3bb43637d810d81c2a4620c9d4" sha1="6fbd884f3ec2770e6c6beeb1ad26c38cc49a0dc5" />
+		<rom name="Anarch (USA) (v1.1) (Aftermarket) (Unl) (Track 3).wav" size="14119134" crc="390244c3" md5="d674783eb0744336e2b69fc8e651f35e" sha1="9db4a16c2ff41b8535574be2d4824aa01dfd368f" />
+		<rom name="Anarch (USA) (v1.1) (Aftermarket) (Unl) (Track 4).wav" size="14119134" crc="df2692be" md5="125950fd58b4fec3d8e9a4d301aac8b0" sha1="c330f2c783eae46b14a5b10245b66b8c800ef8e3" />
+		<rom name="Anarch (USA) (v1.1) (Aftermarket) (Unl) (Track 5).wav" size="14119134" crc="bb2e06b7" md5="fe22f75740f1d43c0ece3880dbf4e914" sha1="6af62191003018e2e88aafe0ca52c4e76a1fc6fb" />
+		<rom name="Anarch (USA) (v1.1) (Aftermarket) (Unl) (Track 6).wav" size="14119134" crc="34927571" md5="50dcbf2a731babbee3cfbe145df89ccb" sha1="ec855be78806d59c9785a73acce0b2ef81d618c4" />
+		<rom name="Anarch (USA) (v1.1) (Aftermarket) (Unl).cue" size="637" crc="e3cf5018" md5="e349440dbbdee529957831e5c42d4e8d" sha1="e2a38a7ad3b22b34e9eaa7993ac2d0724295a137" />
+	</game>
+	<game name="Cascade FX (Alpha 0.3) (Aftermarket) (Unl)">
+		<description>Cascade FX (Alpha 0.3) (Aftermarket) (Unl)</description>
+		<rom name="Cascade FX (Alpha 0.3) (Aftermarket) (Unl) (Track 1).bin" size="614400" crc="5f39e5df" md5="50cf5f9c5a8c4cbcf47b3dba5f654669" sha1="4405590ba17ccf9bade87487270375d228450e21" />
+		<rom name="Cascade FX (Alpha 0.3) (Aftermarket) (Unl) (Track 2).wav" size="49226352" crc="1a24bc15" md5="bd477ee05243a804e0b87085e80ac4e4" sha1="0dd999f7c81e656f4fa7d8934dab1a2d72560ddf" />
+		<rom name="Cascade FX (Alpha 0.3) (Aftermarket) (Unl) (Track 3).wav" size="19573388" crc="365e7b85" md5="131e0451b5c6d8198bda51a40105b7ee" sha1="995b5658dec752e905428dbb8049e8f0e51f125c" />
+		<rom name="Cascade FX (Alpha 0.3) (Aftermarket) (Unl) (Track 4).wav" size="34750844" crc="5774dc00" md5="b89c5817c5ea92747a2b894b64a24abd" sha1="045f839b2106ec70ae48706d0968cb05e91e07b7" />
+		<rom name="Cascade FX (Alpha 0.3) (Aftermarket) (Unl) (Track 5).wav" size="31752044" crc="4bfa34c0" md5="d1eebcf7aa468eca33c51b4860a05271" sha1="48b18ea701de0d9add9746f77b601c5b1245ba03" />
+		<rom name="Cascade FX (Alpha 0.3) (Aftermarket) (Unl).cue" size="538" crc="d183498c" md5="9fb34a0083a2acfb866354ff37576c18" sha1="dab5ce4aa3f985f39d54dbd8373deeff5f163f72" />
+	</game>
+	<game name="nCraft (World) (Alpha v0.1) (Aftermarket) (gameblabla)">
+		<description>nCraft (World) (Alpha v0.1) (Aftermarket) (gameblabla)</description>
+		<rom name="nCraft (World) (Alpha v0.1) (Aftermarket) (gameblabla).bin" size="921600" crc="7ada1750" md5="fd22495686ef370241587387a9be4c65" sha1="e91e13f86fb687b08360de62ecda89321fafba2f" />
+		<rom name="nCraft (World) (Alpha v0.1) (Aftermarket) (gameblabla).cue" size="117" crc="fcbf4304" md5="2d3b6c52a3447e01c6672bf3725b6062" sha1="9e28bb9d08ed00d53c74bbd7f6a0a00dd0f81b81" />
+	</game>
+	<game name="Simple Battle FX (World) (Aftermarket) (gameblabla)">
+		<description>Simple Battle FX (World) (Aftermarket) (gameblabla)</description>
+		<rom name="Simple Battle FX (World) (Aftermarket) (gameblabla).bin" size="614400" crc="51110f24" md5="2e58ca80e9a452a184621a61c20c278b" sha1="53df48c43aeb68bdc87800e20e00a21a0f8c86bf" />
+		<rom name="Simple Battle FX (World) (Aftermarket) (gameblabla).cue" size="114" crc="5ecf7870" md5="55f513a9c1d7c5a843be1c6dc55c5db1" sha1="4931eca1217fd9ce96d79cd4ba7e559d6bbd42d9" />
+	</game>
+	<game name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)">
+		<description>Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)</description>
+		<rom name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat).bin" size="614400" crc="aaa0317d" md5="2df43f2f303fc5546b1059120d98e4f0" sha1="2bebe1600f933713f86e117bcc4016e0a2a98504" />
+		<rom name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat).cue" size="117" crc="ee415d5f" md5="798f881484d351fd73f531b47d03e9a2" sha1="a690b36f8977b81777b791c49bad07da07272c42" />
+	</game>
+</datafile>
