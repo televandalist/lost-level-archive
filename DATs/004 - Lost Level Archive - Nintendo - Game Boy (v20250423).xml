@@ -175,6 +175,10 @@
 		<description>Flappy Boy (World) (Aftermarket) (Unl)</description>
 		<rom name="Flappy Boy (World) (Aftermarket) (Unl).gb" size="32768" crc="f41c73f1" md5="4c0b53fd1fe4923d880e2fc70418d101" sha1="8603205feb836fe02091719649cb887cc4e344d4" />
 	</game>
+	<game name="Friend Finder (World) (v6.5) (Aftermarket) (Unl)">
+		<description>Friend Finder (World) (v6.5) (Aftermarket) (Unl)</description>
+		<rom name="Friend Finder (World) (v6.5) (Aftermarket) (Unl).gb" size="524288" crc="9669846b" md5="dbdbca51899c075398cb2359d7e85262" sha1="3d3135876ada254bc517487f33065bb5a61ab3fd" />
+	</game>
 	<game name="Frog Detective Minus 1 (World) (Aftermarket) (GB Studio)">
 		<description>Frog Detective Minus 1 (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Frog Detective Minus 1 (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="4a9249a5" md5="a079653cbee238c70ca3a35601822b82" sha1="e012fca875e0bf8f62946d588e0405a5b5b4a6f4" />
