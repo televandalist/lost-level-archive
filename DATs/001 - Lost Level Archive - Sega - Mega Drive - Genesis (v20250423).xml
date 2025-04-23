@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20250420</version>
+		<version>v20250423</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -39,6 +39,10 @@
 		<description>Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md</description>
 		<rom name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md" size="917504" crc="8eb5425e" md5="02dfa3e40d3eded3301828de44cb8e99" sha1="30df12657d6a8fbe7e1609275619f402adcd5350" />
 	</game>
+	<game name="Lost Vikings, The (USA) (Blizzard Arcade Collection)">
+		<description>Lost Vikings, The (USA) (Blizzard Arcade Collection)</description>
+		<rom name="Lost Vikings, The (USA) (Blizzard Arcade Collection).md" size="1048576" crc="5cc41d7b" md5="989910b5e8f26091226559764517511c" sha1="abbbc473e0641de79defbc33ad76be84af8d5a3a" />
+	</game>
 	<game name="Memory (USA) (AtGames) (Bootleg)">
 		<description>Memory (USA) (AtGames) (Bootleg).md</description>
 		<rom name="Memory (USA) (AtGames) (Bootleg).md" size="65536" crc="a85230c0" md5="8288b6d3f58d1844aef780bf0cdf0dc1" sha1="e37e15632d0a6b73f50cbb9bbd65cc1d62d1866e" />
@@ -46,6 +50,10 @@
 	<game name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)">
 		<description>Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)</description>
 		<rom name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl).md" size="5242880" crc="45d73398" md5="a8751584041af810c8ceabe5e9c8a91b" sha1="1177cf4306ec695cc01120bd6d6c35d82787f9be" />
+	</game>
+	<game name="Rock n' Roll Racing (USA) (Blizzard Arcade Collection)">
+		<description>Rock n' Roll Racing (USA) (Blizzard Arcade Collection)</description>
+		<rom name="Rock n' Roll Racing (USA) (Blizzard Arcade Collection).md" size="1048576" crc="242aa285" md5="f8f012c989fb3fcf38dc1fac2398ebd2" sha1="d09679b5b885d229a955a3e298d76bec66270265" />
 	</game>
 	<game name="Snake (USA) (AtGames) (Bootleg)">
 		<description>Snake (USA) (AtGames) (Bootleg).md</description>
