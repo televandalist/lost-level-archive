@@ -39,6 +39,10 @@
 		<description>Banished (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Banished (World) (Aftermarket) (GB Studio).gb" size="262144" crc="9BAC0192" md5="2E90B711C7A97E193819C1DB7ADD15C0" sha1="ECA6431A22916022E39558DC218C19AA9E00F9FD"/>
 	</game>
+	<game name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl)">
+		<description>Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl)</description>
+		<rom name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl).gb" size="2097152" crc="451491df" md5="6503cb7859073a0097daa8ed34766468" sha1="eafbcaca0b43035233d83413856c2b495b964346" />
+	</game>
 	<game name="Bear Boy (World) (Aftermarket) (Unl) (jchristof)">
 		<description>Bear Boy (World) (Aftermarket) (Unl) (jchristof)</description>
 		<rom name="Bear Boy (World) (Aftermarket) (Unl) (jchristof).gb" size="65536" crc="62DDDE69" md5="4FC125BE51E95FC976B32D55800697BB" sha1="72CE5BE1193ECA18D29DDA39932EC212B7BE8D2D"/>
@@ -406,6 +410,10 @@
 	<game name="Touhou Pocket Festival (World) (Aftermarket) (GB Studio)">
 		<description>Touhou Pocket Festival (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Touhou Pocket Festival (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="e2cc0500" md5="1ac382c4ddb6912cd2ecc8fb3d970122" sha1="f824ba496af84c966311bb54fc9062598bf829d4" />
+	</game>
+	<game name="Transmissions (World) (v3.0.0) (Aftermarket) (Unl)">
+		<description>Transmissions (World) (v3.0.0) (Aftermarket) (Unl)</description>
+		<rom name="Transmissions (World) (v3.0.0) (Aftermarket) (Unl).gb" size="524288" crc="306cd516" md5="72ff1c51e5d2a9db0a5272c0e3d02cee" sha1="278e448681bbbd4ef9368eb911b1a255f5f7b0e2" />
 	</game>
 	<game name="Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl)">
 		<description>Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl)</description>
