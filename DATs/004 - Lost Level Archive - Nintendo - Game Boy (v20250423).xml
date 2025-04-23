@@ -375,6 +375,10 @@
 		<description>Soul Void Redux (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Soul Void Redux (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="B6F5F372" md5="CE14AFB9B396A74A1E0E2ECE9747EA9C" sha1="3B10F6BAE11DAB5BB6106D0A6E4E80A3FBD0FA7A"/>
 	</game>
+	<game name="Space Landing (World) (Steam) (Aftermarket) (Maurizio)">
+		<description>Space Landing (World) (Steam) (Aftermarket) (Maurizio)</description>
+		<rom name="Space Landing (World) (Steam) (Aftermarket) (Maurizio).gb" size="524288" crc="3949375f" md5="08e447a6164cefd3e56212cd36e11e6f" sha1="dc3a64a7971ca53a01c18234bf9648612c865058" />
+	</game>
 	<game name="Space Shipper (World) (GBJam 11) (Aftermarket) (GB Studio)">
 		<description>Space Shipper (World) (GBJam 11) (Aftermarket) (GB Studio)</description>
 		<rom name="Space Shipper (World) (GBJam 11) (Aftermarket) (GB Studio).gb" size="262144" crc="b37e61ff" md5="b690aeb71c97d082bd4a1a5b5dadc7d6" sha1="414d4d633e410db931ce4e2f1b1ff336cbe47e5a" />
