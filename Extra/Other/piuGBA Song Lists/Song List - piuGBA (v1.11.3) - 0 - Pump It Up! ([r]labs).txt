@@ -1,0 +1,245 @@
+SONG LIST - NORMAL:
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                   Holiday │               F2 Original │    ORIGINAL │ 01 (Ω 0234) │ 07 (Ω 1116) │ 15 (Ω 2709) │
+│ 001 │             Funky Tonight │                      CLON │       K-POP │ 02 (Ω 0272) │ 05 (Ω 0678) │ 14 (Ω 1978) │
+│ 002 │                   Canon D │                     BanYa │    ORIGINAL │ 03 (Ω 0406) │ 07 (Ω 1336) │ 20 (Ω 3052) │
+│ 003 │                    Winter │                     BanYa │    ORIGINAL │ 03 (Ω 0407) │ 08 (Ω 1712) │ 15 (Ω 2618) │
+│ 004 │           Ignition Starts │                     BanYa │    ORIGINAL │ 03 (Ω 0457) │ 08 (Ω 0961) │ 15 (Ω 2138) │
+│ 005 │                        Go │                     U:Nee │       K-POP │ 03 (Ω 0509) │ 07 (Ω 1322) │ 12 (Ω 1733) │
+│ 006 │                     Dr. M │                     BanYa │    ORIGINAL │ 03 (Ω 0596) │ 07 (Ω 1214) │ 12 (Ω 1999) │
+│ 007 │              DJ Nightmare │     Rodney O / Joe Cooley │ WORLD MUSIC │ 03 (Ω 0597) │ 05 (Ω 0911) │ 15 (Ω 2470) │
+│ 008 │         Shake That Bootie │                    OneTwo │       K-POP │ 03 (Ω 0629) │ 06 (Ω 0985) │ 14 (Ω 1874) │
+│ 009 │               Lion's Roar │               Lee Hyun Do │       K-POP │ 03 (Ω 0655) │ 06 (Ω 0908) │ 13 (Ω 1877) │
+│ 010 │                 Curiosity │                 Hans Band │       K-POP │ 03 (Ω 0665) │ 11 (Ω 1901) │ 16 (Ω 2403) │
+│ 011 │                     Hi-Bi │                     BanYa │    ORIGINAL │ 03 (Ω 0670) │ 08 (Ω 1393) │ 15 (Ω 2624) │
+│ 012 │              Monkey Magic │                  E-PAK-SA │       K-POP │ 03 (Ω 0681) │ 07 (Ω 1503) │ 11 (Ω 1982) │
+│ 013 │     Love is a Danger Zone │                     BanYa │    ORIGINAL │ 03 (Ω 0685) │ 07 (Ω 1473) │ 19 (Ω 2643) │
+│ 014 │               Csikos Post │                     Banya │    ORIGINAL │ 03 (Ω 0952) │ 07 (Ω 1585) │ 13 (Ω 2544) │
+│ 015 │                      Slam │                 Novasonic │       K-POP │ 03 (Ω 0978) │ 06 (Ω 1337) │ 17 (Ω 2450) │
+│ 016 │                 Moonlight │                     BanYa │    ORIGINAL │ 04 (Ω 0444) │ 10 (Ω 1881) │ 19 (Ω 3394) │
+│ 017 │                      Vook │                     Banya │    ORIGINAL │ 04 (Ω 0475) │ 09 (Ω 1698) │ 15 (Ω 2760) │
+│ 018 │             PaPa Gonzales │                     BanYa │    ORIGINAL │ 04 (Ω 0536) │ 06 (Ω 1091) │ 14 (Ω 2960) │
+│ 019 │      No Particular Reason │              Mikyung Park │       K-POP │ 04 (Ω 0538) │ 08 (Ω 1132) │ 15 (Ω 2229) │
+│ 020 │                 Infection │               Inspector K │ WORLD MUSIC │ 04 (Ω 0549) │ 10 (Ω 1830) │ 15 (Ω 2496) │
+│ 021 │                First Love │                      Clon │       K-POP │ 04 (Ω 0558) │ 07 (Ω 1323) │ 11 (Ω 1952) │
+│ 022 │                Come to Me │                      Clon │       K-POP │ 04 (Ω 0568) │ 06 (Ω 0886) │ 11 (Ω 1608) │
+│ 023 │       Final Audition Ep.1 │                     BanYa │    ORIGINAL │ 04 (Ω 0571) │ 08 (Ω 1686) │ 15 (Ω 2324) │
+│ 024 │                 Black Cat │                     Turbo │       K-POP │ 04 (Ω 0601) │ 06 (Ω 0905) │ 15 (Ω 1978) │
+│ 025 │                    Tepris │                      Doin │    ORIGINAL │ 04 (Ω 0644) │ 07 (Ω 1331) │ 16 (Ω 2637) │
+│ 026 │                   X Treme │                     BanYa │    ORIGINAL │ 04 (Ω 0647) │ 09 (Ω 1866) │ 14 (Ω 2585) │
+│ 027 │          Street Show Down │                     BanYa │    ORIGINAL │ 04 (Ω 0665) │ 07 (Ω 1241) │ 15 (Ω 2573) │
+│ 028 │                  Hypnosis │                     BanYa │    ORIGINAL │ 04 (Ω 0667) │ 07 (Ω 1105) │ 15 (Ω 2474) │
+│ 029 │                   Can Can │               F2 Original │    ORIGINAL │ 04 (Ω 0671) │ 08 (Ω 1312) │ 14 (Ω 2229) │
+│ 030 │              Turkey March │                     BanYa │    ORIGINAL │ 04 (Ω 0703) │ 07 (Ω 1582) │ 12 (Ω 2095) │
+│ 031 │                   Mistake │                     U-Too │       K-POP │ 04 (Ω 0719) │ 06 (Ω 1022) │ 11 (Ω 1728) │
+│ 032 │             Space Fantasy │                   E-Paksa │       K-POP │ 04 (Ω 0729) │ 08 (Ω 1057) │ 13 (Ω 1592) │
+│ 033 │                Solitary 2 │                     BanYa │    ORIGINAL │ 04 (Ω 0748) │ 06 (Ω 1174) │ 17 (Ω 3066) │
+│ 034 │                   Get Up! │                     BanYa │    ORIGINAL │ 04 (Ω 0782) │ 08 (Ω 1760) │ 13 (Ω 2412) │
+│ 035 │ Love is a Danger Zone pt. │                     BanYa │    ORIGINAL │ 04 (Ω 0791) │ 07 (Ω 1257) │ 15 (Ω 2500) │
+│ 036 │           Beethoven Virus │                     BanYa │    ORIGINAL │ 04 (Ω 0800) │ 08 (Ω 1359) │ 16 (Ω 2704) │
+│ 037 │                       Bee │                     BanYa │    ORIGINAL │ 04 (Ω 0855) │ 11 (Ω 1758) │ 15 (Ω 2465) │
+│ 038 │                Pumping Up │                     BanYa │    ORIGINAL │ 04 (Ω 0892) │ 10 (Ω 1873) │ 12 (Ω 2192) │
+│ 039 │                  Com'Back │                Sechs Kies │       K-POP │ 04 (Ω 0930) │ 06 (Ω 1216) │ 15 (Ω 2592) │
+│ 040 │                   Chimera │                     YAHPP │    ORIGINAL │ 04 (Ω 0939) │ 07 (Ω 1805) │ 16 (Ω 2681) │
+│ 041 │                Run to you │                    DJ DOC │       K-POP │ 05 (Ω 0700) │ 10 (Ω 1502) │ 13 (Ω 2028) │
+│ 042 │           Don't Bother Me │                 Tashannie │       K-POP │ 05 (Ω 0794) │ 10 (Ω 1480) │ 14 (Ω 1767) │
+│ 043 │         Beat of The War 2 │                     BanYa │    ORIGINAL │ 05 (Ω 0804) │ 10 (Ω 1961) │ 16 (Ω 2818) │
+│ 044 │                   Starian │                      DUKE │       K-POP │ 05 (Ω 0804) │ 07 (Ω 1284) │ 13 (Ω 1884) │
+│ 045 │          Dance Vibrations │                     Elpis │ WORLD MUSIC │ 05 (Ω 0814) │ 09 (Ω 1482) │ 10 (Ω 1846) │
+│ 046 │                    J Bong │                     BanYa │    ORIGINAL │ 05 (Ω 0861) │ 07 (Ω 1336) │ 13 (Ω 2718) │
+│ 047 │       Bullfighting's Song │          Banya Production │    ORIGINAL │ 05 (Ω 0877) │ 08 (Ω 1657) │ 16 (Ω 2806) │
+│ 048 │                Mr. Larpus │                     BanYa │    ORIGINAL │ 05 (Ω 0889) │ 11 (Ω 1887) │ 14 (Ω 2178) │
+│ 049 │           Will-O-The-Wisp │                     BanYa │    ORIGINAL │ 05 (Ω 0890) │ 10 (Ω 2054) │ 13 (Ω 2532) │
+│ 050 │           Pump me Amadeus │                     BanYa │    ORIGINAL │ 05 (Ω 0956) │ 09 (Ω 1907) │ 17 (Ω 3003) │
+│ 051 │            Monkey Fingers │                     BanYa │    ORIGINAL │ 05 (Ω 0976) │ 08 (Ω 2141) │ 15 (Ω 2424) │
+│ 052 │                   Dignity │                     Crash │       K-POP │ 05 (Ω 1008) │ 14 (Ω 2217) │ 20 (Ω 3408) │
+│ 053 │             Another Truth │                 Novasonic │       K-POP │ 05 (Ω 1049) │ 08 (Ω 1500) │ 15 (Ω 2370) │
+│ 054 │         Empire of the Sun │                 Novasonic │       K-POP │ 05 (Ω 1090) │ 06 (Ω 1063) │ 11 (Ω 1754) │
+│ 055 │           Beat of The War │                     Banya │    ORIGINAL │ 05 (Ω 1122) │ 10 (Ω 1820) │ 15 (Ω 2426) │
+│ 056 │                    We Are │                      DEUX │       K-POP │ 05 (Ω 1130) │ 09 (Ω 1684) │ 12 (Ω 2090) │
+│ 057 │                 Watch Out │                  Victoria │ WORLD MUSIC │ 06 (Ω 0825) │ 10 (Ω 1856) │ 16 (Ω 1910) │
+│ 058 │              Witch Doctor │                     BanYa │    ORIGINAL │ 06 (Ω 0878) │ 10 (Ω 1844) │ 16 (Ω 3063) │
+│ 059 │                   Pierrot │               Lee Hyun Do │       K-POP │ 06 (Ω 0899) │ 07 (Ω 0899) │ 14 (Ω 1827) │
+│ 060 │                Temptation │                    Harisu │       K-POP │ 06 (Ω 0966) │ 08 (Ω 1340) │ 13 (Ω 2332) │
+│ 061 │             Dance With Me │                     BanYa │    ORIGINAL │ 06 (Ω 0986) │ 12 (Ω 1710) │ 14 (Ω 2022) │
+│ 062 │              Chicken Wing │                     BanYa │    ORIGINAL │ 06 (Ω 1123) │ 10 (Ω 1857) │ 17 (Ω 3135) │
+│ 063 │                  Solitary │                     BanYa │    ORIGINAL │ 06 (Ω 1124) │ 09 (Ω 1485) │ 16 (Ω 2896) │
+│ 064 │            Final Audition │                     BanYa │    ORIGINAL │ 06 (Ω 1150) │ 07 (Ω 1100) │ 17 (Ω 2562) │
+│ 065 │                    D Gang │                     BanYa │    ORIGINAL │ 06 (Ω 1155) │ 09 (Ω 1585) │ 18 (Ω 2628) │
+│ 066 │                     Loner │                    T.T.Ma │       K-POP │ 06 (Ω 1422) │ 10 (Ω 1818) │ 15 (Ω 2585) │
+│ 067 │                   Phantom │                     BanYa │    ORIGINAL │ 07 (Ω 1239) │ 12 (Ω 2087) │ 18 (Ω 3234) │
+│ 068 │              Extravaganza │                     BanYa │    ORIGINAL │ 06 (Ω 1525) │ 09 (Ω 1901) │ 11 (Ω 2299) │
+│ 069 │            Move That Body │ DM Ashura feat. Skizzo /  │ WORLD MUSIC │ 08 (Ω 1541) │ 12 (Ω 2008) │ 17 (Ω 2635) │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - HARD:
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │             Funky Tonight │                      CLON │       K-POP │ 02 (Ω 0272) │ 05 (Ω 0678) │ 14 (Ω 1978) │
+│ 001 │              DJ Nightmare │     Rodney O / Joe Cooley │ WORLD MUSIC │ 03 (Ω 0597) │ 05 (Ω 0911) │ 15 (Ω 2470) │
+│ 002 │                Come to Me │                      Clon │       K-POP │ 04 (Ω 0568) │ 06 (Ω 0886) │ 11 (Ω 1608) │
+│ 003 │                 Black Cat │                     Turbo │       K-POP │ 04 (Ω 0601) │ 06 (Ω 0905) │ 15 (Ω 1978) │
+│ 004 │               Lion's Roar │               Lee Hyun Do │       K-POP │ 03 (Ω 0655) │ 06 (Ω 0908) │ 13 (Ω 1877) │
+│ 005 │         Shake That Bootie │                    OneTwo │       K-POP │ 03 (Ω 0629) │ 06 (Ω 0985) │ 14 (Ω 1874) │
+│ 006 │                   Mistake │                     U-Too │       K-POP │ 04 (Ω 0719) │ 06 (Ω 1022) │ 11 (Ω 1728) │
+│ 007 │         Empire of the Sun │                 Novasonic │       K-POP │ 05 (Ω 1090) │ 06 (Ω 1063) │ 11 (Ω 1754) │
+│ 008 │             PaPa Gonzales │                     BanYa │    ORIGINAL │ 04 (Ω 0536) │ 06 (Ω 1091) │ 14 (Ω 2960) │
+│ 009 │                Solitary 2 │                     BanYa │    ORIGINAL │ 04 (Ω 0748) │ 06 (Ω 1174) │ 17 (Ω 3066) │
+│ 010 │                  Com'Back │                Sechs Kies │       K-POP │ 04 (Ω 0930) │ 06 (Ω 1216) │ 15 (Ω 2592) │
+│ 011 │                      Slam │                 Novasonic │       K-POP │ 03 (Ω 0978) │ 06 (Ω 1337) │ 17 (Ω 2450) │
+│ 012 │                   Pierrot │               Lee Hyun Do │       K-POP │ 06 (Ω 0899) │ 07 (Ω 0899) │ 14 (Ω 1827) │
+│ 013 │            Final Audition │                     BanYa │    ORIGINAL │ 06 (Ω 1150) │ 07 (Ω 1100) │ 17 (Ω 2562) │
+│ 014 │                  Hypnosis │                     BanYa │    ORIGINAL │ 04 (Ω 0667) │ 07 (Ω 1105) │ 15 (Ω 2474) │
+│ 015 │                   Holiday │               F2 Original │    ORIGINAL │ 01 (Ω 0234) │ 07 (Ω 1116) │ 15 (Ω 2709) │
+│ 016 │                     Dr. M │                     BanYa │    ORIGINAL │ 03 (Ω 0596) │ 07 (Ω 1214) │ 12 (Ω 1999) │
+│ 017 │          Street Show Down │                     BanYa │    ORIGINAL │ 04 (Ω 0665) │ 07 (Ω 1241) │ 15 (Ω 2573) │
+│ 018 │ Love is a Danger Zone pt. │                     BanYa │    ORIGINAL │ 04 (Ω 0791) │ 07 (Ω 1257) │ 15 (Ω 2500) │
+│ 019 │                   Starian │                      DUKE │       K-POP │ 05 (Ω 0804) │ 07 (Ω 1284) │ 13 (Ω 1884) │
+│ 020 │                        Go │                     U:Nee │       K-POP │ 03 (Ω 0509) │ 07 (Ω 1322) │ 12 (Ω 1733) │
+│ 021 │                First Love │                      Clon │       K-POP │ 04 (Ω 0558) │ 07 (Ω 1323) │ 11 (Ω 1952) │
+│ 022 │                    Tepris │                      Doin │    ORIGINAL │ 04 (Ω 0644) │ 07 (Ω 1331) │ 16 (Ω 2637) │
+│ 023 │                    J Bong │                     BanYa │    ORIGINAL │ 05 (Ω 0861) │ 07 (Ω 1336) │ 13 (Ω 2718) │
+│ 024 │                   Canon D │                     BanYa │    ORIGINAL │ 03 (Ω 0406) │ 07 (Ω 1336) │ 20 (Ω 3052) │
+│ 025 │     Love is a Danger Zone │                     BanYa │    ORIGINAL │ 03 (Ω 0685) │ 07 (Ω 1473) │ 19 (Ω 2643) │
+│ 026 │              Monkey Magic │                  E-PAK-SA │       K-POP │ 03 (Ω 0681) │ 07 (Ω 1503) │ 11 (Ω 1982) │
+│ 027 │              Turkey March │                     BanYa │    ORIGINAL │ 04 (Ω 0703) │ 07 (Ω 1582) │ 12 (Ω 2095) │
+│ 028 │               Csikos Post │                     Banya │    ORIGINAL │ 03 (Ω 0952) │ 07 (Ω 1585) │ 13 (Ω 2544) │
+│ 029 │                   Chimera │                     YAHPP │    ORIGINAL │ 04 (Ω 0939) │ 07 (Ω 1805) │ 16 (Ω 2681) │
+│ 030 │           Ignition Starts │                     BanYa │    ORIGINAL │ 03 (Ω 0457) │ 08 (Ω 0961) │ 15 (Ω 2138) │
+│ 031 │             Space Fantasy │                   E-Paksa │       K-POP │ 04 (Ω 0729) │ 08 (Ω 1057) │ 13 (Ω 1592) │
+│ 032 │      No Particular Reason │              Mikyung Park │       K-POP │ 04 (Ω 0538) │ 08 (Ω 1132) │ 15 (Ω 2229) │
+│ 033 │                   Can Can │               F2 Original │    ORIGINAL │ 04 (Ω 0671) │ 08 (Ω 1312) │ 14 (Ω 2229) │
+│ 034 │                Temptation │                    Harisu │       K-POP │ 06 (Ω 0966) │ 08 (Ω 1340) │ 13 (Ω 2332) │
+│ 035 │           Beethoven Virus │                     BanYa │    ORIGINAL │ 04 (Ω 0800) │ 08 (Ω 1359) │ 16 (Ω 2704) │
+│ 036 │                     Hi-Bi │                     BanYa │    ORIGINAL │ 03 (Ω 0670) │ 08 (Ω 1393) │ 15 (Ω 2624) │
+│ 037 │             Another Truth │                 Novasonic │       K-POP │ 05 (Ω 1049) │ 08 (Ω 1500) │ 15 (Ω 2370) │
+│ 038 │       Bullfighting's Song │          Banya Production │    ORIGINAL │ 05 (Ω 0877) │ 08 (Ω 1657) │ 16 (Ω 2806) │
+│ 039 │       Final Audition Ep.1 │                     BanYa │    ORIGINAL │ 04 (Ω 0571) │ 08 (Ω 1686) │ 15 (Ω 2324) │
+│ 040 │                    Winter │                     BanYa │    ORIGINAL │ 03 (Ω 0407) │ 08 (Ω 1712) │ 15 (Ω 2618) │
+│ 041 │                   Get Up! │                     BanYa │    ORIGINAL │ 04 (Ω 0782) │ 08 (Ω 1760) │ 13 (Ω 2412) │
+│ 042 │            Monkey Fingers │                     BanYa │    ORIGINAL │ 05 (Ω 0976) │ 08 (Ω 2141) │ 15 (Ω 2424) │
+│ 043 │          Dance Vibrations │                     Elpis │ WORLD MUSIC │ 05 (Ω 0814) │ 09 (Ω 1482) │ 10 (Ω 1846) │
+│ 044 │                  Solitary │                     BanYa │    ORIGINAL │ 06 (Ω 1124) │ 09 (Ω 1485) │ 16 (Ω 2896) │
+│ 045 │                    D Gang │                     BanYa │    ORIGINAL │ 06 (Ω 1155) │ 09 (Ω 1585) │ 18 (Ω 2628) │
+│ 046 │                    We Are │                      DEUX │       K-POP │ 05 (Ω 1130) │ 09 (Ω 1684) │ 12 (Ω 2090) │
+│ 047 │                      Vook │                     Banya │    ORIGINAL │ 04 (Ω 0475) │ 09 (Ω 1698) │ 15 (Ω 2760) │
+│ 048 │                   X Treme │                     BanYa │    ORIGINAL │ 04 (Ω 0647) │ 09 (Ω 1866) │ 14 (Ω 2585) │
+│ 049 │              Extravaganza │                     BanYa │    ORIGINAL │ 06 (Ω 1525) │ 09 (Ω 1901) │ 11 (Ω 2299) │
+│ 050 │           Pump me Amadeus │                     BanYa │    ORIGINAL │ 05 (Ω 0956) │ 09 (Ω 1907) │ 17 (Ω 3003) │
+│ 051 │           Don't Bother Me │                 Tashannie │       K-POP │ 05 (Ω 0794) │ 10 (Ω 1480) │ 14 (Ω 1767) │
+│ 052 │                Run to you │                    DJ DOC │       K-POP │ 05 (Ω 0700) │ 10 (Ω 1502) │ 13 (Ω 2028) │
+│ 053 │                     Loner │                    T.T.Ma │       K-POP │ 06 (Ω 1422) │ 10 (Ω 1818) │ 15 (Ω 2585) │
+│ 054 │           Beat of The War │                     Banya │    ORIGINAL │ 05 (Ω 1122) │ 10 (Ω 1820) │ 15 (Ω 2426) │
+│ 055 │                 Infection │               Inspector K │ WORLD MUSIC │ 04 (Ω 0549) │ 10 (Ω 1830) │ 15 (Ω 2496) │
+│ 056 │              Witch Doctor │                     BanYa │    ORIGINAL │ 06 (Ω 0878) │ 10 (Ω 1844) │ 16 (Ω 3063) │
+│ 057 │                 Watch Out │                  Victoria │ WORLD MUSIC │ 06 (Ω 0825) │ 10 (Ω 1856) │ 16 (Ω 1910) │
+│ 058 │              Chicken Wing │                     BanYa │    ORIGINAL │ 06 (Ω 1123) │ 10 (Ω 1857) │ 17 (Ω 3135) │
+│ 059 │                Pumping Up │                     BanYa │    ORIGINAL │ 04 (Ω 0892) │ 10 (Ω 1873) │ 12 (Ω 2192) │
+│ 060 │                 Moonlight │                     BanYa │    ORIGINAL │ 04 (Ω 0444) │ 10 (Ω 1881) │ 19 (Ω 3394) │
+│ 061 │         Beat of The War 2 │                     BanYa │    ORIGINAL │ 05 (Ω 0804) │ 10 (Ω 1961) │ 16 (Ω 2818) │
+│ 062 │           Will-O-The-Wisp │                     BanYa │    ORIGINAL │ 05 (Ω 0890) │ 10 (Ω 2054) │ 13 (Ω 2532) │
+│ 063 │                       Bee │                     BanYa │    ORIGINAL │ 04 (Ω 0855) │ 11 (Ω 1758) │ 15 (Ω 2465) │
+│ 064 │                Mr. Larpus │                     BanYa │    ORIGINAL │ 05 (Ω 0889) │ 11 (Ω 1887) │ 14 (Ω 2178) │
+│ 065 │                 Curiosity │                 Hans Band │       K-POP │ 03 (Ω 0665) │ 11 (Ω 1901) │ 16 (Ω 2403) │
+│ 066 │             Dance With Me │                     BanYa │    ORIGINAL │ 06 (Ω 0986) │ 12 (Ω 1710) │ 14 (Ω 2022) │
+│ 067 │            Move That Body │ DM Ashura feat. Skizzo /  │ WORLD MUSIC │ 08 (Ω 1541) │ 12 (Ω 2008) │ 17 (Ω 2635) │
+│ 068 │                   Phantom │                     BanYa │    ORIGINAL │ 07 (Ω 1239) │ 12 (Ω 2087) │ 18 (Ω 3234) │
+│ 069 │                   Dignity │                     Crash │       K-POP │ 05 (Ω 1008) │ 14 (Ω 2217) │ 20 (Ω 3408) │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - CRAZY:
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │          Dance Vibrations │                     Elpis │ WORLD MUSIC │ 05 (Ω 0814) │ 09 (Ω 1482) │ 10 (Ω 1846) │
+│ 001 │                Come to Me │                      Clon │       K-POP │ 04 (Ω 0568) │ 06 (Ω 0886) │ 11 (Ω 1608) │
+│ 002 │                   Mistake │                     U-Too │       K-POP │ 04 (Ω 0719) │ 06 (Ω 1022) │ 11 (Ω 1728) │
+│ 003 │         Empire of the Sun │                 Novasonic │       K-POP │ 05 (Ω 1090) │ 06 (Ω 1063) │ 11 (Ω 1754) │
+│ 004 │                First Love │                      Clon │       K-POP │ 04 (Ω 0558) │ 07 (Ω 1323) │ 11 (Ω 1952) │
+│ 005 │              Monkey Magic │                  E-PAK-SA │       K-POP │ 03 (Ω 0681) │ 07 (Ω 1503) │ 11 (Ω 1982) │
+│ 006 │              Extravaganza │                     BanYa │    ORIGINAL │ 06 (Ω 1525) │ 09 (Ω 1901) │ 11 (Ω 2299) │
+│ 007 │                        Go │                     U:Nee │       K-POP │ 03 (Ω 0509) │ 07 (Ω 1322) │ 12 (Ω 1733) │
+│ 008 │                     Dr. M │                     BanYa │    ORIGINAL │ 03 (Ω 0596) │ 07 (Ω 1214) │ 12 (Ω 1999) │
+│ 009 │                    We Are │                      DEUX │       K-POP │ 05 (Ω 1130) │ 09 (Ω 1684) │ 12 (Ω 2090) │
+│ 010 │              Turkey March │                     BanYa │    ORIGINAL │ 04 (Ω 0703) │ 07 (Ω 1582) │ 12 (Ω 2095) │
+│ 011 │                Pumping Up │                     BanYa │    ORIGINAL │ 04 (Ω 0892) │ 10 (Ω 1873) │ 12 (Ω 2192) │
+│ 012 │             Space Fantasy │                   E-Paksa │       K-POP │ 04 (Ω 0729) │ 08 (Ω 1057) │ 13 (Ω 1592) │
+│ 013 │               Lion's Roar │               Lee Hyun Do │       K-POP │ 03 (Ω 0655) │ 06 (Ω 0908) │ 13 (Ω 1877) │
+│ 014 │                   Starian │                      DUKE │       K-POP │ 05 (Ω 0804) │ 07 (Ω 1284) │ 13 (Ω 1884) │
+│ 015 │                Run to you │                    DJ DOC │       K-POP │ 05 (Ω 0700) │ 10 (Ω 1502) │ 13 (Ω 2028) │
+│ 016 │                Temptation │                    Harisu │       K-POP │ 06 (Ω 0966) │ 08 (Ω 1340) │ 13 (Ω 2332) │
+│ 017 │                   Get Up! │                     BanYa │    ORIGINAL │ 04 (Ω 0782) │ 08 (Ω 1760) │ 13 (Ω 2412) │
+│ 018 │           Will-O-The-Wisp │                     BanYa │    ORIGINAL │ 05 (Ω 0890) │ 10 (Ω 2054) │ 13 (Ω 2532) │
+│ 019 │               Csikos Post │                     Banya │    ORIGINAL │ 03 (Ω 0952) │ 07 (Ω 1585) │ 13 (Ω 2544) │
+│ 020 │                    J Bong │                     BanYa │    ORIGINAL │ 05 (Ω 0861) │ 07 (Ω 1336) │ 13 (Ω 2718) │
+│ 021 │           Don't Bother Me │                 Tashannie │       K-POP │ 05 (Ω 0794) │ 10 (Ω 1480) │ 14 (Ω 1767) │
+│ 022 │                   Pierrot │               Lee Hyun Do │       K-POP │ 06 (Ω 0899) │ 07 (Ω 0899) │ 14 (Ω 1827) │
+│ 023 │         Shake That Bootie │                    OneTwo │       K-POP │ 03 (Ω 0629) │ 06 (Ω 0985) │ 14 (Ω 1874) │
+│ 024 │             Funky Tonight │                      CLON │       K-POP │ 02 (Ω 0272) │ 05 (Ω 0678) │ 14 (Ω 1978) │
+│ 025 │             Dance With Me │                     BanYa │    ORIGINAL │ 06 (Ω 0986) │ 12 (Ω 1710) │ 14 (Ω 2022) │
+│ 026 │                Mr. Larpus │                     BanYa │    ORIGINAL │ 05 (Ω 0889) │ 11 (Ω 1887) │ 14 (Ω 2178) │
+│ 027 │                   Can Can │               F2 Original │    ORIGINAL │ 04 (Ω 0671) │ 08 (Ω 1312) │ 14 (Ω 2229) │
+│ 028 │                   X Treme │                     BanYa │    ORIGINAL │ 04 (Ω 0647) │ 09 (Ω 1866) │ 14 (Ω 2585) │
+│ 029 │             PaPa Gonzales │                     BanYa │    ORIGINAL │ 04 (Ω 0536) │ 06 (Ω 1091) │ 14 (Ω 2960) │
+│ 030 │                 Black Cat │                     Turbo │       K-POP │ 04 (Ω 0601) │ 06 (Ω 0905) │ 15 (Ω 1978) │
+│ 031 │           Ignition Starts │                     BanYa │    ORIGINAL │ 03 (Ω 0457) │ 08 (Ω 0961) │ 15 (Ω 2138) │
+│ 032 │      No Particular Reason │              Mikyung Park │       K-POP │ 04 (Ω 0538) │ 08 (Ω 1132) │ 15 (Ω 2229) │
+│ 033 │       Final Audition Ep.1 │                     BanYa │    ORIGINAL │ 04 (Ω 0571) │ 08 (Ω 1686) │ 15 (Ω 2324) │
+│ 034 │             Another Truth │                 Novasonic │       K-POP │ 05 (Ω 1049) │ 08 (Ω 1500) │ 15 (Ω 2370) │
+│ 035 │            Monkey Fingers │                     BanYa │    ORIGINAL │ 05 (Ω 0976) │ 08 (Ω 2141) │ 15 (Ω 2424) │
+│ 036 │           Beat of The War │                     Banya │    ORIGINAL │ 05 (Ω 1122) │ 10 (Ω 1820) │ 15 (Ω 2426) │
+│ 037 │                       Bee │                     BanYa │    ORIGINAL │ 04 (Ω 0855) │ 11 (Ω 1758) │ 15 (Ω 2465) │
+│ 038 │              DJ Nightmare │     Rodney O / Joe Cooley │ WORLD MUSIC │ 03 (Ω 0597) │ 05 (Ω 0911) │ 15 (Ω 2470) │
+│ 039 │                  Hypnosis │                     BanYa │    ORIGINAL │ 04 (Ω 0667) │ 07 (Ω 1105) │ 15 (Ω 2474) │
+│ 040 │                 Infection │               Inspector K │ WORLD MUSIC │ 04 (Ω 0549) │ 10 (Ω 1830) │ 15 (Ω 2496) │
+│ 041 │ Love is a Danger Zone pt. │                     BanYa │    ORIGINAL │ 04 (Ω 0791) │ 07 (Ω 1257) │ 15 (Ω 2500) │
+│ 042 │          Street Show Down │                     BanYa │    ORIGINAL │ 04 (Ω 0665) │ 07 (Ω 1241) │ 15 (Ω 2573) │
+│ 043 │                     Loner │                    T.T.Ma │       K-POP │ 06 (Ω 1422) │ 10 (Ω 1818) │ 15 (Ω 2585) │
+│ 044 │                  Com'Back │                Sechs Kies │       K-POP │ 04 (Ω 0930) │ 06 (Ω 1216) │ 15 (Ω 2592) │
+│ 045 │                    Winter │                     BanYa │    ORIGINAL │ 03 (Ω 0407) │ 08 (Ω 1712) │ 15 (Ω 2618) │
+│ 046 │                     Hi-Bi │                     BanYa │    ORIGINAL │ 03 (Ω 0670) │ 08 (Ω 1393) │ 15 (Ω 2624) │
+│ 047 │                   Holiday │               F2 Original │    ORIGINAL │ 01 (Ω 0234) │ 07 (Ω 1116) │ 15 (Ω 2709) │
+│ 048 │                      Vook │                     Banya │    ORIGINAL │ 04 (Ω 0475) │ 09 (Ω 1698) │ 15 (Ω 2760) │
+│ 049 │                 Watch Out │                  Victoria │ WORLD MUSIC │ 06 (Ω 0825) │ 10 (Ω 1856) │ 16 (Ω 1910) │
+│ 050 │                 Curiosity │                 Hans Band │       K-POP │ 03 (Ω 0665) │ 11 (Ω 1901) │ 16 (Ω 2403) │
+│ 051 │                    Tepris │                      Doin │    ORIGINAL │ 04 (Ω 0644) │ 07 (Ω 1331) │ 16 (Ω 2637) │
+│ 052 │                   Chimera │                     YAHPP │    ORIGINAL │ 04 (Ω 0939) │ 07 (Ω 1805) │ 16 (Ω 2681) │
+│ 053 │           Beethoven Virus │                     BanYa │    ORIGINAL │ 04 (Ω 0800) │ 08 (Ω 1359) │ 16 (Ω 2704) │
+│ 054 │       Bullfighting's Song │          Banya Production │    ORIGINAL │ 05 (Ω 0877) │ 08 (Ω 1657) │ 16 (Ω 2806) │
+│ 055 │         Beat of The War 2 │                     BanYa │    ORIGINAL │ 05 (Ω 0804) │ 10 (Ω 1961) │ 16 (Ω 2818) │
+│ 056 │              Witch Doctor │                     BanYa │    ORIGINAL │ 06 (Ω 0878) │ 10 (Ω 1844) │ 16 (Ω 3063) │
+│ 057 │                      Slam │                 Novasonic │       K-POP │ 03 (Ω 0978) │ 06 (Ω 1337) │ 17 (Ω 2450) │
+│ 058 │            Final Audition │                     BanYa │    ORIGINAL │ 06 (Ω 1150) │ 07 (Ω 1100) │ 17 (Ω 2562) │
+│ 059 │            Move That Body │ DM Ashura feat. Skizzo /  │ WORLD MUSIC │ 08 (Ω 1541) │ 12 (Ω 2008) │ 17 (Ω 2635) │
+│ 060 │                  Solitary │                     BanYa │    ORIGINAL │ 06 (Ω 1124) │ 09 (Ω 1485) │ 16 (Ω 2896) │
+│ 061 │           Pump me Amadeus │                     BanYa │    ORIGINAL │ 05 (Ω 0956) │ 09 (Ω 1907) │ 17 (Ω 3003) │
+│ 062 │                Solitary 2 │                     BanYa │    ORIGINAL │ 04 (Ω 0748) │ 06 (Ω 1174) │ 17 (Ω 3066) │
+│ 063 │                    D Gang │                     BanYa │    ORIGINAL │ 06 (Ω 1155) │ 09 (Ω 1585) │ 18 (Ω 2628) │
+│ 064 │              Chicken Wing │                     BanYa │    ORIGINAL │ 06 (Ω 1123) │ 10 (Ω 1857) │ 17 (Ω 3135) │
+│ 065 │                   Phantom │                     BanYa │    ORIGINAL │ 07 (Ω 1239) │ 12 (Ω 2087) │ 18 (Ω 3234) │
+│ 066 │     Love is a Danger Zone │                     BanYa │    ORIGINAL │ 03 (Ω 0685) │ 07 (Ω 1473) │ 19 (Ω 2643) │
+│ 067 │                   Canon D │                     BanYa │    ORIGINAL │ 03 (Ω 0406) │ 07 (Ω 1336) │ 20 (Ω 3052) │
+│ 068 │                   Dignity │                     Crash │       K-POP │ 05 (Ω 1008) │ 14 (Ω 2217) │ 20 (Ω 3408) │
+│ 069 │                 Moonlight │                     BanYa │    ORIGINAL │ 04 (Ω 0444) │ 10 (Ω 1881) │ 19 (Ω 3394) │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 41
+K-POP: 24
+WORLD MUSIC: 5
+TOTAL: 70
+
+----------
+
+Custom order:
+- Extravaganza: 6 -> 7
+- Moonlight: 19 -> 21
+
+Fixed gain: (+5dB)
+- Don't Bother Me
+- Turkey March
+- We Are

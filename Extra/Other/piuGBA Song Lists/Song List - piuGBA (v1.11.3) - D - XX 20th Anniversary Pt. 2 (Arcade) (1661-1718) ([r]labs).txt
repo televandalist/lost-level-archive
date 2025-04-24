@@ -1,0 +1,69 @@
+┌─────┬───────────────────────────┬──────────────────────────┬─────────────┐
+│  id │                     title │                   artist │     channel │
+├─────┼───────────────────────────┼──────────────────────────┼─────────────┤
+│ 000 │          Bon Bon Chocolat │                 EVERGLOW │       K-POP │
+│ 001 │                 VERY NICE │                SEVENTEEN │       K-POP │
+│ 002 │                  GOOD BYE │            HONG JINYOUNG │       K-POP │
+│ 003 │                 YOU AND I │             Dreamcatcher │       K-POP │
+│ 004 │             King of Sales │                   Norazo │       K-POP │
+│ 005 │                  Gotta Go │                 CHUNG HA │       K-POP │
+│ 006 │ Boong Boong (Feat. Sik-K) │                     HAON │       K-POP │
+│ 007 │                Club Night │                  Matduke │ WORLD MUSIC │
+│ 008 │            Indestructible │                  Matduke │ WORLD MUSIC │
+│ 009 │                       8 6 │                     DASU │ WORLD MUSIC │
+│ 010 │                CROSS SOUL │       HyuN feat. Syepias │ WORLD MUSIC │
+│ 011 │   Broken Karma (PIU EDIT) │                    Quree │ WORLD MUSIC │
+│ 012 │    After a thousand years │                     TOTO │ WORLD MUSIC │
+│ 013 │                      Lala │           Yassi Pressman │ WORLD MUSIC │
+│ 014 │                  F(R)IEND │                    D_AAN │ WORLD MUSIC │
+│ 015 │                  Conflict │        Siromaru + Cranky │ WORLD MUSIC │
+│ 016 │           Danger / Danger │                   Cranky │ WORLD MUSIC │
+│ 017 │               Imagination │                      SHK │    ORIGINAL │
+│ 018 │                Black Swan │                    zeron │    ORIGINAL │
+│ 019 │                 Obelisque │               ESTi x M2U │    ORIGINAL │
+│ 020 │              Rage of Fire │                      MAX │    ORIGINAL │
+│ 021 │ Dual Racing <RED vs BLUE> │             Nato / r300k │    ORIGINAL │
+│ 022 │                  Cycling! │                  Yamajet │    ORIGINAL │
+│ 023 │                   Uranium │                    Memme │    ORIGINAL │
+│ 024 │                   Xeroize │                       FE │    ORIGINAL │
+│ 025 │               Rising Star │                      M2U │    ORIGINAL │
+│ 026 │                Cutie Song │                    Memme │    ORIGINAL │
+│ 027 │          Headless Chicken │                    r300k │    ORIGINAL │
+│ 028 │          Over The Horizon │                  Yamajet │    ORIGINAL │
+│ 029 │                      Loki │                    Lotze │    ORIGINAL │
+│ 030 │     Dement ~After Legend~ │           Lunatic Sounds │    ORIGINAL │
+│ 031 │                 Houseplan │                Houseplan │    ORIGINAL │
+│ 032 │                 Your Mind │             Roy Mikelate │    ORIGINAL │
+│ 033 │ Nihilism - Another Ver. - │                     Nato │ WORLD MUSIC │
+│ 034 │     Phalanx "RS2018 Edit" │                   Cranky │ WORLD MUSIC │
+│ 035 │              POINT ZERO 2 │                SYNTHWULF │ WORLD MUSIC │
+│ 036 │               BRAIN POWER │                     NOMA │ WORLD MUSIC │
+│ 037 │             Life is PIANO │                     Junk │ WORLD MUSIC │
+│ 038 │                    GLORIA │                   Croire │ WORLD MUSIC │
+│ 039 │ Can-can ~Orpheus in The P │          Sr. Lan Belmont │    ORIGINAL │
+│ 040 │  Papasito (feat.  KuTiNA) │        Yakikaze / Cashew │    ORIGINAL │
+│ 041 │          Fires of Destiny │               Jehezukiel │    ORIGINAL │
+│ 042 │ The End of the World ft.  │               MonstDeath │    ORIGINAL │
+│ 043 │         Forgotten Vampire │                  WyvernP │    ORIGINAL │
+│ 044 │                Harmagedon │          HyuN vs lixound │    ORIGINAL │
+│ 045 │                Repentance │                     Abel │    ORIGINAL │
+│ 046 │               The Reverie │                      uma │    ORIGINAL │
+│ 047 │                  Mopemope │                     LeaF │ WORLD MUSIC │
+│ 048 │       Re : End of a Dream │ uma vs. Morimori Atsushi │ WORLD MUSIC │
+│ 049 │                 CROSS RAY │                     HyuN │ WORLD MUSIC │
+│ 050 │                    Cygnus │                     nato │    ORIGINAL │
+│ 051 │                Tropicanic │                      SHK │    ORIGINAL │
+│ 052 │ God Mode 2.0 feat. Skizzo │                     Nato │    ORIGINAL │
+│ 053 │                 Ultimatum │               Cosmograph │ WORLD MUSIC │
+│ 054 │  Kokugen Kairou Labyrinth │      A:llha (ANE + 2riA) │ WORLD MUSIC │
+│ 055 │ Meteo5cience (GADGET Remi │             Paul Bazooka │    ORIGINAL │
+│ 056 │        Prime Time (Remix) │                   Cashew │ WORLD MUSIC │
+│ 057 │ Fire Noodle Challenge (Re │                    Memme │    ORIGINAL │
+└─────┴───────────────────────────┴──────────────────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 29
+K-POP: 7
+WORLD MUSIC: 22
+TOTAL: 58

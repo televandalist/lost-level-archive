@@ -1,0 +1,207 @@
+SONG LIST - NORMAL:
+┌─────┬───────────────────────┬────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                 title │                 artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────┼────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │        I Need to Know │   Marc Anthony (Cover) │ WORLD MUSIC │ 02 (Ω 0282) │ 05 (Ω 0562) │ 10 (Ω 1112) │
+│ 001 │           Point Break │                  BanYa │    ORIGINAL │ 02 (Ω 0290) │ 06 (Ω 0707) │ 14 (Ω 1379) │
+│ 002 │      Gotta be Kidding │                  Hanul │       K-POP │ 02 (Ω 0469) │ 05 (Ω 0709) │ 12 (Ω 1843) │
+│ 003 │                     Y │             Kim Gun Mo │       K-POP │ 03 (Ω 0346) │ 05 (Ω 0502) │ 12 (Ω 1582) │
+│ 004 │              Bonaccia │                  Nazca │       K-POP │ 03 (Ω 0358) │ 06 (Ω 0712) │ 12 (Ω 1042) │
+│ 005 │                Zzanga │             Kim Gun Mo │       K-POP │ 03 (Ω 0380) │ 09 (Ω 1518) │ 16 (Ω 2206) │
+│ 006 │                 Maria │                  BanYa │    ORIGINAL │ 03 (Ω 0389) │ 06 (Ω 0919) │ 11 (Ω 1473) │
+│ 007 │                Winter │                  BanYa │    ORIGINAL │ 03 (Ω 0407) │ 08 (Ω 1712) │ 15 (Ω 2618) │
+│ 008 │  All I Want For X-Mas │                  BanYa │    ORIGINAL │ 03 (Ω 0477) │ 06 (Ω 0709) │ 11 (Ω 1314) │
+│ 009 │        Let's Get Loud │ Jennifer Lopez (Cover) │ WORLD MUSIC │ 03 (Ω 0531) │ 07 (Ω 1156) │ 12 (Ω 1672) │
+│ 010 │                Hayuga │             Taiji Boys │       K-POP │ 03 (Ω 0562) │ 07 (Ω 0915) │ 14 (Ω 1915) │
+│ 011 │       Certain Victory │             Taiji Boys │       K-POP │ 03 (Ω 0579) │ 07 (Ω 1009) │ 11 (Ω 1435) │
+│ 012 │                 Dr. M │                  BanYa │    ORIGINAL │ 03 (Ω 0596) │ 07 (Ω 1214) │ 12 (Ω 1999) │
+│ 013 │    We will meet again │                  BanYa │    ORIGINAL │ 03 (Ω 0663) │ 08 (Ω 1280) │ 14 (Ω 2006) │
+│ 014 │ Love is a Danger Zone │                  BanYa │    ORIGINAL │ 03 (Ω 0685) │ 07 (Ω 1473) │ 19 (Ω 2643) │
+│ 015 │           Csikos Post │                  Banya │    ORIGINAL │ 03 (Ω 0952) │ 07 (Ω 1585) │ 13 (Ω 2544) │
+│ 016 │                  Slam │              Novasonic │       K-POP │ 03 (Ω 0978) │ 06 (Ω 1337) │ 17 (Ω 2450) │
+│ 017 │    Get Your Groove On │                  BanYa │    ORIGINAL │ 04 (Ω 0379) │ 06 (Ω 0820) │ 13 (Ω 1385) │
+│ 018 │                  Vook │                  Banya │    ORIGINAL │ 04 (Ω 0475) │ 09 (Ω 1698) │ 15 (Ω 2760) │
+│ 019 │     I Will Accept You │           Park Ji Yoon │       K-POP │ 04 (Ω 0495) │ 08 (Ω 1277) │ 13 (Ω 1850) │
+│ 020 │            Ultramania │              Seo Taiji │       K-POP │ 04 (Ω 0528) │ 08 (Ω 1041) │ 11 (Ω 1169) │
+│ 021 │           Bye Bye Bye │        'N Sync (Cover) │ WORLD MUSIC │ 04 (Ω 0537) │ 11 (Ω 1601) │ 13 (Ω 1743) │
+│ 022 │              Top City │                  BanYa │    ORIGINAL │ 04 (Ω 0538) │ 06 (Ω 0891) │ 12 (Ω 1631) │
+│ 023 │     Gentleman Quality │              C.B. Mass │       K-POP │ 04 (Ω 0546) │ 06 (Ω 0879) │ 13 (Ω 1788) │
+│ 024 │                I Know │             Taiji Boys │       K-POP │ 04 (Ω 0561) │ 08 (Ω 0983) │ 15 (Ω 2193) │
+│ 025 │            Swing Baby │         Park Jin Young │       K-POP │ 04 (Ω 0568) │ 06 (Ω 0767) │ 16 (Ω 2166) │
+│ 026 │          Let's Boogie │                Turtles │       K-POP │ 04 (Ω 0569) │ 06 (Ω 1159) │ 13 (Ω 1990) │
+│ 027 │   My Best Day is Gone │                    Can │       K-POP │ 04 (Ω 0612) │ 06 (Ω 1066) │ 14 (Ω 1808) │
+│ 028 │  Oops! I Did It Again │ Britney Spears (Cover) │ WORLD MUSIC │ 04 (Ω 0615) │ 12 (Ω 1501) │ 14 (Ω 1820) │
+│ 029 │            Take On Me │           A-Ha (Cover) │ WORLD MUSIC │ 04 (Ω 0626) │ 07 (Ω 1097) │ 16 (Ω 2832) │
+│ 030 │              Perfect! │                   Diva │       K-POP │ 04 (Ω 0651) │ 06 (Ω 0955) │ 13 (Ω 1622) │
+│ 031 │      Street Show Down │                  BanYa │    ORIGINAL │ 04 (Ω 0665) │ 07 (Ω 1241) │ 15 (Ω 2573) │
+│ 032 │  Till the end of time │                  BanYa │    ORIGINAL │ 04 (Ω 0668) │ 09 (Ω 1439) │ 17 (Ω 2539) │
+│ 033 │           Mambo No. 5 │       Lou Bega (Cover) │ WORLD MUSIC │ 04 (Ω 0685) │ 10 (Ω 1569) │ 15 (Ω 1980) │
+│ 034 │         Space Fantasy │                E-Paksa │       K-POP │ 04 (Ω 0729) │ 08 (Ω 1057) │ 13 (Ω 1592) │
+│ 035 │       Beethoven Virus │                  BanYa │    ORIGINAL │ 04 (Ω 0800) │ 08 (Ω 1359) │ 16 (Ω 2704) │
+│ 036 │            I Love You │                Jewelry │       K-POP │ 04 (Ω 0846) │ 06 (Ω 1352) │ 16 (Ω 2697) │
+│ 037 │      Mission Possible │                  BanYa │    ORIGINAL │ 05 (Ω 0530) │ 07 (Ω 0925) │ 13 (Ω 1582) │
+│ 038 │  Unforgettable Memory │             Taiji Boys │       K-POP │ 05 (Ω 0672) │ 09 (Ω 1273) │ 14 (Ω 2277) │
+│ 039 │            My Fantasy │             Taiji Boys │       K-POP │ 05 (Ω 0718) │ 10 (Ω 1357) │ 13 (Ω 1740) │
+│ 040 │               Go Away │                  To-Ya │       K-POP │ 05 (Ω 0734) │ 10 (Ω 1146) │ 14 (Ω 1684) │
+│ 041 │ A Prison Without Bars │         Park Jin Young │       K-POP │ 05 (Ω 0753) │ 08 (Ω 0619) │ 12 (Ω 1394) │
+│ 042 │             A Whistle │              C.B. Mass │       K-POP │ 05 (Ω 0837) │ 08 (Ω 1203) │ 13 (Ω 1410) │
+│ 043 │             The Waves │                     UN │       K-POP │ 05 (Ω 0888) │ 08 (Ω 1397) │ 14 (Ω 2266) │
+│ 044 │       Will-O-The-Wisp │                  BanYa │    ORIGINAL │ 05 (Ω 0890) │ 10 (Ω 2054) │ 13 (Ω 2532) │
+│ 045 │                Always │               Boy Club │       K-POP │ 05 (Ω 0897) │ 11 (Ω 1382) │ 12 (Ω 1570) │
+│ 046 │                My Way │                  BanYa │    ORIGINAL │ 05 (Ω 0914) │ 12 (Ω 1822) │ 15 (Ω 2451) │
+│ 047 │       Come Back to Me │                   Deux │       K-POP │ 05 (Ω 0972) │ 10 (Ω 1492) │ 12 (Ω 1747) │
+│ 048 │     Rolling Christmas │                  BanYa │    ORIGINAL │ 05 (Ω 1017) │ 08 (Ω 1405) │ 13 (Ω 1876) │
+│ 049 │          Miss's Story │                  BanYa │    ORIGINAL │ 05 (Ω 1063) │ 09 (Ω 1412) │ 15 (Ω 2470) │
+│ 050 │               Emperor │                  BanYa │    ORIGINAL │ 05 (Ω 1119) │ 11 (Ω 1643) │ 16 (Ω 2195) │
+│ 051 │           As I Told U │           Kim Sung Jae │       K-POP │ 06 (Ω 0931) │ 07 (Ω 1086) │ 12 (Ω 1719) │
+│ 052 │              Run Away │                  To-Ya │       K-POP │ 06 (Ω 0938) │ 08 (Ω 1128) │ 16 (Ω 2532) │
+│ 053 │            Temptation │                 Harisu │       K-POP │ 06 (Ω 0966) │ 08 (Ω 1340) │ 13 (Ω 2332) │
+│ 054 │         Dance With Me │                  BanYa │    ORIGINAL │ 06 (Ω 0986) │ 12 (Ω 1710) │ 14 (Ω 2022) │
+│ 055 │             Set Me Up │                  BanYa │    ORIGINAL │ 06 (Ω 1151) │ 09 (Ω 1298) │ 13 (Ω 2022) │
+│ 056 │              Oy Oy Oy │                  BanYa │    ORIGINAL │ 06 (Ω 1278) │ 08 (Ω 1462) │ 13 (Ω 2660) │
+└─────┴───────────────────────┴────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - HARD:
+┌─────┬───────────────────────┬────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                 title │                 artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────┼────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                     Y │             Kim Gun Mo │       K-POP │ 03 (Ω 0346) │ 05 (Ω 0502) │ 12 (Ω 1582) │
+│ 001 │        I Need to Know │   Marc Anthony (Cover) │ WORLD MUSIC │ 02 (Ω 0282) │ 05 (Ω 0562) │ 10 (Ω 1112) │
+│ 002 │      Gotta be Kidding │                  Hanul │       K-POP │ 02 (Ω 0469) │ 05 (Ω 0709) │ 12 (Ω 1843) │
+│ 003 │           Point Break │                  BanYa │    ORIGINAL │ 02 (Ω 0290) │ 06 (Ω 0707) │ 14 (Ω 1379) │
+│ 004 │  All I Want For X-Mas │                  BanYa │    ORIGINAL │ 03 (Ω 0477) │ 06 (Ω 0709) │ 11 (Ω 1314) │
+│ 005 │              Bonaccia │                  Nazca │       K-POP │ 03 (Ω 0358) │ 06 (Ω 0712) │ 12 (Ω 1042) │
+│ 006 │            Swing Baby │         Park Jin Young │       K-POP │ 04 (Ω 0568) │ 06 (Ω 0767) │ 16 (Ω 2166) │
+│ 007 │    Get Your Groove On │                  BanYa │    ORIGINAL │ 04 (Ω 0379) │ 06 (Ω 0820) │ 13 (Ω 1385) │
+│ 008 │     Gentleman Quality │              C.B. Mass │       K-POP │ 04 (Ω 0546) │ 06 (Ω 0879) │ 13 (Ω 1788) │
+│ 009 │              Top City │                  BanYa │    ORIGINAL │ 04 (Ω 0538) │ 06 (Ω 0891) │ 12 (Ω 1631) │
+│ 010 │                 Maria │                  BanYa │    ORIGINAL │ 03 (Ω 0389) │ 06 (Ω 0919) │ 11 (Ω 1473) │
+│ 011 │              Perfect! │                   Diva │       K-POP │ 04 (Ω 0651) │ 06 (Ω 0955) │ 13 (Ω 1622) │
+│ 012 │   My Best Day is Gone │                    Can │       K-POP │ 04 (Ω 0612) │ 06 (Ω 1066) │ 14 (Ω 1808) │
+│ 013 │          Let's Boogie │                Turtles │       K-POP │ 04 (Ω 0569) │ 06 (Ω 1159) │ 13 (Ω 1990) │
+│ 014 │                  Slam │              Novasonic │       K-POP │ 03 (Ω 0978) │ 06 (Ω 1337) │ 17 (Ω 2450) │
+│ 015 │            I Love You │                Jewelry │       K-POP │ 04 (Ω 0846) │ 06 (Ω 1352) │ 16 (Ω 2697) │
+│ 016 │                Hayuga │             Taiji Boys │       K-POP │ 03 (Ω 0562) │ 07 (Ω 0915) │ 14 (Ω 1915) │
+│ 017 │      Mission Possible │                  BanYa │    ORIGINAL │ 05 (Ω 0530) │ 07 (Ω 0925) │ 13 (Ω 1582) │
+│ 018 │       Certain Victory │             Taiji Boys │       K-POP │ 03 (Ω 0579) │ 07 (Ω 1009) │ 11 (Ω 1435) │
+│ 019 │           As I Told U │           Kim Sung Jae │       K-POP │ 06 (Ω 0931) │ 07 (Ω 1086) │ 12 (Ω 1719) │
+│ 020 │            Take On Me │           A-Ha (Cover) │ WORLD MUSIC │ 04 (Ω 0626) │ 07 (Ω 1097) │ 16 (Ω 2832) │
+│ 021 │        Let's Get Loud │ Jennifer Lopez (Cover) │ WORLD MUSIC │ 03 (Ω 0531) │ 07 (Ω 1156) │ 12 (Ω 1672) │
+│ 022 │                 Dr. M │                  BanYa │    ORIGINAL │ 03 (Ω 0596) │ 07 (Ω 1214) │ 12 (Ω 1999) │
+│ 023 │      Street Show Down │                  BanYa │    ORIGINAL │ 04 (Ω 0665) │ 07 (Ω 1241) │ 15 (Ω 2573) │
+│ 024 │ Love is a Danger Zone │                  BanYa │    ORIGINAL │ 03 (Ω 0685) │ 07 (Ω 1473) │ 19 (Ω 2643) │
+│ 025 │           Csikos Post │                  Banya │    ORIGINAL │ 03 (Ω 0952) │ 07 (Ω 1585) │ 13 (Ω 2544) │
+│ 026 │ A Prison Without Bars │         Park Jin Young │       K-POP │ 05 (Ω 0753) │ 08 (Ω 0619) │ 12 (Ω 1394) │
+│ 027 │                I Know │             Taiji Boys │       K-POP │ 04 (Ω 0561) │ 08 (Ω 0983) │ 15 (Ω 2193) │
+│ 028 │            Ultramania │              Seo Taiji │       K-POP │ 04 (Ω 0528) │ 08 (Ω 1041) │ 11 (Ω 1169) │
+│ 029 │         Space Fantasy │                E-Paksa │       K-POP │ 04 (Ω 0729) │ 08 (Ω 1057) │ 13 (Ω 1592) │
+│ 030 │              Run Away │                  To-Ya │       K-POP │ 06 (Ω 0938) │ 08 (Ω 1128) │ 16 (Ω 2532) │
+│ 031 │             A Whistle │              C.B. Mass │       K-POP │ 05 (Ω 0837) │ 08 (Ω 1203) │ 13 (Ω 1410) │
+│ 032 │     I Will Accept You │           Park Ji Yoon │       K-POP │ 04 (Ω 0495) │ 08 (Ω 1277) │ 13 (Ω 1850) │
+│ 033 │    We will meet again │                  BanYa │    ORIGINAL │ 03 (Ω 0663) │ 08 (Ω 1280) │ 14 (Ω 2006) │
+│ 034 │            Temptation │                 Harisu │       K-POP │ 06 (Ω 0966) │ 08 (Ω 1340) │ 13 (Ω 2332) │
+│ 035 │       Beethoven Virus │                  BanYa │    ORIGINAL │ 04 (Ω 0800) │ 08 (Ω 1359) │ 16 (Ω 2704) │
+│ 036 │             The Waves │                     UN │       K-POP │ 05 (Ω 0888) │ 08 (Ω 1397) │ 14 (Ω 2266) │
+│ 037 │     Rolling Christmas │                  BanYa │    ORIGINAL │ 05 (Ω 1017) │ 08 (Ω 1405) │ 13 (Ω 1876) │
+│ 038 │              Oy Oy Oy │                  BanYa │    ORIGINAL │ 06 (Ω 1278) │ 08 (Ω 1462) │ 13 (Ω 2660) │
+│ 039 │                Winter │                  BanYa │    ORIGINAL │ 03 (Ω 0407) │ 08 (Ω 1712) │ 15 (Ω 2618) │
+│ 040 │  Unforgettable Memory │             Taiji Boys │       K-POP │ 05 (Ω 0672) │ 09 (Ω 1273) │ 14 (Ω 2277) │
+│ 041 │             Set Me Up │                  BanYa │    ORIGINAL │ 06 (Ω 1151) │ 09 (Ω 1298) │ 13 (Ω 2022) │
+│ 042 │          Miss's Story │                  BanYa │    ORIGINAL │ 05 (Ω 1063) │ 09 (Ω 1412) │ 15 (Ω 2470) │
+│ 043 │  Till the end of time │                  BanYa │    ORIGINAL │ 04 (Ω 0668) │ 09 (Ω 1439) │ 17 (Ω 2539) │
+│ 044 │                Zzanga │             Kim Gun Mo │       K-POP │ 03 (Ω 0380) │ 09 (Ω 1518) │ 16 (Ω 2206) │
+│ 045 │                  Vook │                  Banya │    ORIGINAL │ 04 (Ω 0475) │ 09 (Ω 1698) │ 15 (Ω 2760) │
+│ 046 │               Go Away │                  To-Ya │       K-POP │ 05 (Ω 0734) │ 10 (Ω 1146) │ 14 (Ω 1684) │
+│ 047 │            My Fantasy │             Taiji Boys │       K-POP │ 05 (Ω 0718) │ 10 (Ω 1357) │ 13 (Ω 1740) │
+│ 048 │       Come Back to Me │                   Deux │       K-POP │ 05 (Ω 0972) │ 10 (Ω 1492) │ 12 (Ω 1747) │
+│ 049 │           Mambo No. 5 │       Lou Bega (Cover) │ WORLD MUSIC │ 04 (Ω 0685) │ 10 (Ω 1569) │ 15 (Ω 1980) │
+│ 050 │       Will-O-The-Wisp │                  BanYa │    ORIGINAL │ 05 (Ω 0890) │ 10 (Ω 2054) │ 13 (Ω 2532) │
+│ 051 │                Always │               Boy Club │       K-POP │ 05 (Ω 0897) │ 11 (Ω 1382) │ 12 (Ω 1570) │
+│ 052 │           Bye Bye Bye │        'N Sync (Cover) │ WORLD MUSIC │ 04 (Ω 0537) │ 11 (Ω 1601) │ 13 (Ω 1743) │
+│ 053 │               Emperor │                  BanYa │    ORIGINAL │ 05 (Ω 1119) │ 11 (Ω 1643) │ 16 (Ω 2195) │
+│ 054 │  Oops! I Did It Again │ Britney Spears (Cover) │ WORLD MUSIC │ 04 (Ω 0615) │ 12 (Ω 1501) │ 14 (Ω 1820) │
+│ 055 │         Dance With Me │                  BanYa │    ORIGINAL │ 06 (Ω 0986) │ 12 (Ω 1710) │ 14 (Ω 2022) │
+│ 056 │                My Way │                  BanYa │    ORIGINAL │ 05 (Ω 0914) │ 12 (Ω 1822) │ 15 (Ω 2451) │
+└─────┴───────────────────────┴────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - CRAZY:
+┌─────┬───────────────────────┬────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                 title │                 artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────┼────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │        I Need to Know │   Marc Anthony (Cover) │ WORLD MUSIC │ 02 (Ω 0282) │ 05 (Ω 0562) │ 10 (Ω 1112) │
+│ 001 │            Ultramania │              Seo Taiji │       K-POP │ 04 (Ω 0528) │ 08 (Ω 1041) │ 11 (Ω 1169) │
+│ 002 │  All I Want For X-Mas │                  BanYa │    ORIGINAL │ 03 (Ω 0477) │ 06 (Ω 0709) │ 11 (Ω 1314) │
+│ 003 │       Certain Victory │             Taiji Boys │       K-POP │ 03 (Ω 0579) │ 07 (Ω 1009) │ 11 (Ω 1435) │
+│ 004 │                 Maria │                  BanYa │    ORIGINAL │ 03 (Ω 0389) │ 06 (Ω 0919) │ 11 (Ω 1473) │
+│ 005 │              Bonaccia │                  Nazca │       K-POP │ 03 (Ω 0358) │ 06 (Ω 0712) │ 12 (Ω 1042) │
+│ 006 │ A Prison Without Bars │         Park Jin Young │       K-POP │ 05 (Ω 0753) │ 08 (Ω 0619) │ 12 (Ω 1394) │
+│ 007 │                Always │               Boy Club │       K-POP │ 05 (Ω 0897) │ 11 (Ω 1382) │ 12 (Ω 1570) │
+│ 008 │                     Y │             Kim Gun Mo │       K-POP │ 03 (Ω 0346) │ 05 (Ω 0502) │ 12 (Ω 1582) │
+│ 009 │              Top City │                  BanYa │    ORIGINAL │ 04 (Ω 0538) │ 06 (Ω 0891) │ 12 (Ω 1631) │
+│ 010 │        Let's Get Loud │ Jennifer Lopez (Cover) │ WORLD MUSIC │ 03 (Ω 0531) │ 07 (Ω 1156) │ 12 (Ω 1672) │
+│ 011 │           As I Told U │           Kim Sung Jae │       K-POP │ 06 (Ω 0931) │ 07 (Ω 1086) │ 12 (Ω 1719) │
+│ 012 │       Come Back to Me │                   Deux │       K-POP │ 05 (Ω 0972) │ 10 (Ω 1492) │ 12 (Ω 1747) │
+│ 013 │      Gotta be Kidding │                  Hanul │       K-POP │ 02 (Ω 0469) │ 05 (Ω 0709) │ 12 (Ω 1843) │
+│ 014 │                 Dr. M │                  BanYa │    ORIGINAL │ 03 (Ω 0596) │ 07 (Ω 1214) │ 12 (Ω 1999) │
+│ 015 │    Get Your Groove On │                  BanYa │    ORIGINAL │ 04 (Ω 0379) │ 06 (Ω 0820) │ 13 (Ω 1385) │
+│ 016 │             A Whistle │              C.B. Mass │       K-POP │ 05 (Ω 0837) │ 08 (Ω 1203) │ 13 (Ω 1410) │
+│ 017 │      Mission Possible │                  BanYa │    ORIGINAL │ 05 (Ω 0530) │ 07 (Ω 0925) │ 13 (Ω 1582) │
+│ 018 │         Space Fantasy │                E-Paksa │       K-POP │ 04 (Ω 0729) │ 08 (Ω 1057) │ 13 (Ω 1592) │
+│ 019 │              Perfect! │                   Diva │       K-POP │ 04 (Ω 0651) │ 06 (Ω 0955) │ 13 (Ω 1622) │
+│ 020 │            My Fantasy │             Taiji Boys │       K-POP │ 05 (Ω 0718) │ 10 (Ω 1357) │ 13 (Ω 1740) │
+│ 021 │           Bye Bye Bye │        'N Sync (Cover) │ WORLD MUSIC │ 04 (Ω 0537) │ 11 (Ω 1601) │ 13 (Ω 1743) │
+│ 022 │     Gentleman Quality │              C.B. Mass │       K-POP │ 04 (Ω 0546) │ 06 (Ω 0879) │ 13 (Ω 1788) │
+│ 023 │     I Will Accept You │           Park Ji Yoon │       K-POP │ 04 (Ω 0495) │ 08 (Ω 1277) │ 13 (Ω 1850) │
+│ 024 │     Rolling Christmas │                  BanYa │    ORIGINAL │ 05 (Ω 1017) │ 08 (Ω 1405) │ 13 (Ω 1876) │
+│ 025 │          Let's Boogie │                Turtles │       K-POP │ 04 (Ω 0569) │ 06 (Ω 1159) │ 13 (Ω 1990) │
+│ 026 │             Set Me Up │                  BanYa │    ORIGINAL │ 06 (Ω 1151) │ 09 (Ω 1298) │ 13 (Ω 2022) │
+│ 027 │            Temptation │                 Harisu │       K-POP │ 06 (Ω 0966) │ 08 (Ω 1340) │ 13 (Ω 2332) │
+│ 028 │       Will-O-The-Wisp │                  BanYa │    ORIGINAL │ 05 (Ω 0890) │ 10 (Ω 2054) │ 13 (Ω 2532) │
+│ 029 │           Csikos Post │                  Banya │    ORIGINAL │ 03 (Ω 0952) │ 07 (Ω 1585) │ 13 (Ω 2544) │
+│ 030 │              Oy Oy Oy │                  BanYa │    ORIGINAL │ 06 (Ω 1278) │ 08 (Ω 1462) │ 13 (Ω 2660) │
+│ 031 │           Point Break │                  BanYa │    ORIGINAL │ 02 (Ω 0290) │ 06 (Ω 0707) │ 14 (Ω 1379) │
+│ 032 │               Go Away │                  To-Ya │       K-POP │ 05 (Ω 0734) │ 10 (Ω 1146) │ 14 (Ω 1684) │
+│ 033 │   My Best Day is Gone │                    Can │       K-POP │ 04 (Ω 0612) │ 06 (Ω 1066) │ 14 (Ω 1808) │
+│ 034 │  Oops! I Did It Again │ Britney Spears (Cover) │ WORLD MUSIC │ 04 (Ω 0615) │ 12 (Ω 1501) │ 14 (Ω 1820) │
+│ 035 │                Hayuga │             Taiji Boys │       K-POP │ 03 (Ω 0562) │ 07 (Ω 0915) │ 14 (Ω 1915) │
+│ 036 │    We will meet again │                  BanYa │    ORIGINAL │ 03 (Ω 0663) │ 08 (Ω 1280) │ 14 (Ω 2006) │
+│ 037 │         Dance With Me │                  BanYa │    ORIGINAL │ 06 (Ω 0986) │ 12 (Ω 1710) │ 14 (Ω 2022) │
+│ 038 │             The Waves │                     UN │       K-POP │ 05 (Ω 0888) │ 08 (Ω 1397) │ 14 (Ω 2266) │
+│ 039 │  Unforgettable Memory │             Taiji Boys │       K-POP │ 05 (Ω 0672) │ 09 (Ω 1273) │ 14 (Ω 2277) │
+│ 040 │           Mambo No. 5 │       Lou Bega (Cover) │ WORLD MUSIC │ 04 (Ω 0685) │ 10 (Ω 1569) │ 15 (Ω 1980) │
+│ 041 │                I Know │             Taiji Boys │       K-POP │ 04 (Ω 0561) │ 08 (Ω 0983) │ 15 (Ω 2193) │
+│ 042 │                My Way │                  BanYa │    ORIGINAL │ 05 (Ω 0914) │ 12 (Ω 1822) │ 15 (Ω 2451) │
+│ 043 │          Miss's Story │                  BanYa │    ORIGINAL │ 05 (Ω 1063) │ 09 (Ω 1412) │ 15 (Ω 2470) │
+│ 044 │      Street Show Down │                  BanYa │    ORIGINAL │ 04 (Ω 0665) │ 07 (Ω 1241) │ 15 (Ω 2573) │
+│ 045 │                Winter │                  BanYa │    ORIGINAL │ 03 (Ω 0407) │ 08 (Ω 1712) │ 15 (Ω 2618) │
+│ 046 │                  Vook │                  Banya │    ORIGINAL │ 04 (Ω 0475) │ 09 (Ω 1698) │ 15 (Ω 2760) │
+│ 047 │            Swing Baby │         Park Jin Young │       K-POP │ 04 (Ω 0568) │ 06 (Ω 0767) │ 16 (Ω 2166) │
+│ 048 │               Emperor │                  BanYa │    ORIGINAL │ 05 (Ω 1119) │ 11 (Ω 1643) │ 16 (Ω 2195) │
+│ 049 │                Zzanga │             Kim Gun Mo │       K-POP │ 03 (Ω 0380) │ 09 (Ω 1518) │ 16 (Ω 2206) │
+│ 050 │              Run Away │                  To-Ya │       K-POP │ 06 (Ω 0938) │ 08 (Ω 1128) │ 16 (Ω 2532) │
+│ 051 │            I Love You │                Jewelry │       K-POP │ 04 (Ω 0846) │ 06 (Ω 1352) │ 16 (Ω 2697) │
+│ 052 │       Beethoven Virus │                  BanYa │    ORIGINAL │ 04 (Ω 0800) │ 08 (Ω 1359) │ 16 (Ω 2704) │
+│ 053 │            Take On Me │           A-Ha (Cover) │ WORLD MUSIC │ 04 (Ω 0626) │ 07 (Ω 1097) │ 16 (Ω 2832) │
+│ 054 │                  Slam │              Novasonic │       K-POP │ 03 (Ω 0978) │ 06 (Ω 1337) │ 17 (Ω 2450) │
+│ 055 │  Till the end of time │                  BanYa │    ORIGINAL │ 04 (Ω 0668) │ 09 (Ω 1439) │ 17 (Ω 2539) │
+│ 056 │ Love is a Danger Zone │                  BanYa │    ORIGINAL │ 03 (Ω 0685) │ 07 (Ω 1473) │ 19 (Ω 2643) │
+└─────┴───────────────────────┴────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 23
+K-POP: 28
+WORLD MUSIC: 6
+TOTAL: 57
+
+----------
+
+Custom levels:
+- I Know: 4 - 8 - 15
+- I Will Accept You: 4 - 8 - 13
+- Miss's Story: 5 - 9 - 15
+- Street Show Down: 4 - 7 - 15
+- Till The End of Time: 4 - 9 - 17
+
+Removed:
+- N

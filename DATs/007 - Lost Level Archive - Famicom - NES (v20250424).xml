@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250422</version>
+		<version>v20250424</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,6 +14,10 @@
 	<game name="Ai Senshi Nicol (Japan) (FDS Conversion)">
 		<description>Ai Senshi Nicol (Japan) (FDS Conversion)</description>
 		<rom name="Ai Senshi Nicol (Japan) (FDS Conversion).nes" size="262160" crc="d2a09f84" md5="b00e878010f4e919a38090f8c05cc5b4" sha1="9c3364fa94a50b939d4167c024c23ede9e0c1a31" />
+	</game>
+	<game name="All Hell Unleashed (World) (Aftermarket) (Unl)">
+		<description>All Hell Unleashed (World) (Aftermarket) (Unl)</description>
+		<rom name="All Hell Unleashed (World) (Aftermarket) (Unl).nes" size="524304" crc="2f78164f" md5="0a42874e644792f57b63d698b9f75819" sha1="50feaa775d1f2c871a00ed4870989dab7a202bf0" />
 	</game>
 	<game name="Angry Birds (China) (Aftermarket) (Bootleg) (Nice Code)">
 		<description>Angry Birds (China) (Aftermarket) (Bootleg) (Nice Code)</description>

@@ -1,0 +1,74 @@
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┤
+│ 000 │                     XTREE │                     YAHPP │    ORIGINAL │
+│ 001 │           Sorceress Elise │                     YAHPP │    ORIGINAL │
+│ 002 │          Betrayer -act.2- │                    msgoon │    ORIGINAL │
+│ 003 │                 Good Life │             Drunken Tiger │       K-POP │
+│ 004 │                  Big Beat │                       NOW │       K-POP │
+│ 005 │                  Exciting │               Dynamic Duo │       K-POP │
+│ 006 │                 By chance │                Baby V.O.X │       K-POP │
+│ 007 │              U Got 2 Know │                       MAX │    ORIGINAL │
+│ 008 │                To the sky │                      LEXY │       K-POP │
+│ 009 │  The Angel Who Lost Wings │                    Roo Ra │       K-POP │
+│ 010 │                  Innocent │                    koyote │       K-POP │
+│ 011 │             Enjoy! Enjoy! │                Mu.Ga.Dang │       K-POP │
+│ 012 │               Destination │                       SHK │    ORIGINAL │
+│ 013 │                Twist King │                     TURBO │       K-POP │
+│ 014 │                      Fire │                      2NE1 │       K-POP │
+│ 015 │                     Wanna │                      Kara │       K-POP │
+│ 016 │                    Vacuum │                      Doin │    ORIGINAL │
+│ 017 │ NARCISISTA POR EXCELENCIA │                     PXNDX │ WORLD MUSIC │
+│ 018 │        No Rhyme No Reason │            LTJ X-Perience │ WORLD MUSIC │
+│ 019 │                  80's pop │            Energy Present │ WORLD MUSIC │
+│ 020 │        Do It Reggae Style │          Banya Production │    ORIGINAL │
+│ 021 │                   Xenesis │          Banya Production │    ORIGINAL │
+│ 022 │                   Arirang │          Banya Production │    ORIGINAL │
+│ 023 │     Tek -Club Copenhagen- │          Banya Production │    ORIGINAL │
+│ 024 │             Hello William │          Banya Production │    ORIGINAL │
+│ 025 │ Turkey March -Minimal Tun │          Banya Production │    ORIGINAL │
+│ 026 │           Get Up (and go) │          Banya Production │    ORIGINAL │
+│ 027 │      Phantom -Intermezzo- │          Banya Production │    ORIGINAL │
+│ 028 │ Mission Possible -Blow Ba │          Banya Production │    ORIGINAL │
+│ 029 │           Pumping Jumping │          Banya Production │    ORIGINAL │
+│ 030 │                    Tepris │                      Doin │    ORIGINAL │
+│ 031 │                    Napalm │                      Doin │    ORIGINAL │
+│ 032 │                 Dieciseis │               Nina Pilots │ WORLD MUSIC │
+│ 033 │                   Cleaner │                      Doin │    ORIGINAL │
+│ 034 │              Interference │                      Doin │    ORIGINAL │
+│ 035 │                   Reality │                       SHK │    ORIGINAL │
+│ 036 │                  Take Out │                       SHK │    ORIGINAL │
+│ 037 │                 Butterfly │ MAX / Rorychesell (SID-SO │    ORIGINAL │
+│ 038 │                  Overblow │                       MAX │    ORIGINAL │
+│ 039 │             We Got 2 Know │                       MAX │    ORIGINAL │
+│ 040 │                     Magic │                    Secret │       K-POP │
+│ 041 │                 Hot Issue │                   4Minute │       K-POP │
+│ 042 │                Magic Girl │            Orange Caramel │       K-POP │
+│ 043 │            Ring Ding Dong │                    SHINee │       K-POP │
+│ 044 │                     Shock │                     BEAST │       K-POP │
+│ 045 │             Last Farewell │                   BigBang │       K-POP │
+│ 046 │                  Superman │                    Norazo │       K-POP │
+│ 047 │                    Energy │              Mighty Mouth │       K-POP │
+│ 048 │                    Mother │                      1TYM │       K-POP │
+│ 049 │                      No.3 │                Bae Chi Gi │       K-POP │
+│ 050 │                Like A Man │                  Outsider │       K-POP │
+│ 051 │                  Crashday │                     Crash │       K-POP │
+│ 052 │             What Happened │                 Throwdown │ WORLD MUSIC │
+│ 053 │                  Gargoyle │                  Sanxion7 │ WORLD MUSIC │
+│ 054 │         Allegro Con Fuoco │                 DM Ashura │ WORLD MUSIC │
+│ 055 │         Hungarian Dance V │          Banya Production │    ORIGINAL │
+│ 056 │                 The Devil │          Banya Production │    ORIGINAL │
+│ 057 │                    X-Rave │                 DM Ashura │ WORLD MUSIC │
+│ 058 │                    Native │                       SHK │    ORIGINAL │
+│ 059 │   Smells Like A Chocolate │                     Vospi │ WORLD MUSIC │
+│ 060 │                Necromancy │                    Zircon │ WORLD MUSIC │
+│ 061 │                Night Duty │                      A.V. │    ORIGINAL │
+│ 062 │                    Pavane │                      V.A. │    ORIGINAL │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 30
+K-POP: 23
+WORLD MUSIC: 10
+TOTAL: 63

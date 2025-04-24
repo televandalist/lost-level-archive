@@ -1,0 +1,70 @@
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┤
+│ 000 │          Wedding Crashers │                       SHK │    ORIGINAL │
+│ 001 │                 Switronic │                       SHK │    ORIGINAL │
+│ 002 │              Obliteration │                      ATAS │    ORIGINAL │
+│ 003 │   Transacaglia in G-minor │                      ATAS │    ORIGINAL │
+│ 004 │                      1949 │                      SLAM │    ORIGINAL │
+│ 005 │                     JANUS │                       MAX │    ORIGINAL │
+│ 006 │                  I Want U │                       MAX │    ORIGINAL │
+│ 007 │                District 1 │                       MAX │    ORIGINAL │
+│ 008 │                Sugar Plum │                   Mr. Weq │    ORIGINAL │
+│ 009 │    Telling Fortune Flower │      Koharu feat. Renyata │    ORIGINAL │
+│ 010 │              Nyarlathotep │                      nato │    ORIGINAL │
+│ 011 │      HEART RABBIT COASTER │                      nato │    ORIGINAL │
+│ 012 │             Lepton Strike │                      Nato │    ORIGINAL │
+│ 013 │                   Skeptic │                      Doin │    ORIGINAL │
+│ 014 │                Iolite Sky │                      Doin │    ORIGINAL │
+│ 015 │            %X (Percent X) │                      Pory │    ORIGINAL │
+│ 016 │           La Cinquantaine │                      Pory │    ORIGINAL │
+│ 017 │            Le Grand Rouge │                      KIEN │    ORIGINAL │
+│ 018 │                CARMEN BUS │ StaticSphere / FUGU SUISA │    ORIGINAL │
+│ 019 │               Macaron Day │                      HyuN │    ORIGINAL │
+│ 020 │              Ice of Death │                Fiverwater │    ORIGINAL │
+│ 021 │                  Poseidon │                     Quree │    ORIGINAL │
+│ 022 │        Adrenaline Blaster │                  QWertism │    ORIGINAL │
+│ 023 │                    VANISH │                 Applesoda │    ORIGINAL │
+│ 024 │          Tales of Pumpnia │                 Applesoda │    ORIGINAL │
+│ 025 │            Kimchi Fingers │              Garlic Squad │    ORIGINAL │
+│ 026 │          Orbit Stabilizer │                 DM Ashura │    ORIGINAL │
+│ 027 │              DESTRUCIMATE │                   KURORAK │    ORIGINAL │
+│ 028 │         Clematis Rapsodia │                Jehezukiel │    ORIGINAL │
+│ 029 │             Wicked Legend │                     D_AAN │    ORIGINAL │
+│ 030 │                 Tantanmen │                     Memme │    ORIGINAL │
+│ 031 │ Stardream (feat. Romelon) │                    Cashew │    ORIGINAL │
+│ 032 │         Slapstick Parfait │                t+pazolite │ WORLD MUSIC │
+│ 033 │              Paved Garden │                   Ginkiha │ WORLD MUSIC │
+│ 034 │              Pop Sequence │                  Hommarju │ WORLD MUSIC │
+│ 035 │            Crossing Delta │ t+pazolite+Ginkiha+Hommar │ WORLD MUSIC │
+│ 036 │                   Jogging │                      LUCY │       K-POP │
+│ 037 │ The Little Prince (Prod.  │              HAON, PULLIK │       K-POP │
+│ 038 │                 Full Moon │              Dreamcatcher │       K-POP │
+│ 039 │                    Timing │                  HIGHTEEN │       K-POP │
+│ 040 │                  Fly high │              Dreamcatcher │       K-POP │
+│ 041 │                 Black Cat │                     Turbo │       K-POP │
+│ 042 │              HANN (Alone) │                  (G)I-DLE │       K-POP │
+│ 043 │                  Snapping │                  CHUNG HA │       K-POP │
+│ 044 │         NEKKOYA (PICK ME) │                 PRODUCE48 │       K-POP │
+│ 045 │               I'm so sick │                     APink │       K-POP │
+│ 046 │                 BOOMERANG │                 Wanna One │       K-POP │
+│ 047 │                   Gashina │                     SUNMI │       K-POP │
+│ 048 │                     Adios │                  EVERGLOW │       K-POP │
+│ 049 │                       HIT │                 SEVENTEEN │       K-POP │
+│ 050 │               BBoom BBoom │                  MOMOLAND │       K-POP │
+│ 051 │                   Rooftop │                  N.Flying │       K-POP │
+│ 052 │     BUNGEE (Fall in Love) │                OH MY GIRL │       K-POP │
+│ 053 │              Starry Night │                   MAMAMOO │       K-POP │
+│ 054 │             LOVE SCENARIO │                      iKON │       K-POP │
+│ 055 │   Time for the moon night │                   GFRIEND │       K-POP │
+│ 056 │         Brown Sky (Remix) │                      Doin │    ORIGINAL │
+│ 057 │       Desaparecer (Remix) │         Applessoda vs MAX │    ORIGINAL │
+│ 058 │      ERRORCODE: 0 (Remix) │             DOIN // SUNNY │    ORIGINAL │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 35
+K-POP: 20
+WORLD MUSIC: 4
+TOTAL: 59

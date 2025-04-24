@@ -1,0 +1,215 @@
+SONG LIST - NORMAL:
+┌─────┬───────────────────────────┬────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                 artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │         Get My Phone Call │                   Mina │       K-POP │ 01 (Ω 0240) │ 05 (Ω 0614) │ 13 (Ω 2059) │
+│ 001 │                  Slightly │                  45RPM │       K-POP │ 01 (Ω 0257) │ 04 (Ω 0611) │ 14 (Ω 1888) │
+│ 002 │      Chopsticks Challenge │                  YAHPP │    ORIGINAL │ 01 (Ω 0265) │ 06 (Ω 1009) │ 17 (Ω 2519) │
+│ 003 │                    TellMe │           Wonder Girls │    ORIGINAL │ 01 (Ω 0296) │ 05 (Ω 0766) │ 12 (Ω 1919) │
+│ 004 │            Panuelito Rojo │              Big metra │ WORLD MUSIC │ 01 (Ω 0391) │ 05 (Ω 1111) │ 10 (Ω 2077) │
+│ 005 │                Compuction │                    May │       K-POP │ 02 (Ω 0275) │ 06 (Ω 0873) │ 16 (Ω 2200) │
+│ 006 │             Feel The Soul │              Seo Taiji │       K-POP │ 02 (Ω 0319) │ 07 (Ω 1393) │ 13 (Ω 1758) │
+│ 007 │               Beat # No.4 │               HeaDTriP │       K-POP │ 02 (Ω 0324) │ 06 (Ω 0873) │ 15 (Ω 2525) │
+│ 008 │                Jam O Beat │       Banya Production │    ORIGINAL │ 02 (Ω 0327) │ 07 (Ω 1122) │ 14 (Ω 2412) │
+│ 009 │             Breakin' Love │              Steve Yoo │ WORLD MUSIC │ 02 (Ω 0340) │ 06 (Ω 1155) │ 12 (Ω 1514) │
+│ 010 │          Very Old Couples │                   015B │       K-POP │ 02 (Ω 0342) │ 06 (Ω 0802) │ 13 (Ω 2036) │
+│ 011 │          Nice to Meet You │             Bae Chi Gi │       K-POP │ 02 (Ω 0348) │ 05 (Ω 0972) │ 14 (Ω 2179) │
+│ 012 │                    Do It! │            House Rules │       K-POP │ 02 (Ω 0357) │ 06 (Ω 0772) │ 15 (Ω 2353) │
+│ 013 │               A Maelstrom │                    Pia │       K-POP │ 02 (Ω 0365) │ 05 (Ω 0809) │ 16 (Ω 2024) │
+│ 014 │             Blaze Emotion │                  YAHPP │    ORIGINAL │ 02 (Ω 0419) │ 07 (Ω 1390) │ 17 (Ω 2959) │
+│ 015 │            You Fall in Me │               No Brain │       K-POP │ 02 (Ω 0433) │ 06 (Ω 1544) │ 17 (Ω 2668) │
+│ 016 │             Pump Breakers │     Thaide feat. Lil V │ WORLD MUSIC │ 02 (Ω 0446) │ 05 (Ω 0928) │ 17 (Ω 2827) │
+│ 017 │                No Despair │             Hot Potato │       K-POP │ 02 (Ω 0519) │ 06 (Ω 1439) │ 19 (Ω 3197) │
+│ 018 │ Procedimientos Para Llega │                  PXNDX │ WORLD MUSIC │ 03 (Ω 0305) │ 07 (Ω 0905) │ 15 (Ω 2624) │
+│ 019 │            I am Your Girl │                 S.E.S. │       K-POP │ 03 (Ω 0393) │ 05 (Ω 0806) │ 12 (Ω 1712) │
+│ 020 │         Higgledy Piggledy │       Banya Production │    ORIGINAL │ 03 (Ω 0424) │ 06 (Ω 1327) │ 14 (Ω 2359) │
+│ 021 │             Bad Character │             Jang Na Ra │ WORLD MUSIC │ 03 (Ω 0430) │ 06 (Ω 0853) │ 10 (Ω 1602) │
+│ 022 │                    V.I.P. │                   Bada │       K-POP │ 03 (Ω 0438) │ 05 (Ω 0711) │ 11 (Ω 1603) │
+│ 023 │                  Only You │          Namola Family │       K-POP │ 03 (Ω 0439) │ 06 (Ω 0895) │ 12 (Ω 1667) │
+│ 024 │            Beat The Ghost │       Banya Production │    ORIGINAL │ 03 (Ω 0465) │ 09 (Ω 1244) │ 18 (Ω 2322) │
+│ 025 │          Pumptris Quattro │                  YAHPP │    ORIGINAL │ 03 (Ω 0474) │ 07 (Ω 1731) │ 19 (Ω 3221) │
+│ 026 │                 Shiny Day │                 Joanne │       K-POP │ 03 (Ω 0503) │ 05 (Ω 0609) │ 13 (Ω 1862) │
+│ 027 │                Guitar Man │       Banya Production │    ORIGINAL │ 03 (Ω 0508) │ 09 (Ω 1218) │ 13 (Ω 1951) │
+│ 028 │               Astral Song │             Crying Nut │       K-POP │ 03 (Ω 0529) │ 07 (Ω 1315) │ 15 (Ω 2351) │
+│ 029 │        Digan Lo Que Digan │            Nina Pilots │ WORLD MUSIC │ 03 (Ω 0541) │ 06 (Ω 1070) │ 16 (Ω 2881) │
+│ 030 │          It's My Business │           Taiji / Boys │       K-POP │ 03 (Ω 0543) │ 11 (Ω 2485) │ 20 (Ω 3316) │
+│ 031 │                  La La La │               Big Bang │       K-POP │ 03 (Ω 0581) │ 05 (Ω 0822) │ 10 (Ω 1665) │
+│ 032 │                Cannon X.1 │                  YAHPP │    ORIGINAL │ 03 (Ω 0602) │ 10 (Ω 2123) │ 20 (Ω 3103) │
+│ 033 │                     Adios │             Ji Won Eun │       K-POP │ 03 (Ω 0635) │ 06 (Ω 0781) │ 14 (Ω 1923) │
+│ 034 │            Come Back Home │           Taiji / Boys │       K-POP │ 04 (Ω 0472) │ 09 (Ω 1113) │ 16 (Ω 1611) │
+│ 035 │                         U │         Super Junior M │ WORLD MUSIC │ 04 (Ω 0534) │ 06 (Ω 0619) │ 14 (Ω 2381) │
+│ 036 │              Solitary 1.5 │                  YAHPP │    ORIGINAL │ 04 (Ω 0549) │ 07 (Ω 1140) │ 16 (Ω 2667) │
+│ 037 │                  Faster Z │                  YAHPP │    ORIGINAL │ 04 (Ω 0573) │ 06 (Ω 1501) │ 12 (Ω 1820) │
+│ 038 │                   Toccata │       Banya Production │    ORIGINAL │ 04 (Ω 0585) │ 10 (Ω 1205) │ 17 (Ω 2333) │
+│ 039 │                   Forward │             DJ Missill │ WORLD MUSIC │ 04 (Ω 0603) │ 05 (Ω 0807) │ 13 (Ω 2014) │
+│ 040 │                 My Dreams │       Banya Production │    ORIGINAL │ 04 (Ω 0604) │ 10 (Ω 1495) │ 18 (Ω 2658) │
+│ 041 │                  Come On! │         Lee Jeong Hyun │ WORLD MUSIC │ 04 (Ω 0664) │ 05 (Ω 0575) │ 12 (Ω 2041) │
+│ 042 │           In Your Fantasy │       Seo Taiji / Boys │       K-POP │ 04 (Ω 0672) │ 06 (Ω 1139) │ 14 (Ω 2306) │
+│ 043 │                     Money │       Banya Production │    ORIGINAL │ 04 (Ω 0680) │ 10 (Ω 1275) │ 14 (Ω 2037) │
+│ 044 │          Caprice of Otada │       Banya Production │    ORIGINAL │ 04 (Ω 0712) │ 08 (Ω 1462) │ 17 (Ω 3028) │
+│ 045 │             Change Myself │ Wang Li Hong(Original) │ WORLD MUSIC │ 04 (Ω 0817) │ 05 (Ω 0630) │ 10 (Ω 1316) │
+│ 046 │    Dawn of the Apocalypse │               Vassline │       K-POP │ 04 (Ω 1006) │ 14 (Ω 2618) │ 21 (Ω 3940) │
+│ 047 │                 A.U Ready │                Gil Gun │       K-POP │ 05 (Ω 0686) │ 10 (Ω 1217) │ 19 (Ω 1936) │
+│ 048 │    The People didn't know │       Banya Production │    ORIGINAL │ 05 (Ω 0690) │ 12 (Ω 2093) │ 15 (Ω 2536) │
+│ 049 │                  Chopstix │        Sonic Dimension │ WORLD MUSIC │ 05 (Ω 0772) │ 09 (Ω 1615) │ 13 (Ω 2418) │
+│ 050 │ K.O.A : Alice In Wonderwo │       Banya Production │    ORIGINAL │ 05 (Ω 0794) │ 08 (Ω 1600) │ 17 (Ω 2793) │
+│ 051 │           Dance All Night │            OscillatorX │ WORLD MUSIC │ 05 (Ω 0807) │ 07 (Ω 1000) │ 13 (Ω 2062) │
+│ 052 │          Dance Vibrations │                  Elpis │ WORLD MUSIC │ 05 (Ω 0814) │ 09 (Ω 1482) │ 10 (Ω 1846) │
+│ 053 │           Groovin' Motion │        Sonic Dimension │ WORLD MUSIC │ 05 (Ω 0923) │ 06 (Ω 0864) │ 09 (Ω 1341) │
+│ 054 │                 Chocolate │            Banana Girl │       K-POP │ 05 (Ω 0926) │ 09 (Ω 1394) │ 13 (Ω 2154) │
+│ 055 │    Final Audition Ep. 2-X │                  YAHPP │    ORIGINAL │ 05 (Ω 0971) │ 08 (Ω 1414) │ 17 (Ω 2944) │
+│ 056 │                     Crazy │                 Gyfted │ WORLD MUSIC │ 05 (Ω 1320) │ 08 (Ω 1148) │ 15 (Ω 2307) │
+│ 057 │          Monkey Fingers 2 │       Banya Production │    ORIGINAL │ 06 (Ω 0697) │ 10 (Ω 1663) │ 17 (Ω 2774) │
+│ 058 │                  DJ Otada │       Banya Production │    ORIGINAL │ 06 (Ω 1555) │ 08 (Ω 2123) │ 19 (Ω 3673) │
+│ 059 │                 Energizer │                Zig Zag │ WORLD MUSIC │ 07 (Ω 1328) │ 09 (Ω 1579) │ 16 (Ω 2798) │
+└─────┴───────────────────────────┴────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - HARD:
+┌─────┬───────────────────────────┬────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                 artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                  Slightly │                  45RPM │       K-POP │ 01 (Ω 0257) │ 04 (Ω 0611) │ 14 (Ω 1888) │
+│ 001 │                  Come On! │         Lee Jeong Hyun │ WORLD MUSIC │ 04 (Ω 0664) │ 05 (Ω 0575) │ 12 (Ω 2041) │
+│ 002 │                 Shiny Day │                 Joanne │       K-POP │ 03 (Ω 0503) │ 05 (Ω 0609) │ 13 (Ω 1862) │
+│ 003 │         Get My Phone Call │                   Mina │       K-POP │ 01 (Ω 0240) │ 05 (Ω 0614) │ 13 (Ω 2059) │
+│ 004 │             Change Myself │ Wang Li Hong(Original) │ WORLD MUSIC │ 04 (Ω 0817) │ 05 (Ω 0630) │ 10 (Ω 1316) │
+│ 005 │                    V.I.P. │                   Bada │       K-POP │ 03 (Ω 0438) │ 05 (Ω 0711) │ 11 (Ω 1603) │
+│ 006 │                    TellMe │           Wonder Girls │    ORIGINAL │ 01 (Ω 0296) │ 05 (Ω 0766) │ 12 (Ω 1919) │
+│ 007 │            I am Your Girl │                 S.E.S. │       K-POP │ 03 (Ω 0393) │ 05 (Ω 0806) │ 12 (Ω 1712) │
+│ 008 │                   Forward │             DJ Missill │ WORLD MUSIC │ 04 (Ω 0603) │ 05 (Ω 0807) │ 13 (Ω 2014) │
+│ 009 │               A Maelstrom │                    Pia │       K-POP │ 02 (Ω 0365) │ 05 (Ω 0809) │ 16 (Ω 2024) │
+│ 010 │                  La La La │               Big Bang │       K-POP │ 03 (Ω 0581) │ 05 (Ω 0822) │ 10 (Ω 1665) │
+│ 011 │             Pump Breakers │     Thaide feat. Lil V │ WORLD MUSIC │ 02 (Ω 0446) │ 05 (Ω 0928) │ 17 (Ω 2827) │
+│ 012 │          Nice to Meet You │             Bae Chi Gi │       K-POP │ 02 (Ω 0348) │ 05 (Ω 0972) │ 14 (Ω 2179) │
+│ 013 │            Panuelito Rojo │              Big metra │ WORLD MUSIC │ 01 (Ω 0391) │ 05 (Ω 1111) │ 10 (Ω 2077) │
+│ 014 │                         U │         Super Junior M │ WORLD MUSIC │ 04 (Ω 0534) │ 06 (Ω 0619) │ 14 (Ω 2381) │
+│ 015 │                    Do It! │            House Rules │       K-POP │ 02 (Ω 0357) │ 06 (Ω 0772) │ 15 (Ω 2353) │
+│ 016 │                     Adios │             Ji Won Eun │       K-POP │ 03 (Ω 0635) │ 06 (Ω 0781) │ 14 (Ω 1923) │
+│ 017 │          Very Old Couples │                   015B │       K-POP │ 02 (Ω 0342) │ 06 (Ω 0802) │ 13 (Ω 2036) │
+│ 018 │             Bad Character │             Jang Na Ra │ WORLD MUSIC │ 03 (Ω 0430) │ 06 (Ω 0853) │ 10 (Ω 1602) │
+│ 019 │           Groovin' Motion │        Sonic Dimension │ WORLD MUSIC │ 05 (Ω 0923) │ 06 (Ω 0864) │ 09 (Ω 1341) │
+│ 020 │                Compuction │                    May │       K-POP │ 02 (Ω 0275) │ 06 (Ω 0873) │ 16 (Ω 2200) │
+│ 021 │               Beat # No.4 │               HeaDTriP │       K-POP │ 02 (Ω 0324) │ 06 (Ω 0873) │ 15 (Ω 2525) │
+│ 022 │                  Only You │          Namola Family │       K-POP │ 03 (Ω 0439) │ 06 (Ω 0895) │ 12 (Ω 1667) │
+│ 023 │      Chopsticks Challenge │                  YAHPP │    ORIGINAL │ 01 (Ω 0265) │ 06 (Ω 1009) │ 17 (Ω 2519) │
+│ 024 │        Digan Lo Que Digan │            Nina Pilots │ WORLD MUSIC │ 03 (Ω 0541) │ 06 (Ω 1070) │ 16 (Ω 2881) │
+│ 025 │           In Your Fantasy │       Seo Taiji / Boys │       K-POP │ 04 (Ω 0672) │ 06 (Ω 1139) │ 14 (Ω 2306) │
+│ 026 │             Breakin' Love │              Steve Yoo │ WORLD MUSIC │ 02 (Ω 0340) │ 06 (Ω 1155) │ 12 (Ω 1514) │
+│ 027 │         Higgledy Piggledy │       Banya Production │    ORIGINAL │ 03 (Ω 0424) │ 06 (Ω 1327) │ 14 (Ω 2359) │
+│ 028 │                No Despair │             Hot Potato │       K-POP │ 02 (Ω 0519) │ 06 (Ω 1439) │ 19 (Ω 3197) │
+│ 029 │                  Faster Z │                  YAHPP │    ORIGINAL │ 04 (Ω 0573) │ 06 (Ω 1501) │ 12 (Ω 1820) │
+│ 030 │            You Fall in Me │               No Brain │       K-POP │ 02 (Ω 0433) │ 06 (Ω 1544) │ 17 (Ω 2668) │
+│ 031 │ Procedimientos Para Llega │                  PXNDX │ WORLD MUSIC │ 03 (Ω 0305) │ 07 (Ω 0905) │ 15 (Ω 2624) │
+│ 032 │           Dance All Night │            OscillatorX │ WORLD MUSIC │ 05 (Ω 0807) │ 07 (Ω 1000) │ 13 (Ω 2062) │
+│ 033 │                Jam O Beat │       Banya Production │    ORIGINAL │ 02 (Ω 0327) │ 07 (Ω 1122) │ 14 (Ω 2412) │
+│ 034 │              Solitary 1.5 │                  YAHPP │    ORIGINAL │ 04 (Ω 0549) │ 07 (Ω 1140) │ 16 (Ω 2667) │
+│ 035 │               Astral Song │             Crying Nut │       K-POP │ 03 (Ω 0529) │ 07 (Ω 1315) │ 15 (Ω 2351) │
+│ 036 │             Blaze Emotion │                  YAHPP │    ORIGINAL │ 02 (Ω 0419) │ 07 (Ω 1390) │ 17 (Ω 2959) │
+│ 037 │             Feel The Soul │              Seo Taiji │       K-POP │ 02 (Ω 0319) │ 07 (Ω 1393) │ 13 (Ω 1758) │
+│ 038 │          Pumptris Quattro │                  YAHPP │    ORIGINAL │ 03 (Ω 0474) │ 07 (Ω 1731) │ 19 (Ω 3221) │
+│ 039 │                     Crazy │                 Gyfted │ WORLD MUSIC │ 05 (Ω 1320) │ 08 (Ω 1148) │ 15 (Ω 2307) │
+│ 040 │    Final Audition Ep. 2-X │                  YAHPP │    ORIGINAL │ 05 (Ω 0971) │ 08 (Ω 1414) │ 17 (Ω 2944) │
+│ 041 │          Caprice of Otada │       Banya Production │    ORIGINAL │ 04 (Ω 0712) │ 08 (Ω 1462) │ 17 (Ω 3028) │
+│ 042 │ K.O.A : Alice In Wonderwo │       Banya Production │    ORIGINAL │ 05 (Ω 0794) │ 08 (Ω 1600) │ 17 (Ω 2793) │
+│ 043 │                  DJ Otada │       Banya Production │    ORIGINAL │ 06 (Ω 1555) │ 08 (Ω 2123) │ 19 (Ω 3673) │
+│ 044 │            Come Back Home │           Taiji / Boys │       K-POP │ 04 (Ω 0472) │ 09 (Ω 1113) │ 16 (Ω 1611) │
+│ 045 │                Guitar Man │       Banya Production │    ORIGINAL │ 03 (Ω 0508) │ 09 (Ω 1218) │ 13 (Ω 1951) │
+│ 046 │            Beat The Ghost │       Banya Production │    ORIGINAL │ 03 (Ω 0465) │ 09 (Ω 1244) │ 18 (Ω 2322) │
+│ 047 │                 Chocolate │            Banana Girl │       K-POP │ 05 (Ω 0926) │ 09 (Ω 1394) │ 13 (Ω 2154) │
+│ 048 │          Dance Vibrations │                  Elpis │ WORLD MUSIC │ 05 (Ω 0814) │ 09 (Ω 1482) │ 10 (Ω 1846) │
+│ 049 │                 Energizer │                Zig Zag │ WORLD MUSIC │ 07 (Ω 1328) │ 09 (Ω 1579) │ 16 (Ω 2798) │
+│ 050 │                  Chopstix │        Sonic Dimension │ WORLD MUSIC │ 05 (Ω 0772) │ 09 (Ω 1615) │ 13 (Ω 2418) │
+│ 051 │                   Toccata │       Banya Production │    ORIGINAL │ 04 (Ω 0585) │ 10 (Ω 1205) │ 17 (Ω 2333) │
+│ 052 │                 A.U Ready │                Gil Gun │       K-POP │ 05 (Ω 0686) │ 10 (Ω 1217) │ 19 (Ω 1936) │
+│ 053 │                     Money │       Banya Production │    ORIGINAL │ 04 (Ω 0680) │ 10 (Ω 1275) │ 14 (Ω 2037) │
+│ 054 │                 My Dreams │       Banya Production │    ORIGINAL │ 04 (Ω 0604) │ 10 (Ω 1495) │ 18 (Ω 2658) │
+│ 055 │          Monkey Fingers 2 │       Banya Production │    ORIGINAL │ 06 (Ω 0697) │ 10 (Ω 1663) │ 17 (Ω 2774) │
+│ 056 │                Cannon X.1 │                  YAHPP │    ORIGINAL │ 03 (Ω 0602) │ 10 (Ω 2123) │ 20 (Ω 3103) │
+│ 057 │          It's My Business │           Taiji / Boys │       K-POP │ 03 (Ω 0543) │ 11 (Ω 2485) │ 20 (Ω 3316) │
+│ 058 │    The People didn't know │       Banya Production │    ORIGINAL │ 05 (Ω 0690) │ 12 (Ω 2093) │ 15 (Ω 2536) │
+│ 059 │    Dawn of the Apocalypse │               Vassline │       K-POP │ 04 (Ω 1006) │ 14 (Ω 2618) │ 21 (Ω 3940) │
+└─────┴───────────────────────────┴────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - CRAZY:
+┌─────┬───────────────────────────┬────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                 artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │           Groovin' Motion │        Sonic Dimension │ WORLD MUSIC │ 05 (Ω 0923) │ 06 (Ω 0864) │ 09 (Ω 1341) │
+│ 001 │             Change Myself │ Wang Li Hong(Original) │ WORLD MUSIC │ 04 (Ω 0817) │ 05 (Ω 0630) │ 10 (Ω 1316) │
+│ 002 │             Bad Character │             Jang Na Ra │ WORLD MUSIC │ 03 (Ω 0430) │ 06 (Ω 0853) │ 10 (Ω 1602) │
+│ 003 │                  La La La │               Big Bang │       K-POP │ 03 (Ω 0581) │ 05 (Ω 0822) │ 10 (Ω 1665) │
+│ 004 │          Dance Vibrations │                  Elpis │ WORLD MUSIC │ 05 (Ω 0814) │ 09 (Ω 1482) │ 10 (Ω 1846) │
+│ 005 │            Panuelito Rojo │              Big metra │ WORLD MUSIC │ 01 (Ω 0391) │ 05 (Ω 1111) │ 10 (Ω 2077) │
+│ 006 │                    V.I.P. │                   Bada │       K-POP │ 03 (Ω 0438) │ 05 (Ω 0711) │ 11 (Ω 1603) │
+│ 007 │             Breakin' Love │              Steve Yoo │ WORLD MUSIC │ 02 (Ω 0340) │ 06 (Ω 1155) │ 12 (Ω 1514) │
+│ 008 │                  Only You │          Namola Family │       K-POP │ 03 (Ω 0439) │ 06 (Ω 0895) │ 12 (Ω 1667) │
+│ 009 │            I am Your Girl │                 S.E.S. │       K-POP │ 03 (Ω 0393) │ 05 (Ω 0806) │ 12 (Ω 1712) │
+│ 010 │                  Faster Z │                  YAHPP │    ORIGINAL │ 04 (Ω 0573) │ 06 (Ω 1501) │ 12 (Ω 1820) │
+│ 011 │                    TellMe │           Wonder Girls │    ORIGINAL │ 01 (Ω 0296) │ 05 (Ω 0766) │ 12 (Ω 1919) │
+│ 012 │                  Come On! │         Lee Jeong Hyun │ WORLD MUSIC │ 04 (Ω 0664) │ 05 (Ω 0575) │ 12 (Ω 2041) │
+│ 013 │             Feel The Soul │              Seo Taiji │       K-POP │ 02 (Ω 0319) │ 07 (Ω 1393) │ 13 (Ω 1758) │
+│ 014 │                 Shiny Day │                 Joanne │       K-POP │ 03 (Ω 0503) │ 05 (Ω 0609) │ 13 (Ω 1862) │
+│ 015 │                Guitar Man │       Banya Production │    ORIGINAL │ 03 (Ω 0508) │ 09 (Ω 1218) │ 13 (Ω 1951) │
+│ 016 │                   Forward │             DJ Missill │ WORLD MUSIC │ 04 (Ω 0603) │ 05 (Ω 0807) │ 13 (Ω 2014) │
+│ 017 │          Very Old Couples │                   015B │       K-POP │ 02 (Ω 0342) │ 06 (Ω 0802) │ 13 (Ω 2036) │
+│ 018 │         Get My Phone Call │                   Mina │       K-POP │ 01 (Ω 0240) │ 05 (Ω 0614) │ 13 (Ω 2059) │
+│ 019 │           Dance All Night │            OscillatorX │ WORLD MUSIC │ 05 (Ω 0807) │ 07 (Ω 1000) │ 13 (Ω 2062) │
+│ 020 │                 Chocolate │            Banana Girl │       K-POP │ 05 (Ω 0926) │ 09 (Ω 1394) │ 13 (Ω 2154) │
+│ 021 │                  Chopstix │        Sonic Dimension │ WORLD MUSIC │ 05 (Ω 0772) │ 09 (Ω 1615) │ 13 (Ω 2418) │
+│ 022 │                  Slightly │                  45RPM │       K-POP │ 01 (Ω 0257) │ 04 (Ω 0611) │ 14 (Ω 1888) │
+│ 023 │                     Adios │             Ji Won Eun │       K-POP │ 03 (Ω 0635) │ 06 (Ω 0781) │ 14 (Ω 1923) │
+│ 024 │                     Money │       Banya Production │    ORIGINAL │ 04 (Ω 0680) │ 10 (Ω 1275) │ 14 (Ω 2037) │
+│ 025 │          Nice to Meet You │             Bae Chi Gi │       K-POP │ 02 (Ω 0348) │ 05 (Ω 0972) │ 14 (Ω 2179) │
+│ 026 │           In Your Fantasy │       Seo Taiji / Boys │       K-POP │ 04 (Ω 0672) │ 06 (Ω 1139) │ 14 (Ω 2306) │
+│ 027 │         Higgledy Piggledy │       Banya Production │    ORIGINAL │ 03 (Ω 0424) │ 06 (Ω 1327) │ 14 (Ω 2359) │
+│ 028 │                         U │         Super Junior M │ WORLD MUSIC │ 04 (Ω 0534) │ 06 (Ω 0619) │ 14 (Ω 2381) │
+│ 029 │                Jam O Beat │       Banya Production │    ORIGINAL │ 02 (Ω 0327) │ 07 (Ω 1122) │ 14 (Ω 2412) │
+│ 030 │                     Crazy │                 Gyfted │ WORLD MUSIC │ 05 (Ω 1320) │ 08 (Ω 1148) │ 15 (Ω 2307) │
+│ 031 │               Astral Song │             Crying Nut │       K-POP │ 03 (Ω 0529) │ 07 (Ω 1315) │ 15 (Ω 2351) │
+│ 032 │                    Do It! │            House Rules │       K-POP │ 02 (Ω 0357) │ 06 (Ω 0772) │ 15 (Ω 2353) │
+│ 033 │               Beat # No.4 │               HeaDTriP │       K-POP │ 02 (Ω 0324) │ 06 (Ω 0873) │ 15 (Ω 2525) │
+│ 034 │    The People didn't know │       Banya Production │    ORIGINAL │ 05 (Ω 0690) │ 12 (Ω 2093) │ 15 (Ω 2536) │
+│ 035 │ Procedimientos Para Llega │                  PXNDX │ WORLD MUSIC │ 03 (Ω 0305) │ 07 (Ω 0905) │ 15 (Ω 2624) │
+│ 036 │            Come Back Home │           Taiji / Boys │       K-POP │ 04 (Ω 0472) │ 09 (Ω 1113) │ 16 (Ω 1611) │
+│ 037 │               A Maelstrom │                    Pia │       K-POP │ 02 (Ω 0365) │ 05 (Ω 0809) │ 16 (Ω 2024) │
+│ 038 │                Compuction │                    May │       K-POP │ 02 (Ω 0275) │ 06 (Ω 0873) │ 16 (Ω 2200) │
+│ 039 │              Solitary 1.5 │                  YAHPP │    ORIGINAL │ 04 (Ω 0549) │ 07 (Ω 1140) │ 16 (Ω 2667) │
+│ 040 │                 Energizer │                Zig Zag │ WORLD MUSIC │ 07 (Ω 1328) │ 09 (Ω 1579) │ 16 (Ω 2798) │
+│ 041 │        Digan Lo Que Digan │            Nina Pilots │ WORLD MUSIC │ 03 (Ω 0541) │ 06 (Ω 1070) │ 16 (Ω 2881) │
+│ 042 │                   Toccata │       Banya Production │    ORIGINAL │ 04 (Ω 0585) │ 10 (Ω 1205) │ 17 (Ω 2333) │
+│ 043 │      Chopsticks Challenge │                  YAHPP │    ORIGINAL │ 01 (Ω 0265) │ 06 (Ω 1009) │ 17 (Ω 2519) │
+│ 044 │            You Fall in Me │               No Brain │       K-POP │ 02 (Ω 0433) │ 06 (Ω 1544) │ 17 (Ω 2668) │
+│ 045 │          Monkey Fingers 2 │       Banya Production │    ORIGINAL │ 06 (Ω 0697) │ 10 (Ω 1663) │ 17 (Ω 2774) │
+│ 046 │ K.O.A : Alice In Wonderwo │       Banya Production │    ORIGINAL │ 05 (Ω 0794) │ 08 (Ω 1600) │ 17 (Ω 2793) │
+│ 047 │             Pump Breakers │     Thaide feat. Lil V │ WORLD MUSIC │ 02 (Ω 0446) │ 05 (Ω 0928) │ 17 (Ω 2827) │
+│ 048 │    Final Audition Ep. 2-X │                  YAHPP │    ORIGINAL │ 05 (Ω 0971) │ 08 (Ω 1414) │ 17 (Ω 2944) │
+│ 049 │             Blaze Emotion │                  YAHPP │    ORIGINAL │ 02 (Ω 0419) │ 07 (Ω 1390) │ 17 (Ω 2959) │
+│ 050 │          Caprice of Otada │       Banya Production │    ORIGINAL │ 04 (Ω 0712) │ 08 (Ω 1462) │ 17 (Ω 3028) │
+│ 051 │            Beat The Ghost │       Banya Production │    ORIGINAL │ 03 (Ω 0465) │ 09 (Ω 1244) │ 18 (Ω 2322) │
+│ 052 │                 My Dreams │       Banya Production │    ORIGINAL │ 04 (Ω 0604) │ 10 (Ω 1495) │ 18 (Ω 2658) │
+│ 053 │                 A.U Ready │                Gil Gun │       K-POP │ 05 (Ω 0686) │ 10 (Ω 1217) │ 19 (Ω 1936) │
+│ 054 │                No Despair │             Hot Potato │       K-POP │ 02 (Ω 0519) │ 06 (Ω 1439) │ 19 (Ω 3197) │
+│ 055 │          Pumptris Quattro │                  YAHPP │    ORIGINAL │ 03 (Ω 0474) │ 07 (Ω 1731) │ 19 (Ω 3221) │
+│ 056 │                  DJ Otada │       Banya Production │    ORIGINAL │ 06 (Ω 1555) │ 08 (Ω 2123) │ 19 (Ω 3673) │
+│ 057 │                Cannon X.1 │                  YAHPP │    ORIGINAL │ 03 (Ω 0602) │ 10 (Ω 2123) │ 20 (Ω 3103) │
+│ 058 │          It's My Business │           Taiji / Boys │       K-POP │ 03 (Ω 0543) │ 11 (Ω 2485) │ 20 (Ω 3316) │
+│ 059 │    Dawn of the Apocalypse │               Vassline │       K-POP │ 04 (Ω 1006) │ 14 (Ω 2618) │ 21 (Ω 3940) │
+└─────┴───────────────────────────┴────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 20
+K-POP: 24
+WORLD MUSIC: 16
+TOTAL: 60
+
+----------
+
+Custom levels:
+- Dance Vibrations: 5 - 9 - 10
+- Energizer: 7 - 9 - 16
+- Feel The Soul: 2 - 7 - 13
+
+Removed:
+- Fist of Fury
+- Uprock

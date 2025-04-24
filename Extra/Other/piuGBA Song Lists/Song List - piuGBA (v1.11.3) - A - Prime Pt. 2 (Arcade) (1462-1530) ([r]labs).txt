@@ -1,0 +1,68 @@
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┤
+│ 000 │                  Ragnarok │                 Synthwulf │    ORIGINAL │
+│ 001 │                 Achluoias │                     D_AAN │    ORIGINAL │
+│ 002 │               Karyawisata │        Vesuvia X Redshift │    ORIGINAL │
+│ 003 │               Video out C │                     Vospi │    ORIGINAL │
+│ 004 │                     Limbo │              Daddy Yankee │ WORLD MUSIC │
+│ 005 │                   Melodia │           Lylloo ft. Egas │    ORIGINAL │
+│ 006 │          Que viva la vida │     Wisin ft. Michel Telo │ WORLD MUSIC │
+│ 007 │          Across The Ocean │                    Zircon │    ORIGINAL │
+│ 008 │          Enhanced Reality │                   MatDuke │    ORIGINAL │
+│ 009 │        Stardust Overdrive │                  typeMARS │    ORIGINAL │
+│ 010 │              Reminiscence │                       MAX │    ORIGINAL │
+│ 011 │                Moment Day │                       Max │    ORIGINAL │
+│ 012 │    Amai Yuuwaku Dangerous │ Bokusute Sotokanda Icchom │    ORIGINAL │
+│ 013 │        Yoropiku Pikuyoro! │ Bakusute Sotokanda Icchom │    ORIGINAL │
+│ 014 │                Imprinting │                   Sakuzyo │    ORIGINAL │
+│ 015 │            Sudden Romance │                      void │    ORIGINAL │
+│ 016 │              Mitotsudaira │                     ETIA. │    ORIGINAL │
+│ 017 │               Smile Diary │                       You │    ORIGINAL │
+│ 018 │ Bad Apple!! (feat. Nomico │       Masayoshi Minoshima │    ORIGINAL │
+│ 019 │               Bad Apple!! │       Masayoshi Minoshima │    ORIGINAL │
+│ 020 │ Creed 1st Desire feat. Yu │          TatshMusicCircle │    ORIGINAL │
+│ 021 │           Sora no Shirabe │          TatshMusicCircle │    ORIGINAL │
+│ 022 │ Four Seasons of Lonelines │          TatshMusicCircle │    ORIGINAL │
+│ 023 │              Setsuna Trip │                 Last Note │    ORIGINAL │
+│ 024 │          Trashy Innocence │                Last Note. │    ORIGINAL │
+│ 025 │              Renai Yuusha │                Last Note. │    ORIGINAL │
+│ 026 │       After School Stride │                Last Note. │    ORIGINAL │
+│ 027 │                     PRIME │                     Tatsh │    ORIGINAL │
+│ 028 │             Bad End Night │      HHitoshizukuP X yama │    ORIGINAL │
+│ 029 │          Queen of the Red │                      ETIA │    ORIGINAL │
+│ 030 │         Idealized Romance │                      void │    ORIGINAL │
+│ 031 │ Just Hold On(To All Finge │                      Void │    ORIGINAL │
+│ 032 │            Unlock (cover) │              Daichi Miura │    ORIGINAL │
+│ 033 │            Heavy Rotation │                     AKB48 │    ORIGINAL │
+│ 034 │             Break it Down │                      MAZO │    ORIGINAL │
+│ 035 │                 Hypercube │                       MAX │    ORIGINAL │
+│ 036 │                   Like Me │                       SHK │    ORIGINAL │
+│ 037 │              Last Rebirth │                       SHK │    ORIGINAL │
+│ 038 │           Super Capriccio │                       SHK │    ORIGINAL │
+│ 039 │                  Hellfire │                     Memme │    ORIGINAL │
+│ 040 │                   Tritium │                     Memme │    ORIGINAL │
+│ 041 │     CROSS OVER feat. LyuU │                      HyuN │    ORIGINAL │
+│ 042 │     God Mode feat. skizzo │                      Nato │    ORIGINAL │
+│ 043 │            Shub Niggurath │                      Nato │    ORIGINAL │
+│ 044 │                   Further │                      Doin │    ORIGINAL │
+│ 045 │ The Quick Brown Fox Jumps │                      Doin │    ORIGINAL │
+│ 046 │ Silver Beat feat. ChisaUe │                     Tatsh │    ORIGINAL │
+│ 047 │       Bring Back The Beat │             LunaticSounds │    ORIGINAL │
+│ 048 │                 Break Out │            Lunatic Sounds │    ORIGINAL │
+│ 049 │                 Sarabande │                       MAX │    ORIGINAL │
+│ 050 │              Kasou Shinja │                       MAX │    ORIGINAL │
+│ 051 │                 Overblow2 │                       Max │    ORIGINAL │
+│ 052 │             Passing Rider │                   mzet:-P │    ORIGINAL │
+│ 053 │              Arcana Force │                   mzet:-P │    ORIGINAL │
+│ 054 │           Allegro Furioso │                 DM Ashura │    ORIGINAL │
+│ 055 │        Anguished Unmaking │                      void │    ORIGINAL │
+│ 056 │ Utsushiyo No Kaze feat. K │                      void │    ORIGINAL │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 55
+K-POP: 0
+WORLD MUSIC: 2
+TOTAL: 57

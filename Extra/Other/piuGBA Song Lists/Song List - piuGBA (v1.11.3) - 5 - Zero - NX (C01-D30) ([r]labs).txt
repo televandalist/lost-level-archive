@@ -1,0 +1,198 @@
+SONG LIST - NORMAL:
+┌─────┬───────────────────────────┬──────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                   artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼──────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                   Go Back │              Dynamic Duo │       K-POP │ 01 (Ω 0266) │ 04 (Ω 0529) │ 09 (Ω 1511) │
+│ 001 │                   For You │                   N.Ex.T │       K-POP │ 01 (Ω 0283) │ 05 (Ω 1094) │ 14 (Ω 2166) │
+│ 002 │                        So │                  Typhoon │       K-POP │ 01 (Ω 0349) │ 06 (Ω 1165) │ 12 (Ω 1820) │
+│ 003 │                     Storm │                    Perry │       K-POP │ 02 (Ω 0251) │ 05 (Ω 0752) │ 12 (Ω 1677) │
+│ 004 │                     Haley │                 Sam-I-Am │ WORLD MUSIC │ 02 (Ω 0364) │ 04 (Ω 0840) │ 09 (Ω 1675) │
+│ 005 │                      Hybs │                DJ Dookie │ WORLD MUSIC │ 02 (Ω 0395) │ 04 (Ω 0790) │ 11 (Ω 1635) │
+│ 006 │               Throw'em Up │               Andrew Kim │ WORLD MUSIC │ 02 (Ω 0415) │ 05 (Ω 1021) │ 14 (Ω 2070) │
+│ 007 │ My Brother is Street Sing │ Park Hyang Lim vs. Yahpp │       K-POP │ 02 (Ω 0455) │ 05 (Ω 0932) │ 11 (Ω 1823) │
+│ 008 │                 One Night │                   DJ DOC │       K-POP │ 02 (Ω 0473) │ 05 (Ω 1115) │ 13 (Ω 2192) │
+│ 009 │                 Emergency │            Drunken Tiger │       K-POP │ 02 (Ω 0505) │ 05 (Ω 0971) │ 12 (Ω 2258) │
+│ 010 │             Hold The Line │           Cho PD / B.E.G │       K-POP │ 02 (Ω 0564) │ 04 (Ω 1084) │ 12 (Ω 1867) │
+│ 011 │            2006 LOVE SONG │         Banya Production │    ORIGINAL │ 03 (Ω 0333) │ 10 (Ω 0986) │ 12 (Ω 1662) │
+│ 012 │                 My Friend │                   Cho PD │       K-POP │ 03 (Ω 0380) │ 06 (Ω 0802) │ 12 (Ω 1741) │
+│ 013 │    Final Audition Ep. 2-1 │                    YAHPP │    ORIGINAL │ 03 (Ω 0382) │ 07 (Ω 1514) │ 20 (Ω 3138) │
+│ 014 │                 Bust Back │                      DVS │ WORLD MUSIC │ 03 (Ω 0410) │ 06 (Ω 0872) │ 12 (Ω 1681) │
+│ 015 │    U Inside My Dim Memory │ Hyun Jin Young vs. YAHPP │       K-POP │ 03 (Ω 0422) │ 06 (Ω 1150) │ 14 (Ω 2257) │
+│ 016 │       Terminal Depository │           Ururbu Project │       K-POP │ 03 (Ω 0453) │ 06 (Ω 1133) │ 13 (Ω 1751) │
+│ 017 │        We Goin' Fly Remix │                   Gyfted │ WORLD MUSIC │ 03 (Ω 0465) │ 05 (Ω 0937) │ 15 (Ω 2374) │
+│ 018 │           I Love You Baby │                  Pandera │ WORLD MUSIC │ 03 (Ω 0479) │ 05 (Ω 0834) │ 11 (Ω 1899) │
+│ 019 │                      Jump │                    BanYa │    ORIGINAL │ 03 (Ω 0502) │ 09 (Ω 1753) │ 13 (Ω 1844) │
+│ 020 │                       FLY │                Epik High │       K-POP │ 03 (Ω 0509) │ 06 (Ω 0924) │ 14 (Ω 2314) │
+│ 021 │         Wuthering Heights │                   Eugene │       K-POP │ 03 (Ω 0558) │ 06 (Ω 0754) │ 14 (Ω 1986) │
+│ 022 │                Snow Dream │                Apple Jam │       K-POP │ 03 (Ω 0670) │ 05 (Ω 1123) │ 13 (Ω 2234) │
+│ 023 │                  All Famy │               Eun Ji Won │       K-POP │ 03 (Ω 0682) │ 08 (Ω 1146) │ 13 (Ω 2108) │
+│ 024 │ Hyun Jin Young Go Jin You │           Hyun Jin Young │       K-POP │ 03 (Ω 0775) │ 06 (Ω 1373) │ 19 (Ω 2774) │
+│ 025 │                     Free! │                     Jiny │       K-POP │ 04 (Ω 0402) │ 07 (Ω 1407) │ 15 (Ω 2213) │
+│ 026 │                 Moonlight │                    BanYa │    ORIGINAL │ 04 (Ω 0444) │ 10 (Ω 1881) │ 19 (Ω 3394) │
+│ 027 │ DO U Know That - Old Scho │         Banya Production │    ORIGINAL │ 04 (Ω 0497) │ 06 (Ω 0739) │ 14 (Ω 2136) │
+│ 028 │          Arch of Darkness │                    Yahpp │    ORIGINAL │ 04 (Ω 0521) │ 08 (Ω 1312) │ 16 (Ω 2817) │
+│ 029 │             PaPa Gonzales │                    BanYa │    ORIGINAL │ 04 (Ω 0536) │ 06 (Ω 1091) │ 14 (Ω 2960) │
+│ 030 │                    Lovely │            Kim Jong Kook │       K-POP │ 04 (Ω 0560) │ 05 (Ω 0668) │ 12 (Ω 1874) │
+│ 031 │            Do It Yourself │                 LazyBone │       K-POP │ 04 (Ω 0570) │ 06 (Ω 1243) │ 13 (Ω 2169) │
+│ 032 │            What's Goin On │                  Turtles │       K-POP │ 04 (Ω 0711) │ 07 (Ω 1509) │ 12 (Ω 2151) │
+│ 033 │                    Oh My! │           Jang Yoon Jung │       K-POP │ 04 (Ω 0770) │ 10 (Ω 1889) │ 17 (Ω 2461) │
+│ 034 │        Chung Hwa Ban Jeom │                    Louis │       K-POP │ 04 (Ω 0777) │ 06 (Ω 1195) │ 14 (Ω 2562) │
+│ 035 │ Love is a Danger Zone pt. │                    BanYa │    ORIGINAL │ 04 (Ω 0791) │ 07 (Ω 1257) │ 15 (Ω 2500) │
+│ 036 │          Mr. Fire Fighter │            Spooky Banana │       K-POP │ 04 (Ω 0876) │ 07 (Ω 1844) │ 13 (Ω 2680) │
+│ 037 │                   Chimera │                    YAHPP │    ORIGINAL │ 04 (Ω 0939) │ 07 (Ω 1805) │ 16 (Ω 2681) │
+│ 038 │           Witch Doctor #1 │                    YAHPP │    ORIGINAL │ 05 (Ω 0624) │ 09 (Ω 1111) │ 16 (Ω 2474) │
+│ 039 │                  Ugly Dee │         Banya Production │    ORIGINAL │ 05 (Ω 0646) │ 09 (Ω 1309) │ 13 (Ω 1225) │
+│ 040 │                  Gun Rock │         Banya Production │    ORIGINAL │ 05 (Ω 0652) │ 11 (Ω 1432) │ 17 (Ω 2528) │
+│ 041 │          Enter the Dragon │                      JTL │       K-POP │ 05 (Ω 0653) │ 08 (Ω 1058) │ 14 (Ω 2240) │
+│ 042 │         Beat of The War 2 │                    BanYa │    ORIGINAL │ 05 (Ω 0804) │ 10 (Ω 1961) │ 16 (Ω 2818) │
+│ 043 │                Footprints │                      T.O │       K-POP │ 05 (Ω 0804) │ 07 (Ω 1104) │ 12 (Ω 1970) │
+│ 044 │       Bullfighting's Song │         Banya Production │    ORIGINAL │ 05 (Ω 0877) │ 08 (Ω 1657) │ 16 (Ω 2806) │
+│ 045 │                     Up Up │              Cachy Huang │ WORLD MUSIC │ 05 (Ω 1107) │ 10 (Ω 1662) │ 15 (Ω 3540) │
+│ 046 │              Witch Doctor │                    BanYa │    ORIGINAL │ 06 (Ω 0878) │ 10 (Ω 1844) │ 16 (Ω 3063) │
+│ 047 │                   Phantom │                    BanYa │    ORIGINAL │ 07 (Ω 1239) │ 12 (Ω 2087) │ 18 (Ω 3234) │
+│ 048 │                 Fire Game │                    Yahpp │    ORIGINAL │ 08 (Ω 1356) │ 12 (Ω 1636) │ 15 (Ω 2150) │
+│ 049 │    Final Audition Ep. 2-2 │                    YAHPP │    ORIGINAL │ 07 (Ω 1412) │ 16 (Ω 2412) │ 22 (Ω 3809) │
+└─────┴───────────────────────────┴──────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - HARD:
+┌─────┬───────────────────────────┬──────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                   artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼──────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                   Go Back │              Dynamic Duo │       K-POP │ 01 (Ω 0266) │ 04 (Ω 0529) │ 09 (Ω 1511) │
+│ 001 │                      Hybs │                DJ Dookie │ WORLD MUSIC │ 02 (Ω 0395) │ 04 (Ω 0790) │ 11 (Ω 1635) │
+│ 002 │                     Haley │                 Sam-I-Am │ WORLD MUSIC │ 02 (Ω 0364) │ 04 (Ω 0840) │ 09 (Ω 1675) │
+│ 003 │             Hold The Line │           Cho PD / B.E.G │       K-POP │ 02 (Ω 0564) │ 04 (Ω 1084) │ 12 (Ω 1867) │
+│ 004 │                    Lovely │            Kim Jong Kook │       K-POP │ 04 (Ω 0560) │ 05 (Ω 0668) │ 12 (Ω 1874) │
+│ 005 │                     Storm │                    Perry │       K-POP │ 02 (Ω 0251) │ 05 (Ω 0752) │ 12 (Ω 1677) │
+│ 006 │           I Love You Baby │                  Pandera │ WORLD MUSIC │ 03 (Ω 0479) │ 05 (Ω 0834) │ 11 (Ω 1899) │
+│ 007 │ My Brother is Street Sing │ Park Hyang Lim vs. Yahpp │       K-POP │ 02 (Ω 0455) │ 05 (Ω 0932) │ 11 (Ω 1823) │
+│ 008 │        We Goin' Fly Remix │                   Gyfted │ WORLD MUSIC │ 03 (Ω 0465) │ 05 (Ω 0937) │ 15 (Ω 2374) │
+│ 009 │                 Emergency │            Drunken Tiger │       K-POP │ 02 (Ω 0505) │ 05 (Ω 0971) │ 12 (Ω 2258) │
+│ 010 │               Throw'em Up │               Andrew Kim │ WORLD MUSIC │ 02 (Ω 0415) │ 05 (Ω 1021) │ 14 (Ω 2070) │
+│ 011 │                   For You │                   N.Ex.T │       K-POP │ 01 (Ω 0283) │ 05 (Ω 1094) │ 14 (Ω 2166) │
+│ 012 │                 One Night │                   DJ DOC │       K-POP │ 02 (Ω 0473) │ 05 (Ω 1115) │ 13 (Ω 2192) │
+│ 013 │                Snow Dream │                Apple Jam │       K-POP │ 03 (Ω 0670) │ 05 (Ω 1123) │ 13 (Ω 2234) │
+│ 014 │ DO U Know That - Old Scho │         Banya Production │    ORIGINAL │ 04 (Ω 0497) │ 06 (Ω 0739) │ 14 (Ω 2136) │
+│ 015 │         Wuthering Heights │                   Eugene │       K-POP │ 03 (Ω 0558) │ 06 (Ω 0754) │ 14 (Ω 1986) │
+│ 016 │                 My Friend │                   Cho PD │       K-POP │ 03 (Ω 0380) │ 06 (Ω 0802) │ 12 (Ω 1741) │
+│ 017 │                 Bust Back │                      DVS │ WORLD MUSIC │ 03 (Ω 0410) │ 06 (Ω 0872) │ 12 (Ω 1681) │
+│ 018 │                       FLY │                Epik High │       K-POP │ 03 (Ω 0509) │ 06 (Ω 0924) │ 14 (Ω 2314) │
+│ 019 │             PaPa Gonzales │                    BanYa │    ORIGINAL │ 04 (Ω 0536) │ 06 (Ω 1091) │ 14 (Ω 2960) │
+│ 020 │       Terminal Depository │           Ururbu Project │       K-POP │ 03 (Ω 0453) │ 06 (Ω 1133) │ 13 (Ω 1751) │
+│ 021 │    U Inside My Dim Memory │ Hyun Jin Young vs. YAHPP │       K-POP │ 03 (Ω 0422) │ 06 (Ω 1150) │ 14 (Ω 2257) │
+│ 022 │                        So │                  Typhoon │       K-POP │ 01 (Ω 0349) │ 06 (Ω 1165) │ 12 (Ω 1820) │
+│ 023 │        Chung Hwa Ban Jeom │                    Louis │       K-POP │ 04 (Ω 0777) │ 06 (Ω 1195) │ 14 (Ω 2562) │
+│ 024 │            Do It Yourself │                 LazyBone │       K-POP │ 04 (Ω 0570) │ 06 (Ω 1243) │ 13 (Ω 2169) │
+│ 025 │ Hyun Jin Young Go Jin You │           Hyun Jin Young │       K-POP │ 03 (Ω 0775) │ 06 (Ω 1373) │ 19 (Ω 2774) │
+│ 026 │                Footprints │                      T.O │       K-POP │ 05 (Ω 0804) │ 07 (Ω 1104) │ 12 (Ω 1970) │
+│ 027 │ Love is a Danger Zone pt. │                    BanYa │    ORIGINAL │ 04 (Ω 0791) │ 07 (Ω 1257) │ 15 (Ω 2500) │
+│ 028 │                     Free! │                     Jiny │       K-POP │ 04 (Ω 0402) │ 07 (Ω 1407) │ 15 (Ω 2213) │
+│ 029 │            What's Goin On │                  Turtles │       K-POP │ 04 (Ω 0711) │ 07 (Ω 1509) │ 12 (Ω 2151) │
+│ 030 │    Final Audition Ep. 2-1 │                    YAHPP │    ORIGINAL │ 03 (Ω 0382) │ 07 (Ω 1514) │ 20 (Ω 3138) │
+│ 031 │                   Chimera │                    YAHPP │    ORIGINAL │ 04 (Ω 0939) │ 07 (Ω 1805) │ 16 (Ω 2681) │
+│ 032 │          Mr. Fire Fighter │            Spooky Banana │       K-POP │ 04 (Ω 0876) │ 07 (Ω 1844) │ 13 (Ω 2680) │
+│ 033 │          Enter the Dragon │                      JTL │       K-POP │ 05 (Ω 0653) │ 08 (Ω 1058) │ 14 (Ω 2240) │
+│ 034 │                  All Famy │               Eun Ji Won │       K-POP │ 03 (Ω 0682) │ 08 (Ω 1146) │ 13 (Ω 2108) │
+│ 035 │          Arch of Darkness │                    Yahpp │    ORIGINAL │ 04 (Ω 0521) │ 08 (Ω 1312) │ 16 (Ω 2817) │
+│ 036 │       Bullfighting's Song │         Banya Production │    ORIGINAL │ 05 (Ω 0877) │ 08 (Ω 1657) │ 16 (Ω 2806) │
+│ 037 │           Witch Doctor #1 │                    YAHPP │    ORIGINAL │ 05 (Ω 0624) │ 09 (Ω 1111) │ 16 (Ω 2474) │
+│ 038 │                  Ugly Dee │         Banya Production │    ORIGINAL │ 05 (Ω 0646) │ 09 (Ω 1309) │ 13 (Ω 1225) │
+│ 039 │                      Jump │                    BanYa │    ORIGINAL │ 03 (Ω 0502) │ 09 (Ω 1753) │ 13 (Ω 1844) │
+│ 040 │            2006 LOVE SONG │         Banya Production │    ORIGINAL │ 03 (Ω 0333) │ 10 (Ω 0986) │ 12 (Ω 1662) │
+│ 041 │                     Up Up │              Cachy Huang │ WORLD MUSIC │ 05 (Ω 1107) │ 10 (Ω 1662) │ 15 (Ω 3540) │
+│ 042 │              Witch Doctor │                    BanYa │    ORIGINAL │ 06 (Ω 0878) │ 10 (Ω 1844) │ 16 (Ω 3063) │
+│ 043 │                 Moonlight │                    BanYa │    ORIGINAL │ 04 (Ω 0444) │ 10 (Ω 1881) │ 19 (Ω 3394) │
+│ 044 │                    Oh My! │           Jang Yoon Jung │       K-POP │ 04 (Ω 0770) │ 10 (Ω 1889) │ 17 (Ω 2461) │
+│ 045 │         Beat of The War 2 │                    BanYa │    ORIGINAL │ 05 (Ω 0804) │ 10 (Ω 1961) │ 16 (Ω 2818) │
+│ 046 │                  Gun Rock │         Banya Production │    ORIGINAL │ 05 (Ω 0652) │ 11 (Ω 1432) │ 17 (Ω 2528) │
+│ 047 │                 Fire Game │                    Yahpp │    ORIGINAL │ 08 (Ω 1356) │ 12 (Ω 1636) │ 15 (Ω 2150) │
+│ 048 │                   Phantom │                    BanYa │    ORIGINAL │ 07 (Ω 1239) │ 12 (Ω 2087) │ 18 (Ω 3234) │
+│ 049 │    Final Audition Ep. 2-2 │                    YAHPP │    ORIGINAL │ 07 (Ω 1412) │ 16 (Ω 2412) │ 22 (Ω 3809) │
+└─────┴───────────────────────────┴──────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - CRAZY:
+┌─────┬───────────────────────────┬──────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                   artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼──────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                   Go Back │              Dynamic Duo │       K-POP │ 01 (Ω 0266) │ 04 (Ω 0529) │ 09 (Ω 1511) │
+│ 001 │                     Haley │                 Sam-I-Am │ WORLD MUSIC │ 02 (Ω 0364) │ 04 (Ω 0840) │ 09 (Ω 1675) │
+│ 002 │                      Hybs │                DJ Dookie │ WORLD MUSIC │ 02 (Ω 0395) │ 04 (Ω 0790) │ 11 (Ω 1635) │
+│ 003 │ My Brother is Street Sing │ Park Hyang Lim vs. Yahpp │       K-POP │ 02 (Ω 0455) │ 05 (Ω 0932) │ 11 (Ω 1823) │
+│ 004 │           I Love You Baby │                  Pandera │ WORLD MUSIC │ 03 (Ω 0479) │ 05 (Ω 0834) │ 11 (Ω 1899) │
+│ 005 │            2006 LOVE SONG │         Banya Production │    ORIGINAL │ 03 (Ω 0333) │ 10 (Ω 0986) │ 12 (Ω 1662) │
+│ 006 │                     Storm │                    Perry │       K-POP │ 02 (Ω 0251) │ 05 (Ω 0752) │ 12 (Ω 1677) │
+│ 007 │                 Bust Back │                      DVS │ WORLD MUSIC │ 03 (Ω 0410) │ 06 (Ω 0872) │ 12 (Ω 1681) │
+│ 008 │                 My Friend │                   Cho PD │       K-POP │ 03 (Ω 0380) │ 06 (Ω 0802) │ 12 (Ω 1741) │
+│ 009 │                        So │                  Typhoon │       K-POP │ 01 (Ω 0349) │ 06 (Ω 1165) │ 12 (Ω 1820) │
+│ 010 │             Hold The Line │           Cho PD / B.E.G │       K-POP │ 02 (Ω 0564) │ 04 (Ω 1084) │ 12 (Ω 1867) │
+│ 011 │                    Lovely │            Kim Jong Kook │       K-POP │ 04 (Ω 0560) │ 05 (Ω 0668) │ 12 (Ω 1874) │
+│ 012 │                Footprints │                      T.O │       K-POP │ 05 (Ω 0804) │ 07 (Ω 1104) │ 12 (Ω 1970) │
+│ 013 │            What's Goin On │                  Turtles │       K-POP │ 04 (Ω 0711) │ 07 (Ω 1509) │ 12 (Ω 2151) │
+│ 014 │                 Emergency │            Drunken Tiger │       K-POP │ 02 (Ω 0505) │ 05 (Ω 0971) │ 12 (Ω 2258) │
+│ 015 │                  Ugly Dee │         Banya Production │    ORIGINAL │ 05 (Ω 0646) │ 09 (Ω 1309) │ 13 (Ω 1225) │
+│ 016 │       Terminal Depository │           Ururbu Project │       K-POP │ 03 (Ω 0453) │ 06 (Ω 1133) │ 13 (Ω 1751) │
+│ 017 │                      Jump │                    BanYa │    ORIGINAL │ 03 (Ω 0502) │ 09 (Ω 1753) │ 13 (Ω 1844) │
+│ 018 │                  All Famy │               Eun Ji Won │       K-POP │ 03 (Ω 0682) │ 08 (Ω 1146) │ 13 (Ω 2108) │
+│ 019 │            Do It Yourself │                 LazyBone │       K-POP │ 04 (Ω 0570) │ 06 (Ω 1243) │ 13 (Ω 2169) │
+│ 020 │                 One Night │                   DJ DOC │       K-POP │ 02 (Ω 0473) │ 05 (Ω 1115) │ 13 (Ω 2192) │
+│ 021 │                Snow Dream │                Apple Jam │       K-POP │ 03 (Ω 0670) │ 05 (Ω 1123) │ 13 (Ω 2234) │
+│ 022 │          Mr. Fire Fighter │            Spooky Banana │       K-POP │ 04 (Ω 0876) │ 07 (Ω 1844) │ 13 (Ω 2680) │
+│ 023 │         Wuthering Heights │                   Eugene │       K-POP │ 03 (Ω 0558) │ 06 (Ω 0754) │ 14 (Ω 1986) │
+│ 024 │               Throw'em Up │               Andrew Kim │ WORLD MUSIC │ 02 (Ω 0415) │ 05 (Ω 1021) │ 14 (Ω 2070) │
+│ 025 │ DO U Know That - Old Scho │         Banya Production │    ORIGINAL │ 04 (Ω 0497) │ 06 (Ω 0739) │ 14 (Ω 2136) │
+│ 026 │                   For You │                   N.Ex.T │       K-POP │ 01 (Ω 0283) │ 05 (Ω 1094) │ 14 (Ω 2166) │
+│ 027 │          Enter the Dragon │                      JTL │       K-POP │ 05 (Ω 0653) │ 08 (Ω 1058) │ 14 (Ω 2240) │
+│ 028 │    U Inside My Dim Memory │ Hyun Jin Young vs. YAHPP │       K-POP │ 03 (Ω 0422) │ 06 (Ω 1150) │ 14 (Ω 2257) │
+│ 029 │                       FLY │                Epik High │       K-POP │ 03 (Ω 0509) │ 06 (Ω 0924) │ 14 (Ω 2314) │
+│ 030 │        Chung Hwa Ban Jeom │                    Louis │       K-POP │ 04 (Ω 0777) │ 06 (Ω 1195) │ 14 (Ω 2562) │
+│ 031 │             PaPa Gonzales │                    BanYa │    ORIGINAL │ 04 (Ω 0536) │ 06 (Ω 1091) │ 14 (Ω 2960) │
+│ 032 │                 Fire Game │                    Yahpp │    ORIGINAL │ 08 (Ω 1356) │ 12 (Ω 1636) │ 15 (Ω 2150) │
+│ 033 │                     Free! │                     Jiny │       K-POP │ 04 (Ω 0402) │ 07 (Ω 1407) │ 15 (Ω 2213) │
+│ 034 │        We Goin' Fly Remix │                   Gyfted │ WORLD MUSIC │ 03 (Ω 0465) │ 05 (Ω 0937) │ 15 (Ω 2374) │
+│ 035 │ Love is a Danger Zone pt. │                    BanYa │    ORIGINAL │ 04 (Ω 0791) │ 07 (Ω 1257) │ 15 (Ω 2500) │
+│ 036 │                     Up Up │              Cachy Huang │ WORLD MUSIC │ 05 (Ω 1107) │ 10 (Ω 1662) │ 15 (Ω 3540) │
+│ 037 │           Witch Doctor #1 │                    YAHPP │    ORIGINAL │ 05 (Ω 0624) │ 09 (Ω 1111) │ 16 (Ω 2474) │
+│ 038 │                   Chimera │                    YAHPP │    ORIGINAL │ 04 (Ω 0939) │ 07 (Ω 1805) │ 16 (Ω 2681) │
+│ 039 │       Bullfighting's Song │         Banya Production │    ORIGINAL │ 05 (Ω 0877) │ 08 (Ω 1657) │ 16 (Ω 2806) │
+│ 040 │          Arch of Darkness │                    Yahpp │    ORIGINAL │ 04 (Ω 0521) │ 08 (Ω 1312) │ 16 (Ω 2817) │
+│ 041 │         Beat of The War 2 │                    BanYa │    ORIGINAL │ 05 (Ω 0804) │ 10 (Ω 1961) │ 16 (Ω 2818) │
+│ 042 │              Witch Doctor │                    BanYa │    ORIGINAL │ 06 (Ω 0878) │ 10 (Ω 1844) │ 16 (Ω 3063) │
+│ 043 │                    Oh My! │           Jang Yoon Jung │       K-POP │ 04 (Ω 0770) │ 10 (Ω 1889) │ 17 (Ω 2461) │
+│ 044 │                  Gun Rock │         Banya Production │    ORIGINAL │ 05 (Ω 0652) │ 11 (Ω 1432) │ 17 (Ω 2528) │
+│ 045 │                   Phantom │                    BanYa │    ORIGINAL │ 07 (Ω 1239) │ 12 (Ω 2087) │ 18 (Ω 3234) │
+│ 046 │ Hyun Jin Young Go Jin You │           Hyun Jin Young │       K-POP │ 03 (Ω 0775) │ 06 (Ω 1373) │ 19 (Ω 2774) │
+│ 047 │                 Moonlight │                    BanYa │    ORIGINAL │ 04 (Ω 0444) │ 10 (Ω 1881) │ 19 (Ω 3394) │
+│ 048 │    Final Audition Ep. 2-1 │                    YAHPP │    ORIGINAL │ 03 (Ω 0382) │ 07 (Ω 1514) │ 20 (Ω 3138) │
+│ 049 │    Final Audition Ep. 2-2 │                    YAHPP │    ORIGINAL │ 07 (Ω 1412) │ 16 (Ω 2412) │ 22 (Ω 3809) │
+└─────┴───────────────────────────┴──────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 18
+K-POP: 25
+WORLD MUSIC: 7
+TOTAL: 50
+
+----------
+
+Custom levels:
+- Arch of Darkness: 4 - 8 - 16
+- Final Audition Episode 2-2: 7 - 16 - 22
+- Gun Rock: 5 - 11 - 17
+- Phantom: 7 - 12 - 18
+- Witch Doctor #1: 5 - 9 - 16
+
+Custom order:
+- Final Audition Episode 2-2: 7 -> 8
+
+Other fixes:
+- Wuthering Heights (s14): Removed initial speed gimmicks
+
+Removed:
+- Beat of the War 2 (Another)
+- Handsome Character That Pass
+- Love is a Danger Zone 2 (Another)
+- Moonlight (Original Ver.)
+- Phantom (Speedup Ver.)
+- Turn Around
+- Witch Docva

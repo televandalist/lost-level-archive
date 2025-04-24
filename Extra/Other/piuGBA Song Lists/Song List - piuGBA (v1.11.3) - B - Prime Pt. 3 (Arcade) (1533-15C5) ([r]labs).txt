@@ -1,0 +1,71 @@
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┤
+│ 000 │                     Hey U │                      MAZO │    ORIGINAL │
+│ 001 │ Twist of Fate (feat. Ruri │                Jehezukiel │    ORIGINAL │
+│ 002 │                      HTTP │                     Quree │    ORIGINAL │
+│ 003 │ Up / Up (Produced by AWAL │                    Skizzo │    ORIGINAL │
+│ 004 │          Travel to future │              Neutral Moon │    ORIGINAL │
+│ 005 │ Rave 'til the Earth's End │                    5argon │    ORIGINAL │
+│ 006 │                 Awakening │                  typeMARS │    ORIGINAL │
+│ 007 │                    ESCAPE │                     D_AAN │    ORIGINAL │
+│ 008 │             Waltz of Doge │                    Cashew │    ORIGINAL │
+│ 009 │            BANG BANG BANG │                   BIGBANG │       K-POP │
+│ 010 │              Me Gustas Tu │                   GFriend │       K-POP │
+│ 011 │                 RHYTHM TA │                      iKON │       K-POP │
+│ 012 │                  Chase Me │              Dreamcatcher │       K-POP │
+│ 013 │                   PICK ME │               PRODUCE 101 │       K-POP │
+│ 014 │                   Jackpot │                   BLOCK B │       K-POP │
+│ 015 │              Gotta Be You │                      2NE1 │       K-POP │
+│ 016 │                 BOOMBAYAH │                 BLACKPINK │       K-POP │
+│ 017 │                     SOBER │                   BIGBANG │       K-POP │
+│ 018 │                 Up / Down │                      EXID │       K-POP │
+│ 019 │                Good Night │              Dreamcatcher │       K-POP │
+│ 020 │           You're the best │                   MAMAMOO │       K-POP │
+│ 021 │               NUMBER NINE │                     T-ARA │       K-POP │
+│ 022 │              Acquaintance │                  Outsider │       K-POP │
+│ 023 │                 Energetic │                 Wanna One │       K-POP │
+│ 024 │                 Beautiful │                 Wanna One │       K-POP │
+│ 025 │                   PICK ME │               PRODUCE 101 │       K-POP │
+│ 026 │             Really Really │                    Winner │       K-POP │
+│ 027 │          Moon Light Dance │          TatshMusicCircle │    ORIGINAL │
+│ 028 │                      STEP │                 SID-SOUND │ WORLD MUSIC │
+│ 029 │               Just Kiddin │                     Vospi │ WORLD MUSIC │
+│ 030 │        Nakakapagpabagabag │   Dasu feat. Kagamine Len │ WORLD MUSIC │
+│ 031 │              Heart Attack │           DJ Counterforce │ WORLD MUSIC │
+│ 032 │                      HUSH │ Yassi Pressman / Nadine L │ WORLD MUSIC │
+│ 033 │                        V3 │             Beautiful Day │ WORLD MUSIC │
+│ 034 │                Cross Time │                    Brandy │ WORLD MUSIC │
+│ 035 │ The Festival Of Ghost 2 ( │                    Brandy │ WORLD MUSIC │
+│ 036 │                     Helix │                      ESTi │ WORLD MUSIC │
+│ 037 │                  Hyperion │                       M2U │ WORLD MUSIC │
+│ 038 │              Black Dragon │                     Memme │ WORLD MUSIC │
+│ 039 │         BSPower Explosion │                     Memme │ WORLD MUSIC │
+│ 040 │              Start On Red │                      Nato │ WORLD MUSIC │
+│ 041 │        Time Attack <Blue> │                     r300k │ WORLD MUSIC │
+│ 042 │          Magical Vacation │                 SID-SOUND │ WORLD MUSIC │
+│ 043 │ Visual Dream 2 (In Fictio │                    Aragon │ WORLD MUSIC │
+│ 044 │                Death Moon │                       SHK │ WORLD MUSIC │
+│ 045 │             Super Stylin' │                     Warak │ WORLD MUSIC │
+│ 046 │        Christmas Memories │                     Warak │ WORLD MUSIC │
+│ 047 │                  Keep On! │                  AmamoriP │ WORLD MUSIC │
+│ 048 │        Asterios -ReEntry- │                      ATAS │ WORLD MUSIC │
+│ 049 │             Le Grand Bleu │                      KIEN │ WORLD MUSIC │
+│ 050 │                  Infinity │            Lunatic Sounds │ WORLD MUSIC │
+│ 051 │        Gothique Resonance │                     P4Koo │ WORLD MUSIC │
+│ 052 │                    BEDLAM │                   SANY-ON │ WORLD MUSIC │
+│ 053 │          A Site De La Rue │            STREME REVERIE │ WORLD MUSIC │
+│ 054 │                      Clue │                   Transin │ WORLD MUSIC │
+│ 055 │                   Redline │                Archefluxx │    ORIGINAL │
+│ 056 │                Kill Them! │                Archefluxx │ WORLD MUSIC │
+│ 057 │                 Donatello │                Triplestar │ WORLD MUSIC │
+│ 058 │              Seize My Day │         Rainbowdragoneyes │ WORLD MUSIC │
+│ 059 │              Fallen Angel │       DM Ashura ft. Ariel │ WORLD MUSIC │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 11
+K-POP: 18
+WORLD MUSIC: 31
+TOTAL: 60

@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250423</version>
+		<version>v20250424</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -394,6 +394,10 @@
 	<game name="Starfight (World) (Aftermarket) (Unl)">
 		<description>Starfight (World) (Aftermarket) (Unl)</description>
 		<rom name="Starfight (World) (Aftermarket) (Unl).gb" size="32768" crc="1775be37" md5="d66ecaff3fb1093b71277611ce6d7dbc" sha1="8c9e3035e37e9cb5e30f4dfc797fcde839d8d5b2" />
+	</game>
+	<game name="Strange School Camp, The (World) (Aftermarket) (GB Studio)">
+		<description>Strange School Camp, The (World) (Aftermarket) (GB Studio)</description>
+		<rom name="Strange School Camp, The (World) (Aftermarket) (GB Studio).gb" size="131072" crc="e5e87612" md5="31bdaf34545d7145aea670348dc8c0fe" sha1="a7d1ed2b03adf6334c699382f7eb5a51313cefb8" />
 	</game>
 	<game name="Super Mario Maker GB (World) (v1.0) (Aftermarket) (GB Studio)">
 		<description>Super Mario Maker GB (World) (v1.0) (Aftermarket) (GB Studio)</description>

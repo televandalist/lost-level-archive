@@ -1,0 +1,74 @@
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┤
+│ 000 │                  Pine Nut │                      Doin │    ORIGINAL │
+│ 001 │                      ASDF │                      Doin │    ORIGINAL │
+│ 002 │                      Says │                      Doin │    ORIGINAL │
+│ 003 │ Rave Until The Night Is O │ DM Ashura feat. MC Jay /  │ WORLD MUSIC │
+│ 004 │          Jonathan's Dream │ MAX/Seorryang (SID-SOUND) │    ORIGINAL │
+│ 005 │                  Monolith │                  Affinity │ WORLD MUSIC │
+│ 006 │                       Y2Z │                  Affinity │ WORLD MUSIC │
+│ 007 │                  Rockhill │                  Beltaine │ WORLD MUSIC │
+│ 008 │                Switchback │               Celldweller │ WORLD MUSIC │
+│ 009 │                   Ladybug │                   Coconut │ WORLD MUSIC │
+│ 010 │     Hardkore of the North │             Diclonius Kid │ WORLD MUSIC │
+│ 011 │             Rippin' It Up │         Future Funk Squad │ WORLD MUSIC │
+│ 012 │            Tribe Attacker │                      Hi-G │ WORLD MUSIC │
+│ 013 │           Virtual Emotion │               Inspector K │ WORLD MUSIC │
+│ 014 │              Take Me Back │                       KaW │ WORLD MUSIC │
+│ 015 │                   RE-RAVE │                 KURi-ZiLL │ WORLD MUSIC │
+│ 016 │              Heel and Toe │                 KURi-ZiLL │ WORLD MUSIC │
+│ 017 │        Deadbeat Boyfriend │            Lucky Princess │ WORLD MUSIC │
+│ 018 │        Dream To Nightmare │                 Nightmare │ WORLD MUSIC │
+│ 019 │                 Rainspark │                  Sanxion7 │ WORLD MUSIC │
+│ 020 │                    Utopia │                    Smiley │ WORLD MUSIC │
+│ 021 │                      Xuxa │                    Smiley │ WORLD MUSIC │
+│ 022 │ Be Alive (Raaban Inc. Mix │                   Stian K │ WORLD MUSIC │
+│ 023 │                       VVV │                    ZiGZaG │ WORLD MUSIC │
+│ 024 │              Star Command │                    Zircon │ WORLD MUSIC │
+│ 025 │             Pop The Track │ "J-Mi / Midi-D / Ft. Hann │ WORLD MUSIC │
+│ 026 │               Passacaglia │                 SynthWulf │    ORIGINAL │
+│ 027 │             Baroque Virus │                    Zircon │ WORLD MUSIC │
+│ 028 │   Hypnosis(SynthWulf Mix) │         BanYa / Synthwulf │    ORIGINAL │
+│ 029 │                       FFF │                      Doin │    ORIGINAL │
+│ 030 │                    Unique │                       SHK │    ORIGINAL │
+│ 031 │                  Accident │                       Max │    ORIGINAL │
+│ 032 │                         D │                       MAX │    ORIGINAL │
+│ 033 │          U Got Me Rocking │                       MAX │    ORIGINAL │
+│ 034 │           Lucid(PIU Edit) │                   Yak Won │    ORIGINAL │
+│ 035 │                    Nobody │              Wonder Girls │       K-POP │
+│ 036 │        Bad Girl Good Girl │                    Miss A │       K-POP │
+│ 037 │                      Step │                      KARA │       K-POP │
+│ 038 │              I'm The Best │                      2NE1 │       K-POP │
+│ 039 │              Can't Nobody │                      2NE1 │       K-POP │
+│ 040 │          Shanghai Romance │            Orange Caramel │       K-POP │
+│ 041 │            Fantastic Baby │                   Bigbang │       K-POP │
+│ 042 │                       Lie │                  Big Bang │       K-POP │
+│ 043 │             Heart Breaker │                  G-Dragon │       K-POP │
+│ 044 │     Hands Up (East4A Mix) │                       2PM │       K-POP │
+│ 045 │                   Be Mine │                  Infinite │       K-POP │
+│ 046 │                    Crayon │                  G-Dragon │       K-POP │
+│ 047 │                  Mackerel │                    Norazo │       K-POP │
+│ 048 │                  Two Guys │                Bae Chi Gi │       K-POP │
+│ 049 │              Danza Kuduro │      Don Omar Ft. Lucenzo │ WORLD MUSIC │
+│ 050 │                   Rabiosa │     Shakira feat. Pitbull │ WORLD MUSIC │
+│ 051 │                   Lovumba │              Daddy Yankee │ WORLD MUSIC │
+│ 052 │         One Two Three Go! │                  Belanova │ WORLD MUSIC │
+│ 053 │ Los Malaventurados No Llo │                     PXNDX │ WORLD MUSIC │
+│ 054 │                  Sik Asik │             Ayu Ting Ting │ WORLD MUSIC │
+│ 055 │                    Online │                   Saykoji │ WORLD MUSIC │
+│ 056 │                       Dam │              Ben Chalatit │ WORLD MUSIC │
+│ 057 │                Sugar Eyes │                Sugar Eyes │ WORLD MUSIC │
+│ 058 │                    Log In │                       SHK │    ORIGINAL │
+│ 059 │                  Windmill │                   Yak Won │    ORIGINAL │
+│ 060 │                 Follow me │                       SHK │    ORIGINAL │
+│ 061 │                 Yeo rae a │                 SID-Sound │    ORIGINAL │
+│ 062 │              Mental Rider │                     SQUAR │    ORIGINAL │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 17
+K-POP: 14
+WORLD MUSIC: 32
+TOTAL: 63

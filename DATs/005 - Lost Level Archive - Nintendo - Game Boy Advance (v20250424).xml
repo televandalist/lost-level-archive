@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20250422</version>
+		<version>v20250424</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -222,6 +222,62 @@
 	<game name="Pikachu ga Pokeboru O Aishimasu (World) (Aftermarket) (Unl)">
 		<description>Pikachu ga Pokeboru O Aishimasu (World) (Aftermarket) (Unl)</description>
 		<rom name="Pikachu ga Pokeboru O Aishimasu (World) (Aftermarket) (Unl).gba" size="399144" crc="4bde232f" md5="d73aeb4aa0068e8f61a75fab58b0dbbe" sha1="d29656289680e245a32484f28872851c26167d43" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 0 - Pump It Up! ([r]labs)">
+		<description>piuGBA (v1.11.3) - 0 - Pump It Up! ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 0 - Pump It Up! ([r]labs).gba" size="33553904" crc="6d082fcd" md5="b80ecb6da85d04373c5d36c7fe46d2b8" sha1="1d1f33c3e1cc7cfb47da84e150d848ff513e7704" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 1 - 1st Dance Floor - 3rd Dance Floor SE (101-414) ([r]labs)">
+		<description>piuGBA (v1.11.3) - 1 - 1st Dance Floor - 3rd Dance Floor SE (101-414) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 1 - 1st Dance Floor - 3rd Dance Floor SE (101-414) ([r]labs).gba" size="32692544" crc="b1b7252b" md5="db7e44a16af3ccc440ab9ff8f46733fc" sha1="b75da658421cffdd3389bca5cfdd0e8ad2e8da10" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 2 - Perfect Collection - Rebirth (503-736) ([r]labs)">
+		<description>piuGBA (v1.11.3) - 2 - Perfect Collection - Rebirth (503-736) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 2 - Perfect Collection - Rebirth (503-736) ([r]labs).gba" size="31230240" crc="7e619733" md5="dd7d1e5b61089fdedbd9af399a54e466" sha1="94fee9b7b113cc56bc77f6a7834b1eaa1a62c7c3" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 3 - Premiere - EXTRA (801-923) ([r]labs)">
+		<description>piuGBA (v1.11.3) - 3 - Premiere - EXTRA (801-923) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 3 - Premiere - EXTRA (801-923) ([r]labs).gba" size="28731856" crc="e221d805" md5="5d084735150952b49c0e852dd0b3c090" sha1="7dbcc915be644dbc4d01029d9bc9f9acf29908a0" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 4 - Exceed - Exceed 2 (A01-B20) ([r]labs)">
+		<description>piuGBA (v1.11.3) - 4 - Exceed - Exceed 2 (A01-B20) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 4 - Exceed - Exceed 2 (A01-B20) ([r]labs).gba" size="28497520" crc="a50ea9a3" md5="18e4a13c8ea362bb61053c593c3f8cbd" sha1="8a98e12fc4307bd39fa3ad8a4ec29e4d6af31077" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 5 - Zero - NX (C01-D30) ([r]labs)">
+		<description>piuGBA (v1.11.3) - 5 - Zero - NX (C01-D30) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 5 - Zero - NX (C01-D30) ([r]labs).gba" size="31543712" crc="9cb39ec8" md5="7846a71022e7432bb13a475e892d4124" sha1="aa2373202b3bb5f40ecd2516a7d1a2575aa61d8e" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 6 - NX2 - NXA (E01-F80) ([r]labs)">
+		<description>piuGBA (v1.11.3) - 6 - NX2 - NXA (E01-F80) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 6 - NX2 - NXA (E01-F80) ([r]labs).gba" size="32714160" crc="1060c90b" md5="9fb8eb374f1f84833f66cc932e2d0f92" sha1="ffa083ca3d00a71178915ffac2b4c005f96eceb2" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 7 - Fiesta Pt. 1 (Arcade) (1001-1152) ([r]labs)">
+		<description>piuGBA (v1.11.3) - 7 - Fiesta Pt. 1 (Arcade) (1001-1152) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 7 - Fiesta Pt. 1 (Arcade) (1001-1152) ([r]labs).gba" size="30325616" crc="e27c4c9e" md5="bef2c60603e8063f8b6d98a36b5e0147" sha1="01bffd5bf416c1992c4874c10e59f253f4f8fe3c" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 8 - Fiesta Pt. 2 (Arcade) (1153-1390) ([r]labs)">
+		<description>piuGBA (v1.11.3) - 8 - Fiesta Pt. 2 (Arcade) (1153-1390) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 8 - Fiesta Pt. 2 (Arcade) (1153-1390) ([r]labs).gba" size="31172352" crc="b5afe406" md5="6ef4a9d9b8b1f0bceea163e88c34107c" sha1="645062950633c6bc4b9451904fcad3319838a713" />
+	</game>
+	<game name="piuGBA (v1.11.3) - 9 - Prime Pt. 1 (Arcade) (1401-1461) ([r]labs)">
+		<description>piuGBA (v1.11.3) - 9 - Prime Pt. 1 (Arcade) (1401-1461) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - 9 - Prime Pt. 1 (Arcade) (1401-1461) ([r]labs).gba" size="28952608" crc="b4a88eb4" md5="fba3273e65eada1f9dbfa6e929999cf9" sha1="f6a5b9b4531ac71ab4614df8e1f8febf1170bd79" />
+	</game>
+	<game name="piuGBA (v1.11.3) - A - Prime Pt. 2 (Arcade) (1462-1530) ([r]labs)">
+		<description>piuGBA (v1.11.3) - A - Prime Pt. 2 (Arcade) (1462-1530) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - A - Prime Pt. 2 (Arcade) (1462-1530) ([r]labs).gba" size="29169888" crc="cb06b926" md5="6c6462e190076b5933441429ce6e7493" sha1="e05f0e45c77fe8bd7617a421c46104d39a422667" />
+	</game>
+	<game name="piuGBA (v1.11.3) - B - Prime Pt. 3 (Arcade) (1533-15C5) ([r]labs)">
+		<description>piuGBA (v1.11.3) - B - Prime Pt. 3 (Arcade) (1533-15C5) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - B - Prime Pt. 3 (Arcade) (1533-15C5) ([r]labs).gba" size="31006160" crc="f1b56689" md5="1a948bcdb4e67e40fbfae6711891c718" sha1="7caff2602f470086d76e1dfa0d4aef490535fd23" />
+	</game>
+	<game name="piuGBA (v1.11.3) - C - XX 20th Anniversary Pt. 1 (Arcade) (1601-1660) ([r]labs)">
+		<description>piuGBA (v1.11.3) - C - XX 20th Anniversary Pt. 1 (Arcade) (1601-1660) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - C - XX 20th Anniversary Pt. 1 (Arcade) (1601-1660) ([r]labs).gba" size="32105440" crc="8339b96e" md5="def69f461183cfc753824236444daa79" sha1="61f0d2d280ff72b4f8866550e7c40f4726f1d635" />
+	</game>
+	<game name="piuGBA (v1.11.3) - D - XX 20th Anniversary Pt. 2 (Arcade) (1661-1718) ([r]labs)">
+		<description>piuGBA (v1.11.3) - D - XX 20th Anniversary Pt. 2 (Arcade) (1661-1718) ([r]labs)</description>
+		<rom name="piuGBA (v1.11.3) - D - XX 20th Anniversary Pt. 2 (Arcade) (1661-1718) ([r]labs).gba" size="32118048" crc="f9f9814d" md5="8c5e119c0296f1ef6747ca235ccd2621" sha1="52b0c2a53e5da21473782c05c01d55122dd45e53" />
 	</game>
 	<game name="Radicorn (World) (Aftermarket) (Unl)">
 		<description>Radicorn (World) (Aftermarket) (Unl)</description>

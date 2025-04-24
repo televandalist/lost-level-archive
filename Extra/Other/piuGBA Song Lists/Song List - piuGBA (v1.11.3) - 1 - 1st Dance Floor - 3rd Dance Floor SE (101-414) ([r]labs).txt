@@ -1,0 +1,237 @@
+SONG LIST - NORMAL:
+┌─────┬────────────────────────┬───────────────────┬──────────┬─────────────┬─────────────┬─────────────┐
+│  id │                  title │            artist │  channel │      normal │        hard │       crazy │
+├─────┼────────────────────────┼───────────────────┼──────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │            Pom Pom Pom │         Sechskies │    K-POP │ 02 (Ω 0255) │ 07 (Ω 0994) │ 13 (Ω 1982) │
+│ 001 │          Funky Tonight │              CLON │    K-POP │ 02 (Ω 0272) │ 05 (Ω 0678) │ 14 (Ω 1978) │
+│ 002 │                Passion │      Seungjun Yoo │    K-POP │ 02 (Ω 0300) │ 06 (Ω 0766) │ 16 (Ω 2622) │
+│ 003 │           Forever Love │           Fin.K.L │    K-POP │ 02 (Ω 0315) │ 10 (Ω 1434) │ 15 (Ω 2569) │
+│ 004 │                   Love │             S.E.S │    K-POP │ 02 (Ω 0384) │ 11 (Ω 1557) │ 15 (Ω 1665) │
+│ 005 │               I Want U │     Drunken Tiger │    K-POP │ 02 (Ω 0390) │ 09 (Ω 1028) │ 15 (Ω 1636) │
+│ 006 │       Fighting Spirits │             H.O.T │    K-POP │ 02 (Ω 0401) │ 08 (Ω 1276) │ 15 (Ω 2094) │
+│ 007 │                The Rap │      Honey Family │    K-POP │ 02 (Ω 0407) │ 10 (Ω 1142) │ 13 (Ω 1801) │
+│ 008 │               Oh! Rosa │             BanYa │ ORIGINAL │ 02 (Ω 0409) │ 07 (Ω 1565) │ 13 (Ω 2335) │
+│ 009 │          Lover's Grief │             G O D │    K-POP │ 02 (Ω 0491) │ 10 (Ω 1581) │ 16 (Ω 2033) │
+│ 010 │          Midnight Blue │             BanYa │ ORIGINAL │ 03 (Ω 0311) │ 08 (Ω 0938) │ 12 (Ω 1707) │
+│ 011 │             To the Top │ 6Mill Bionic Juno │    K-POP │ 03 (Ω 0423) │ 07 (Ω 1034) │ 14 (Ω 1702) │
+│ 012 │              Sad Salsa │     Baek Ji Young │    K-POP │ 03 (Ω 0454) │ 06 (Ω 0951) │ 11 (Ω 1629) │
+│ 013 │        Ignition Starts │             BanYa │ ORIGINAL │ 03 (Ω 0457) │ 08 (Ω 0961) │ 15 (Ω 2138) │
+│ 014 │              Puyo Puyo │              U.P. │    K-POP │ 03 (Ω 0538) │ 10 (Ω 1556) │ 12 (Ω 1565) │
+│ 015 │                 Rewind │      Kangshin Lee │    K-POP │ 03 (Ω 0575) │ 09 (Ω 1364) │ 15 (Ω 2291) │
+│ 016 │         Summer of Love │            Roo'Ra │    K-POP │ 03 (Ω 0631) │ 08 (Ω 1402) │ 11 (Ω 2174) │
+│ 017 │  I Don't Know Anything │       Junghwa Uhm │    K-POP │ 03 (Ω 0635) │ 08 (Ω 1177) │ 16 (Ω 2745) │
+│ 018 │              Curiosity │         Hans Band │    K-POP │ 03 (Ω 0665) │ 11 (Ω 1901) │ 16 (Ω 2403) │
+│ 019 │          With my Lover │             BanYa │ ORIGINAL │ 03 (Ω 0716) │ 10 (Ω 1877) │ 13 (Ω 2165) │
+│ 020 │                   Koul │             BanYa │ ORIGINAL │ 04 (Ω 0264) │ 06 (Ω 0782) │ 12 (Ω 1604) │
+│ 021 │   No Particular Reason │      Mikyung Park │    K-POP │ 04 (Ω 0538) │ 08 (Ω 1132) │ 15 (Ω 2229) │
+│ 022 │                  Fever │            Cho PD │    K-POP │ 04 (Ω 0554) │ 06 (Ω 1033) │ 16 (Ω 2058) │
+│ 023 │             First Love │              Clon │    K-POP │ 04 (Ω 0558) │ 07 (Ω 1323) │ 11 (Ω 1952) │
+│ 024 │             Come to Me │              Clon │    K-POP │ 04 (Ω 0568) │ 06 (Ω 0886) │ 11 (Ω 1608) │
+│ 025 │        Tell Me Tell Me │             S#arp │    K-POP │ 04 (Ω 0590) │ 10 (Ω 1285) │ 13 (Ω 1634) │
+│ 026 │              Love Song │      Seung Jun Yu │    K-POP │ 04 (Ω 0595) │ 10 (Ω 1615) │ 16 (Ω 2890) │
+│ 027 │              Black Cat │             Turbo │    K-POP │ 04 (Ω 0601) │ 06 (Ω 0905) │ 15 (Ω 1978) │
+│ 028 │                   Kiss │   Country Kko Kko │    K-POP │ 04 (Ω 0606) │ 10 (Ω 1579) │ 16 (Ω 2628) │
+│ 029 │                 I-Yah! │             H.O.T │    K-POP │ 04 (Ω 0612) │ 08 (Ω 1126) │ 15 (Ω 2093) │
+│ 030 │ What Do U Really Want? │         Monocrome │    K-POP │ 04 (Ω 0626) │ 09 (Ω 1355) │ 15 (Ω 2108) │
+│ 031 │                   Hate │             BanYa │ ORIGINAL │ 04 (Ω 0632) │ 12 (Ω 1447) │ 14 (Ω 1804) │
+│ 032 │        Close Your Eyes │             BanYa │ ORIGINAL │ 04 (Ω 0643) │ 11 (Ω 1504) │ 12 (Ω 1545) │
+│ 033 │             First Love │             BanYa │ ORIGINAL │ 04 (Ω 0662) │ 09 (Ω 1725) │ 16 (Ω 2240) │
+│ 034 │               Hypnosis │             BanYa │ ORIGINAL │ 04 (Ω 0667) │ 07 (Ω 1105) │ 15 (Ω 2474) │
+│ 035 │           Turkey March │             BanYa │ ORIGINAL │ 04 (Ω 0703) │ 07 (Ω 1582) │ 12 (Ω 2095) │
+│ 036 │                Ok? Ok! │            DJ Doc │    K-POP │ 04 (Ω 0762) │ 10 (Ω 1565) │ 16 (Ω 2426) │
+│ 037 │            A Nightmare │             BanYa │ ORIGINAL │ 04 (Ω 0771) │ 09 (Ω 1494) │ 14 (Ω 1999) │
+│ 038 │                   RUN! │         Novasonic │    K-POP │ 04 (Ω 0809) │ 08 (Ω 1365) │ 15 (Ω 2611) │
+│ 039 │             Pumping Up │             BanYa │ ORIGINAL │ 04 (Ω 0892) │ 10 (Ω 1873) │ 12 (Ω 2192) │
+│ 040 │               Com'Back │        Sechs Kies │    K-POP │ 04 (Ω 0930) │ 06 (Ω 1216) │ 15 (Ω 2592) │
+│ 041 │           Mobius Strip │        Sechs Kies │    K-POP │ 04 (Ω 0979) │ 06 (Ω 1063) │ 12 (Ω 2055) │
+│ 042 │                 Please │         Gunmo Kim │    K-POP │ 05 (Ω 0677) │ 06 (Ω 0677) │ 12 (Ω 1537) │
+│ 043 │             Run to you │            DJ DOC │    K-POP │ 05 (Ω 0700) │ 10 (Ω 1502) │ 13 (Ω 2028) │
+│ 044 │    An Interesting View │             BanYa │ ORIGINAL │ 05 (Ω 0703) │ 09 (Ω 1111) │ 13 (Ω 2085) │
+│ 045 │            Man / Woman │              Cool │    K-POP │ 05 (Ω 0785) │ 10 (Ω 1565) │ 15 (Ω 2380) │
+│ 046 │        Don't Bother Me │         Tashannie │    K-POP │ 05 (Ω 0794) │ 10 (Ω 1480) │ 14 (Ω 1767) │
+│ 047 │            Heart Break │         Sungmo Jo │    K-POP │ 05 (Ω 0818) │ 08 (Ω 1324) │ 13 (Ω 2031) │
+│ 048 │               Betrayer │             BanYa │ ORIGINAL │ 05 (Ω 0819) │ 08 (Ω 1309) │ 12 (Ω 1652) │
+│ 049 │                 Hatred │         Novasonic │    K-POP │ 05 (Ω 0835) │ 06 (Ω 1127) │ 13 (Ω 2393) │
+│ 050 │                   Love │           Click-B │    K-POP │ 05 (Ω 0880) │ 09 (Ω 1322) │ 15 (Ω 2170) │
+│ 051 │             Mr. Larpus │             BanYa │ ORIGINAL │ 05 (Ω 0889) │ 11 (Ω 1887) │ 14 (Ω 2178) │
+│ 052 │                 A Trap │        Baby V.O.X │    K-POP │ 05 (Ω 0945) │ 10 (Ω 1621) │ 11 (Ω 1794) │
+│ 053 │          Another Truth │         Novasonic │    K-POP │ 05 (Ω 1049) │ 08 (Ω 1500) │ 15 (Ω 2370) │
+│ 054 │                Tell Me │          Jinusean │    K-POP │ 05 (Ω 1079) │ 11 (Ω 1732) │ 16 (Ω 2596) │
+│ 055 │              Disco Bus │     Kim Hyun Jung │    K-POP │ 05 (Ω 1105) │ 10 (Ω 1305) │ 15 (Ω 2453) │
+│ 056 │                 We Are │              DEUX │    K-POP │ 05 (Ω 1130) │ 09 (Ω 1684) │ 12 (Ω 2090) │
+│ 057 │             Free Style │             BanYa │ ORIGINAL │ 06 (Ω 1105) │ 10 (Ω 1422) │ 13 (Ω 1870) │
+│ 058 │    Time to Say Goodbye │       Chanhwui So │    K-POP │ 06 (Ω 1122) │ 10 (Ω 1637) │ 16 (Ω 2643) │
+│ 059 │               Solitary │             BanYa │ ORIGINAL │ 06 (Ω 1124) │ 09 (Ω 1485) │ 16 (Ω 2896) │
+│ 060 │         Final Audition │             BanYa │ ORIGINAL │ 06 (Ω 1150) │ 07 (Ω 1100) │ 17 (Ω 2562) │
+│ 061 │    Separation With Her │     Kim Hyun Jung │    K-POP │ 07 (Ω 1219) │ 09 (Ω 1358) │ 16 (Ω 2623) │
+│ 062 │              Naissance │             BanYa │ ORIGINAL │ 07 (Ω 1262) │ 10 (Ω 1598) │ 14 (Ω 2572) │
+│ 063 │       Final Audition 2 │             BanYa │ ORIGINAL │ 08 (Ω 1466) │ 10 (Ω 1802) │ 16 (Ω 2608) │
+│ 064 │        She Likes Pizza │             BanYa │ ORIGINAL │ 08 (Ω 1548) │ 09 (Ω 1712) │ 14 (Ω 2315) │
+│ 065 │           Extravaganza │             BanYa │ ORIGINAL │ 07 (Ω 1885) │ 09 (Ω 1901) │ 11 (Ω 2299) │
+└─────┴────────────────────────┴───────────────────┴──────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - HARD:
+┌─────┬────────────────────────┬───────────────────┬──────────┬─────────────┬─────────────┬─────────────┐
+│  id │                  title │            artist │  channel │      normal │        hard │       crazy │
+├─────┼────────────────────────┼───────────────────┼──────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │          Funky Tonight │              CLON │    K-POP │ 02 (Ω 0272) │ 05 (Ω 0678) │ 14 (Ω 1978) │
+│ 001 │                 Please │         Gunmo Kim │    K-POP │ 05 (Ω 0677) │ 06 (Ω 0677) │ 12 (Ω 1537) │
+│ 002 │                Passion │      Seungjun Yoo │    K-POP │ 02 (Ω 0300) │ 06 (Ω 0766) │ 16 (Ω 2622) │
+│ 003 │                   Koul │             BanYa │ ORIGINAL │ 04 (Ω 0264) │ 06 (Ω 0782) │ 12 (Ω 1604) │
+│ 004 │             Come to Me │              Clon │    K-POP │ 04 (Ω 0568) │ 06 (Ω 0886) │ 11 (Ω 1608) │
+│ 005 │              Black Cat │             Turbo │    K-POP │ 04 (Ω 0601) │ 06 (Ω 0905) │ 15 (Ω 1978) │
+│ 006 │              Sad Salsa │     Baek Ji Young │    K-POP │ 03 (Ω 0454) │ 06 (Ω 0951) │ 11 (Ω 1629) │
+│ 007 │                  Fever │            Cho PD │    K-POP │ 04 (Ω 0554) │ 06 (Ω 1033) │ 16 (Ω 2058) │
+│ 008 │           Mobius Strip │        Sechs Kies │    K-POP │ 04 (Ω 0979) │ 06 (Ω 1063) │ 12 (Ω 2055) │
+│ 009 │                 Hatred │         Novasonic │    K-POP │ 05 (Ω 0835) │ 06 (Ω 1127) │ 13 (Ω 2393) │
+│ 010 │               Com'Back │        Sechs Kies │    K-POP │ 04 (Ω 0930) │ 06 (Ω 1216) │ 15 (Ω 2592) │
+│ 011 │            Pom Pom Pom │         Sechskies │    K-POP │ 02 (Ω 0255) │ 07 (Ω 0994) │ 13 (Ω 1982) │
+│ 012 │             To the Top │ 6Mill Bionic Juno │    K-POP │ 03 (Ω 0423) │ 07 (Ω 1034) │ 14 (Ω 1702) │
+│ 013 │         Final Audition │             BanYa │ ORIGINAL │ 06 (Ω 1150) │ 07 (Ω 1100) │ 17 (Ω 2562) │
+│ 014 │               Hypnosis │             BanYa │ ORIGINAL │ 04 (Ω 0667) │ 07 (Ω 1105) │ 15 (Ω 2474) │
+│ 015 │             First Love │              Clon │    K-POP │ 04 (Ω 0558) │ 07 (Ω 1323) │ 11 (Ω 1952) │
+│ 016 │               Oh! Rosa │             BanYa │ ORIGINAL │ 02 (Ω 0409) │ 07 (Ω 1565) │ 13 (Ω 2335) │
+│ 017 │           Turkey March │             BanYa │ ORIGINAL │ 04 (Ω 0703) │ 07 (Ω 1582) │ 12 (Ω 2095) │
+│ 018 │          Midnight Blue │             BanYa │ ORIGINAL │ 03 (Ω 0311) │ 08 (Ω 0938) │ 12 (Ω 1707) │
+│ 019 │        Ignition Starts │             BanYa │ ORIGINAL │ 03 (Ω 0457) │ 08 (Ω 0961) │ 15 (Ω 2138) │
+│ 020 │                 I-Yah! │             H.O.T │    K-POP │ 04 (Ω 0612) │ 08 (Ω 1126) │ 15 (Ω 2093) │
+│ 021 │   No Particular Reason │      Mikyung Park │    K-POP │ 04 (Ω 0538) │ 08 (Ω 1132) │ 15 (Ω 2229) │
+│ 022 │  I Don't Know Anything │       Junghwa Uhm │    K-POP │ 03 (Ω 0635) │ 08 (Ω 1177) │ 16 (Ω 2745) │
+│ 023 │       Fighting Spirits │             H.O.T │    K-POP │ 02 (Ω 0401) │ 08 (Ω 1276) │ 15 (Ω 2094) │
+│ 024 │               Betrayer │             BanYa │ ORIGINAL │ 05 (Ω 0819) │ 08 (Ω 1309) │ 12 (Ω 1652) │
+│ 025 │            Heart Break │         Sungmo Jo │    K-POP │ 05 (Ω 0818) │ 08 (Ω 1324) │ 13 (Ω 2031) │
+│ 026 │                   RUN! │         Novasonic │    K-POP │ 04 (Ω 0809) │ 08 (Ω 1365) │ 15 (Ω 2611) │
+│ 027 │         Summer of Love │            Roo'Ra │    K-POP │ 03 (Ω 0631) │ 08 (Ω 1402) │ 11 (Ω 2174) │
+│ 028 │          Another Truth │         Novasonic │    K-POP │ 05 (Ω 1049) │ 08 (Ω 1500) │ 15 (Ω 2370) │
+│ 029 │               I Want U │     Drunken Tiger │    K-POP │ 02 (Ω 0390) │ 09 (Ω 1028) │ 15 (Ω 1636) │
+│ 030 │    An Interesting View │             BanYa │ ORIGINAL │ 05 (Ω 0703) │ 09 (Ω 1111) │ 13 (Ω 2085) │
+│ 031 │                   Love │           Click-B │    K-POP │ 05 (Ω 0880) │ 09 (Ω 1322) │ 15 (Ω 2170) │
+│ 032 │ What Do U Really Want? │         Monocrome │    K-POP │ 04 (Ω 0626) │ 09 (Ω 1355) │ 15 (Ω 2108) │
+│ 033 │    Separation With Her │     Kim Hyun Jung │    K-POP │ 07 (Ω 1219) │ 09 (Ω 1358) │ 16 (Ω 2623) │
+│ 034 │                 Rewind │      Kangshin Lee │    K-POP │ 03 (Ω 0575) │ 09 (Ω 1364) │ 15 (Ω 2291) │
+│ 035 │               Solitary │             BanYa │ ORIGINAL │ 06 (Ω 1124) │ 09 (Ω 1485) │ 16 (Ω 2896) │
+│ 036 │            A Nightmare │             BanYa │ ORIGINAL │ 04 (Ω 0771) │ 09 (Ω 1494) │ 14 (Ω 1999) │
+│ 037 │                 We Are │              DEUX │    K-POP │ 05 (Ω 1130) │ 09 (Ω 1684) │ 12 (Ω 2090) │
+│ 038 │        She Likes Pizza │             BanYa │ ORIGINAL │ 08 (Ω 1548) │ 09 (Ω 1712) │ 14 (Ω 2315) │
+│ 039 │             First Love │             BanYa │ ORIGINAL │ 04 (Ω 0662) │ 09 (Ω 1725) │ 16 (Ω 2240) │
+│ 040 │           Extravaganza │             BanYa │ ORIGINAL │ 07 (Ω 1885) │ 09 (Ω 1901) │ 11 (Ω 2299) │
+│ 041 │                The Rap │      Honey Family │    K-POP │ 02 (Ω 0407) │ 10 (Ω 1142) │ 13 (Ω 1801) │
+│ 042 │        Tell Me Tell Me │             S#arp │    K-POP │ 04 (Ω 0590) │ 10 (Ω 1285) │ 13 (Ω 1634) │
+│ 043 │              Disco Bus │     Kim Hyun Jung │    K-POP │ 05 (Ω 1105) │ 10 (Ω 1305) │ 15 (Ω 2453) │
+│ 044 │             Free Style │             BanYa │ ORIGINAL │ 06 (Ω 1105) │ 10 (Ω 1422) │ 13 (Ω 1870) │
+│ 045 │           Forever Love │           Fin.K.L │    K-POP │ 02 (Ω 0315) │ 10 (Ω 1434) │ 15 (Ω 2569) │
+│ 046 │        Don't Bother Me │         Tashannie │    K-POP │ 05 (Ω 0794) │ 10 (Ω 1480) │ 14 (Ω 1767) │
+│ 047 │             Run to you │            DJ DOC │    K-POP │ 05 (Ω 0700) │ 10 (Ω 1502) │ 13 (Ω 2028) │
+│ 048 │              Puyo Puyo │              U.P. │    K-POP │ 03 (Ω 0538) │ 10 (Ω 1556) │ 12 (Ω 1565) │
+│ 049 │            Man / Woman │              Cool │    K-POP │ 05 (Ω 0785) │ 10 (Ω 1565) │ 15 (Ω 2380) │
+│ 050 │                Ok? Ok! │            DJ Doc │    K-POP │ 04 (Ω 0762) │ 10 (Ω 1565) │ 16 (Ω 2426) │
+│ 051 │                   Kiss │   Country Kko Kko │    K-POP │ 04 (Ω 0606) │ 10 (Ω 1579) │ 16 (Ω 2628) │
+│ 052 │          Lover's Grief │             G O D │    K-POP │ 02 (Ω 0491) │ 10 (Ω 1581) │ 16 (Ω 2033) │
+│ 053 │              Naissance │             BanYa │ ORIGINAL │ 07 (Ω 1262) │ 10 (Ω 1598) │ 14 (Ω 2572) │
+│ 054 │              Love Song │      Seung Jun Yu │    K-POP │ 04 (Ω 0595) │ 10 (Ω 1615) │ 16 (Ω 2890) │
+│ 055 │                 A Trap │        Baby V.O.X │    K-POP │ 05 (Ω 0945) │ 10 (Ω 1621) │ 11 (Ω 1794) │
+│ 056 │    Time to Say Goodbye │       Chanhwui So │    K-POP │ 06 (Ω 1122) │ 10 (Ω 1637) │ 16 (Ω 2643) │
+│ 057 │       Final Audition 2 │             BanYa │ ORIGINAL │ 08 (Ω 1466) │ 10 (Ω 1802) │ 16 (Ω 2608) │
+│ 058 │             Pumping Up │             BanYa │ ORIGINAL │ 04 (Ω 0892) │ 10 (Ω 1873) │ 12 (Ω 2192) │
+│ 059 │          With my Lover │             BanYa │ ORIGINAL │ 03 (Ω 0716) │ 10 (Ω 1877) │ 13 (Ω 2165) │
+│ 060 │        Close Your Eyes │             BanYa │ ORIGINAL │ 04 (Ω 0643) │ 11 (Ω 1504) │ 12 (Ω 1545) │
+│ 061 │                   Love │             S.E.S │    K-POP │ 02 (Ω 0384) │ 11 (Ω 1557) │ 15 (Ω 1665) │
+│ 062 │                Tell Me │          Jinusean │    K-POP │ 05 (Ω 1079) │ 11 (Ω 1732) │ 16 (Ω 2596) │
+│ 063 │             Mr. Larpus │             BanYa │ ORIGINAL │ 05 (Ω 0889) │ 11 (Ω 1887) │ 14 (Ω 2178) │
+│ 064 │                   Hate │             BanYa │ ORIGINAL │ 04 (Ω 0632) │ 12 (Ω 1447) │ 14 (Ω 1804) │
+│ 065 │              Curiosity │         Hans Band │    K-POP │ 03 (Ω 0665) │ 11 (Ω 1901) │ 16 (Ω 2403) │
+└─────┴────────────────────────┴───────────────────┴──────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - CRAZY:
+┌─────┬────────────────────────┬───────────────────┬──────────┬─────────────┬─────────────┬─────────────┐
+│  id │                  title │            artist │  channel │      normal │        hard │       crazy │
+├─────┼────────────────────────┼───────────────────┼──────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │             Come to Me │              Clon │    K-POP │ 04 (Ω 0568) │ 06 (Ω 0886) │ 11 (Ω 1608) │
+│ 001 │              Sad Salsa │     Baek Ji Young │    K-POP │ 03 (Ω 0454) │ 06 (Ω 0951) │ 11 (Ω 1629) │
+│ 002 │                 A Trap │        Baby V.O.X │    K-POP │ 05 (Ω 0945) │ 10 (Ω 1621) │ 11 (Ω 1794) │
+│ 003 │             First Love │              Clon │    K-POP │ 04 (Ω 0558) │ 07 (Ω 1323) │ 11 (Ω 1952) │
+│ 004 │         Summer of Love │            Roo'Ra │    K-POP │ 03 (Ω 0631) │ 08 (Ω 1402) │ 11 (Ω 2174) │
+│ 005 │           Extravaganza │             BanYa │ ORIGINAL │ 07 (Ω 1885) │ 09 (Ω 1901) │ 11 (Ω 2299) │
+│ 006 │                 Please │         Gunmo Kim │    K-POP │ 05 (Ω 0677) │ 06 (Ω 0677) │ 12 (Ω 1537) │
+│ 007 │        Close Your Eyes │             BanYa │ ORIGINAL │ 04 (Ω 0643) │ 11 (Ω 1504) │ 12 (Ω 1545) │
+│ 008 │              Puyo Puyo │              U.P. │    K-POP │ 03 (Ω 0538) │ 10 (Ω 1556) │ 12 (Ω 1565) │
+│ 009 │                   Koul │             BanYa │ ORIGINAL │ 04 (Ω 0264) │ 06 (Ω 0782) │ 12 (Ω 1604) │
+│ 010 │               Betrayer │             BanYa │ ORIGINAL │ 05 (Ω 0819) │ 08 (Ω 1309) │ 12 (Ω 1652) │
+│ 011 │          Midnight Blue │             BanYa │ ORIGINAL │ 03 (Ω 0311) │ 08 (Ω 0938) │ 12 (Ω 1707) │
+│ 012 │           Mobius Strip │        Sechs Kies │    K-POP │ 04 (Ω 0979) │ 06 (Ω 1063) │ 12 (Ω 2055) │
+│ 013 │                 We Are │              DEUX │    K-POP │ 05 (Ω 1130) │ 09 (Ω 1684) │ 12 (Ω 2090) │
+│ 014 │           Turkey March │             BanYa │ ORIGINAL │ 04 (Ω 0703) │ 07 (Ω 1582) │ 12 (Ω 2095) │
+│ 015 │             Pumping Up │             BanYa │ ORIGINAL │ 04 (Ω 0892) │ 10 (Ω 1873) │ 12 (Ω 2192) │
+│ 016 │        Tell Me Tell Me │             S#arp │    K-POP │ 04 (Ω 0590) │ 10 (Ω 1285) │ 13 (Ω 1634) │
+│ 017 │                The Rap │      Honey Family │    K-POP │ 02 (Ω 0407) │ 10 (Ω 1142) │ 13 (Ω 1801) │
+│ 018 │             Free Style │             BanYa │ ORIGINAL │ 06 (Ω 1105) │ 10 (Ω 1422) │ 13 (Ω 1870) │
+│ 019 │            Pom Pom Pom │         Sechskies │    K-POP │ 02 (Ω 0255) │ 07 (Ω 0994) │ 13 (Ω 1982) │
+│ 020 │             Run to you │            DJ DOC │    K-POP │ 05 (Ω 0700) │ 10 (Ω 1502) │ 13 (Ω 2028) │
+│ 021 │            Heart Break │         Sungmo Jo │    K-POP │ 05 (Ω 0818) │ 08 (Ω 1324) │ 13 (Ω 2031) │
+│ 022 │    An Interesting View │             BanYa │ ORIGINAL │ 05 (Ω 0703) │ 09 (Ω 1111) │ 13 (Ω 2085) │
+│ 023 │          With my Lover │             BanYa │ ORIGINAL │ 03 (Ω 0716) │ 10 (Ω 1877) │ 13 (Ω 2165) │
+│ 024 │               Oh! Rosa │             BanYa │ ORIGINAL │ 02 (Ω 0409) │ 07 (Ω 1565) │ 13 (Ω 2335) │
+│ 025 │                 Hatred │         Novasonic │    K-POP │ 05 (Ω 0835) │ 06 (Ω 1127) │ 13 (Ω 2393) │
+│ 026 │             To the Top │ 6Mill Bionic Juno │    K-POP │ 03 (Ω 0423) │ 07 (Ω 1034) │ 14 (Ω 1702) │
+│ 027 │        Don't Bother Me │         Tashannie │    K-POP │ 05 (Ω 0794) │ 10 (Ω 1480) │ 14 (Ω 1767) │
+│ 028 │                   Hate │             BanYa │ ORIGINAL │ 04 (Ω 0632) │ 12 (Ω 1447) │ 14 (Ω 1804) │
+│ 029 │          Funky Tonight │              CLON │    K-POP │ 02 (Ω 0272) │ 05 (Ω 0678) │ 14 (Ω 1978) │
+│ 030 │            A Nightmare │             BanYa │ ORIGINAL │ 04 (Ω 0771) │ 09 (Ω 1494) │ 14 (Ω 1999) │
+│ 031 │             Mr. Larpus │             BanYa │ ORIGINAL │ 05 (Ω 0889) │ 11 (Ω 1887) │ 14 (Ω 2178) │
+│ 032 │        She Likes Pizza │             BanYa │ ORIGINAL │ 08 (Ω 1548) │ 09 (Ω 1712) │ 14 (Ω 2315) │
+│ 033 │              Naissance │             BanYa │ ORIGINAL │ 07 (Ω 1262) │ 10 (Ω 1598) │ 14 (Ω 2572) │
+│ 034 │               I Want U │     Drunken Tiger │    K-POP │ 02 (Ω 0390) │ 09 (Ω 1028) │ 15 (Ω 1636) │
+│ 035 │                   Love │             S.E.S │    K-POP │ 02 (Ω 0384) │ 11 (Ω 1557) │ 15 (Ω 1665) │
+│ 036 │              Black Cat │             Turbo │    K-POP │ 04 (Ω 0601) │ 06 (Ω 0905) │ 15 (Ω 1978) │
+│ 037 │                 I-Yah! │             H.O.T │    K-POP │ 04 (Ω 0612) │ 08 (Ω 1126) │ 15 (Ω 2093) │
+│ 038 │       Fighting Spirits │             H.O.T │    K-POP │ 02 (Ω 0401) │ 08 (Ω 1276) │ 15 (Ω 2094) │
+│ 039 │ What Do U Really Want? │         Monocrome │    K-POP │ 04 (Ω 0626) │ 09 (Ω 1355) │ 15 (Ω 2108) │
+│ 040 │        Ignition Starts │             BanYa │ ORIGINAL │ 03 (Ω 0457) │ 08 (Ω 0961) │ 15 (Ω 2138) │
+│ 041 │                   Love │           Click-B │    K-POP │ 05 (Ω 0880) │ 09 (Ω 1322) │ 15 (Ω 2170) │
+│ 042 │   No Particular Reason │      Mikyung Park │    K-POP │ 04 (Ω 0538) │ 08 (Ω 1132) │ 15 (Ω 2229) │
+│ 043 │                 Rewind │      Kangshin Lee │    K-POP │ 03 (Ω 0575) │ 09 (Ω 1364) │ 15 (Ω 2291) │
+│ 044 │          Another Truth │         Novasonic │    K-POP │ 05 (Ω 1049) │ 08 (Ω 1500) │ 15 (Ω 2370) │
+│ 045 │            Man / Woman │              Cool │    K-POP │ 05 (Ω 0785) │ 10 (Ω 1565) │ 15 (Ω 2380) │
+│ 046 │              Disco Bus │     Kim Hyun Jung │    K-POP │ 05 (Ω 1105) │ 10 (Ω 1305) │ 15 (Ω 2453) │
+│ 047 │               Hypnosis │             BanYa │ ORIGINAL │ 04 (Ω 0667) │ 07 (Ω 1105) │ 15 (Ω 2474) │
+│ 048 │           Forever Love │           Fin.K.L │    K-POP │ 02 (Ω 0315) │ 10 (Ω 1434) │ 15 (Ω 2569) │
+│ 049 │               Com'Back │        Sechs Kies │    K-POP │ 04 (Ω 0930) │ 06 (Ω 1216) │ 15 (Ω 2592) │
+│ 050 │                   RUN! │         Novasonic │    K-POP │ 04 (Ω 0809) │ 08 (Ω 1365) │ 15 (Ω 2611) │
+│ 051 │          Lover's Grief │             G O D │    K-POP │ 02 (Ω 0491) │ 10 (Ω 1581) │ 16 (Ω 2033) │
+│ 052 │                  Fever │            Cho PD │    K-POP │ 04 (Ω 0554) │ 06 (Ω 1033) │ 16 (Ω 2058) │
+│ 053 │             First Love │             BanYa │ ORIGINAL │ 04 (Ω 0662) │ 09 (Ω 1725) │ 16 (Ω 2240) │
+│ 054 │              Curiosity │         Hans Band │    K-POP │ 03 (Ω 0665) │ 11 (Ω 1901) │ 16 (Ω 2403) │
+│ 055 │                Ok? Ok! │            DJ Doc │    K-POP │ 04 (Ω 0762) │ 10 (Ω 1565) │ 16 (Ω 2426) │
+│ 056 │                Tell Me │          Jinusean │    K-POP │ 05 (Ω 1079) │ 11 (Ω 1732) │ 16 (Ω 2596) │
+│ 057 │       Final Audition 2 │             BanYa │ ORIGINAL │ 08 (Ω 1466) │ 10 (Ω 1802) │ 16 (Ω 2608) │
+│ 058 │                Passion │      Seungjun Yoo │    K-POP │ 02 (Ω 0300) │ 06 (Ω 0766) │ 16 (Ω 2622) │
+│ 059 │    Separation With Her │     Kim Hyun Jung │    K-POP │ 07 (Ω 1219) │ 09 (Ω 1358) │ 16 (Ω 2623) │
+│ 060 │                   Kiss │   Country Kko Kko │    K-POP │ 04 (Ω 0606) │ 10 (Ω 1579) │ 16 (Ω 2628) │
+│ 061 │    Time to Say Goodbye │       Chanhwui So │    K-POP │ 06 (Ω 1122) │ 10 (Ω 1637) │ 16 (Ω 2643) │
+│ 062 │  I Don't Know Anything │       Junghwa Uhm │    K-POP │ 03 (Ω 0635) │ 08 (Ω 1177) │ 16 (Ω 2745) │
+│ 063 │              Love Song │      Seung Jun Yu │    K-POP │ 04 (Ω 0595) │ 10 (Ω 1615) │ 16 (Ω 2890) │
+│ 064 │         Final Audition │             BanYa │ ORIGINAL │ 06 (Ω 1150) │ 07 (Ω 1100) │ 17 (Ω 2562) │
+│ 065 │               Solitary │             BanYa │ ORIGINAL │ 06 (Ω 1124) │ 09 (Ω 1485) │ 16 (Ω 2896) │
+└─────┴────────────────────────┴───────────────────┴──────────┴─────────────┴─────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 22
+K-POP: 44
+WORLD MUSIC: 0
+TOTAL: 66
+
+----------
+
+Custom levels:
+- Come to Me (Clon): 4 - 6 - 11
+- Funky Tonight: 2 - 5 - 14
+- What Do U Really Want: 4 - 9 - 15
+
+Custom order:
+- Curiosity: 11 -> 12
+- Extravaganza: 7 -> 8
+- Solitary: 16 -> 17
+
+Removed:
+- Creamy Skinny

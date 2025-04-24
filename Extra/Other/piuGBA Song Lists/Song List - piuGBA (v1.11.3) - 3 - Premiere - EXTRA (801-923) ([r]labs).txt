@@ -1,0 +1,188 @@
+SONG LIST - NORMAL:
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                   Holiday │               F2 Original │    ORIGINAL │ 01 (Ω 0234) │ 07 (Ω 1116) │ 15 (Ω 2709) │
+│ 001 │             It's my Party │                    Thalia │ WORLD MUSIC │ 01 (Ω 0307) │ 08 (Ω 1240) │ 14 (Ω 2205) │
+│ 002 │                   Bambole │             Papa Gonzales │ WORLD MUSIC │ 02 (Ω 0439) │ 09 (Ω 1480) │ 11 (Ω 1728) │
+│ 003 │                     Hello │                     BanYa │    ORIGINAL │ 02 (Ω 0489) │ 07 (Ω 1402) │ 16 (Ω 2564) │
+│ 004 │         Master of Puppets │                 Metallica │ WORLD MUSIC │ 02 (Ω 0766) │ 06 (Ω 1053) │ 17 (Ω 2816) │
+│ 005 │ Let's Get the Party Start │                      Pink │ WORLD MUSIC │ 03 (Ω 0394) │ 10 (Ω 1551) │ 20 (Ω 3048) │
+│ 006 │                 Objection │                   Shakira │ WORLD MUSIC │ 03 (Ω 0453) │ 12 (Ω 1528) │ 15 (Ω 2335) │
+│ 007 │             Burning Krypt │    B Legit, 2Wice / 4Tray │ WORLD MUSIC │ 03 (Ω 0528) │ 06 (Ω 0856) │ 11 (Ω 1411) │
+│ 008 │            The Rap: Act 3 │              Honey Family │       K-POP │ 03 (Ω 0555) │ 06 (Ω 1048) │ 14 (Ω 1852) │
+│ 009 │              Eres Para Mi │                  Mozquito │ WORLD MUSIC │ 03 (Ω 0580) │ 06 (Ω 1028) │ 12 (Ω 2028) │
+│ 010 │              DJ Nightmare │     Rodney O / Joe Cooley │ WORLD MUSIC │ 03 (Ω 0597) │ 05 (Ω 0911) │ 15 (Ω 2470) │
+│ 011 │              Monkey Magic │                  E-PAK-SA │       K-POP │ 03 (Ω 0681) │ 07 (Ω 1503) │ 11 (Ω 1982) │
+│ 012 │              Circus Magic │                Crying Nut │       K-POP │ 03 (Ω 0728) │ 10 (Ω 1674) │ 17 (Ω 2584) │
+│ 013 │                     Music │                   Madonna │ WORLD MUSIC │ 04 (Ω 0516) │ 11 (Ω 1587) │ 17 (Ω 2489) │
+│ 014 │                Come to Me │                     Banya │    ORIGINAL │ 04 (Ω 0528) │ 06 (Ω 0776) │ 11 (Ω 1675) │
+│ 015 │          Let the Sunshine │ Lisa Cool / The South Spi │ WORLD MUSIC │ 04 (Ω 0567) │ 07 (Ω 1233) │ 13 (Ω 1743) │
+│ 016 │       Final Audition Ep.1 │                     BanYa │    ORIGINAL │ 04 (Ω 0571) │ 08 (Ω 1686) │ 15 (Ω 2324) │
+│ 017 │                   Can Can │               F2 Original │    ORIGINAL │ 04 (Ω 0671) │ 08 (Ω 1312) │ 14 (Ω 2229) │
+│ 018 │           Flower of Night │               People Crew │       K-POP │ 04 (Ω 0686) │ 06 (Ω 1228) │ 14 (Ω 1890) │
+│ 019 │                   Mistake │                     U-Too │       K-POP │ 04 (Ω 0719) │ 06 (Ω 1022) │ 11 (Ω 1728) │
+│ 020 │     You Don't Wanna Runup │     Rodney O / Joe Cooley │ WORLD MUSIC │ 04 (Ω 0722) │ 07 (Ω 1381) │ 12 (Ω 1925) │
+│ 021 │                 Mexi Mexi │                  Mozquito │ WORLD MUSIC │ 04 (Ω 0774) │ 06 (Ω 1122) │ 13 (Ω 1971) │
+│ 022 │              Funky Jockey │                     B.O.K │       K-POP │ 04 (Ω 0785) │ 06 (Ω 1151) │ 15 (Ω 2228) │
+│ 023 │              On Your Side │                  Kay Kent │ WORLD MUSIC │ 04 (Ω 0815) │ 06 (Ω 1042) │ 16 (Ω 2448) │
+│ 024 │                       Bee │                     BanYa │    ORIGINAL │ 04 (Ω 0855) │ 11 (Ω 1758) │ 15 (Ω 2465) │
+│ 025 │                     Conga │               Queen Latin │ WORLD MUSIC │ 04 (Ω 0865) │ 08 (Ω 1206) │ 15 (Ω 2340) │
+│ 026 │            Move Your Head │              Tin Tin Five │       K-POP │ 04 (Ω 0878) │ 06 (Ω 1391) │ 12 (Ω 2061) │
+│ 027 │                 Wayo Wayo │                   O.P.P.A │       K-POP │ 04 (Ω 0998) │ 06 (Ω 1274) │ 16 (Ω 2639) │
+│ 028 │                 Lovething │                  Down Low │ WORLD MUSIC │ 05 (Ω 0639) │ 09 (Ω 1061) │ 11 (Ω 1359) │
+│ 029 │       Wish You Could Find │             Yoo Seung Jun │       K-POP │ 05 (Ω 0771) │ 06 (Ω 1035) │ 13 (Ω 2262) │
+│ 030 │                Ferry Boat │                   DJ. DOC │       K-POP │ 05 (Ω 0774) │ 06 (Ω 1240) │ 13 (Ω 1739) │
+│ 031 │                   Starian │                      DUKE │       K-POP │ 05 (Ω 0804) │ 07 (Ω 1284) │ 13 (Ω 1884) │
+│ 032 │               Blind Faith │                      O-24 │       K-POP │ 05 (Ω 0824) │ 12 (Ω 1584) │ 15 (Ω 2067) │
+│ 033 │   Can You Feel Dis or Dat │                     2Wice │ WORLD MUSIC │ 05 (Ω 0828) │ 10 (Ω 1730) │ 15 (Ω 2195) │
+│ 034 │          Lazenca, Save Us │                    N.EX.T │       K-POP │ 05 (Ω 0847) │ 14 (Ω 1543) │ 15 (Ω 1236) │
+│ 035 │               Just a Girl │                  No Doubt │ WORLD MUSIC │ 05 (Ω 0891) │ 11 (Ω 1399) │ 17 (Ω 2422) │
+│ 036 │               Lay it Down │                    Fresno │ WORLD MUSIC │ 05 (Ω 0901) │ 07 (Ω 1145) │ 15 (Ω 2172) │
+│ 037 │                 Big Money │                    X-Teen │       K-POP │ 05 (Ω 0981) │ 12 (Ω 1579) │ 13 (Ω 1889) │
+│ 038 │                 Trash Man │                    N.EX.T │       K-POP │ 05 (Ω 0995) │ 11 (Ω 2248) │ 14 (Ω 2569) │
+│ 039 │           Out of the Ring │                      Deux │       K-POP │ 05 (Ω 1074) │ 08 (Ω 1347) │ 14 (Ω 1991) │
+│ 040 │         Empire of the Sun │                 Novasonic │       K-POP │ 05 (Ω 1090) │ 06 (Ω 1063) │ 11 (Ω 1754) │
+│ 041 │           Beat of The War │                     Banya │    ORIGINAL │ 05 (Ω 1122) │ 10 (Ω 1820) │ 15 (Ω 2426) │
+│ 042 │     Fiest A Macarena Pt.1 │                  DJ Paula │ WORLD MUSIC │ 05 (Ω 1275) │ 07 (Ω 1406) │ 16 (Ω 2987) │
+│ 043 │                   Pierrot │               Lee Hyun Do │       K-POP │ 06 (Ω 0899) │ 07 (Ω 0899) │ 14 (Ω 1827) │
+│ 044 │            Join the Party │                      Gans │ WORLD MUSIC │ 06 (Ω 0999) │ 11 (Ω 1140) │ 12 (Ω 1474) │
+│ 045 │                 Everybody │            Carlos T.Quila │ WORLD MUSIC │ 06 (Ω 1003) │ 08 (Ω 1249) │ 16 (Ω 2183) │
+│ 046 │              Chicken Wing │                     BanYa │    ORIGINAL │ 06 (Ω 1123) │ 10 (Ω 1857) │ 17 (Ω 3135) │
+│ 047 │                    D Gang │                     BanYa │    ORIGINAL │ 06 (Ω 1155) │ 09 (Ω 1585) │ 18 (Ω 2628) │
+│ 048 │           Clap Your Hands │    Scoop feat. Joyce Lyle │ WORLD MUSIC │ 06 (Ω 1217) │ 10 (Ω 1873) │ 14 (Ω 2492) │
+│ 049 │   First Love (Techno Mix) │                      Clon │       K-POP │ 06 (Ω 1350) │ 10 (Ω 1750) │ 12 (Ω 1915) │
+│ 050 │                     Loner │                    T.T.Ma │       K-POP │ 06 (Ω 1422) │ 10 (Ω 1818) │ 15 (Ω 2585) │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - HARD:
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │              DJ Nightmare │     Rodney O / Joe Cooley │ WORLD MUSIC │ 03 (Ω 0597) │ 05 (Ω 0911) │ 15 (Ω 2470) │
+│ 001 │                Come to Me │                     Banya │    ORIGINAL │ 04 (Ω 0528) │ 06 (Ω 0776) │ 11 (Ω 1675) │
+│ 002 │             Burning Krypt │    B Legit, 2Wice / 4Tray │ WORLD MUSIC │ 03 (Ω 0528) │ 06 (Ω 0856) │ 11 (Ω 1411) │
+│ 003 │                   Mistake │                     U-Too │       K-POP │ 04 (Ω 0719) │ 06 (Ω 1022) │ 11 (Ω 1728) │
+│ 004 │              Eres Para Mi │                  Mozquito │ WORLD MUSIC │ 03 (Ω 0580) │ 06 (Ω 1028) │ 12 (Ω 2028) │
+│ 005 │       Wish You Could Find │             Yoo Seung Jun │       K-POP │ 05 (Ω 0771) │ 06 (Ω 1035) │ 13 (Ω 2262) │
+│ 006 │              On Your Side │                  Kay Kent │ WORLD MUSIC │ 04 (Ω 0815) │ 06 (Ω 1042) │ 16 (Ω 2448) │
+│ 007 │            The Rap: Act 3 │              Honey Family │       K-POP │ 03 (Ω 0555) │ 06 (Ω 1048) │ 14 (Ω 1852) │
+│ 008 │         Master of Puppets │                 Metallica │ WORLD MUSIC │ 02 (Ω 0766) │ 06 (Ω 1053) │ 17 (Ω 2816) │
+│ 009 │         Empire of the Sun │                 Novasonic │       K-POP │ 05 (Ω 1090) │ 06 (Ω 1063) │ 11 (Ω 1754) │
+│ 010 │                 Mexi Mexi │                  Mozquito │ WORLD MUSIC │ 04 (Ω 0774) │ 06 (Ω 1122) │ 13 (Ω 1971) │
+│ 011 │              Funky Jockey │                     B.O.K │       K-POP │ 04 (Ω 0785) │ 06 (Ω 1151) │ 15 (Ω 2228) │
+│ 012 │           Flower of Night │               People Crew │       K-POP │ 04 (Ω 0686) │ 06 (Ω 1228) │ 14 (Ω 1890) │
+│ 013 │                Ferry Boat │                   DJ. DOC │       K-POP │ 05 (Ω 0774) │ 06 (Ω 1240) │ 13 (Ω 1739) │
+│ 014 │                 Wayo Wayo │                   O.P.P.A │       K-POP │ 04 (Ω 0998) │ 06 (Ω 1274) │ 16 (Ω 2639) │
+│ 015 │            Move Your Head │              Tin Tin Five │       K-POP │ 04 (Ω 0878) │ 06 (Ω 1391) │ 12 (Ω 2061) │
+│ 016 │                   Pierrot │               Lee Hyun Do │       K-POP │ 06 (Ω 0899) │ 07 (Ω 0899) │ 14 (Ω 1827) │
+│ 017 │                   Holiday │               F2 Original │    ORIGINAL │ 01 (Ω 0234) │ 07 (Ω 1116) │ 15 (Ω 2709) │
+│ 018 │               Lay it Down │                    Fresno │ WORLD MUSIC │ 05 (Ω 0901) │ 07 (Ω 1145) │ 15 (Ω 2172) │
+│ 019 │          Let the Sunshine │ Lisa Cool / The South Spi │ WORLD MUSIC │ 04 (Ω 0567) │ 07 (Ω 1233) │ 13 (Ω 1743) │
+│ 020 │                   Starian │                      DUKE │       K-POP │ 05 (Ω 0804) │ 07 (Ω 1284) │ 13 (Ω 1884) │
+│ 021 │     You Don't Wanna Runup │     Rodney O / Joe Cooley │ WORLD MUSIC │ 04 (Ω 0722) │ 07 (Ω 1381) │ 12 (Ω 1925) │
+│ 022 │                     Hello │                     BanYa │    ORIGINAL │ 02 (Ω 0489) │ 07 (Ω 1402) │ 16 (Ω 2564) │
+│ 023 │     Fiest A Macarena Pt.1 │                  DJ Paula │ WORLD MUSIC │ 05 (Ω 1275) │ 07 (Ω 1406) │ 16 (Ω 2987) │
+│ 024 │              Monkey Magic │                  E-PAK-SA │       K-POP │ 03 (Ω 0681) │ 07 (Ω 1503) │ 11 (Ω 1982) │
+│ 025 │                     Conga │               Queen Latin │ WORLD MUSIC │ 04 (Ω 0865) │ 08 (Ω 1206) │ 15 (Ω 2340) │
+│ 026 │             It's my Party │                    Thalia │ WORLD MUSIC │ 01 (Ω 0307) │ 08 (Ω 1240) │ 14 (Ω 2205) │
+│ 027 │                 Everybody │            Carlos T.Quila │ WORLD MUSIC │ 06 (Ω 1003) │ 08 (Ω 1249) │ 16 (Ω 2183) │
+│ 028 │                   Can Can │               F2 Original │    ORIGINAL │ 04 (Ω 0671) │ 08 (Ω 1312) │ 14 (Ω 2229) │
+│ 029 │           Out of the Ring │                      Deux │       K-POP │ 05 (Ω 1074) │ 08 (Ω 1347) │ 14 (Ω 1991) │
+│ 030 │       Final Audition Ep.1 │                     BanYa │    ORIGINAL │ 04 (Ω 0571) │ 08 (Ω 1686) │ 15 (Ω 2324) │
+│ 031 │                 Lovething │                  Down Low │ WORLD MUSIC │ 05 (Ω 0639) │ 09 (Ω 1061) │ 11 (Ω 1359) │
+│ 032 │                   Bambole │             Papa Gonzales │ WORLD MUSIC │ 02 (Ω 0439) │ 09 (Ω 1480) │ 11 (Ω 1728) │
+│ 033 │                    D Gang │                     BanYa │    ORIGINAL │ 06 (Ω 1155) │ 09 (Ω 1585) │ 18 (Ω 2628) │
+│ 034 │ Let's Get the Party Start │                      Pink │ WORLD MUSIC │ 03 (Ω 0394) │ 10 (Ω 1551) │ 20 (Ω 3048) │
+│ 035 │              Circus Magic │                Crying Nut │       K-POP │ 03 (Ω 0728) │ 10 (Ω 1674) │ 17 (Ω 2584) │
+│ 036 │   Can You Feel Dis or Dat │                     2Wice │ WORLD MUSIC │ 05 (Ω 0828) │ 10 (Ω 1730) │ 15 (Ω 2195) │
+│ 037 │   First Love (Techno Mix) │                      Clon │       K-POP │ 06 (Ω 1350) │ 10 (Ω 1750) │ 12 (Ω 1915) │
+│ 038 │                     Loner │                    T.T.Ma │       K-POP │ 06 (Ω 1422) │ 10 (Ω 1818) │ 15 (Ω 2585) │
+│ 039 │           Beat of The War │                     Banya │    ORIGINAL │ 05 (Ω 1122) │ 10 (Ω 1820) │ 15 (Ω 2426) │
+│ 040 │              Chicken Wing │                     BanYa │    ORIGINAL │ 06 (Ω 1123) │ 10 (Ω 1857) │ 17 (Ω 3135) │
+│ 041 │           Clap Your Hands │    Scoop feat. Joyce Lyle │ WORLD MUSIC │ 06 (Ω 1217) │ 10 (Ω 1873) │ 14 (Ω 2492) │
+│ 042 │            Join the Party │                      Gans │ WORLD MUSIC │ 06 (Ω 0999) │ 11 (Ω 1140) │ 12 (Ω 1474) │
+│ 043 │               Just a Girl │                  No Doubt │ WORLD MUSIC │ 05 (Ω 0891) │ 11 (Ω 1399) │ 17 (Ω 2422) │
+│ 044 │                     Music │                   Madonna │ WORLD MUSIC │ 04 (Ω 0516) │ 11 (Ω 1587) │ 17 (Ω 2489) │
+│ 045 │                       Bee │                     BanYa │    ORIGINAL │ 04 (Ω 0855) │ 11 (Ω 1758) │ 15 (Ω 2465) │
+│ 046 │                 Trash Man │                    N.EX.T │       K-POP │ 05 (Ω 0995) │ 11 (Ω 2248) │ 14 (Ω 2569) │
+│ 047 │                 Objection │                   Shakira │ WORLD MUSIC │ 03 (Ω 0453) │ 12 (Ω 1528) │ 15 (Ω 2335) │
+│ 048 │                 Big Money │                    X-Teen │       K-POP │ 05 (Ω 0981) │ 12 (Ω 1579) │ 13 (Ω 1889) │
+│ 049 │               Blind Faith │                      O-24 │       K-POP │ 05 (Ω 0824) │ 12 (Ω 1584) │ 15 (Ω 2067) │
+│ 050 │          Lazenca, Save Us │                    N.EX.T │       K-POP │ 05 (Ω 0847) │ 14 (Ω 1543) │ 15 (Ω 1236) │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - CRAZY:
+┌─────┬───────────────────────────┬───────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                    artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼───────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                 Lovething │                  Down Low │ WORLD MUSIC │ 05 (Ω 0639) │ 09 (Ω 1061) │ 11 (Ω 1359) │
+│ 001 │             Burning Krypt │    B Legit, 2Wice / 4Tray │ WORLD MUSIC │ 03 (Ω 0528) │ 06 (Ω 0856) │ 11 (Ω 1411) │
+│ 002 │                Come to Me │                     Banya │    ORIGINAL │ 04 (Ω 0528) │ 06 (Ω 0776) │ 11 (Ω 1675) │
+│ 003 │                   Bambole │             Papa Gonzales │ WORLD MUSIC │ 02 (Ω 0439) │ 09 (Ω 1480) │ 11 (Ω 1728) │
+│ 004 │                   Mistake │                     U-Too │       K-POP │ 04 (Ω 0719) │ 06 (Ω 1022) │ 11 (Ω 1728) │
+│ 005 │         Empire of the Sun │                 Novasonic │       K-POP │ 05 (Ω 1090) │ 06 (Ω 1063) │ 11 (Ω 1754) │
+│ 006 │              Monkey Magic │                  E-PAK-SA │       K-POP │ 03 (Ω 0681) │ 07 (Ω 1503) │ 11 (Ω 1982) │
+│ 007 │            Join the Party │                      Gans │ WORLD MUSIC │ 06 (Ω 0999) │ 11 (Ω 1140) │ 12 (Ω 1474) │
+│ 008 │   First Love (Techno Mix) │                      Clon │       K-POP │ 06 (Ω 1350) │ 10 (Ω 1750) │ 12 (Ω 1915) │
+│ 009 │     You Don't Wanna Runup │     Rodney O / Joe Cooley │ WORLD MUSIC │ 04 (Ω 0722) │ 07 (Ω 1381) │ 12 (Ω 1925) │
+│ 010 │              Eres Para Mi │                  Mozquito │ WORLD MUSIC │ 03 (Ω 0580) │ 06 (Ω 1028) │ 12 (Ω 2028) │
+│ 011 │            Move Your Head │              Tin Tin Five │       K-POP │ 04 (Ω 0878) │ 06 (Ω 1391) │ 12 (Ω 2061) │
+│ 012 │                Ferry Boat │                   DJ. DOC │       K-POP │ 05 (Ω 0774) │ 06 (Ω 1240) │ 13 (Ω 1739) │
+│ 013 │          Let the Sunshine │ Lisa Cool / The South Spi │ WORLD MUSIC │ 04 (Ω 0567) │ 07 (Ω 1233) │ 13 (Ω 1743) │
+│ 014 │                   Starian │                      DUKE │       K-POP │ 05 (Ω 0804) │ 07 (Ω 1284) │ 13 (Ω 1884) │
+│ 015 │                 Big Money │                    X-Teen │       K-POP │ 05 (Ω 0981) │ 12 (Ω 1579) │ 13 (Ω 1889) │
+│ 016 │                 Mexi Mexi │                  Mozquito │ WORLD MUSIC │ 04 (Ω 0774) │ 06 (Ω 1122) │ 13 (Ω 1971) │
+│ 017 │       Wish You Could Find │             Yoo Seung Jun │       K-POP │ 05 (Ω 0771) │ 06 (Ω 1035) │ 13 (Ω 2262) │
+│ 018 │                   Pierrot │               Lee Hyun Do │       K-POP │ 06 (Ω 0899) │ 07 (Ω 0899) │ 14 (Ω 1827) │
+│ 019 │            The Rap: Act 3 │              Honey Family │       K-POP │ 03 (Ω 0555) │ 06 (Ω 1048) │ 14 (Ω 1852) │
+│ 020 │           Flower of Night │               People Crew │       K-POP │ 04 (Ω 0686) │ 06 (Ω 1228) │ 14 (Ω 1890) │
+│ 021 │           Out of the Ring │                      Deux │       K-POP │ 05 (Ω 1074) │ 08 (Ω 1347) │ 14 (Ω 1991) │
+│ 022 │             It's my Party │                    Thalia │ WORLD MUSIC │ 01 (Ω 0307) │ 08 (Ω 1240) │ 14 (Ω 2205) │
+│ 023 │                   Can Can │               F2 Original │    ORIGINAL │ 04 (Ω 0671) │ 08 (Ω 1312) │ 14 (Ω 2229) │
+│ 024 │           Clap Your Hands │    Scoop feat. Joyce Lyle │ WORLD MUSIC │ 06 (Ω 1217) │ 10 (Ω 1873) │ 14 (Ω 2492) │
+│ 025 │                 Trash Man │                    N.EX.T │       K-POP │ 05 (Ω 0995) │ 11 (Ω 2248) │ 14 (Ω 2569) │
+│ 026 │          Lazenca, Save Us │                    N.EX.T │       K-POP │ 05 (Ω 0847) │ 14 (Ω 1543) │ 15 (Ω 1236) │
+│ 027 │               Blind Faith │                      O-24 │       K-POP │ 05 (Ω 0824) │ 12 (Ω 1584) │ 15 (Ω 2067) │
+│ 028 │               Lay it Down │                    Fresno │ WORLD MUSIC │ 05 (Ω 0901) │ 07 (Ω 1145) │ 15 (Ω 2172) │
+│ 029 │   Can You Feel Dis or Dat │                     2Wice │ WORLD MUSIC │ 05 (Ω 0828) │ 10 (Ω 1730) │ 15 (Ω 2195) │
+│ 030 │              Funky Jockey │                     B.O.K │       K-POP │ 04 (Ω 0785) │ 06 (Ω 1151) │ 15 (Ω 2228) │
+│ 031 │       Final Audition Ep.1 │                     BanYa │    ORIGINAL │ 04 (Ω 0571) │ 08 (Ω 1686) │ 15 (Ω 2324) │
+│ 032 │                 Objection │                   Shakira │ WORLD MUSIC │ 03 (Ω 0453) │ 12 (Ω 1528) │ 15 (Ω 2335) │
+│ 033 │                     Conga │               Queen Latin │ WORLD MUSIC │ 04 (Ω 0865) │ 08 (Ω 1206) │ 15 (Ω 2340) │
+│ 034 │           Beat of The War │                     Banya │    ORIGINAL │ 05 (Ω 1122) │ 10 (Ω 1820) │ 15 (Ω 2426) │
+│ 035 │                       Bee │                     BanYa │    ORIGINAL │ 04 (Ω 0855) │ 11 (Ω 1758) │ 15 (Ω 2465) │
+│ 036 │              DJ Nightmare │     Rodney O / Joe Cooley │ WORLD MUSIC │ 03 (Ω 0597) │ 05 (Ω 0911) │ 15 (Ω 2470) │
+│ 037 │                     Loner │                    T.T.Ma │       K-POP │ 06 (Ω 1422) │ 10 (Ω 1818) │ 15 (Ω 2585) │
+│ 038 │                   Holiday │               F2 Original │    ORIGINAL │ 01 (Ω 0234) │ 07 (Ω 1116) │ 15 (Ω 2709) │
+│ 039 │                 Everybody │            Carlos T.Quila │ WORLD MUSIC │ 06 (Ω 1003) │ 08 (Ω 1249) │ 16 (Ω 2183) │
+│ 040 │              On Your Side │                  Kay Kent │ WORLD MUSIC │ 04 (Ω 0815) │ 06 (Ω 1042) │ 16 (Ω 2448) │
+│ 041 │                     Hello │                     BanYa │    ORIGINAL │ 02 (Ω 0489) │ 07 (Ω 1402) │ 16 (Ω 2564) │
+│ 042 │                 Wayo Wayo │                   O.P.P.A │       K-POP │ 04 (Ω 0998) │ 06 (Ω 1274) │ 16 (Ω 2639) │
+│ 043 │     Fiest A Macarena Pt.1 │                  DJ Paula │ WORLD MUSIC │ 05 (Ω 1275) │ 07 (Ω 1406) │ 16 (Ω 2987) │
+│ 044 │               Just a Girl │                  No Doubt │ WORLD MUSIC │ 05 (Ω 0891) │ 11 (Ω 1399) │ 17 (Ω 2422) │
+│ 045 │                     Music │                   Madonna │ WORLD MUSIC │ 04 (Ω 0516) │ 11 (Ω 1587) │ 17 (Ω 2489) │
+│ 046 │              Circus Magic │                Crying Nut │       K-POP │ 03 (Ω 0728) │ 10 (Ω 1674) │ 17 (Ω 2584) │
+│ 047 │         Master of Puppets │                 Metallica │ WORLD MUSIC │ 02 (Ω 0766) │ 06 (Ω 1053) │ 17 (Ω 2816) │
+│ 048 │                    D Gang │                     BanYa │    ORIGINAL │ 06 (Ω 1155) │ 09 (Ω 1585) │ 18 (Ω 2628) │
+│ 049 │              Chicken Wing │                     BanYa │    ORIGINAL │ 06 (Ω 1123) │ 10 (Ω 1857) │ 17 (Ω 3135) │
+│ 050 │ Let's Get the Party Start │                      Pink │ WORLD MUSIC │ 03 (Ω 0394) │ 10 (Ω 1551) │ 20 (Ω 3048) │
+└─────┴───────────────────────────┴───────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 9
+K-POP: 20
+WORLD MUSIC: 22
+TOTAL: 51
+
+----------
+
+Custom levels:
+- Chicken Wing: 6 - 10 - 17
+- DJ Nightmare: 3 - 5 - 15
+- Loner: 6 - 10 - 15
+- Lazenca Save Us: 5 - 14 - 15
+
+Custom order:
+- Chicken Wing: 17 -> 18

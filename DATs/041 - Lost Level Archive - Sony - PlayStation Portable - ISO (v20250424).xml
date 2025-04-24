@@ -223,6 +223,10 @@
 		<description>ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown)</description>
 		<rom name="ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown).iso" size="1621264384" crc="60ab455f" md5="c02afdf831c8afb1b791a17c9a520ee0" sha1="b64e8b93d1aca796b5e7fa61f318ce1422ccfd9c" />
 	</game>
+	<game name="Valkyria Chronicles II (USA) (Ru) (Unknown)">
+		<description>Valkyria Chronicles II (USA) (Ru) (Unknown)</description>
+		<rom name="Valkyria Chronicles II (USA) (Ru) (Unknown).iso" size="1085827072" crc="b6ca8358" md5="caf27893d19a265a2b401c7f5f3d704c" sha1="eae7bf2dc51aaa5a0ed4eda231cfea40b81cf201" />
+	</game>
 	<game name="Valkyria Chronicles 2 (USA) (Undub)">
 		<description>Valkyria Chronicles 2 (USA) (Undub)</description>
 		<rom name="Valkyria Chronicles 2 (USA) (Undub).iso" size="1028814848" crc="3c6e1b95" md5="38c986832f630fa158952b5a0e8d97e2" sha1="85ac3da0a9ada2e942adcb84b3f0ff4dc9616f1b" />

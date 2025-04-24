@@ -1,0 +1,189 @@
+SONG LIST - NORMAL:
+┌─────┬───────────────────────────┬──────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                   artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼──────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                   Kiss Me │             Debbie Scott │ WORLD MUSIC │ 01 (Ω 0338) │ 06 (Ω 1132) │ 14 (Ω 1753) │
+│ 001 │            Power of Dream │                 Victoria │ WORLD MUSIC │ 01 (Ω 0373) │ 07 (Ω 1267) │ 14 (Ω 2099) │
+│ 002 │  What Do You Really Want? │                    Crash │       K-POP │ 02 (Ω 0326) │ 09 (Ω 1479) │ 14 (Ω 2171) │
+│ 003 │                   Go Away │                      BMK │       K-POP │ 02 (Ω 0338) │ 06 (Ω 0819) │ 11 (Ω 2050) │
+│ 004 │   Oh! Rosa (Spanish ver.) │                    Banya │    ORIGINAL │ 02 (Ω 0409) │ 07 (Ω 1565) │ 13 (Ω 2335) │
+│ 005 │                  Flamenco │                   Oliver │       K-POP │ 02 (Ω 0557) │ 06 (Ω 1183) │ 11 (Ω 1523) │
+│ 006 │                   Canon D │                    BanYa │    ORIGINAL │ 03 (Ω 0406) │ 07 (Ω 1336) │ 20 (Ω 3052) │
+│ 007 │                  Too Late │                    Shyne │       K-POP │ 03 (Ω 0477) │ 05 (Ω 0884) │ 11 (Ω 1669) │
+│ 008 │                        Go │                    U:Nee │       K-POP │ 03 (Ω 0509) │ 07 (Ω 1322) │ 12 (Ω 1733) │
+│ 009 │ A Little Less Conversatio │      Elvis vs. Junkie XL │ WORLD MUSIC │ 03 (Ω 0511) │ 05 (Ω 0985) │ 13 (Ω 2078) │
+│ 010 │               Naissance 2 │                    BanYa │    ORIGINAL │ 03 (Ω 0521) │ 06 (Ω 1315) │ 13 (Ω 2062) │
+│ 011 │                         U │                  Ju Dain │       K-POP │ 03 (Ω 0527) │ 06 (Ω 1200) │ 11 (Ω 1579) │
+│ 012 │              Essa Maneira │                    Kaoma │ WORLD MUSIC │ 03 (Ω 0544) │ 07 (Ω 1343) │ 13 (Ω 1893) │
+│ 013 │          Rapper's Delight │           Sugarhill Gang │ WORLD MUSIC │ 03 (Ω 0552) │ 05 (Ω 0867) │ 13 (Ω 2088) │
+│ 014 │                 Foxy Lady │                   Harisu │       K-POP │ 03 (Ω 0598) │ 06 (Ω 1178) │ 13 (Ω 1790) │
+│ 015 │         Shake That Bootie │                   OneTwo │       K-POP │ 03 (Ω 0629) │ 06 (Ω 0985) │ 14 (Ω 1874) │
+│ 016 │              Huu Yah Yeah │                     Y-Me │       K-POP │ 03 (Ω 0634) │ 06 (Ω 1344) │ 12 (Ω 2035) │
+│ 017 │                   Deja Vu │                     SOM2 │       K-POP │ 03 (Ω 0643) │ 06 (Ω 1065) │ 13 (Ω 1704) │
+│ 018 │               Lion's Roar │              Lee Hyun Do │       K-POP │ 03 (Ω 0655) │ 06 (Ω 0908) │ 13 (Ω 1877) │
+│ 019 │                     Hi-Bi │                    BanYa │    ORIGINAL │ 03 (Ω 0670) │ 08 (Ω 1393) │ 15 (Ω 2624) │
+│ 020 │                   Blazing │                    BanYa │    ORIGINAL │ 03 (Ω 0701) │ 06 (Ω 1199) │ 15 (Ω 2711) │
+│ 021 │               Shake it Up │                      ROD │ WORLD MUSIC │ 04 (Ω 0510) │ 09 (Ω 1285) │ 15 (Ω 2332) │
+│ 022 │ I'll Give You All My Love │                      Wax │       K-POP │ 04 (Ω 0616) │ 07 (Ω 1272) │ 16 (Ω 2720) │
+│ 023 │               La Cubanita │        Los Ninos de Sara │ WORLD MUSIC │ 04 (Ω 0636) │ 09 (Ω 1256) │ 15 (Ω 2410) │
+│ 024 │                   X Treme │                    BanYa │    ORIGINAL │ 04 (Ω 0647) │ 09 (Ω 1866) │ 14 (Ω 2585) │
+│ 025 │ First Love (Spanish ver.) │                    Banya │    ORIGINAL │ 04 (Ω 0662) │ 09 (Ω 1725) │ 13 (Ω 1854) │
+│ 026 │                    Fiesta │                  El Cuba │ WORLD MUSIC │ 04 (Ω 0693) │ 07 (Ω 1173) │ 11 (Ω 1817) │
+│ 027 │                      Pray │                     Som2 │       K-POP │ 04 (Ω 0711) │ 09 (Ω 1446) │ 14 (Ω 2193) │
+│ 028 │                Solitary 2 │                    BanYa │    ORIGINAL │ 04 (Ω 0748) │ 06 (Ω 1174) │ 17 (Ω 3066) │
+│ 029 │                   Get Up! │                    BanYa │    ORIGINAL │ 04 (Ω 0782) │ 08 (Ω 1760) │ 13 (Ω 2412) │
+│ 030 │         Walkie Talkie Man │               Steriogram │ WORLD MUSIC │ 04 (Ω 0873) │ 08 (Ω 1567) │ 17 (Ω 3092) │
+│ 031 │           Ba Be Loo Be Ra │                 Kristeen │ WORLD MUSIC │ 04 (Ω 1060) │ 10 (Ω 1624) │ 15 (Ω 2432) │
+│ 032 │              Let's Groove │       Earth, Wind / Fire │ WORLD MUSIC │ 05 (Ω 0649) │ 09 (Ω 1143) │ 13 (Ω 1801) │
+│ 033 │                   Valenti │                      BoA │       K-POP │ 05 (Ω 0659) │ 10 (Ω 1248) │ 13 (Ω 1680) │
+│ 034 │                  Eternity │             Uhm Jung Hwa │       K-POP │ 05 (Ω 0793) │ 09 (Ω 1302) │ 16 (Ω 2602) │
+│ 035 │         Drunken in Melody │               Eun Ji Won │       K-POP │ 05 (Ω 0838) │ 10 (Ω 1541) │ 13 (Ω 1941) │
+│ 036 │                    J Bong │                    BanYa │    ORIGINAL │ 05 (Ω 0861) │ 07 (Ω 1336) │ 13 (Ω 2718) │
+│ 037 │          Final Audition 3 │                    BanYa │    ORIGINAL │ 05 (Ω 0942) │ 06 (Ω 1265) │ 14 (Ω 2129) │
+│ 038 │              Xibom Bombom │            Los Del Ritmo │ WORLD MUSIC │ 05 (Ω 0953) │ 08 (Ω 1539) │ 14 (Ω 2087) │
+│ 039 │           Pump me Amadeus │                    BanYa │    ORIGINAL │ 05 (Ω 0956) │ 09 (Ω 1907) │ 17 (Ω 3003) │
+│ 040 │            Monkey Fingers │                    BanYa │    ORIGINAL │ 05 (Ω 0976) │ 08 (Ω 2141) │ 15 (Ω 2424) │
+│ 041 │                  One Love │                    S'Max │       K-POP │ 05 (Ω 0977) │ 10 (Ω 1442) │ 15 (Ω 2330) │
+│ 042 │     Soca Make Yuh Ram Ram │            General Grant │ WORLD MUSIC │ 05 (Ω 0980) │ 10 (Ω 1705) │ 18 (Ω 2121) │
+│ 043 │                   Dignity │                    Crash │       K-POP │ 05 (Ω 1008) │ 14 (Ω 2217) │ 20 (Ω 3408) │
+│ 044 │                   Typhoon │              Lee Hyun Do │       K-POP │ 05 (Ω 1058) │ 10 (Ω 1496) │ 16 (Ω 2362) │
+│ 045 │          Born to be Alive │ P. Hernandez / B. Thomas │ WORLD MUSIC │ 05 (Ω 1282) │ 07 (Ω 1305) │ 12 (Ω 2004) │
+│ 046 │                 Watch Out │                 Victoria │ WORLD MUSIC │ 06 (Ω 0825) │ 10 (Ω 1856) │ 16 (Ω 1910) │
+│ 047 │                       HOT │                     1Tym │       K-POP │ 06 (Ω 0852) │ 10 (Ω 1535) │ 15 (Ω 2160) │
+│ 048 │             We Don't Stop │              Asoto Union │       K-POP │ 06 (Ω 1003) │ 09 (Ω 1693) │ 16 (Ω 2505) │
+│ 049 │ Le Code de Bonne Conduite │                  Manresa │ WORLD MUSIC │ 05 (Ω 1613) │ 09 (Ω 1746) │ 12 (Ω 1970) │
+└─────┴───────────────────────────┴──────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - HARD:
+┌─────┬───────────────────────────┬──────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                   artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼──────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │          Rapper's Delight │           Sugarhill Gang │ WORLD MUSIC │ 03 (Ω 0552) │ 05 (Ω 0867) │ 13 (Ω 2088) │
+│ 001 │                  Too Late │                    Shyne │       K-POP │ 03 (Ω 0477) │ 05 (Ω 0884) │ 11 (Ω 1669) │
+│ 002 │ A Little Less Conversatio │      Elvis vs. Junkie XL │ WORLD MUSIC │ 03 (Ω 0511) │ 05 (Ω 0985) │ 13 (Ω 2078) │
+│ 003 │                   Go Away │                      BMK │       K-POP │ 02 (Ω 0338) │ 06 (Ω 0819) │ 11 (Ω 2050) │
+│ 004 │               Lion's Roar │              Lee Hyun Do │       K-POP │ 03 (Ω 0655) │ 06 (Ω 0908) │ 13 (Ω 1877) │
+│ 005 │         Shake That Bootie │                   OneTwo │       K-POP │ 03 (Ω 0629) │ 06 (Ω 0985) │ 14 (Ω 1874) │
+│ 006 │                   Deja Vu │                     SOM2 │       K-POP │ 03 (Ω 0643) │ 06 (Ω 1065) │ 13 (Ω 1704) │
+│ 007 │                   Kiss Me │             Debbie Scott │ WORLD MUSIC │ 01 (Ω 0338) │ 06 (Ω 1132) │ 14 (Ω 1753) │
+│ 008 │                Solitary 2 │                    BanYa │    ORIGINAL │ 04 (Ω 0748) │ 06 (Ω 1174) │ 17 (Ω 3066) │
+│ 009 │                 Foxy Lady │                   Harisu │       K-POP │ 03 (Ω 0598) │ 06 (Ω 1178) │ 13 (Ω 1790) │
+│ 010 │                  Flamenco │                   Oliver │       K-POP │ 02 (Ω 0557) │ 06 (Ω 1183) │ 11 (Ω 1523) │
+│ 011 │                   Blazing │                    BanYa │    ORIGINAL │ 03 (Ω 0701) │ 06 (Ω 1199) │ 15 (Ω 2711) │
+│ 012 │                         U │                  Ju Dain │       K-POP │ 03 (Ω 0527) │ 06 (Ω 1200) │ 11 (Ω 1579) │
+│ 013 │          Final Audition 3 │                    BanYa │    ORIGINAL │ 05 (Ω 0942) │ 06 (Ω 1265) │ 14 (Ω 2129) │
+│ 014 │               Naissance 2 │                    BanYa │    ORIGINAL │ 03 (Ω 0521) │ 06 (Ω 1315) │ 13 (Ω 2062) │
+│ 015 │              Huu Yah Yeah │                     Y-Me │       K-POP │ 03 (Ω 0634) │ 06 (Ω 1344) │ 12 (Ω 2035) │
+│ 016 │                    Fiesta │                  El Cuba │ WORLD MUSIC │ 04 (Ω 0693) │ 07 (Ω 1173) │ 11 (Ω 1817) │
+│ 017 │            Power of Dream │                 Victoria │ WORLD MUSIC │ 01 (Ω 0373) │ 07 (Ω 1267) │ 14 (Ω 2099) │
+│ 018 │ I'll Give You All My Love │                      Wax │       K-POP │ 04 (Ω 0616) │ 07 (Ω 1272) │ 16 (Ω 2720) │
+│ 019 │          Born to be Alive │ P. Hernandez / B. Thomas │ WORLD MUSIC │ 05 (Ω 1282) │ 07 (Ω 1305) │ 12 (Ω 2004) │
+│ 020 │                        Go │                    U:Nee │       K-POP │ 03 (Ω 0509) │ 07 (Ω 1322) │ 12 (Ω 1733) │
+│ 021 │                    J Bong │                    BanYa │    ORIGINAL │ 05 (Ω 0861) │ 07 (Ω 1336) │ 13 (Ω 2718) │
+│ 022 │                   Canon D │                    BanYa │    ORIGINAL │ 03 (Ω 0406) │ 07 (Ω 1336) │ 20 (Ω 3052) │
+│ 023 │              Essa Maneira │                    Kaoma │ WORLD MUSIC │ 03 (Ω 0544) │ 07 (Ω 1343) │ 13 (Ω 1893) │
+│ 024 │   Oh! Rosa (Spanish ver.) │                    Banya │    ORIGINAL │ 02 (Ω 0409) │ 07 (Ω 1565) │ 13 (Ω 2335) │
+│ 025 │                     Hi-Bi │                    BanYa │    ORIGINAL │ 03 (Ω 0670) │ 08 (Ω 1393) │ 15 (Ω 2624) │
+│ 026 │              Xibom Bombom │            Los Del Ritmo │ WORLD MUSIC │ 05 (Ω 0953) │ 08 (Ω 1539) │ 14 (Ω 2087) │
+│ 027 │         Walkie Talkie Man │               Steriogram │ WORLD MUSIC │ 04 (Ω 0873) │ 08 (Ω 1567) │ 17 (Ω 3092) │
+│ 028 │                   Get Up! │                    BanYa │    ORIGINAL │ 04 (Ω 0782) │ 08 (Ω 1760) │ 13 (Ω 2412) │
+│ 029 │            Monkey Fingers │                    BanYa │    ORIGINAL │ 05 (Ω 0976) │ 08 (Ω 2141) │ 15 (Ω 2424) │
+│ 030 │              Let's Groove │       Earth, Wind / Fire │ WORLD MUSIC │ 05 (Ω 0649) │ 09 (Ω 1143) │ 13 (Ω 1801) │
+│ 031 │               La Cubanita │        Los Ninos de Sara │ WORLD MUSIC │ 04 (Ω 0636) │ 09 (Ω 1256) │ 15 (Ω 2410) │
+│ 032 │               Shake it Up │                      ROD │ WORLD MUSIC │ 04 (Ω 0510) │ 09 (Ω 1285) │ 15 (Ω 2332) │
+│ 033 │                  Eternity │             Uhm Jung Hwa │       K-POP │ 05 (Ω 0793) │ 09 (Ω 1302) │ 16 (Ω 2602) │
+│ 034 │                      Pray │                     Som2 │       K-POP │ 04 (Ω 0711) │ 09 (Ω 1446) │ 14 (Ω 2193) │
+│ 035 │  What Do You Really Want? │                    Crash │       K-POP │ 02 (Ω 0326) │ 09 (Ω 1479) │ 14 (Ω 2171) │
+│ 036 │             We Don't Stop │              Asoto Union │       K-POP │ 06 (Ω 1003) │ 09 (Ω 1693) │ 16 (Ω 2505) │
+│ 037 │ First Love (Spanish ver.) │                    Banya │    ORIGINAL │ 04 (Ω 0662) │ 09 (Ω 1725) │ 13 (Ω 1854) │
+│ 038 │ Le Code de Bonne Conduite │                  Manresa │ WORLD MUSIC │ 05 (Ω 1613) │ 09 (Ω 1746) │ 12 (Ω 1970) │
+│ 039 │                   X Treme │                    BanYa │    ORIGINAL │ 04 (Ω 0647) │ 09 (Ω 1866) │ 14 (Ω 2585) │
+│ 040 │           Pump me Amadeus │                    BanYa │    ORIGINAL │ 05 (Ω 0956) │ 09 (Ω 1907) │ 17 (Ω 3003) │
+│ 041 │                   Valenti │                      BoA │       K-POP │ 05 (Ω 0659) │ 10 (Ω 1248) │ 13 (Ω 1680) │
+│ 042 │                  One Love │                    S'Max │       K-POP │ 05 (Ω 0977) │ 10 (Ω 1442) │ 15 (Ω 2330) │
+│ 043 │                   Typhoon │              Lee Hyun Do │       K-POP │ 05 (Ω 1058) │ 10 (Ω 1496) │ 16 (Ω 2362) │
+│ 044 │                       HOT │                     1Tym │       K-POP │ 06 (Ω 0852) │ 10 (Ω 1535) │ 15 (Ω 2160) │
+│ 045 │         Drunken in Melody │               Eun Ji Won │       K-POP │ 05 (Ω 0838) │ 10 (Ω 1541) │ 13 (Ω 1941) │
+│ 046 │           Ba Be Loo Be Ra │                 Kristeen │ WORLD MUSIC │ 04 (Ω 1060) │ 10 (Ω 1624) │ 15 (Ω 2432) │
+│ 047 │     Soca Make Yuh Ram Ram │            General Grant │ WORLD MUSIC │ 05 (Ω 0980) │ 10 (Ω 1705) │ 18 (Ω 2121) │
+│ 048 │                 Watch Out │                 Victoria │ WORLD MUSIC │ 06 (Ω 0825) │ 10 (Ω 1856) │ 16 (Ω 1910) │
+│ 049 │                   Dignity │                    Crash │       K-POP │ 05 (Ω 1008) │ 14 (Ω 2217) │ 20 (Ω 3408) │
+└─────┴───────────────────────────┴──────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SONG LIST - CRAZY:
+┌─────┬───────────────────────────┬──────────────────────────┬─────────────┬─────────────┬─────────────┬─────────────┐
+│  id │                     title │                   artist │     channel │      normal │        hard │       crazy │
+├─────┼───────────────────────────┼──────────────────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
+│ 000 │                  Flamenco │                   Oliver │       K-POP │ 02 (Ω 0557) │ 06 (Ω 1183) │ 11 (Ω 1523) │
+│ 001 │                         U │                  Ju Dain │       K-POP │ 03 (Ω 0527) │ 06 (Ω 1200) │ 11 (Ω 1579) │
+│ 002 │                  Too Late │                    Shyne │       K-POP │ 03 (Ω 0477) │ 05 (Ω 0884) │ 11 (Ω 1669) │
+│ 003 │                    Fiesta │                  El Cuba │ WORLD MUSIC │ 04 (Ω 0693) │ 07 (Ω 1173) │ 11 (Ω 1817) │
+│ 004 │                   Go Away │                      BMK │       K-POP │ 02 (Ω 0338) │ 06 (Ω 0819) │ 11 (Ω 2050) │
+│ 005 │                        Go │                    U:Nee │       K-POP │ 03 (Ω 0509) │ 07 (Ω 1322) │ 12 (Ω 1733) │
+│ 006 │ Le Code de Bonne Conduite │                  Manresa │ WORLD MUSIC │ 05 (Ω 1613) │ 09 (Ω 1746) │ 12 (Ω 1970) │
+│ 007 │          Born to be Alive │ P. Hernandez / B. Thomas │ WORLD MUSIC │ 05 (Ω 1282) │ 07 (Ω 1305) │ 12 (Ω 2004) │
+│ 008 │              Huu Yah Yeah │                     Y-Me │       K-POP │ 03 (Ω 0634) │ 06 (Ω 1344) │ 12 (Ω 2035) │
+│ 009 │                   Valenti │                      BoA │       K-POP │ 05 (Ω 0659) │ 10 (Ω 1248) │ 13 (Ω 1680) │
+│ 010 │                   Deja Vu │                     SOM2 │       K-POP │ 03 (Ω 0643) │ 06 (Ω 1065) │ 13 (Ω 1704) │
+│ 011 │                 Foxy Lady │                   Harisu │       K-POP │ 03 (Ω 0598) │ 06 (Ω 1178) │ 13 (Ω 1790) │
+│ 012 │              Let's Groove │       Earth, Wind / Fire │ WORLD MUSIC │ 05 (Ω 0649) │ 09 (Ω 1143) │ 13 (Ω 1801) │
+│ 013 │ First Love (Spanish ver.) │                    Banya │    ORIGINAL │ 04 (Ω 0662) │ 09 (Ω 1725) │ 13 (Ω 1854) │
+│ 014 │               Lion's Roar │              Lee Hyun Do │       K-POP │ 03 (Ω 0655) │ 06 (Ω 0908) │ 13 (Ω 1877) │
+│ 015 │              Essa Maneira │                    Kaoma │ WORLD MUSIC │ 03 (Ω 0544) │ 07 (Ω 1343) │ 13 (Ω 1893) │
+│ 016 │         Drunken in Melody │               Eun Ji Won │       K-POP │ 05 (Ω 0838) │ 10 (Ω 1541) │ 13 (Ω 1941) │
+│ 017 │               Naissance 2 │                    BanYa │    ORIGINAL │ 03 (Ω 0521) │ 06 (Ω 1315) │ 13 (Ω 2062) │
+│ 018 │ A Little Less Conversatio │      Elvis vs. Junkie XL │ WORLD MUSIC │ 03 (Ω 0511) │ 05 (Ω 0985) │ 13 (Ω 2078) │
+│ 019 │          Rapper's Delight │           Sugarhill Gang │ WORLD MUSIC │ 03 (Ω 0552) │ 05 (Ω 0867) │ 13 (Ω 2088) │
+│ 020 │   Oh! Rosa (Spanish ver.) │                    Banya │    ORIGINAL │ 02 (Ω 0409) │ 07 (Ω 1565) │ 13 (Ω 2335) │
+│ 021 │                   Get Up! │                    BanYa │    ORIGINAL │ 04 (Ω 0782) │ 08 (Ω 1760) │ 13 (Ω 2412) │
+│ 022 │                    J Bong │                    BanYa │    ORIGINAL │ 05 (Ω 0861) │ 07 (Ω 1336) │ 13 (Ω 2718) │
+│ 023 │                   Kiss Me │             Debbie Scott │ WORLD MUSIC │ 01 (Ω 0338) │ 06 (Ω 1132) │ 14 (Ω 1753) │
+│ 024 │         Shake That Bootie │                   OneTwo │       K-POP │ 03 (Ω 0629) │ 06 (Ω 0985) │ 14 (Ω 1874) │
+│ 025 │              Xibom Bombom │            Los Del Ritmo │ WORLD MUSIC │ 05 (Ω 0953) │ 08 (Ω 1539) │ 14 (Ω 2087) │
+│ 026 │            Power of Dream │                 Victoria │ WORLD MUSIC │ 01 (Ω 0373) │ 07 (Ω 1267) │ 14 (Ω 2099) │
+│ 027 │          Final Audition 3 │                    BanYa │    ORIGINAL │ 05 (Ω 0942) │ 06 (Ω 1265) │ 14 (Ω 2129) │
+│ 028 │  What Do You Really Want? │                    Crash │       K-POP │ 02 (Ω 0326) │ 09 (Ω 1479) │ 14 (Ω 2171) │
+│ 029 │                      Pray │                     Som2 │       K-POP │ 04 (Ω 0711) │ 09 (Ω 1446) │ 14 (Ω 2193) │
+│ 030 │                   X Treme │                    BanYa │    ORIGINAL │ 04 (Ω 0647) │ 09 (Ω 1866) │ 14 (Ω 2585) │
+│ 031 │                       HOT │                     1Tym │       K-POP │ 06 (Ω 0852) │ 10 (Ω 1535) │ 15 (Ω 2160) │
+│ 032 │                  One Love │                    S'Max │       K-POP │ 05 (Ω 0977) │ 10 (Ω 1442) │ 15 (Ω 2330) │
+│ 033 │               Shake it Up │                      ROD │ WORLD MUSIC │ 04 (Ω 0510) │ 09 (Ω 1285) │ 15 (Ω 2332) │
+│ 034 │               La Cubanita │        Los Ninos de Sara │ WORLD MUSIC │ 04 (Ω 0636) │ 09 (Ω 1256) │ 15 (Ω 2410) │
+│ 035 │            Monkey Fingers │                    BanYa │    ORIGINAL │ 05 (Ω 0976) │ 08 (Ω 2141) │ 15 (Ω 2424) │
+│ 036 │           Ba Be Loo Be Ra │                 Kristeen │ WORLD MUSIC │ 04 (Ω 1060) │ 10 (Ω 1624) │ 15 (Ω 2432) │
+│ 037 │                     Hi-Bi │                    BanYa │    ORIGINAL │ 03 (Ω 0670) │ 08 (Ω 1393) │ 15 (Ω 2624) │
+│ 038 │                   Blazing │                    BanYa │    ORIGINAL │ 03 (Ω 0701) │ 06 (Ω 1199) │ 15 (Ω 2711) │
+│ 039 │                 Watch Out │                 Victoria │ WORLD MUSIC │ 06 (Ω 0825) │ 10 (Ω 1856) │ 16 (Ω 1910) │
+│ 040 │                   Typhoon │              Lee Hyun Do │       K-POP │ 05 (Ω 1058) │ 10 (Ω 1496) │ 16 (Ω 2362) │
+│ 041 │             We Don't Stop │              Asoto Union │       K-POP │ 06 (Ω 1003) │ 09 (Ω 1693) │ 16 (Ω 2505) │
+│ 042 │                  Eternity │             Uhm Jung Hwa │       K-POP │ 05 (Ω 0793) │ 09 (Ω 1302) │ 16 (Ω 2602) │
+│ 043 │ I'll Give You All My Love │                      Wax │       K-POP │ 04 (Ω 0616) │ 07 (Ω 1272) │ 16 (Ω 2720) │
+│ 044 │           Pump me Amadeus │                    BanYa │    ORIGINAL │ 05 (Ω 0956) │ 09 (Ω 1907) │ 17 (Ω 3003) │
+│ 045 │                Solitary 2 │                    BanYa │    ORIGINAL │ 04 (Ω 0748) │ 06 (Ω 1174) │ 17 (Ω 3066) │
+│ 046 │         Walkie Talkie Man │               Steriogram │ WORLD MUSIC │ 04 (Ω 0873) │ 08 (Ω 1567) │ 17 (Ω 3092) │
+│ 047 │     Soca Make Yuh Ram Ram │            General Grant │ WORLD MUSIC │ 05 (Ω 0980) │ 10 (Ω 1705) │ 18 (Ω 2121) │
+│ 048 │                   Canon D │                    BanYa │    ORIGINAL │ 03 (Ω 0406) │ 07 (Ω 1336) │ 20 (Ω 3052) │
+│ 049 │                   Dignity │                    Crash │       K-POP │ 05 (Ω 1008) │ 14 (Ω 2217) │ 20 (Ω 3408) │
+└─────┴───────────────────────────┴──────────────────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+
+SUMMARY:
+
+ORIGINAL: 13
+K-POP: 21
+WORLD MUSIC: 16
+TOTAL: 50
+
+----------
+
+Custom levels:
+- Dignity: 5 - 14 - 20
+
+Custom order:
+- Le Code de Bonne Conduite: 5 -> 6
+
+Other fixes:
+- Hot (s15): Removed mines
+
+Removed:
+- Greenhorn
+- Name of the Game

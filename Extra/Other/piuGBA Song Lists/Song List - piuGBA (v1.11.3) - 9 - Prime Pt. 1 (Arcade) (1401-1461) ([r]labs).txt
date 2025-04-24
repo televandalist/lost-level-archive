@@ -1,0 +1,69 @@
+┌─────┬───────────────────────────┬───────────────────────────┬──────────┐
+│  id │                     title │                    artist │  channel │
+├─────┼───────────────────────────┼───────────────────────────┼──────────┤
+│ 000 │                   Nemesis │                       M2U │ ORIGINAL │
+│ 001 │                    Katkoi │                       M2U │ ORIGINAL │
+│ 002 │              Latino Virus │                     Warak │ ORIGINAL │
+│ 003 │                   Elysium │                     Warak │ ORIGINAL │
+│ 004 │               Yog Sothoth │                      Nato │ ORIGINAL │
+│ 005 │         Silhouette Effect │                      Nato │ ORIGINAL │
+│ 006 │        Chinese Restaurant │                     Memme │ ORIGINAL │
+│ 007 │                 Avalanche │                     MEMME │ ORIGINAL │
+│ 008 │               Force of Ra │                      MEME │ ORIGINAL │
+│ 009 │                   Requiem │                       MAX │ ORIGINAL │
+│ 010 │            U Got Me Crazy │                       MAX │ ORIGINAL │
+│ 011 │                        B2 │                       MAX │ ORIGINAL │
+│ 012 │                 Meteorize │              Paul Bazooka │ ORIGINAL │
+│ 013 │                Mad5cience │              Paul Bazooka │ ORIGINAL │
+│ 014 │                    Hestia │              Gentle Stick │ ORIGINAL │
+│ 015 │                Amphitryon │              Gentle Stick │ ORIGINAL │
+│ 016 │           Leakage Voltage │                      Doin │ ORIGINAL │
+│ 017 │           Removable Disk0 │                      Doin │ ORIGINAL │
+│ 018 │             Super Fantasy │                       SHK │ ORIGINAL │
+│ 019 │            Violet Perfume │                       SHK │ ORIGINAL │
+│ 020 │                  Red Swan │                     Yahpp │ ORIGINAL │
+│ 021 │                  Hyacinth │                     Yahpp │ ORIGINAL │
+│ 022 │ Blazing Emotion Band Vers │                     YAHHP │ ORIGINAL │
+│ 023 │                      1950 │                      SLAM │ ORIGINAL │
+│ 024 │   Sugar Conspiracy Theory │                       MAX │ ORIGINAL │
+│ 025 │         Allegro PIU Mosso │                 DM Ashura │ ORIGINAL │
+│ 026 │        Annihilator Method │                 DM Ashura │ ORIGINAL │
+│ 027 │            Move That Body │ DM Ashura feat. Skizzo /  │ ORIGINAL │
+│ 028 │            Rock The House │                   Matduke │ ORIGINAL │
+│ 029 │             Scorpion King │                     r300k │ ORIGINAL │
+│ 030 │            Point Zero One │                 Synthwulf │ ORIGINAL │
+│ 031 │                  Red Snow │                    Cashew │ ORIGINAL │
+│ 032 │                Campanella │                    Cashew │ ORIGINAL │
+│ 033 │         You Again My Love │ CYO Style / Henohenomohej │ ORIGINAL │
+│ 034 │              Robot Battle │                 Cyo Style │ ORIGINAL │
+│ 035 │               Bar Bar Bar │                Crayon Pop │ ORIGINAL │
+│ 036 │                 On and On │                      VIXX │ ORIGINAL │
+│ 037 │                     Elvis │                       AOA │ ORIGINAL │
+│ 038 │                 Very Good │                   Block B │ ORIGINAL │
+│ 039 │                 I'm Sorry │                    CNBLUE │ ORIGINAL │
+│ 040 │                   Pandora │                      Kara │ ORIGINAL │
+│ 041 │                     Venus │                   Shinwha │ ORIGINAL │
+│ 042 │         Hate, Don't Hate! │                Dal Shabet │ ORIGINAL │
+│ 043 │                Supermagic │              Supreme Team │ ORIGINAL │
+│ 044 │                Sugar Free │                     T-ara │ ORIGINAL │
+│ 045 │                       Her │                   Block B │ ORIGINAL │
+│ 046 │                    NoNoNo │                     Apink │ ORIGINAL │
+│ 047 │                     Loner │                  Outsider │ ORIGINAL │
+│ 048 │               Flying Duck │             Cherry Filter │ ORIGINAL │
+│ 049 │ Ineffective Boss Without  │                    Norazo │ ORIGINAL │
+│ 050 │                       One │                 Epik High │ ORIGINAL │
+│ 051 │            The Revolution │                MAX / DOOM │ ORIGINAL │
+│ 052 │               Selfishness │                 SID-Sound │ ORIGINAL │
+│ 053 │           Cosmical Rhythm │                 SID-Sound │ ORIGINAL │
+│ 054 │                Dolly KiSS │                       MAX │ ORIGINAL │
+│ 055 │                   Matador │                    Cranky │ ORIGINAL │
+│ 056 │          Milky Way Galaxy │                       3R2 │ ORIGINAL │
+│ 057 │         Feel My Happiness │                       3R2 │ ORIGINAL │
+└─────┴───────────────────────────┴───────────────────────────┴──────────┘
+
+SUMMARY:
+
+ORIGINAL: 58
+K-POP: 0
+WORLD MUSIC: 0
+TOTAL: 58
