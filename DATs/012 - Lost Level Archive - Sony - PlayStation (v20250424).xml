@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250422</version>
+		<version>v20250424</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -70,6 +70,11 @@
 		<description>Clay Fighter - Extreme (Apr 4, 1997 prototype)</description>
 		<rom name="ClayFighter Extreme (v1997-04-10) (Proto).bin" size="24500784" crc="d33c4307" md5="be5f92381e0089846376c8a52dd7ca91" sha1="a7da2f17d9d95169445de41cdde2fd93dfbc4ef9" />
 		<rom name="ClayFighter Extreme (v1997-04-10) (Proto).cue" size="105" crc="f8372aa8" md5="14af16360de83e112a252f8cebe612a0" sha1="b126499810357764ae7497a4df784dce3b127448" />
+	</game>
+	<game name="Dino Crisis 2 (USA) (Pt) (v1.0) (Nemesis Fandubs)">
+		<description>Dino Crisis 2 (USA) (Pt) (v1.0) (Nemesis Fandubs)</description>
+		<rom name="Dino Crisis 2 (USA) (Pt) (v1.0) (Nemesis Fandubs).bin" size="510720336" crc="f21969cc" md5="66132943b18e577cb125ac1335928b6a" sha1="38f0c0b45819f7ed16baa0da1beb1101504b7f56" />
+		<rom name="Dino Crisis 2 (USA) (Pt) (v1.0) (Nemesis Fandubs).cue" size="130" crc="b72cdf2b" md5="cf03044b11d8b3733558102283c7407b" sha1="2bd59dfe7c2214a3460b07f948d75e79089a12ad" />
 	</game>
 	<game name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen)">
 		<description>Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen)</description>

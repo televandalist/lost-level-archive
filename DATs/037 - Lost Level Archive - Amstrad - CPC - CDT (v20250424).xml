@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (CDT)</name>
 		<description>Amstrad - CPC (CDT)</description>
-		<version>v20250402</version>
+		<version>v20250424</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -191,6 +191,10 @@
 		<description>Perched! (2021) (Lumina Studio)</description>
 		<rom name="Perched! (2021) (CPCRetroDev 2021) (Lumina Studio).cdt" size="46250" crc="61ad6d7f" md5="359544eacb6ae24c95585ec2da8a4d08" sha1="15ede04249cb4eb5cdb15aa422240e1d640a6e4b" />
 	</game>
+	<game name="Postman Pat II (UK) (1989) (Alternative Software)">
+		<description>Postman Pat II (UK) (1989) (Alternative Software)</description>
+		<rom name="Postman Pat II (UK) (1989) (Alternative Software).cdt" size="66721" crc="ff7edaea" md5="f34cfe30dfd33420164a86244a5fb69d" sha1="efaf4280f2c6cf84918334e101e659962728fea5" />
+	</game>
 	<game name="Prelude to Chaos, A (2016) (EgoTrip)">
 		<description>Prelude to Chaos, A (2016) (EgoTrip)</description>
 	</game>
@@ -214,9 +218,17 @@
 		<description>Small Games for Smart Minds (2007) (ESP Soft)</description>
 		<rom name="Small Games for Smart Minds (2007) (ESP Soft).cdt" size="33108" crc="24def383" md5="e7c654c1d6b5ffd39928610aa212cb94" sha1="d6869fa3d6eb2b33b3be77dfec4b55059b4c130e" />
 	</game>
+	<game name="Snake (UK) (2021) (Version Basic 1.1) (LeoSoft)">
+		<description>Snake (UK) (2021) (Version Basic 1.1) (LeoSoft)</description>
+		<rom name="Snake (UK) (2021) (Version Basic 1.1) (LeoSoft).dsk" size="194816" crc="3a43fc57" md5="261b43933f7452c9c25cb1d77f00e9d3" sha1="3daa9390c180d8b181197f6992443fd28c1a8a06" />
+	</game>
 	<game name="Sorcerers (v1.1) (2020) (Salva Kantero)">
 		<description>Sorcerers (v1.1) (2020) (Salva Kantero)</description>
 		<rom name="Sorcerers (v1.1) (2020) (Salva Kantero).cdt" size="51478" crc="59ed69ec" md5="31be25b30026b18d6dc425387a5245c0" sha1="e7862031722cd5a1a02a89a2ee36e7383339f088" />
+	</game>
+	<game name="Sugar City (2023) (Voxel Tower)">
+		<description>Sugar City (2023) (Voxel Tower)</description>
+		<rom name="Sugar City (2023) (Voxel Tower).dsk" size="204544" crc="18cd7f48" md5="93c4a7e4ac32a1f8e3ecc905929e810d" sha1="5f3f55c9c7657b688c378d35fdb979388cdfa5d5" />
 	</game>
 	<game name="Survive the Week (2021) (En) (Carlos Pérezgrin)">
 		<description>Survive the Week (2021) (Carlos Pérezgrin)</description>

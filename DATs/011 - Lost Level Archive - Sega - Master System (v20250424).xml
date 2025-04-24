@@ -5,7 +5,7 @@
 		<id>011</id>
 		<name>011 - Lost Level Archive - Sega - Master System</name>
 		<description>Sega - Master System</description>
-		<version>v20250422</version>
+		<version>v20250424</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -38,6 +38,10 @@
 	<game name="Extreme Volleyballl Infernal League (World) (v1.0.6) (Aftermarket) (Unl)">
 		<description>Extreme Volleyballl Infernal League (World) (v1.0.6) (Aftermarket) (Unl)</description>
 		<rom name="Extreme Volleyballl Infernal League (World) (v1.0.6) (Aftermarket) (Unl).sms" size="524288" crc="82ef4bda" md5="8b12cc57e9e1baf8cc4165d7f8a210fe" sha1="fab2398562886662775d413ee8457231b9bd7660" />
+	</game>
+	<game name="Extreme Volleyballl Infernal League (World) (Steam) (v2.1.12) (Aftermarket) (Unl)">
+		<description>Extreme Volleyballl Infernal League (World) (Steam) (v2.1.12) (Aftermarket) (Unl)</description>
+		<rom name="Extreme Volleyballl Infernal League (World) (Steam) (v2.1.12) (Aftermarket) (Unl).sms" size="524288" crc="dc5c8a14" md5="a8516e8dc290dbaf92b1c82c394db115" sha1="9f40f3babfd1b2bfdf6aacba43952b06d9175dc1" />
 	</game>
 	<game name="Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)">
 		<description>Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)</description>
