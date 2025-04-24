@@ -147,11 +147,11 @@
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Track 26).bin" size="15974784" crc="3ACCF64E" md5="55E2C42BF0E9EE6D4C1D256D62054626" sha1="FD88923E10288CFEB8A500262E40E5B9B0FDB4C3"/>
 		<rom name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga).cue" size="3674" crc="4079D6C9" md5="39EB5C2068C2C18D2EBFF906C9F5DEC6" sha1="2449FCBB26DC339191AE9506CFA2AF858D69E732"/>
 	</game>
-	<game name="Medievil (USA) (Prototype) (1997-09-07) (SCEE)">
-		<description>Medievil (USA) (Prototype) (1997-09-07) (SCEE)</description>
-		<rom name="Medievil (USA) (Prototype) (1997-09-07) (SCEE) (Track 1).bin" size="321071520" crc="4bf61244" md5="d6685268d723bceae318ef38f78618fa" sha1="f33a64438bfef2c6514fe8d2529f16f29e9c8991" />
-		<rom name="Medievil (USA) (Prototype) (1997-09-07) (SCEE) (Track 2).bin" size="32970336" crc="9398f2c7" md5="42c47549179d745454b38082f3820cf5" sha1="b059e2710609eb3a79214805aa99f9361093a5ef" />
-		<rom name="Medievil (USA) (Prototype) (1997-09-07) (SCEE).cue" size="239" crc="77be67af" md5="cb9ce96c35c0b47c9f78357046f06950" sha1="49f95b9a052814ec914392c50c1f7ac04495237a" />
+	<game name="Medievil (USA) (Prototype) (1997-09-07) (All Levels, Debug2) (SCEE)">
+		<description>Medievil (USA) (Prototype) (1997-09-07) (All Levels, Debug2) (SCEE)</description>
+		<rom name="Medievil (USA) (Prototype) (1997-09-07) (All Levels, Debug2) (SCEE) (Track 1).bin" size="321071520" crc="4bf61244" md5="d6685268d723bceae318ef38f78618fa" sha1="f33a64438bfef2c6514fe8d2529f16f29e9c8991" />
+		<rom name="Medievil (USA) (Prototype) (1997-09-07) (All Levels, Debug2) (SCEE) (Track 2).bin" size="32970336" crc="9398f2c7" md5="42c47549179d745454b38082f3820cf5" sha1="b059e2710609eb3a79214805aa99f9361093a5ef" />
+		<rom name="Medievil (USA) (Prototype) (1997-09-07) (All Levels, Debug2) (SCEE).cue" size="281" crc="5ab63332" md5="8b1985437753ac990cbb96d383afb84d" sha1="3e2c8b966e631fe22da3c0c24022802bd393c633" />
 	</game>
 	<game name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)">
 		<description>Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)</description>
@@ -204,20 +204,20 @@
 		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).bin" size="627626496" crc="8277E2C3" md5="D7F9E75C03C5E73C5FAB5393FB02F486" sha1="9AEECC21E91BAA43FB7935BB43C77513A4636546"/>
 		<rom name="Net Yaroze Collection 2014 (World) (Net Yaroze) (Various).cue" size="121" crc="6BD72052" md5="59DA714172EB28D6B74692F439FFA00C" sha1="921CAC92A2F10F7D08749B23119975D78F4F38F0"/>
 	</game>
-	<game name="PETSCOP - Restored (NTSC) (v1.0) (Aftermarket) (NITROYUASH)">
-		<description>PETSCOP - Restored (NTSC) (v1.0) (Aftermarket) (NITROYUASH)</description>
-		<rom name="PETSCOP - Restored (NTSC) (v1.0) (Aftermarket) (NITROYUASH).bin" size="184088688" crc="0b9c3f72" md5="76fa4bdf13de6dac763b48cff4c26719" sha1="f0e8bbd635a2317e08d33d397d390d3a8dcff7ec" />
-		<rom name="PETSCOP - Restored (NTSC) (v1.0) (Aftermarket) (NITROYUASH).cue" size="125" crc="e7e8968e" md5="e0d1ce4240659bcb8c417c9c3ed1e70f" sha1="33bf21fb6b521f21f1f888da703f43fd1a5a8426" />
+	<game name="PETSCOP - Restored (NTSC) (Demo) (v1.0) (Aftermarket) (NITROYUASH)">
+		<description>PETSCOP - Restored (NTSC) (Demo) (v1.0) (Aftermarket) (NITROYUASH)</description>
+		<rom name="PETSCOP - Restored (NTSC) (Demo) (v1.0) (Aftermarket) (NITROYUASH).bin" size="184088688" crc="0b9c3f72" md5="76fa4bdf13de6dac763b48cff4c26719" sha1="f0e8bbd635a2317e08d33d397d390d3a8dcff7ec" />
+		<rom name="PETSCOP - Restored (NTSC) (Demo) (v1.0) (Aftermarket) (NITROYUASH).cue" size="132" crc="e252c3eb" md5="17e387bb8230015ebda3d7b5cf7cdf17" sha1="a0d6eaf88176c4042a93745203b018cbbaa62012" />
 	</game>
-	<game name="PETSCOP - Restored (NTSC) (v1.1) (Aftermarket) (NITROYUASH)">
-		<description>PETSCOP - Restored (NTSC) (v1.1) (Aftermarket) (NITROYUASH)</description>
-		<rom name="PETSCOP - Restored (NTSC) (v1.1) (Aftermarket) (NITROYUASH).bin" size="184253328" crc="d5dfbbf1" md5="b34cce263b63084768c26f8eca43848b" sha1="777a69e73e06677fde77c3b2f18bbaf984d06a62" />
-		<rom name="PETSCOP - Restored (NTSC) (v1.1) (Aftermarket) (NITROYUASH).cue" size="125" crc="83d4fb06" md5="e56944fadd6468b08251df7d21111a40" sha1="1940efd3e9e708ae75036292779eaec0d5d5515b" />
+	<game name="PETSCOP - Restored (NTSC) (Demo) (v1.1) (Aftermarket) (NITROYUASH)">
+		<description>PETSCOP - Restored (NTSC) (Demo) (v1.1) (Aftermarket) (NITROYUASH)</description>
+		<rom name="PETSCOP - Restored (NTSC) (Demo) (v1.1) (Aftermarket) (NITROYUASH).bin" size="184253328" crc="d5dfbbf1" md5="b34cce263b63084768c26f8eca43848b" sha1="777a69e73e06677fde77c3b2f18bbaf984d06a62" />
+		<rom name="PETSCOP - Restored (NTSC) (Demo) (v1.1) (Aftermarket) (NITROYUASH).cue" size="132" crc="866eae63" md5="31aad342685963bc5e9483785a48c0bc" sha1="2d54fb97ef0c5f2abde1e5180e8036973e2c1d5d" />
 	</game>
-	<game name="PETSCOP - Restored (NTSC) (v1.2) (Aftermarket) (NITROYUASH)">
-		<description>PETSCOP - Restored (NTSC) (v1.2) (Aftermarket) (NITROYUASH)</description>
-		<rom name="PETSCOP - Restored (NTSC) (v1.2) (Aftermarket) (NITROYUASH).bin" size="184582608" crc="ee3db5d8" md5="7cfbfbb58f513465ab51802a3182ea36" sha1="359b6176b46ef3ecb74b4a3ff511256ef10782c7" />
-		<rom name="PETSCOP - Restored (NTSC) (v1.2) (Aftermarket) (NITROYUASH).cue" size="125" crc="2f904d9e" md5="7abc3af9b56d1252b63c23f74efc63d3" sha1="90c0b439e134ca8b88f3f17337100d88f3f1432c" />
+	<game name="PETSCOP - Restored (NTSC) (Demo) (v1.2) (Aftermarket) (NITROYUASH)">
+		<description>PETSCOP - Restored (NTSC) (Demo) (v1.2) (Aftermarket) (NITROYUASH)</description>
+		<rom name="PETSCOP - Restored (NTSC) (Demo) (v1.2) (Aftermarket) (NITROYUASH).bin" size="184582608" crc="ee3db5d8" md5="7cfbfbb58f513465ab51802a3182ea36" sha1="359b6176b46ef3ecb74b4a3ff511256ef10782c7" />
+		<rom name="PETSCOP - Restored (NTSC) (Demo) (v1.2) (Aftermarket) (NITROYUASH).cue" size="132" crc="2a2a18fb" md5="fda3998434f60044cae631d2413d1016" sha1="8218e1e7aa51377d07f758618140c2ba235c4ea4" />
 	</game>
 	<game name="PlayStation Doom - Master Edition (Beta 4) (Team GEC)">
 		<description>PlayStation Doom - Master Edition (Beta 4) (Team GEC)</description>
@@ -405,13 +405,13 @@
 		<rom name="Tomb Raider II - The Golden Mask (USA) (Expansion).bin" size="587113296" crc="bf469149" md5="ea50ca10efe0196f597e6f5bdf183716" sha1="cf3376eeac921597a37114a42dc9b3440fd86ada" />
 		<rom name="Tomb Raider II - The Golden Mask (USA) (Expansion).cue" size="3954" crc="ed9c3f29" md5="c544043f858ad5ca93ad7373b5ead25b" sha1="246112f8fcad1471d6253f2809df223bf18225a7" />
 	</game>
-	<game name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius)">
-		<description>Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius)</description>
-		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius) (Track 1).bin" size="349326096" crc="80ec7c98" md5="669d0707639faf0f456e2fb360153fe3" sha1="a9e7e4ef5b576a5920ad921357770c0b66271a91" />
-		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius) (Track 2).bin" size="33043248" crc="5f57803c" md5="d6fc12becd9a4fc82d0ba68767a96262" sha1="f20f391b0c33e22621cd1c2a13d4171046da1219" />
-		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius) (Track 3).bin" size="25580352" crc="8fd6ab8d" md5="1a49bf16e8e46af2744db39cc517034b" sha1="635416f6871854ead90c9a6cab2cc4afbe2e0615" />
-		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius) (Track 4).bin" size="34085184" crc="426ca814" md5="c1d500ec05f6919d754c6ff1984db40e" sha1="04786e51a431ac37910f7b2e3fc5294e44b3664f" />
-		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.1) (Gertius).cue" size="626" crc="d0583ece" md5="1ac329c9ff0e8a8e3b92d5e5bf49575d" sha1="bb79a7d982c1e6913c5901f6b3fd5f42a4286ca5" />
+	<game name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.2) (Gertius)">
+		<description>Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.2) (Gertius)</description>
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.2) (Gertius) (Track 1).bin" size="349326096" crc="80ec7c98" md5="669d0707639faf0f456e2fb360153fe3" sha1="a9e7e4ef5b576a5920ad921357770c0b66271a91" />
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.2) (Gertius) (Track 2).bin" size="33043248" crc="5f57803c" md5="d6fc12becd9a4fc82d0ba68767a96262" sha1="f20f391b0c33e22621cd1c2a13d4171046da1219" />
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.2) (Gertius) (Track 3).bin" size="25580352" crc="8fd6ab8d" md5="1a49bf16e8e46af2744db39cc517034b" sha1="635416f6871854ead90c9a6cab2cc4afbe2e0615" />
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.2) (Gertius) (Track 4).bin" size="34085184" crc="426ca814" md5="c1d500ec05f6919d754c6ff1984db40e" sha1="04786e51a431ac37910f7b2e3fc5294e44b3664f" />
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) (En) (v1.2) (Gertius).cue" size="626" crc="9b9896b1" md5="51e46490bdebe5e2d6dda8a7639d65d0" sha1="581dd1252c10d7fe7da1a06c6162658969dbbe91" />
 	</game>
 	<game name="WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio)">
 		<description>WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio)</description>

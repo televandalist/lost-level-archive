@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20250422</version>
+		<version>v20250424</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -214,6 +214,10 @@
 	<game name="Tales of The Heroes - Twin Braves (Japan) (En) (v0.1) (pokefloote)">
 		<description>Tales of The Heroes - Twin Braves (Japan) (En) (v0.1) (pokefloote)</description>
 		<rom name="Tales of The Heroes - Twin Braves (Japan) (En) (v0.1) (pokefloote).iso" size="1208219648" crc="fad57b4c" md5="18b8e60974d35c92a290aa95917fd2a6" sha1="b4f0137dc15cfc7afe51fe160f14c2dbc148761e" />
+	</game>
+	<game name="ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz)">
+		<description>ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz)</description>
+		<rom name="ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz).iso" size="1708947456" crc="9634adbd" md5="24bac0ccfd6b293f585804eab86d82c2" sha1="ee6c7a204fe0e5dacf9a1121ace6a039c82666ef" />
 	</game>
 	<game name="ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown)">
 		<description>ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown)</description>
