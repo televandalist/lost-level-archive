@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>012e</id>
+		<name>012e - Lost Level Archive - Sony - PlayStation (Extras)</name>
+		<description>Sony - PlayStation (Extras)</description>
+		<version>v20250424</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Magic Castle (Net Yaroze) (Kaiga) - Extras">
+		<description>Magic Castle (Net Yaroze) (Kaiga) - Extras</description>
+		<rom name="Magic Castle (Net Yaroze) (Kaiga) - Manual.pdf" size="667907" crc="5ffe0476" md5="3d4dbb466f231c776d36f812ed974e2e" sha1="bd1d08d5bf27d2538422e8a1ed65bbdcdab71617" />
+		<rom name="Magic Castle (Net Yaroze) (Kaiga) - Press Kit.pdf" size="624473" crc="e21ef55e" md5="af2eb4fef6097fb14dfded392b7ce147" sha1="5c408ce96d72d1b41cd0b51c18cd86e2269b2e53" />
+	</game>
+</datafile>

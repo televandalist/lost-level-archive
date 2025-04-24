@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>046e</id>
+		<name>046e - Lost Level Archive - GCE - Vectrex (Extras)</name>
+		<description>GCE - Vectrex (Extras)</description>
+		<version>v20250424</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Time Trail (World) (Aftermarket) (Unl) - Extras">
+		<description>Time Trail (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Time Trail (World) (Aftermarket) (Unl) - Manual.pdf" size="227721" crc="59ad99c1" md5="7285187d7b1cbdd65bed1b22ac9165b6" sha1="0f976ad67cadcb541e2e1749a615ac2c3c09269f" />
+	</game>
+	<game name="Vec-Man (World) (Aftermarket) (Unl) - Extras">
+		<description>Vec-Man (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Vec-Man (World) (Aftermarket) (Unl) - Manual.pdf" size="149752" crc="ab9e52f4" md5="50f7f2e77af6e42edfce99619f1f7270" sha1="fdf9bf2dce062b49379b193200538f1085efa60a" />
+		<rom name="Vec-Man (World) (Aftermarket) (Unl) - Overlay.png" size="62992" crc="a8e0c999" md5="ba8248229790bba653cd22280afa81aa" sha1="d23bd3121acb379dc9da64a4c134cdf7f7fbabcb" />
+	</game>
+</datafile>

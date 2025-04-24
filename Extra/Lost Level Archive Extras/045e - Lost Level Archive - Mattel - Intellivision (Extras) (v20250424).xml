@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>045e</id>
+		<name>045e - Lost Level Archive - Mattel - Intellivision (Extras)</name>
+		<description>Mattel - Intellivision (Extras)</description>
+		<version>v20250424</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Antarctic Tales - Enhanced Edition (World) (Aftermarket) (Unl) - Extras">
+		<description>Antarctic Tales - Enhanced Edition (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Antarctic Tales - Enhanced Edition (World) (Aftermarket) (Unl) - Manual.pdf" size="644646" crc="408ada05" md5="df26bca86919f5d439b0752eefb8c3a4" sha1="b4707a392235cde3b559e7577c752e8e625c2307" />
+	</game>
+	<game name="Gooninuff (World) (Aftermarket) (Unl) - Extras">
+		<description>Gooninuff (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Gooninuff (World) (Aftermarket) (Unl) - Manual.pdf" size="137557" crc="8ed47ed4" md5="415aef905096e37dc70ea21baf5e41b2" sha1="210e02c84cab1c1e08f818d600e51863ba7d7dde" />
+	</game>
+	<game name="Intellivania (World) (Aftermarket) (Unl) - Extras">
+		<description>Intellivania (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Intellivania (World) (Aftermarket) (Unl) - Manual.pdf" size="1738347" crc="6ff9dbd6" md5="d4f28cc92d2e2ab149c5071a2ee989c5" sha1="90be636e6df32def7673f4c32d048e9aae717409" />
+	</game>
+	<game name="Sydney Hunter and the Sacred Tribe (World) (Aftermarket) (Unl) - Extras">
+		<description>Sydney Hunter and the Sacred Tribe (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Sydney Hunter and the Sacred Tribe (World) (Aftermarket) (Unl) - Manual.pdf" size="374596" crc="2a79ad0a" md5="2038e15643399ceb5be507f4e992613c" sha1="f0f9fdc36c3735d5680da2215b126445061d41c9" />
+	</game>
+	<game name="Ultimate Pong (World) (Aftermarket) (Unl) - Extras">
+		<description>Ultimate Pong (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Ultimate Pong (World) (Aftermarket) (Unl) - Manual.pdf" size="1441824" crc="a201b737" md5="4800b4b92f5cf10495ff7f3933a4c086" sha1="eebd8807bbcd2d41ad7df85ed25aa6dcea2d034b" />
+	</game>
+</datafile>

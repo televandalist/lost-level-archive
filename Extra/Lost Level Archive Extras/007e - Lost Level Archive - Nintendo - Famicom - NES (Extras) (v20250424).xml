@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>007e</id>
+		<name>007e - Lost Level Archive - Nintendo - Famicom - NES (Extras)</name>
+		<description>Nintendo - Famicom - NES (Extras)</description>
+		<version>v20250424</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="All Hell Unleashed (World) (Aftermarket) (Unl)">
+		<description>All Hell Unleashed (World) (Aftermarket) (Unl)</description>
+		<rom name="All Hell Unleashed (World) (Aftermarket) (Unl).nes" size="524304" crc="2f78164f" md5="0a42874e644792f57b63d698b9f75819" sha1="50feaa775d1f2c871a00ed4870989dab7a202bf0" />
+	</game>
+</datafile>

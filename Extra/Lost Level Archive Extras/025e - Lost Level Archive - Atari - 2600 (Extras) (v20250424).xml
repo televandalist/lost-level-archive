@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>025e</id>
+		<name>025e - Lost Level Archive - Atari - 2600 (Extras)</name>
+		<description>Atari - 2600 (Extras)</description>
+		<version>v20250424</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Alien Force (NTSC) (Nova32) - Extras">
+		<description>Alien Force (NTSC) (Nova32) - Extras</description>
+		<rom name="Alien Force (NTSC) (Nova32) - Manual.pdf" size="1491837" crc="4b510fed" md5="baee6d6b6d575c70f04306c5108a0815" sha1="6c4843354cbcd7e7d8f1fea1ae77479597fa560b" />
+	</game>
+	<game name="Cave Raider (NTSC) (Atarius Maximus) - Extras">
+		<description>Cave Raider (NTSC) (Atarius Maximus) - Extras</description>
+		<rom name="Cave Raider (NTSC) (Atarius Maximus) - Map.png" size="1011822" crc="92945895" md5="b1bb1eb3a806c3d470c647328dbf7520" sha1="5cd00bf082e83046f0be5dd3e48f344132b334a0" />
+	</game>
+	<game name="Duelo (NTSC) (Nomad Natan) - Extras">
+		<description>Duelo (NTSC) (Nomad Natan) - Extras</description>
+		<rom name="Duelo (NTSC) (Nomad Natan) - Manual.pdf" size="38777" crc="608b4bf7" md5="84b5e19ef2ca4d660fc914b30e57d9a3" sha1="5519283a9f7a85ff2c25b062791d7113c89314a3" />
+		<rom name="Duelo (NTSC) (Nomad Natan) - Wallpaper.png" size="1687671" crc="85311304" md5="59ffaba27a8d9b8c187a626dd49aabfd" sha1="e81fabfb702adad3b54775d03a3e10f5bf29c0d5" />
+	</game>
+</datafile>

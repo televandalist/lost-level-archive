@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>011e</id>
+		<name>011e - Lost Level Archive - Sega - Master System (Extras)</name>
+		<description>Sega - Master System (Extras)</description>
+		<version>v20250424</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Extreme Volleyball Infernal League (World) (Aftermarket) (Unl) - Extras">
+		<description>Extreme Volleyball Infernal League (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Extreme Volleyball Infernal League (World) (Aftermarket) (Unl) - Box Art.pdf" size="724231" crc="67ba0750" md5="95b3ad36edf3ced61bef7b145a539ee7" sha1="cdbf6d495055ebea065e38ef761aa4f6513cf5b8" />
+	</game>
+</datafile>

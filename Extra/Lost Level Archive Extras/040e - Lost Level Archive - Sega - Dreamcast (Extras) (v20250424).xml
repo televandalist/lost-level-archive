@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>040e</id>
+		<name>040e - Lost Level Archive - Sega - Dreamcast (Extras)</name>
+		<description>Sega - Dreamcast (Extras)</description>
+		<version>v20250424</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Castlevania Resurrection (E3 Pre-Demo) - Extras">
+		<description>Castlevania Resurrection (E3 Pre-Demo) - Extras</description>
+		<rom name="Castlevania Resurrection (E3 Pre-Demo) - Cover.pdf" size="1187600" crc="84a54ccf" md5="7686de758507af2c216acef74dda8b0f" sha1="0937da09e09edd4a47e41ab1374d84785dcb1cea" />
+	</game>
+	<game name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Extras">
+		<description>Ultimate Doom, The (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Back Print.pdf" size="13162752" crc="df973694" md5="62186c89809b99a77498708f36352177" sha1="be128e6a0e5d2e43aa7e95bacc70a341777d4471" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Back.png" size="9971051" crc="8a92c772" md5="d234c1291a86b8b6ad93095216bf773f" sha1="bc411156843e4774ac3379310c028d42ceaf4e8f" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - CD.png" size="6790197" crc="b00f4fc5" md5="d0a6de197b0130dda157890894ec0c44" sha1="77cae9c0113fc18319234e85864d9df50480dbec" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Front Print.pdf" size="4202444" crc="90a7a3e0" md5="d3c8395a73d16b0a0004754a30ae71ef" sha1="c071b1293ac2052b247fc825e6d59d2c31706c07" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Front.png" size="31702775" crc="d4947efb" md5="94ae96d651d25d4f69141b1e2622fcf4" sha1="8778ab7117387c4aa0eb7dff20bea8d2ec4fd398" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Inlay.png" size="9971051" crc="adbac715" md5="24b9b1fc6c116ece0988ef1ff032608c" sha1="c0a5ac43d2b159fe8f19b32eb95dbc9563abd08f" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Manual.png" size="8205343" crc="3b2b44ec" md5="8d2834e401793a5de8d237d657f000f7" sha1="85f614dfc559da39b0cc590821319d2f533cd365" />
+	</game>
+</datafile>
