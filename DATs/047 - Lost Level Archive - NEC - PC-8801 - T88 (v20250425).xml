@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>047</id>
+		<name>047 - Lost Level Archive - NEC - PC-8801 - T88</name>
+		<description>NEC - PC-8801 - T88</description>
+		<version>v20250425</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Computer the Golf (1983) (Nihon Falcom)">
+		<description>Computer the Golf (1983) (Nihon Falcom)</description>
+		<comment>V1(S) mode, MON -> Enter -> "R" -> Enter</comment>
+		<rom name="Computer the Golf (1983) (Nihon Falcom).t88" size="23624" crc="a149466d" md5="4de4a94d501d8b9a001c3f61d8c57493" sha1="176a97e426d4b0a9fca206db249bdcb07870d24c" />
+	</game>
+	<game name="Computer the Golf (1983) (Nihon Falcom) (En) (v1.0) (Geofront)">
+		<description>Computer the Golf (1983) (Nihon Falcom) (En) (v1.0) (Geofront)</description>
+		<comment>V1(S) mode, MON -> Enter -> "R" -> Enter</comment>
+		<rom name="Computer the Golf (1983) (Nihon Falcom) (En) (v1.0) (Geofront).t88" size="24195" crc="7dd10355" md5="8801b3fd121300a193df4096a023c68b" sha1="646a48cdfef767e6492dfa5001b0683026b52a7d" />
+	</game>
+</datafile>
