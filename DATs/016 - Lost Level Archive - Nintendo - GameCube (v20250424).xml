@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20250423</version>
+		<version>v20250425</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -154,6 +154,10 @@
 	<game name="Super Doot Sunshine (v1.4.0) (warspyking)" cloneof="Super Mario Sunshine (USA)">
 		<description>Super Doot Sunshine (v1.4.0) (warspyking)</description>
 		<rom name="Super Doot Sunshine (v1.4.0) (warspyking).iso" size="1459978240" crc="1e0e558e" md5="ee334e837718b5acb41ce5145a532165" sha1="90ffb58ecd98d137861414a5a52217ee8b40f08b" />
+	</game>
+	<game name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)">
+		<description>Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)</description>
+		<rom name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa).iso" size="1459978240" crc="585480f6" md5="7b5c8ec81959cb14f111b4b71fc1773c" sha1="334ec9871f61593a7e6238cf96c2db35d392523a" />
 	</game>
 	<game name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)">
 		<description>Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)</description>
