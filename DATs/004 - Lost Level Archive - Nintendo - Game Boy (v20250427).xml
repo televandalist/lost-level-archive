@@ -11,29 +11,35 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name=".EXE, Cogito ergo sum (World) (Aftermarket) (GB Studio)">
-		<description>.EXE, Cogito ergo sum (World) (Aftermarket) (GB Studio)</description>
-		<rom name=".EXE, Cogito ergo sum (World) (Aftermarket) (GB Studio).gb" size="2097152" crc="fa8e3a72" md5="45fec983a3d143291733820dc543a840" sha1="377e554489c84d59bbd64c5cdd06f49388c9a499" />
+	<game name=".EXE, Cogito ergo sum (World) (v1.0.2) (Aftermarket) (GB Studio) (MooExe)">
+		<description>.EXE, Cogito ergo sum (World) (v1.0.2) (Aftermarket) (GB Studio) (MooExe)</description>
+		<comment>https://mooexe.itch.io/exe</comment>
+		<rom name=".EXE, Cogito ergo sum (World) (v1.0.2) (Aftermarket) (GB Studio) (MooExe).gb" size="2097152" crc="fa8e3a72" md5="45fec983a3d143291733820dc543a840" sha1="377e554489c84d59bbd64c5cdd06f49388c9a499" />
 	</game>
-	<game name="Adventure of Rick, The - Grad School (World) (GBJAM7) (Aftermarket) (GB Studio)">
-		<description>Adventure of Rick, The - Grad School (World) (GBJAM7) (Aftermarket) (GB Studio)</description>
-		<rom name="Adventure of Rick, The - Grad School (World) (GBJAM7) (Aftermarket) (GB Studio).gb" size="1048576" crc="a80a10e5" md5="355b2e839699423d28fa468985947390" sha1="20a229a42f80142b215fd0e12d5ef10928e77899" />
+	<game name="Adventure of Rick, The - Grad School (World) (GBJAM7) (Aftermarket) (GB Studio) (Kirais)">
+		<description>Adventure of Rick, The - Grad School (World) (GBJAM7) (Aftermarket) (GB Studio) (Kirais)</description>
+		<comment>https://kirais.itch.io/the-adventure-of-rick-grad-school</comment>
+		<rom name="Adventure of Rick, The - Grad School (World) (GBJAM7) (Aftermarket) (GB Studio) (Kirais).gb" size="1048576" crc="a80a10e5" md5="355b2e839699423d28fa468985947390" sha1="20a229a42f80142b215fd0e12d5ef10928e77899" />
 	</game>
 	<game name="Airaki! (World) (Aftermarket) (Unl)">
 		<description>Airaki! (World) (Aftermarket) (Unl)</description>
+		<comment>https://furrtek.itch.io/airaki</comment>
 		<rom name="Airaki! (World) (Aftermarket) (Unl).gb" size="32768" crc="f427eee1" md5="06ed8f5845b4af82e7154fa2cbd6db1a" sha1="f1d0626ed225721ead8656458c895e02c2ea637e" />
 	</game>
-	<game name="Akumanor Gaiden (World) (v1.1) (GBJam 12) (Aftermarket) (Unl)">
-		<description>Akumanor Gaiden (World) (v1.1) (GBJam 12) (Aftermarket) (Unl)</description>
-		<rom name="Akumanor Gaiden (World) (v1.1) (GBJam 12) (Aftermarket) (Unl).gb" size="524288" crc="57ae16c4" md5="5260156eac899d719ae073b7142e3053" sha1="bbecee4be5021a71f0676bc2efd34b1021dc968d" />
+	<game name="Akumanor Gaiden (World) (v1.1) (GBJam 12) (Aftermarket) (Michirin)">
+		<description>Akumanor Gaiden (World) (v1.1) (GBJam 12) (Aftermarket) (Michirin)</description>
+		<comment>https://michirin.itch.io/akumanor-gaiden</comment>
+		<rom name="Akumanor Gaiden (World) (v1.1) (GBJam 12) (Aftermarket) (Michirin).gb" size="524288" crc="57ae16c4" md5="5260156eac899d719ae073b7142e3053" sha1="bbecee4be5021a71f0676bc2efd34b1021dc968d" />
 	</game>
-	<game name="Alwa's Awakening (World (v2022-03-02 Demo) (Aftermarket) (GB Studio)">
-		<description>Alwa's Awakening (World (v2022-03-02 Demo) (Aftermarket) (GB Studio)</description>
-		<rom name="Alwa's Awakening (World (v2022-03-02 Demo) (Aftermarket) (GB Studio).gb" size="262144" crc="88da9d3c" md5="8fd20a4769bd040f74212ebe49407ba7" sha1="85a248e5d3fd7714f2f0de7572a350fe9654885f" />
+	<game name="Alwa's Awakening (World) (v20220302 Demo) (Aftermarket) (GB Studio) (CheeseSays)">
+		<description>Alwa's Awakening (World) (v20220302 Demo) (Aftermarket) (GB Studio) (CheeseSays)</description>
+		<comment>https://cheesesays.itch.io/alwas-awakening-gameboy-demake</comment>
+		<rom name="Alwa's Awakening (World) (v20220302 Demo) (Aftermarket) (GB Studio) (CheeseSays).gb" size="262144" crc="88da9d3c" md5="8fd20a4769bd040f74212ebe49407ba7" sha1="85a248e5d3fd7714f2f0de7572a350fe9654885f" />
 	</game>
-	<game name="Among Us (World) (GBComp2021) (Aftermarket) (Unl)">
-		<description>Among Us (World) (GBComp2021) (Aftermarket) (Unl)</description>
-		<rom name="Among Us (World) (GBComp2021) (Aftermarket) (Unl).gb" size="262144" crc="eb0874a7" md5="d3bfde5d973230ba15078e4f5ca78ad5" sha1="db6918e4209885030297c4339c8777d9b7bfc52c" />
+	<game name="Among Us (World) (GBComp2021) (Aftermarket) (GB Studio) (Doce Cativeiro)">
+		<description>Among Us (World) (GBComp2021) (Aftermarket) (GB Studio) (Doce Cativeiro)</description>
+		<comment>https://doce-cativeiro.itch.io/among-us-game-boy</comment>
+		<rom name="Among Us (World) (GBComp2021) (Aftermarket) (GB Studio) (Doce Cativeiro).gb" size="262144" crc="eb0874a7" md5="d3bfde5d973230ba15078e4f5ca78ad5" sha1="db6918e4209885030297c4339c8777d9b7bfc52c" />
 	</game>
 	<game name="Banished (World) (Aftermarket) (GB Studio)">
 		<description>Banished (World) (Aftermarket) (GB Studio)</description>
