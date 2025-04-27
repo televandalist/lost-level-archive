@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250424</version>
+		<version>v20250427</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -102,6 +102,10 @@
 	<game name="Dan Laser (Asia) (Multicart Rip) (Unl)">
 		<description>Dan Laser (Asia) (Multicart Rip) (Unl)</description>
 		<rom name="Dan Laser (Asia) (Multicart Rip) (Unl).gb" size="32768" crc="aabc00f6" md5="1fca063770dda5cdfae166a4dcb3c6c5" sha1="54ac969c8c3e36d9a24e7862cd1f81b3f23772f9" />
+	</game>
+	<game name="Dashosaur DX (World) (v0.21) (Aftermarket) (GB Studio) (Sleeping Panda Games)">
+		<description>Dashosaur DX (World) (v0.21) (Aftermarket) (GB Studio) (Sleeping Panda Games)</description>
+		<rom name="Dashosaur DX (World) (v0.21) (Aftermarket) (GB Studio) (Sleeping Panda Games).gb" size="524288" crc="8a45ff73" md5="dcde8bb3cfed9c0223fb333343f7007c" sha1="ce2534454bf4fdf19e692f879d5759dc263ebe97" />
 	</game>
 	<game name="Davilex Nostalgie Pack (World) (Davilex Game Jam) (Aftermarket) (Unl)">
 		<description>Davilex Nostalgie Pack (World) (Davilex Game Jam) (Aftermarket) (Unl)</description>

@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX</name>
 		<description>Microsoft - MSX</description>
-		<version>v20250422</version>
+		<version>v20250427</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -58,6 +58,10 @@
 	<game name="Godzilla Balls - 70th Anniversary Level Pack (2024) (Paxanga Software)">
 		<description>Godzilla Balls - 70th Anniversary Level Pack (2024) (Paxanga Software)</description>
 		<rom name="Godzilla Balls - 70th Anniversary Level Pack (2024) (Paxanga Software).rom" size="16384" crc="be6b45c0" md5="ed7bdaa4fbefc1b84ec5492ae3649191" sha1="655abbb01648960866d8295aaf91ae477e12bfe3" />
+	</game>
+	<game name="Invasion of the Zombie Monsters (2010) (Relevo)">
+		<description>Invasion of the Zombie Monsters (2010) (Relevo)</description>
+		<rom name="Invasion of the Zombie Monsters (2010) (Relevo).rom" size="32768" crc="a232351f" md5="62f112037bc8e1a140c72605ed5db5da" sha1="bf2452f9932cbce5986f72eb04d4c1ecec045b7f" />
 	</game>
 	<game name="Kiwi Khaos (2021) (v1.1) (32K) (McCheeseBob)">
 		<description>Kiwi Khaos (2021) (v1.1) (32K) (McCheeseBob)</description>

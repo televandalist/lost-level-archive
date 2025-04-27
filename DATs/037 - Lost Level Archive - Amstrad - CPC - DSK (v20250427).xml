@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (DSK)</name>
 		<description>Amstrad - CPC (DSK)</description>
-		<version>v20250422</version>
+		<version>v20250427</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -251,6 +251,10 @@
 	<game name="Into the Darkness (2021) (Popcorn Games)">
 		<description>Into the Darkness (2021) (Popcorn Games)</description>
 		<rom name="Into the Darkness (2021) (CPCRetroDev 2021) (Popcorn Games).dsk" size="204544" crc="b6b70c52" md5="a4a69c6680d31ab5181aee9466c61997" sha1="6fe37132c8892340e7b28fcbfe56fe3ae331e75e" />
+	</game>
+	<game name="Invasion of the Zombie Monsters (2010) (Relevo)">
+		<description>Invasion of the Zombie Monsters (2010) (Relevo)</description>
+		<rom name="Invasion of the Zombie Monsters (2010) (Relevo).dsk" size="194816" crc="7919123b" md5="6f4eea02b96eecb1321c5f8feec19f3d" sha1="333d70a1b66347e655b1d6c0baaba0f81c8f3ec9" />
 	</game>
 	<game name="Juegue con su Amstrad - Kart 3000 (Es) (1987) (Sygran)">
 		<description>Juegue con su Amstrad - Kart 3000 (Es) (1987) (Sygran)</description>
