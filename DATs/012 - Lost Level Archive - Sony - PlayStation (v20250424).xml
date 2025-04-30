@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250424</version>
+		<version>v20250430</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -81,15 +81,20 @@
 		<rom name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen).bin" size="843363696" crc="11cadd22" md5="634f05dee52770fee0a5b3f7c7089ab8" sha1="8471bd32fee059f038115ec223c914b18cf4daed" />
 		<rom name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen).cue" size="123" crc="0411d9b4" md5="929552f03c4d5fe15569e508630f4c25" sha1="7edee783284a40e295de04b09b70ffa0631199ed" />
 	</game>
+	<game name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz)">
+		<description>Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz)</description>
+		<rom name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz).bin" size="130728864" crc="13e9a37e" md5="e2f0d869fb2c8c24843e7b11dcee05ff" sha1="e5b5987c788b78774afbf1d10855e884470f9680" />
+		<rom name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz).cue" size="128" crc="9d16284c" md5="0e0956c3fa3a3c9668f06b6368c1d2d6" sha1="71dcd8f08c683f89c06046010a7c9ebf8284e70e" />
+	</game>
 	<game name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz)">
 		<description>Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz)</description>
 		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz).bin" size="126850416" crc="46fa0ea2" md5="2d83239ad3153bf2bc6eb0895f220408" sha1="d58cd3b117fe644f8c085c4b887bac1c793d2cfa" />
 		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz).cue" size="116" crc="c4a946dd" md5="a6c409572fa6d60605ed4138d2aadc83" sha1="f667ea49d78681e5e38335c892e2edf7fd331d30" />
 	</game>
-	<game name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz)">
-		<description>Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz)</description>
-		<rom name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz).bin" size="130728864" crc="13e9a37e" md5="e2f0d869fb2c8c24843e7b11dcee05ff" sha1="e5b5987c788b78774afbf1d10855e884470f9680" />
-		<rom name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz).cue" size="128" crc="9d16284c" md5="0e0956c3fa3a3c9668f06b6368c1d2d6" sha1="71dcd8f08c683f89c06046010a7c9ebf8284e70e" />
+	<game name="Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz)">
+		<description>Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz)</description>
+		<rom name="Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz).bin" size="128623824" crc="92d6c60a" md5="303ba616697d17bc430dda859fdc497b" sha1="a34f3bcc6888badcefa8f8d1cfad42bf2b20bf11" />
+		<rom name="Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz).cue" size="130" crc="88d01602" md5="77453084ccce1b62f49ffbbdb2b09ea5" sha1="2ff174b46535b387162fa2f552785c58ac91152c" />
 	</game>
 	<game name="Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper)">
 		<description>Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper)</description>
