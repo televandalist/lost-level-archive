@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX2</name>
 		<description>Microsoft - MSX2</description>
-		<version>v20250420</version>
+		<version>v20250501</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -26,6 +26,14 @@
 	<game name="Gaia's Crest (1988) (NCS)">
 		<description>Gaia's Crest (1988) (NCS)</description>
 		<rom name="Gaia's Crest (1988) (NCS).dsk" size="737280" crc="ccadadd1" md5="18c9900bcc0af21dcc3660c53246c0b6" sha1="c1cb5f5f327698905e09a6f418e359b2483c7c83" />
+	</game>
+	<game name="Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor)">
+		<description>Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor)</description>
+		<rom name="Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor).rom" size="262144" crc="bc7b67f1" md5="745803f65b0e7b61d444d98f6ff68bf5" sha1="7ebc54affd5794422cb23cd9823e6af337ad01a7" />
+	</game>
+	<game name="Grey Wolf (2017) (Aftermarket) (Oniric Factor)">
+		<description>Grey Wolf (2017) (Aftermarket) (Oniric Factor)</description>
+		<rom name="Grey Wolf (2017) (Aftermarket) (Oniric Factor).dsk" size="737280" crc="4b9ab81a" md5="c3c9f5295982364f4ca20052b64d2546" sha1="4146e53e21b2bc8c41d96e44c8197a911097b985" />
 	</game>
 	<game name="MSXmas (2022) (32K) (MSXdev22) (André Baptista)">
 		<description>MSXmas (2022) (32K) (MSXdev22) (André Baptista)</description>

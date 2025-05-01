@@ -5,7 +5,7 @@
 		<id>004e</id>
 		<name>004e - Lost Level Archive - Nintendo - Game Boy (Extras)</name>
 		<description>Nintendo - Game Boy (Extras)</description>
-		<version>v20250424</version>
+		<version>v20250501</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -29,6 +29,11 @@
 	<game name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras">
 		<description>Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras</description>
 		<rom name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Manual.pdf" size="298424" crc="CF4ED794" md5="F36955A03CF90B7186EA52C35FF36B48" sha1="F536EE8715E2FE4BBBCA1AE936FFA2548D5D0EED" date="2023-07-27 13:13:18"/>
+	</game>
+	<game name="LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Extras">
+		<description>LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Extras</description>
+		<rom name="LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Art of LesbiAnts.pdf" size="272587" crc="5c83c153" md5="5ea6ffd282f65ab5d6edac195de299de" sha1="208d8f5ce94da34aa4a4008b04ba567c1c16e8b7" />
+		<rom name="LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Manual.pdf" size="820029" crc="7c347023" md5="83f9078e4e8f62d066e044a83bf3a164" sha1="b02d73f4971d2c1937103561ab72956f286adec2" />
 	</game>
 	<game name="Niñoid (World) (Aftermarket) (GB Studio) - Extras">
 		<description>Niñoid (World) (Aftermarket) (GB Studio) - Extras</description>

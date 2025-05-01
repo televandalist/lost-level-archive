@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (CPR)</name>
 		<description>Amstrad - CPC (CPR)</description>
-		<version>v20250402</version>
+		<version>v20250501</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,6 +14,10 @@
 	<game name="Brick Rick (2020) (v1.0.1) (reidrac)">
 		<description>Brick Rick (2020) (v1.0.1) (reidrac)</description>
 		<rom name="Brick Rick (2020) (v1.0.1) (reidrac).cpr" size="524556" crc="03a90123" md5="568362c6b4ce1aea85b8d2de40908fc9" sha1="a6dafd3f7b7960460e94862a8a4725c90087c065" />
+	</game>
+	<game name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (CPR)">
+		<description>CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (CPR)</description>
+		<rom name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower).cpr" size="524556" crc="76a32b6f" md5="c5be1334dafd7d4acbacfc397343a934" sha1="138de8f296112d6a2612174132b8dcb855a8b165" />
 	</game>
 	<game name="Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)">
 		<description>Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)</description>

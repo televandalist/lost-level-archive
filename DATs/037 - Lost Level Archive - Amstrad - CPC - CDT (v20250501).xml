@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (CDT)</name>
 		<description>Amstrad - CPC (CDT)</description>
-		<version>v20250424</version>
+		<version>v20250501</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -62,6 +62,10 @@
 	<game name="Cosmic Gatlin' (2021) (Chill Boat Studio)">
 		<description>Cosmic Gatlin' (2021) (Chill Boat Studio)</description>
 		<rom name="Cosmic Gatlin' (2021) (CPCRetroDev 2021) (Chill Boat Studio).cdt" size="44874" crc="288f5e95" md5="8a6b8021c4288adf48c35b43ff98afb3" sha1="32d1c6d2d633f4752cbf1241446eed0e1a93c403" />
+	</game>
+	<game name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (CRT)">
+		<description>CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (CRT)</description>
+		<rom name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower).cdt" size="97791" crc="81069cd8" md5="6f77f266f494bc04db3d26f141502c4a" sha1="2f10a464a15e465c43bce24d793c305706e6055d" />
 	</game>
 	<game name="Cult, The (En) (2023) (64K) (Tartessos Games)">
 		<description>Cult, The (En) (2023) (64K) (Tartessos Games)</description>

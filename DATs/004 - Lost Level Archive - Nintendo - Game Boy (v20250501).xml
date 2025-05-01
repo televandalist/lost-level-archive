@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250427</version>
+		<version>v20250501</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -236,6 +236,10 @@
 	<game name="Kirby and the Forgotten Land (World) (v2022-04-27) (Aftermarket) (Unl)">
 		<description>Kirby and the Forgotten Land (World) (v2022-04-27) (Aftermarket) (Unl)</description>
 		<rom name="Kirby and the Forgotten Land (World) (v2022-04-27) (Aftermarket) (Unl).gb" size="1048576" crc="98263372" md5="ff393095f1e8b5120d04a1c7aa46b368" sha1="66f7897c4282c01c104cea191e89c0d272903c8c" />
+	</game>
+	<game name="LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces)">
+		<description>LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces)</description>
+		<rom name="LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces).gb" size="1048576" crc="0005946c" md5="c11c03af23bed9badead5cfe83d75578" sha1="08438677448964fabc999eb19c1b4212969689f7" />
 	</game>
 	<game name="Libbet and the Magic Floor GB (World) (v0.08) (Aftermarket) (Unl)">
 		<description>Libbet and the Magic Floor GB (World) (v0.08) (Aftermarket) (Unl)</description>

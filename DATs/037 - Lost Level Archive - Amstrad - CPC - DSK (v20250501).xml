@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (DSK)</name>
 		<description>Amstrad - CPC (DSK)</description>
-		<version>v20250427</version>
+		<version>v20250501</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -147,6 +147,10 @@
 	<game name="Cosmic Gatlin' (2021) (Chill Boat Studio)">
 		<description>Cosmic Gatlin' (2021) (Chill Boat Studio)</description>
 		<rom name="Cosmic Gatlin' (2021) (CPCRetroDev 2021) (Chill Boat Studio).dsk" size="204544" crc="5f0d9461" md5="34487f9a2ced90b71584775358d30a2c" sha1="509461bf864a5372a014c10f10da21eb801e1352" />
+	</game>
+	<game name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (DSK)">
+		<description>CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (DSK)</description>
+		<rom name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower).dsk" size="204544" crc="ed6d1b25" md5="ab5a2801391d9fc1c279d95b0c2d40a0" sha1="2d03b20c1743f5040777a0f0f731b271a309fedc" />
 	</game>
 	<game name="CPCMiniPac (2023) (BASIC 10Liner)">
 		<description>CPCMiniPac (2023) (BASIC 10Liner)</description>
