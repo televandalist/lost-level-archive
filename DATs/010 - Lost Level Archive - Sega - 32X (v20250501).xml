@@ -5,7 +5,7 @@
 		<id>010</id>
 		<name>010 - Lost Level Archive - Sega - 32X</name>
 		<description>Sega - 32X</description>
-		<version>v20250423</version>
+		<version>v20250501</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -22,6 +22,10 @@
 	<game name="Blackthorne (USA) (Blizzard Arcade Collection)">
 		<description>Blackthorne (USA) (Blizzard Arcade Collection)</description>
 		<rom name="Blackthorne (USA) (Blizzard Arcade Collection).32x" size="3145728" crc="bba167e2" md5="8c39e659db41e78cf4899b24551a9dbc" sha1="074c451808ca451add4ded34a36d7a27eecb181c" />
+	</game>
+	<game name="Double Symbol (World) (v1.35) (Aftermarket) (Timur Lyazgiev)">
+		<description>Double Symbol (World) (v1.35) (Aftermarket) (Timur Lyazgiev)</description>
+		<rom name="Double Symbol (World) (v1.35) (Aftermarket) (Timur Lyazgiev).32x" size="484748" crc="2812d4fe" md5="4b14e8c22a97b4fd164e077a4980c582" sha1="54421dcfeecb9d00d1e6deeb191d921baa323a4e" />
 	</game>
 	<game name="Sonic Robo Blast 2 (USA) (v0.1a) (Aftermarket) (SSNTails, Saxman)">
 		<description>Sonic Robo Blast 2 (USA) (v0.1a) (Aftermarket) (SSNTails, Saxman)</description>
