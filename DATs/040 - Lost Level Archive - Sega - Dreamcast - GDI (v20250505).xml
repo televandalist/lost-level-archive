@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<id>040</id>
-		<name>040 - Lost Level Archive - Sega - Dreamcast</name>
+		<name>040 - Lost Level Archive - Sega - Dreamcast - GDI</name>
 		<description>Sega - Dreamcast</description>
-		<version>v20250423</version>
+		<version>v20250505</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -24,7 +24,7 @@
 		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 02).raw" size="1166592" crc="6e05f61e" md5="c1774d74e7f31b8f2ef74af2d7f28010" sha1="f1849e96005ebd0d4e0762ec2357a08a723cda1f" />
 		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 03).iso" size="43008" crc="cecbc1e5" md5="9c03008ef7d373bcc4006c1eecc860a2" sha1="f778bd3f4cb9c00007a7360de652cc11ceb1eec8" />
 		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 04).iso" size="31922176" crc="f9ab29c7" md5="9471351d23f5d34060af1d173dfeea44" sha1="16d99c9a5f2b109a6a0e47e768d33ffd13f0a933" />
-		<rom name="Castlevania - Resurrection (E3 Pre-Demo).gdi" size="292" crc="784a98c5" md5="96c3f80e5bd495402f2a3b5770616104" sha1="dbdfa9b3e909301f6800b3dbc7696e95e2b77d5a" />
+		<rom name="Castlevania - Resurrection (E3 Pre-Demo).gdi" size="300" crc="867e1593" md5="c890c48f198218b09bb991d223abc57a" sha1="b30f65ad9512b0643b626902f2a3e539e49a20cf" />
 	</game>
 	<game name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella)">
 		<description>Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella)</description>
@@ -35,10 +35,10 @@
 	</game>
 	<game name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu)">
 		<description>Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu)</description>
-		<rom name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu).gdi" size="87" crc="d7ab4c6b" md5="b3ecdf113fd42344dd84142679e4cb36" sha1="9d50b816d3f69ad192f5986ab487769965c2e082" />
-		<rom name="track01.bin" size="705600" crc="51abfce2" md5="8e368bb0ac2f0518043344324fa762ad" sha1="c1e214cd4e1af0e3d39c6d519cac981fad34f495" />
-		<rom name="track02.raw" size="1735776" crc="0de03f29" md5="d09be539a7074a058159505b7f5fdcb3" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" />
-		<rom name="track03.bin" size="1185760800" crc="2823c878" md5="663f0e75a9fdcb2a98bf13df46c61cd5" sha1="cc3feafd35d906e0d4207b2e94b3e96baa14c7e9" />
+		<rom name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu) (Track 1).bin" size="705600" crc="51abfce2" md5="8e368bb0ac2f0518043344324fa762ad" sha1="c1e214cd4e1af0e3d39c6d519cac981fad34f495" />
+		<rom name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu) (Track 2).raw" size="1735776" crc="0de03f29" md5="d09be539a7074a058159505b7f5fdcb3" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" />
+		<rom name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu) (Track 3).bin" size="1185760800" crc="2823c878" md5="663f0e75a9fdcb2a98bf13df46c61cd5" sha1="cc3feafd35d906e0d4207b2e94b3e96baa14c7e9" />
+		<rom name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu).gdi" size="252" crc="27d325e6" md5="7a441b1c513627553a5e915ad378442d" sha1="401a7160ab42e3d13f1da3af12b0ba47c03d93e3" />
 	</game>
 	<game name="Golem no Maigo (Japan) (En) (v1.0) (Rolly)">
 		<description>Golem no Maigo (Japan) (En) (v1.0) (Rolly)</description>
@@ -66,22 +66,18 @@
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 05).bin" size="1181788272" crc="2B8FABBC" md5="F7A9490C8A14F76308E689B6F9699DD0" sha1="9831F3C16C0428E631A22A6977521AAFCD24D164"/>
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito).gdi" size="385" crc="77C6AD78" md5="6EC11F09295CDA5403E3A18565165F94" sha1="B592465FB0E735BCFC4415CE1FD0282557AFEFEF"/>
 	</game>
-	<game name="Half-Life (USA) (2001-05-23) (Prototype) (NRG)">
-		<description>Half-Life (USA) (2001-05-23) (Prototype) (NRG)</description>
-		<rom name="Half-Life (USA) (2001-05-23) (Prototype).nrg" size="562939720" crc="a4e00e5f" md5="1c5413a7a70e381b78a9d85bbc109e2c" sha1="45198cb9d381213e6d16874e89f08fb73d373765" />
-	</game>
 	<game name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly)">
 		<description>L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly)</description>
-		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly).gdi" size="273" crc="3eb61ecd" md5="48b0a98ee63a3024e94cda04c2533d87" sha1="55f692b28039a107a4e461009f63c62298a9cb53" />
-		<rom name="track01.bin" size="705600" crc="81a8ece4" md5="3131a2efa204c7ea0c19aaaf0442617e" sha1="68e38f2c011c66af8de59101b3a4725d9358bb5e" />
-		<rom name="track02.raw" size="1735776" crc="6b05e06b" md5="6c02891dd1f6e419630510d5bdeba77e" sha1="ead73e3df2e43118ba9579c4b02ad44cdcd65a45" />
-		<rom name="track03.bin" size="151033680" crc="c81cf224" md5="95e7a07e7a0e640ae35e7e6e739e2acc" sha1="b6802577092b6f6da46c9bdf3dc08c59016b60c5" />
-		<rom name="track04.raw" size="23686992" crc="47f35434" md5="2af1269f0fbc6408af8ed0cf8b016566" sha1="e7c7557fa361ee0bb9b9bf017ee3f47cc7b50311" />
-		<rom name="track05.raw" size="6261024" crc="8dd5c35e" md5="8765f2bb022b17a52b7457d570a2781a" sha1="69eb0f182718c074928090e1d33e0754594ac433" />
-		<rom name="track06.raw" size="11052048" crc="e8ac193b" md5="0452be831fb625f45ef6f3495cf2c6fd" sha1="7b7099ea6aa79896be4121e3eea25cfb67d70f55" />
-		<rom name="track07.raw" size="12820752" crc="dd9f3759" md5="88c774fa2af3b58aecf5b440a4af2727" sha1="1f43f64e66f0904bc80afa3e708e0d512229a9a6" />
-		<rom name="track08.raw" size="13566336" crc="caf9e6f9" md5="1c8fa6f4afbc3b962d5fd9fef574aa54" sha1="d9cdaec2bb7f52b2ebe60b5db2523c1f787105f1" />
-		<rom name="track09.bin" size="966634368" crc="318ecd3c" md5="a33d22c27b9213b1bbc484a420cb8d89" sha1="bd7f3653c65fcb397505efa161981fe6e67c0e14" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 1).bin" size="705600" crc="81a8ece4" md5="3131a2efa204c7ea0c19aaaf0442617e" sha1="68e38f2c011c66af8de59101b3a4725d9358bb5e" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 2).raw" size="1735776" crc="6b05e06b" md5="6c02891dd1f6e419630510d5bdeba77e" sha1="ead73e3df2e43118ba9579c4b02ad44cdcd65a45" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 3).bin" size="151033680" crc="c81cf224" md5="95e7a07e7a0e640ae35e7e6e739e2acc" sha1="b6802577092b6f6da46c9bdf3dc08c59016b60c5" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 4).raw" size="23686992" crc="47f35434" md5="2af1269f0fbc6408af8ed0cf8b016566" sha1="e7c7557fa361ee0bb9b9bf017ee3f47cc7b50311" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 5).raw" size="6261024" crc="8dd5c35e" md5="8765f2bb022b17a52b7457d570a2781a" sha1="69eb0f182718c074928090e1d33e0754594ac433" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 6).raw" size="11052048" crc="e8ac193b" md5="0452be831fb625f45ef6f3495cf2c6fd" sha1="7b7099ea6aa79896be4121e3eea25cfb67d70f55" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 7).raw" size="12820752" crc="dd9f3759" md5="88c774fa2af3b58aecf5b440a4af2727" sha1="1f43f64e66f0904bc80afa3e708e0d512229a9a6" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 8).raw" size="13566336" crc="caf9e6f9" md5="1c8fa6f4afbc3b962d5fd9fef574aa54" sha1="d9cdaec2bb7f52b2ebe60b5db2523c1f787105f1" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 9).bin" size="966634368" crc="318ecd3c" md5="a33d22c27b9213b1bbc484a420cb8d89" sha1="bd7f3653c65fcb397505efa161981fe6e67c0e14" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly).gdi" size="759" crc="0b5dfa9f" md5="b2370c88b0265bcdcee64e4fc300fd33" sha1="f6b026b4a3a1e29d54d7f0296ff4e0e4e19d02d5" />
 	</game>
 	<game name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella)">
 		<description>Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella)</description>
@@ -104,19 +100,12 @@
 		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin) (Track 03).bin" size="1185760800" crc="1b9a87e6" md5="f698dfcbae6873352895e81dec097ec4" sha1="ae146a07911d77b15db42dd9c3cd622314661b6d" />
 		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin).gdi" size="291" crc="be2e7983" md5="4a720e4b817f1e56f5f69c89430b73a7" sha1="0392b5b76e2b40d702161ff531cbd21b63f49b04" />
 	</game>
-	<game name="Propeller Arena (USA) (2001-09-11) (Prototype) (BIN-CUE)">
-		<description>Propeller Arena (USA) (2001-09-11) (Prototype) (BIN-CUE)</description>
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 1).bin" size="705600" crc="0273e7ae" md5="9c9aff05221526e2de67f17338c7069f" sha1="16da502568f6a520d1f84fdb8c3775143b3aa5c5" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 3).bin" size="1185760800" crc="74446f13" md5="caa392704776a842f1273761dd790b7f" sha1="d40776e64a20aa19930c3f06406cbe9794505be1" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype).cue" size="432" crc="c6868c7f" md5="011f7b0796de19553251e7bfe39bff7e" sha1="d2b460462f7a96d033ae07887855a8beb8c983bc" />
-	</game>
 	<game name="Propeller Arena (USA) (2001-09-11) (Prototype) (GDI)">
 		<description>Propeller Arena (USA) (2001-09-11) (Prototype) (GDI)</description>
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 1).bin" size="705600" crc="0273e7ae" md5="9c9aff05221526e2de67f17338c7069f" sha1="16da502568f6a520d1f84fdb8c3775143b3aa5c5" />
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 2).raw" size="1237152" crc="99566185" md5="5a6c3ee28764b05886836c5552f87e8a" sha1="149f252882d31cbd0f21a2f93f4380135caeb1b2" />
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 3).bin" size="1185760800" crc="74446f13" md5="caa392704776a842f1273761dd790b7f" sha1="d40776e64a20aa19930c3f06406cbe9794505be1" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype).gdi" size="234" crc="ace7679f" md5="ec6815225e4066cad23e57caffad0f21" sha1="7d419c7675d930f280a74ea90b19e64b6f5326a3" />
+		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype).gdi" size="240" crc="2b71da4e" md5="1d5b3fa3e9cff0cb877f65a5afa52bee" sha1="60c875a53014b5a84df3d849834696d650bbd9e2" />
 	</game>
 	<game name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1)">
 		<description>Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1)</description>
@@ -131,20 +120,20 @@
 	</game>
 	<game name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger)">
 		<description>Resident Evil 2 - Special Edition (v1.0) (Green Ranger)</description>
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon).gdi" size="180" crc="0c1a6426" md5="f8dc211e163b4502c19723d2670890c1" sha1="32797e97ed654a12c18f245e2953b61e9172901f" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\track01.bin" size="1679360" crc="661a1b6e" md5="36855f5d34261273f99655c40956864b" sha1="2401cbede2c35c1c9d577d4a957a13d5ab880833" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\track02.raw" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\track03.bin" size="630155264" crc="cafc098f" md5="4195c502db63ee096b00b1002d0df5c0" sha1="c0f851df9fb35fa10d81a12a45136e518d82b508" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\track04.raw" size="1700496" crc="fa8a7709" md5="3bda221d3ec5954af8cdb56a75c8f0a1" sha1="94edd30b8580df02d6bcaf58660f5d840b37b834" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\track05.raw" size="11230800" crc="ef8b2156" md5="d4ea49e23c64aff07e00bcfea649ee87" sha1="31e9f1d8f126bf4655ad95888026c49d4d9d8834" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\track06.bin" size="1206272" crc="2b0d6caf" md5="c9c2ef0417e0ba8da764e23ffa29d412" sha1="5464ba6c925487735387c07d77234d942fd85e9b" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire).gdi" size="180" crc="64c22bb0" md5="cdf3c22160c0b563aac67f9c9250e011" sha1="eb68f9172f6baac4b0273a2a8db556ae37ddaa8f" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\track01.bin" size="1679360" crc="7d947396" md5="ab2efd44746ad72e6367042b7d656877" sha1="c571d1b393c2106178131c6781247d4e48223bfa" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\track02.raw" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\track03.bin" size="622596096" crc="154eb5a3" md5="5a13b9232123083faf41a56d04102a05" sha1="f15312bd81ad0b51c235591f35f2ebc3515b9224" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\track04.raw" size="1700496" crc="fa8a7709" md5="3bda221d3ec5954af8cdb56a75c8f0a1" sha1="94edd30b8580df02d6bcaf58660f5d840b37b834" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\track05.raw" size="11230800" crc="ef8b2156" md5="d4ea49e23c64aff07e00bcfea649ee87" sha1="31e9f1d8f126bf4655ad95888026c49d4d9d8834" />
-		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\track06.bin" size="1206272" crc="2b0d6caf" md5="c9c2ef0417e0ba8da764e23ffa29d412" sha1="5464ba6c925487735387c07d77234d942fd85e9b" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 1).bin" size="1679360" crc="661a1b6e" md5="36855f5d34261273f99655c40956864b" sha1="2401cbede2c35c1c9d577d4a957a13d5ab880833" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 2).raw" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 3).bin" size="630155264" crc="cafc098f" md5="4195c502db63ee096b00b1002d0df5c0" sha1="c0f851df9fb35fa10d81a12a45136e518d82b508" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 4).raw" size="1700496" crc="fa8a7709" md5="3bda221d3ec5954af8cdb56a75c8f0a1" sha1="94edd30b8580df02d6bcaf58660f5d840b37b834" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 5).raw" size="11230800" crc="ef8b2156" md5="d4ea49e23c64aff07e00bcfea649ee87" sha1="31e9f1d8f126bf4655ad95888026c49d4d9d8834" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 6).bin" size="1206272" crc="2b0d6caf" md5="c9c2ef0417e0ba8da764e23ffa29d412" sha1="5464ba6c925487735387c07d77234d942fd85e9b" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon).gdi" size="636" crc="f21872ec" md5="9882deed081b11464f0c94c497b172e9" sha1="0f53e7802efb1aa742e286b302bca492e5016147" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 1).bin" size="1679360" crc="7d947396" md5="ab2efd44746ad72e6367042b7d656877" sha1="c571d1b393c2106178131c6781247d4e48223bfa" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 2).raw" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 3).bin" size="622596096" crc="154eb5a3" md5="5a13b9232123083faf41a56d04102a05" sha1="f15312bd81ad0b51c235591f35f2ebc3515b9224" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 4).raw" size="1700496" crc="fa8a7709" md5="3bda221d3ec5954af8cdb56a75c8f0a1" sha1="94edd30b8580df02d6bcaf58660f5d840b37b834" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 5).raw" size="11230800" crc="ef8b2156" md5="d4ea49e23c64aff07e00bcfea649ee87" sha1="31e9f1d8f126bf4655ad95888026c49d4d9d8834" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 6).bin" size="1206272" crc="2b0d6caf" md5="c9c2ef0417e0ba8da764e23ffa29d412" sha1="5464ba6c925487735387c07d77234d942fd85e9b" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire).gdi" size="648" crc="ff245e66" md5="a822dc27764bf70a68b379ee32dfe4e5" sha1="e58631cec1e78f586dd79db526e46c8fe8fd4082" />
 	</game>
 	<game name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (RGR, Akella)">
 		<description>Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (RGR, Akella)</description>
@@ -183,20 +172,13 @@
 		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (Track 01).bin" size="27530160" crc="df11613d" md5="ec30120742e71b5650d1dc16da3217af" sha1="fdf7ce6a69377a2c6e1a8e45059d815a0b6a2e44" />
 		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (Track 02).raw" size="2147376" crc="1620e4e8" md5="ef62e7c19496ecbef1d5c755e37a152b" sha1="e50b6b0c2adb2752bc2ee0f9fbe486d6b81099ce" />
 		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (Track 03).bin" size="1185760800" crc="b75aab61" md5="9702319e97135bef28e3f0019d261798" sha1="18de6a9a5ae499992139ac27366f184969006856" />
-		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype).gdi" size="267" crc="48e28b2d" md5="a586e510d511885a5d05b2435db7160f" sha1="2e9c99f307c6c2567b0cc57ca44c8e2d12915941" />
-	</game>
-	<game name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE)">
-		<description>Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE)</description>
-		<rom name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE) (Track 1).bin" size="1980384" crc="91085a49" md5="71828a7508803faf6803b79277a19ba3" sha1="3831d394847474fee9806937de3809ec1357a846" />
-		<rom name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE) (Track 2).bin" size="2076816" crc="2c8741b5" md5="2fcdfd967c3fdc59812877628f480653" sha1="123ec231eeecaaea208432e7313bc16f1bd22f2a" />
-		<rom name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE) (Track 3).bin" size="1185760800" crc="b6a1d587" md5="a142c7a1db1439bcc724a894b59575f3" sha1="9152e0c6bff875edf0e1fcc70edb0e39070d3f5e" />
-		<rom name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE).cue" size="444" crc="e308dc72" md5="08db1f35063096b400a630e9bffcf9ef" sha1="567b527e6aeb943588c86dad9088b42ca7944169" />
+		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype).gdi" size="273" crc="cc56e94a" md5="970a80e8b6f892e6fa6e89557663bf01" sha1="4b1d67020ec949e427b4ebcbb388049e25042cec" />
 	</game>
 	<game name="Ultimate Doom, The (World) (Aftermarket) (Unl)">
 		<description>Ultimate Doom, The (World) (Aftermarket) (Unl)</description>
-		<rom name="track01.iso" size="3502080" crc="ef628029" md5="a893e2da8d204868c47f50f478c739c6" sha1="11f90d50cb2eda5b265bd68a809f64d191bb23f2" />
-		<rom name="track02.raw" size="13994400" crc="dc7ae092" md5="241e19efc852c90503e4ab868d6c1ed8" sha1="cf07057d6aa2193b159fbf796d9168a598f16fea" />
-		<rom name="track03.bin" size="1185760800" crc="d366f290" md5="35e1eb789ed5c1179e7a808d9c66b8ad" sha1="21b80498f930dd224d5c170cb5bd1d494b7cd026" />
-		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl).gdi" size="88" crc="d7295ce6" md5="0faaadc8a4bdd95646e010372d59278d" sha1="c51096f83b8f9f460725fce155f5a20e7b4a1081" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) (Track 1).iso" size="3502080" crc="ef628029" md5="a893e2da8d204868c47f50f478c739c6" sha1="11f90d50cb2eda5b265bd68a809f64d191bb23f2" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) (Track 2).raw" size="13994400" crc="dc7ae092" md5="241e19efc852c90503e4ab868d6c1ed8" sha1="cf07057d6aa2193b159fbf796d9168a598f16fea" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) (Track 3).bin" size="1185760800" crc="d366f290" md5="35e1eb789ed5c1179e7a808d9c66b8ad" sha1="21b80498f930dd224d5c170cb5bd1d494b7cd026" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl).gdi" size="241" crc="87950c52" md5="6eb3193982779c77c3f9887a85874dcc" sha1="c0e04b3a66fdda998c74e24b0fef4fb7fad38ab4" />
 	</game>
 </datafile>

@@ -5,16 +5,16 @@
 		<id>043</id>
 		<name>043 - Lost Level Archive - Panasonic - 3DO Interactive Multiplayer</name>
 		<description>Panasonic - 3DO Interactive Multiplayer</description>
-		<version>v20250420</version>
+		<version>v20250505</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola)" cloneof="Battle Blues (Korea)">
+	<game name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola)">
 		<description>Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola)</description>
-		<rom name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola).bin" size="556662784" crc="0B719E72" md5="938E70E4B336531A66CC464537591DF6" sha1="887AD58F98BF09DF8CA7B6415D01B2B5BAA2BF89"/>
-		<rom name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola).cue" size="115" crc="3CB951FD" md5="4891D7F33BD9118F57AEB4D639ACED8F" sha1="DF1D07F731CEA9213289ACC3D43FE32476DD6DE5"/>
+		<rom name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola).bin" size="556662784" crc="0b719e72" md5="938e70e4b336531a66cc464537591df6" sha1="887ad58f98bf09df8ca7b6415d01b2b5baa2bf89" />
+		<rom name="Battle Blues (Korea) (En) (v1.0.1) (Jeremy Decola).cue" size="116" crc="77a4ab7f" md5="c99f40e8483e8ff4a174e6a358a42d0a" sha1="be679c53830034fecf9cf3757e707068b5234744" />
 	</game>
 	<game name="BioFury (USA) (Aftermarket) (Zyzix Games)">
 		<description>BioFury (USA) (Aftermarket) (Zyzix Games)</description>

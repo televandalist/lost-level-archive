@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>040</id>
+		<name>040 - Lost Level Archive - Sega - Dreamcast - NRG</name>
+		<description>Sega - Dreamcast</description>
+		<version>v20250505</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Half-Life (USA) (2001-05-23) (Prototype) (NRG)">
+		<description>Half-Life (USA) (2001-05-23) (Prototype) (NRG)</description>
+		<rom name="Half-Life (USA) (2001-05-23) (Prototype).nrg" size="562939720" crc="a4e00e5f" md5="1c5413a7a70e381b78a9d85bbc109e2c" sha1="45198cb9d381213e6d16874e89f08fb73d373765" />
+	</game>
+</datafile>
