@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250501</version>
+		<version>v20250504</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -15,6 +15,10 @@
 		<description>.EXE, Cogito ergo sum (World) (v1.0.2) (Aftermarket) (GB Studio) (MooExe)</description>
 		<comment>https://mooexe.itch.io/exe</comment>
 		<rom name=".EXE, Cogito ergo sum (World) (v1.0.2) (Aftermarket) (GB Studio) (MooExe).gb" size="2097152" crc="fa8e3a72" md5="45fec983a3d143291733820dc543a840" sha1="377e554489c84d59bbd64c5cdd06f49388c9a499" />
+	</game>
+	<game name="204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)">
+		<description>204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)</description>
+		<rom name="204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01).gb" size="524288" crc="62fcad3e" md5="28d77a7797b018be49c31f139912aba8" sha1="83fe12e34eb4a11a537c62c33c4cd863404a8c47" />
 	</game>
 	<game name="Adventure of Rick, The - Grad School (World) (GBJAM7) (Aftermarket) (GB Studio) (Kirais)">
 		<description>Adventure of Rick, The - Grad School (World) (GBJAM7) (Aftermarket) (GB Studio) (Kirais)</description>
@@ -112,6 +116,10 @@
 	<game name="Dashosaur DX (World) (v0.21) (Aftermarket) (GB Studio) (Sleeping Panda Games)">
 		<description>Dashosaur DX (World) (v0.21) (Aftermarket) (GB Studio) (Sleeping Panda Games)</description>
 		<rom name="Dashosaur DX (World) (v0.21) (Aftermarket) (GB Studio) (Sleeping Panda Games).gb" size="524288" crc="8a45ff73" md5="dcde8bb3cfed9c0223fb333343f7007c" sha1="ce2534454bf4fdf19e692f879d5759dc263ebe97" />
+	</game>
+	<game name="Dashosaur DX (World) (v0.23) (Aftermarket) (GB Studio) (Sleeping Panda Games)">
+		<description>Dashosaur DX (World) (v0.23) (Aftermarket) (GB Studio) (Sleeping Panda Games)</description>
+		<rom name="Dashosaur DX (World) (v0.23) (Aftermarket) (GB Studio) (Sleeping Panda Games).gb" size="524288" crc="4e2205be" md5="598881aec8a8044ff00d353567a54f4a" sha1="ee44f1c3fdb11c924c9f3590d669c56d87d727f1" />
 	</game>
 	<game name="Davilex Nostalgie Pack (World) (Davilex Game Jam) (Aftermarket) (Unl)">
 		<description>Davilex Nostalgie Pack (World) (Davilex Game Jam) (Aftermarket) (Unl)</description>
@@ -220,6 +228,10 @@
 	<game name="Higurashi - When They Cry (World) (Demo) (Aftermarket) (GB Studio)">
 		<description>Higurashi - When They Cry (World) (Demo) (Aftermarket) (GB Studio)</description>
 		<rom name="Higurashi - When They Cry (World) (Demo) (Aftermarket) (GB Studio).gb" size="524288" crc="fd76e70d" md5="211f73021b2dcd9aa4cb3be188742223" sha1="4582234d47891aad7657642d68fab23e94cf90f2" />
+	</game>
+	<game name="Hollow Knight - Sign Mender (World) (Proto) (Aftermarket) (GB Studio) (Elvies)">
+		<description>Hollow Knight - Sign Mender (World) (Proto) (Aftermarket) (GB Studio) (Elvies)</description>
+		<rom name="Hollow Knight - Sign Mender (World) (Proto) (Aftermarket) (GB Studio) (Elvies).gb" size="262144" crc="2ac87a62" md5="dd75654819aa19fd786a7ec9057b13db" sha1="be9f10054c3f8b4af537ef526d6ec7db72de062f" />
 	</game>
 	<game name="Hong Kong 97 GB (World) (v2022) (Aftermarket) (Unl)">
 		<description>Hong Kong 97 GB (World) (v2022) (Aftermarket) (Unl)</description>
@@ -448,6 +460,18 @@
 	<game name="UNPAN (World) (Aftermarket) (GB Studio)">
 		<description>UNPAN (World) (Aftermarket) (GB Studio)</description>
 		<rom name="UNPAN (World) (Aftermarket) (GB Studio).gb" size="262144" crc="bd297a42" md5="6e684f059d3228b0c99e59cb69c3ee10" sha1="cb25e38391f733fa44d39edcbf12f6861ac70031" />
+	</game>
+	<game name="Virtual BMO (World) (v1.0) (Aftermarket) (GB Studio) (Grumpy Function)">
+		<description>Virtual BMO (World) (v1.0) (Aftermarket) (GB Studio) (Grumpy Function)</description>
+		<rom name="Virtual BMO (World) (v1.0) (Aftermarket) (GB Studio) (Grumpy Function).gb" size="131072" crc="ffb5e6d8" md5="de52757847a4d4cde3e40f04dd22c92e" sha1="bed0cb613b17cc1a8efee4f6a41291532ee89d8b" />
+	</game>
+	<game name="Virtual BMO (World) (v2.0) (Aftermarket) (GB Studio) (Grumpy Function)">
+		<description>Virtual BMO (World) (v2.0) (Aftermarket) (GB Studio) (Grumpy Function)</description>
+		<rom name="Virtual BMO (World) (v2.0) (Aftermarket) (GB Studio) (Grumpy Function).gb" size="131072" crc="b8d8bf2e" md5="af3cb6a3655312a1b74849445a2c21a8" sha1="856a56c0a807bb4b9d8ab0839d86ccc9f680b0d9" />
+	</game>
+	<game name="Virtual BMO (World) (v3.1) (Aftermarket) (GB Studio) (Grumpy Function)">
+		<description>Virtual BMO (World) (v3.1) (Aftermarket) (GB Studio) (Grumpy Function)</description>
+		<rom name="Virtual BMO (World) (v3.1) (Aftermarket) (GB Studio) (Grumpy Function).gb" size="524288" crc="66b53401" md5="3076b0df02804d3b9da27daa6f8258ca" sha1="afb550a63c7d73824b0779bb38e54bc609aea09c" />
 	</game>
 	<game name="VR Pocket Manager (World) (Aftermarket) (GB Studio)">
 		<description>VR Pocket Manager (World) (Aftermarket) (GB Studio)</description>

@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX2</name>
 		<description>Microsoft - MSX2</description>
-		<version>v20250501</version>
+		<version>v20250504</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -34,6 +34,14 @@
 	<game name="Grey Wolf (2017) (Aftermarket) (Oniric Factor)">
 		<description>Grey Wolf (2017) (Aftermarket) (Oniric Factor)</description>
 		<rom name="Grey Wolf (2017) (Aftermarket) (Oniric Factor).dsk" size="737280" crc="4b9ab81a" md5="c3c9f5295982364f4ca20052b64d2546" sha1="4146e53e21b2bc8c41d96e44c8197a911097b985" />
+	</game>
+	<game name="MinQ (2021) (En,Ja,Es) (128K) (NukegaraDHP)">
+		<description>MinQ (2021) (En,Ja,Es) (128K) (NukegaraDHP)</description>
+		<rom name="MinQ (2021) (En,Ja,Es) (128K) (NukegaraDHP).dsk" size="737280" crc="5a4b8a02" md5="7f27dc0e00a68c40a7fbf7fcaea4dd49" sha1="750d6429ceba3563b21793a23e8c64b7f059af15" />
+	</game>
+	<game name="MinQ Extra (2024) (Demo) (En,Ja,Es) (128K) (NukegaraDHP)">
+		<description>MinQ Extra (2024) (Demo) (En,Ja,Es) (128K) (NukegaraDHP)</description>
+		<rom name="MinQ Extra (2024) (Demo) (En,Ja,Es) (128K) (NukegaraDHP).dsk" size="737280" crc="6df0118f" md5="6e1f503fe0f3ce605178bf6b512fcae1" sha1="de297166d2c94f6a8b85e3fb666081721e195422" />
 	</game>
 	<game name="MSXmas (2022) (32K) (MSXdev22) (André Baptista)">
 		<description>MSXmas (2022) (32K) (MSXdev22) (André Baptista)</description>

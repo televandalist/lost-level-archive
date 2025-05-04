@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250422</version>
+		<version>v20250504</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -79,6 +79,10 @@
 		<description>Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl)</description>
 		<rom name="Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl).gbc" size="524288" crc="5322fa2b" md5="70b4c73e34c53ac818d15daa6682c396" sha1="355e76f7cf46b383320eb3ad8e40fc1db58f9ad1" />
 	</game>
+	<game name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)">
+		<description>Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)</description>
+		<rom name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222).gbc" size="2097152" crc="b7cdf437" md5="160d4da4a787f957fbd5079db6ee86b2" sha1="2910f9cc95a2e521abf63d7b79b329216145997c" />
+	</game>
 	<game name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)">
 		<description>Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)</description>
 		<rom name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl).gbc" size="524288" crc="b5d08d14" md5="59e32f8c38b3400bc147a470c88fb582" sha1="cbb21e03b63f72648ac3dfbc5fc5818fd15b6d3c" />
@@ -106,6 +110,10 @@
 	<game name="Hatsune Miku Bomb Squad (World) (v1.3) (Aftermarket) (Unl)">
 		<description>Hatsune Miku Bomb Squad (World) (v1.3) (Aftermarket) (Unl)</description>
 		<rom name="Hatsune Miku Bomb Squad (World) (v1.3) (Aftermarket) (Unl).gbc" size="524288" crc="b5465484" md5="6364d4ca7ea0f83981e97c12fd08ea97" sha1="4592070930a50e7f21ec10ecf0ef3d2365aec9a7" />
+	</game>
+	<game name="Hollow Knight - Fool's Song (World) (v1.0) (Aftermarket) (GB Studio) (Elvies)">
+		<description>Hollow Knight - Fool's Song (World) (v1.0) (Aftermarket) (GB Studio) (Elvies)</description>
+		<rom name="Hollow Knight - Fool's Song (World) (v1.0) (Aftermarket) (GB Studio) (Elvies).gbc" size="262144" crc="6ec78d99" md5="b4964022a907bb0005b476b0d313ab58" sha1="eba159a6431d6f868596d3edfb7ac58f09f01063" />
 	</game>
 	<game name="Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl)">
 		<description>Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl)</description>
