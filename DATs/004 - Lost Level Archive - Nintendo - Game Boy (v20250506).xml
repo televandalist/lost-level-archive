@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250504</version>
+		<version>v20250506</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -524,14 +524,6 @@
 	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja)">
 		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja)</description>
 		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja).gb" size="2097152" crc="65a35ae5" md5="35e6e4336d8c1a1997cf7c4f047bc91a" sha1="034102d67a62a9b0c31053b40e0430a32ed92d06" />
-	</game>
-	<game name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)">
-		<description>Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)</description>
-		<rom name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio).gb" size="262144" crc="8cdf4b90" md5="97b6eb86385cc51fed8f65c6db04548a" sha1="9df6bf7c2babc47cc9e461d16a7ab1a24d898003" />
-	</game>
-	<game name="Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio)">
-		<description>Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio)</description>
-		<rom name="Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio).gb" size="524288" crc="c5447011" md5="b814eb1064975392a2db18b5f410abf7" sha1="8197ed0ac5591893b7d04ed3f02529f120daab7e" />
 	</game>
 	<game name="Zoo Block (Asia) (Multicart Rip) (Unl)">
 		<description>Zoo Block (Asia) (Multicart Rip) (Unl)</description>

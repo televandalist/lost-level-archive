@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>004</id>
+		<name>Removed - 004 - Lost Level Archive - Nintendo - Game Boy</name>
+		<description>Removed - Nintendo - Game Boy</description>
+		<version>v20250506</version>
+		<author>tele</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)">
+		<comment>In the No Intro DAT</comment>
+		<description>Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)</description>
+		<rom name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio).gb" size="262144" crc="8cdf4b90" md5="97b6eb86385cc51fed8f65c6db04548a" sha1="9df6bf7c2babc47cc9e461d16a7ab1a24d898003" />
+	</game>
+	<game name="Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio)">
+		<comment>In the No Intro DAT</comment>
+		<description>Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio)</description>
+		<rom name="Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio).gb" size="524288" crc="c5447011" md5="b814eb1064975392a2db18b5f410abf7" sha1="8197ed0ac5591893b7d04ed3f02529f120daab7e" />
+	</game>
+</datafile>

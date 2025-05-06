@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>011</id>
+		<name>Removed - 011 - Lost Level Archive - Sega - Master System</name>
+		<description>Sega - Master System</description>
+		<version>v20250506</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Extreme Volleyball Infernal League (World) (v1.0.2) (Aftermarket) (Unl)">
+		<comment>In the No Intro DAT</comment>
+		<description>Extreme Volleyballl Infernal League (World) (v1.0.2) (Aftermarket) (Unl)</description>
+		<rom name="Extreme Volleyballl Infernal League (World) (v1.0.2) (Aftermarket) (Unl).sms" size="524288" crc="f7e6c14a" md5="25285037a067c5757caf5bc6c1eea7db" sha1="ad572577d93f25bd27c410300fcae3484d26ae25" />
+	</game>
+		<comment>In the No Intro DAT</comment>
+	<game name="Extreme Volleyball Infernal League (World) (v1.0.3) (Aftermarket) (Unl)">
+		<description>Extreme Volleyball Infernal League (World) (v1.0.3) (Aftermarket) (Unl)</description>
+		<rom name="Extreme Volleyball Infernal League (World) (v1.0.3) (Aftermarket) (Unl).sms" size="524288" crc="f9e940b6" md5="69244242fca8522894904168681019e4" sha1="485384571802f8f25c434154ea9e360bc55de63a" />
+	</game>
+		<comment>In the No Intro DAT</comment>
+	<game name="Extreme Volleyball Infernal League (World) (v1.0.5) (Aftermarket) (Unl)">
+		<description>Extreme Volleyball Infernal League (World) (v1.0.5) (Aftermarket) (Unl)</description>
+		<rom name="Extreme Volleyball Infernal League (World) (v1.0.5) (Aftermarket) (Unl).sms" size="524288" crc="6402d2d6" md5="a4ba794b418ccfe177c5318bcc0fa9fe" sha1="0ed34d0e119b170fd8ac9b65ff9bbb56e551de92" />
+	</game>
+		<comment>In the No Intro DAT</comment>
+	<game name="Extreme Volleyball Infernal League (World) (v1.0.6) (Aftermarket) (Unl)">
+		<description>Extreme Volleyball Infernal League (World) (v1.0.6) (Aftermarket) (Unl)</description>
+		<rom name="Extreme Volleyball Infernal League (World) (v1.0.6) (Aftermarket) (Unl).sms" size="524288" crc="82ef4bda" md5="8b12cc57e9e1baf8cc4165d7f8a210fe" sha1="fab2398562886662775d413ee8457231b9bd7660" />
+	</game>
+</datafile>
