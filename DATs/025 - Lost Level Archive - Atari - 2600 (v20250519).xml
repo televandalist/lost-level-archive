@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20250422</version>
+		<version>v20250519</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -102,6 +102,14 @@
 	<game name="Dark Mage (NTSC) (Beta) (Aftermarket) (Unl) (Greg Troutman)">
 		<description>Dark Mage (NTSC) (Beta) (Aftermarket) (Unl) (Greg Troutman)</description>
 		<rom name="Dark Mage (NTSC) (Beta) (Aftermarket) (Unl) (Greg Troutman).a26" size="4096" crc="6dbf6d2d" md5="2b71a59a53be5883399917bf582b7772" sha1="e58e06dce22f9041607ab3387efebefe2b3be85e" />
+	</game>
+	<game name="DigiBeatz (NTSC) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow)">
+		<description>DigiBeatz (NTSC) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow)</description>
+		<rom name="DigiBeatz (NTSC) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow).a26" size="4096" crc="c286867d" md5="586e564c757288003b7f97ec25dd3430" sha1="142642c96f28c8eb138979e2c56cfbcc913535b0" />
+	</game>
+	<game name="DigiBeatz (PAL60) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow)">
+		<description>DigiBeatz (PAL60) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow)</description>
+		<rom name="DigiBeatz (PAL60) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow).a26" size="4096" crc="b26a7da6" md5="b48013d42dab1e643c0b2bae3bb2ecc0" sha1="cd58b6bc9baa30da5e33b8068263fdb7feb6b0a1" />
 	</game>
 	<game name="Duelo (NTSC) (v1.0) (Aftermarket) (Unl)">
 		<description>Duelo (NTSC) (v1.0) (Aftermarket) (Unl)</description>

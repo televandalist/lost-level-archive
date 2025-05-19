@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20250424</version>
+		<version>v20250519</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -202,6 +202,10 @@
 	<game name="Super Luigi Fighter (v2.0) (luigi2498)">
 		<description>Super Luigi Fighter (v2.0) (luigi2498)</description>
 		<rom name="Super Luigi Fighter (v2.0) (luigi2498).iso" size="142639104" crc="706eef7a" md5="472a62a438dd5cfff0f220e5c929f101" sha1="b6fe04b4575a87790c2190785684ba543879314d" />
+	</game>
+	<game name="Suzumiya Haruhi no Yakusoku (Japan) (En) (v1.0) (EsperKnight)">
+		<description>Suzumiya Haruhi no Yakusoku (Japan) (En) (v1.0) (EsperKnight)</description>
+		<rom name="Suzumiya Haruhi no Yakusoku (Japan) (En) (v1.0) (EsperKnight).iso" size="1155715072" crc="07636587" md5="469033246c15dad08cab312fb4b7fdca" sha1="862b5d8feb88e6324b2727295cfcda5741e11962" />
 	</game>
 	<game name="Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box) (En) (v1.0) (EsperKnight)">
 		<description>Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box) (En) (v1.0) (EsperKnight)</description>

@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250430</version>
+		<version>v20250519</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -85,6 +85,11 @@
 		<description>Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz)</description>
 		<rom name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz).bin" size="130728864" crc="13e9a37e" md5="e2f0d869fb2c8c24843e7b11dcee05ff" sha1="e5b5987c788b78774afbf1d10855e884470f9680" />
 		<rom name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz).cue" size="128" crc="9d16284c" md5="0e0956c3fa3a3c9668f06b6368c1d2d6" sha1="71dcd8f08c683f89c06046010a7c9ebf8284e70e" />
+	</game>
+	<game name="Five Nights at Freddy's (World) (v1.3.0) (Aftermarket) (Soeiz)">
+		<description>Five Nights at Freddy's (World) (v1.3.0) (Aftermarket) (Soeiz)</description>
+		<rom name="Five Nights at Freddy's (World) (v1.3.0) (Aftermarket) (Soeiz).bin" size="130735920" crc="85716b3d" md5="c0e601683be4a172d0a8b192d535e31e" sha1="ce44e4fb78b24ceaa7f9d55a7d85e0edfe97dc5b" />
+		<rom name="Five Nights at Freddy's (World) (v1.3.0) (Aftermarket) (Soeiz).cue" size="128" crc="00dadec5" md5="546252325f5d93beb3ee6e1e4c5292a8" sha1="fe9017b2d2c1770b37cec957e23863807b104322" />
 	</game>
 	<game name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz)">
 		<description>Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz)</description>

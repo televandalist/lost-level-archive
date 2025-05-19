@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (DSK)</name>
 		<description>Amstrad - CPC (DSK)</description>
-		<version>v20250501</version>
+		<version>v20250519</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -123,6 +123,14 @@
 	<game name="Chaos Rising Part 2 (2021) (v1.2) (EgoTrip)">
 		<description>Chaos Rising Part 2 (2021) (v1.2) (EgoTrip)</description>
 		<rom name="Chaos Rising Part 2 (2021) (v1.2) (EgoTrip).dsk" size="204544" crc="9b174f1b" md5="e4bd16f57ddf714dd1091cb2a08290d9" sha1="e791fc0f6bc4daf7428de0140bdf1df2fd24c632" />
+	</game>
+	<game name="Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft)">
+		<description>Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft)</description>
+		<rom name="Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft).dsk" size="194816" crc="6c2cdcea" md5="708cfecfee216f64a029bf7ba8ea15a5" sha1="125fcbe6bfa1f40d57256540b61e93942145faf0" />
+	</game>
+	<game name="Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft)">
+		<description>Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft)</description>
+		<rom name="Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft).dsk" size="194816" crc="c9b3655a" md5="bb27373dacc9cb70261bd4c240a39f94" sha1="fe8037c8c4ded6f2f1aca743ce86306815209ad2" />
 	</game>
 	<game name="Cloud Sailor (2021) (rhgi1)">
 		<description>Cloud Sailor (2021) (rhgi1)</description>
@@ -364,6 +372,10 @@
 		<description>Paintball Training (2023) (altanerus dog)</description>
 		<rom name="Paintball Training (2023) (altanerus dog).dsk" size="194816" crc="5ac6844d" md5="bc8459a5878e5b72ac70de51ec406dcc" sha1="e95e5419c115de0d58c0bd8faf8cee3651d3f8bf" />
 	</game>
+	<game name="Paleto Jones (2022) (UK) (v4.0) (Mananuk)">
+		<description>Paleto Jones (2022) (UK) (v4.0) (Mananuk)</description>
+		<rom name="Paleto Jones (2022) (UK) (v4.0) (Mananuk).dsk" size="204544" crc="9062da73" md5="c631d6b0a09497617097ca4755a8ddea" sha1="38ff7f3f064a0ca4d4264750329df03923f2bf51" />
+	</game>
 	<game name="Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft)">
 		<description>Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft)</description>
 		<rom name="Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft).dsk" size="194816" crc="bfd9ab2c" md5="5fe20d58f41ff43c0d64f427701061bb" sha1="9b5da22cbd322abb277265861b6cb3f04f22810d" />
@@ -452,6 +464,10 @@
 	<game name="Sim City (1990) (Infogrames) (Newschool Cracking)">
 		<description>Sim City (1990) (Infogrames) (Newschool Cracking)</description>
 		<rom name="Sim City (1990) (Infogrames) (Newschool Cracking).dsk" size="194816" crc="1c108da3" md5="41be2538f6ebb6a7fde82b57a9299ea4" sha1="7245b1229ef34bc002e2e04317916cde3db933a3" />
+	</game>
+	<game name="SkillTeam (2025) (v1.0) (David Programa)">
+		<description>SkillTeam (2025) (v1.0) (David Programa)</description>
+		<rom name="SkillTeam (2025) (v1.0) (David Programa).dsk" size="204544" crc="0ca92db7" md5="d694fef4164d95ff3a373b4a97d3336c" sha1="801fc192ada4998b8013e2aecb25148df4e43439" />
 	</game>
 	<game name="Small Games for Smart Minds (2007) (ESP Soft)">
 		<description>Small Games for Smart Minds (2007) (ESP Soft)</description>

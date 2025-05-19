@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (SNA)</name>
 		<description>Amstrad - CPC (SNA)</description>
-		<version>v20250402</version>
+		<version>v20250519</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -46,6 +46,10 @@
 	<game name="Oh No, My Moustache (2022) (Strawberry Studio)">
 		<description>Oh No, My Moustache (2022) (Strawberry Studio)</description>
 		<rom name="Oh No, My Moustache (2022) (Strawberry Studio).sna" size="65792" crc="e8772ed8" md5="61fa82806bf3fcec07f674aff495e386" sha1="5d0c6ac7765a793e08adc09ce49da884b18a4990" />
+	</game>
+	<game name="Paleto Jones (2022) (UK) (v4.0) (Mananuk)">
+		<description>Paleto Jones (2022) (UK) (v4.0) (Mananuk)</description>
+		<rom name="Paleto Jones (2022) (UK) (v4.0) (Mananuk).sna" size="65792" crc="1e8303be" md5="4497612d96f27c53ff2de3589570f901" sha1="2274cb1f4e37dff512ad8f7d00f4ae5ed744b31d" />
 	</game>
 	<game name="WhatTheRock (2023) (Createvia)">
 		<description>WhatTheRock (2023) (Createvia)</description>

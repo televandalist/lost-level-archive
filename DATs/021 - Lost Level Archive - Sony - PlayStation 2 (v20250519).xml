@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250424</version>
+		<version>v20250519</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -107,6 +107,10 @@
 	<game name="Guitar Hero (USA) (Prototype - Production Build) (2005-09-08)">
 		<description>Guitar Hero (USA) (Prototype - Production Build) (2005-09-08)</description>
 		<rom name="Guitar Hero (USA) (Prototype - Production Build) (2005-09-08).iso" size="1453129728" crc="ee351bd2" md5="92e06a5a38783936ef97f1005671204f" sha1="bfef49c301acba46f79c0a76beedc7c2b634d15f" />
+	</game>
+	<game name="Guitar Hero 3 - ZV K-ON! Tuned UP! 10th Anniversary (v2.0) (ztruck1)">
+		<description>Guitar Hero 3 - ZV K-ON! Tuned UP! 10th Anniversary (v2.0) (ztruck1)</description>
+		<rom name="Guitar Hero 3 - ZV K-ON! Tuned UP! 10th Anniversary (v2.0) (ztruck1).iso" size="4418807808" crc="013d6fcb" md5="228ce422f0b85012284e187f1da52b76" sha1="2bbeeabe577d11ed9825de82927e55998e2c566e" />
 	</game>
 	<game name="Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)">
 		<description>Half-Life - Blue Shift - Anniversary Edition (v1.20) (supadupaplex)</description>

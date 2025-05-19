@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250504</version>
+		<version>v20250519</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -82,6 +82,10 @@
 	<game name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)">
 		<description>Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)</description>
 		<rom name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222).gbc" size="2097152" crc="b7cdf437" md5="160d4da4a787f957fbd5079db6ee86b2" sha1="2910f9cc95a2e521abf63d7b79b329216145997c" />
+	</game>
+	<game name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)">
+		<description>Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)</description>
+		<rom name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games).gbc" size="4194304" crc="ab96806a" md5="b90fae25ad1dbc7599758c1744287267" sha1="7c86eefe37b82d422327651b8761c1f8b0ca327d" />
 	</game>
 	<game name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)">
 		<description>Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)</description>
@@ -171,6 +175,18 @@
 		<description>Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl)</description>
 		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl).gbc" size="4194304" crc="0c6cdaaa" md5="a208b6e3cea582b1e45255031b6b7152" sha1="2e28c460be56eaeae975f620c66228e1cf66b1ed" />
 	</game>
+	<game name="Liminal. (World) (Ca) (BN) (Aftermarket) (GB Studio)">
+		<description>Liminal. (World) (Ca) (BN) (Aftermarket) (GB Studio)</description>
+		<rom name="Liminal. (World) (Ca) (BN) (Aftermarket) (GB Studio).gbc" size="1048576" crc="beb7905e" md5="fd8c728dcdbbcd27df161be8b7d1df04" sha1="d33fa5693c52b753f53103434ee4ab7a314ff85d" />
+	</game>
+	<game name="Liminal. (World) (Ca) (Color) (Aftermarket) (GB Studio)">
+		<description>Liminal. (World) (Ca) (Color) (Aftermarket) (GB Studio)</description>
+		<rom name="Liminal. (World) (Ca) (Color) (Aftermarket) (GB Studio).gbc" size="1048576" crc="7c7d4392" md5="152eb065a6ba1eb6323abd7d5fb7592b" sha1="136a1e4e5e710eee365754e2a7db90d7118d7f8e" />
+	</game>
+	<game name="Liminal. (World) (En) (Aftermarket) (GB Studio)">
+		<description>Liminal. (World) (En) (Aftermarket) (GB Studio)</description>
+		<rom name="Liminal. (World) (En) (Aftermarket) (GB Studio).gbc" size="1048576" crc="516a6f5c" md5="b6f3b0b61697e6f65a8f9f7b5595d903" sha1="b10ec5247af8c5b4f0c6934b3cc673f282c02039" />
+	</game>
 	<game name="Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl)">
 		<description>Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl)</description>
 		<rom name="Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl).gbc" size="262144" crc="d20ab5bd" md5="c93bd5f1928944452cee933dce345f89" sha1="215180e6d2482f3208315fb17a35830c6560133e" />
@@ -211,6 +227,18 @@
 		<description>Obscenture (World) (v1.01) (Aftermarket) (Unl)</description>
 		<rom name="Obscenture (World) (v1.01) (Aftermarket) (Unl).gbc" size="2097152" crc="95b6f7bb" md5="74996e87555cbf6e0e63bc61a43c7ddb" sha1="fc75c0335a98f6444bc5d9bd541c68ba98b19975" />
 	</game>
+	<game name="Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)">
+		<description>Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)</description>
+		<rom name="Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio).gbc" size="2097152" crc="e23eefa3" md5="edb99083d0260d3c0ab9446725d4f3fa" sha1="7b60ca219c3cc178e5c59b72801858c6a585b109" />
+	</game>
+	<game name="Paramo Yermo (World) (En) (Aftermarket) (GB Studio)">
+		<description>Paramo Yermo (World) (En) (Aftermarket) (GB Studio)</description>
+		<rom name="Paramo Yermo (World) (En) (Aftermarket) (GB Studio).gbc" size="2097152" crc="ed36f665" md5="1cf039797685a45f5ed64babf9890d77" sha1="bf6a4f2aa57eb09a11f760dc48a7e4cb9da8e48a" />
+	</game>
+	<game name="Paramo Yermo (World) (Es) (Aftermarket) (GB Studio)">
+		<description>Paramo Yermo (World) (Es) (Aftermarket) (GB Studio)</description>
+		<rom name="Paramo Yermo (World) (Es) (Aftermarket) (GB Studio).gbc" size="2097152" crc="2ec2ecc6" md5="e26455fae5f0d9b03d33126809369e75" sha1="c68bf5ec9508bc72b5ddc4036e7a1b7ae4818590" />
+	</game>
 	<game name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)">
 		<description>Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)</description>
 		<rom name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl).gbc" size="131072" crc="16f444cf" md5="09ec8f62034f0219e0a82e3f01f48ba7" sha1="cdfc9441ea05b1ba5312c7b4fc5d7df21d74cd31" />
@@ -250,6 +278,10 @@
 	<game name="Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio)">
 		<description>Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio)</description>
 		<rom name="Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio).gbc" size="1048576" crc="b900ed70" md5="10876e1b4a66fea431ccf90d4b56dee7" sha1="a99a3bcd1ec0698bb39a53e279b49e95f8595810" />
+	</game>
+	<game name="Silent Hill 2 - Born From a Wish (World) (2024-05-31) (Demo) (Aftermarket) (Unl)">
+		<description>Silent Hill 2 - Born From a Wish (World) (2024-05-31) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Silent Hill 2 - Born From a Wish (World) (2024-05-31) (Demo) (Aftermarket) (Unl).gbc" size="1048576" crc="06d5a5bd" md5="48dc915a765d93d61557a03fd475e73e" sha1="d2079f04519d9f13020da2ca616a0b6634eb45d2" />
 	</game>
 	<game name="Silver Falls - Galaxy Bound Curse (World) (v0.88) (Aftermarket) (Unl)">
 		<description>Silver Falls - Galaxy Bound Curse (World) (v0.88) (Aftermarket) (Unl)</description>

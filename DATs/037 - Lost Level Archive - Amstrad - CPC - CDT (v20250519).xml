@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (CDT)</name>
 		<description>Amstrad - CPC (CDT)</description>
-		<version>v20250501</version>
+		<version>v20250519</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -54,6 +54,14 @@
 	<game name="Castle Kid (2021) (AxolotIUA)">
 		<description>Castle Kid (2021) (AxolotIUA)</description>
 		<rom name="Castle Kid (2021) (CPCRetroDev 2021) (AxolotIUA).cdt" size="50767" crc="aeea1f67" md5="81222370029dc88d68b83619776eb865" sha1="8cbfdd8efdc967e4b6fb1ab7a0a291cd98de10ac" />
+	</game>
+	<game name="Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft)">
+		<description>Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft)</description>
+		<rom name="Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft).cdt" size="36367" crc="94c4e0a9" md5="930c695e95917cb45bd3a3d77afc1c53" sha1="4d834260e3f1e31e3504ec2f994502ebd0132251" />
+	</game>
+	<game name="Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft)">
+		<description>Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft)</description>
+		<rom name="Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft).cdt" size="23487" crc="9b276d7a" md5="973e4a93b22a58506edf31ab25cd3bc6" sha1="745920cefa370bd83b05dbbfffb96007fad94f5a" />
 	</game>
 	<game name="Cloud Sailor (2021) (rhgi1)">
 		<description>Cloud Sailor (2021) (rhgi1)</description>
@@ -187,6 +195,10 @@
 		<description>One Wonder (2023) (CPCRetroDev 2023) (Kaiwa-ams1)</description>
 		<rom name="One Wonder (2023) (CPCRetroDev 2023) (Kaiwa-ams1).cdt" size="33766" crc="06273f43" md5="ed5111e3b2de8da8b8a6de9a7c2c35ce" sha1="41985a057f7b073fc3ae3e0187f29ba4886701f4" />
 	</game>
+	<game name="Paleto Jones (2022) (UK) (v4.0) (Mananuk)">
+		<description>Paleto Jones (2022) (UK) (v4.0) (Mananuk)</description>
+		<rom name="Paleto Jones (2022) (UK) (v4.0) (Mananuk).cdt" size="32271" crc="db7b9721" md5="deef89eca41ff4e190e058ab589a3708" sha1="68f6e5284c458025c3273d42d58f3ee4aef76e2d" />
+	</game>
 	<game name="Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft)">
 		<description>Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft)</description>
 		<rom name="Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft).cdt" size="68284" crc="9812ddf2" md5="098ed6d87cfdd911501cd408a7df83ce" sha1="abef354e7d3bbd88995f2f4d4023914153989d7f" />
@@ -217,6 +229,10 @@
 	<game name="Shinobu (2020) (v20201006) (RubenRubioM)">
 		<description>Shinobu (2020) (v20201006) (RubenRubioM)</description>
 		<rom name="Shinobu (2020) (v20201006) (RubenRubioM).cdt" size="39447" crc="1d2d7b5a" md5="2baba6bfdc680f0c9b9d2e78feef9771" sha1="85d9b8658b7abc0c79a5c5e5a149e2784089616d" />
+	</game>
+	<game name="SkillTeam (2025) (v1.0) (David Programa)">
+		<description>SkillTeam (2025) (v1.0) (David Programa)</description>
+		<rom name="SkillTeam (2025) (v1.0) (David Programa).cdt" size="45865" crc="35dcf72c" md5="3ffe4ff23156a8d2f6835889e505000e" sha1="6f6855b0c2688c971be7454de935723b5886890a" />
 	</game>
 	<game name="Small Games for Smart Minds (2007) (ESP Soft)">
 		<description>Small Games for Smart Minds (2007) (ESP Soft)</description>

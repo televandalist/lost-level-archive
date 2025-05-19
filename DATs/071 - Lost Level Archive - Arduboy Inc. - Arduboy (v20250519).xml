@@ -5,7 +5,7 @@
 		<id>071</id>
 		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy</name>
 		<description>Arduboy Inc. - Arduboy</description>
-		<version>v20250405</version>
+		<version>v20250519</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -22,6 +22,10 @@
 	<game name="Bytes and Knights (World) (v2.0) (crait)">
 		<description>Bytes and Knights (World) (v2.0) (crait)</description>
 		<rom name="Bytes and Knights (World) (v2.0) (crait).arduboy" size="376059" crc="8a8352d4" md5="09ea58eaaa1f6a594dba131554455635" sha1="8490c91edd1344fcd75ea093f130552e634d739e" />
+	</game>
+	<game name="Bytes and Knights (World) (v3.1) (crait)">
+		<description>Bytes and Knights (World) (v3.1) (crait)</description>
+		<rom name="Bytes and Knights (World) (v3.1) (crait).arduboy" size="382957" crc="bca786a9" md5="c4d4d10373319d98a1b2b4154ab4d9ac" sha1="48932b6599ba31bb5d69a329cfa30b498778a43c" />
 	</game>
 	<game name="Dazzle Dash (World) (brow1067)">
 		<description>Dazzle Dash (World) (brow1067)</description>
