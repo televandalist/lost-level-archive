@@ -5,7 +5,7 @@
 		<id>002</id>
 		<name>002 - Lost Level Archive - Nintendo - Nintendo 64</name>
 		<description>Nintendo - Nintendo 64</description>
-		<version>v20250330</version>
+		<version>v20250519</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -18,6 +18,22 @@
 	<game name="Dragon Sword 64 (USA) (Prototype) (1999-08-25)">
 		<description>Dragon Sword 64 (USA) (Prototype) (1999-08-25)</description>
 		<rom name="Dragon Sword 64 (USA) (Prototype) (1999-08-25).n64" size="9448848" crc="dcea9210" md5="770d0d2bb08235613569667a284bca2c" sha1="efbdbcb499a3d8a37613ca1d94528016bdbf5735" />
+	</game>
+	<game name="Driving Strikers 64 (USA) (v1.00) (Aftermarket) (Unl)">
+		<description>Driving Strikers 64 (USA) (v1.00) (Aftermarket) (Unl)</description>
+		<rom name="Driving Strikers 64 (USA) (v1.00) (Aftermarket) (Unl).z64" size="16482304" crc="b74867fd" md5="d4edcddf8c4bf070b3cd406a0613ab90" sha1="4d0ff3bad830e138cfe54e24eb0a8e990449a4eb" />
+	</game>
+	<game name="Driving Strikers 64 (USA) (v1.01) (Aftermarket) (Unl)">
+		<description>Driving Strikers 64 (USA) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="Driving Strikers 64 (USA) (v1.01) (Aftermarket) (Unl).z64" size="16482304" crc="4e4b8b74" md5="355c526441218cb8141c0ed66b45639a" sha1="09c01bff72d2daafe3bad1a2a212ca33429bdee0" />
+	</game>
+	<game name="Driving Strikers 64 (USA) (v1.02) (Aftermarket) (Unl)">
+		<description>Driving Strikers 64 (USA) (v1.02) (Aftermarket) (Unl)</description>
+		<rom name="Driving Strikers 64 (USA) (v1.02) (Aftermarket) (Unl).z64" size="16498688" crc="99593ec9" md5="78750b94537a368b13646f306b0b5cf8" sha1="fe43f2eb3fceb7c62726eea7f4d4b1c3b0d3a07c" />
+	</game>
+	<game name="Driving Strikers 64 (USA) (v1.03) (Aftermarket) (Unl)">
+		<description>Driving Strikers 64 (USA) (v1.03) (Aftermarket) (Unl)</description>
+		<rom name="Driving Strikers 64 (USA) (v1.03) (Aftermarket) (Unl).z64" size="16547840" crc="57f0e9a6" md5="f18f302522f5d518cf9749f7eee5b52c" sha1="f557c900fb1c66492445161d5122ccad33d2cca9" />
 	</game>
 	<game name="Penguins Luv Melons (World) (v1.0) (Aftermarket) (Unl) (Sanni)">
 		<description>Penguins Luv Melons (World) (v1.0) (Aftermarket) (Unl) (Sanni)</description>

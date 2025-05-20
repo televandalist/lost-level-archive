@@ -124,6 +124,10 @@
 		<description>Kingdom Hearts - Final Mix (Japan) (En) (v2.1) (Crazycatz00)</description>
 		<rom name="Kingdom Hearts - Final Mix (Japan) (En) (v2.1) (Crazycatz00).iso" size="3542566912" crc="534be7ab" md5="e1ec603311faa74536947064569d3c78" sha1="a9c6a1bee1d6d9566c5bf8cc0f9b259456772c4e" />
 	</game>
+	<game name="Kingdom Hearts - Final Mix (Japan) (En) (v2.2.1) (Crazycatz00)">
+		<description>Kingdom Hearts - Final Mix (Japan) (En) (v2.2.1) (Crazycatz00)</description>
+		<rom name="Kingdom Hearts - Final Mix (Japan) (En) (v2.2.1) (Crazycatz00).iso" size="3542579200" crc="526fe16c" md5="8a68b25a543e8816307853361a0dccce" sha1="d5638cc3be3647bcbcbf87b1149b95ffc293bc6b" />
+	</game>
 	<game name="Kingdom Hearts II - Final Mix+ (Japan) (En) (Undub) (v1.0) (Hidden Smithery))">
 		<description>Kingdom Hearts II - Final Mix+ (Japan) (En) (Undub) (v1.0) (Hidden Smithery))</description>
 		<rom name="Kingdom Hearts II - Final Mix+ (Japan) (En) (Undub) (v1.0) (Hidden Smithery)).iso" size="4783433728" crc="557798c9" md5="ed6d295af69e7847ca6f269c77cbaafe" sha1="70bc74041d54d2368a5aacbae14b1cf911b851ea" />
@@ -242,6 +246,10 @@
 	<game name="Wild Arms 4 (USA) (Undub) (Unknown)">
 		<description>Wild Arms 4 (USA) (Undub) (Unknown)</description>
 		<rom name="Wild Arms 4 (USA) (Undub) (Unknown).iso" size="4550950912" crc="063b6826" md5="3dc6b548f275edc149126accabd5a9ef" sha1="c48ffa5d5519086bd4d9d47309dd4f9a9c2fdaf0" />
+	</game>
+	<game name="World Soccer Winning Eleven 10 - Bomba Patch (v4.1) (GeoMatrix)">
+		<description>World Soccer Winning Eleven 10 - Bomba Patch (v4.1) (GeoMatrix)</description>
+		<rom name="World Soccer Winning Eleven 10 - Bomba Patch (v4.1) (GeoMatrix).iso" size="1733591040" crc="abda9016" md5="0ba3d32528426738b724f2f5a3a21671" sha1="9c3a412bf45f4d6a331f125a3c91f86bf940d334" />
 	</game>
 	<game name="Xump - The Final Run (USA) (v1.10) (Aftermarket) (Retroguru)">
 		<description>Xump - The Final Run (USA) (v1.10) (Aftermarket) (Retroguru)</description>
