@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>006</id>
+		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
+		<description>Nintendo - Game Boy Color</description>
+		<version>v20250621</version>
+		<author>tele</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="2003 Crash II Advance (China) (Bootleg) (Unl)">
+		<description>2003 Crash II Advance (China) (Bootleg) (Unl)</description>
+		<rom name="2003 Crash II Advance (China) (Bootleg) (Unl).gbc" size="4194304" crc="0af243bf" md5="927abf95eaada539668c2e71d35be5c7" sha1="13b1a3f64664cc09f628e53e13c9b66b17e9f500" />
+	</game>
+	<game name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)">
+		<description>AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)</description>
+		<rom name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl).gbc" size="524288" crc="f71042b8" md5="df0d1dba0a83f8d65e3bb7e6720ef8eb" sha1="c3f0296535e11fd6fb581c976e2cb98b0f15506b" />
+	</game>
+	<game name="Alche-mouse-t (World) (MVM15) (Aftermarket) (Unl)">
+		<description>Alche-mouse-t (World) (MVM15) (Aftermarket) (Unl)</description>
+		<rom name="Alche-mouse-t (World) (MVM15) (Aftermarket) (Unl).gbc" size="524288" crc="f76b0b1a" md5="d5625c8b0ef86fd8cef650e9a82575da" sha1="9069cd45a1cc7e271ad96f3ea812268aada38b0b" />
+	</game>
+	<game name="Alien 3 - Rescue Team (World) (Horror Jam - Space) (Aftermarket) (Unl)">
+		<description>Alien 3 - Rescue Team (World) (Horror Jam - Space) (Aftermarket) (Unl)</description>
+		<rom name="Alien 3 - Rescue Team (World) (Horror Jam - Space) (Aftermarket) (Unl).gbc" size="262144" crc="b8851c05" md5="f329c13fcde372031113e68cd6f4d6ba" sha1="c0dbd92dbe8a4ee36f4404a6ff2fad457a707a35" />
+	</game>
+	<game name="Baldi's Gameboy All Stars (World) (v3.0.5c) (Aftermarket) (Unl)">
+		<description>Baldi's Gameboy All Stars (World) (v3.0.5c) (Aftermarket) (Unl)</description>
+		<rom name="Baldi's Gameboy All Stars (World) (v3.0.5c) (Aftermarket) (Unl).gbc" size="4194304" crc="e3af62be" md5="b4cd927bc68f6da5678df20d079b2421" sha1="f0890d2e9a9600021a0d570b7e3f9d04384baeb1" />
+	</game>
+	<game name="Balloon Fight GB (Japan) (NP, SGB Enhanced) [T-Eng] [T-ACE] [V-1.0 A-2015]">
+		<description>Balloon Fight GB (Japan) (NP, SGB Enhanced) [T-Eng] [T-ACE] [V-1.0 A-2015]</description>
+		<rom name="Balloon Fight GB (Japan) (NP, SGB Enhanced) [T-Eng] [T-ACE] [V-1.0 A-2015].gbc" size="262144" crc="0f3fb0f1" md5="2a0abe753877bf312725a9122f1e6489" sha1="e22d939f2a9afdb26259e68de4c64aca734933e0" />
+	</game>
+	<game name="Best Text Adventure, The (World) (Aftermarket) (Unl)">
+		<description>Best Text Adventure, The (World) (Aftermarket) (Unl)</description>
+		<rom name="Best Text Adventure, The (World) (Aftermarket) (Unl).gbc" size="1048576" crc="7b13d437" md5="e15744f9e33180f5825c0242900f5a89" sha1="6689a6180096160a44349338e29f2002f2f26da1" />
+	</game>
+	<game name="Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl)">
+		<description>Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl)</description>
+		<rom name="Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl).gbc" size="524288" crc="068d6a70" md5="de6bafbf23389d72a4bab17b83e479d3" sha1="597e3900de3b75002096e07ebd0839186c7594a7" />
+	</game>
+	<game name="Candy Curfew (World) (v1.1) (Aftermarket) (GB Studio) (birdup)">
+		<description>Candy Curfew (World) (v1.1) (Aftermarket) (GB Studio) (birdup)</description>
+		<rom name="Candy Curfew (World) (v1.1) (Aftermarket) (GB Studio) (birdup).gbc" size="262144" crc="7b94b3a4" md5="9897f2ca117a6dea29c277ab90fe3e86" sha1="a1337ab513d843cd3a3271191cfea3051e53d1d7" status="none" />
+	</game>
+	<game name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)">
+		<description>Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)</description>
+		<rom name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl).gbc" size="262144" crc="5312f81c" md5="4daf9a94ff78252257e22a34516e5105" sha1="05d553049a1ba1999e5891097471bff1b882cee7" />
+	</game>
+	<game name="CharaVera Non Chilla - Let Me Sleep (World) (v1.5.2) (Aftermarket) (Protopixel)">
+		<description>CharaVera Non Chilla - Let Me Sleep (World) (v1.5.2) (Aftermarket) (Protopixel)</description>
+		<rom name="CharaVera Non Chilla - Let Me Sleep (World) (v1.5.2) (Aftermarket) (Protopixel).gbc" size="262144" crc="976bae4f" md5="2625ae08904a6437be85ef0c845d052e" sha1="e278fc381686add76d88e8f7dffadf1da4de6368" status="none" />
+	</game>
+	<game name="Combo Fishing (World) (Aftermarket) (Unl)">
+		<description>Combo Fishing (World) (Aftermarket) (Unl)</description>
+		<rom name="Combo Fishing (World) (Aftermarket) (Unl).gbc" size="524288" crc="5c307010" md5="029cd8ae6b130b91918597239464cc35" sha1="61217782f0947a6c947c8a12eff12a8b9ce6d120" />
+	</game>
+	<game name="Connect All the Bots (World) (v20220619) (allalonegamez)">
+		<description>Connect All the Bots (World) (v20220619) (allalonegamez)</description>
+		<rom name="Connect All the Bots (World) (v20220619) (allalonegamez).gbc" size="262144" crc="2af4f738" md5="322d262c6c7d3c18dc2ea91ad65be08e" sha1="a5b592adf3a6d68853708e53bd4bb74bcf40be5d" />
+	</game>
+	<game name="Consume (World) (Aftermarket) (GB Studio)">
+		<description>Consume (World) (Aftermarket) (GB Studio)</description>
+		<rom name="Consume (World) (Aftermarket) (GB Studio).gbc" size="2097152" crc="8caff077" md5="143dfbbdfa9b188684d0837692df581d" sha1="99608d5b8282be899c952ed7433164e40440acc0" />
+	</game>
+	<game name="Crystal Depths (World) (v1.3) (Aftermarket) (GB Studio) (quackdev)">
+		<description>Crystal Depths (World) (v1.3) (Aftermarket) (GB Studio) (quackdev)</description>
+		<rom name="Crystal Depths (World) (v1.3) (Aftermarket) (GB Studio) (quackdev).gbc" size="524288" crc="124b7b55" md5="a03811ac2a40001240756c0c7c2be808" sha1="e8b2e1f2af2117ebc5b92ddedc69a60707788864" status="none" />
+	</game>
+	<game name="Crystal Depths - Hard Mode (World) (v1.3) (Aftermarket) (GB Studio) (quackdev)">
+		<description>Crystal Depths - Hard Mode (World) (v1.3) (Aftermarket) (GB Studio) (quackdev)</description>
+		<rom name="Crystal Depths - Hard Mode (World) (v1.3) (Aftermarket) (GB Studio) (quackdev).gbc" size="524288" crc="9c78a7ed" md5="0dc316f7716764d4fde5daada55a02f9" sha1="dceb465c7acfc22099e7c2743e40bec018de4d4d" status="none" />
+	</game>
+	<game name="Dangan GB2 (World) (Aftermarket) (Unl)">
+		<description>Dangan GB2 (World) (Aftermarket) (Unl</description>
+		<rom name="Dangan GB2 (World) (Aftermarket) (Unl).gbc" size="524288" crc="c5d3d66a" md5="82ab96cba5233ec4a07cf21d81e625b7" sha1="a8f61ff5049e19b1b30a29bf9d996cb40b1f55c3" />
+	</game>
+	<game name="Date with Falco (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Date with Falco (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Date with Falco (World) (v1.0) (Aftermarket) (Unl).gbc" size="524288" crc="bd513f20" md5="1145a60834a2f5910559e33cde6b6d1a" sha1="58cf2e1959e2c563117cf3c47017f4b9a94f4df2" />
+	</game>
+	<game name="Days Without - Elvies [More Endings] (World) (Aftermarket) (Unl)">
+		<description>Days Without - Elvies [More Endings] (World) (Aftermarket) (Unl)</description>
+		<rom name="Days Without - Elvies [More Endings] (World) (Aftermarket) (Unl).gbc" size="262144" crc="f771966a" md5="a51e8561778943f794942070f137ecb6" sha1="6d8463829db7307fbf7f9d562678edf2ead0a123" />
+	</game>
+	<game name="DE '22 (World) (v1.0.3) (Aftermarket) (Unl)">
+		<description>DE '22 (World) (v1.0.3) (Aftermarket) (Unl)</description>
+		<rom name="DE '22 (World) (v1.0.3) (Aftermarket) (Unl).gbc" size="524288" crc="a25e36ec" md5="55d9bf25d3c02a160e76c798923c3874" sha1="29e117c6555da9157d602a66b12c9fc18a7179eb" />
+	</game>
+	<game name="Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl)">
+		<description>Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl)</description>
+		<rom name="Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl).gbc" size="524288" crc="5322fa2b" md5="70b4c73e34c53ac818d15daa6682c396" sha1="355e76f7cf46b383320eb3ad8e40fc1db58f9ad1" />
+	</game>
+	<game name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)">
+		<description>Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)</description>
+		<rom name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222).gbc" size="2097152" crc="b7cdf437" md5="160d4da4a787f957fbd5079db6ee86b2" sha1="2910f9cc95a2e521abf63d7b79b329216145997c" />
+	</game>
+	<game name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)">
+		<description>Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)</description>
+		<rom name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games).gbc" size="4194304" crc="ab96806a" md5="b90fae25ad1dbc7599758c1744287267" sha1="7c86eefe37b82d422327651b8761c1f8b0ca327d" />
+	</game>
+	<game name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)">
+		<description>Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)</description>
+		<rom name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl).gbc" size="524288" crc="b5d08d14" md5="59e32f8c38b3400bc147a470c88fb582" sha1="cbb21e03b63f72648ac3dfbc5fc5818fd15b6d3c" />
+	</game>
+	<game name="Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl).gbc" size="1048576" crc="eed25d4f" md5="25ef30a66b243c1af2baffcfc835ac14" sha1="f5a0f63705746c822d720b583af4efbe9ba5c44c" />
+	</game>
+	<game name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)">
+		<description>G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl).gbc" size="262144" crc="2f813033" md5="3e151d9bfd7b36a80ef475a98863a001" sha1="0407a3fc4c8c6711cde8fe9d07860dc3ef075f5e" />
+	</game>
+	<game name="Geometrix (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Geometrix (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Geometrix (World) (v1.0) (Aftermarket) (Unl).gbc" size="32768" crc="36ddbadd" md5="04438a4b074a8b4f8ea00619cae1d7f7" sha1="634abc5f16ccc20696d428457dd3f9b7249c0942" />
+	</game>
+	<game name="Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios)">
+		<description>Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios)</description>
+		<rom name="Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios).gbc" size="131072" crc="2bc7966a" md5="bdb05d090a09740ae2c176b218b9fb8e" sha1="3fb6e11f707e0a3f768245e789897532b6fe79be" />
+	</game>
+	<game name="Grand Battle Stadium (World) (v0.2.1) (GB Comp 2021) (Aftermarket) (GB Studio)">
+		<description>Grand Battle Stadium (World) (v0.2.1) (GB Comp 2021) (Aftermarket) (GB Studio)</description>
+		<rom name="Grand Battle Stadium (World) (v0.2.1) (GB Comp 2021) (Aftermarket) (GB Studio).gbc" size="1048576" crc="d9515abf" md5="5c078d0d969c6f05ff4526c44dae0ac3" sha1="f65f2af36430a401ce03212f835242a3e77e36ba" />
+	</game>
+	<game name="Hatsune Miku Bomb Squad (World) (v1.3) (Aftermarket) (Unl)">
+		<description>Hatsune Miku Bomb Squad (World) (v1.3) (Aftermarket) (Unl)</description>
+		<rom name="Hatsune Miku Bomb Squad (World) (v1.3) (Aftermarket) (Unl).gbc" size="524288" crc="b5465484" md5="6364d4ca7ea0f83981e97c12fd08ea97" sha1="4592070930a50e7f21ec10ecf0ef3d2365aec9a7" />
+	</game>
+	<game name="Hollow Knight - Fool's Song (World) (v1.0) (Aftermarket) (GB Studio) (Elvies)">
+		<description>Hollow Knight - Fool's Song (World) (v1.0) (Aftermarket) (GB Studio) (Elvies)</description>
+		<rom name="Hollow Knight - Fool's Song (World) (v1.0) (Aftermarket) (GB Studio) (Elvies).gbc" size="262144" crc="6ec78d99" md5="b4964022a907bb0005b476b0d313ab58" sha1="eba159a6431d6f868596d3edfb7ac58f09f01063" />
+	</game>
+	<game name="Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl)">
+		<description>Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl)</description>
+		<rom name="Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl).gbc" size="1048576" crc="6f22a180" md5="e384387fff6714b7a97b62a6b4bcb61a" sha1="4233940d26e7e41288a02584010a2414aa71e748" />
+	</game>
+	<game name="Hong Kong 2099 (World) (Aftermarket) (Unl)">
+		<description>Hong Kong 2099 (World) (Aftermarket) (Unl)</description>
+		<rom name="Hong Kong 2099 (World) (Aftermarket) (Unl).gbc" size="524288" crc="28f9e064" md5="c1dd8c5952ea02286616d3ff0d8c54cb" sha1="ee17c7e334d17a78bd120c1de41a7020b57344db" />
+	</game>
+	<game name="Hungry Knight (World) (v3.0) (Aftermarket) (GB Studio)">
+		<description>Hungry Knight (World) (v3.0) (Aftermarket) (GB Studio)</description>
+		<rom name="Hungry Knight (World) (v3.0) (Aftermarket) (GB Studio).gbc" size="262144" crc="6a1bad79" md5="20cd20640a0c012885cc4488b8edcec7" sha1="b976f88abf5912ff80213c7ed411baae63f91362" />
+	</game>
+	<game name="Inventory Full (World) (v1.0.3) (Aftermarket) (Unl)">
+		<description>Inventory Full (World) (v1.0.3) (Aftermarket) (Unl)</description>
+		<rom name="Inventory Full (World) (v1.0.3) (Aftermarket) (Unl).gbc" size="524288" crc="36174683" md5="e9bf8b6977020c869dc5f2d3304961c2" sha1="ff5fc33f6009a8819c6cbde00174c074aab3ecef" />
+	</game>
+	<game name="Jayro's Keys (World) (v1.1) (Aftermarket) (Jayro Jones)">
+		<description>Jayro's Keys (World) (v1.1) (Aftermarket) (Jayro Jones)</description>
+		<rom name="Jayro's Keys (World) (v1.1) (Aftermarket) (Jayro Jones).gbc" size="131072" crc="8bc08db4" md5="6ee378cde01d68d732684c5d10fe8c41" sha1="db1aeb16a912d4601e3dbadfe110dcaf8429d14f" />
+	</game>
+	<game name="Jet Set Willy (World) (WLS) (Aftermarket) (GB Studio)">
+		<description>Jet Set Willy (World) (WLS) (Aftermarket) (GB Studio)</description>
+		<rom name="Jet Set Willy (World) (WLS) (Aftermarket) (GB Studio).gbc" size="262144" crc="b7590216" md5="c4258d9d2cb6d802d8ffdc209c33391c" sha1="0a6ef737409e83def7497cf9606bdcd2c9539e9e" />
+	</game>
+	<game name="Joey (World) (WLS) (Aftermarket) (GB Studio)">
+		<description>Joey (World) (WLS) (Aftermarket) (GB Studio)</description>
+		<rom name="Joey (World) (WLS) (Aftermarket) (GB Studio).gbc" size="262144" crc="338e611d" md5="59b0b8c6690f1c188bb9b23b60d8e3bc" sha1="e864ae8ae433e8500c89ab868bcc25ba42275a98" />
+	</game>
+	<game name="Karpe Diem (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Karpe Diem (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Karpe Diem (World) (v1.0) (Aftermarket) (Unl).gbc" size="524288" crc="91cc7412" md5="c3ff18fa6209d7302f91948b1ae42843" sha1="94a85b63a7340a03d3e8e41fda45408b4cb2ba3b" />
+	</game>
+	<game name="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl).gbc" size="4194304" crc="a52b5270" md5="fc0712c84209785a3a78e6a04dc5b89c" sha1="282667fe2652645b4f999e71a127a708f0fcd7cb" />
+	</game>
+	<game name="Knights of the Zodiac - The Phoenix Returns (World) (Es) (v1.4.0) (Aftermarket) (Unl)" cloneof="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (Es) (v1.4.0) (Aftermarket) (Unl)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Es) (v1.4.0) (Aftermarket) (Unl).gbc" size="4194304" crc="c9b24ad0" md5="fa6561096455baa88b399164b676496b" sha1="4ca502dd3f252d033a9c633b93a3f85521acffb0" />
+	</game>
+	<game name="Knights of the Zodiac - The Phoenix Returns (World) (Es) (v1.4.1) (Aftermarket) (Unl)" cloneof="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (Es) (v1.4.1) (Aftermarket) (Unl)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Es) (v1.4.1) (Aftermarket) (Unl).gbc" size="4194304" crc="60f85669" md5="7acc4ab4a83726cd2873271f82ef3f63" sha1="415e48abc0de4c0cc87e676471baad0382149b7d" />
+	</game>
+	<game name="Knights of the Zodiac - The Phoenix Returns (World) (Fr) (v1.2.1) (Aftermarket) (Unl)" cloneof="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (Fr) (v1.2.1) (Aftermarket) (Unl)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Fr) (v1.2.1) (Aftermarket) (Unl).gbc" size="4194304" crc="25929c86" md5="f79c225fbc24ff9844d5b2f012a8541e" sha1="62cd97ceaed79c33d57a106f098744510d8d3184" />
+	</game>
+	<game name="Knights of the Zodiac - The Phoenix Returns (World) (It) (v1.2.0) (Aftermarket) (Unl)" cloneof="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (It) (v1.2.0) (Aftermarket) (Unl)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (It) (v1.2.0) (Aftermarket) (Unl).gbc" size="4194304" crc="9ff6e42d" md5="3ca37ba893d5795af2c6b9b6563126a2" sha1="9513949d6ec549b9f2aac03af32f412e00462fee" />
+	</game>
+	<game name="Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl)" cloneof="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl).gbc" size="4194304" crc="0c6cdaaa" md5="a208b6e3cea582b1e45255031b6b7152" sha1="2e28c460be56eaeae975f620c66228e1cf66b1ed" />
+	</game>
+	<game name="Laura's Room (World) (Aftermarket) (GB Studio) (Morgis)">
+		<description>Laura's Room (World) (Aftermarket) (GB Studio) (Morgis)</description>
+		<rom name="Laura's Room (World) (Aftermarket) (GB Studio) (Morgis).gbc" size="262144" crc="fee1594d" md5="7b94b1d14da6ce298bf106388b314a93" sha1="693114c4ab48050a3c9b04152e19f7c9b34adbc6" status="none" />
+	</game>
+	<game name="Liminal. (World) (Ca) (BN) (Aftermarket) (GB Studio)">
+		<description>Liminal. (World) (Ca) (BN) (Aftermarket) (GB Studio)</description>
+		<rom name="Liminal. (World) (Ca) (BN) (Aftermarket) (GB Studio).gbc" size="1048576" crc="beb7905e" md5="fd8c728dcdbbcd27df161be8b7d1df04" sha1="d33fa5693c52b753f53103434ee4ab7a314ff85d" />
+	</game>
+	<game name="Liminal. (World) (Ca) (Color) (Aftermarket) (GB Studio)">
+		<description>Liminal. (World) (Ca) (Color) (Aftermarket) (GB Studio)</description>
+		<rom name="Liminal. (World) (Ca) (Color) (Aftermarket) (GB Studio).gbc" size="1048576" crc="7c7d4392" md5="152eb065a6ba1eb6323abd7d5fb7592b" sha1="136a1e4e5e710eee365754e2a7db90d7118d7f8e" />
+	</game>
+	<game name="Liminal. (World) (En) (Aftermarket) (GB Studio)">
+		<description>Liminal. (World) (En) (Aftermarket) (GB Studio)</description>
+		<rom name="Liminal. (World) (En) (Aftermarket) (GB Studio).gbc" size="1048576" crc="516a6f5c" md5="b6f3b0b61697e6f65a8f9f7b5595d903" sha1="b10ec5247af8c5b4f0c6934b3cc673f282c02039" />
+	</game>
+	<game name="Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl)">
+		<description>Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl)</description>
+		<rom name="Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl).gbc" size="262144" crc="d20ab5bd" md5="c93bd5f1928944452cee933dce345f89" sha1="215180e6d2482f3208315fb17a35830c6560133e" />
+	</game>
+	<game name="Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)">
+		<description>Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)</description>
+		<rom name="Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl).gbc" size="524288" crc="1d758544" md5="91c3d238305f308e00fca917d996bb40" sha1="644a6409949520b1c7a654eed6a156d35967ec1c" />
+	</game>
+	<game name="Metal Slug 2001 (China) (Bootleg) (Unl)">
+		<description>Metal Slug 2001 (China) (Bootleg) (Unl)</description>
+		<rom name="Metal Slug 2001 (China) (Bootleg) (Unl).gbc" size="1048576" crc="424cea4a" md5="4663b0592262bbd45fbd517988703548" sha1="d8ea5abeb33e19ddfea3102f009e45ba9293ce76" />
+	</game>
+	<game name="Metroid Dread Demake (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Metroid Dread Demake (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Metroid Dread Demake (World) (v1.0) (Aftermarket) (Unl).gbc" size="262144" crc="858bab79" md5="b694cf3747aea6ac213cf2401f0ad421" sha1="a49810d37a58b02ed5af7cd9a07b54d93f812223" />
+	</game>
+	<game name="Mina the Hollower GBC Demake (World) (Aftermarket) (Unl)">
+		<description>Mina the Hollower GBC Demake (World) (Aftermarket) (Unl)</description>
+		<rom name="Mina the Hollower GBC Demake (World) (Aftermarket) (Unl).gbc" size="262144" crc="66af8f9e" md5="ae74b0c434f0097cfd674a66d47062cc" sha1="1d1f073fef78599f8074c80c24a1b8ea72f78361" />
+	</game>
+	<game name="Mist, The (World) (v1.3.3) (Aftermarket) (Unl)">
+		<description>Mist, The (World) (v1.3.3) (Aftermarket) (Unl)</description>
+		<rom name="Mist, The (World) (v1.3.3) (Aftermarket) (Unl).gbc" size="524288" crc="f088ffbd" md5="dafb6629c51cdf4bb11f9b6154321aa0" sha1="6d10498e8d7934d7b481118760fdb62469fba07b" />
+	</game>
+	<game name="Mouse Trap (World) (v19991225) (Fan Port) (Unl)">
+		<description>Mouse Trap (World) (v19991225) (Fan Port) (Unl)</description>
+		<rom name="Mouse Trap (World) (v19991225) (Fan Port) (Unl).gbc" size="32768" crc="157ab813" md5="8fbd91804b0ce1792ca2138f540401fc" sha1="fe46717d4118b14a74f676443e559bc73b90d3fc" />
+	</game>
+	<game name="My Saturday Grounded (World) (v2.0) (Aftermarket) (Unl)">
+		<description>My Saturday Grounded (World) (v2.0) (Aftermarket) (Unl)</description>
+		<rom name="My Saturday Grounded (World) (v2.0) (Aftermarket) (Unl).gbc" size="262144" crc="703ad0bc" md5="02d5f8a622ba5255eb544fc38ef81728" sha1="f3f7931255ef2279e632ec12a86236cb05169095" />
+	</game>
+	<game name="Noble Blood (World) (Shacknews Jam Fall 2023) (Aftermarket) (Unl)">
+		<description>Noble Blood (World) (Shacknews Jam Fall 2023) (Aftermarket) (Unl)</description>
+		<rom name="Noble Blood (World) (Shacknews Jam Fall 2023) (Aftermarket) (Unl).gbc" size="262144" crc="703c466b" md5="aaafb103c5c85e50a024b61e14f30497" sha1="49533d91ea8e40dbf716b7e4e879a6f8164d5ae8" />
+	</game>
+	<game name="Obscenture (World) (v1.01) (Aftermarket) (Unl)">
+		<description>Obscenture (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="Obscenture (World) (v1.01) (Aftermarket) (Unl).gbc" size="2097152" crc="95b6f7bb" md5="74996e87555cbf6e0e63bc61a43c7ddb" sha1="fc75c0335a98f6444bc5d9bd541c68ba98b19975" />
+	</game>
+	<game name="Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz)">
+		<description>Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz)</description>
+		<rom name="Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz).gbc" size="1048576" crc="3779bf1e" md5="cd88815473884f930302098576754ce1" sha1="98e2532efd381264751d7ac3c26718c6200e4cd0" status="none" />
+	</game>
+	<game name="Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz)">
+		<description>Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz)</description>
+		<rom name="Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz).gbc" size="1048576" crc="ba77e1fa" md5="0a23d354e139f40fe409fce3fc1f503c" sha1="09b35cfab7ee7f5c7f08887e1ffda255b58c3c6a" status="none" />
+	</game>
+	<game name="Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)">
+		<description>Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)</description>
+		<rom name="Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio).gbc" size="2097152" crc="e23eefa3" md5="edb99083d0260d3c0ab9446725d4f3fa" sha1="7b60ca219c3cc178e5c59b72801858c6a585b109" />
+	</game>
+	<game name="Paramo Yermo (World) (En) (Aftermarket) (GB Studio)">
+		<description>Paramo Yermo (World) (En) (Aftermarket) (GB Studio)</description>
+		<rom name="Paramo Yermo (World) (En) (Aftermarket) (GB Studio).gbc" size="2097152" crc="ed36f665" md5="1cf039797685a45f5ed64babf9890d77" sha1="bf6a4f2aa57eb09a11f760dc48a7e4cb9da8e48a" />
+	</game>
+	<game name="Paramo Yermo (World) (Es) (Aftermarket) (GB Studio)">
+		<description>Paramo Yermo (World) (Es) (Aftermarket) (GB Studio)</description>
+		<rom name="Paramo Yermo (World) (Es) (Aftermarket) (GB Studio).gbc" size="2097152" crc="2ec2ecc6" md5="e26455fae5f0d9b03d33126809369e75" sha1="c68bf5ec9508bc72b5ddc4036e7a1b7ae4818590" />
+	</game>
+	<game name="Piropa (World) (v2.1) (Aftermarket) (sg)">
+		<description>Piropa (World) (v2.1) (Aftermarket) (sg)</description>
+		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg).gbc" size="262144" crc="a8787006" md5="6d7e36ff5900e2ce2e30854c62aa697e" sha1="e0697fdfb0509ae68c8d1ffc3e138dd65301c7e1" status="none" />
+	</game>
+	<game name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)">
+		<description>Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)</description>
+		<rom name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl).gbc" size="131072" crc="16f444cf" md5="09ec8f62034f0219e0a82e3f01f48ba7" sha1="cdfc9441ea05b1ba5312c7b4fc5d7df21d74cd31" />
+	</game>
+	<game name="Resident Evil (USA) (Prototype 2)">
+		<description>Resident Evil (USA) (Prototype 2)</description>
+		<rom name="Resident Evil (USA) (Prototype 2).gbc" size="4194304" crc="6de8c8ad" md5="cb0e23b09470002fe33732b1f0e02b06" sha1="d359051dd39645abebd1ead3a803905ebabe00eb" />
+	</game>
+	<game name="Resident Evil - Grim Beginnings (World) (v0.9) (Aftermarket) (GB Studio)">
+		<description>Resident Evil - Grim Beginnings (World) (v0.9) (Aftermarket) (GB Studio)</description>
+		<rom name="Resident Evil - Grim Beginnings (World) (v0.9) (Aftermarket) (GB Studio).gbc" size="1048576" crc="305bd222" md5="14350807b70be97842d25bed17e41550" sha1="ed5746ed92d9727d50631bf08ed1387d466a0046" />
+	</game>
+	<game name="Rezal (World) (GBA Jam 2024) (Aftermarket) (Unl)">
+		<description>Rezal (World) (GBA Jam 2024) (Aftermarket) (Unl)</description>
+		<rom name="Rezal (World) (GBA Jam 2024) (Aftermarket) (Unl).gbc" size="262144" crc="c5048c76" md5="9a5ca9da453a74e3e6745eecea8a009d" sha1="e2489ac617078504443ee2e468e62fec8ca81744" />
+	</game>
+	<game name="Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket) (Unl)">
+		<description>Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket) (Unl)</description>
+		<rom name="Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket) (Unl).gbc" size="262144" crc="7caeefc9" md5="93d2d9acc1e9cd454ccb575100ce5070" sha1="cb97fb2041a732fe9bae7647294502fc7befee18" />
+	</game>
+	<game name="Rock, Paper, Scissors (World) (Aftermarket) (GB Studio)">
+		<description>Rock, Paper, Scissors (World) (Aftermarket) (GB Studio)</description>
+		<rom name="Rock, Paper, Scissors (World) (Aftermarket) (GB Studio).gb" size="524288" crc="9c5a81e9" md5="bb25f9e41dc9b63e4665fd85fd7c6b1b" sha1="e7540246b773830d02e3bab50410af7f5fa95749" />
+	</game>
+	<game name="Rockman 8 (Taiwan) (Bootleg) (Unl)">
+		<description>Rockman 8 (Taiwan) (Bootleg) (Unl)</description>
+		<rom name="Rockman 8 (Taiwan) (Bootleg) (Unl).gb" size="524288" crc="70ca2e0f" md5="c451d94988287dd003458d7978bbe627" sha1="3f9286d8396f9045c2fef1f57adb0f5980978986" />
+	</game>
+	<game name="Rockman X4 (Rockman 8 Hack) (Taiwan) (Bootleg) (Unl)">
+		<description>Rockman X4 (Rockman 8 Hack) (Taiwan) (Bootleg) (Unl)</description>
+		<rom name="Rockman X4 (Rockman 8 Hack) (Taiwan) (Bootleg) (Unl).gbc" size="524288" crc="d8ebee7e" md5="b2bcbf7da3619e14ea86d6aaa2800c7d" sha1="1f2524b452c6714b89c0bdce8ed28028dd239141" />
+	</game>
+	<game name="Rotagraph (World) (Aftermarket) (Unl)">
+		<description>Rotagraph (World) (Aftermarket) (Unl)</description>
+		<rom name="Rotagraph (World) (Aftermarket) (Unl).gbc" size="32768" crc="4416a41f" md5="840cb597b62d194dd4bc8844fc4032fb" sha1="9c031d748865a5873b40d0b62db141f0426c1866" />
+	</game>
+	<game name="Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio)">
+		<description>Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio)</description>
+		<rom name="Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio).gbc" size="1048576" crc="b900ed70" md5="10876e1b4a66fea431ccf90d4b56dee7" sha1="a99a3bcd1ec0698bb39a53e279b49e95f8595810" />
+	</game>
+	<game name="Silent Hill 2 - Born From a Wish (World) (2024-05-31) (Demo) (Aftermarket) (Unl)">
+		<description>Silent Hill 2 - Born From a Wish (World) (2024-05-31) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Silent Hill 2 - Born From a Wish (World) (2024-05-31) (Demo) (Aftermarket) (Unl).gbc" size="1048576" crc="06d5a5bd" md5="48dc915a765d93d61557a03fd475e73e" sha1="d2079f04519d9f13020da2ca616a0b6634eb45d2" />
+	</game>
+	<game name="Silver Falls - Galaxy Bound Curse (World) (v0.88) (Aftermarket) (Unl)">
+		<description>Silver Falls - Galaxy Bound Curse (World) (v0.88) (Aftermarket) (Unl)</description>
+		<rom name="Silver Falls - Galaxy Bound Curse (World) (v0.88) (Aftermarket) (Unl).gbc" size="4194304" crc="d041f7a3" md5="3285b020ae9b818086aef6717bd4b7dd" sha1="74a43f4482708ec3c3e95ac56cd25b1537d901d7" />
+	</game>
+	<game name="Skinner &amp; the Superintendent (World) (En) (v1.0) (Aftermarket) (Unl)">
+		<description>Skinner &amp; the Superintendent (World) (En) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Skinner &amp; the Superintendent (World) (En) (v1.0) (Aftermarket) (Unl).gbc" size="524288" crc="c620e4e6" md5="df2e5192e40caf52dd514895255fd5e5" sha1="546ff05f5803a31936c403988b36a804ad1dccd7" />
+	</game>
+	<game name="Skinner &amp; the Superintendent (World) (Pt) (v1.0) (Aftermarket) (Unl)" cloneof="Skinner &amp; the Superintendent (World) (En) (v1.0) (Aftermarket) (Unl)">
+		<description>Skinner &amp; the Superintendent (World) (Pt) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Skinner &amp; the Superintendent (World) (Pt) (v1.0) (Aftermarket) (Unl).gbc" size="524288" crc="bce552a7" md5="ea90aa4b07d6e1e43434b1ed1b471f4e" sha1="a6a6e3fef9bd3d8344229b9654c8ee8c88f6a864" />
+	</game>
+	<game name="Slender - The 8 Pages (World) (Aftermarket) (Unl)">
+		<description>Slender - The 8 Pages (World) (Aftermarket) (Unl)</description>
+		<rom name="Slender - The 8 Pages (World) (Aftermarket) (Unl).gbc" size="524288" crc="350f7fe6" md5="4165032fb478ebda7e15d35deb5937a8" sha1="e864bd35bf80cf03a45f39111a6b9648df8b7f46" />
+	</game>
+	<game name="Snout (World) (Demo) (v1.3) (Aftermarket) (GB Studio) (Saan Games)">
+		<description>Snout (World) (Demo) (v1.3) (Aftermarket) (GB Studio) (Saan Games)</description>
+		<rom name="Snout (World) (Demo) (v1.3) (Aftermarket) (GB Studio) (Saan Games).gbc" size="524288" crc="2fc1e292" md5="fe7e85cad9b02e8e0f7d9c17aebcff30" sha1="52f54d4bef5dcd94f8dd4171bfd7d8b50a3a96e3" status="none" />
+	</game>
+	<game name="Space Baby - The Firmament Baby (Taiwan) (Bootleg) (Aftermarket) (Unl)">
+		<description>Space Baby - The Firmament Baby (Taiwan) (Bootleg) (Aftermarket) (Unl)</description>
+		<rom name="Space Baby - The Firmament Baby (Taiwan) (Bootleg) (Aftermarket) (Unl).gbc" size="4194304" crc="66539153" md5="ff6c0610359358108267180cdc7b04e9" sha1="ddcf6ea0eade0d3c17c746d136e4f74b573c35ba" />
+	</game>
+	<game name="Super Doggo WOW WAN (World) (Aftermarket) (Unl)">
+		<description>Super Doggo WOW WAN (World) (Aftermarket) (Unl)</description>
+		<rom name="Super Doggo WOW WAN (World) (Aftermarket) (Unl).gbc" size="1048576" crc="02111d9d" md5="b9032a7c44305f4fbba30891427c03fb" sha1="ad86d1447d5d2588a1d9b7af080a14957dcf3bd6" />
+	</game>
+	<game name="Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl)">
+		<description>Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl)</description>
+		<rom name="Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl).gbc" size="2097152" crc="c2bfe433" md5="14a2442e6b50b2617e58ffe10ed6a970" sha1="c9eee8d916390e3bd6142370de4d9fe501fd44a8" />
+	</game>
+	<game name="Surgeon, The (World) (Aftermarket) (Crab Meat)">
+		<description>Surgeon, The (World) (Aftermarket) (Crab Meat)</description>
+		<rom name="Surgeon, The (World) (Aftermarket) (Crab Meat).gbc" size="262144" crc="a0836895" md5="790051ce5f972c3bea4ef5e3dc47470b" sha1="13da9e5c1ee883ba6cc4a4074c39f45efc3f2edb" status="none" />
+	</game>
+	<game name="Tad-Bubble! (World) (v0.4.0) (Aftermarket) (GB Studio) (Gapucho)">
+		<description>Tad-Bubble! (World) (v0.4.0) (Aftermarket) (GB Studio) (Gapucho)</description>
+		<rom name="Tad-Bubble! (World) (v0.4.0) (Aftermarket) (GB Studio) (Gapucho).gbc" size="524288" crc="11508b9b" md5="b7aefdf2d4238057e2e983a55298efd2" sha1="902009372112af4f5aa0c1c1c9dc931518b8abbf" status="none" />
+	</game>
+	<game name="Taiyaki Fabulous Museum of Fish (World) (v1.4.2) (Aftermarket) (Unl)">
+		<description>Taiyaki Fabulous Museum of Fish (World) (v1.4.2) (Aftermarket) (Unl)</description>
+		<rom name="Taiyaki Fabulous Museum of Fish (World) (v1.4.2) (Aftermarket) (Unl).gbc" size="2097152" crc="2d12223c" md5="9b3077bf785168c3d19d05173c443421" sha1="940ec098d7df6db344b253f713d193ed01cb1219" />
+	</game>
+	<game name="Tinkercore (World) (v3.0) (Aftermarket) (GB Studio)">
+		<description>Tinkercore (World) (v3.0) (Aftermarket) (GB Studio)</description>
+		<rom name="Tinkercore (World) (v3.0) (Aftermarket) (GB Studio).gb" size="1048576" crc="63ed1aa8" md5="62d44a3e02aab1328158b3d197ddd2ba" sha1="e3deb89b6e400f35e36b8edd483a4b9aed114da1" />
+	</game>
+	<game name="Trogday Micro Game (World) (Aftermarket) (Unl)">
+		<description>Trogday Micro Game (World) (Aftermarket) (Unl)</description>
+		<rom name="Trogday Micro Game (World) (Aftermarket) (Unl).gbc" size="262144" crc="ee05c247" md5="6a6931f6d1a6e60b4da9551e83b2742b" sha1="9ee09f890c94c86b3c5ffb13b70a7fca7d9ec7b2" />
+	</game>
+	<game name="TUNIC (World) (v1.1) (Aftermarket) (Unl)">
+		<description>TUNIC (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="TUNIC (World) (v1.1) (Aftermarket) (Unl).gbc" size="524288" crc="4dc4e4a0" md5="5d92f768e7b8d371cc3aac98b3b6a2fe" sha1="cc8a01118c25332b506a380b78c95a5876c17459" />
+	</game>
+	<game name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV)">
+		<description>TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV)</description>
+		<rom name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV).gbc" size="524288" crc="146fa781" md5="1a3ddd2e8430ee7f754196f6b5202432" sha1="7d6c0b2fa6a211d1a9e3e41edeb3b9c921c4ceb3" status="none" />
+	</game>
+	<game name="Ultima 3 (World) (v0.995) (Aftermarket) (Unl)">
+		<description>Ultima 3 (World) (v0.995) (Aftermarket) (Unl)</description>
+		<rom name="Ultima 3 (World) (v0.995) (Aftermarket) (Unl).gbc" size="1048576" crc="1e0f8c40" md5="b9c4a66858e58c8f57a84d405107d2a0" sha1="27fcd2fe59678e91a5946d7509153e71a28f447f" />
+	</game>
+	<game name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)">
+		<description>Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)</description>
+		<rom name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl).gbc" size="32768" crc="210bce6a" md5="509a9b53e45415fa404b1f8c334e2f5b" sha1="5432978ad0ea805e9b807a87ddb6baabb73733d8" />
+	</game>
+	<game name="Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)">
+		<description>Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)</description>
+		<rom name="Yoshi Joins Bowser (World) (Aftermarket) (GB Studio).gbc" size="4194304" crc="50d28cbd" md5="e383d1b54c470c6ab2a09d43398929a1" sha1="8d2f22d8ad9a48311d27ac5096f7118c0e9e5282" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (De).gbc" size="4194304" crc="3b68d368" md5="deb664a34525670c74e7125ae1cb9b44" sha1="d232964de9dc386bca3c23802eaa3e71f2e7602b" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (En).gbc" size="4194304" crc="cb291fda" md5="415a515431f475a205677f5ce6e8f06f" sha1="4daf19bd6d6535924ace90b426b329cc9b50eecc" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Es).gbc" size="4194304" crc="70b0ccc8" md5="57668627e94a89a7af41106f1e824f29" sha1="a5aba657a53d94e702912312c3432a592fef8161" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Fr).gbc" size="4194304" crc="24023cd2" md5="874b0bd243476ea3e499c4a197340b7a" sha1="66bedfdb3e61ade6edac3ebe6a157b72c5aa07d3" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (It).gbc" size="4194304" crc="4a88c023" md5="5502be61fa069a471986660038855a49" sha1="13d2e9c31096639596592fdc4b7bde4365f21244" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dark Duel Stories (Ja).gbc" size="4194304" crc="09d03ee2" md5="e32f8091f32772b4132710c96c69351b" sha1="31ac45e866b015450d6d5ac50a83e5772a883e65" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (De).gbc" size="4194304" crc="997e4860" md5="ab07c5bc4e95338a130b64c39505a3fb" sha1="10e00a0e85b480b69beeda865f665bfd190bca42" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (En).gbc" size="4194304" crc="49f9197a" md5="abd8693c2f03acd8c0e2508e61268b70" sha1="31bace85728b88b2af7afb3b7fe82d7bf7279ad7" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Es).gbc" size="4194304" crc="4d825f68" md5="e4c2f4212e285a49083e860e38cfffcf" sha1="3e47b9acd3edc799562d5d26cb452841b10eb6dd" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Fr).gbc" size="4194304" crc="72a68eee" md5="acdc1e4ea90d13f055dfca2dab986e5a" sha1="4d039ddcfff3ac3ca51ae9e357a224b3b2fba82d" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (It).gbc" size="4194304" crc="ffd35e8b" md5="ac56166a141560aaedf3a71e50a655d4" sha1="b02a06e85c4997a8ede73890b6c98056d7df51d2" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Joey Deck (Ja).gbc" size="4194304" crc="7c3d2b6e" md5="1a6a93843aac109b11a0eadcaf3d0b0e" sha1="8887515741720c1af759ab3ef6346a0fed2d39a5" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (De).gbc" size="4194304" crc="eec7efb9" md5="4bcbc2d3b173c5f53fba3a6c4c2b9920" sha1="a7827a3d22145630278775b94fdcfa3de8a352d5" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (En).gbc" size="4194304" crc="aeca7189" md5="7d817adcce9ecb3ad270dc053781f3d6" sha1="ede1b6dad61376f03da154deb94c1a1ae51c1c6e" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Es).gbc" size="4194304" crc="af367799" md5="bd7ff710b645110cfda420694019ec71" sha1="828b392b95a7970f863943d0ca816c7be07c4f0b" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Fr).gbc" size="4194304" crc="44fcdab6" md5="2c00464dcac758c6428cf5f61717c51e" sha1="db2909cbb749469c0a23d657ed78010aa7b3b788" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (It).gbc" size="4194304" crc="51e31889" md5="97f6e15e24d95dbd17ba6c924ec2a6c1" sha1="2a7035eea32250f3e30596e77667a3fb08ceaa0e" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Ja).gbc" size="4194304" crc="38c11949" md5="2b1da77b7c41afab3558cf364cfeb8b3" sha1="e7e11a03917670e4ebfc9e13cf1e2665ad9f9ea6" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (De).gbc" size="4194304" crc="cd6b782d" md5="54a5f9b4bae5ebd452e56277f5ee82df" sha1="fc439a06eaf3dcba0b87dcb69d94897948b0086f" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (En).gbc" size="4194304" crc="8813b725" md5="0b9b51fdd41a15a10d02d7fbf64ac7de" sha1="56e3a8afd42da8a42769e8f4fbe3485215927bfb" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Es).gbc" size="4194304" crc="7fb85bc0" md5="1dcb73c62167339df4c848ba466547db" sha1="8fa7d7a560143fd8350d1ca25887542959f4fd25" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Fr).gbc" size="4194304" crc="d45cca53" md5="0b7253cff85faac4dd2b9fc441f52feb" sha1="e29555c244e5fa3ca833af072f337269c6a7e243" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (It).gbc" size="4194304" crc="d1ba23f1" md5="a47e4e4e97d8c78448af704df7db689f" sha1="2f3a5b70bd7e7293eea17bcb798e4644c7b9c7cd" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist - Yugi Deck (Ja).gbc" size="4194304" crc="b5abda21" md5="97819d8701876ae3d3deee8b98749e8a" sha1="70a93988e65c4ade6c6472df03f3b585de9acd79" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (De).gbc" size="4194304" crc="ba9106ec" md5="ba3016029d9af8c36fb0a0362e91bd46" sha1="d5309c736ec4319e5575b10d7e44233d0ff024e3" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (En).gbc" size="4194304" crc="46029fa0" md5="2caeb63777c2f947a95bfab36cdb43e0" sha1="5427cbbb457d98d7acbca117a419bb833f4630f5" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Es).gbc" size="4194304" crc="6d79c32d" md5="3542cf59e728b34b50d314fb9a17e6bd" sha1="677ee052ade5c6c2ade6029bc50357f78381e5d8" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Fr).gbc" size="4194304" crc="c4fdffc5" md5="6e3b79e6c7c44311f01f4b97df370882" sha1="13f6c14691066b83ae2d7b56d26024ba108bce4d" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (It).gbc" size="4194304" crc="3d7b78a5" md5="7c56d2b3194901d2ca52cd953484ded4" sha1="7610f17287141fadb634f90e33dac4c065105fd0" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters 4 - Battle of Great Duelist Online - Joey Deck (Ja).gbc" size="4194304" crc="6b6003b0" md5="2e047e731d76cdc012dcc42df2f2c855" sha1="96fd23ca53b402dd8b43953d9514beea6d5e7bda" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (De).gbc" size="4194304" crc="e514f2bc" md5="e2a25621d6701b8fd75444ceb6d42e91" sha1="c18a226a608b278ddafb247e436e606687acc2f9" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (En).gbc" size="4194304" crc="6a5c73ff" md5="f7000cf59d9f402f88053b58b285399f" sha1="d05bd5115066e4805c63a8e27b490ecd3d81ce99" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Es).gbc" size="4194304" crc="32158e04" md5="b9d30c4fe3f4e0801b0e187b07b6f6fa" sha1="c005ca0f4b5aaf41654aac5a35d8f924f1c1444a" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Fr).gbc" size="4194304" crc="d6f4ba0a" md5="4e855f025c999cc8cbbe002927c26542" sha1="71b4aa76a38059dbee068c6c78357a94fb45b7f6" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (It).gbc" size="4194304" crc="30daecbb" md5="338b94a31ee1186f884229fba4ac78f6" sha1="fbc9cfbc9f344385ee505f5d69d1d10b1a6fd6fa" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters II - Dark Duel Stories (Ja).gbc" size="4194304" crc="4a657067" md5="17a43887863c2e485ca72940f4738f79" sha1="e1addd4abc8c770288e94f57a2c1657b4d9642ba" />
+	</game>
+</datafile>

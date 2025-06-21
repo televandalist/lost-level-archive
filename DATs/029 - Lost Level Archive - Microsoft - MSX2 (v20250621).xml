@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>029</id>
+		<name>029 - Lost Level Archive - Microsoft - MSX2</name>
+		<description>Microsoft - MSX2</description>
+		<version>v20250621</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Attack of the Petscii Robots (2023) (v1.2) (2M) (MSXdev23) (Robosoft)">
+		<description>Attack of the Petscii Robots (2023) (v1.2) (2M) (MSXdev23) (Robosoft)</description>
+		<rom name="Attack of the Petscii Robots (2023) (v1.2) (2M) (MSXdev23) (Robosoft).rom" size="2097152" crc="7d13be12" md5="687acb0a35022f49f4722ec7230a7993" sha1="c17594a976512e5f3eba6f5c4f1c24003fcdad14" />
+	</game>
+	<game name="Be-Bop Bout (En) (1994) (64K) (Mar'z Project)">
+		<description>Be-Bop Bout (En) (1994) (64K) (Mar'z Project)</description>
+		<rom name="Be-Bop Bout (En) (1994) (64K) (Mar'z Project).dsk" size="737280" crc="c46a93c9" md5="5a01bbeb3673bbdc020ab8e8e4ebd5da" sha1="8c4cc1fc4d60f27785afcbfddcd978f6027a6412" />
+	</game>
+	<game name="Feedback (1988) (v2.0) (Tecno Soft)">
+		<description>Feedback (1988) (v2.0) (Tecno Soft)</description>
+		<rom name="Feedback (1988) (v2.0) (Tecno Soft).dsk" size="737280" crc="c805c189" md5="36b3c1eea54e35c8d9898f4a5547d9a4" sha1="b8960a5a7dacddbf68aeff0efd31442f7661006c" />
+	</game>
+	<game name="Gaia's Crest (1988) (NCS)">
+		<description>Gaia's Crest (1988) (NCS)</description>
+		<rom name="Gaia's Crest (1988) (NCS).dsk" size="737280" crc="ccadadd1" md5="18c9900bcc0af21dcc3660c53246c0b6" sha1="c1cb5f5f327698905e09a6f418e359b2483c7c83" />
+	</game>
+	<game name="Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor)">
+		<description>Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor)</description>
+		<rom name="Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor).rom" size="262144" crc="bc7b67f1" md5="745803f65b0e7b61d444d98f6ff68bf5" sha1="7ebc54affd5794422cb23cd9823e6af337ad01a7" />
+	</game>
+	<game name="Grey Wolf (2017) (Aftermarket) (Oniric Factor)">
+		<description>Grey Wolf (2017) (Aftermarket) (Oniric Factor)</description>
+		<rom name="Grey Wolf (2017) (Aftermarket) (Oniric Factor).dsk" size="737280" crc="4b9ab81a" md5="c3c9f5295982364f4ca20052b64d2546" sha1="4146e53e21b2bc8c41d96e44c8197a911097b985" />
+	</game>
+	<game name="MinQ (2021) (En,Ja,Es) (128K) (NukegaraDHP)">
+		<description>MinQ (2021) (En,Ja,Es) (128K) (NukegaraDHP)</description>
+		<rom name="MinQ (2021) (En,Ja,Es) (128K) (NukegaraDHP).dsk" size="737280" crc="5a4b8a02" md5="7f27dc0e00a68c40a7fbf7fcaea4dd49" sha1="750d6429ceba3563b21793a23e8c64b7f059af15" />
+	</game>
+	<game name="MinQ Extra (2024) (Demo) (En,Ja,Es) (128K) (NukegaraDHP)">
+		<description>MinQ Extra (2024) (Demo) (En,Ja,Es) (128K) (NukegaraDHP)</description>
+		<rom name="MinQ Extra (2024) (Demo) (En,Ja,Es) (128K) (NukegaraDHP).dsk" size="737280" crc="6df0118f" md5="6e1f503fe0f3ce605178bf6b512fcae1" sha1="de297166d2c94f6a8b85e3fb666081721e195422" />
+	</game>
+	<game name="Montana John and the Templar's Treasure (En) (2008) (64KB - SCC+) (Infinite)">
+		<description>Montana John and the Templar's Treasure (En) (2008) (64KB - SCC+) (Infinite)</description>
+		<rom name="Montana John and the Templar's Treasure (En) (2008) (64KB - SCC+) (Infinite).rom" size="131072" crc="7b5e126f" md5="c5630f5953a544b99faf4e79676f942e" sha1="3ff276af654c7dc712abed79d9123317ce79b4e4" status="none" />
+	</game>
+	<game name="MSXmas (2022) (32K) (MSXdev22) (André Baptista)">
+		<description>MSXmas (2022) (32K) (MSXdev22) (André Baptista)</description>
+		<rom name="MSXmas (2022) (32K) (MSXdev22) (André Baptista).rom" size="32768" crc="2b53e76e" md5="62c8e30bb78ca108db98692637088797" sha1="e6f648c2e215ea1ef1ec9ea6619846e6b3b9656d" />
+	</game>
+	<game name="Nyancle Racing (1988) (64K) (Bit2)">
+		<description>Nyancle Racing (1988) (64K) (Bit2)</description>
+		<rom name="Nyancle Racing (1988) (64K) (Bit2).dsk" size="737280" crc="f86ce067" md5="19883eedd59fd6a9886f05e236ebe204" sha1="f04abb4b149db20a860984062fc66d207e852538" />
+	</game>
+	<game name="Phantasie - Gelnor's Chapter (1988) (64K) (Starcraft)">
+		<description>Phantasie - Gelnor's Chapter (1988) (64K) (Starcraft)</description>
+		<rom name="Phantasie - Gelnor's Chapter (1988) (64K) (Starcraft).dsk" size="737280" crc="b397793a" md5="cd3edf22a47b15d921bb5b90e4201bdd" sha1="00f86b4baa57b2378ae60c4cb66207a026e111be" />
+	</game>
+	<game name="Phantasie II - Story of Ferronrah (1988) (64K) (SSI)">
+		<description>Phantasie II - Story of Ferronrah (1988) (64K) (SSI)</description>
+		<rom name="Phantasie II - Story of Ferronrah (1988) (64K) (SSI).dsk" size="737280" crc="d4b2ba8d" md5="415d01737865a9f9047a088a9d393473" sha1="f1ac4dbe51977a594fb396c39290941d7f16ee03" />
+	</game>
+	<game name="Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (Scenario Disk)">
+		<description>Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (Scenario Disk)</description>
+		<rom name="Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (Scenario Disk).dsk" size="737280" crc="84d58271" md5="3021a0e291d1a3b172187048e185e8fb" sha1="f5694994b35d6550de89fd9de39d0e53f8943822" />
+	</game>
+	<game name="Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (User Disk)">
+		<description>Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (User Disk)</description>
+		<rom name="Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (User Disk).dsk" size="737280" crc="df442044" md5="10323d73fb84a9b9aab3a3098e550bf9" sha1="6511beda64953ab063bea4c0bd25e11823b4b9b9" />
+	</game>
+	<game name="Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (Scenario Disk)">
+		<description>Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (Scenario Disk)</description>
+		<rom name="Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (Scenario Disk).dsk" size="737280" crc="495b04eb" md5="2bad0d1e6f6e3d4308b6ac458c216560" sha1="d38b9de3a630e443d0deeaa7f89bf5c9833fde99" />
+	</game>
+	<game name="Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (User Disk)">
+		<description>Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (User Disk)</description>
+		<rom name="Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (User Disk).dsk" size="737280" crc="0cb2f044" md5="52df60233ab4e397f015ec4b3dbc3f5f" sha1="7542c7608e85c0755e13b718b98051ee312c4ab3" />
+	</game>
+	<game name="Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes)">
+		<description>Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes)</description>
+		<rom name="Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes).rom" size="524288" crc="85b0e6b2" md5="a8f27885f2d7f48b6dffbf7bffc51e8c" sha1="b107b1dc6b8e53affca2ed55f80cd8b840b73f7d" />
+	</game>
+	<game name="Picture Puzzle (2004) (64K) (Crunchworks)">
+		<description>Picture Puzzle (2004) (64K) (Crunchworks)</description>
+		<rom name="Picture Puzzle (2004) (64K) (Crunchworks).rom" size="8192" crc="01b3239f" md5="6ee570b6fa73fe9a147846078cddc11c" sha1="27e56fbec7fa39ce19d045b0dbc4217d290f92e2" />
+	</game>
+	<game name="Pleasure Hearts (1999) (Rev. 9821) (M-Kai)">
+		<description>Pleasure Hearts (1999) (Rev. 9821) (M-Kai)</description>
+		<rom name="Pleasure Hearts (1999) (Rev. 9821) (M-Kai).dsk" size="737280" crc="bf81e259" md5="cc86d3600bf2994a7a65852a225a2893" sha1="83646e9e2bd7451f2b45b9c8cbc15531dad51cb2" />
+	</game>
+	<game name="Robo Crush (1990) (64K) (System Soft) (Disk 1 of 2)">
+		<description>Robo Crush (1990) (64K) (System Soft) (Disk 1 of 2)</description>
+		<rom name="Robo Crush (1990) (64K) (System Soft) (Disk 1 of 2).dsk" size="737280" crc="b85eed47" md5="0efa0df6a12c556af2da3728cd6e083b" sha1="476cdafcd0c97b452b3fd9515ac8dff85dd7aaf4" />
+	</game>
+	<game name="Robo Crush (1990) (64K) (System Soft) (Disk 2 of 2)">
+		<description>Robo Crush (1990) (64K) (System Soft) (Disk 2 of 2)</description>
+		<rom name="Robo Crush (1990) (64K) (System Soft) (Disk 2 of 2).dsk" size="737280" crc="2681c86e" md5="4d01f63b1b44c9e239c5b1c3d7fce86e" sha1="1227fef2cd46ec07159d78718bee08dba0f53a8c" />
+	</game>
+	<game name="Sonyc (1995) (Analogy)">
+		<description>Sonyc (1995) (Analogy)</description>
+		<rom name="Sonyc (1995) (Analogy).dsk" size="737280" crc="5479c32c" md5="8862fece2e199eecb0d8f68e0f9dee70" sha1="eb49ada017dcc5b807b6ee15ee2e5e8026535edc" />
+	</game>
+	<game name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1 of 2)">
+		<description>Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1 of 2)</description>
+		<rom name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1 of 2).dsk" size="737280" crc="e10316fd" md5="dddc192242692b255481cdf02ad9be07" sha1="359fd27c19cf179d96ecebaee2056f2c47044624" />
+	</game>
+	<game name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2 of 2)">
+		<description>Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2 of 2)</description>
+		<rom name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2 of 2).dsk" size="737280" crc="6e7a1784" md5="486b7e8a8fe02a34ea38c0ebe87ae63a" sha1="1ce762b191bb3cf31272fc8ecbf48df38cb5f9cc" />
+	</game>
+	<game name="XSpelunker (2017) (v1.4.3) (32K) (Brain Games)">
+		<description>XSpelunker (2017) (v1.4.3) (32K) (Brain Games)</description>
+		<rom name="XSpelunker (2017) (v1.4.3) (32K) (Brain Games).rom" size="32768" crc="2cd7d688" md5="3c4a05c9f667362c317510ed8c55fec4" sha1="cb1ed9d5383561d18a92a91ede08275cea1e66dd" />
+	</game>
+</datafile>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>069</id>
+		<name>069 - Lost Level Archive - Wellback - Mega Duck</name>
+		<description>Wellback - Mega Duck</description>
+		<version>v20250528</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Aerial (World) (Aftermarket) (Inufuto)">
+		<description>Aerial (World) (Aftermarket) (Inufuto)</description>
+		<rom name="Aerial (World) (Aftermarket) (Inufuto).bin" size="16384" crc="6a324ac3" md5="b26307c090211b85672a3a71ef3bd53f" sha1="6028dd33cf97caffa9025010399127ee5fd75669" />
+	</game>
+	<game name="Black Castle (World) (Aftermarket) (Unl)">
+		<description>Black Castle (World) (Aftermarket) (Unl)</description>
+		<rom name="Black Castle (World) (Aftermarket) (Unl).duck" size="65536" crc="312fec34" md5="0b41ffad1c44a3252f2ece6ee0f502f3" sha1="96ec1dea0b406905338a6ff71149662a132b3209" />
+	</game>
+	<game name="Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto)">
+		<description>Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto)</description>
+		<rom name="Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto).bin" size="16384" crc="58c63d67" md5="30fd14ff650d9d77a601ec4ce21b6f52" sha1="e929debce85d951da3ab5302f58ba75615e4e066" status="none" />
+	</game>
+	<game name="Canyon Racer (World)(v0.7.6) (Aftermarket) (Unl)">
+		<description>Canyon Racer (World)(v0.7.6) (Aftermarket) (Unl)</description>
+		<rom name="Canyon Racer (World)(v0.7.6) (Aftermarket) (Unl).duck" size="32768" crc="f794d8cf" md5="b5811af4ede6a03dc85aa23da8bbc1e7" sha1="50b382e0f54f98311809a292913a885c85b9f694" />
+	</game>
+	<game name="Canyon Racer (World)(v0.7.6) (No FX) (Aftermarket) (Unl)">
+		<description>Canyon Racer (World)(v0.7.6) (No FX) (Aftermarket) (Unl)</description>
+		<rom name="Canyon Racer (World)(v0.7.6) (No FX) (Aftermarket) (Unl).duck" size="32768" crc="9fa63c31" md5="fcb469fa705f23d493689e2f7312d822" sha1="f85491c8ed827483f45ff5f13ee5e195fdcaff1e" />
+	</game>
+	<game name="Hopman (World) (Aftermarket) (Inufuto)">
+		<description>Hopman (World) (Aftermarket) (Inufuto)</description>
+		<rom name="Hopman (World) (Aftermarket) (Inufuto).bin" size="16384" crc="a7b2ba02" md5="115a709d9d524c1ea5d36c65d9b8dbe8" sha1="95102b92b7d52332f0ea7ad04e36b92561687958" />
+	</game>
+	<game name="Max Pirate (World) (v20240504) (Aftermarket) (Unl)">
+		<description>Max Pirate (World) (v20240504) (Aftermarket) (Unl)</description>
+		<rom name="Max Pirate (World) (v20240504) (Aftermarket) (Unl).duck" size="32768" crc="2eacd525" md5="ac17e9ce88054fde0132242e23873923" sha1="539b18cd46ef8090b01941d37cc5c0c731c332d6" />
+	</game>
+	<game name="Pegged (World) (v1.2) (Aftermarket) (Under4Mhz)">
+		<description>Pegged (World) (v1.2) (Aftermarket) (Under4Mhz)</description>
+		<rom name="Pegged (World) (v1.2) (Aftermarket) (Under4Mhz).bin" size="32768" crc="c8afd1d2" md5="651635c9b964bdd1fde94adf6b6f38ec" sha1="ab492a3c815a9558d29a90dfa837c571080616fd" />
+	</game>
+	<game name="Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy)">
+		<description>Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy)</description>
+		<rom name="Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy).bin" size="32768" crc="94237a93" md5="4f78024f2102292fc03929cdd957319e" sha1="017606edfb915e320c2ff10a7aa12d205cb0b5dc" />
+	</game>
+	<game name="Vexed (World) (v1.08) (Aftermarket) (Unl)">
+		<description>Vexed (World) (v1.08) (Aftermarket) (Unl)</description>
+		<rom name="Vexed (World) (v1.08) (Aftermarket) (Unl).duck" size="32768" crc="2279c9c8" md5="ae0594e43294653ecf58532316c59cca" sha1="2dfa082c008b6c4725184aff1727d794cd655cbd" />
+	</game>
+	<game name="Vexed (World) (v1.09) (Aftermarket) (Unl)">
+		<description>Vexed (World) (v1.09) (Aftermarket) (Unl)</description>
+		<rom name="Vexed (World) (v1.09) (Aftermarket) (Unl).duck" size="32768" crc="02a2467e" md5="cb62769fabf28a722bf21e41844cc053" sha1="a168115a121188634a6435278f7746c2e398e498" />
+	</game>
+	<game name="Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket) (Unl)">
+		<description>Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket) (Unl)</description>
+		<rom name="Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket) (Unl).duck" size="32768" crc="63b01c26" md5="a52fb4ea81525a1cc8fa9b2dfe0856b4" sha1="e70e2ee4e1a3a8fda6ab51996e59faccbddc48e7" />
+	</game>
+</datafile>

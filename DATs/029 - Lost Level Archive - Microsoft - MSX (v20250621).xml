@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>029</id>
+		<name>029 - Lost Level Archive - Microsoft - MSX</name>
+		<description>Microsoft - MSX</description>
+		<version>v20250621</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="10 Lines Princess (World) (Aftermarket) (Unl)">
+		<description>10 Lines Princess (World) (Aftermarket) (Unl)</description>
+		<rom name="10 Lines Princess (World) (Aftermarket) (Unl).dsk" size="737280" crc="bb022514" md5="e40432b864c4b7440f8b265ebfa0a7f5" sha1="bfa9fe277158141a700915da73d7980e516e50de" />
+	</game>
+	<game name="Bloktris (v1.03) (2023) (Under4Mhz)">
+		<description>Bloktris (v1.03) (2023) (Under4Mhz)</description>
+		<rom name="Bloktris (v1.03) (2023) (Under4Mhz).rom" size="32768" crc="070e0601" md5="061420f43c8c4cfda214b9f5185f5066" sha1="5d0d82c4cc0bc57365aafe6fd06c8caa5ddb9bb5" />
+	</game>
+	<game name="Chocobo Racing (2004) (HL-Soft)">
+		<description>Chocobo Racing (2004) (HL-Soft)</description>
+		<rom name="Chocobo Racing (2004) (HL-Soft).rom" size="8192" crc="0727cfbc" md5="f6cf8b99459eb5293cdcc8fefc84a71c" sha1="2544de44386cf49dad2eb1035ea0e8553dd7598b" />
+	</game>
+	<game name="Cocoa and the Time Machine (2020) (128K) (En) (Minilop)">
+		<description>Cocoa and the Time Machine (2020) (128K) (En) (Minilop)</description>
+		<rom name="Cocoa and the Time Machine (2020) (128K) (En) (Minilop).dsk" size="737280" crc="49ecece0" md5="20ca38914a99e0674fa68ca9e8397921" sha1="bd995f23bfc873bad7ab8d2302cef5e5b6cd4bdc" />
+	</game>
+	<game name="Deep Dungeon Adventure (World) (Aftermarket) (Unl)">
+		<description>Deep Dungeon Adventure (World) (Aftermarket) (Unl)</description>
+		<rom name="Deep Dungeon Adventure (World) (Aftermarket) (Unl).rom" size="49152" crc="96bd10ee" md5="7a99efa93c475b1200975f9c36fa22a2" sha1="4071d5de5fa498f5d87110fc1da1d0149293a867" />
+	</game>
+	<game name="DuckTales - The Lucky Dime (1994) (En) (meits)">
+		<description>DuckTales - The Lucky Dime (1994) (En) (meits)</description>
+		<rom name="DuckTales - The Lucky Dime (1994) (En) (meits).dsk" size="737280" crc="37ae08de" md5="1df9ebffe3dd334cce5f1a4b88079986" sha1="648514e72576ca0e020c2b7c8cff3d13002bf9b2" />
+	</game>
+	<game name="DuckTales - The Lucky Dime (1994) (Nl) (meits)">
+		<description>DuckTales - The Lucky Dime (1994) (Nl) (meits)</description>
+		<rom name="DuckTales - The Lucky Dime (1994) (Nl) (meits).dsk" size="737280" crc="f04d358d" md5="336c0a775c0dc3c9d83b2974c99fa285" sha1="95ce5cbd0687552a52a3055c4ff8c667705a57ce" />
+	</game>
+	<game name="Earth Attack (World) (Aftermarket) (Unl)">
+		<description>Earth Attack (World) (Aftermarket) (Unl)</description>
+		<rom name="Earth Attack (World) (Aftermarket) (Unl).rom" size="32768" crc="c9596ccb" md5="7430d6033b56ac173194968be0a8d146" sha1="b4335bf70d19d80a1e59faa890e04c5fefee0072" />
+	</game>
+	<game name="Flappy Bird (2014) (Crunchworks)">
+		<description>Flappy Bird (2014) (Crunchworks)</description>
+		<rom name="Flappy Bird (2014) (Crunchworks).rom" size="8192" crc="5f145428" md5="c60cacd6c1a8d390eae9e73e1f4da697" sha1="822e827772157f89e4fe5277736c970595771c87" />
+	</game>
+	<game name="Ghosts of Blackwood Manor, The (r14) (2023) (Stefan Vogt)">
+		<description>Ghosts of Blackwood Manor, The (r14) (2023) (Stefan Vogt)</description>
+		<rom name="Ghosts of Blackwood Manor, The (r14) (2023) (Stefan Vogt).dsk" size="737280" crc="208ecb56" md5="2040573c2ed4e3395f16f2a5e6b85a1c" sha1="051086f5c4b6cfb1356dd14a4a519b0e1bde3add" />
+	</game>
+	<game name="Godzilla Balls - 70th Anniversary (2024) (Paxanga Software)">
+		<description>Godzilla Balls - 70th Anniversary (2024) (Paxanga Software)</description>
+		<rom name="Godzilla Balls - 70th Anniversary (2024) (Paxanga Software).rom" size="65536" crc="59e0d4db" md5="d0645d0eb478c48b50737243b8da8f3d" sha1="ecb76c7bd0b74a49a96671fb741de5222c961853" />
+	</game>
+	<game name="Godzilla Balls - 70th Anniversary Level Pack (2024) (Paxanga Software)">
+		<description>Godzilla Balls - 70th Anniversary Level Pack (2024) (Paxanga Software)</description>
+		<rom name="Godzilla Balls - 70th Anniversary Level Pack (2024) (Paxanga Software).rom" size="16384" crc="be6b45c0" md5="ed7bdaa4fbefc1b84ec5492ae3649191" sha1="655abbb01648960866d8295aaf91ae477e12bfe3" />
+	</game>
+	<game name="Invasion of the Zombie Monsters (2010) (Relevo)">
+		<description>Invasion of the Zombie Monsters (2010) (Relevo)</description>
+		<rom name="Invasion of the Zombie Monsters (2010) (Relevo).rom" size="32768" crc="a232351f" md5="62f112037bc8e1a140c72605ed5db5da" sha1="bf2452f9932cbce5986f72eb04d4c1ecec045b7f" />
+	</game>
+	<game name="Kiwi Khaos (2021) (v1.1) (32K) (McCheeseBob)">
+		<description>Kiwi Khaos (2021) (v1.1) (32K) (McCheeseBob)</description>
+		<rom name="Kiwi Khaos (2021) (v1.1) (32K) (McCheeseBob).dsk" size="737280" crc="73b0fea4" md5="0fc6ef6489d579691818da8103e60071" sha1="c73aa6d33bd6c620caea0ce967ba083348e4d277" />
+	</game>
+	<game name="Lilly's Saga - The Stones of Evergreen (v1.2) (2022) (MSXdev22) (Fabulous 8bit)">
+		<description>Lilly's Saga - The Stones of Evergreen (v1.2) (2022) (MSXdev22) (Fabulous 8bit)</description>
+		<rom name="Lilly's Saga - The Stones of Evergreen (v1.2) (2022) (MSXdev22) (Fabulous 8bit).rom" size="1245184" crc="76e6b758" md5="95203b134222aff061bfa171cf915524" sha1="d18e26f75f6d978fefe56efea46f59b9ad1b71a5" />
+	</game>
+	<game name="Ninja Savior (2020) (v1.0) (Relevo)">
+		<description>Ninja Savior (2020) (v1.0) (Relevo)</description>
+		<rom name="Ninja Savior (2020) (v1.0) (Relevo).rom" size="16384" crc="c059ffba" md5="2c8ebffb7c3c54ff6b356a19c113a6d6" sha1="0a8c3bbe9ed26e25658ec99192056b5a50571041" />
+	</game>
+	<game name="Oh Shit! (1986) (64K) (Asckosoft)">
+		<description>Oh Shit! (1986) (64K) (Asckosoft)</description>
+		<rom name="Oh Shit! (1986) (64K) (Asckosoft).rom" size="32768" crc="1d34e4e0" md5="1721862f3f033e74607af9e26688403d" sha1="9a369b52f92269073dd7b7e72919d6b1d19fe63d" />
+	</game>
+	<game name="PAC-01 (2021) (ARC8)">
+		<description>PAC-01 (2021) (ARC8)</description>
+		<rom name="PAC-01 (2021) (ARC8).rom" size="32768" crc="c22e6f4f" md5="2f8f2935031e27c753e3d45f77994c3a" sha1="623bcc57d6ac6aaa18f2e374ce32b482f5d7894b" />
+	</game>
+	<game name="Pearl Rain (2023) (MSXDev2023) (Patrik's Retro Tech)">
+		<description>Pearl Rain (2023) (MSXDev2023) (Patrik's Retro Tech)</description>
+		<rom name="Pearl Rain (2023) (MSXDev2023) (Patrik's Retro Tech).rom" size="32768" crc="84c2f111" md5="e775281dd0e00ade50c2f744471d5ebc" sha1="f198a005ce74c01cfd8fb6b8e335a3cb0f324ef7" />
+	</game>
+	<game name="Pinball (2021) (Kotai)">
+		<description>Pinball (2021) (Kotai)</description>
+		<rom name="Pinball (2021) (Kotai).dsk" size="737280" crc="bf12a95b" md5="021747237ceaf61a578de2bb12772ae9" sha1="030af859ba9b0ccfe1409b34b2fc61d566eb4acd" />
+	</game>
+	<game name="Pornoman (19xx) (Knight Software)">
+		<description>Pornoman (19xx) (Knight Software)</description>
+		<rom name="Pornoman (19xx) (Knight Software).rom" size="737280" crc="6c9d3977" md5="9e016a6f8743655eacc8e22e96d95c4e" sha1="98266bd9ff2155e8e013ff24d39712d21bdb495c" />
+	</game>
+	<game name="Put Up (1987) (BAS) (Yuichi Ag)">
+		<description>Put Up (1987) (BAS) (Yuichi Ag)</description>
+		<rom name="Put Up (1987) (BAS) (Yuichi Ag).dsk" size="737280" crc="0aa8c4c1" md5="223189c6823f7376d133d44507068d19" sha1="be2aead592892d133512cb337c251e09db156861" />
+	</game>
+	<game name="Relevo's Snowboarding (2020) (Relevo)">
+		<description>Relevo's Snowboarding (2020) (Relevo)</description>
+		<rom name="Relevo's Snowboarding (2020) (Relevo).rom" size="49152" crc="8efaf6b4" md5="fa981f360f91acedb91cb60a3202f36a" sha1="957ad5f91f9bb7e59bffa7da1a8c31907e5a215f" />
+	</game>
+	<game name="Singular Stone (v1.03) (2020) (Tohji Murakata)">
+		<description>Singular Stone (v1.03) (2020) (Tohji Murakata)</description>
+		<rom name="Singular Stone (v1.03) (2020) (Tohji Murakata).dsk" size="16777216" crc="7b39a947" md5="5a4fcb267335632b4ab080e256e725ee" sha1="248b214a5cfedffe780769714140fa1baf09dad8" />
+	</game>
+	<game name="SpaceCat (v1.0) (2022) (PlattySoft)">
+		<description>SpaceCat (v1.0) (2022) (PlattySoft)</description>
+		<rom name="SpaceCat (v1.0) (2022) (PlattySoft).rom" size="262144" crc="c1d30a04" md5="d73547d0e6028ea0a1c9f22b6761cc29" sha1="e2ab61dce070892aabcfa98bfe8d525619cd617a" />
+	</game>
+	<game name="SpaceCat (v1.2) (2022) (PlattySoft)">
+		<description>SpaceCat (v1.2) (2022) (PlattySoft)</description>
+		<rom name="SpaceCat (v1.2) (2022) (PlattySoft).rom" size="49152" crc="4d622ecd" md5="3cf33833a22db3f5a02427d4d75d3d75" sha1="8ab07128d0ea2069e0113ea0cac4ec8479f52050" />
+	</game>
+	<game name="Stevedore (2020) (v1.2) (theNestruo &amp; Wonder)">
+		<description>Stevedore (2020) (v1.2) (theNestruo &amp; Wonder)</description>
+		<rom name="Stevedore (2020) (v1.2) (theNestruo &amp; Wonder).rom" size="49152" crc="859c04ad" md5="feb5749515eb248fe212120523aa18db" sha1="ec17403587abf2e0bd88f77d62864f52e3087136" status="none" />
+	</game>
+	<game name="Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex)">
+		<description>Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex)</description>
+		<rom name="Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex).rom" size="32768" crc="8a70a96b" md5="2df142939c9e1147f814099856fd6361" sha1="120d477cd28b48b8a63efb34920ac331b54e66e5" />
+	</game>
+	<game name="Super Mario World (2016) (Noramos)">
+		<description>Super Mario World (2016) (Noramos)</description>
+		<rom name="Super Mario World (2016) (Noramos).rom" size="1335296" crc="9d90c0a6" md5="da28da0bb524bd0072e10b2799a88a75" sha1="77b37d7028d5f657239eb24f0c16097a6e183f8d" />
+	</game>
+	<game name="Volleyring (2021) (Nick Shcherbyna)">
+		<description>Volleyring (2021) (Nick Shcherbyna)</description>
+		<rom name="Volleyring (2021) (Nick Shcherbyna).dsk" size="737280" crc="ae6ce0c3" md5="033c9cf8fe0d07f3c5abb43f89908a50" sha1="ac3144dd14c75ac13ec0bd33cf2c31512f26423a" />
+	</game>
+</datafile>
