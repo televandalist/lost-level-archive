@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250621</version>
+		<version>v20250622</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -169,6 +169,10 @@
 		<description>Project Zero (Europe) (Undub) (v1.0.3) (wagrenier) (Fixes) (Widescreen)</description>
 		<link type="Project Page">https://github.com/wagrenier/ZeroUndub</link>
 		<rom name="Project Zero (Europe) (Undub) (v1.0.3) (wagrenier) (Fixes) (Widescreen).iso" size="3750100992" crc="e544c29b" md5="872f7e078163eb33fccc8b7c8d6b327d" sha1="8bb602bb7c51ed4ab4d7b119fe720f3c9df60fa6" />
+	</game>
+	<game name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez)">
+		<description>Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez)</description>
+		<rom name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez).iso" size="3248128000" crc="ce3ba0db" md5="dd354755f0e0de26ffdda69b53ceb68f" sha1="d50735da91be822b358e82b878c305b06b01a9af" status="none" />
 	</game>
 	<game name="Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32)">
 		<description>Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32)</description>
