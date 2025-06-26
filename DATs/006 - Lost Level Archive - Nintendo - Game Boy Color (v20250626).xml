@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250621</version>
+		<version>v20250626</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -142,6 +142,10 @@
 	<game name="Hong Kong 2099 (World) (Aftermarket) (Unl)">
 		<description>Hong Kong 2099 (World) (Aftermarket) (Unl)</description>
 		<rom name="Hong Kong 2099 (World) (Aftermarket) (Unl).gbc" size="524288" crc="28f9e064" md5="c1dd8c5952ea02286616d3ff0d8c54cb" sha1="ee17c7e334d17a78bd120c1de41a7020b57344db" />
+	</game>
+	<game name="Horde DX (USA) (Aftermarket) (Unl)">
+		<description>Horde DX (USA) (Aftermarket) (Unl)</description>
+		<rom name="Horde DX (USA) (Aftermarket) (Unl).gbc" size="131072" crc="bd759aa1" md5="04b48de01f0c610134ce5a08d9b88303" sha1="2e7f667fd2040ce301245806f6bbfa588ff3977d" status="none" />
 	</game>
 	<game name="Hungry Knight (World) (v3.0) (Aftermarket) (GB Studio)">
 		<description>Hungry Knight (World) (v3.0) (Aftermarket) (GB Studio)</description>
