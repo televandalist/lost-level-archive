@@ -390,10 +390,10 @@
 		<rom name="Draconic Throne (2017) (GW's Workshop) - Manual.pdf" size="874708" crc="05717744" md5="8595ad6a950dd393812dddd0fd6d1bff" sha1="132b3a6bd1586430b3eb1dfba59a6b0a01b9c362" status="none" />
 		<rom name="Draconic Throne (2017) (v1.12) (GW's Workshop) - Release Notes.txt" size="2199" crc="9c264ddf" md5="f8e13fe1ccc3ddc029576a256684ea69" sha1="1c8ab6339d4fe93b415f5f67fc63f5123af62601" status="none" />
 	</game>
-	<game name="Dreams Puzzle (2018) (V9990, MSX-Music) (Mapax) - Extras">
-		<description>Dreams Puzzle (2018) (V9990, MSX-Music) (Mapax) - Extras</description>
-		<rom name="Dreams Puzzle (2018) (V9990, MSX-Music) (Mapax) - Manual (En).txt" size="1111" crc="a961432e" md5="5b544abfd7af14530ade1b65e2b63316" sha1="b058eba0da159c90e554e63d7415b2c6260b8b8b" status="none" />
-		<rom name="Dreams Puzzle (2018) (V9990, MSX-Music) (Mapax) - Manual (Es).txt" size="1266" crc="50096b48" md5="8d327a17611b3b0ecf910e11743457bb" sha1="444490cd444c3ace6f1d25d6efb026fe1aaa8559" status="none" />
+	<game name="Dreams Puzzle (2018) (Mapax) - Extras">
+		<description>Dreams Puzzle (2018) (Mapax) - Extras</description>
+		<rom name="Dreams Puzzle (2018) (Mapax) - Manual (En).txt" size="1111" crc="a961432e" md5="5b544abfd7af14530ade1b65e2b63316" sha1="b058eba0da159c90e554e63d7415b2c6260b8b8b" status="none" />
+		<rom name="Dreams Puzzle (2018) (Mapax) - Manual (Es).txt" size="1266" crc="50096b48" md5="8d327a17611b3b0ecf910e11743457bb" sha1="444490cd444c3ace6f1d25d6efb026fe1aaa8559" status="none" />
 	</game>
 	<game name="Drop of Abu - Cymbel, The (2024) (joesg) - Extras">
 		<description>Drop of Abu - Cymbel, The (2024) (joesg) - Extras</description>
@@ -740,11 +740,11 @@
 		<description>Mahjong Solitaire (2021) (Under4Mhz) - Extras</description>
 		<rom name="Mahjong Solitaire (2021) (Under4Mhz) - Manual.txt" size="474" crc="fa441703" md5="69de1aca3827830409660390f30842ab" sha1="fa9789148b35bc6ef7f782adac74b3e05cb87d34" status="none" />
 	</game>
-	<game name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Extras">
-		<description>Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Extras</description>
-		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Changelog.txt" size="7564" crc="d7d58c6b" md5="cacab088714f7444df2637c5506109db" sha1="3a24e8e10f08aca67006226da37f870ec6f038ed" status="none" />
-		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Manual (En).pdf" size="3065927" crc="6ec31891" md5="8e5af76bd727518d15cc9f2dd580344e" sha1="166fad9fa34ae981e35098c99377aad66f35cc0c" status="none" />
-		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Manual (Jp).pdf" size="2978269" crc="cd878b46" md5="996b07d3cd2f53f722a07e5b36024c53" sha1="18a9601c8536db00ff46db2f6228b5443c9c6d79" status="none" />
+	<game name="Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (Retromixis) - Extras">
+		<description>Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (Retromixis) - Extras</description>
+		<rom name="Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (Retromixis) - Changelog.txt" size="7564" crc="d7d58c6b" md5="cacab088714f7444df2637c5506109db" sha1="3a24e8e10f08aca67006226da37f870ec6f038ed" status="none" />
+		<rom name="Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (Retromixis) - Manual (En).pdf" size="3065927" crc="6ec31891" md5="8e5af76bd727518d15cc9f2dd580344e" sha1="166fad9fa34ae981e35098c99377aad66f35cc0c" status="none" />
+		<rom name="Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (Retromixis) - Manual (Ja).pdf" size="2978269" crc="cd878b46" md5="996b07d3cd2f53f722a07e5b36024c53" sha1="18a9601c8536db00ff46db2f6228b5443c9c6d79" status="none" />
 	</game>
 	<game name="Make Them Fall (2021) (Robosoft) - Extras">
 		<description>Make Them Fall (2021) (Robosoft) - Extras</description>
@@ -1603,9 +1603,9 @@
 		<description>XOR2021 (2021) (Timmy) - Extras</description>
 		<rom name="XOR2021 (2021) (Timmy) - Manual.txt" size="3825" crc="2677df2e" md5="127c3a03ce69ef65821ef45bffb71070" sha1="91961415bc2b7c8a63efd7fe3395c141e9d212b3" status="none" />
 	</game>
-	<game name="XRacing (2018) (v1.0.4) (Brain Games) - Extras">
-		<description>XRacing (2018) (v1.0.4) (Brain Games) - Extras</description>
-		<rom name="XRacing (2018) (v1.0.4) (Brain Games) - Manual.txt" size="1776" crc="ba9058ae" md5="8cf784bdd393cd55fc01da16b2f83a34" sha1="0fcbf0c6bf47e1825c6e1c6a64cc7ccbf0a39043" status="none" />
+	<game name="XRacing (2018) (Brain Games) - Extras">
+		<description>XRacing (2018) (Brain Games) - Extras</description>
+		<rom name="XRacing (2018) (Brain Games) - Instructions.png" size="301516" crc="ebf37f95" md5="57974a8c36a29b0fbcfab3e63ce2e195" sha1="704a40dc8af55f05aa7d9aa4c74b9fe5485f2458" status="none" />
 	</game>
 	<game name="XSpelunker (2017) (Brain Games) - Extras">
 		<description>XSpelunker (2017) (Brain Games) - Extras</description>
@@ -1657,10 +1657,9 @@
 		<description>ZERO and the Castle of Infinite Sadness (2014) (Dioniso) - Extras</description>
 		<rom name="ZERO and the Castle of Infinite Sadness (2014) (Dioniso) - Manual.pdf" size="137593" crc="5c65ba58" md5="20f2bfd2107eeff6bd4355edd0c8cc4d" sha1="ac32432bbcbe1fb48f23e7b4e655d24835e909fa" status="none" />
 	</game>
-	<game name="Zevimodoki (2017) (GW's Workshop) - Extras">
-		<description>Zevimodoki (2017) (GW's Workshop) - Extras</description>
-		<rom name="Zevimodoki (2017) (GW's Workshop) - Manual.pdf" size="1013082" crc="6ba4c051" md5="fbd18f032b148e104f5c0321d9a7233b" sha1="7a00258bfa7f39c31eaa5f22550ac99dc5839cb5" status="none" />
-		<rom name="Zevimodoki (2017) (v1.10) (GW's Workshop) - Release Notes.txt" size="476" crc="3fd5895a" md5="c0f268d8dffeeb4a89a1184da8f7e97e" sha1="a5004e1b7d56a14e01e7b1f58dec720987e22090" status="none" />
+	<game name="Zevimodoki (2017) (GW’s-Workshop) - Extras">
+		<description>Zevimodoki (2017) (GW’s-Workshop) - Extras</description>
+		<rom name="Zevimodoki (2017) (GW’s-Workshop) - Manual.pdf" size="1013082" crc="6ba4c051" md5="fbd18f032b148e104f5c0321d9a7233b" sha1="7a00258bfa7f39c31eaa5f22550ac99dc5839cb5" status="none" />
 	</game>
 	<game name="Zombie Incident (2011) (nenefranz) - Extras">
 		<description>Zombie Incident (2011) (nenefranz) - Extras</description>

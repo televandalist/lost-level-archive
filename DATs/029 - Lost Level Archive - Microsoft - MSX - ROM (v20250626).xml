@@ -399,9 +399,9 @@
 		<description>Draconic Throne (2017) (v1.12) (GW's Workshop)</description>
 		<rom name="Draconic Throne (2017) (v1.12) (GW's Workshop).rom" size="32768" crc="1109499f" md5="a62de98757c3987468a5f110f77c6f9f" sha1="39b11232bf539a953e528c574ae5776766c5d03e" status="none" />
 	</game>
-	<game name="Dreams Puzzle (2018) (V9990, MSX-Music) (Mapax)">
-		<description>Dreams Puzzle (2018) (V9990, MSX-Music) (Mapax)</description>
-		<rom name="Dreams Puzzle (2018) (V9990, MSX-Music) (Mapax).rom" size="4194304" crc="ba443ce9" md5="dcf1b323f14121293b232172a9b3c949" sha1="ddeb8d9903c2ef90360fcf385e20e4e02e334b76" status="none" />
+	<game name="Dreams Puzzle (2018) (v1.0) (Mapax)">
+		<description>Dreams Puzzle (2018) (v1.0) (Mapax)</description>
+		<rom name="Dreams Puzzle (2018) (v1.0) (Mapax).rom" size="4194304" crc="ba443ce9" md5="dcf1b323f14121293b232172a9b3c949" sha1="ddeb8d9903c2ef90360fcf385e20e4e02e334b76" status="none" />
 	</game>
 	<game name="Drop of Abu - Cymbel, The (2024) (v1.0) (En) (joesg)">
 		<description>Drop of Abu - Cymbel, The (2024) (v1.0) (En) (joesg)</description>
@@ -747,9 +747,9 @@
 		<description>Mahjong Solitaire (2021) (v1.0) (Under4Mhz)</description>
 		<rom name="Mahjong Solitaire (2021) (v1.0) (Under4Mhz).rom" size="32768" crc="059b8cb9" md5="9b2238b491eabd2a20dc3c07aaf42e7a" sha1="41da79a8e0f827759e55839df66c1ad7951abb70" status="none" />
 	</game>
-	<game name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (v1.1.2) (SCC) (Retromixis)">
-		<description>Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (v1.1.2) (SCC) (Retromixis)</description>
-		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (v1.1.2) (SCC) (Retromixis).rom" size="524288" crc="e54b6041" md5="432de13f52afed4c625bfa3373396000" sha1="78506eb97d2f137e85ed61aa0e3ae093d1539be6" status="none" />
+	<game name="Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (v1.1.2) (Retromixis)">
+		<description>Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (v1.1.2) (Retromixis)</description>
+		<rom name="Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (v1.1.2) (Retromixis).rom" size="524288" crc="e54b6041" md5="432de13f52afed4c625bfa3373396000" sha1="78506eb97d2f137e85ed61aa0e3ae093d1539be6" status="none" />
 	</game>
 	<game name="Make Them Fall (2021) (v1.0) (Robosoft)">
 		<description>Make Them Fall (2021) (v1.0) (Robosoft)</description>
@@ -1395,9 +1395,9 @@
 		<description>Stray Cat (2009) (Imanok)</description>
 		<rom name="Stray Cat (2009) (Imanok).rom" size="32768" crc="22a99a44" md5="cc4f5cb6df7f536c7451c7318a9a981d" sha1="c939da3791a6772b48be24553689ba4998244fe4" status="none" />
 	</game>
-	<game name="Stupid Martians (2020) (Visualedu)">
-		<description>Stupid Martians (2020) (Visualedu)</description>
-		<rom name="Stupid Martians (2020) (Visualedu).rom" size="65536" crc="31e3f039" md5="29d4d74e3272469c6d86bda4228a9ae4" sha1="dd1efb52a8b4b1ed3f3b321fad44e6a23d7eae76" status="none" />
+	<game name="Stupid Martians (2020) (v1.1) (Visualedu)">
+		<description>Stupid Martians (2020) (v1.1) (Visualedu)</description>
+		<rom name="Stupid Martians (2020) (v1.1) (Visualedu).rom" size="65536" crc="31e3f039" md5="29d4d74e3272469c6d86bda4228a9ae4" sha1="dd1efb52a8b4b1ed3f3b321fad44e6a23d7eae76" status="none" />
 	</game>
 	<game name="Subacuatic (2012) (Relevo Videogames)">
 		<description>Subacuatic (2012) (Relevo Videogames)</description>
@@ -1643,9 +1643,29 @@
 		<description>XOR2021 (2021) (v1.0) (Timmy)</description>
 		<rom name="XOR2021 (2021) (v1.0) (Timmy).rom" size="32768" crc="8f90e4e0" md5="5888bb30a94dc7758ce48ae5e23ec221" sha1="0aab1fd742b40bff9b68d1fb32074dcdb1a8ec65" status="none" />
 	</game>
+	<game name="XRacing (2018) (v1.0.0) (Brain Games)">
+		<description>XRacing (2018) (v1.0.0) (Brain Games)</description>
+		<rom name="XRacing (2018) (v1.0.0) (Brain Games).rom" size="49152" crc="9f0a1b14" md5="13a779fef0481fe579c0e3c44f5ee956" sha1="fa5cc49fbd073ea4b2f09e0083083db4534ac5de" status="none" />
+	</game>
+	<game name="XRacing (2018) (v1.0.1) (Brain Games)">
+		<description>XRacing (2018) (v1.0.1) (Brain Games)</description>
+		<rom name="XRacing (2018) (v1.0.1) (Brain Games).rom" size="49152" crc="3a4932f3" md5="4fee863d524af9cdf5457be3bb9b0137" sha1="16083c0e1cb167c55f2317b152d17684d62902a4" status="none" />
+	</game>
+	<game name="XRacing (2018) (v1.0.2) (Brain Games)">
+		<description>XRacing (2018) (v1.0.2) (Brain Games)</description>
+		<rom name="XRacing (2018) (v1.0.2) (Brain Games).rom" size="49152" crc="58d4c383" md5="b8537ed33906e299261b90c82480876a" sha1="6a95f4ffe21259e5757240e5015800efd6d9bc21" status="none" />
+	</game>
+	<game name="XRacing (2018) (v1.0.3) (Brain Games)">
+		<description>XRacing (2018) (v1.0.3) (Brain Games)</description>
+		<rom name="XRacing (2018) (v1.0.3) (Brain Games).rom" size="49152" crc="58d4c383" md5="b8537ed33906e299261b90c82480876a" sha1="6a95f4ffe21259e5757240e5015800efd6d9bc21" status="none" />
+	</game>
 	<game name="XRacing (2018) (v1.0.4) (Brain Games)">
 		<description>XRacing (2018) (v1.0.4) (Brain Games)</description>
 		<rom name="XRacing (2018) (v1.0.4) (Brain Games).rom" size="49152" crc="164feacb" md5="63f715cf2a0040f28051304bccc6f3d9" sha1="246ac053230bc1f3e42a00347fcb42c390eb4a7c" status="none" />
+	</game>
+	<game name="XRacing (2018) (v1.0.5) (Brain Games)">
+		<description>XRacing (2018) (v1.0.5) (Brain Games)</description>
+		<rom name="XRacing (2018) (v1.0.5) (Brain Games).rom" size="49152" crc="74ac3ce1" md5="3a053ed7d346ea3b257f0f9edc1fed5f" sha1="f2b4590570276c0b44f8b695a155d6bfadcaac41" status="none" />
 	</game>
 	<game name="XSpelunker (2017) (En) (Brain Games)">
 		<description>XSpelunker (2017) (En) (Brain Games)</description>
@@ -1675,9 +1695,9 @@
 		<description>ZERO and the Castle of Infinite Sadness (2014) (Dioniso)</description>
 		<rom name="ZERO and the Castle of Infinite Sadness (2014) (Dioniso).rom" size="32768" crc="f6cfdb93" md5="8d06a6da2309395e9560a85a6083c76c" sha1="a1fe1f9489ab188561beb2816a83a7a9fc347623" status="none" />
 	</game>
-	<game name="Zevimodoki (2017) (v1.10) (GW's Workshop)">
-		<description>Zevimodoki (2017) (v1.10) (GW's Workshop)</description>
-		<rom name="Zevimodoki (2017) (v1.10) (GW's Workshop).rom" size="65536" crc="7c2fdceb" md5="39f5ce41d6b7fba76d4dd8a603657c71" sha1="d7c9253056f7079c4e36f76f163c0a7ce3fc01e3" status="none" />
+	<game name="Zevimodoki (2017) (v1.10) (GW’s-Workshop)">
+		<description>Zevimodoki (2017) (v1.10) (GW’s-Workshop)</description>
+		<rom name="Zevimodoki (2017) (v1.10) (GW’s-Workshop).rom" size="65536" crc="7c2fdceb" md5="39f5ce41d6b7fba76d4dd8a603657c71" sha1="d7c9253056f7079c4e36f76f163c0a7ce3fc01e3" status="none" />
 	</game>
 	<game name="Zombie Incident (2011) (v1.0) (nenefranz)">
 		<description>Zombie Incident (2011) (v1.0) (nenefranz)</description>

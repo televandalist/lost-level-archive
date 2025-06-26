@@ -447,6 +447,10 @@
 		<description>Zakil Wood (2019) (v1.3) (En,Es) (NataliaPC)</description>
 		<rom name="Zakil Wood (2019) (v1.3) (En,Es) (NataliaPC).dsk" size="737280" crc="21d0d2ca" md5="6b4d80a75476df697cddba7bacc8f8f1" sha1="bb7c26260cc882da0e862009532049644b7c2429" status="none" />
 	</game>
+	<game name="Zevimodoki (2017) (v1.10) (GW’s-Workshop)">
+		<description>Zevimodoki (2017) (v1.10) (GW’s-Workshop)</description>
+		<rom name="Zevimodoki (2017) (v1.10) (GW’s-Workshop).dsk" size="737280" crc="88a7363e" md5="c4c7cb9fc116722c05bc5474d0d14cc8" sha1="9e5777c61cb61528e91af2f3b19736cc1e6caf65" status="none" />
+	</game>
 	<game name="Zone TNT (2011) (Gamecast)">
 		<description>Zone TNT (2011) (Gamecast)</description>
 		<rom name="Zone TNT (2011) (Gamecast).dsk" size="737280" crc="321a9298" md5="1359aed0de55604601701af5b6c97f36" sha1="007b380b5af29cb43e495db498ad2a7b3479e6bc" status="none" />
