@@ -11,19 +11,35 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="9 Parts (2023) (meichnpp) - Extras">
+		<description>9 Parts (2023) (meichnpp) - Extras</description>
+		<rom name="9 Parts (2023) (meichnpp) - Manual.txt" size="944" crc="4186c0ca" md5="4303019924f9dd75973106c5c472a549" sha1="a85b4450d35779b657ebf0cff84c9a9147349675" status="none" />
+	</game>
 	<game name="Adventures of Moron van der Slut, The (2010) (The New Image) - Extras">
 		<description>Adventures of Moron van der Slut, The (2010) (The New Image) - Extras</description>
 		<rom name="Adventures of Moron van der Slut, The (2010) (The New Image) - Label.png" size="341590" crc="6c865b05" md5="85f32c477700afa5aafb1035365b8dc9" sha1="0dd2eb3725fb104da75df39cf39690939152e6da" status="none" />
 		<rom name="Adventures of Moron van der Slut, The (2010) (The New Image) - Manual.txt" size="754" crc="357ff51d" md5="a9ee586be261443c86f5115cae77299d" sha1="729c9a4f9d48ca3ec6cddff8817bbb4efdbcf709" status="none" />
 	</game>
+	<game name="Bird (2018) (N.I.) - Extras">
+		<description>Bird (2018) (N.I.) - Extras</description>
+		<rom name="Bird (2018) (N.I.) - Manual.txt" size="380" crc="69ed8a55" md5="1fde5a43243de895164229be126c5c3c" sha1="565355915d633401d2d5c17a7447f394e1b82244" status="none" />
+	</game>
 	<game name="Bricks (2023) (MoltSXalats) - Extras">
 		<description>Bricks (2023) (MoltSXalats) - Extras</description>
 		<rom name="Bricks (2023) (MoltSXalats) - Manual.pdf" size="10359" crc="b6c69b7c" md5="1d1cd75c3b926f4c1d9d234635148544" sha1="f02aeae418beb9997d3a7520d8a89ac38d6507b6" status="none" />
+	</game>
+	<game name="Bubble Code (2025) (meichnpp) - Extras">
+		<description>Bubble Code (2025) (meichnpp) - Extras</description>
+		<rom name="Bubble Code (2025) (meichnpp) - Manual.txt" size="1293" crc="75ee842d" md5="a737cf90f9f030b90b1e3edf2562d8b1" sha1="ff049b4a724a6437cdb3385f7eb3591235df9f1c" status="none" />
 	</game>
 	<game name="Curse of Lies, The (2024) (Rei-Vax-73) - Extras">
 		<description>Curse of Lies, The (2024) (Rei-Vax-73) - Extras</description>
 		<rom name="Curse of Lies, The (2024) (Rei-Vax-73) - Manual (En).pdf" size="972059" crc="aaf6e5bc" md5="e0e0a395aa23038ed431dc71e1b54e7c" sha1="e0e87cc1f3fd93fbfe9474789f798c67b82c254a" status="none" />
 		<rom name="Curse of Lies, The (2024) (Rei-Vax-73) - Manual (Fr).pdf" size="955706" crc="77b3ce5f" md5="8483d2e6e084cac83f36313fb35090b3" sha1="dbc98700e84a0400603d80296c2cc97dd7ebc1bc" status="none" />
+	</game>
+	<game name="Doopm Trip (2017) (N.I.) - Extras">
+		<description>Doopm Trip (2017) (N.I.) - Extras</description>
+		<rom name="Doopm Trip (2017) (N.I.) - Manual.txt" size="729" crc="923becb3" md5="fcc374c2928fd73af61bba82af0d6598" sha1="a982db4212467851559aa1be9dfb5ba03cb6cadc" status="none" />
 	</game>
 	<game name="Eggy's Maze (2023) (Jacco Bikker) - Extras">
 		<description>Eggy's Maze (2023) (Jacco Bikker) - Extras</description>
@@ -38,6 +54,10 @@
 	<game name="Ghostly Manor (2022) (9958 Crew) - Extras">
 		<description>Ghostly Manor (2022) (9958 Crew) - Extras</description>
 		<rom name="Ghostly Manor (2022) (MSX V9958 VDP Exclusive) (9958 Crew) - Manual.pdf" size="493524" crc="e7c47450" md5="478f6d12fce01461a901ce979ee7506f" sha1="c212d8fa383a0b4fddeb9046828cf9ef118c5b78" status="none" />
+	</game>
+	<game name="Gold Fan (2016) (N.I.) - Extras">
+		<description>Gold Fan (2016) (N.I.) - Extras</description>
+		<rom name="Gold Fan (2016) (N.I.) - Manual.txt" size="405" crc="a14cbf19" md5="d87409e10c1849b1dbfe2cad3abdf73c" sha1="c54740a77f47ae11ab14a70139f03b15000c0fdf" status="none" />
 	</game>
 	<game name="Harker's Escape (2024) (Amaury Carvalho) - Extras">
 		<description>Harker's Escape (2024) (Amaury Carvalho) - Extras</description>
@@ -64,6 +84,11 @@
 		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Changelog.txt" size="7564" crc="d7d58c6b" md5="cacab088714f7444df2637c5506109db" sha1="3a24e8e10f08aca67006226da37f870ec6f038ed" status="none" />
 		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Manual (En).pdf" size="3065927" crc="6ec31891" md5="8e5af76bd727518d15cc9f2dd580344e" sha1="166fad9fa34ae981e35098c99377aad66f35cc0c" status="none" />
 		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Manual (Jp).pdf" size="2978269" crc="cd878b46" md5="996b07d3cd2f53f722a07e5b36024c53" sha1="18a9601c8536db00ff46db2f6228b5443c9c6d79" status="none" />
+	</game>
+	<game name="Marshmallow Chronicle (2024) (meichnpp) - Extras">
+		<description>Marshmallow Chronicle (2024) (meichnpp) - Extras</description>
+		<rom name="OST\Marshmallow Chronicle (2024) (meichnpp) - Luminous_Falls.mp3" size="3907728" crc="9dedc2b4" md5="defa91472a327b73bf7075d723a40e68" sha1="edcfde6123dc7c11ac54dcaab3c078c73473ac11" status="none" />
+		<rom name="Marshmallow Chronicle (2024) (meichnpp) - Manual.txt" size="1190" crc="1200938e" md5="3b38e4d7a350df05d1224fd13bbdacf1" sha1="be2470627fafda7216132c9e4f143d956e84a0f8" status="none" />
 	</game>
 	<game name="Memory (2022) (v1.1) (Jipe) - Extras">
 		<description>Memory (2022) (v1.1) (Jipe) - Extras</description>
@@ -124,6 +149,10 @@
 		<rom name="Shift (2009) (Infinite) - Label.png" size="1103282" crc="0d9150da" md5="0eefe8df426b71ab6aa40189cf79a01f" sha1="7c6d7e53689f03f92d1d19f6d1cd8f8e87294ec0" status="none" />
 		<rom name="Shift (2009) (Infinite) - Manual (En).pdf" size="91469" crc="13047409" md5="c0ae00be38af1d6639b99d60a0ee162a" sha1="60c6c5b4aa19b6b5d71374fab2457deed888a0b8" status="none" />
 	</game>
+	<game name="Space Popo (2023) (meichnpp) - Extras">
+		<description>Space Popo (2023) (meichnpp) - Extras</description>
+		<rom name="Space Popo (2023) (meichnpp) - Manual.txt" size="878" crc="fd4dc0db" md5="97444030d1f754b890256a4c9e47b58e" sha1="a0491212f0151ca3f62764cfe5a4e2eaabe6f0d1" status="none" />
+	</game>
 	<game name="Suite Macabre (2022) (En,Es) (Maltanto) - Extras">
 		<description>Suite Macabre (2022) (En,Es) (Maltanto) - Extras</description>
 		<rom name="Suite Macabre (2022) (En,Es) (Maltanto) - Cover.png" size="6413951" crc="152fe5e7" md5="c84f05115ff593d410d4564988880e86" sha1="21dffb5be4e36d8263b6fa9d2eab65f8fdd557ed" status="none" />
@@ -137,6 +166,10 @@
 	<game name="Super Sokoban (2024) (2NICE) - Extras">
 		<description>Super Sokoban (2024) (2NICE) - Extras</description>
 		<rom name="Super Sokoban (2024) (2NICE) - Manual.pdf" size="1102434" crc="1e741288" md5="e50a2862638e45565730ebfeb86af476" sha1="16acc7e60cffcdde8ae2f96e986a5baccfa61d8b" status="none" />
+	</game>
+	<game name="Usagi Densig (2023) (meichnpp) - Extras">
+		<description>Usagi Densig (2023) (meichnpp) - Extras</description>
+		<rom name="Usagi Densig (2023) (meichnpp) - Manual.txt" size="944" crc="d9a7189b" md5="1bff47c10a84981d99da821db6b46c08" sha1="525a1231855b3798216a3e8c98fb6151e76ee9b7" status="none" />
 	</game>
 	<game name="Wizsoul (2024) (v8.0) (Freenit) - Extras">
 		<description>Wizsoul (2024) (v8.0) (Freenit) - Extras</description>

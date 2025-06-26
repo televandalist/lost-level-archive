@@ -11,6 +11,10 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="9 Parts (2023) (meichnpp)">
+		<description>9 Parts (2023) (meichnpp)</description>
+		<rom name="9 Parts (2023) (meichnpp).dsk" size="737280" crc="4548bf9a" md5="b86e6ff5afe5d8bd36b563ab72ad535b" sha1="f67b66224c30037f248b21a9b37456c8bc04772e" status="none" />
+	</game>
 	<game name="Adventures of Moron van der Slut, The (2010) (The New Image)">
 		<description>Adventures of Moron van der Slut, The (2010) (The New Image)</description>
 		<rom name="Adventures of Moron van der Slut, The (2010) (The New Image).rom" size="131072" crc="08545471" md5="7145bbe78ca41c7eb4ebb5993ed9996c" sha1="74ace233682d2e4355a02e52bbd078358811a35b" status="none" />
@@ -35,6 +39,10 @@
 		<description>Be-Bop Bout (En) (1994) (64K) (Mar'z Project)</description>
 		<rom name="Be-Bop Bout (En) (1994) (64K) (Mar'z Project).dsk" size="737280" crc="c46a93c9" md5="5a01bbeb3673bbdc020ab8e8e4ebd5da" sha1="8c4cc1fc4d60f27785afcbfddcd978f6027a6412" />
 	</game>
+	<game name="Bird (2018) (N.I.)">
+		<description>Bird (2018) (N.I.)</description>
+		<rom name="Bird (2018) (N.I.).dsk" size="737280" crc="4296f662" md5="52bd862d006d70be5c56948ed5fddb1f" sha1="3989edfc701b1101bfd11d966a01fbd42a52594a" status="none" />
+	</game>
 	<game name="Bricks (2023) (v1.0) (MoltSXalats)">
 		<description>Bricks (2023) (v1.0) (MoltSXalats)</description>
 		<rom name="Bricks (2023) (v1.0) (MoltSXalats).dsk" size="737280" crc="1a0daa14" md5="935702871d4b1fdb548608b11613f71a" sha1="df2598614a4e3222f25d1b5ef129de395189987e" status="none" />
@@ -43,9 +51,17 @@
 		<description>Brunilda (2024) (v1.01) (SCC, Mapper Konami5) (128KB VRAM) (Retroworks)</description>
 		<rom name="Brunilda (2024) (v1.01) (SCC, Mapper Konami5) (128KB VRAM) (Retroworks).rom" size="1277952" crc="9eb9bad0" md5="e64516057017949edf78d8517a14028b" sha1="fe239a9d71352f4b45e6df64a38341544c197cfb" status="none" />
 	</game>
+	<game name="Bubble Code (2025) (meichnpp)">
+		<description>Bubble Code (2025) (meichnpp)</description>
+		<rom name="Bubble Code (2025) (meichnpp).dsk" size="737280" crc="b58ba39f" md5="04ecc8304379edf99fc6c3475dc6d598" sha1="f95fefec0cdfebfd73163e68369d636103ecbfbf" status="none" />
+	</game>
 	<game name="Curse of Lies, The (2024) (v2.0) (Rei-Vax-73)">
 		<description>Curse of Lies, The (2024) (v2.0) (Rei-Vax-73)</description>
 		<rom name="Curse of Lies, The (2024) (v2.0) (Rei-Vax-73).rom" size="524288" crc="d6d68270" md5="dfe6a97e5eb7e99a452ecdd2f9d99aff" sha1="a8f10e04933e68761e2eb1a97c02effa974fc2a3" status="none" />
+	</game>
+	<game name="Doopm Trip (2017) (N.I.)">
+		<description>Doopm Trip (2017) (N.I.)</description>
+		<rom name="Doopm Trip (2017) (N.I.).dsk" size="737280" crc="cb969296" md5="23152af2940289364f22e4b38c4f2ec2" sha1="249cf01188ef861730eaa373a9cb884aa53268bf" status="none" />
 	</game>
 	<game name="Eggy's Maze (2023) (v1.6) (Jacco Bikker)">
 		<description>Eggy's Maze (2023) (v1.6) (Jacco Bikker)</description>
@@ -71,6 +87,10 @@
 		<description>Ghostly Manor (2022) (MSX V9958 VDP Exclusive) (9958 Crew)</description>
 		<rom name="Ghostly Manor (2022) (MSX V9958 VDP Exclusive) (9958 Crew).rom" size="262144" crc="bacdecdd" md5="685d02ca1daa697785b708ed8a87f617" sha1="9449e98d8d85cdc6be745f358b858a73e1d15209" status="none" />
 	</game>
+	<game name="Gold Fan (2016) (N.I.)">
+		<description>Gold Fan (2016) (N.I.)</description>
+		<rom name="Gold Fan (2016) (N.I.).rom" size="32768" crc="ef4a0bc9" md5="a26b957a68208135442f8a9de1e0e60d" sha1="502174aa7f495dab970423f97cf08c4aa30472ad" status="none" />
+	</game>
 	<game name="Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor)">
 		<description>Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor)</description>
 		<rom name="Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor).rom" size="262144" crc="bc7b67f1" md5="745803f65b0e7b61d444d98f6ff68bf5" sha1="7ebc54affd5794422cb23cd9823e6af337ad01a7" />
@@ -95,9 +115,21 @@
 		<description>Mad House (2023) (v4.1) (Gamecast)</description>
 		<rom name="Mad House (2023) (v4.1) (Gamecast).dsk" size="737280" crc="07695af6" md5="b06be059e1c07206bbe276f53fc27508" sha1="153f4bc9cd58954ee568c4dcbb46be503f7aef7a" status="none" />
 	</game>
+	<game name="Magical Bocco 20541 (2024) (meichnpp)">
+		<description>Magical Bocco 20541 (2024) (meichnpp)</description>
+		<rom name="Magical Bocco 20541 (2024) (meichnpp).dsk" size="737280" crc="2189ff15" md5="d15d2c5f4915c892fff2aee62d90f55e" sha1="8efa4a8c8ffb014149827bb2a8c73a83662e61d2" status="none" />
+	</game>
 	<game name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (v1.1.2) (SCC) (Retromixis)">
 		<description>Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (v1.1.2) (SCC) (Retromixis)</description>
 		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (v1.1.2) (SCC) (Retromixis).rom" size="524288" crc="e54b6041" md5="432de13f52afed4c625bfa3373396000" sha1="78506eb97d2f137e85ed61aa0e3ae093d1539be6" status="none" />
+	</game>
+	<game name="Marshmallow Chronicle (2024) (v1.0) (meichnpp)">
+		<description>Marshmallow Chronicle (2024) (v1.0) (meichnpp)</description>
+		<rom name="Marshmallow Chronicle (2024) (v1.0) (meichnpp).dsk" size="737280" crc="6424c515" md5="dbaf5149d63045ec7a57903700e9ce8a" sha1="3a14a8dd77ce700e0f1707fb974bc22898a154a8" status="none" />
+	</game>
+	<game name="Marshmallow Chronicle (2024) (v1.1) (meichnpp)">
+		<description>Marshmallow Chronicle (2024) (v1.1) (meichnpp)</description>
+		<rom name="Marshmallow Chronicle (2024) (v1.1) (meichnpp).dsk" size="737280" crc="c21b46f6" md5="6e3e3a0dc9847efdc7e6a01d77cf3c9f" sha1="2e9b7e6a88feef116687baeb4420c3257fc3f8b5" status="none" />
 	</game>
 	<game name="Martian War (2023) (v1.1) (Fausto Pracek)">
 		<description>Martian War (2023) (v1.1) (Fausto Pracek)</description>
@@ -241,6 +273,10 @@
 		<description>Sonyc (1995) (Analogy)</description>
 		<rom name="Sonyc (1995) (Analogy).dsk" size="737280" crc="5479c32c" md5="8862fece2e199eecb0d8f68e0f9dee70" sha1="eb49ada017dcc5b807b6ee15ee2e5e8026535edc" />
 	</game>
+	<game name="Space Popo (2023) (meichnpp)">
+		<description>Space Popo (2023) (meichnpp)</description>
+		<rom name="Space Popo (2023) (meichnpp).dsk" size="737280" crc="2c8468e3" md5="5849b2b748cf1a8d483e4ce5836ca9f0" sha1="51fcad3f598a3cfbb5196c4dc4bb53e7d93c0d69" status="none" />
+	</game>
 	<game name="Suite Macabre (2022) (v1.99F3) (En,Es) (Maltanto)">
 		<description>Suite Macabre (2022) (v1.99F3) (En,Es) (Maltanto)</description>
 		<rom name="Suite Macabre (2022) (v1.99F3) (En,Es) (Maltanto).rom" size="262144" crc="03c7ec35" md5="2c78ba7aa86ba357bdde5a12662a989c" sha1="633824fa00e519ecfff36be7cf6adb9e587f4db6" status="none" />
@@ -264,6 +300,10 @@
 	<game name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2 of 2)">
 		<description>Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2 of 2)</description>
 		<rom name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2 of 2).dsk" size="737280" crc="6e7a1784" md5="486b7e8a8fe02a34ea38c0ebe87ae63a" sha1="1ce762b191bb3cf31272fc8ecbf48df38cb5f9cc" />
+	</game>
+	<game name="Usagi Densig (2023) (meichnpp)">
+		<description>Usagi Densig (2023) (meichnpp)</description>
+		<rom name="Usagi Densig (2023) (meichnpp).dsk" size="737280" crc="4ea2c406" md5="414b45209dde869cfed51f66ec3361cc" sha1="8cf7716ae45dc42cf13927c8fac1ccbb1cdd60c1" status="none" />
 	</game>
 	<game name="Wizsoul (2024) (v8.0) (Freenit)">
 		<description>Wizsoul (2024) (v8.0) (Freenit)</description>

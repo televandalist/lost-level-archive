@@ -80,6 +80,10 @@
 		<description>Attack of the Petscii Robots (2023) (v1.2) (V9990, OPL4) (Robosoft)</description>
 		<rom name="Attack of the Petscii Robots (2023) (v1.2) (V9990, OPL4) (Robosoft).rom" size="2097152" crc="7d13be12" md5="687acb0a35022f49f4722ec7230a7993" sha1="c17594a976512e5f3eba6f5c4f1c24003fcdad14" status="none" />
 	</game>
+	<game name="Auto Mouse (2023) (meichnpp)">
+		<description>Auto Mouse (2023) (meichnpp)</description>
+		<rom name="Auto Mouse (2023) (meichnpp).rom" size="16384" crc="4cec072e" md5="1aea98c3f73c1119775abcee599050a7" sha1="93319a0f81219d7f016eddd153474721ecbf5929" status="none" />
+	</game>
 	<game name="Automania (2022) (v1.0) (Fregarni)">
 		<description>Automania (2022) (v1.0) (Fregarni)</description>
 		<rom name="Automania (2022) (v1.0) (Fregarni).rom" size="131072" crc="223be07f" md5="f61c797c4ac24c60bb0f0be45e3a3d22" sha1="2f24c2adc10277c78a1468894abdf23dcfe51e9a" status="none" />
@@ -109,9 +113,17 @@
 		<description>Balloon City (2007) (AG Software)</description>
 		<rom name="Balloon City (2007) (AG Software).rom" size="16384" crc="e442c99a" md5="9fad2fe661961442a716be64756c4279" sha1="c46f85f21f780f126a0d61848071fcdcf84f15b9" status="none" />
 	</game>
+	<game name="Bee (2016) (N.I.)">
+		<description>Bee (2016) (N.I.)</description>
+		<rom name="Bee (2016) (N.I.).rom" size="32768" crc="226f2e46" md5="a0274bcfabdd9cdc76f5c9fa422b8d27" sha1="b1ce0053b176282274137e633a03653cbba7d472" status="none" />
+	</game>
 	<game name="Beep (2024) (v1.2) (Breinthee)">
 		<description>Beep (2024) (v1.2) (Breinthee)</description>
 		<rom name="Beep (2024) (v1.2) (Breinthee).dsk" size="737280" crc="27c36758" md5="75c0acb7a1415b184638550e832d026a" sha1="08b1ad1c4541efe4c8710447bf52ec5b4f07373d" status="none" />
+	</game>
+	<game name="Beep (2024) (v1.5) (Breinthee)">
+		<description>Beep (2024) (v1.5) (Breinthee)</description>
+		<rom name="Beep (2024) (v1.5) (Breinthee).rom" size="32768" crc="edf6e3ae" md5="100da70f33e4a5abe8edf90cb6d15b8a" sha1="b24dfb9658a6b7236c2ed20f0c76d573e4c34a5c" status="none" />
 	</game>
 	<game name="Beepertron (2006) (Dioniso)">
 		<description>Beepertron (2006) (Dioniso)</description>
@@ -128,6 +140,10 @@
 	<game name="Binary Battle (2024) (v1.0) (Haplo)">
 		<description>Binary Battle (2024) (v1.0) (Haplo)</description>
 		<rom name="Binary Battle (2024) (v1.0) (Haplo).rom" size="32768" crc="92be4f86" md5="c32b647d59afc52c34a6192de612ca1f" sha1="a88d2ab90d54c6ff33ef925c4bf49fd0ec8117ac" status="none" />
+	</game>
+	<game name="Bird &amp; Chairs (2017) (N.I.)">
+		<description>Bird &amp; Chairs (2017) (N.I.)</description>
+		<rom name="Bird &amp; Chairs (2017) (N.I.).rom" size="32768" crc="0236deea" md5="9041a7d75f3dd34a62131a2471ff4185" sha1="ed0b859afd5cb5ab66fd2b1122ed83682b0f3ea1" status="none" />
 	</game>
 	<game name="BitLogic (2015) (v1.0 - Dev) (OXiAB Game Studio)">
 		<description>BitLogic (2015) (v1.0 - Dev) (OXiAB Game Studio)</description>
@@ -190,9 +206,14 @@
 		<description>British Bob (2009) (Relevo Videogames)</description>
 		<rom name="British Bob (2009) (Relevo Videogames).rom" size="16384" crc="8ab004f9" md5="b68d4ef5560e04dac9b153b05b4968b9" sha1="e45af2f15327dfdc1b1250ddab97b7f28801d5ca" status="none" />
 	</game>
-	<game name="Bubbo World (2015) (N.I.)">
-		<description>Bubbo World (2015) (N.I.)</description>
-		<rom name="Bubbo World (2015) (N.I.).rom" size="8192" crc="42ac5dac" md5="1aab9c80befcbea8acb5c88a69dbcddb" sha1="c84d6b04725676b7162a0b9a23e8d94ed0e81495" status="none" />
+	<game name="Bubbo World (2016) (N.I.)">
+		<description>Bubbo World (2016) (N.I.)</description>
+		<rom name="Bubbo World (2016) (N.I.).dsk" size="737280" crc="9a6f2670" md5="4abe2f9fb9c590c1eebecfb660a308c8" sha1="342645f9d0679742beb09534ff1ef53f1ba0278b" status="none" />
+		<rom name="Bubbo World (2016) (N.I.).rom" size="8192" crc="42ac5dac" md5="1aab9c80befcbea8acb5c88a69dbcddb" sha1="c84d6b04725676b7162a0b9a23e8d94ed0e81495" status="none" />
+	</game>
+	<game name="Bubbo World 2 (2016) (N.I.)">
+		<description>Bubbo World 2 (2016) (N.I.)</description>
+		<rom name="Bubbo World 2 (2016) (N.I.).rom" size="16384" crc="d9c25a09" md5="1868521bf90acba785e45ecd12ae04c9" sha1="045c28fd5c3d5f5ad5bd9e5c2c1ab6c2faaf84b2" status="none" />
 	</game>
 	<game name="Buddhagillie (2018) (v1.10) (GW's Workshop)">
 		<description>Buddhagillie (2018) (v1.10) (GW's Workshop)</description>
@@ -443,6 +464,10 @@
 		<description>DuckTales - The Lucky Dime (1994) (Nl) (meits)</description>
 		<rom name="DuckTales - The Lucky Dime (1994) (Nl) (meits).dsk" size="737280" crc="f04d358d" md5="336c0a775c0dc3c9d83b2974c99fa285" sha1="95ce5cbd0687552a52a3055c4ff8c667705a57ce" />
 	</game>
+	<game name="E-Dog (2024) (meichnpp)">
+		<description>E-Dog (2024) (meichnpp)</description>
+		<rom name="E-Dog (2024) (meichnpp).dsk" size="737280" crc="779b2e1e" md5="54a21338d6ba677ba9aca26bf24eb895" sha1="a97a4f2908ff1e289d463ac3866b9ef54286fd84" status="none" />
+	</game>
 	<game name="Earth Attack (World) (Aftermarket) (Unl)">
 		<description>Earth Attack (World) (Aftermarket) (Unl)</description>
 		<rom name="Earth Attack (World) (Aftermarket) (Unl).rom" size="32768" crc="c9596ccb" md5="7430d6033b56ac173194968be0a8d146" sha1="b4335bf70d19d80a1e59faa890e04c5fefee0072" />
@@ -450,6 +475,10 @@
 	<game name="Eat Blue! (2004) (Paxanga Soft)">
 		<description>Eat Blue! (2004) (Paxanga Soft)</description>
 		<rom name="Eat Blue! (2004) (Paxanga Soft).rom" size="8192" crc="caef6e71" md5="f94d3a0d3a3d120370e338f95b48c363" sha1="d31eb4ff4d6e4b3af645f24388c734a1d00a0c47" status="none" />
+	</game>
+	<game name="Eruka Fan Book (2016) (N.I.)">
+		<description>Eruka Fan Book (2016) (N.I.)</description>
+		<rom name="Eruka Fan Book (2016) (N.I.).rom" size="49152" crc="d08d9358" md5="e3bad54e83fba706de6921ca27e4a43a" sha1="8511c79774a2aa1913ece5fde339cf0082fc09ab" status="none" />
 	</game>
 	<game name="Evolution 2 (2008) (Microtech)">
 		<description>Evolution 2 (2008) (Microtech)</description>
@@ -467,6 +496,10 @@
 		<description>Fantastic Football (2021) (v1.0) (Zoran Majcenić, Daniel Simon)</description>
 		<rom name="Fantastic Football (2021) (v1.0) (Zoran Majcenić, Daniel Simon).cas" size="40079" crc="97a28b15" md5="64f4dca99c0b29f25b3c541d7327c47d" sha1="c5c601bb6de2b37fbb4339f670b5269c8ea5fa63" status="none" />
 		<rom name="Fantastic Football (2021) (v1.0) (Zoran Majcenić, Daniel Simon).rom" size="49152" crc="51e1fe56" md5="dbc0f6247f813f52ecb102f3bc8890ea" sha1="1981c852c8b47e9596cd8a6869d5665f3c730d59" status="none" />
+	</game>
+	<game name="Farm (2019) (meichnpp)">
+		<description>Farm (2019) (meichnpp)</description>
+		<rom name="Farm (2019) (meichnpp).rom" size="8192" crc="61cee4ab" md5="a201b9497e2eddec48f078830213dde5" sha1="c621f4e32383914dc2e7fd250454b0fbf254720a" status="none" />
 	</game>
 	<game name="Farmer's Yields (2023) (v1.0) (Rio Yamamura)">
 		<description>Farmer's Yields (2023) (v1.0) (Rio Yamamura)</description>
@@ -573,6 +606,10 @@
 		<description>Great New World, A (2024) (v1.0) (Phaze101)</description>
 		<rom name="Great New World, A (2024) (v1.0) (Phaze101).rom" size="49152" crc="a5759b68" md5="92f734d82ad1c495bbf25db430ec139b" sha1="194703efafe211a3e0b87eb561f610ad1fcda256" status="none" />
 	</game>
+	<game name="Green Cat Chronicles (2018) (meichnpp)">
+		<description>Green Cat Chronicles (2018) (meichnpp)</description>
+		<rom name="Green Cat Chronicles (2018) (meichnpp).rom" size="16384" crc="7cfd2174" md5="d97c312adfd9969aff377f39c66c7d7e" sha1="fafa7b2f249983c8e92d6a9f67ef71f75deb07e5" status="none" />
+	</game>
 	<game name="Grid Wars (2006) (Emma Six)">
 		<description>Grid Wars (2006) (Emma Six)</description>
 		<rom name="Grid Wars (2006) (Emma Six).rom" size="32768" crc="03b56d90" md5="d52e9a2b87d498abcc07a28f684394be" sha1="0e6b6644021dbfad3c486c378818ea5e432bb9fd" status="none" />
@@ -620,6 +657,10 @@
 	<game name="Invasion of the Zombie Monsters (2010) (Relevo)">
 		<description>Invasion of the Zombie Monsters (2010) (Relevo)</description>
 		<rom name="Invasion of the Zombie Monsters (2010) (Relevo).rom" size="32768" crc="a232351f" md5="62f112037bc8e1a140c72605ed5db5da" sha1="bf2452f9932cbce5986f72eb04d4c1ecec045b7f" />
+	</game>
+	<game name="Isitar 7 (2019) (meichnpp)">
+		<description>Isitar 7 (2019) (meichnpp)</description>
+		<rom name="Isitar 7 (2019) (meichnpp).rom" size="32768" crc="d7795487" md5="6d07ce00155de7537ded6010c396116b" sha1="da9c15e0f960554ffe4357cd00006afbaa69a414" status="none" />
 	</game>
 	<game name="Italian Stallion (2007) (Impulse9)">
 		<description>Italian Stallion (2007) (Impulse9)</description>
@@ -685,6 +726,10 @@
 		<description>Kralizec Battle Tetris (2004) (Kralizec)</description>
 		<rom name="Kralizec Battle Tetris (2004) (Kralizec).rom" size="8192" crc="5a5748f7" md5="73181553059da31b484977193e68ccc6" sha1="9776da8b475d81400e027e37d949ccffbb33fe30" status="none" />
 	</game>
+	<game name="Kumo ni notte (2024) (meichnpp)">
+		<description>Kumo ni notte (2024) (meichnpp)</description>
+		<rom name="Kumo ni notte (2024) (meichnpp).dsk" size="737280" crc="dd44719a" md5="2aab1a40647eb1319453dc9f85250084" sha1="1c64c0e6df9507805c18da846e4304c7e75f685b" status="none" />
+	</game>
 	<game name="l'abbaye Des Morts (2020) (RetroDeluxe)">
 		<description>l'abbaye Des Morts (2020) (RetroDeluxe)</description>
 		<rom name="l'abbaye Des Morts (2020) (RetroDeluxe).rom" size="262144" crc="38e9bdb2" md5="c45fd4b6b2731fb6a73165e53bc26bd2" sha1="f37f8b8f32b546a866497834dcb4ed8cde638009" status="none" />
@@ -748,6 +793,10 @@
 	<game name="M-Tanks (2011) (Assembler)">
 		<description>M-Tanks (2011) (Assembler)</description>
 		<rom name="M-Tanks (2011) (Assembler).rom" size="131072" crc="c0efa4ff" md5="1bceb1c030614810fc9b9dad7847b775" sha1="93f1783d04aa0511130afed8cfd2b4417fe86b3e" status="none" />
+	</game>
+	<game name="Magical Boco (2024) (meichnpp)">
+		<description>Magical Boco (2024) (meichnpp)</description>
+		<rom name="Magical Boco (2024) (meichnpp).dsk" size="737280" crc="361c3cfa" md5="6309b4f93b799f0464ad0f13c81dd426" sha1="1937df260f3617c4572183efb5eda6f493699fcb" status="none" />
 	</game>
 	<game name="Magical Stones (2005) (8K Ver.) (Dioniso)">
 		<description>Magical Stones (2005) (8K Ver.) (Dioniso)</description>
@@ -867,6 +916,10 @@
 		<description>Mine Finder (2022) (v1.2) (Paolo Fabrizio Pugno)</description>
 		<rom name="Mine Finder (2022) (v1.2) (Paolo Fabrizio Pugno).rom" size="16384" crc="429b6ade" md5="816ffbd68d49134194aca9dbb0e6779d" sha1="4c9ff15f1f6f41fc812849a52d4158591de06181" status="none" />
 	</game>
+	<game name="Mint (2023) (meichnpp)">
+		<description>Mint (2023) (meichnpp)</description>
+		<rom name="Mint (2023) (meichnpp).rom" size="16384" crc="dfecb0ee" md5="4bcd65f7c44b7287ec56200df8e8af2f" sha1="2fc6312fea45362d90e5d0873bb7aaf1ff13ae54" status="none" />
+	</game>
 	<game name="Mission2Mir (2010) (Ray2Day)">
 		<description>Mission2Mir (2010) (Ray2Day)</description>
 		<rom name="Mission2Mir (2010) (Ray2Day).rom" size="16384" crc="5aed0fab" md5="1398bf425e6342c78b4d44fe07d4db0b" sha1="18bc2ca5c36184a9b54426440f2a914126d82f79" status="none" />
@@ -874,6 +927,10 @@
 	<game name="Mix (2022) (v1.2) (Uninteresting)">
 		<description>Mix (2022) (v1.2) (Uninteresting)</description>
 		<rom name="Mix (2022) (v1.2) (Uninteresting).rom" size="16384" crc="7bc49d78" md5="f83343360d7a36b566ce4b0ca344900e" sha1="7e0f1f5784f84da44cecac9c28d562e3deadebc5" status="none" />
+	</game>
+	<game name="Moji Space (2024) (meichnpp)">
+		<description>Moji Space (2024) (meichnpp)</description>
+		<rom name="Moji Space (2024) (meichnpp).dsk" size="737280" crc="174ee665" md5="d2dec8590819c89ced28474680b93a20" sha1="3f960883ecef41636891419320096ee0770736c4" status="none" />
 	</game>
 	<game name="Molotov (2024) (v1.0) (En) (joesg)">
 		<description>Molotov (2024) (v1.0) (En) (joesg)</description>
@@ -898,6 +955,14 @@
 	<game name="Morning Star (2017) (Izu Chiho)">
 		<description>Morning Star (2017) (Izu Chiho)</description>
 		<rom name="Morning Star (2017) (Izu Chiho).dsk" size="737280" crc="ce947b96" md5="33f195fcfca0e4832e3e6b334ec4f477" sha1="80c6801e78e90a0502d16cbaa4ffc154320be4cf" status="none" />
+	</game>
+	<game name="Motkonqe (2017) (N.I.)">
+		<description>Motkonqe (2017) (N.I.)</description>
+		<rom name="Motkonqe (2017) (N.I.).rom" size="32768" crc="65e55a5f" md5="0e4ab39802c56859ca7c263f991a9635" sha1="365d306ce10af93cc910a60eee039c045b956cfe" status="none" />
+	</game>
+	<game name="Mouse World (2024) (meichnpp)">
+		<description>Mouse World (2024) (meichnpp)</description>
+		<rom name="Mouse World (2024) (meichnpp).dsk" size="737280" crc="9492760f" md5="0a225fae136dc668ef9ecc820bcaaaaf" sha1="13b3cdfcb28fdbdc29ba2772358f91ffa23d6337" status="none" />
 	</game>
 	<game name="Mr Mole (2007) (ASCII8) (Nerlaska Studio)">
 		<description>Mr Mole (2007) (ASCII8) (Nerlaska Studio)</description>
@@ -934,6 +999,10 @@
 	<game name="Nayade Resistane - Episode I (2014) (Pentacour)">
 		<description>Nayade Resistane - Episode I (2014) (Pentacour)</description>
 		<rom name="Nayade Resistane - Episode I (2014) (Pentacour).rom" size="32768" crc="3587844a" md5="8b0ae69002b65094259c18ce4916c0b1" sha1="8ee50f92db170a3cfa48d7cafd91e555f43c6406" status="none" />
+	</game>
+	<game name="Nekoard (2023) (meichnpp)">
+		<description>Nekoard (2023) (meichnpp)</description>
+		<rom name="Nekoard (2023) (meichnpp).rom" size="16384" crc="62b291d8" md5="da76910c36d903242ac0133c35147ed4" sha1="fc1b985d7e27a076ff9fffa0830b668098d75163" status="none" />
 	</game>
 	<game name="NEoPONG512 (2010) (v1.0) (Z80ST - Software)">
 		<description>NEoPONG512 (2010) (v1.0) (Z80ST - Software)</description>
@@ -978,6 +1047,14 @@
 	<game name="Numberman (2020) (Fish)">
 		<description>Numberman (2020) (Fish)</description>
 		<rom name="Numberman (2020) (Fish).rom" size="32768" crc="71c4ea78" md5="a7e671d32dc654ee80560bc490281667" sha1="aa676faf793140a80755c741738332e57e9186d2" status="none" />
+	</game>
+	<game name="Obake-chan (2025) (v1.0) (meichnpp)">
+		<description>Obake-chan (2025) (v1.0) (meichnpp)</description>
+		<rom name="Obake-chan (2025) (v1.0) (meichnpp).dsk" size="737280" crc="3e49a818" md5="01b0e2ab4267b461ab294fdc17cfc23b" sha1="52bf05176bc4ffce8cccedc05030d499750e1984" status="none" />
+	</game>
+	<game name="Obake-chan (2025) (v1.1) (meichnpp)">
+		<description>Obake-chan (2025) (v1.1) (meichnpp)</description>
+		<rom name="Obake-chan (2025) (v1.1) (meichnpp).dsk" size="737280" crc="17fca65f" md5="f8650443269ec8f114d01a8b6f06ff64" sha1="cb05bd5e357cb6960c4acec96b6d2c8ad3b4a2d3" status="none" />
 	</game>
 	<game name="Oh Shit! (1986) (64K) (Asckosoft)">
 		<description>Oh Shit! (1986) (64K) (Asckosoft)</description>
@@ -1108,6 +1185,10 @@
 		<description>Police Force II (2008) (Es) (Yermani Soft)</description>
 		<rom name="Police Force II (2008) (Es) (Yermani Soft).rom" size="32768" crc="01bdc5d8" md5="dd906d2b1d954e1f31e0ed4a27fa4020" sha1="e243cb1cb7d7a8c44d68f1a2e2be34a2e6ab220b" status="none" />
 	</game>
+	<game name="Poppie Land (2025) (meichnpp)">
+		<description>Poppie Land (2025) (meichnpp)</description>
+		<rom name="Poppie Land (2025) (meichnpp).dsk" size="737280" crc="d4429226" md5="616a8884d755fd1d2137233fc7cae9ff" sha1="615c48fd0a2a1d89875d3fe39cc0173cbd66071e" status="none" />
+	</game>
 	<game name="Pornoman (19xx) (Knight Software)">
 		<description>Pornoman (19xx) (Knight Software)</description>
 		<rom name="Pornoman (19xx) (Knight Software).rom" size="737280" crc="6c9d3977" md5="9e016a6f8743655eacc8e22e96d95c4e" sha1="98266bd9ff2155e8e013ff24d39712d21bdb495c" />
@@ -1202,6 +1283,10 @@
 	<game name="Retaliot (2009) (Video Hazard)">
 		<description>Retaliot (2009) (Video Hazard)</description>
 		<rom name="Retaliot (2009) (Video Hazard).rom" size="131072" crc="e63a6c39" md5="a648107badb77a511ec70e43ff98b9c9" sha1="e27b938a60081c8aba7ad5741aea79f8e33fa8e2" status="none" />
+	</game>
+	<game name="RMD (2017) (N.I.)">
+		<description>RMD (2017) (N.I.)</description>
+		<rom name="RMD (2017) (N.I.).rom" size="32768" crc="f5cb2535" md5="1cd266603ec4aed4bbe20321b2cd72e3" sha1="d8873879477e1b7e7eb52a7fc3d93636112a2729" status="none" />
 	</game>
 	<game name="RNFF – Running Naked in a Field of Flowers (2006) (Infinite)">
 		<description>RNFF – Running Naked in a Field of Flowers (2006) (Infinite)</description>
@@ -1358,11 +1443,11 @@
 	</game>
 	<game name="Space Crussader (2005) (En) (Germán Gómez Herrera)">
 		<description>Space Crussader (2005) (En) (Germán Gómez Herrera)</description>
-		<rom name="Space Crussader (2005) (En) (Germán Gómez Herrera).ROM" size="32768" crc="5d43b24a" md5="75da285250ed2bc511de05ab93e2b70d" sha1="5bff56d5671d1131056451025b20c1ce192e279b" status="none" />
+		<rom name="Space Crussader (2005) (En) (Germán Gómez Herrera).rom" size="32768" crc="5d43b24a" md5="75da285250ed2bc511de05ab93e2b70d" sha1="5bff56d5671d1131056451025b20c1ce192e279b" status="none" />
 	</game>
 	<game name="Space Crussader (2005) (Es) (Germán Gómez Herrera)">
 		<description>Space Crussader (2005) (Es) (Germán Gómez Herrera)</description>
-		<rom name="Space Crussader (2005) (Es) (Germán Gómez Herrera).ROM" size="32768" crc="89461164" md5="34b4a646852646054f59cc478f297d27" sha1="96e1f8fa1f4f3fdfa999f6a999d60d75b590f070" status="none" />
+		<rom name="Space Crussader (2005) (Es) (Germán Gómez Herrera).rom" size="32768" crc="89461164" md5="34b4a646852646054f59cc478f297d27" sha1="96e1f8fa1f4f3fdfa999f6a999d60d75b590f070" status="none" />
 	</game>
 	<game name="SpaceCat (2022) (v1.0) (Platty Soft)">
 		<description>SpaceCat (2022) (v1.0) (Platty Soft)</description>
