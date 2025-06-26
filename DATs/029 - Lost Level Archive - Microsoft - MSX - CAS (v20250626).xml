@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[http://www.logiqx.com/Dats/datafile.dtd]>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<header>
+		<id>029</id>
+		<name>029 - Lost Level Archive - Microsoft - MSX - CAS</name>
+		<description>Microsoft - MSX - CAS</description>
+		<version>v20250626</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Fantastic Football (2021) (v1.0) (Zoran Majcenić, Daniel Simon)">
+		<description>Fantastic Football (2021) (v1.0) (Zoran Majcenić, Daniel Simon)</description>
+		<rom name="Fantastic Football (2021) (v1.0) (Zoran Majcenić, Daniel Simon).cas" size="40079" crc="97a28b15" md5="64f4dca99c0b29f25b3c541d7327c47d" sha1="c5c601bb6de2b37fbb4339f670b5269c8ea5fa63" status="none" />
+	</game>
+	<game name="Spellbound (2023) (Mastropiero)">
+		<description>Spellbound (2023) (Mastropiero)</description>
+		<rom name="Spellbound (2023) (Mastropiero).cas" size="36552" crc="63772664" md5="66f6ec370819d7237bd52299c81a8069" sha1="b3a58661b8fa4f95f147c532a134f115b324a6d1" status="none" />
+	</game>
+	<game name="Tenebra (2021) (Haplo)">
+		<description>Tenebra (2021) (Haplo)</description>
+		<rom name="Tenebra (2021) (Haplo).cas" size="16424" crc="3f503a29" md5="684e294fdb07a799517676f0b572f5e6" sha1="e28fe7e8de4ae18ad2f4a762dfe2c3c767cc34b9" status="none" />
+	</game>
+</datafile>

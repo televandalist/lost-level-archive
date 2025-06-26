@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[http://www.logiqx.com/Dats/datafile.dtd]>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<header>
+		<id>029</id>
+		<name>029 - Lost Level Archive - Microsoft - MSX - TAP</name>
+		<description>Microsoft - MSX - TAP</description>
+		<version>v20250626</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Cocoa and the Time Machine (2020) (48k) (En) Minilop)">
+		<description>Cocoa and the Time Machine (2020) (48k) (En) Minilop)</description>
+		<rom name="Cocoa and the Time Machine (2020) (48k) (En) Minilop).tap" size="38538" crc="dd632b83" md5="c3e1bfdb7d76dbbe3601b6183b84b81f" sha1="ffd571b496860c2d4bd14fdbed437cd223b6d1f5" status="none" />
+	</game>
+	<game name="Cocoa and the Time Machine (2020) (128k) (En) Minilop)">
+		<description>Cocoa and the Time Machine (2020) (128k) (En) Minilop)</description>
+		<rom name="Cocoa and the Time Machine (2020) (128k) (En) Minilop).tap" size="46020" crc="bba37879" md5="b128a7277fd06f08e27c4a20136cb72f" sha1="c385d5834cf57190a3ea8c0db2e40029bea10b68" status="none" />
+	</game>
+</datafile>

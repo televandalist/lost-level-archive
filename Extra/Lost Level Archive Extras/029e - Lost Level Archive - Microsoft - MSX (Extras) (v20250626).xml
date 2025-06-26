@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
-<datafile>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[http://www.logiqx.com/Dats/datafile.dtd]>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<header>
 		<id>029e</id>
 		<name>029e - Lost Level Archive - Microsoft - MSX (Extras)</name>
@@ -11,15 +11,24 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="9 Parts (2023) (meichnpp) - Extras">
+		<description>9 Parts (2023) (meichnpp) - Extras</description>
+		<rom name="9 Parts (2023) (meichnpp) - Manual.txt" size="944" crc="4186c0ca" md5="4303019924f9dd75973106c5c472a549" sha1="a85b4450d35779b657ebf0cff84c9a9147349675" status="none" />
+	</game>
 	<game name="10 Lines Princess (2023) (Honoppe) - Extras">
 		<description>10 Lines Princess (2023) (Honoppe) - Extras</description>
-		<rom name="10 Lines Princess (2023) (Honoppe) - Manual 1.png" size="2810296" crc="61a77a89" md5="3ee00768ba4ead919623e6b168cd879a" sha1="e3e66b3260713f3e2e57a88809d1721b4a0311cc" />
-		<rom name="10 Lines Princess (2023) (Honoppe) - Manual 2.png" size="2487239" crc="6add3a23" md5="0c171d79a42823d70f0f632fb8e5ca92" sha1="c095469b8b40f40a146865752bd071b5ba6beb29" />
+		<rom name="10 Lines Princess (2023) (Honoppe) - Manual 1.png" size="2810296" crc="61a77a89" md5="3ee00768ba4ead919623e6b168cd879a" sha1="e3e66b3260713f3e2e57a88809d1721b4a0311cc" status="none" />
+		<rom name="10 Lines Princess (2023) (Honoppe) - Manual 2.png" size="2487239" crc="6add3a23" md5="0c171d79a42823d70f0f632fb8e5ca92" sha1="c095469b8b40f40a146865752bd071b5ba6beb29" status="none" />
 	</game>
 	<game name="1937 (2022) (v1.0) (joesg) - Extras">
 		<description>1937 (2022) (v1.0) (joesg) - Extras</description>
 		<rom name="1937 (2022) (joesg) - Info (En).jpg" size="114316" crc="3e4deb51" md5="929807366d440acc4f924aedf9157bc1" sha1="8a8f20b5dc0bef4220a1fbd8b0e82d1221b891e4" status="none" />
 		<rom name="1937 (2022) (joesg) - Info (Es).jpg" size="120369" crc="61b45f2a" md5="923a9ade9735ab9b8189b669907b6737" sha1="6fbc014b116de1f4ab46f7c0d734fc938237e474" status="none" />
+	</game>
+	<game name="Adventures of Moron van der Slut, The (2010) (The New Image) - Extras">
+		<description>Adventures of Moron van der Slut, The (2010) (The New Image) - Extras</description>
+		<rom name="Adventures of Moron van der Slut, The (2010) (The New Image) - Label.png" size="341590" crc="6c865b05" md5="85f32c477700afa5aafb1035365b8dc9" sha1="0dd2eb3725fb104da75df39cf39690939152e6da" status="none" />
+		<rom name="Adventures of Moron van der Slut, The (2010) (The New Image) - Manual.txt" size="754" crc="357ff51d" md5="a9ee586be261443c86f5115cae77299d" sha1="729c9a4f9d48ca3ec6cddff8817bbb4efdbcf709" status="none" />
 	</game>
 	<game name="Alien Attack (2021) (Marcos Daniel Blanco, Daniel Simon) - Extras">
 		<description>Alien Attack (2021) (Marcos Daniel Blanco, Daniel Simon) - Extras</description>
@@ -109,6 +118,10 @@
 		<description>Bird &amp; Chairs (2017) (N.I.) - Extras</description>
 		<rom name="Bird &amp; Chairs (2017) (N.I.) - Manual.txt" size="429" crc="1f0dbad4" md5="3a266661eb6e57ae6065181986e72019" sha1="673b9734f917b14cb6bc70e1176a0b393a1ae32d" status="none" />
 	</game>
+	<game name="Bird (2018) (N.I.) - Extras">
+		<description>Bird (2018) (N.I.) - Extras</description>
+		<rom name="Bird (2018) (N.I.) - Manual.txt" size="380" crc="69ed8a55" md5="1fde5a43243de895164229be126c5c3c" sha1="565355915d633401d2d5c17a7447f394e1b82244" status="none" />
+	</game>
 	<game name="BitLogic (2015) (OXiAB Game Studio) - Extras">
 		<description>BitLogic (2015) (OXiAB Game Studio) - Extras</description>
 		<rom name="BitLogic (2015) (OXiAB Game Studio) - Poster.png" size="689134" crc="31d0e696" md5="4b50f1404917860fdac3ac3340895ac8" sha1="ac75370e416775c3f7e39fea733db2ab59413cf3" status="none" />
@@ -142,18 +155,26 @@
 		<rom name="Break Bomb (2021) (Gamecast) - Manual (En).txt" size="1153" crc="b3acc4c7" md5="942cbda398f514b686cc2dd513a39f3a" sha1="c55f62874ae2fa64e424cb3f097ea842d56e780b" status="none" />
 		<rom name="Break Bomb (2021) (Gamecast) - Manual (It).txt" size="1223" crc="15929e81" md5="fd5e7df31466d7dc1fe50bc18ec2a948" sha1="a1e25c6ca7ba7f2a1e064e5d0cd023e4755cf771" status="none" />
 	</game>
+	<game name="Bricks (2023) (MoltSXalats) - Extras">
+		<description>Bricks (2023) (MoltSXalats) - Extras</description>
+		<rom name="Bricks (2023) (MoltSXalats) - Manual.pdf" size="10359" crc="b6c69b7c" md5="1d1cd75c3b926f4c1d9d234635148544" sha1="f02aeae418beb9997d3a7520d8a89ac38d6507b6" status="none" />
+	</game>
 	<game name="British Bob (2009) (Relevo Videogames) - Extras">
 		<description>British Bob (2009) (Relevo Videogames) - Extras</description>
 		<rom name="British Bob (2009) (Relevo Videogames) - Label.pdf" size="228742" crc="022d436e" md5="ef463008cb9c3d0e30ed9be17d067229" sha1="2cd4b2c7d29985321d747a12e422be6bc28a3031" status="none" />
 		<rom name="British Bob (2009) (Relevo Videogames) - Manual.pdf" size="833593" crc="65e21441" md5="9c9e9659f1fb97f0c8d39c0a4a434f60" sha1="e0c3cf7a96d06c0e8200ecc5774883160f0cc92c" status="none" />
 	</game>
-	<game name="Bubbo World (2016) (N.I.) - Extras">
-		<description>Bubbo World (2016) (N.I.) - Extras</description>
-		<rom name="Bubbo World (2016) (N.I.) - Manual.txt" size="332" crc="920bafe9" md5="923591764c2034d886be07c3a6a36a68" sha1="28111705a1488a85e6b3791ffc07eb5a9fe1c9ea" status="none" />
+	<game name="Bubble Code (2025) (meichnpp) - Extras">
+		<description>Bubble Code (2025) (meichnpp) - Extras</description>
+		<rom name="Bubble Code (2025) (meichnpp) - Manual.txt" size="1293" crc="75ee842d" md5="a737cf90f9f030b90b1e3edf2562d8b1" sha1="ff049b4a724a6437cdb3385f7eb3591235df9f1c" status="none" />
 	</game>
 	<game name="Bubbo World 2 (2016) (N.I.) - Extras">
 		<description>Bubbo World 2 (2016) (N.I.) - Extras</description>
 		<rom name="Bubbo World 2 (2016) (N.I.) - Manual.txt" size="402" crc="338c98de" md5="7caacbdba1738e9b3cb83f8269994ffd" sha1="8e56c3dd3c80d84c61d6d47c5d7da0493e7d5305" status="none" />
+	</game>
+	<game name="Bubbo World (2016) (N.I.) - Extras">
+		<description>Bubbo World (2016) (N.I.) - Extras</description>
+		<rom name="Bubbo World (2016) (N.I.) - Manual.txt" size="332" crc="920bafe9" md5="923591764c2034d886be07c3a6a36a68" sha1="28111705a1488a85e6b3791ffc07eb5a9fe1c9ea" status="none" />
 	</game>
 	<game name="Buddhagillie (v1.10) (2018) (GW's Workshop) - Extras">
 		<description>Buddhagillie (v1.10) (2018) (GW's Workshop) - Extras</description>
@@ -230,9 +251,9 @@
 	</game>
 	<game name="Cocoa and the Time Machine (2020) (Minilop) - Extras">
 		<description>Cocoa and the Time Machine (2020) (Minilop) - Extras</description>
-		<rom name="Cocoa and the Time Machine (2020) (Minilop) - Instructions (En).txt" size="1314" crc="bb873d0d" md5="6f15d96946ecbc7074e75d69068a0ff7" sha1="abf9bde581be77e95f2049aacbbadada77016f6d" />
-		<rom name="Cocoa and the Time Machine (2020) (Minilop) - Instructions (Es).txt" size="1698" crc="71a95f62" md5="b5426e665dde649ff00b71dfc1c1025b" sha1="a2619a815d33b8b2fba550e6fa658ff702b33bd1" />
-		<rom name="Cocoa and the Time Machine (2020) (Minilop) - Instructions (Pt).txt" size="1606" crc="9626ed89" md5="55f0d05d41d691cda6b6a95089607ce5" sha1="7dfe6851ee0f7f42832098632526af9ff6ed6032" />
+		<rom name="Cocoa and the Time Machine (2020) (Minilop) - Instructions (En).txt" size="1314" crc="bb873d0d" md5="6f15d96946ecbc7074e75d69068a0ff7" sha1="abf9bde581be77e95f2049aacbbadada77016f6d" status="none" />
+		<rom name="Cocoa and the Time Machine (2020) (Minilop) - Instructions (Es).txt" size="1698" crc="71a95f62" md5="b5426e665dde649ff00b71dfc1c1025b" sha1="a2619a815d33b8b2fba550e6fa658ff702b33bd1" status="none" />
+		<rom name="Cocoa and the Time Machine (2020) (Minilop) - Instructions (Pt).txt" size="1606" crc="9626ed89" md5="55f0d05d41d691cda6b6a95089607ce5" sha1="7dfe6851ee0f7f42832098632526af9ff6ed6032" status="none" />
 	</game>
 	<game name="Computer Wars (2004) (Crappysoft) - Extras">
 		<description>Computer Wars (2004) (Crappysoft) - Extras</description>
@@ -288,6 +309,11 @@
 		<rom name="Cure, The (2005) (XL2S Entertainment) - Manual.txt" size="4831" crc="b8ce79de" md5="afdb31035ff0cee176e09c12c0a83cae" sha1="43e0d2f64f14b2fbf786a11d1dc766854d7c99f1" status="none" />
 		<rom name="Cure, The (2005) (XL2S Entertainment) - Sticker.png" size="149916" crc="7617bbd1" md5="1fa2fc1480a30b687f587a2e1bdabe1e" sha1="b7108527e1e758825b909d1cbd2af89d8726581d" status="none" />
 	</game>
+	<game name="Curse of Lies, The (2024) (Rei-Vax-73) - Extras">
+		<description>Curse of Lies, The (2024) (Rei-Vax-73) - Extras</description>
+		<rom name="Curse of Lies, The (2024) (Rei-Vax-73) - Manual (En).pdf" size="972059" crc="aaf6e5bc" md5="e0e0a395aa23038ed431dc71e1b54e7c" sha1="e0e87cc1f3fd93fbfe9474789f798c67b82c254a" status="none" />
+		<rom name="Curse of Lies, The (2024) (Rei-Vax-73) - Manual (Fr).pdf" size="955706" crc="77b3ce5f" md5="8483d2e6e084cac83f36313fb35090b3" sha1="dbc98700e84a0400603d80296c2cc97dd7ebc1bc" status="none" />
+	</game>
 	<game name="Daedalian Opus (2006) (Karoshi Corp) - Extras">
 		<description>Daedalian Opus (2006) (Karoshi Corp) - Extras</description>
 		<rom name="Daedalian Opus (2006) (Karoshi Corp) - Label.jpg" size="98706" crc="ffeb42f9" md5="207f197632366d5825392d7f47b48320" sha1="46cffff8bf901950016a84692871667e26c26276" status="none" />
@@ -310,7 +336,7 @@
 	</game>
 	<game name="Deep Dungeon Adventure (2017) (Team Pixelboy) - Extras">
 		<description>Deep Dungeon Adventure (2017) (Team Pixelboy) - Extras</description>
-		<rom name="Deep Dungeon Adventure (2017) (Team Pixelboy) - Manual.pdf" size="583789" crc="164c2b0a" md5="ccb893794b77c0544508594297652b78" sha1="92548f325ffe3c38a5b0659dcfa08f96609ee1f4" />
+		<rom name="Deep Dungeon Adventure (2017) (Team Pixelboy) - Manual.pdf" size="583789" crc="164c2b0a" md5="ccb893794b77c0544508594297652b78" sha1="92548f325ffe3c38a5b0659dcfa08f96609ee1f4" status="none" />
 	</game>
 	<game name="Defence (2022) (Gamecast) - Extras">
 		<description>Defence (2022) (Gamecast) - Extras</description>
@@ -340,6 +366,10 @@
 	<game name="Doomlings (2024) (Totta) - Extras">
 		<description>Doomlings (2024) (Totta) - Extras</description>
 		<rom name="Doomlings (2024) (Totta) - Manual.pdf" size="3262452" crc="e4a024a4" md5="8b6e96a39b38433550ca474945922be4" sha1="ada9d2997e9986793e6700804ec31e2de5cb6a43" status="none" />
+	</game>
+	<game name="Doopm Trip (2017) (N.I.) - Extras">
+		<description>Doopm Trip (2017) (N.I.) - Extras</description>
+		<rom name="Doopm Trip (2017) (N.I.) - Manual.txt" size="729" crc="923becb3" md5="fcc374c2928fd73af61bba82af0d6598" sha1="a982db4212467851559aa1be9dfb5ba03cb6cadc" status="none" />
 	</game>
 	<game name="Dot Attack (2020) (Maarten Loor) - Extras">
 		<description>Dot Attack (2020) (Maarten Loor) - Extras</description>
@@ -380,7 +410,7 @@
 	</game>
 	<game name="DuckTales - The Lucky Dime (1994) (meits) - Extras">
 		<description>DuckTales - The Lucky Dime (1994) (meits) - Extras</description>
-		<rom name="DuckTales - The Lucky Dime (1994) (meits) - Manual.pdf" size="6734583" crc="b6a87576" md5="2ae4e4e52c82302a71c92af4be9fd277" sha1="cebd3ad0541adf915634b832213377969abb790d" />
+		<rom name="DuckTales - The Lucky Dime (1994) (meits) - Manual.pdf" size="6734583" crc="b6a87576" md5="2ae4e4e52c82302a71c92af4be9fd277" sha1="cebd3ad0541adf915634b832213377969abb790d" status="none" />
 	</game>
 	<game name="E-Dog (2024) (meichnpp) - Extras">
 		<description>E-Dog (2024) (meichnpp) - Extras</description>
@@ -390,6 +420,16 @@
 		<description>Eat Blue! (2004) (Paxanga Soft) - Extras</description>
 		<rom name="Eat Blue! (2004) (Paxanga Soft) - Manual.txt" size="10077" crc="d2959b78" md5="cf729ef78d45e4cea7c3434ae6394a7e" sha1="0f9d8fb28e8f03dfe5da8c93228b3e3f9a648f45" status="none" />
 		<rom name="Eat Blue! (2004) (Paxanga Soft) - Sticker.jpg" size="278530" crc="7cf7962a" md5="34ef81bad88b8c790bc0c29785538c04" sha1="3e7ca0375b25c677acfbe29500e9a9e4ae990009" status="none" />
+	</game>
+	<game name="Eggy's Maze (2023) (Jacco Bikker) - Extras">
+		<description>Eggy's Maze (2023) (Jacco Bikker) - Extras</description>
+		<rom name="Eggy's Maze (2023) (Jacco Bikker) - Reference Card.jpg" size="380165" crc="ecbfcf4f" md5="2414e545199c0f20e3fe53bdd08d1595" sha1="c8cc386b9b22baa2d8e1f8458a2c49b2feaf4e3a" status="none" />
+	</game>
+	<game name="Equivocal (2009) (The New Image) - Extras">
+		<description>Equivocal (2009) (The New Image) - Extras</description>
+		<rom name="Equivocal (2009) (The New Image) - Label.png" size="16335" crc="927e3c13" md5="343f447de5237c69b98de67009b33b02" sha1="f529a85cd98bfade4d04224e33ab0e2ac71b2cbe" status="none" />
+		<rom name="Equivocal (2009) (v1.0) (The New Image) - Manual.txt" size="742" crc="b555a1cf" md5="803ef725cf2d82d671979e2e681dc9e9" sha1="be017349a2ad90f6005621bfd17387895fe3837e" status="none" />
+		<rom name="Equivocal (2009) (v1.5) (The New Image) - Manual.txt" size="719" crc="b494406c" md5="95763f1b711994b734ef65f5d44c404b" sha1="3ee3b1594b2371d118e706adf16af04ed9bde7b1" status="none" />
 	</game>
 	<game name="Eruka Fan Book (2016) (N.I.) - Extras">
 		<description>Eruka Fan Book (2016) (N.I.) - Extras</description>
@@ -445,6 +485,10 @@
 		<rom name="Gelatino 2 (2021) (Physical Dreams) - Manual (Es).pdf" size="1673568" crc="2666a7b1" md5="7e75cbba806ec96dfdfbbf4fb8919d50" sha1="8b98682d376e9535c7ac655d31d38b94351b8d69" status="none" />
 		<rom name="Gelatino 2 (2021) (Physical Dreams) - Manual (It).pdf" size="1551837" crc="02aecb98" md5="9eb3390df52ac68ced69bbe6cf4ca667" sha1="e4904977425d65a100186c8b70d16ff7a7edc543" status="none" />
 	</game>
+	<game name="Ghostly Manor (2022) (9958 Crew) - Extras">
+		<description>Ghostly Manor (2022) (9958 Crew) - Extras</description>
+		<rom name="Ghostly Manor (2022) (MSX V9958 VDP Exclusive) (9958 Crew) - Manual.pdf" size="493524" crc="e7c47450" md5="478f6d12fce01461a901ce979ee7506f" sha1="c212d8fa383a0b4fddeb9046828cf9ef118c5b78" status="none" />
+	</game>
 	<game name="Global Ordnance (2023) (Fred Rique) - Extras">
 		<description>Global Ordnance (2023) (Fred Rique) - Extras</description>
 		<rom name="Global Ordnance (2023) (Fred Rique) - Manual.pdf" size="165881" crc="ebf67bd1" md5="5c58abbef79f2444603ef34a627a0cad" sha1="31077829544a283aa1a48a1f46c78bed83db4833" status="none" />
@@ -461,8 +505,12 @@
 	</game>
 	<game name="Godzilla Balls - 70th Anniversary (2024) (Paxanga Software) - Extras">
 		<description>Godzilla Balls - 70th Anniversary (2024) (Paxanga Software) - Extras</description>
-		<rom name="Godzilla Balls - 70th Anniversary (2024) (Paxanga Software) - Manual (En).pdf" size="94263" crc="bc40a0cb" md5="9283e13d8919057caec414c7711e9948" sha1="cce8383468973d8c7789850b0e6cf0193c02c3b4" />
-		<rom name="Godzilla Balls - 70th Anniversary (2024) (Paxanga Software) - Manual (Es).pdf" size="95768" crc="1fcd6ebf" md5="4d63f64a77ee754317d7cf7be25b1a92" sha1="82c5de11a15b5946bf2bcc91c7e7acaf750311d6" />
+		<rom name="Godzilla Balls - 70th Anniversary (2024) (Paxanga Software) - Manual (En).pdf" size="94263" crc="bc40a0cb" md5="9283e13d8919057caec414c7711e9948" sha1="cce8383468973d8c7789850b0e6cf0193c02c3b4" status="none" />
+		<rom name="Godzilla Balls - 70th Anniversary (2024) (Paxanga Software) - Manual (Es).pdf" size="95768" crc="1fcd6ebf" md5="4d63f64a77ee754317d7cf7be25b1a92" sha1="82c5de11a15b5946bf2bcc91c7e7acaf750311d6" status="none" />
+	</game>
+	<game name="Gold Fan (2016) (N.I.) - Extras">
+		<description>Gold Fan (2016) (N.I.) - Extras</description>
+		<rom name="Gold Fan (2016) (N.I.) - Manual.txt" size="405" crc="a14cbf19" md5="d87409e10c1849b1dbfe2cad3abdf73c" sha1="c54740a77f47ae11ab14a70139f03b15000c0fdf" status="none" />
 	</game>
 	<game name="Gommy Medieval Defender (2013) (Dimension Z, Retroworks, nenefranz) - Extras">
 		<description>Gommy Medieval Defender (2013) (Dimension Z, Retroworks, nenefranz) - Extras</description>
@@ -517,6 +565,10 @@
 		<rom name="Hans' Adventure (2010) (The Pets Mode) - Manual.txt" size="2828" crc="f3c9b77a" md5="93351350b255e1dbc99ae9f6d13f5bf9" sha1="03a6a1d5ebb32c41495154fa4c6e92c6409dabe6" status="none" />
 		<rom name="Hans' Adventure (2010) (The Pets Mode) - Sticker.png" size="29325" crc="8285ca5c" md5="a17300b40880ebe6f22d4e24ac71ed82" sha1="3a8555d49f9d2b3083da2a0b1fc5269b4748442f" status="none" />
 	</game>
+	<game name="Harker's Escape (2024) (Amaury Carvalho) - Extras">
+		<description>Harker's Escape (2024) (Amaury Carvalho) - Extras</description>
+		<rom name="Harker's Escape (2024) (Amaury Carvalho) - Manual.txt" size="4036" crc="a4d9371b" md5="881a18920e659419a68871af34dc6fc0" sha1="16fd073cdec60293e3d3c7dfaa8fe808a58507d4" status="none" />
+	</game>
 	<game name="Heart Stealer 2 (2021) (Timmy) - Extras">
 		<description>Heart Stealer 2 (2021) (Timmy) - Extras</description>
 		<rom name="Heart Stealer 2 (2021) (Timmy) - Manual.txt" size="3001" crc="bc4a62de" md5="493b4701439a444bbf0798478385f458" sha1="fed69d3e0e200ac528adfd5d38f98819c9e37d2a" status="none" />
@@ -557,6 +609,11 @@
 		<rom name="Italian Stallion (2007) (Impulse9) - Label.png" size="235353" crc="100a21e0" md5="619342490e03e4277f4fa3b2e7c31ad1" sha1="5032f63cd3fb5a3b686ec7b9e8ab19a137c19812" status="none" />
 		<rom name="Italian Stallion (2007) (Impulse9) - Manual.txt" size="5871" crc="e7f2a918" md5="cdacbb769dd59b2c7f3bbf84f33aefce" sha1="94c8e925e557de3fe71a5d0ca65e80a2a867c889" status="none" />
 	</game>
+	<game name="Jailbreak (2010) (Infinite) - Extras">
+		<description>Jailbreak (2010) (Infinite) - Extras</description>
+		<rom name="Jailbreak (2010) (Infinite) - label.png" size="1711074" crc="f246a4b0" md5="2576b5e00c2d1035553e3f05cab4f1ee" sha1="a6074a0257f67f4bc7c72d18fd27c5e68a37d6f5" status="none" />
+		<rom name="Jailbreak (2010) (Infinite) - Manual.pdf" size="422972" crc="7119d9bc" md5="ef008e2826d769791239604097ac9229" sha1="1e0d99a4053fe4cfb7809bc82a4f7debc5c9e731" status="none" />
+	</game>
 	<game name="Jawbreaker II (2014) (Maggoo) - Extras">
 		<description>Jawbreaker II (2014) (Maggoo) - Extras</description>
 		<rom name="Jawbreaker II (2014) (Maggoo) - Cartridge Artwork.jpg" size="105751" crc="cdcc8178" md5="d40956147d17e1b3c025086919c9cc63" sha1="162772f762189fec318244568809c4d92024bf5e" status="none" />
@@ -587,7 +644,7 @@
 	</game>
 	<game name="Kiwi Khaos (2021) (McCheeseBob) - Extras">
 		<description>Kiwi Khaos (2021) (McCheeseBob) - Extras</description>
-		<rom name="Kiwi Khaos (2021) (McCheeseBob) - Official Game Map.png" size="32933" crc="07cb86ca" md5="fa189d78aa325ba854c070fe0f9d35a7" sha1="dab42cf2874078cb6f2679dfcd4f010c50567b8c" />
+		<rom name="Kiwi Khaos (2021) (McCheeseBob) - Official Game Map.png" size="32933" crc="07cb86ca" md5="fa189d78aa325ba854c070fe0f9d35a7" sha1="dab42cf2874078cb6f2679dfcd4f010c50567b8c" status="none" />
 	</game>
 	<game name="Klondike Solitaire (2021) (Under4Mhz) - Extras">
 		<description>Klondike Solitaire (2021) (Under4Mhz) - Extras</description>
@@ -632,7 +689,8 @@
 	</game>
 	<game name="Lilly's Saga - The Stones of Evergreen (2022) (Fabulous 8bit) - Extras">
 		<description>Lilly's Saga - The Stones of Evergreen (2022) (Fabulous 8bit) - Extras</description>
-		<rom name="Lilly's Saga - The Stones of Evergreen (2022) (Fabulous 8bit) - Manual.pdf" size="457253" crc="55cc8015" md5="5a095123476f7c92f10847938dc09ad8" sha1="9bed40ea8098d329b3a3089cc3b5310b6c4384d0" />
+		<rom name="Lilly's Saga - The Stones of Evergreen (2022) (Fabulous 8bit) - Changelog.txt" size="2718" crc="2c10d4fb" md5="88dd4f3479142c907028450021362fb6" sha1="9b763a0334975def46f058b8ff8f20cfddb70201" status="none" />
+		<rom name="Lilly's Saga - The Stones of Evergreen (2022) (Fabulous 8bit) - Manual.pdf" size="457253" crc="55cc8015" md5="5a095123476f7c92f10847938dc09ad8" sha1="9bed40ea8098d329b3a3089cc3b5310b6c4384d0" status="none" />
 	</game>
 	<game name="Litter Box (2020) (Ray2Day) - Extras">
 		<description>Litter Box (2020) (Ray2Day) - Extras</description>
@@ -659,6 +717,12 @@
 		<rom name="M-Tanks (2011) (Assembler) - Manual.pdf" size="753423" crc="b9dd963b" md5="56c191debefc8338427880bdbb6448ce" sha1="78b8e4fbf5a424db47f4d3152797f47a1da8ce22" status="none" />
 		<rom name="M-Tanks (2011) (Assembler) - Sticker.png" size="236945" crc="cf8773f1" md5="b600bd46bca835aa88f624a52b172967" sha1="bf083b7378093dc032f5fc80bd5435d59421e3e6" status="none" />
 	</game>
+	<game name="Mad House (2023) (Gamecast) - Extras">
+		<description>Mad House (2023) (Gamecast) - Extras</description>
+		<rom name="Mad House (2023) (Gamecast) - Cover.png" size="487854" crc="cd19d230" md5="f75d40b87ced64e9600d361ddb70983f" sha1="a4b7f08f4b37861f14169ccd4be2c60711789fcb" status="none" />
+		<rom name="Mad House (2023) (Gamecast) - Manual (En).txt" size="1956" crc="c4153c12" md5="884f9755fa0fd98162cbcde018ab57c4" sha1="f2684f4e6308f7a3641fab3b52a9a5e451464fd6" status="none" />
+		<rom name="Mad House (2023) (Gamecast) - Manual (It).txt" size="2064" crc="294ecb38" md5="1ab79931887cc9b87ace96eeae610506" sha1="066c71ab56476b3e942c87f3bd4d25a536360bcc" status="none" />
+	</game>
 	<game name="Magical Boco (2024) (meichnpp) - Extras">
 		<description>Magical Boco (2024) (meichnpp) - Extras</description>
 		<rom name="Magical Boco (2024) (meichnpp) - Manual.txt" size="1925" crc="63d42712" md5="1a65030cf6fbde4aff0b2f4bab57f1bb" sha1="3033f5aab0492729b0d640624b66f5ab4a51e8b9" status="none" />
@@ -675,6 +739,12 @@
 	<game name="Mahjong Solitaire (2021) (Under4Mhz) - Extras">
 		<description>Mahjong Solitaire (2021) (Under4Mhz) - Extras</description>
 		<rom name="Mahjong Solitaire (2021) (Under4Mhz) - Manual.txt" size="474" crc="fa441703" md5="69de1aca3827830409660390f30842ab" sha1="fa9789148b35bc6ef7f782adac74b3e05cb87d34" status="none" />
+	</game>
+	<game name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Extras">
+		<description>Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Extras</description>
+		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Changelog.txt" size="7564" crc="d7d58c6b" md5="cacab088714f7444df2637c5506109db" sha1="3a24e8e10f08aca67006226da37f870ec6f038ed" status="none" />
+		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Manual (En).pdf" size="3065927" crc="6ec31891" md5="8e5af76bd727518d15cc9f2dd580344e" sha1="166fad9fa34ae981e35098c99377aad66f35cc0c" status="none" />
+		<rom name="Maiden's Extreme Fist 'Bun-Ga-Rua' (2024) (Retromixis) - Manual (Jp).pdf" size="2978269" crc="cd878b46" md5="996b07d3cd2f53f722a07e5b36024c53" sha1="18a9601c8536db00ff46db2f6228b5443c9c6d79" status="none" />
 	</game>
 	<game name="Make Them Fall (2021) (Robosoft) - Extras">
 		<description>Make Them Fall (2021) (Robosoft) - Extras</description>
@@ -714,6 +784,11 @@
 		<description>Market Master (2021) (v1.1) (Amaury Carvalho) - Extras</description>
 		<rom name="Market Master (2021) (v1.1) (Amaury Carvalho) - Manual.txt" size="1977" crc="bb00e19a" md5="3a8c0c13a98d8c9982831badf5803f0b" sha1="56be34eb02325a3b6d8354e1b8d7ff0762e3a38a" status="none" />
 	</game>
+	<game name="Marshmallow Chronicle (2024) (meichnpp) - Extras">
+		<description>Marshmallow Chronicle (2024) (meichnpp) - Extras</description>
+		<rom name="OST\Marshmallow Chronicle (2024) (meichnpp) - Luminous_Falls.mp3" size="3907728" crc="9dedc2b4" md5="defa91472a327b73bf7075d723a40e68" sha1="edcfde6123dc7c11ac54dcaab3c078c73473ac11" status="none" />
+		<rom name="Marshmallow Chronicle (2024) (meichnpp) - Manual.txt" size="1190" crc="1200938e" md5="3b38e4d7a350df05d1224fd13bbdacf1" sha1="be2470627fafda7216132c9e4f143d956e84a0f8" status="none" />
+	</game>
 	<game name="Mecha 8 (2011) (Óscar Toledo Gutiérrez) - Extras">
 		<description>Mecha 8 (2011) (Óscar Toledo Gutiérrez) - Extras</description>
 		<rom name="Mecha 8 (2011) (Óscar Toledo Gutiérrez) - Manual.pdf" size="52787" crc="55920552" md5="179e3d9d49a3b4b347a445b7a5fe304d" sha1="6403b0782e37adf07b4491abbddfcfd4ddd75018" status="none" />
@@ -724,6 +799,10 @@
 		<rom name="Mecha Taisen On Planet Oldskool (2006) (Damage X) - Sticker.jpg" size="48006" crc="e98ffea3" md5="e504f627bef4eb463586559af4ea9d3a" sha1="bba41ad8a86bc8bed6981ce0f40e151a9d65c998" status="none" />
 		<rom name="Mecha Taisen On Planet Oldskool (2006) (v1.0) (Damage X) - Manual.txt" size="2241" crc="0f0780c2" md5="c3ad9e1e89706e54d9c9c473d758ce93" sha1="98b7853ae1b6ec4e50db2bffaa910e43c68f1751" status="none" />
 		<rom name="Mecha Taisen On Planet Oldskool (2006) (v1.1) (Damage X).txt" size="2402" crc="bffb9af6" md5="4931b7b8e2e11ccc11b08ccbe5923742" sha1="c97fa7fcc9f0c64590115f0c4ab70074f9f3ec8c" status="none" />
+	</game>
+	<game name="Memory (2022) (v1.1) (Jipe) - Extras">
+		<description>Memory (2022) (v1.1) (Jipe) - Extras</description>
+		<rom name="Memory (2022) (Jipe) - Manual.pdf" size="423184" crc="c5092937" md5="20bc0be73b9799ebd7a925d3931b86b4" sha1="a7ce663006979119212954d33233fb4b3c597769" status="none" />
 	</game>
 	<game name="Menace (2009) (The New Image) - Extras">
 		<description>Menace (2009) (The New Image) - Extras</description>
@@ -789,6 +868,11 @@
 		<description>Monster on the Run (2021) (Neurox66) - Extras</description>
 		<rom name="Monster on the Run (2021) (Neurox66).txt" size="1141" crc="db0183ea" md5="c87877f18cfd02f9c6924a74408db8d1" sha1="0e5dfd7c83308d7ee05baa8b48b4ada4a6e6447a" status="none" />
 	</game>
+	<game name="Montana John and the Templar's Treasure (2008) (Infinite) - Extras">
+		<description>Montana John and the Templar's Treasure (2008) (Infinite) - Extras</description>
+		<rom name="Montana John and the Templar's Treasure (2008) (Infinite) - Label.png" size="208678" crc="a03c4b1b" md5="899540d3e59751093d2d8ba125041e1a" sha1="14cf31f128a8970dedb20be9f391cc3bdd3e32cf" status="none" />
+		<rom name="Montana John and the Templar's Treasure (2008) (Infinite) - Manual.pdf" size="206711" crc="0019ab55" md5="e88de6843743d14f2c527980d178530b" sha1="9d474019c9a9c29365fd2fe6c4179b641a1d3eb1" status="none" />
+	</game>
 	<game name="Motkonqe (2017) (N.I.) - Extras">
 		<description>Motkonqe (2017) (N.I.) - Extras</description>
 		<rom name="Motkonqe (2017) (N.I.) - Manual.txt" size="824" crc="59b80810" md5="fbaa878e3402c1e2d77b112908cadd80" sha1="e791442d94d967fa014dba9ca85c2c99338f96d6" status="none" />
@@ -813,6 +897,14 @@
 		<description>Mr. Cracksman (2014) (Relevo Videogames) - Extras</description>
 		<rom name="Mr. Cracksman (2014) (Relevo Videogames) - Cover.jpg" size="233316" crc="4d1a82e7" md5="a1b32f627e52a5e0182b94e644f281a6" sha1="a0abe010c5609f95e20a28e80b955f4907b351d4" status="none" />
 		<rom name="Mr. Cracksman (2014) (Relevo Videogames) - Manual.txt" size="4913" crc="8a095e5e" md5="ad9b4cfcacad93c2b5d74236fe3caaab" sha1="b7f319bf394bf4a06616f202f473b816647ac6a3" status="none" />
+	</game>
+	<game name="MSX Light (2022) (Sergio Yukio) - Extras">
+		<description>MSX Light (2022) (Sergio Yukio) - Extras</description>
+		<rom name="MSX Light (2022) (Sergio Yukio) - Manual.txt" size="162" crc="ff85f510" md5="256afd3a63f8769a378908bc5d0d6399" sha1="00c80f75ca8974b472f6a70979f924462b44136b" status="none" />
+	</game>
+	<game name="MSXmas (2022) (André Baptista) - Extras">
+		<description>MSXmas (2022) (André Baptista) - Extras</description>
+		<rom name="MSXmas (2022) (André Baptista) - Manual.txt" size="875" crc="61747b05" md5="91a66dfb1939ba7896d67ca3a84a2fe1" sha1="e8df235b4c1c06ad308d7d19458bc21cc0d48021" status="none" />
 	</game>
 	<game name="Muhonmourn 3 (2022) (hoge1e3) - Extras">
 		<description>Muhonmourn 3 (2022) (hoge1e3) - Extras</description>
@@ -862,13 +954,13 @@
 		<rom name="Ninja Savior (2015) (Relevo Videogames) - Cover.jpg" size="246839" crc="4d77902c" md5="673345cda373afe83a8f36fbbf88b434" sha1="4e275ee98037b2aa9b3f41f150c2e1aee9244262" status="none" />
 		<rom name="Ninja Savior (2015) (Relevo Videogames) - Manual.txt" size="2963" crc="e8bb1968" md5="14891cd73378fd2a3aab3f0ba111d845" sha1="d949a7bdbbf5cb5b5d0261d1e4d144fbf1170830" status="none" />
 	</game>
-	<game name="Obake-chan (2025) (v1.0) (meichnpp) - Extras">
-		<description>Obake-chan (2025) (v1.0) (meichnpp) - Extras</description>
-		<rom name="Obake-chan (2025) (meichnpp) - Manual.txt" size="818" crc="6ccfe17a" md5="7b6ecba5abd7ba7a9c84a32dfe778fe0" sha1="3444f60c681cbb523b9c5047d82d6173fe2f9a38" status="none" />
-	</game>
 	<game name="No Back Down (2021) (ASCII8) (SoCal) - Extras">
 		<description>No Back Down (2021) (ASCII8) (SoCal) - Extras</description>
 		<rom name="No Back Down (2021) (ASCII8) (SoCal) - Manual.pdf" size="519827" crc="33fc11df" md5="2936e52905286d118ecaeb2432b889d4" sha1="9e9ea2bd22457793d34722b4277efde38e8bc289" status="none" />
+	</game>
+	<game name="Obake-chan (2025) (v1.0) (meichnpp) - Extras">
+		<description>Obake-chan (2025) (v1.0) (meichnpp) - Extras</description>
+		<rom name="Obake-chan (2025) (meichnpp) - Manual.txt" size="818" crc="6ccfe17a" md5="7b6ecba5abd7ba7a9c84a32dfe778fe0" sha1="3444f60c681cbb523b9c5047d82d6173fe2f9a38" status="none" />
 	</game>
 	<game name="Open Wide! (2021) (Hakogame) - Extras">
 		<description>Open Wide! (2021) (Hakogame) - Extras</description>
@@ -929,6 +1021,10 @@
 		<description>Pentacorn Quest (2023) (Robosoft) - Extras</description>
 		<rom name="Pentacorn Quest (2023) (Robosoft) - Manual.txt" size="2149" crc="f55cdd82" md5="0f2286b191826b54f87fb19f31c22e62" sha1="15d1d2758f6b3933f302832f46ba200255455a76" status="none" />
 	</game>
+	<game name="Phenix Corrupta (2023) (Casper Croes) - Extras">
+		<description>Phenix Corrupta (2023) (Casper Croes) - Extras</description>
+		<rom name="Phenix Corrupta (2023) (Casper Croes) - Manual.pdf" size="2369282" crc="4214fdc1" md5="30ba183974687f30f02209d6e7a97c29" sha1="81418aa95fb20106a35606ab74f81bb0c6d6c898" status="none" />
+	</game>
 	<game name="PickinX (2021) (Amaury Carvalho) - Extras">
 		<description>PickinX (2021) (Amaury Carvalho) - Extras</description>
 		<rom name="PickinX (2021) (Amaury Carvalho) - Manual.txt" size="1936" crc="1ebe2ebe" md5="ae95ffb327704db7a2c6416f9a6ad404" sha1="91c6d7e2cfb1ec808d98ceefe00626d7fb7b5731" status="none" />
@@ -952,6 +1048,10 @@
 	<game name="Plastic (2023) (Z80ASMer) - Extras">
 		<description>Plastic (2023) (Z80ASMer) - Extras</description>
 		<rom name="Plastic (2023) (Z80ASMer) - Manual.pdf" size="41592" crc="0adba2b1" md5="fbbdfaabfc7e1b1736e762484e20863f" sha1="30591f431d971ec5428e85fe6861a876e3c92d06" status="none" />
+	</game>
+	<game name="Pointless Fighting (2014) (Baka-Yo! Softcorp) - Extras">
+		<description>Pointless Fighting (2014) (Baka-Yo! Softcorp) - Extras</description>
+		<rom name="Pointless Fighting (2014) (Baka-Yo! Softcorp) - Manual.txt" size="3956" crc="112f1123" md5="a4de52424620994480c744c4916af1d7" sha1="c14d2793a195ec4ccb325cd0d2cbf800ece1ee20" status="none" />
 	</game>
 	<game name="Pointless Platform (2006) (The New Image) - Extras">
 		<description>Pointless Platform (2006) (The New Image) - Extras</description>
@@ -991,6 +1091,19 @@
 		<rom name="Pretty Kingdom (2014) (Nerlaska Studio) - Promo Specs.jpg" size="237316" crc="158c3616" md5="98f0ec366498f515be810fe806e27824" sha1="1d21fb89af67581e86fd50707d96b606d2888801" status="none" />
 		<rom name="Pretty Kingdom (2014) (Nerlaska Studio) - Promo.jpg" size="181735" crc="bbc21624" md5="38ec2845eaa34292d5fa52e18f3b3aed" sha1="f481bd5ec6285cabc44f37ea8edff7800c716aa0" status="none" />
 	</game>
+	<game name="Princess Paloma's Rescue (2024) (InfiniteMSX) - Extras">
+		<description>Princess Paloma's Rescue (2024) (InfiniteMSX) - Extras</description>
+		<rom name="Princess Paloma's Rescue (2024) (InfiniteMSX) - Manual.pdf" size="1024198" crc="6f6bc991" md5="23a0df2ff50e2d06bfeef7cf8532936f" sha1="b18e4b12c9be2c9f7405f9b3836ae73d6c336ef8" status="none" />
+	</game>
+	<game name="Puzzle Mania (2024) (Fony) - Extras">
+		<description>Puzzle Mania (2024) (Fony) - Extras</description>
+		<rom name="Puzzle Mania (2024) (Fony) - Manual.txt" size="2709" crc="1a16325a" md5="871f5237c2b975402c215a7a2d70e74a" sha1="b23ff0cddfe713cb010a9f582eb2d45fbabd42b7" status="none" />
+		<rom name="Puzzle Mania (2024) (Fony) - Sticker.png" size="570339" crc="11f99ae7" md5="ac2dd4fdb7f66bd5b4a8f2e49af7ed27" sha1="ebcfdac7fb23fe27b015ae891418ed375da82efd" status="none" />
+	</game>
+	<game name="Puzzle Pals (2024) (Furcifer Studios) - Extras">
+		<description>Puzzle Pals (2024) (Furcifer Studios) - Extras</description>
+		<rom name="Puzzle Pals (2024) (Furcifer Studios) - Manual.pdf" size="1771895" crc="25f99554" md5="30699c9a4d1f285bda7d04ffad0d3191" sha1="2af9034b1ac650ff6ffa5ba20c91b03d7e0f6944" status="none" />
+	</game>
 	<game name="Puzzybox (2021) (Gamecast) - Extras">
 		<description>Puzzybox (2021) (Gamecast) - Extras</description>
 		<rom name="Puzzybox (2021) (Gamecast) - Manual (En).txt" size="1874" crc="07d3af1a" md5="30dfdefd7da3127bcd77bc1a7fe5bdfb" sha1="ad0ebb0a538b81fb395e10875694c45a478e735e" status="none" />
@@ -1018,6 +1131,14 @@
 	<game name="Quartet (2018) (v1.2) (Ilkke &amp; bitsofbas) - Extras">
 		<description>Quartet (2018) (v1.2) (Ilkke &amp; bitsofbas) - Extras</description>
 		<rom name="Quartet (2018) (Ilkke &amp; bitsofbas) - Manual.txt" size="1125" crc="5f8d5b97" md5="7e256777ff16634b6475739949478381" sha1="337bfa548d7310f414ae18340086601516e7f43e" status="none" />
+	</game>
+	<game name="Racing (2024) (bosh77) - Extras">
+		<description>Racing (2024) (bosh77) - Extras</description>
+		<rom name="Racing (2024) (bosh77) - Manual.pdf" size="53111" crc="4197fd23" md5="9d05a127fe7de08f46187b0cec74692d" sha1="f205494f9b5b0cfa2abac5e0bc10c809d3a91c33" status="none" />
+	</game>
+	<game name="Randoom (2022) (v1.1) (Robosoft) - Extras">
+		<description>Randoom (2022) (v1.1) (Robosoft) - Extras</description>
+		<rom name="Randoom (2022) (Robosoft) - Manual.txt" size="561" crc="528b0ff2" md5="589997110538ae8976fbb184f98afb88" sha1="64ee20c747878dab92dfff9b9a69b79887a4fc0d" status="none" />
 	</game>
 	<game name="Ratbox (2010) (AG Software) - Extras">
 		<description>Ratbox (2010) (AG Software) - Extras</description>
@@ -1097,9 +1218,17 @@
 		<rom name="Saimazoom (2005) (Karoshi Corp) - Manual (En).pdf" size="90157" crc="7f83e214" md5="2390d1219688e996506ea43da5cd6977" sha1="e9433323484d48b9b05cf5e10a4dfb3f904d37f2" status="none" />
 		<rom name="Saimazoom (2005) (Karoshi Corp) - Manual (Es).pdf" size="90241" crc="bc67592c" md5="053cc9343a4fbe10c467f63c5651c1c7" sha1="228e19653027521652ac50eb8259cedcdf37fba4" status="none" />
 	</game>
+	<game name="Sales Discontinued (2022) (NOP) - Extras">
+		<description>Sales Discontinued (2022) (NOP) - Extras</description>
+		<rom name="Sales Discontinued (2022) (NOP) - Manual.pdf" size="659321" crc="9d6140e3" md5="52f9ead2073a27f1e74b0b2019b5043d" sha1="9ee07850e9196407f7bd59805587c6e253450aa1" status="none" />
+	</game>
 	<game name="Sam.Pr (2024) (v1.2) (Fausto Pracek) - Extras">
 		<description>Sam.Pr (2024) (v1.2) (Fausto Pracek) - Extras</description>
 		<rom name="Sam.Pr (2024) (Fausto Pracek) - Manual.txt" size="1381" crc="84f057ef" md5="6b8fe27016afb21f533a3e678de4138f" sha1="db8c6a843271a41bfefbead092a04eb4b42c18e9" status="none" />
+	</game>
+	<game name="Sam.Pr Explorer (2024) (Fausto Pracek) - Extras">
+		<description>Sam.Pr Explorer (2024) (Fausto Pracek) - Extras</description>
+		<rom name="Sam.Pr Explorer (2024) (Fausto Pracek) - Manual.txt" size="759" crc="a69dda5e" md5="023eab5000e112ca7b9504d2cafeab7d" sha1="fb44bbed81da0d770b28f3edffaece17c6cca1c9" status="none" />
 	</game>
 	<game name="SD Sniper (2021) (Kirem) - Extras">
 		<description>SD Sniper (2021) (Kirem) - Extras</description>
@@ -1118,6 +1247,11 @@
 	<game name="Shadow Switcher (2022) (Robosoft) - Extras">
 		<description>Shadow Switcher (2022) (Robosoft) - Extras</description>
 		<rom name="Shadow Switcher (2022) (Robosoft) - Manual.txt" size="876" crc="1bbeecde" md5="cfb6ad44172c972c00eee57e9c534d0c" sha1="0e65794d68c376efc8316979717cbd896c3a5925" status="none" />
+	</game>
+	<game name="Shift (2009) (Infinite) - Extras">
+		<description>Shift (2009) (Infinite) - Extras</description>
+		<rom name="Shift (2009) (Infinite) - Label.png" size="1103282" crc="0d9150da" md5="0eefe8df426b71ab6aa40189cf79a01f" sha1="7c6d7e53689f03f92d1d19f6d1cd8f8e87294ec0" status="none" />
+		<rom name="Shift (2009) (Infinite) - Manual (En).pdf" size="91469" crc="13047409" md5="c0ae00be38af1d6639b99d60a0ee162a" sha1="60c6c5b4aa19b6b5d71374fab2457deed888a0b8" status="none" />
 	</game>
 	<game name="Shmup! (2013) (Imanok) - Extras">
 		<description>Shmup! (2013) (Imanok) - Extras</description>
@@ -1186,19 +1320,23 @@
 		<rom name="Sp8 Invaders (2008) (Dioniso) - Manual.txt" size="985" crc="567385b2" md5="a5fed4026641cf785d026b04c2082956" sha1="83e285471e0bddc770570ab1c6c3752f58b5dac5" status="none" />
 		<rom name="Sp8 Invaders (2008) (Dioniso) - Sticker.jpg" size="40470" crc="159b9489" md5="32d9c72e2c12b412a7bcf8483c9a88f0" sha1="71ffc691224e6f5721386d7eb23948adb38925f2" status="none" />
 	</game>
-	<game name="SpaceCat (2022) (PlattySoft) - Extras">
-		<description>SpaceCat (2022) (PlattySoft) - Extras</description>
-		<rom name="SpaceCat (2022) (PlattySoft) - Manual.pdf" size="365035" crc="711db3bb" md5="3ca1bc887baa311579039efaeb0fd664" sha1="2aba9389bc2b66aadc449a0da6cebab6f243226d" />
-	</game>
 	<game name="Space Crussader (2005) (Germán Gómez Herrera) - Extras">
 		<description>Space Crussader (2005) (Germán Gómez Herrera) - Extras</description>
 		<rom name="Space Crussader (2005) (Germán Gómez Herrera) - Manual (En).txt" size="5570" crc="c379c120" md5="9e266299722ff071fc128490019d378b" sha1="c0fded7731930be1ddc21a5df6eb3f0cc2f7e390" status="none" />
 		<rom name="Space Crussader (2005) (Germán Gómez Herrera) - Manual (Es).txt" size="5710" crc="e10a2fdf" md5="d53b614b5b779dd70a9e52237eb219de" sha1="cac50eb9726c95f40e3f66532be8ae318d275177" status="none" />
 		<rom name="Space Crussader (2005) (Germán Gómez Herrera) - Sticker.gif" size="24470" crc="f8b2f220" md5="9e06c10d6f79bb66ab292817d74aab39" sha1="cb57b6a1e3a3278536787708cb38ee7fd578b06b" status="none" />
 	</game>
+	<game name="Space Popo (2023) (meichnpp) - Extras">
+		<description>Space Popo (2023) (meichnpp) - Extras</description>
+		<rom name="Space Popo (2023) (meichnpp) - Manual.txt" size="878" crc="fd4dc0db" md5="97444030d1f754b890256a4c9e47b58e" sha1="a0491212f0151ca3f62764cfe5a4e2eaabe6f0d1" status="none" />
+	</game>
 	<game name="SpaceCat (2022) (Platty Soft) - Extras">
 		<description>SpaceCat (2022) (Platty Soft) - Extras</description>
 		<rom name="SpaceCat (2022) (Platty Soft) - Manual.pdf" size="365035" crc="711db3bb" md5="3ca1bc887baa311579039efaeb0fd664" sha1="2aba9389bc2b66aadc449a0da6cebab6f243226d" status="none" />
+	</game>
+	<game name="SpaceCat (2022) (PlattySoft) - Extras">
+		<description>SpaceCat (2022) (PlattySoft) - Extras</description>
+		<rom name="SpaceCat (2022) (PlattySoft) - Manual.pdf" size="365035" crc="711db3bb" md5="3ca1bc887baa311579039efaeb0fd664" sha1="2aba9389bc2b66aadc449a0da6cebab6f243226d" status="none" />
 	</game>
 	<game name="Spellbound (2023) (Mastropiero) - Extras">
 		<description>Spellbound (2023) (Mastropiero) - Extras</description>
@@ -1268,9 +1406,23 @@
 		<rom name="Subcommander (2020) (Zoran Majcenić) - Loader.bin" size="20868" crc="0f4e1ad1" md5="703afc4655d0758cee2bf1060d86c6e9" sha1="c65eef649f0f20d4070ad4ae578627606c3cc15f" status="none" />
 		<rom name="Subcommander (2020) (Zoran Majcenić) - Manual.txt" size="1570" crc="71aeb674" md5="4c6bffbaf988fd146df8b91cf3ada294" sha1="1584ac945c8460d213bcd21784d44207d1c125e6" status="none" />
 	</game>
+	<game name="Suite Macabre (2022) (En,Es) (Maltanto) - Extras">
+		<description>Suite Macabre (2022) (En,Es) (Maltanto) - Extras</description>
+		<rom name="Suite Macabre (2022) (En,Es) (Maltanto) - Cover.png" size="6413951" crc="152fe5e7" md5="c84f05115ff593d410d4564988880e86" sha1="21dffb5be4e36d8263b6fa9d2eab65f8fdd557ed" status="none" />
+		<rom name="Suite Macabre (2022) (En,Es) (Maltanto) - Manual.pdf" size="1941428" crc="e97b1695" md5="7e0ef6de2c9575c4d80308f7883fc1d3" sha1="ca2f4179a80eae9c3ca8e9996b3646620c644dfc" status="none" />
+	</game>
 	<game name="Super Mario World (2016) (Noramos) - Extras">
 		<description>Super Mario World (2016) (Noramos) - Extras</description>
-		<rom name="Super Mario World (2016) (Noramos) - Manual.pdf" size="222793" crc="7b439d27" md5="30e3eb804e243911b4100b0daad9402c" sha1="3f823656de80af5d984f131741a687e8a85b3ad6" />
+		<rom name="Super Mario World (2016) (Noramos) - Manual.pdf" size="222793" crc="7b439d27" md5="30e3eb804e243911b4100b0daad9402c" sha1="3f823656de80af5d984f131741a687e8a85b3ad6" status="none" />
+	</game>
+	<game name="Super Ory 2 - Enigma (2023) (Orazio Cacciola, Cristiano Poleta) - Extras">
+		<description>Super Ory 2 - Enigma (2023) (Orazio Cacciola, Cristiano Poleta) - Extras</description>
+		<rom name="Super Ory 2 - Enigma (2023) (Orazio Cacciola, Cristiano Poleta) - Manual (En).txt" size="3161" crc="9dfdd128" md5="37240a2c70aed3eb39cb460bbb51e89b" sha1="0f953fb5448b282dd0355ce7be331db99e2f4fc7" status="none" />
+		<rom name="Super Ory 2 - Enigma (2023) (Orazio Cacciola, Cristiano Poleta) - Manual (It).txt" size="3210" crc="b009acf3" md5="3b210b824a596255771e05c4c1d26e9a" sha1="b26466308af86497dbc6009c414575024a6226e0" status="none" />
+	</game>
+	<game name="Super Sokoban (2024) (2NICE) - Extras">
+		<description>Super Sokoban (2024) (2NICE) - Extras</description>
+		<rom name="Super Sokoban (2024) (2NICE) - Manual.pdf" size="1102434" crc="1e741288" md5="e50a2862638e45565730ebfeb86af476" sha1="16acc7e60cffcdde8ae2f96e986a5baccfa61d8b" status="none" />
 	</game>
 	<game name="T-Virus (2004) (Dioniso) - Extras">
 		<description>T-Virus (2004) (Dioniso) - Extras</description>
@@ -1368,6 +1520,10 @@
 		<rom name="Universe - Unknown (2005) (Infinite) - Manual.txt" size="1935" crc="174b3a61" md5="196b5726397938623fe87db3ddb160b4" sha1="0b4a00a387ff03e0b500268489b563a6d1ff3e3c" status="none" />
 		<rom name="Universe - Unknown (2005) (Infinite) - Sticker.png" size="404936" crc="e0fe5b4b" md5="50902c231d165e115edc11510bbe4bbf" sha1="5d18230d1b759916116a0020ec36092cdb78f66d" status="none" />
 	</game>
+	<game name="Usagi Densig (2023) (meichnpp) - Extras">
+		<description>Usagi Densig (2023) (meichnpp) - Extras</description>
+		<rom name="Usagi Densig (2023) (meichnpp) - Manual.txt" size="944" crc="d9a7189b" md5="1bff47c10a84981d99da821db6b46c08" sha1="525a1231855b3798216a3e8c98fb6151e76ee9b7" status="none" />
+	</game>
 	<game name="Vampire Slayer (2023) (Seamsoft) - Extras">
 		<description>Vampire Slayer (2023) (Seamsoft) - Extras</description>
 		<rom name="Vampire Slayer (2023) (Seamsoft) - Cover (En).png" size="1021087" crc="21c762b8" md5="a4b3a8be5eabbaf1eed81aef34364111" sha1="d24c2afc26aa865c322eb776f1a651c96a3254f5" status="none" />
@@ -1415,6 +1571,10 @@
 		<rom name="Witch Day (2020) (joesg) - Manual (Es).pdf" size="734668" crc="7f63d5a6" md5="3e1226e9236fa1310956e3df46e099d7" sha1="525a67f82f06e8aae19d90b8c5706c4959c622bb" status="none" />
 		<rom name="Witch Day (2020) (joesg) - Sticker (En).jpg" size="314377" crc="945b316a" md5="27881e8e53a7afc331a4ea100bf0b547" sha1="adf60fa06721242cc2a981b77cf54200c8896c61" status="none" />
 		<rom name="Witch Day (2020) (joesg) - Sticker (Es).png" size="1312833" crc="dd27d47b" md5="5d37ffc3c3057692f0b26eacd730203d" sha1="d8cdbd4772a47cce0c2122dc7b01338466e0f3cf" status="none" />
+	</game>
+	<game name="Wizsoul (2024) (v8.0) (Freenit) - Extras">
+		<description>Wizsoul (2024) (v8.0) (Freenit) - Extras</description>
+		<rom name="Wizsoul (2024) (Freenit) - Manual.txt" size="1568" crc="5077464b" md5="d2e259f11291118119e7b95067e34485" sha1="e22d16b301bee4d782e3cc972ee57427f6051622" status="none" />
 	</game>
 	<game name="Woods Rat (2023) (v1.4) (Gamecast) - Extras">
 		<description>Woods Rat (2023) (v1.4) (Gamecast) - Extras</description>
@@ -1488,6 +1648,10 @@
 		<rom name="Misc\Yazzie MSX Remastered (2020) (RetroSouls &amp; FRS) - Tiled\YazzieTileSet2.tsx" size="1708" crc="ca1d8530" md5="4d8d1fe369a6f0a07b1787f389df58c4" sha1="f74951bd9bab5e5447f7234634ec3f561bd68ba6" status="none" />
 		<rom name="Misc\Yazzie MSX Remastered (2020) (RetroSouls &amp; FRS) - Tiled\YazzieTileSet3.tsx" size="1708" crc="e7962b3d" md5="f43d991ebbe3007d8f27dd86bc86efa1" sha1="758fec710b2a8a7470899a8915a2817b9f56d095" status="none" />
 		<rom name="Yazzie MSX Remastered (2020) (RetroSouls &amp; FRS) - Manual.txt" size="10576" crc="49d7a111" md5="056c3387e105ef43f46e18cecd07b1df" sha1="3c23b0ab9572d182cb48ea693a9452a5ae1ff87e" status="none" />
+	</game>
+	<game name="Zakil Wood (2019) (NataliaPC) - Extras">
+		<description>Zakil Wood (2019) (NataliaPC) - Extras</description>
+		<rom name="Zakil Wood (2019) (v1.3) (NataliaPC) - Manual.txt" size="602" crc="6f9e73b6" md5="0d240101f7bd4657aa549f7b7bcab3ab" sha1="29de676bc4e6dce9302cbe3892d7f203a074aaf4" status="none" />
 	</game>
 	<game name="ZERO and the Castle of Infinite Sadness (2014) (Dioniso) - Extras">
 		<description>ZERO and the Castle of Infinite Sadness (2014) (Dioniso) - Extras</description>
