@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>076</id>
+		<name>076 - Lost Level Archive - NEC - PC Engine CD - TurboGrafx-CD</name>
+		<description>NEC - PC Engine CD - TurboGrafx-CD</description>
+		<version>v20250626</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper)">
+		<description>Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper)</description>
+		<comment>Removed from LLA and the patch was added to RAPatches since it was small enough to do so. https://github.com/RetroAchievements/RAPatches/blob/main/PC%20Engine%20CD/Translation/English/24328-GingaOjousamaDensetsuYuna2-English.zip</comment>
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 01).bin" size="13646304" crc="339e69a4" md5="b4bdebc2981c7d4f824af57347d3f567" sha1="3ed3ce1b24848d11c2c99a05a056d12927e8b503" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 02).bin" size="233243136" crc="55ce6c35" md5="441040a59bff28323a57c9e51d22fb96" sha1="7fa7d959986bb98676f96053962974f8410d26c1" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 03).bin" size="14142576" crc="792de26e" md5="083d49f157675dd454788f21527584a4" sha1="4c70b69c6f40d6ea127552c46f568185d96e5e8a" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 04).bin" size="17414208" crc="27e7c59f" md5="1618d7d7c0c91564560b59fda0c97144" sha1="a7395e7ca00a906850f194b847cdc1d31b17bf69" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 05).bin" size="11901120" crc="6a1d411a" md5="fd25ce2e66cdf3279c8c1e14cbaad6db" sha1="529dc26c24e3cbcc2eb3164e9dfe1fdaca759c14" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 06).bin" size="8015616" crc="d27e23a5" md5="7d35f2ddd59140d16fb3429a3a008d33" sha1="414d53ddb5611c97e1cb7ed4e0abb4c56fa4ab29" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 07).bin" size="17329536" crc="06eff5b0" md5="e6f7546417b4634beea0397d65ee72cd" sha1="ade0626b91cf6d0f5cc9da4e8b5aacd6117ce7ea" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 08).bin" size="18691344" crc="5bbfdabc" md5="e811513cdbd7536d2bcd56aff969492c" sha1="6be7fef2a885d935abb61d2e628b368ae62bc7a5" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 09).bin" size="2561328" crc="ea682638" md5="26e154fa734d6d51b50bb238d068ba6a" sha1="801739a14a4f8e1a0acdf1d89985227155aa0715" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 10).bin" size="15059856" crc="6b64b611" md5="2ca1e9449c85df01baa2e85cf4e2adc6" sha1="17891082b8723ddc6c5f2ee3c9b7c390af785d7f" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 11).bin" size="4217136" crc="011ad329" md5="bc03f410b8a4c7a894b2f0a00a593e91" sha1="2eb8d3bfac2875757a08898108c5e685fa167e3c" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 12).bin" size="10696896" crc="46ab9312" md5="b37580fc9023269646ad4892e5c662cb" sha1="e1e37a08646713689acf369cbff27c6f4b129dce" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 13).bin" size="12754896" crc="73701005" md5="2bc7601adf4d2b9414de52c4a727bf3e" sha1="bc4f0909e18cc60f7712af4d3eaf466b5fc7542e" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 14).bin" size="9499728" crc="9d1a0e13" md5="8dabaad8528d404d1eed2b8f9348424c" sha1="74ae61a89eb5a31f51f3d1dd16002c6bb8155036" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 15).bin" size="11783520" crc="0221567c" md5="5e4b264f761ac512c0ff51be634268d3" sha1="9ef0955f1c2f454b03aa8d3f46c8dc5d383e2d6b" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 16).bin" size="11037936" crc="42069cad" md5="ba3f4cb5181f5b0ee655a63a16768ae7" sha1="c8f459389fe035dbbd67186b991ef4f7e1647166" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 17).bin" size="7733376" crc="6815116c" md5="0606d90bb522aae09e9ff92cccad117a" sha1="db7edaa5711a53c4880e9d40a7f93083c2109951" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 18).bin" size="9617328" crc="92b2c5d0" md5="af44f4aa4325635e040c2028b7305214" sha1="190f6cc06e6b2d4e52d651a10abeea67aea7503b" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 19).bin" size="13237056" crc="a6179da8" md5="6a6d5a7f78bf54dd2afff6039c2740b6" sha1="89fae27ba9a1e0e611904795944a10c7b3ea7c5b" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 20).bin" size="49105056" crc="b7361c31" md5="29c099018651bccd8969444c78b3f1fd" sha1="00700f1af79a36186d8b67dfa4b446ec1e3761b0" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 21).bin" size="7879200" crc="b1377a69" md5="1c8d5a6e8e2d3bd2b4406bc2ff6f3f25" sha1="976afce070ff798542a518f8588d46b0bc8f34a4" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 22).bin" size="7143024" crc="0f2ff7ca" md5="44f44225abbeb105c713932a04a21438" sha1="557296ddf6a4cfb33befc3d0a5d78366a25b6e7e" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 23).bin" size="232892688" crc="fb4f96dd" md5="8fe3d971762ee256674c132961a23717" sha1="4149e9940ff343e4bf3577e30dfcbf4e427b5f68" status="none" />
+		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper).cue" size="3092" crc="a36e91a0" md5="c4c74dadb37321a9e6be5159289564bd" sha1="022c3b50c3a7019d220b223686abbacd29c4a8ae" status="none" />
+	</game>
+</datafile>
