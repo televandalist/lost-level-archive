@@ -52,6 +52,11 @@
 		<description>Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)</description>
 		<rom name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller).iso" size="4196139008" crc="28EF1BC9" md5="A775E7F26F1EF2934435D731D03BA978" sha1="D173C4C6C96C47A9642835AB8DA829349B2633B5"/>
 	</game>
+	<game name="Dynasty Warriors 2 (USA) (Undub) (v1.3) (swhosho)">
+		<description>Dynasty Warriors 2 (USA) (Undub) (v1.3) (swhosho)</description>
+		<rom name="Dynasty Warriors 2 (USA) (Undub) (v1.3) (swhosho).bin" size="571713536" crc="52597e5a" md5="d7901ee73e41a1b739f9e760c62820a2" sha1="326039e50c62afe547509e7944c624625c3adfff" status="none" />
+		<rom name="Dynasty Warriors 2 (USA) (Undub) (v1.3) (swhosho).cue" size="169" crc="607e2c64" md5="bfcfa1ff3185f8e62bbbda7822eb1cbb" sha1="5015c9459c33e943f7424248193fe6fe3febb506" status="none" />
+	</game>
 	<game name="Dynasty Warriors 4 (USA) (Undub) (v1.0) (General Plastro, swosho)">
 		<description>Dynasty Warriors 4 (USA) (Undub) (v1.0) (General Plastro, swosho)</description>
 		<rom name="Dynasty Warriors 4 (USA) (Undub) (v1.0) (General Plastro, swosho).iso" size="2832674816" crc="470a7b55" md5="a4b3c6640bf8fdbde854c392f326ed18" sha1="2135f506e2965978c0013303aa1f59a649c41fa2" />
