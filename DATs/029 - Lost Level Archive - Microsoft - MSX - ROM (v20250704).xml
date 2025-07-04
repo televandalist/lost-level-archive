@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250626</version>
+		<version>v20250704</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -863,13 +863,13 @@
 		<description>Molotov (2024) (v1.0) (Es) (joesg)</description>
 		<rom name="Molotov (2024) (v1.0) (Es) (joesg).rom" size="32768" crc="fc4d1d90" md5="9dba3eb8a3aeecee7fa8e64d986f9a15" sha1="9239c4769666a11754a3cf8ba6a976be0bc32d1a" status="none" />
 	</game>
-	<game name="Monster Hunter (2006) (Nerlaska Studio) (En)">
-		<description>Monster Hunter (2006) (Nerlaska Studio) (En)</description>
-		<rom name="Monster Hunter (2006) (Nerlaska Studio) (En).rom" size="131072" crc="d6c395f8" md5="c69fdc1cac38aed2b6de81f51673c1b8" sha1="1c238009e77c5536d0059631954c2c4a52527283" status="none" />
+	<game name="Monster Hunter (2006) (En) (Nerlaska Studio)">
+		<description>Monster Hunter (2006) (En) (Nerlaska Studio)</description>
+		<rom name="Monster Hunter (2006) (En) (Nerlaska Studio).rom" size="131072" crc="d6c395f8" md5="c69fdc1cac38aed2b6de81f51673c1b8" sha1="1c238009e77c5536d0059631954c2c4a52527283" status="none" />
 	</game>
-	<game name="Monster Hunter (2006) (Nerlaska Studio) (Es)">
-		<description>Monster Hunter (2006) (Nerlaska Studio) (Es)</description>
-		<rom name="Monster Hunter (2006) (Nerlaska Studio) (Es).rom" size="131072" crc="b876a92f" md5="53e660a37f334572d2fba3c759952a84" sha1="ca45da2f9cd8edf4ab04ffd542b9c60ef6a9a254" status="none" />
+	<game name="Monster Hunter (2006) (Es) (Nerlaska Studio)">
+		<description>Monster Hunter (2006) (Es) (Nerlaska Studio)</description>
+		<rom name="Monster Hunter (2006) (Es) (Nerlaska Studio).rom" size="131072" crc="b876a92f" md5="53e660a37f334572d2fba3c759952a84" sha1="ca45da2f9cd8edf4ab04ffd542b9c60ef6a9a254" status="none" />
 	</game>
 	<game name="Monster on the Run (2021) (v1.0) (Neurox66)">
 		<description>Monster on the Run (2021) (v1.0) (Neurox66)</description>
@@ -1042,6 +1042,10 @@
 	<game name="Pentacorn Quest (2023) (v1.1) (Robosoft)">
 		<description>Pentacorn Quest (2023) (v1.1) (Robosoft)</description>
 		<rom name="Pentacorn Quest (2023) (v1.1) (Robosoft).rom" size="49152" crc="883c5abe" md5="037eff9751af0a3a009cbd53b4756663" sha1="4e00f654c0c5ebbd8c4bec4adc9be0ba54555d3f" status="none" />
+	</game>
+	<game name="Pentagram (1986) (A.C.G.)">
+		<description>Pentagram (1986) (A.C.G.)</description>
+		<rom name="Pentagram (1986) (A.C.G.).rom" size="32768" crc="c3ec7f61" md5="09dada521e1764070a482bd73432e240" sha1="c40e2f4a4b4cbd458684a393cc6ea29a82fc91f8" status="none" />
 	</game>
 	<game name="Phenix Corrupta (2023) (v1.0) (Casper Croes)">
 		<description>Phenix Corrupta (2023) (v1.0) (Casper Croes)</description>
@@ -1227,9 +1231,9 @@
 		<description>Sacred Valley (2022) (v1.0) (Visualedu, Bitcaffe)</description>
 		<rom name="Sacred Valley (2022) (v1.0) (Visualedu, Bitcaffe).rom" size="65536" crc="0882e69c" md5="bf716faf3637fcbe988e998e70a2fd1d" sha1="308ab8fa56964f19c618940928794b2c289da0a7" status="none" />
 	</game>
-	<game name="Safari Kids (v1.1) (2022) (Jipe)">
-		<description>Safari Kids (v1.1) (2022) (Jipe)</description>
-		<rom name="Safari Kids (v1.1) (2022) (Jipe).rom" size="753664" crc="7a5af4eb" md5="6545e19a66257f209a7d8a9624a515b5" sha1="989606d5929cb22bdff365368adf9e3fb0f51e81" status="none" />
+	<game name="Safari Kids (2022) (v1.1) (Jipe)">
+		<description>Safari Kids (2022) (v1.1) (Jipe)</description>
+		<rom name="Safari Kids (2022) (v1.1) (Jipe).rom" size="753664" crc="7a5af4eb" md5="6545e19a66257f209a7d8a9624a515b5" sha1="989606d5929cb22bdff365368adf9e3fb0f51e81" status="none" />
 	</game>
 	<game name="Saimazoom (2005) (En) (Karoshi Corp)">
 		<description>Saimazoom (2005) (En) (Karoshi Corp)</description>
@@ -1283,9 +1287,9 @@
 		<description>Shmup! (2013) (v1.1) (Imanok)</description>
 		<rom name="Shmup! (2013) (v1.1) (Imanok).rom" size="16384" crc="99cca8a4" md5="508c60f3ab0dcb24358da3894db620cd" sha1="363943c6acffbd026e906e9cb2690bfab2658cc9" status="none" />
 	</game>
-	<game name="Shouganai (v1.1) (2013) (Paxanga Soft)">
-		<description>Shouganai (v1.1) (2013) (Paxanga Soft)</description>
-		<rom name="Shouganai (v1.1) (2013) (Paxanga Soft).rom" size="16384" crc="d27ea890" md5="3478c966e251e9d6ffd9c3597ceffe2d" sha1="2e22ee1a9ece11d008f7dd1e0893d1d859b4cc7f" status="none" />
+	<game name="Shouganai (2013) (v1.1) (Paxanga Soft)">
+		<description>Shouganai (2013) (v1.1) (Paxanga Soft)</description>
+		<rom name="Shouganai (2013) (v1.1) (Paxanga Soft).rom" size="16384" crc="d27ea890" md5="3478c966e251e9d6ffd9c3597ceffe2d" sha1="2e22ee1a9ece11d008f7dd1e0893d1d859b4cc7f" status="none" />
 	</game>
 	<game name="Shoulder Blade OVERDRIVE (2018) (v1.0) (GW's Workshop)">
 		<description>Shoulder Blade OVERDRIVE (2018) (v1.0) (GW's Workshop)</description>
@@ -1319,9 +1323,9 @@
 		<description>Slime Center (2017) (N.I.)</description>
 		<rom name="Slime Center (2017) (N.I.).rom" size="32768" crc="7f12a2ab" md5="1a86cb70ad9242675a23159c483dce6a" sha1="8acb5f1998f24402a59938fcb2effaac81041663" status="none" />
 	</game>
-	<game name="Snail Maze (Demo) (2004) (Karoshi Corp)">
-		<description>Snail Maze (Demo) (2004) (Karoshi Corp)</description>
-		<rom name="Snail Maze (Demo) (2004) (Karoshi Corp).rom" size="8192" crc="bac0bfee" md5="e73b22c4e1a3b00c28c0b6a80638f24a" sha1="5db0acc008672f298d01686da4d56428b690b77f" status="none" />
+	<game name="Snail Maze (2004) (Demo) (Karoshi Corp)">
+		<description>Snail Maze (2004) (Demo) (Karoshi Corp)</description>
+		<rom name="Snail Maze (2004) (Demo) (Karoshi Corp).rom" size="8192" crc="bac0bfee" md5="e73b22c4e1a3b00c28c0b6a80638f24a" sha1="5db0acc008672f298d01686da4d56428b690b77f" status="none" />
 	</game>
 	<game name="Snake and Rhino in the Sketchbook (2023) (v1.0) (ARC8)">
 		<description>Snake and Rhino in the Sketchbook (2023) (v1.0) (ARC8)</description>

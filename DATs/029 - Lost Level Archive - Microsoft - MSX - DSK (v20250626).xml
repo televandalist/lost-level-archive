@@ -19,16 +19,13 @@
 		<description>9 Parts (2023) (meichnpp)</description>
 		<rom name="9 Parts (2023) (meichnpp).dsk" size="737280" crc="4548bf9a" md5="b86e6ff5afe5d8bd36b563ab72ad535b" sha1="f67b66224c30037f248b21a9b37456c8bc04772e" status="none" />
 	</game>
-	<game name="10 Lines Princess (World) (Aftermarket) (Unl)">
-		<description>10 Lines Princess (World) (Aftermarket) (Unl)</description>
-		<rom name="10 Lines Princess (World) (Aftermarket) (Unl).dsk" size="737280" crc="bb022514" md5="e40432b864c4b7440f8b265ebfa0a7f5" sha1="bfa9fe277158141a700915da73d7980e516e50de" status="none" />
+	<game name="10 Lines Princess (2023) (Honoppe)">
+		<description>10 Lines Princess (2023) (Honoppe)</description>
+		<rom name="10 Lines Princess (2023) (Honoppe).dsk" size="737280" crc="bb022514" md5="e40432b864c4b7440f8b265ebfa0a7f5" sha1="bfa9fe277158141a700915da73d7980e516e50de" status="none" />
 	</game>
-	<game name="Akin (1995) (Parallax) (Disk 1)">
-		<description>Akin (1995) (Parallax) (Disk 1)</description>
+	<game name="Akin (1995) (Parallax)">
+		<description>Akin (1995) (Parallax)</description>
 		<rom name="Akin (1995) (Parallax) (Disk 1).dsk" size="737280" crc="6f4e000a" md5="7d163b17b19edfe9f14b946304c34fd8" sha1="fac5d8b94300bb04f503076c9f1a3a7575c2eac9" status="none" />
-	</game>
-	<game name="Akin (1995) (Parallax) (Disk 2)">
-		<description>Akin (1995) (Parallax) (Disk 2)</description>
 		<rom name="Akin (1995) (Parallax) (Disk 2).dsk" size="737280" crc="d12215ac" md5="bdca2f8986301d49b0a8608fad1e081b" sha1="1de67f18158f17895b2ad30435cbf991966ce02c" status="none" />
 	</game>
 	<game name="Automania (2022) (v2.0) (Fregarni)">
@@ -39,9 +36,9 @@
 		<description>Ball Quest (2008) (Ryazan)</description>
 		<rom name="Ball Quest (2008) (Ryazan).dsk" size="368640" crc="ecb66d90" md5="a48c7420b52846c794b630a77ed842fe" sha1="b6de986e71dcd51b3c71196eb0168fe9edb0b2a0" status="none" />
 	</game>
-	<game name="Be-Bop Bout (En) (1994) (64K) (Mar'z Project)">
-		<description>Be-Bop Bout (En) (1994) (64K) (Mar'z Project)</description>
-		<rom name="Be-Bop Bout (En) (1994) (64K) (Mar'z Project).dsk" size="737280" crc="c46a93c9" md5="5a01bbeb3673bbdc020ab8e8e4ebd5da" sha1="8c4cc1fc4d60f27785afcbfddcd978f6027a6412" status="none" />
+	<game name="Be-Bop Bout (1994) (En) (64K) (Mar'z Project)">
+		<description>Be-Bop Bout (1994) (En) (64K) (Mar'z Project)</description>
+		<rom name="Be-Bop Bout (1994) (En) (64K) (Mar'z Project).dsk" size="737280" crc="c46a93c9" md5="5a01bbeb3673bbdc020ab8e8e4ebd5da" sha1="8c4cc1fc4d60f27785afcbfddcd978f6027a6412" status="none" />
 	</game>
 	<game name="Beep (2024) (v1.2) (Breinthee)">
 		<description>Beep (2024) (v1.2) (Breinthee)</description>
@@ -131,17 +128,17 @@
 		<description>Gaia's Crest (1988) (NCS)</description>
 		<rom name="Gaia's Crest (1988) (NCS).dsk" size="737280" crc="ccadadd1" md5="18c9900bcc0af21dcc3660c53246c0b6" sha1="c1cb5f5f327698905e09a6f418e359b2483c7c83" status="none" />
 	</game>
-	<game name="Ghosts of Blackwood Manor, The (r14) (2023) (Stefan Vogt)">
-		<description>Ghosts of Blackwood Manor, The (r14) (2023) (Stefan Vogt)</description>
-		<rom name="Ghosts of Blackwood Manor, The (r14) (2023) (Stefan Vogt).dsk" size="737280" crc="208ecb56" md5="2040573c2ed4e3395f16f2a5e6b85a1c" sha1="051086f5c4b6cfb1356dd14a4a519b0e1bde3add" status="none" />
+	<game name="Ghosts of Blackwood Manor, The (2023) (r14) (Stefan Vogt)">
+		<description>Ghosts of Blackwood Manor, The (2023) (r14) (Stefan Vogt)</description>
+		<rom name="Ghosts of Blackwood Manor, The (2023) (r14) (Stefan Vogt).dsk" size="737280" crc="208ecb56" md5="2040573c2ed4e3395f16f2a5e6b85a1c" sha1="051086f5c4b6cfb1356dd14a4a519b0e1bde3add" status="none" />
 	</game>
 	<game name="Goal (2018) (G.G.G. Soft)">
 		<description>Goal (2018) (G.G.G. Soft)</description>
 		<rom name="Goal (2018) (G.G.G. Soft).dsk" size="737280" crc="46ba659f" md5="f5087b128c79944ee21182b2adca1355" sha1="3b8f8e107fbcb5617093b51512069a75d34c0247" status="none" />
 	</game>
-	<game name="Grey Wolf (2017) (Aftermarket) (Oniric Factor)">
-		<description>Grey Wolf (2017) (Aftermarket) (Oniric Factor)</description>
-		<rom name="Grey Wolf (2017) (Aftermarket) (Oniric Factor).dsk" size="737280" crc="4b9ab81a" md5="c3c9f5295982364f4ca20052b64d2546" sha1="4146e53e21b2bc8c41d96e44c8197a911097b985" status="none" />
+	<game name="Grey Wolf (2017) (Oniric Factor)">
+		<description>Grey Wolf (2017) (Oniric Factor)</description>
+		<rom name="Grey Wolf (2017) (Oniric Factor).dsk" size="737280" crc="4b9ab81a" md5="c3c9f5295982364f4ca20052b64d2546" sha1="4146e53e21b2bc8c41d96e44c8197a911097b985" status="none" />
 	</game>
 	<game name="Hopper Boy (2023) (v1.2) (Gamecast)">
 		<description>Hopper Boy (2023) (v1.2) (Gamecast)</description>
@@ -183,16 +180,10 @@
 		<description>Magical Boco (2024) (meichnpp)</description>
 		<rom name="Magical Boco (2024) (meichnpp).dsk" size="737280" crc="361c3cfa" md5="6309b4f93b799f0464ad0f13c81dd426" sha1="1937df260f3617c4572183efb5eda6f493699fcb" status="none" />
 	</game>
-	<game name="Magnar (1992) (Parallax) (Disk 1)">
-		<description>Magnar (1992) (Parallax) (Disk 1)</description>
+	<game name="Magnar (1992) (Parallax)">
+		<description>Magnar (1992) (Parallax)</description>
 		<rom name="Magnar (1992) (Parallax) (Disk 1).dsk" size="737280" crc="0723a17a" md5="509897f9c43dd5c172436849efe15dae" sha1="8ce8d398af27c4ef2c410b11c639a066e07c7f61" status="none" />
-	</game>
-	<game name="Magnar (1992) (Parallax) (Disk 2)">
-		<description>Magnar (1992) (Parallax) (Disk 2)</description>
 		<rom name="Magnar (1992) (Parallax) (Disk 2).dsk" size="737280" crc="9b4f1aad" md5="a18d9075503886558e128300f5e4887e" sha1="8968e9befcc6ff29dd56311ee65baffaa0533b5f" status="none" />
-	</game>
-	<game name="Magnar (1992) (Parallax) (Disk 3)">
-		<description>Magnar (1992) (Parallax) (Disk 3)</description>
 		<rom name="Magnar (1992) (Parallax) (Disk 3).dsk" size="737280" crc="18316371" md5="02584b3ff534ac44b0ceb00d5cbe4386" sha1="cca62b0cb9ae2e3e1dd477880b22fdc17d1d658e" status="none" />
 	</game>
 	<game name="Marshmallow Chronicle (2024) (v1.0) (meichnpp)">
@@ -283,20 +274,14 @@
 		<description>Phantasie II - Story of Ferronrah (1988) (64K) (SSI)</description>
 		<rom name="Phantasie II - Story of Ferronrah (1988) (64K) (SSI).dsk" size="737280" crc="d4b2ba8d" md5="415d01737865a9f9047a088a9d393473" sha1="f1ac4dbe51977a594fb396c39290941d7f16ee03" status="none" />
 	</game>
-	<game name="Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (Scenario Disk)">
-		<description>Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (Scenario Disk)</description>
+	<game name="Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI)">
+		<description>Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI)</description>
 		<rom name="Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (Scenario Disk).dsk" size="737280" crc="84d58271" md5="3021a0e291d1a3b172187048e185e8fb" sha1="f5694994b35d6550de89fd9de39d0e53f8943822" status="none" />
-	</game>
-	<game name="Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (User Disk)">
-		<description>Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (User Disk)</description>
 		<rom name="Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (User Disk).dsk" size="737280" crc="df442044" md5="10323d73fb84a9b9aab3a3098e550bf9" sha1="6511beda64953ab063bea4c0bd25e11823b4b9b9" status="none" />
 	</game>
-	<game name="Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (Scenario Disk)">
-		<description>Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (Scenario Disk)</description>
+	<game name="Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft)">
+		<description>Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft)</description>
 		<rom name="Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (Scenario Disk).dsk" size="737280" crc="495b04eb" md5="2bad0d1e6f6e3d4308b6ac458c216560" sha1="d38b9de3a630e443d0deeaa7f89bf5c9833fde99" status="none" />
-	</game>
-	<game name="Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (User Disk)">
-		<description>Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (User Disk)</description>
 		<rom name="Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (User Disk).dsk" size="737280" crc="0cb2f044" md5="52df60233ab4e397f015ec4b3dbc3f5f" sha1="7542c7608e85c0755e13b718b98051ee312c4ab3" status="none" />
 	</game>
 	<game name="Pinball (2021) (Kotai)">
@@ -355,29 +340,26 @@
 		<description>Rescued (2025) (ZioOry)</description>
 		<rom name="Rescued (2025) (ZioOry).dsk" size="737280" crc="f40e0b88" md5="e722548b991ac5ce1f1768a660edc656" sha1="5ea33cecc5ad279240c86392ae1761c6caf624ec" status="none" />
 	</game>
-	<game name="Robo Crush (1990) (64K) (System Soft) (Disk 1 of 2)">
-		<description>Robo Crush (1990) (64K) (System Soft) (Disk 1 of 2)</description>
-		<rom name="Robo Crush (1990) (64K) (System Soft) (Disk 1 of 2).dsk" size="737280" crc="b85eed47" md5="0efa0df6a12c556af2da3728cd6e083b" sha1="476cdafcd0c97b452b3fd9515ac8dff85dd7aaf4" status="none" />
+	<game name="Robo Crush (1990) (64K) (System Soft)">
+		<description>Robo Crush (1990) (64K) (System Soft)</description>
+		<rom name="Robo Crush (1990) (64K) (System Soft) (Disk 1).dsk" size="737280" crc="b85eed47" md5="0efa0df6a12c556af2da3728cd6e083b" sha1="476cdafcd0c97b452b3fd9515ac8dff85dd7aaf4" status="none" />
+		<rom name="Robo Crush (1990) (64K) (System Soft) (Disk 2).dsk" size="737280" crc="2681c86e" md5="4d01f63b1b44c9e239c5b1c3d7fce86e" sha1="1227fef2cd46ec07159d78718bee08dba0f53a8c" status="none" />
 	</game>
-	<game name="Robo Crush (1990) (64K) (System Soft) (Disk 2 of 2)">
-		<description>Robo Crush (1990) (64K) (System Soft) (Disk 2 of 2)</description>
-		<rom name="Robo Crush (1990) (64K) (System Soft) (Disk 2 of 2).dsk" size="737280" crc="2681c86e" md5="4d01f63b1b44c9e239c5b1c3d7fce86e" sha1="1227fef2cd46ec07159d78718bee08dba0f53a8c" status="none" />
+	<game name="Safari Kids (2022) (v1.0) (Jipe)">
+		<description>Safari Kids (2022) (v1.0) (Jipe)</description>
+		<rom name="Safari Kids (2022) (v1.0) (Jipe).dsk" size="737280" crc="53b9fae4" md5="9f08d50d027c1fc7339481d8f7c37b55" sha1="5076d985a624f82c118280bc72fd8fc4fd66d011" status="none" />
 	</game>
-	<game name="Safari Kids (v1.0) (2022) (Jipe)">
-		<description>Safari Kids (v1.0) (2022) (Jipe)</description>
-		<rom name="Safari Kids (v1.0) (2022) (Jipe).dsk" size="737280" crc="53b9fae4" md5="9f08d50d027c1fc7339481d8f7c37b55" sha1="5076d985a624f82c118280bc72fd8fc4fd66d011" status="none" />
-	</game>
-	<game name="Safari Kids (v1.1) (2022) (Jipe)">
-		<description>Safari Kids (v1.1) (2022) (Jipe)</description>
-		<rom name="Safari Kids (v1.1) (2022) (Jipe).dsk" size="737280" crc="a79c189c" md5="309c7f59bd86b1cdfa2ca50d45ee2cb8" sha1="20c1192d84002f37f900b725bd6ecfcc8d3a17cf" status="none" />
+	<game name="Safari Kids (2022) (v1.1) (Jipe)">
+		<description>Safari Kids (2022) (v1.1) (Jipe)</description>
+		<rom name="Safari Kids (2022) (v1.1) (Jipe).dsk" size="737280" crc="a79c189c" md5="309c7f59bd86b1cdfa2ca50d45ee2cb8" sha1="20c1192d84002f37f900b725bd6ecfcc8d3a17cf" status="none" />
 	</game>
 	<game name="Sales Discontinued (2022) (v1.0) (NOP)">
 		<description>Sales Discontinued (2022) (v1.0) (NOP)</description>
 		<rom name="Sales Discontinued (2022) (v1.0) (NOP).dsk" size="49152000" crc="6a1e6936" md5="3844b8c8f6fc9f13c43be05fc4b77275" sha1="9cefc3c913026e2fd42d06f58e3d11971e4675a2" status="none" />
 	</game>
-	<game name="Singular Stone (v1.03) (2020) (Tohji Murakata)">
-		<description>Singular Stone (v1.03) (2020) (Tohji Murakata)</description>
-		<rom name="Singular Stone (v1.03) (2020) (Tohji Murakata).dsk" size="16777216" crc="7b39a947" md5="5a4fcb267335632b4ab080e256e725ee" sha1="248b214a5cfedffe780769714140fa1baf09dad8" status="none" />
+	<game name="Singular Stone (2020) (v1.03) (Tohji Murakata)">
+		<description>Singular Stone (2020) (v1.03) (Tohji Murakata)</description>
+		<rom name="Singular Stone (2020) (v1.03) (Tohji Murakata).dsk" size="16777216" crc="7b39a947" md5="5a4fcb267335632b4ab080e256e725ee" sha1="248b214a5cfedffe780769714140fa1baf09dad8" status="none" />
 	</game>
 	<game name="Sonyc (1995) (Analogy)">
 		<description>Sonyc (1995) (Analogy)</description>
@@ -403,13 +385,10 @@
 		<description>Tower of Gold, The (2022) (v1.0) (Kirem)</description>
 		<rom name="Tower of Gold, The (2022) (v1.0) (Kirem).dsk" size="737280" crc="3fe4c208" md5="352f23df8efee9552121f02e54e13e9f" sha1="c02d3e0d59bc758a5827653cce2b406f43c57d3e" status="none" />
 	</game>
-	<game name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1 of 2)">
-		<description>Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1 of 2)</description>
-		<rom name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1 of 2).dsk" size="737280" crc="e10316fd" md5="dddc192242692b255481cdf02ad9be07" sha1="359fd27c19cf179d96ecebaee2056f2c47044624" status="none" />
-	</game>
-	<game name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2 of 2)">
-		<description>Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2 of 2)</description>
-		<rom name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2 of 2).dsk" size="737280" crc="6e7a1784" md5="486b7e8a8fe02a34ea38c0ebe87ae63a" sha1="1ce762b191bb3cf31272fc8ecbf48df38cb5f9cc" status="none" />
+	<game name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems)">
+		<description>Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems)</description>
+		<rom name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1).dsk" size="737280" crc="e10316fd" md5="dddc192242692b255481cdf02ad9be07" sha1="359fd27c19cf179d96ecebaee2056f2c47044624" status="none" />
+		<rom name="Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2).dsk" size="737280" crc="6e7a1784" md5="486b7e8a8fe02a34ea38c0ebe87ae63a" sha1="1ce762b191bb3cf31272fc8ecbf48df38cb5f9cc" status="none" />
 	</game>
 	<game name="Usagi Densig (2023) (meichnpp)">
 		<description>Usagi Densig (2023) (meichnpp)</description>

@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250622</version>
+		<version>v20250704</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -173,6 +173,10 @@
 	<game name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez)">
 		<description>Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez)</description>
 		<rom name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez).iso" size="3248128000" crc="ce3ba0db" md5="dd354755f0e0de26ffdda69b53ceb68f" sha1="d50735da91be822b358e82b878c305b06b01a9af" status="none" />
+	</game>
+	<game name="Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games)">
+		<description>Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games)</description>
+		<rom name="Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games).iso" size="4559339520" crc="d1d20fea" md5="c1f783756a76f8f0b542c86f887afda5" sha1="dbd928d9176a5e9375a2849ee9af36705d47f039" status="none" />
 	</game>
 	<game name="Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32)">
 		<description>Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32)</description>

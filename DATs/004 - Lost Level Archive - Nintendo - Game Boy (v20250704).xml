@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250528</version>
+		<version>v20250704</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -448,6 +448,10 @@
 	<game name="Space Shipper (World) (GBJam 11) (Aftermarket) (GB Studio)">
 		<description>Space Shipper (World) (GBJam 11) (Aftermarket) (GB Studio)</description>
 		<rom name="Space Shipper (World) (GBJam 11) (Aftermarket) (GB Studio).gb" size="262144" crc="b37e61ff" md5="b690aeb71c97d082bd4a1a5b5dadc7d6" sha1="414d4d633e410db931ce4e2f1b1ff336cbe47e5a" />
+	</game>
+	<game name="Squid Game - Game Boy Demake (World) (Aftermarket) (Unl)">
+		<description>Squid Game - Game Boy Demake (World) (Aftermarket) (Unl)</description>
+		<rom name="Squid Game - Game Boy Demake (World) (Aftermarket) (Unl).gb" size="1048576" crc="774f3421" md5="dae06fe578dfa54f0c53732909dbf1e0" sha1="9ac008b89543035f52e0a0fcf02e9e94ebee8ccb" status="none" />
 	</game>
 	<game name="Starfight (World) (Aftermarket) (Unl)">
 		<description>Starfight (World) (Aftermarket) (Unl)</description>
