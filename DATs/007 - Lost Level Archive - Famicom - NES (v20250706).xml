@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250621</version>
+		<version>v20250706</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,6 +14,10 @@
 	<game name="Ai Senshi Nicol (Japan) (FDS Conversion)">
 		<description>Ai Senshi Nicol (Japan) (FDS Conversion)</description>
 		<rom name="Ai Senshi Nicol (Japan) (FDS Conversion).nes" size="262160" crc="d2a09f84" md5="b00e878010f4e919a38090f8c05cc5b4" sha1="9c3364fa94a50b939d4167c024c23ede9e0c1a31" />
+	</game>
+	<game name="Alien Cat 2 (World) (Aftermarket) (PSCDGames)">
+		<description>Alien Cat 2 (World) (Aftermarket) (PSCDGames)</description>
+		<rom name="Alien Cat 2 (World) (Aftermarket) (Unl).nes" size="262160" crc="550e30b3" md5="8fe07ecb8a184872bba97a1e98beca43" sha1="16c7ec6a3d56ba8f8267dcefa8819abc2b502f4c" status="none" />
 	</game>
 	<game name="All Hell Unleashed (World) (Aftermarket) (Unl)">
 		<description>All Hell Unleashed (World) (Aftermarket) (Unl)</description>
