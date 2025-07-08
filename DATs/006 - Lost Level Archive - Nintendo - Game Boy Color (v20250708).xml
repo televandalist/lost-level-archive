@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250626</version>
+		<version>v20250708</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -171,6 +171,10 @@
 		<description>Karpe Diem (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Karpe Diem (World) (v1.0) (Aftermarket) (Unl).gbc" size="524288" crc="91cc7412" md5="c3ff18fa6209d7302f91948b1ae42843" sha1="94a85b63a7340a03d3e8e41fda45408b4cb2ba3b" />
 	</game>
+	<game name="Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike)">
+		<description>Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike)</description>
+		<rom name="Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike).gbc" size="4194304" crc="0783aea3" md5="4f119e2c234a354740ff2a77b6e059db" sha1="0a3801c0302c8f9741064ba9c11c003c39d3ea8a" status="none" />
+	</game>
 	<game name="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
 		<description>Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)</description>
 		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl).gbc" size="4194304" crc="a52b5270" md5="fc0712c84209785a3a78e6a04dc5b89c" sha1="282667fe2652645b4f999e71a127a708f0fcd7cb" />
@@ -238,6 +242,10 @@
 	<game name="Mouse Trap (World) (v19991225) (Fan Port) (Unl)">
 		<description>Mouse Trap (World) (v19991225) (Fan Port) (Unl)</description>
 		<rom name="Mouse Trap (World) (v19991225) (Fan Port) (Unl).gbc" size="32768" crc="157ab813" md5="8fbd91804b0ce1792ca2138f540401fc" sha1="fe46717d4118b14a74f676443e559bc73b90d3fc" />
+	</game>
+	<game name="My Friendly Little Island Deluxe (World) (v1.0) (Aftermarket) (playinstinct)">
+		<description>My Friendly Little Island Deluxe (World) (v1.0) (Aftermarket) (playinstinct)</description>
+		<rom name="My Friendly Little Island Deluxe (World) (v1.0) (Aftermarket) (playinstinct).gbc" size="1048576" crc="a80ef6f4" md5="48b44dd2cb56ba6d880a7cc1d4c82c22" sha1="bb5d4b4ca27aa6fd65bc72fcd672248d2857ad4e" status="none" />
 	</game>
 	<game name="My Saturday Grounded (World) (v2.0) (Aftermarket) (Unl)">
 		<description>My Saturday Grounded (World) (v2.0) (Aftermarket) (Unl)</description>

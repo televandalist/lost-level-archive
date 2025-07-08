@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250704</version>
+		<version>v20250708</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -842,6 +842,10 @@
 	<game name="Mine Finder (2022) (v1.2) (Paolo Fabrizio Pugno)">
 		<description>Mine Finder (2022) (v1.2) (Paolo Fabrizio Pugno)</description>
 		<rom name="Mine Finder (2022) (v1.2) (Paolo Fabrizio Pugno).rom" size="16384" crc="429b6ade" md5="816ffbd68d49134194aca9dbb0e6779d" sha1="4c9ff15f1f6f41fc812849a52d4158591de06181" status="none" />
+	</game>
+	<game name="Minesweeper (2024) (v1.03) (Under4Mhz)">
+		<description>Minesweeper (2024) (v1.03) (Under4Mhz)</description>
+		<rom name="Minesweeper (2024) (v1.03) (Under4Mhz).rom" size="16384" crc="6aa779ac" md5="9df8bd94865204e67a5f308fafa09da6" sha1="06d66829c9eb29c681140fb592c2957e30c5e760" status="none" />
 	</game>
 	<game name="Mint (2023) (meichnpp)">
 		<description>Mint (2023) (meichnpp)</description>

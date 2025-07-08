@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250621</version>
+		<version>v20250708</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -259,6 +259,11 @@
 		<rom name="PSXFunkin' - B Sides (v1.3) (zeriben).bin" size="259225680" crc="88b2f5c8" md5="ff4e75fb795d4b6c546838c896c668b7" sha1="107ddfd57745e57b54d742610495dbf17f9442b0" />
 		<rom name="PSXFunkin' - B Sides (v1.3) (zeriben).cue" size="100" crc="5cad2c86" md5="09a08ca51682d3642800195d1d2a8030" sha1="599dbea8de4f8aefd76471d71e66948f7032d638" />
 	</game>
+	<game name="PSXFunkin' - CN Takeover (v2023-06-16) (UNSTOP4BLE)">
+		<description>PSXFunkin' - CN Takeover (v2023-06-16) (UNSTOP4BLE)</description>
+		<rom name="PSXFunkin' - CN Takeover (v2023-06-16) (UNSTOP4BLE).bin" size="94696224" crc="4143d65d" md5="00cdef6ddd2e5cd795d305cdedba5094" sha1="14219937360d3d280a4562cf245858011898a7ca" status="none" />
+		<rom name="PSXFunkin' - CN Takeover (v2023-06-16) (UNSTOP4BLE).cue" size="117" crc="ba2e1b39" md5="f98067eb9c5ceddbb120e439335858b9" sha1="d5e78201ad07d1e648d194190d1e7a07911bd20a" status="none" />
+	</game>
 	<game name="PSXFunkin' - D Sides (IgorSou30000)">
 		<description>PSXFunkin' - D Sides (IgorSou30000)</description>
 		<rom name="PSXFunkin' - D Sides (IgorSou30000).bin" size="198116016" crc="5ad810d7" md5="8ec103539a120462ab783ebc61a0b5b0" sha1="e26339f5d9b252c1676ab48b4e54ebdf9badc4a1" />
@@ -268,6 +273,11 @@
 		<description>PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout)</description>
 		<rom name="PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout).bin" size="81165168" crc="3200c7fe" md5="4e0560bced6c8086eaed8a856093f906" sha1="698c583dbd0cb40a665fbbda2f563dc01e8e3a2a" />
 		<rom name="PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout).cue" size="122" crc="a51c5c7e" md5="887c985d15266e102f4c8b69fc010281" sha1="56377393a0970e3dec0c8fccfe371d9464810e00" />
+	</game>
+	<game name="PSXFunkin' - Funktime Bunzo (v2022-07-22) (UNSTOP4BLE)">
+		<description>PSXFunkin' - Funktime Bunzo (v2022-07-22) (UNSTOP4BLE)</description>
+		<rom name="PSXFunkin' - Funktime Bunzo (v2022-07-22) (UNSTOP4BLE).bin" size="46214448" crc="d6b4b7fc" md5="1a067c85ac69b7389b84cf85618b8194" sha1="35143280079a565d63e9767c043f59a3bb2d6282" status="none" />
+		<rom name="PSXFunkin' - Funktime Bunzo (v2022-07-22) (UNSTOP4BLE).cue" size="120" crc="f24594c5" md5="e4f697c97b323f6d56e38124e628b5fc" sha1="e3eb764433b1935ae6931fa874d91acd00dc3efc" status="none" />
 	</game>
 	<game name="PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick)">
 		<description>PSXFunkin' - Lullaby Mod (v1.5) (DreamcastNick)</description>
@@ -331,6 +341,11 @@
 		<rom name="PSXFunkin' - VS. Red (v1.1) (UNSTOP4BLE, IgorSou30000).bin" size="70322448" crc="bffdc8a7" md5="e2faa737cc8c20790c2f0d492a5dcc71" sha1="a3da4b3122a595def572c4a9c63fa02700dc24cf" status="none" />
 		<rom name="PSXFunkin' - VS. Red (v1.1) (UNSTOP4BLE, IgorSou30000).cue" size="120" crc="3dbb680d" md5="51b8c088c3667f7c0168f92791dca9e6" sha1="4f9871aef26a9c0315e9c725aa07ad35d82eaeb0" status="none" />
 	</game>
+	<game name="PSXFunkin' - VS. Scott the Woz (v2022-03-31) (Nintendo bro385)">
+		<description>PSXFunkin' - VS. Scott the Woz (v2022-03-31) (Nintendo bro385)</description>
+		<rom name="PSXFunkin' - VS. Scott the Woz (v2022-03-31) (Nintendo bro385).bin" size="158715312" crc="1513dba8" md5="b25c0f891c731e0fd58590864c4a2b10" sha1="42827d300fa865c1c808188adddd9b754be2dea6" status="none" />
+		<rom name="PSXFunkin' - VS. Scott the Woz (v2022-03-31) (Nintendo bro385).cue" size="125" crc="cd89d815" md5="9e453881482736b57c1fcafce1114806" sha1="919cfa694c2c189ea1c24a8db981575db1edc270" status="none" />
+	</game>
 	<game name="PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE)">
 		<description>PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE)</description>
 		<rom name="PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE).bin" size="155831760" crc="af686ae2" md5="2c9522c177a84b6f0dd5a8c93dfe2b5e" sha1="b0bf66713fe720cdbdb822af8ededda34be2132b" />
@@ -355,6 +370,11 @@
 		<description>PSXFunkin' - VS. Tricky (CKDev, Lord Scout)</description>
 		<rom name="PSXFunkin' - VS. Tricky (CKDev, Lord Scout).bin" size="113324064" crc="5bc8cb67" md5="59a9b0778cce3c9afa56a807bd85989c" sha1="2a963810a63c9ab6dd0c90492eafc4dabf1472ca" />
 		<rom name="PSXFunkin' - VS. Tricky (CKDev, Lord Scout).cue" size="109" crc="f4b9cd92" md5="38808f828dd190c45597ae912a0bfe64" sha1="697a9a7085dae3c6c9680988bc9fbb16e566fcd0" />
+	</game>
+	<game name="PSXFunkin' - VS. Walter (v2022-09-21) (UNSTOP4BLE)">
+		<description>PSXFunkin' - VS. Walter (v2022-09-21) (UNSTOP4BLE)</description>
+		<rom name="PSXFunkin' - VS. Walter (v2022-09-21) (UNSTOP4BLE).bin" size="48281856" crc="ed93d759" md5="4e9d8b328eae09857cf97902d7e54b4a" sha1="b615f94b40d8d8839e2b01046315b4e7e421105a" status="none" />
+		<rom name="PSXFunkin' - VS. Walter (v2022-09-21) (UNSTOP4BLE).cue" size="116" crc="a9de7a6a" md5="fbbe7b00ffa9647041d41065ee71e167" sha1="52ce743fa6313464a4e8465952dbc8759553aa18" status="none" />
 	</game>
 	<game name="PSXFunkin' - With Parappa (v1.1.0) (LordScout)">
 		<description>PSXFunkin' - With Parappa (v1.1.0) (LordScout)</description>
