@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>004e</id>
+		<name>004e - Lost Level Archive - Nintendo - Game Boy (Extras)</name>
+		<description>Nintendo - Game Boy (Extras)</description>
+		<version>v20250712</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl) - Extras">
+		<description>Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl) - Cover Art.pdf" size="8245552" crc="73c9de99" md5="e941c33af2d3a140acddbab564c95ebe" sha1="3e1abf420e3f6bafdb04144131e587d3cc78899d" />
+		<rom name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl) - Manual.pdf" size="43268646" crc="63bddb59" md5="e0b0ef219f46905b66436085528021e9" sha1="230aadc04c8daf67cec61786085db58c129d808a" />
+	</game>
+	<game name="Cairn (World) (Aftermarket) (GB Studio) - Extras">
+		<description>Cairn (World) (Aftermarket) (GB Studio) - Extras</description>
+		<rom name="Cairn (World) (Aftermarket) (GB Studio) - Art - Baedd.jpg" size="884867" crc="729f8b27" md5="9b78aff9a11146faabc923392346376a" sha1="058e22477b07810f86588fcd93d4ca5d7029552a" />
+		<rom name="Cairn (World) (Aftermarket) (GB Studio) - Art - Dream.jpg" size="570105" crc="6ef38661" md5="ecd3650287d82d5ec32c093e2680cece" sha1="e163ea7991334edd25353580c227eeba6cbcb53a" />
+		<rom name="Cairn (World) (Aftermarket) (GB Studio) - Art - Garden.jpg" size="789250" crc="e97fc134" md5="584fb16178944cfaa832d2b20cdbb670" sha1="606e8abcd562f0a3ba0c31e09760e4a51a0d6a18" />
+		<rom name="Cairn (World) (Aftermarket) (GB Studio) - Art - Icono 1.jpg" size="510334" crc="a4187733" md5="970cb4f16cc31d77aa44c2a81a2c6280" sha1="a126a114b280f81b7a7dad055f71c40d0950368b" />
+		<rom name="Cairn (World) (Aftermarket) (GB Studio) - Art - Icono 2.jpg" size="657861" crc="67aab76a" md5="3fde412dfa10446e91d7341eaed8ea69" sha1="6b977e668929e527104a82bfbc7b9142f284f8f4" />
+		<rom name="Cairn (World) (Aftermarket) (GB Studio) - Art - Plants.jpg" size="820073" crc="34520c76" md5="61f0fbb1bccfca16d9001384cb2e11b1" sha1="62f91be2c063617f63c5ad07f5a603400d638c3d" />
+		<rom name="Cairn (World) (Aftermarket) (GB Studio) - Manual.pdf" size="958079" crc="631c5175" md5="d669fdc31d4b45787b40ade06b431433" sha1="4d8de96797c83e01175c906899772bb48857a881" />
+	</game>
+	<game name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras">
+		<description>Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Manual.pdf" size="298424" crc="CF4ED794" md5="F36955A03CF90B7186EA52C35FF36B48" sha1="F536EE8715E2FE4BBBCA1AE936FFA2548D5D0EED" date="2023-07-27 13:13:18"/>
+	</game>
+	<game name="LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Extras">
+		<description>LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Extras</description>
+		<rom name="LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Art of LesbiAnts.pdf" size="272587" crc="5c83c153" md5="5ea6ffd282f65ab5d6edac195de299de" sha1="208d8f5ce94da34aa4a4008b04ba567c1c16e8b7" />
+		<rom name="LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Manual.pdf" size="820029" crc="7c347023" md5="83f9078e4e8f62d066e044a83bf3a164" sha1="b02d73f4971d2c1937103561ab72956f286adec2" />
+	</game>
+	<game name="Niñoid (World) (Aftermarket) (GB Studio) - Extras">
+		<description>Niñoid (World) (Aftermarket) (GB Studio) - Extras</description>
+		<rom name="Niñoid (World) (Aftermarket) (GB Studio) - Manual.pdf" size="5517970" crc="e280790d" md5="d6bc390fad942b7f2c524138b313a9a4" sha1="9ac9bb51d08617def67adaaf7d3e10dfcfd1b429" />
+	</game>
+	<game name="Squid Game Boy (World) (v1.1) (Aftermarket) (64 Bits Animation) - Extras">
+		<description>Squid Game Boy (World) (v1.1) (Aftermarket) (64 Bits Animation) - Extras</description>
+		<rom name="Squid Game Boy (World) (v1.1) (Aftermarket) (64 Bits Animation) - Box Art.png" size="3666439" crc="1098ae6b" md5="cca2fa9f7bafdb0e5b97583b0e1b52b0" sha1="25374c1f2d494272ee649a98de3a70c255d50b4a" status="none" />
+		<rom name="Squid Game Boy (World) (v1.1) (Aftermarket) (64 Bits Animation) - Manual.pdf" size="9117184" crc="e7da7dc1" md5="03d7e3e0105470065328dacaff13c95a" sha1="f17367ce63eff0234928ce004496de57660769a7" status="none" />
+		<rom name="Squid Game Boy (World) (v1.1) (Aftermarket) (64 Bits Animation) - Sticker.png" size="1415330" crc="0b7aaa02" md5="bcf1cfe64dc0b7cfc5c7a161c4f19668" sha1="72e1d651756562726d4a52df97f0e05c41964f57" status="none" />
+	</game>
+	<game name="X-Mas Time (World) (Aftermarket) (GB Studio) - Extras">
+		<description>X-Mas Time (World) (Aftermarket) (GB Studio) - Extras</description>
+		<rom name="X-Mas Time (World) (Aftermarket) (GB Studio) - Box.pdf" size="1794577" crc="5c85117b" md5="7908fb52f4abd3179a5e11acfa9d3de4" sha1="d69c398f4a1d7f28e51c72642f0a1441b8a9e724" />
+	</game>
+	<game name="Yakuza GB (World) (Aftermarket) (Unl) - Extras">
+		<description>Yakuza GB (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Funk Goes On.wav" size="31721220" crc="8a3afc4e" md5="0da00feac0119754eb83e98545cd9361" sha1="2aca3debd21e0dca618b557c0dbcc7fce4bb9726"/>
+		<rom name="Machine Gun Kiss.wav" size="30402612" crc="304c9b2c" md5="d0a15b7c745acd3497d188ee3b0fe088" sha1="d762206f13ecd1f6d145522dab6b8d762eacc516"/>
+		<rom name="Pledge Of Demon.wav" size="46774772" crc="a5b217a4" md5="877ac66d34a5c62dad8ad466b0b7bfc2" sha1="60200c6710b527d9e20493f384c9f0a562089c89"/>
+		<rom name="Receive and Clear You.wav" size="1360020" crc="28fbc243" md5="6f3f768a5fe2fa132e35cb9e9c18698a" sha1="54f7bb20f9bf0af73d5ad8583d98f086fd64d56d"/>
+		<rom name="Receive You Title.wav" size="11853868" crc="2a8a7b4d" md5="90d5e61937c278aa9af5b22d51c33b0a" sha1="35a01ac0809b7dd7ec0ea390625c169e4cfc9f55"/>
+	</game>
+</datafile>

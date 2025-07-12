@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250708</version>
+		<version>v20250712</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -318,6 +318,14 @@
 	<game name="Cryptogram - Anagrams Crosswords (2022) (v1.1) (En,Fr,It,Nl) (Amaury Carvalho)">
 		<description>Cryptogram - Anagrams Crosswords (2022) (v1.1) (En,Fr,It,Nl) (Amaury Carvalho)</description>
 		<rom name="Cryptogram - Anagrams Crosswords (2022) (v1.1) (En,Fr,It,Nl) (Amaury Carvalho).rom" size="49152" crc="0a8152fb" md5="d21c5522b3467dc53b3d2c49696abe50" sha1="07fa3735e3cb96ddece45bb6f3ff6710b6ff7052" status="none" />
+	</game>
+	<game name="Cube Droid Holiday Special (2024) (MSX2) (bitsofbas)">
+		<description>Cube Droid Holiday Special (2024) (MSX2) (bitsofbas)</description>
+		<rom name="Cube Droid Holiday Special (2024) (MSX2) (bitsofbas).rom" size="65536" crc="39da7b9f" md5="f763bb7ac109f205c1484348c676422b" sha1="1828231318ae242bbbd812166ac9a2534f5b8bd5" status="none" />
+	</game>
+	<game name="Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas)">
+		<description>Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas)</description>
+		<rom name="Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas).rom" size="65536" crc="988d0550" md5="68a51418081e4ea60402b436625a5c5e" sha1="1ffe495b64a49deed84f42c3ac22410db309e637" status="none" />
 	</game>
 	<game name="Cuncuna (2020) (Christian Córdova)">
 		<description>Cuncuna (2020) (Christian Córdova)</description>

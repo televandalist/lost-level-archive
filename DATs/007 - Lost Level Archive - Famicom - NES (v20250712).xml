@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250706</version>
+		<version>v20250712</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -54,6 +54,10 @@
 	<game name="Fish (World) (v1.2) (Aftermarket) (Unl) (voxel)">
 		<description>Fish (World) (v1.2) (Aftermarket) (Unl) (voxel)</description>
 		<rom name="Fish (World) (v1.2) (Aftermarket) (Unl) (voxel).nes" size="40976" crc="20120db7" md5="b7a38bd1f84e6d02695e2ced8b80eb49" sha1="f4342a4d6752332eb09e4c1f9a896dc380a96275" />
+	</game>
+	<game name="Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul)">
+		<description>Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul)</description>
+		<rom name="Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul).nes" size="524304" crc="ee9c048d" md5="65719a37c48cf991cfe79218a5d55acf" sha1="68eff69353c9e334936ada0c89fc7bbf524a8757" status="none" />
 	</game>
 	<game name="Honey Peach-Mei Nu Quan (Asia) (Sachen)">
 		<description>Honey Peach-Mei Nu Quan (Asia) (Sachen)</description>
@@ -131,6 +135,10 @@
 		<description>Paint or Draw (USA) (v3.0) (Aftermarket) (Unl) (dougeff)</description>
 		<rom name="Paint or Draw (USA) (v3.0) (Aftermarket) (Unl) (dougeff).nes" size="24592" crc="b69b31bd" md5="4ec7a3f78063c0f6385b670670719361" sha1="21c43dfe413b23e1a9b558aacd0a86ae8bd6c9e0" />
 	</game>
+	<game name="Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul)">
+		<description>Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul)</description>
+		<rom name="Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul).nes" size="524304" crc="dcb3c6d1" md5="885357fbb426e805661ac8eea6e0be49" sha1="0b32ceba72ac9943db1787907dd7c96274109afd" status="none" />
+	</game>
 	<game name="Police Dog Lasy (China) (v1.0) (Unl) (Aftermarket) (Nice Code)">
 		<description>Police Dog Lasy (China) (v1.0) (Unl) (Aftermarket) (Nice Code)</description>
 		<rom name="Police Dog Lasy (China) (v1.0) (Unl) (Aftermarket) (Nice Code).nes" size="40976" crc="f9519b23" md5="11289a79776640fd8772035fd0a180a3" sha1="8148b689e83ec7daf249799ed9aac79e3f09227b" />
@@ -190,6 +198,10 @@
 	<game name="Somari (Hummer Team) (Aftermarket) (Bootleg)">
 		<description>Somari (Hummer Team) (Aftermarket) (Bootleg)</description>
 		<rom name="Somari (Hummer Team) (Aftermarket) (Bootleg).nes" size="524304" crc="51589daf" md5="cb1d67e6455d2fa514b939817d64c9d2" sha1="6cf18228cfb66d48b3642069979d4a5103cb8528" />
+	</game>
+	<game name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx)">
+		<description>Sonik Gem Dash (World) (Aftermarket) (BriG78cx)</description>
+		<rom name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx).nes" size="65552" crc="8b752416" md5="a4e9080ff3e4ef5596fda29ad7e28f5b" sha1="d0cbc768f40cbc2aabe6071bf416e905c3c248c2" status="none" />
 	</game>
 	<game name="Sudo King (Asia) (Multicart Rip) (Unl)">
 		<description>Sudo King (Asia) (Multicart Rip) (Unl)</description>

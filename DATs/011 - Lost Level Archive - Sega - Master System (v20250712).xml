@@ -5,7 +5,7 @@
 		<id>011</id>
 		<name>011 - Lost Level Archive - Sega - Master System</name>
 		<description>Sega - Master System</description>
-		<version>v20250706</version>
+		<version>v20250712</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -54,6 +54,10 @@
 	<game name="Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl)">
 		<description>Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl)</description>
 		<rom name="Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl).sms" size="32768" crc="016e55cf" md5="579651894466cdb1f89174021d57ed47" sha1="bef4400b208b4288e0523818c9743a79ce693d05" />
+	</game>
+	<game name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx)">
+		<description>Sonik Gem Dash (World) (Aftermarket) (BriG78cx)</description>
+		<rom name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx).sms" size="32768" crc="b2f9e6f3" md5="efb29ab5b61521f3c4b0600e7506c55a" sha1="3e0924c283d554a9872cc8a741272ec3d4492971" status="none" />
 	</game>
 	<game name="Vexed (USA) (v1.15) (Aftermarket) (Unl)">
 		<description>Vexed (USA) (v1.15) (Aftermarket) (Unl)</description>

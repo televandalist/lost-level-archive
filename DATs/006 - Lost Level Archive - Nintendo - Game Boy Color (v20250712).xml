@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250708</version>
+		<version>v20250712</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -235,6 +235,10 @@
 		<description>Mina the Hollower GBC Demake (World) (Aftermarket) (Unl)</description>
 		<rom name="Mina the Hollower GBC Demake (World) (Aftermarket) (Unl).gbc" size="262144" crc="66af8f9e" md5="ae74b0c434f0097cfd674a66d47062cc" sha1="1d1f073fef78599f8074c80c24a1b8ea72f78361" />
 	</game>
+	<game name="Misfortune (World) (Aftermarket) (JWG.LLC)">
+		<description>Misfortune (World) (Aftermarket) (JWG.LLC)</description>
+		<rom name="Misfortune (World) (Aftermarket) (JWG.LLC).gbc" size="262144" crc="7d7c1e24" md5="196d91b2f46320f9854b4b49e1c2b554" sha1="b557ace3426b4ab5aa32fc7894b4d39c8af0e554" status="none" />
+	</game>
 	<game name="Mist, The (World) (v1.3.3) (Aftermarket) (Unl)">
 		<description>Mist, The (World) (v1.3.3) (Aftermarket) (Unl)</description>
 		<rom name="Mist, The (World) (v1.3.3) (Aftermarket) (Unl).gbc" size="524288" crc="f088ffbd" md5="dafb6629c51cdf4bb11f9b6154321aa0" sha1="6d10498e8d7934d7b481118760fdb62469fba07b" />
@@ -282,6 +286,10 @@
 	<game name="Piropa (World) (v2.1) (Aftermarket) (sg)">
 		<description>Piropa (World) (v2.1) (Aftermarket) (sg)</description>
 		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg).gbc" size="262144" crc="a8787006" md5="6d7e36ff5900e2ce2e30854c62aa697e" sha1="e0697fdfb0509ae68c8d1ffc3e138dd65301c7e1" status="none" />
+	</game>
+	<game name="Pokemon Scarlet Version (SGB Enhanced) (World) (Aftermarket) (Game Boy Demakes)">
+		<description>Pokemon Scarlet Version (SGB Enhanced) (World) (Aftermarket) (Game Boy Demakes)</description>
+		<rom name="Pokemon Scarlet Version (SGB Enhanced) (World) (Aftermarket) (Game Boy Demakes).gbc" size="1048576" crc="649d0a5d" md5="0372f45c3e45e709ecbe7928c8526ebe" sha1="e2d17fe8a607631053296d698ffb638275aabcf9" status="none" />
 	</game>
 	<game name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)">
 		<description>Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)</description>
@@ -346,6 +354,10 @@
 	<game name="Snout (World) (Demo) (v1.3) (Aftermarket) (GB Studio) (Saan Games)">
 		<description>Snout (World) (Demo) (v1.3) (Aftermarket) (GB Studio) (Saan Games)</description>
 		<rom name="Snout (World) (Demo) (v1.3) (Aftermarket) (GB Studio) (Saan Games).gbc" size="524288" crc="2fc1e292" md5="fe7e85cad9b02e8e0f7d9c17aebcff30" sha1="52f54d4bef5dcd94f8dd4171bfd7d8b50a3a96e3" status="none" />
+	</game>
+	<game name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx)">
+		<description>Sonik Gem Dash (World) (Aftermarket) (BriG78cx)</description>
+		<rom name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx).gbc" size="32768" crc="f5c70b1b" md5="c8f2cce8cdf985369177548edc8ff88d" sha1="a0f2457ef22be57883d4fb643dd5a319628b7a36" status="none" />
 	</game>
 	<game name="Space Baby - The Firmament Baby (Taiwan) (Bootleg) (Aftermarket) (Unl)">
 		<description>Space Baby - The Firmament Baby (Taiwan) (Bootleg) (Aftermarket) (Unl)</description>

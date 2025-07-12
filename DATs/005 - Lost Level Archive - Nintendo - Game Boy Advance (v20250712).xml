@@ -5,12 +5,16 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20250621</version>
+		<version>v20250712</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="3D SnowTank (World) (v1.0) (Aftermarket) (3DSage)">
+		<description>3D SnowTank (World) (v1.0) (Aftermarket) (3DSage)</description>
+		<rom name="3D SnowTank (World) (v1.0) (Aftermarket) (3DSage).gba" size="233700" crc="e166f47d" md5="8ce34bf20e684a0b35ad2bc14e81c6ce" sha1="797d67f54b009dffc69b042ce17fa3a908933e44" status="none" />
+	</game>
 	<game name="Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl)">
 		<description>Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl).gba" size="33554432" crc="17e5586a" md5="885afa63766831dae4f8379999d99bdc" sha1="1151d4df2761384528fecd47a7ef1a32de93fb44" />
@@ -46,6 +50,10 @@
 	<game name="Celeste (World) (v1.1 Beta) (Aftermarket) (Unl)">
 		<description>Celeste (World) (v1.1 Beta) (Aftermarket) (Unl)</description>
 		<rom name="Celeste (World) (v1.1 Beta) (Aftermarket) (Unl).gba" size="1049632" crc="093e3f81" md5="b80cc711be05a40a2707fbf8027f120e" sha1="28e06f2cf9782a68a2fe17fabdab95ef91212d6e" />
+	</game>
+	<game name="Celeste Classic 2 (World) (v1.0) (Aftermarket) (Skaleee)">
+		<description>Celeste Classic 2 (World) (v1.0) (Aftermarket) (Skaleee)</description>
+		<rom name="Celeste Classic 2 (World) (v1.0) (Aftermarket) (Skaleee).gba" size="4506328" crc="069607d0" md5="c54284810931820a1b3e9e86b7aac6f1" sha1="19dc1dd4e53722dc64cd1e7f97847b4cabf2f658" status="none" />
 	</game>
 	<game name="Chocobo World Deluxe (World) (v1.01) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl)">
 		<description>Chocobo World Deluxe (World) (v1.01) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl)</description>
@@ -363,6 +371,10 @@
 		<description>They See Me Rollin' (World) (Kiwijam 2021) (Aftermarket) (Unl)</description>
 		<rom name="They See Me Rollin' (World) (Kiwijam 2021) (Aftermarket) (Unl).gba" size="866472" crc="1ad5ddfe" md5="1462d70092d98d8f7560948bcaf1c46b" sha1="f72a407f913d0966130e2f9642d6d1c1fc4587f7" />
 	</game>
+	<game name="Three Tribes (World) (Demo) (Aftermarket) (Unl)">
+		<description>Three Tribes (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Three Tribes (World) (Demo) (Aftermarket) (Unl).gba" size="4114216" crc="dde18fe2" md5="b4f1e01727a0dc2926b94d22914f08b4" sha1="1088c6909ad589dd90ead596ede35c5543a8ab9c" status="none" />
+	</game>
 	<game name="Thinking With Boxes (World) (GMTK Game Jam 2021) (Aftermarket) (Unl)">
 		<description>Thinking With Boxes (World) (GMTK Game Jam 2021) (Aftermarket) (Unl)</description>
 		<rom name="Thinking With Boxes (World) (GMTK Game Jam 2021) (Aftermarket) (Unl).gba" size="131072" crc="b3d5d73d" md5="5db9d07fc98706d0e2f89e11708dcfa7" sha1="69127756d96375d8fa0336db48416e630e8da8e0" />
@@ -526,5 +538,9 @@
 	<game name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (USA)">
 		<description>Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (USA)</description>
 		<rom name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (USA).gba" size="16777216" crc="9f64379c" md5="1df9e439464c27c5da6df24d66bd7d35" sha1="69a258f99c06db3673fa7fa701b3adeee1197404" />
+	</game>
+	<game name="Zipline Zapper (World) (Aftermarket) (3DSage)">
+		<description>Zipline Zapper (World) (Aftermarket) (3DSage)</description>
+		<rom name="Zipline Zapper (World) (Aftermarket) (3DSage).gba" size="1934808" crc="297d664b" md5="85c6ef88ad57e0af9778c68880295351" sha1="8ef671cf45d12232cc8e8292c4689082d794b468" status="none" />
 	</game>
 </datafile>

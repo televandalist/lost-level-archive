@@ -5,7 +5,7 @@
 		<id>029e</id>
 		<name>029e - Lost Level Archive - Microsoft - MSX (Extras)</name>
 		<description>Microsoft - MSX (Extras)</description>
-		<version>v20250626</version>
+		<version>v20250712</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -303,6 +303,11 @@
 		<description>Cryptogram - Anagrams Crosswords (2022) (En,Fr,It,Nl) (Amaury Carvalho) - Extras</description>
 		<rom name="Cryptogram - Anagrams Crosswords (2022) (v1.0) (Amaury Carvalho) - Manual.txt" size="2122" crc="b15631e7" md5="a737f1e4fed858925dc318e55289d1d4" sha1="c108a7841d11d1e2b4bd22f0e2c78d1bbaad8798" status="none" />
 		<rom name="Cryptogram - Anagrams Crosswords (2022) (v1.1) (Amaury Carvalho) - Manual.txt" size="2748" crc="0cd355e8" md5="3c64f6f14fbfe8d16da223c8d9a02183" sha1="5e84d50b8fe6c78485689d82f494af6606d68962" status="none" />
+	</game>
+	<game name="Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas) - Extras">
+		<description>Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas) - Extras</description>
+		<rom name="Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas) - Manual.pdf" size="5329321" crc="b2176358" md5="abfb31c6dfb549e4025836dbc3b9eb7f" sha1="6d1eb5f652dff2416ce0e6e54037714181437ce7" status="none" />
+		<rom name="Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas) - Passwords.pdf" size="21870" crc="d6d9abd4" md5="065a2be1eed5e19526eb85087a04fa91" sha1="5ed0d3e457f751134651816e4d8989e0e46af2df" status="none" />
 	</game>
 	<game name="Cure, The (2005) (XL2S Entertainment) - Extras">
 		<description>Cure, The (2005) (XL2S Entertainment) - Extras</description>
