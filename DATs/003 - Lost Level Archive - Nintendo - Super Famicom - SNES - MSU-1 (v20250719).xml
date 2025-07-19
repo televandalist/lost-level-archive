@@ -3,74 +3,14 @@
 <datafile>
 	<header>
 		<id>003</id>
-		<name>003 - Lost Level Archive - Nintendo - Super Famicom - SNES</name>
-		<description>Nintendo - Super Famicom - SNES</description>
-		<version>v20250712</version>
+		<name>003 - Lost Level Archive - Nintendo - Super Famicom - SNES - MSU-1</name>
+		<description>Nintendo - Super Famicom - SNES - MSU-1</description>
+		<version>v20250719</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="Barbie Vacation Adventure (USA) (Proto) (Hacked Header)">
-		<description>Barbie Vacation Adventure (USA) (Proto) (Hacked Header)</description>
-		<rom name="Barbie Vacation Adventure (USA) (Proto) (Hacked Header).sfc" size="1048576" crc="8CE1BA79" md5="22C61C5030CB934EBEEA07C20C9EAA49" sha1="A03B948527267DA11E908C41A41FAB69D45CA766"/>
-	</game>
-	<game name="Blackthorne (USA) (Blizzard Arcade Collection)">
-		<description>Blackthorne (USA) (Blizzard Arcade Collection)</description>
-		<rom name="Blackthorne (USA) (Blizzard Arcade Collection).sfc" size="1048576" crc="e8735614" md5="e28da89018d823d8ca709927ee1a1f4c" sha1="1d75be601dc2da495015c252a9dd4a00fdcc3c68" />
-	</game>
-	<game name="Blackthorne (USA) (LZ Patch) (Blizzard Arcade Collection)">
-		<description>Blackthorne (USA) (LZ Patch) (Blizzard Arcade Collection)</description>
-		<rom name="Blackthorne (USA) (LZ Patch) (Blizzard Arcade Collection).sfc" size="1048576" crc="c5dbd672" md5="265c44bdfa06193aedd029bbff24cfa4" sha1="52706ae99151c4cb2b2b55281d61b70b20d67f84" />
-	</game>
-	<game name="Columns (Japan) (Aftermarket) (Unl)">
-		<description>Columns (Japan) (Aftermarket) (Unl)</description>
-		<rom name="Columns (Japan) (Aftermarket) (Unl).sfc" size="524288" crc="79bab93c" md5="9d67e9f5382cbcbcad063af5f422efca" sha1="4d28d27c06c8c46cfdbd1ff409fb820904e06f81" />
-	</game>
-	<game name="Lost Vikings 2, The (USA) (Blizzard Arcade Collection)">
-		<description>Lost Vikings 2, The (USA) (Blizzard Arcade Collection)</description>
-		<rom name="Lost Vikings 2, The (USA) (Blizzard Arcade Collection).sfc" size="1048576" crc="fd18b3d1" md5="12853ccfe61ed59b6cae9eb7f082edd7" sha1="ff811ad2a30ff6db9e5212fa0bf189dfb98557de" />
-	</game>
-	<game name="Lost Vikings, The (USA) (Blizzard Arcade Collection)">
-		<description>Lost Vikings, The (USA) (Blizzard Arcade Collection)</description>
-		<rom name="Lost Vikings, The (USA) (Blizzard Arcade Collection).sfc" size="1048576" crc="df7c313a" md5="c1e4195173c9ffff6163cc323122097d" sha1="7d1c9b6bae619a5dc5aafc367b20f4b20d5d175f" />
-	</game>
-	<game name="Lost Vikings, The - Definitive Edition (USA) (Blizzard Arcade Collection)">
-		<description>Lost Vikings, The - Definitive Edition (USA) (Blizzard Arcade Collection)</description>
-		<rom name="Lost Vikings, The - Definitive Edition (USA) (Blizzard Arcade Collection).sfc" size="2097152" crc="894f8466" md5="d248a96717b9dd40cc64c381367dbd4f" sha1="9d187b911028c51b4236f0c2780602084fa30793" />
-	</game>
-	<game name="Radical Psycho Machine Racing (USA) (Blizzard Arcade Collection)">
-		<description>Radical Psycho Machine Racing (USA) (Blizzard Arcade Collection)</description>
-		<rom name="Radical Psycho Machine Racing (USA) (Blizzard Arcade Collection).sfc" size="524288" crc="98bded42" md5="ce0d5b3c897a3b31693280cf681962ac" sha1="d689cea83aab0b277eed3c84abbc5392c89fa70c" />
-	</game>
-	<game name="Rock N' Roll Racing (USA) (Blizzard Arcade Collection)">
-		<description>Rock N' Roll Racing (USA) (Blizzard Arcade Collection)</description>
-		<rom name="Rock N' Roll Racing (USA) (Blizzard Arcade Collection).sfc" size="1048576" crc="60a07658" md5="1fbc7d8acca95695f70917a5275560db" sha1="20dfc276d7cdc7ce3b77ccb857389da4386c9746" />
-	</game>
-	<game name="Rock N' Roll Racing - Definitive Edition A (USA) (Blizzard Arcade Collection)">
-		<description>Rock N' Roll Racing - Definitive Edition A (USA) (Blizzard Arcade Collection)</description>
-		<rom name="Rock N' Roll Racing - Definitive Edition A (USA) (Blizzard Arcade Collection).sfc" size="1040384" crc="b7df9eb8" md5="edd05c43178c36b1f39c9424ee53f219" sha1="c37bbf444b50dddeafcdae24d20062727749aef4" />
-	</game>
-	<game name="Rock N' Roll Racing - Definitive Edition B (USA) (Blizzard Arcade Collection)">
-		<description>Rock N' Roll Racing - Definitive Edition B (USA) (Blizzard Arcade Collection)</description>
-		<rom name="Rock N' Roll Racing - Definitive Edition B (USA) (Blizzard Arcade Collection).sfc" size="1040384" crc="2a2d41ae" md5="985fa3dda13755954ab733fce07a1201" sha1="f3a7304b292930f86e033461230ff6fdbb9379df" />
-	</game>
-	<game name="SM Choukyoushi Hitomi Vol 3.04 (Japan)">
-		<description>SM Choukyoushi Hitomi Vol 3.04 (Japan)</description>
-		<rom name="SM Choukyoushi Hitomi Vol 3.04 (Japan).sfc" size="1048576" crc="af343844" md5="ee2c7c46f95d7eea06359eed7820e4ac" sha1="2f24cc5052a84d2dba793b45fb2f885ca6fa29a3" />
-	</game>
-	<game name="SM Choukyoushi Hitomi Vol 3.10 (Japan)">
-		<description>SM Choukyoushi Hitomi Vol 3.10 (Japan)</description>
-		<rom name="SM Choukyoushi Hitomi Vol 3.10 (Japan).sfc" size="1048576" crc="2c8420ad" md5="fdd3417850ce8b17320a100b963e7c28" sha1="55a7302243b39674ba6bd12e6a3a90e8b092ca05" />
-	</game>
-	<game name="Super Mario War (USA) (Aftermarket) (Unl) (Open Source)">
-		<description>Super Mario War (USA) (Aftermarket) (Unl) (Open Source)</description>
-		<rom name="Super Mario War (USA) (Aftermarket) (Unl) (Open Source).sfc" size="393216" crc="C31DE709" md5="20CB0824AC0614F85D2B48695C32A74E" sha1="2AC135B21A03D30C4DACE54E8560F2334E5102B3"/>
-	</game>
-	<game name="Super Ring Dash Duo (World) (Aftermarket) (BriG78cx)">
-		<description>Super Ring Dash Duo (World) (Aftermarket) (BriG78cx)</description>
-		<rom name="Super Ring Dash Duo (World) (Aftermarket) (BriG78cx).sfc" size="458752" crc="74f68a75" md5="8001566de9aa7f4d3581625a854dc06a" sha1="f87a6f3cd04003c4d2f7de6c69b98af9c367c81b" status="none" />
-	</game>
 	<game name="Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)">
 		<description>Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)</description>
 		<rom name="Super Road Blaster (USA)/Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)-0.pcm" size="571976" crc="eff800a5" md5="24e9079d153873d57d7c2ee40b0ff610" sha1="679c6603b75c4e8dd506ddaea10f51ff74515cf5"/>

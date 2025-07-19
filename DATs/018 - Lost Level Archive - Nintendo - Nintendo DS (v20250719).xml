@@ -5,7 +5,7 @@
 		<id>018</id>
 		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
 		<description>Nintendo - Nintendo DS</description>
-		<version>v20250621</version>
+		<version>v20250719</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -330,6 +330,10 @@
 	<game name="Plants vs Zombies DS (World) (Beta 3) (Aftermarket) (Unl) (Suidoken77)">
 		<description>Plants vs Zombies DS (World) (Beta 3) (Aftermarket) (Unl) (Suidoken77)</description>
 		<rom name="Plants vs Zombies DS (World) (Beta 3) (Aftermarket) (Unl) (Suidoken77).nds" size="1808508" crc="7c0235cb" md5="0d91a861984e0d31edac3ec924d19920" sha1="33397b659e1812bee76d5052709b015dfe0431f6" />
+	</game>
+	<game name="PMD Explorers of Sky - Pokemon Mystery Dungeon - Special Episode 0 - In a Dark Past (v1.0) (Canete16)">
+		<description>PMD Explorers of Sky - Pokemon Mystery Dungeon - Special Episode 0 - In a Dark Past (v1.0) (Canete16)</description>
+		<rom name="PMD Explorers of Sky - Pokemon Mystery Dungeon - Special Episode 0 - In a Dark Past (v1.0) (Canete16).nds" size="245438912" crc="564e29d4" md5="8fa4ff4001fd1283a1e7cad7ebbc3c7e" sha1="0574491d567a1767dfc34111d3745acc654b2252" status="none" />
 	</game>
 	<game name="Population - Tire (World) (v2007) (Aftermarket) (Unl) (Phillip Bradbury)">
 		<description>Population - Tire (World) (v2007) (Aftermarket) (Unl) (Phillip Bradbury)</description>

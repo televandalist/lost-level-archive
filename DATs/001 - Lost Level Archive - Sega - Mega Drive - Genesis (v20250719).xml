@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20250706</version>
+		<version>v20250719</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -39,6 +39,10 @@
 		<description>Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md</description>
 		<rom name="Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md" size="524288" crc="fbb6cf49" md5="f3094cbf13e6cf5219734ce4debff5c0" sha1="2ec9ff982a7d271ceb1d92d1c551208142ea477a" />
 	</game>
+	<game name="Iron Man (World) (v1.01) (Aftermarket) (old_pirate)">
+		<description>Iron Man (World) (v1.01) (Aftermarket) (old_pirate)</description>
+		<rom name="Iron Man (World) (v1.01) (Aftermarket) (old_pirate).md" size="917504" crc="5fd1cf02" md5="42292287930bb213da54723b929b276b" sha1="5bca280816c5988f9349b70633ba8adbf707858b" status="none" />
+	</game>
 	<game name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic)">
 		<description>Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md</description>
 		<rom name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md" size="917504" crc="8eb5425e" md5="02dfa3e40d3eded3301828de44cb8e99" sha1="30df12657d6a8fbe7e1609275619f402adcd5350" />
@@ -46,6 +50,10 @@
 	<game name="Lost Vikings, The (USA) (Blizzard Arcade Collection)">
 		<description>Lost Vikings, The (USA) (Blizzard Arcade Collection)</description>
 		<rom name="Lost Vikings, The (USA) (Blizzard Arcade Collection).md" size="1048576" crc="5cc41d7b" md5="989910b5e8f26091226559764517511c" sha1="abbbc473e0641de79defbc33ad76be84af8d5a3a" />
+	</game>
+	<game name="Mai Nurse (World) (v1.02) (Aftermarket) (lunoka)">
+		<description>Mai Nurse (World) (v1.02) (Aftermarket) (lunoka)</description>
+		<rom name="Mai Nurse (World) (v1.02) (Aftermarket) (lunoka).md" size="262144" crc="fc7c2995" md5="6a31128f7fc88f49ca5787bb406d8a6b" sha1="d89c75ccaea48cc89d724f4e0184b5d248e83c0e" status="none" />
 	</game>
 	<game name="Memory (USA) (AtGames) (Bootleg)">
 		<description>Memory (USA) (AtGames) (Bootleg).md</description>

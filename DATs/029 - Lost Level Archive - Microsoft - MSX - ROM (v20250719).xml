@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250712</version>
+		<version>v20250719</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -1409,7 +1409,11 @@
 	</game>
 	<game name="Stray Cat (2009) (Imanok)">
 		<description>Stray Cat (2009) (Imanok)</description>
-		<rom name="Stray Cat (2009) (Imanok).rom" size="32768" crc="22a99a44" md5="cc4f5cb6df7f536c7451c7318a9a981d" sha1="c939da3791a6772b48be24553689ba4998244fe4" status="none" />
+		<rom name="Stray Cat (2009) (Imanok).rom" size="32768" crc="d747e596" md5="7ec014e2e04c2db1624a53096af33540" sha1="74429db0cadc79fdcf2237bb6e0f957997876740" status="none" />
+	</game>
+	<game name="Stray Cat (2009) (MSXDev '09 Edition) (Imanok)">
+		<description>Stray Cat (2009) (MSXDev '09 Edition) (Imanok)</description>
+		<rom name="Stray Cat (2009) (MSXDev '09 Edition) (Imanok).rom" size="32768" crc="22a99a44" md5="cc4f5cb6df7f536c7451c7318a9a981d" sha1="c939da3791a6772b48be24553689ba4998244fe4" status="none" />
 	</game>
 	<game name="Stupid Martians (2020) (v1.1) (Visualedu)">
 		<description>Stupid Martians (2020) (v1.1) (Visualedu)</description>
@@ -1519,6 +1523,10 @@
 		<description>Tiles of Shalom (2007) (Jipe)</description>
 		<rom name="Tiles of Shalom (2007) (Jipe).rom" size="16384" crc="a3f3608f" md5="8640c04230f72562938ed0c9b5a9b12b" sha1="43c6a757ce5ec5a221e6c0e922638f688de8fd8b" status="none" />
 	</game>
+	<game name="Tina's Adventure Island (2017) (Imanok)">
+		<description>Tina's Adventure Island (2017) (Imanok)</description>
+		<rom name="Tina's Adventure Island (2017) (Imanok).rom" size="65536" crc="41676177" md5="23f7f2d02729bdeb5668bc67860c84b8" sha1="37d3202239bca95da7585ea36bb2307b702aeb79" status="none" />
+	</game>
 	<game name="Tomb of Genghis Khan (2008) (Impulse9)">
 		<description>Tomb of Genghis Khan (2008) (Impulse9)</description>
 		<rom name="Tomb of Genghis Khan (2008) (Impulse9).rom" size="32768" crc="903d4e51" md5="f4062be10eac6746be804175efa14824" sha1="da80f0bc07cb0ed36c7c106564b5f04353eb176a" status="none" />
@@ -1545,7 +1553,11 @@
 	</game>
 	<game name="Traffic Jam (2006) (Imanok)">
 		<description>Traffic Jam (2006) (Imanok)</description>
-		<rom name="Traffic Jam (2006) (Imanok).rom" size="32768" crc="0c7929be" md5="d166f161859cbd92107ceed599e66648" sha1="0f7f55fe448d20fc65dc03c2a4f1717761671e43" status="none" />
+		<rom name="Traffic Jam (2006) (Imanok).rom" size="32768" crc="6b495c60" md5="c405d4af33c77cc902211b9308031449" sha1="e6af71c99290b6ff2da9d3667e2046651e2c9fca" status="none" />
+	</game>
+	<game name="Traffic Jam (2006) (MSXDev '06 Edition) (Imanok)">
+		<description>Traffic Jam (2006) (MSXDev '06 Edition) (Imanok)</description>
+		<rom name="Traffic Jam (2006) (MSXDev '06 Edition) (Imanok).rom" size="32768" crc="0c7929be" md5="d166f161859cbd92107ceed599e66648" sha1="0f7f55fe448d20fc65dc03c2a4f1717761671e43" status="none" />
 	</game>
 	<game name="Tragaperras (2005) (Jordi Sala Clara)">
 		<description>Tragaperras (2005) (Jordi Sala Clara)</description>
