@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250719</version>
+		<version>v20250721</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -995,9 +995,13 @@
 		<description>Open Wide! (2021) (v1.0) (Hakogame)</description>
 		<rom name="Open Wide! (2021) (v1.0) (Hakogame).rom" size="131072" crc="286a11a6" md5="21f251f431e1919c617758f9f6eef15d" sha1="6c31e335447f6e7e1be2e34286c495b6cbef696c" status="none" />
 	</game>
-	<game name="Operation Wolf (2006) (Toybox)">
-		<description>Operation Wolf (2006) (Toybox)</description>
-		<rom name="Operation Wolf (2006) (Toybox).rom" size="32768" crc="e9492c87" md5="d2bc5ad7913a0b2583496dc9ec5c60e1" sha1="366cc928a5dd5948bf6cf2ab1e00efcb2b6a8fd8" status="none" />
+	<game name="Operation Wolf (2006) (v1.0) (Toybox)">
+		<description>Operation Wolf (2006) (v1.0) (Toybox)</description>
+		<rom name="Operation Wolf (2006) (v1.0) (Toybox).rom" size="32768" crc="e9492c87" md5="d2bc5ad7913a0b2583496dc9ec5c60e1" sha1="366cc928a5dd5948bf6cf2ab1e00efcb2b6a8fd8" status="none" />
+	</game>
+	<game name="Operation Wolf (2006) (v3.0) (Toybox)">
+		<description>Operation Wolf (2006) (v3.0) (Toybox)</description>
+		<rom name="Operation Wolf (2006) (v3.0) (Toybox).rom" size="49152" crc="94a0f409" md5="830e458d559fc40db76426f23892c3c8" sha1="6287c1f05ea958e1abe86b87de073bef50977478" status="none" />
 	</game>
 	<game name="Oregon Trail, The (2020) (Cobinee) (En) (jltursan)">
 		<description>Oregon Trail, The (2020) (Cobinee) (En) (jltursan)</description>
