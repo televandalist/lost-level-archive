@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250712</version>
+		<version>v20250722</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -228,6 +228,10 @@
 	<game name="GB Paint (World) (Aftermarket) (Unl)">
 		<description>GB Paint (World) (Aftermarket) (Unl)</description>
 		<rom name="GB Paint (World) (Aftermarket) (Unl).gb" size="131072" crc="2c77d091" md5="e5c30dd277d746345269b868f8f5eae1" sha1="7b1e27b76ffe563c5772000f60ad3dc2de0a54c3" />
+	</game>
+	<game name="GSPS - The Game (Poland) (v1.0) (Aftermarket) (zachariasz455)">
+		<description>GSPS - The Game (Poland) (v1.0) (Aftermarket) (zachariasz455)</description>
+		<rom name="GSPS - The Game (Poland) (v1.0) (Aftermarket) (zachariasz455).gb" size="524288" crc="8045c88e" md5="df77829789b41cc5be505e8cdce80ce1" sha1="2c32a0199d53b750c57dfa5fac4f862bf92812c7" status="none" />
 	</game>
 	<game name="Halo - Combat Devolved (World) (Aftermarket) (GB Studio)">
 		<description>Halo - Combat Devolved (World) (Aftermarket) (GB Studio)</description>
@@ -492,6 +496,10 @@
 	<game name="Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl)">
 		<description>Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl)</description>
 		<rom name="Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl).gb" size="262144" crc="68c0b424" md5="7911e724513a044fed0ed9fe4a8bb4aa" sha1="4f6c27566f5824c3c6fc3712e91526781cd1ebcb" />
+	</game>
+	<game name="Uma Musume Delish Derby (World) (Aftermarket) (shiki)">
+		<description>Uma Musume Delish Derby (World) (Aftermarket) (shiki)</description>
+		<rom name="Uma Musume Delish Derby (World) (Aftermarket) (shiki).gb" size="524288" crc="f49053b1" md5="a6d142742d41b624217123bd020f8391" sha1="fedcaf30b093d4a7cb68f4b155ecb4a5e0ae4d91" status="none" />
 	</game>
 	<game name="Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo)">
 		<description>Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo)</description>

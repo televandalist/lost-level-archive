@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250721</version>
+		<version>v20250722</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -134,6 +134,10 @@
 	<game name="Binary Battle (2024) (v1.0) (Haplo)">
 		<description>Binary Battle (2024) (v1.0) (Haplo)</description>
 		<rom name="Binary Battle (2024) (v1.0) (Haplo).rom" size="32768" crc="92be4f86" md5="c32b647d59afc52c34a6192de612ca1f" sha1="a88d2ab90d54c6ff33ef925c4bf49fd0ec8117ac" status="none" />
+	</game>
+	<game name="Binary Battle (2024) (v1.1) (Haplo)">
+		<description>Binary Battle (2024) (v1.1) (Haplo)</description>
+		<rom name="Binary Battle (2024) (v1.1) (Haplo).rom" size="32768" crc="92be4f86" md5="c32b647d59afc52c34a6192de612ca1f" sha1="a88d2ab90d54c6ff33ef925c4bf49fd0ec8117ac" status="none" />
 	</game>
 	<game name="Bird &amp; Chairs (2017) (N.I.)">
 		<description>Bird &amp; Chairs (2017) (N.I.)</description>
