@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20250719</version>
+		<version>v20250725</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -166,6 +166,10 @@
 	<game name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)">
 		<description>Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)</description>
 		<rom name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK).iso" size="1459978240" crc="ee2d9408" md5="6dff46ace2b4d59c4b82a84b3e6af653" sha1="a5477ef566185956dbdfe77e712eb718b53e3ad4" />
+	</game>
+	<game name="Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia)">
+		<description>Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia)</description>
+		<rom name="Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia).iso" size="1459978240" crc="e6977a63" md5="8252729b0d37999fcb39534f68010d80" sha1="d925bdd4d58f346c492eed442f7e40fede071f42" status="none" />
 	</game>
 	<game name="Super Sponge Ball (v1.1) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
 		<description>Super Sponge Ball (v1.1) (Eyepie)</description>

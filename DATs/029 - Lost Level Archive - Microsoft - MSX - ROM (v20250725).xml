@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250722</version>
+		<version>v20250725</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -1630,6 +1630,10 @@
 	<game name="Where Is It - The Quest for the 10th Island (2021) (v1.0) (Ricco59)">
 		<description>Where Is It - The Quest for the 10th Island (2021) (v1.0) (Ricco59)</description>
 		<rom name="Where Is It - The Quest for the 10th Island (2021) (v1.0) (Ricco59).rom" size="32768" crc="e1abcfb8" md5="56544155f910e8edd851c52836517a18" sha1="0e6c12f499357ce22ceac909cae730eee63ac1e3" status="none" />
+	</game>
+	<game name="Who Dares Wins (2016) (MSX2) (RetroForce)">
+		<description>Who Dares Wins (2016) (MSX2) (RetroForce)</description>
+		<rom name="Who Dares Wins (2016) (MSX2) (RetroForce).rom" size="262144" crc="ba806b22" md5="5bec2f26c5e87a51c1d86352a5896c07" sha1="4ebd62ae6a43846de266c193b92c962e464e4a6f" status="none" />
 	</game>
 	<game name="Wing Warriors (2015) (EGS, Kitmaker)">
 		<description>Wing Warriors (2015) (EGS, Kitmaker)</description>

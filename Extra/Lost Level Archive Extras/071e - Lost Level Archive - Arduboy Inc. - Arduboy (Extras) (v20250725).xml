@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>071e</id>
+		<name>071e - Lost Level Archive - Arduboy Inc. - Arduboy (Extras)</name>
+		<description>Arduboy Inc. - Arduboy (Extras)</description>
+		<version>v20250725</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Expanse, The - The Edium Gambit (World) (v1.0) (fezzik21) - Extras">
+		<description>Expanse, The - The Edium Gambit (World) (v1.0) (fezzik21) - Extras</description>
+		<rom name="Expanse, The - The Edium Gambit (World) (v1.0) (fezzik21) - Manual.pdf" size="872007" crc="685fec10" md5="b318f41606bdeaa22f5d10ea131dd533" sha1="e967f2345e4f4a2123025ed46058cb0d4fed97b3" status="none" />
+	</game>
+</datafile>

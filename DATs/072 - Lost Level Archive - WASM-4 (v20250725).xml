@@ -5,7 +5,7 @@
 		<id>072</id>
 		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20250712</version>
+		<version>v20250725</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -143,6 +143,10 @@
 		<description>Hammer Joe (World) (Proto) (MFauzan26)</description>
 		<rom name="Hammer Joe (World) (Proto) (MFauzan26).wasm" size="64585" crc="F1A84897" md5="2958DA4A49628A5C0E85E9C0FBFCD148" Sha1="4F0D2593246BB7490FBFFA2A9284FE850EF0B1F7"/>
 	</game>
+	<game name="Hero of the Woods (World) (BigRobCoder)">
+		<description>Hero of the Woods (World) (BigRobCoder)</description>
+		<rom name="Hero of the Woods (World) (BigRobCoder).wasm" size="44662" crc="cb1126d2" md5="f24413666365c9db9ea87a3e8c0a583b" sha1="6e438875444b1c7b13b4b836c31663987fefb466" status="none" />
+	</game>
 	<game name="Hills in the Moonlight (World) (Samarth Hattangady)">
 		<description>Hills in the Moonlight (World) (Samarth Hattangady)</description>
 		<rom name="Hills in the Moonlight (World) (Samarth Hattangady).wasm" size="24053" crc="141DC6FC" md5="4673CEA750A5FF8BAC1D801305ADE94B" Sha1="EC8CE62DDD27B042831EC83D34CCCD97E2996009"/>
@@ -254,6 +258,10 @@
 	<game name="PING (World) (v0.5.0) (Cannon Tuttle)">
 		<description>PING (World) (v0.5.0) (Cannon Tuttle)</description>
 		<rom name="PING (World) (v0.5.0) (Cannon Tuttle).wasm" size="28964" crc="4F6FED00" md5="3370A22853130E7D7790E851E36B45C2" Sha1="F7C323F2F14CB5BC3CBE5263E2EA66C7D141D98B"/>
+	</game>
+	<game name="Pixel vs Zombies (World) (Vitor Lorençone)">
+		<description>Pixel vs Zombies (World) (Vitor Lorençone)</description>
+		<rom name="Pixel vs Zombies (World) (Vitor Lorençone).wasm" size="24290" crc="ca1f83ba" md5="973c5e969ba18229376ebe6e8420fe56" sha1="46dd9cd3c47acc745849b76934792851393306fb" status="none" />
 	</game>
 	<game name="Plasma Cube (World) (unnick)">
 		<description>Plasma Cube (World) (unnick)</description>

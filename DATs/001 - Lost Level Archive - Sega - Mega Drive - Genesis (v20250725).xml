@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20250719</version>
+		<version>v20250725</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -86,6 +86,10 @@
 	<game name="Sonic Delta 40Mb (v0.64) (Neto)">
 		<description>Sonic Delta 40Mb (v0.64) (Neto).md</description>
 		<rom name="Sonic Delta 40Mb (v0.64) (Neto).md" size="5242880" crc="787369b0" md5="76777d3a0e62a05557c4d91f5d593d2f" sha1="ff849f23ac7cbf498b5b2259e3b44da401da8b14" />
+	</game>
+	<game name="Sonic the Hedgehog 3 - Paramount Promotional Cart (USA) (Aftermarket)">
+		<description>Sonic the Hedgehog 3 - Paramount Promotional Cart (USA) (Aftermarket)</description>
+		<rom name="Sonic the Hedgehog 3 - Paramount Promotional Cart (USA) (Aftermarket).md" size="4194304" crc="f9881aae" md5="2886958811c81211174184d6fa874797" sha1="691894261033cef1936a2ad9ef594e30241c7e0b" status="none" />
 	</game>
 	<game name="Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ1 Restored)">
 		<description>Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ1 Restored).md</description>
