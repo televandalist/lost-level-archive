@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - CAS</name>
 		<description>Microsoft - MSX - CAS</description>
-		<version>v20250626</version>
+		<version>v20250726</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,6 +14,10 @@
 	<game name="Fantastic Football (2021) (v1.0) (Zoran Majcenić, Daniel Simon)">
 		<description>Fantastic Football (2021) (v1.0) (Zoran Majcenić, Daniel Simon)</description>
 		<rom name="Fantastic Football (2021) (v1.0) (Zoran Majcenić, Daniel Simon).cas" size="40079" crc="97a28b15" md5="64f4dca99c0b29f25b3c541d7327c47d" sha1="c5c601bb6de2b37fbb4339f670b5269c8ea5fa63" status="none" />
+	</game>
+	<game name="Pentagram (1986) (A.C.G.) [BLOAD'CAS-',R]">
+		<description>Pentagram (1986) (A.C.G.) [BLOAD'CAS-',R]</description>
+		<rom name="Pentagram (1986) (A.C.G.) [BLOAD'CAS-',R].cas" size="40209" crc="1d0fe2a6" md5="f5c81b3dbc4f25ec5216f1a434fb6fc9" sha1="363b5a70d6f7b54ac47bc19b27f57b7712a08855" status="none" />
 	</game>
 	<game name="Spellbound (2023) (Mastropiero)">
 		<description>Spellbound (2023) (Mastropiero)</description>
