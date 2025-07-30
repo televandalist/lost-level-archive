@@ -140,6 +140,14 @@
 		<description>Grey Wolf (2017) (Oniric Factor)</description>
 		<rom name="Grey Wolf (2017) (Oniric Factor).dsk" size="737280" crc="4b9ab81a" md5="c3c9f5295982364f4ca20052b64d2546" sha1="4146e53e21b2bc8c41d96e44c8197a911097b985" status="none" />
 	</game>
+	<game name="Hibernated 1 (2018) (R17) (Stefan Vogt)">
+		<description>Hibernated 1 (2018) (R17) (Stefan Vogt)</description>
+		<rom name="Hibernated 1 (2018) (R17) (Stefan Vogt).dsk" size="737280" crc="5537ac45" md5="7597aa9a457192db4efdfe7fec26be53" sha1="a57d4d00f9a4006a823ee724b67f54aa63cc5583" status="none" />
+	</game>
+	<game name="Hibernated 1 - Director's Cut (2020) (R13) (Stefan Vogt)">
+		<description>Hibernated 1 - Director's Cut (2020) (R13) (Stefan Vogt)</description>
+		<rom name="Hibernated 1 - Director's Cut (2020) (R13) (Stefan Vogt).dsk" size="737280" crc="309689fc" md5="4bc16574f8a748f46438f84dd9880583" sha1="34c17f8c4e93d10e17d857b7e43c4bf65896ee0b" status="none" />
+	</game>
 	<game name="Hopper Boy (2023) (v1.2) (Gamecast)">
 		<description>Hopper Boy (2023) (v1.2) (Gamecast)</description>
 		<rom name="Hopper Boy (2023) (v1.2) (Gamecast).dsk" size="737280" crc="ca8e465b" md5="2d9ed7379d43f71a805ef3a882794fe5" sha1="c642d32d36c665ebdfd7bcf2966eb3370200eb32" status="none" />
