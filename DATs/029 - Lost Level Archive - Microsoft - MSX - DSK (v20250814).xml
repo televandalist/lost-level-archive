@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - DSK</name>
 		<description>Microsoft - MSX - DSK</description>
-		<version>v20250626</version>
+		<version>v20250814</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -205,6 +205,10 @@
 	<game name="Memory (2022) (v1.1) (Jipe)">
 		<description>Memory (2022) (v1.1) (Jipe)</description>
 		<rom name="Memory (2022) (v1.1) (Jipe).dsk" size="368640" crc="4da3d058" md5="52b7191cc108e7d2b0b3ebc55a77af22" sha1="d34a8903c6cdcbe0f749e93baaca1cc12a90e2ad" status="none" />
+	</game>
+	<game name="Memory Lane (2023) (ComSha)">
+		<description>Memory Lane (2023) (ComSha)</description>
+		<rom name="Memory Lane (2023) (ComSha).dsk" size="737280" crc="2ab4b5f6" md5="f8632919d4c5833985cd2ff82be40aaa" sha1="19067c899a6a4b04d7740e110968ca9438694e84" status="none" />
 	</game>
 	<game name="Micro Rocketz (2022) (v1.0) (Troll Soft)">
 		<description>Micro Rocketz (2022) (v1.0) (Troll Soft)</description>

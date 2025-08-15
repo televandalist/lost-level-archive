@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250722</version>
+		<version>v20250814</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -68,6 +68,14 @@
 	<game name="Birb (World) (v2021-03-31) (Aftermarket) (GB Studio)">
 		<description>Birb (World) (v2021-03-31) (Aftermarket) (GB Studio)</description>
 		<rom name="Birb (World) (v2021-03-31) (Aftermarket) (GB Studio).gb" size="1048576" crc="8e2d9920" md5="f8a3c6f327dd48ec541560b2d52d40b9" sha1="6071c7b78fff9e852b30260a26ac576ff4ac2022" />
+	</game>
+	<game name="Birdie Bartender (World) (v1.1) (Aftermarket) (GB Studio)">
+		<description>Birdie Bartender (World) (v1.1) (Aftermarket) (GB Studio)</description>
+		<rom name="Birdie Bartender (World) (v1.1) (Aftermarket) (GB Studio).gb" size="262144" crc="375d65fb" md5="2687e4b071cd74879de2c1384dc984ad" sha1="60f39050f5792427d4fbe40d83e0ba70fed0c096" status="none" />
+	</game>
+	<game name="Birdie Bartender (World) (v1.2) (Aftermarket) (Unl)">
+		<description>Birdie Bartender (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Birdie Bartender (World) (v1.2) (Aftermarket) (Unl).gb" size="262144" crc="30abbe05" md5="d7cd156ef19534ec9353fa016b391395" sha1="893f6d9748d16197ec70b078e924dcbaaed29a5e" status="none" />
 	</game>
 	<game name="Buddy Book Battle (World) (GB Showdown 2023) (Aftermarket) (Unl)">
 		<description>Buddy Book Battle (World) (GB Showdown 2023) (Aftermarket) (Unl)</description>

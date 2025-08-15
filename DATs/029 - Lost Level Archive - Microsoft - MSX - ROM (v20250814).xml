@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250725</version>
+		<version>v20250814</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -403,6 +403,10 @@
 		<description>Double Rainbow (2023) (v1.1) (Hakogame)</description>
 		<rom name="Double Rainbow (2023) (v1.1) (Hakogame).rom" size="131072" crc="46f900eb" md5="4cb18594e4c2f7e2e8209c513d6465af" sha1="0e4ffc476d335bb97a78d3407f909bd214797bd6" status="none" />
 	</game>
+	<game name="Dr. Hello (Korea) (1991) (Sis Co.)">
+		<description>Dr. Hello (Korea) (1991) (Sis Co.)</description>
+		<rom name="Dr. Hello (Korea) (1991) (Sis Co.).rom" size="32768" crc="cf5a9b92" md5="3196bf9713c2625023d3dca66337f313" sha1="872937bc37540b3152e050e3a318a660d8f9d7c9" status="none" />
+	</game>
 	<game name="Dr. Pill (2009) (Infinite)">
 		<description>Dr. Pill (2009) (Infinite)</description>
 		<rom name="Dr. Pill (2009) (Infinite).rom" size="131072" crc="27ff4efd" md5="3bc98735729df0cf150d0aaef0bdfcc8" sha1="fe192b900c12b5dfaf59f022e57e17a4d2738623" status="none" />
@@ -414,6 +418,10 @@
 	<game name="Dreams Puzzle (2018) (v1.0) (Mapax)">
 		<description>Dreams Puzzle (2018) (v1.0) (Mapax)</description>
 		<rom name="Dreams Puzzle (2018) (v1.0) (Mapax).rom" size="4194304" crc="ba443ce9" md5="dcf1b323f14121293b232172a9b3c949" sha1="ddeb8d9903c2ef90360fcf385e20e4e02e334b76" status="none" />
+	</game>
+	<game name="Droids en el Planeta Ingo (Spain) (1987) (Walther Miller)">
+		<description>Droids en el Planeta Ingo (Spain) (1987) (Walther Miller)</description>
+		<rom name="Droids en el Planeta Ingo (Spain) (1987) (Walther Miller).rom" size="32768" crc="8f719431" md5="580e3b618990eaaf1c06553550e0ff62" sha1="3b09ad0f8bd590e0e202e5b3e4dfd347d90043af" status="none" />
 	</game>
 	<game name="Drop of Abu - Cymbel, The (2024) (v1.0) (En) (joesg)">
 		<description>Drop of Abu - Cymbel, The (2024) (v1.0) (En) (joesg)</description>
@@ -1634,6 +1642,10 @@
 	<game name="Who Dares Wins (2016) (MSX2) (RetroForce)">
 		<description>Who Dares Wins (2016) (MSX2) (RetroForce)</description>
 		<rom name="Who Dares Wins (2016) (MSX2) (RetroForce).rom" size="262144" crc="ba806b22" md5="5bec2f26c5e87a51c1d86352a5896c07" sha1="4ebd62ae6a43846de266c193b92c962e464e4a6f" status="none" />
+	</game>
+	<game name="Wicket el Ewok (Spain) (1987) (Walther Miller)">
+		<description>Wicket el Ewok (Spain) (1987) (Walther Miller)</description>
+		<rom name="Wicket el Ewok (Spain) (1987) (Walther Miller).rom" size="32768" crc="d42e3740" md5="f32d5d24d218a9813ea86aae08c78c73" sha1="ef6f0db4c9858a96f9a83cda414112087ad64b78" status="none" />
 	</game>
 	<game name="Wing Warriors (2015) (EGS, Kitmaker)">
 		<description>Wing Warriors (2015) (EGS, Kitmaker)</description>

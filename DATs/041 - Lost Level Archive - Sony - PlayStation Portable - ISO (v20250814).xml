@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20250524</version>
+		<version>v20250814</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -142,6 +142,10 @@
 	<game name="Phantasy Star Portable 2 Infinity (Japan) (En) (v2.0) (Weyu)">
 		<description>Phantasy Star Portable 2 Infinity (Japan) (En) (v2.0) (Weyu)</description>
 		<rom name="Phantasy Star Portable 2 Infinity (Japan) (En) (v2.0) (Weyu).iso" size="1735034880" crc="8d39476e" md5="1253deaef30ed3de86e0de38f950b52d" sha1="26897ed153eed3dd42d270ccbc73bc452a4ba83f" />
+	</game>
+	<game name="Plants vs. Zombies (World) (Demo) (v0.7.0) (AlexDev2)">
+		<description>Plants vs. Zombies (World) (Demo) (v0.7.0) (AlexDev2)</description>
+		<rom name="Plants vs. Zombies (World) (Demo) (v0.7.0) (AlexDev2).iso" size="143949824" crc="d7e43c8f" md5="05b4e96e082a3608da5ba6eefec42e1a" sha1="8d4dff527a4f2b33be2c350cf6a57eedaa641b35" status="none" />
 	</game>
 	<game name="SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95)">
 		<description>SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95)</description>

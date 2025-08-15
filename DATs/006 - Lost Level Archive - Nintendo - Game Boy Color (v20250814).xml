@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250712</version>
+		<version>v20250814</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -406,6 +406,10 @@
 	<game name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)">
 		<description>Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)</description>
 		<rom name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl).gbc" size="32768" crc="210bce6a" md5="509a9b53e45415fa404b1f8c334e2f5b" sha1="5432978ad0ea805e9b807a87ddb6baabb73733d8" />
+	</game>
+	<game name="Wrestling - Thunder City (World) (Final Demo) (Aftermarket) (Unl)">
+		<description>Wrestling - Thunder City (World) (Final Demo) (Aftermarket) (Unl)</description>
+		<rom name="Wrestling - Thunder City (World) (Final Demo) (Aftermarket) (Unl).gbc" size="2097152" crc="8c99c596" md5="95f3d688929fc9dda4e95a0f6a5d31ff" sha1="7ef504e02428013c0761551234544b80bbafda01" status="none" />
 	</game>
 	<game name="Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)">
 		<description>Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)</description>

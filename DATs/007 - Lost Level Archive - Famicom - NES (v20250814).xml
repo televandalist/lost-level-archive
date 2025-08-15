@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250712</version>
+		<version>v20250814</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -66,6 +66,10 @@
 	<game name="King of Fighters R2, The (China) (Bootleg) (Unl)">
 		<description>King of Fighters R2, The (China) (Bootleg) (Unl)</description>
 		<rom name="King of Fighters R2, The (China) (Bootleg) (Unl).nes" size="524304" crc="b32b068c" md5="af0e68f2d25a803d70282bdd52331db8" sha1="93c06eabb62bd622900213b0b3566b40bc244a21" />
+	</game>
+	<game name="Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl)">
+		<description>Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl).nes" size="786448" crc="604b7fb1" md5="1216024cdff098ebc3f4e3f1becf1804" sha1="814aeba26b4df2497f47771e97e5ef5bfb6e6272" status="none" />
 	</game>
 	<game name="Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg)">
 		<description>Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg)</description>

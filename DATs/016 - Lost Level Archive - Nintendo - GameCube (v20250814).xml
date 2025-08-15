@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20250725</version>
+		<version>v20250814</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -30,6 +30,10 @@
 	<game name="Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ)">
 		<description>Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ)</description>
 		<rom name="Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ).iso" size="1102137344" crc="c15ab5f1" md5="9ddce0cc0c508c63e2bfbf0c4c7515bd" sha1="eb83ab9ecffe760be2c60f0f9c9912a573164809" />
+	</game>
+	<game name="Mario Kart - Double Dash!! Plus (v3.3) (That1loser4)">
+		<description>Mario Kart - Double Dash!! Plus (v3.3) (That1loser4)</description>
+		<rom name="Mario Kart - Double Dash!! Plus (v3.3) (That1loser4).iso" size="1074593792" crc="e3accee4" md5="5d3a850ff6d41a7d2b8eec3d67acfd00" sha1="cf71db16c4babe77a34918c70fe20114029edabf" status="none" />
 	</game>
 	<game name="MKDD - Mario Kart Double Dash Extended (v2.0) (M64)">
 		<description>MKDD - Mario Kart Double Dash Extended (v2.0) (M64)</description>
@@ -126,6 +130,10 @@
 	<game name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)">
 		<description>SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)</description>
 		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks).iso" size="1459978240" crc="f83c34ed" md5="6fa091ffe7e0bed1fbaee64b08ca0c8e" sha1="c4aab132aa19bc9b8925a0e241b63bf6db4e9b22" />
+	</game>
+	<game name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks)">
+		<description>SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks)</description>
+		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks).iso" size="1459978240" crc="f83c34ed" md5="6fa091ffe7e0bed1fbaee64b08ca0c8e" sha1="c4aab132aa19bc9b8925a0e241b63bf6db4e9b22" status="none" />
 	</game>
 	<game name="Sonic Riders DX (v2.1) (Extreme Gear Labs)" cloneof="Sonic Riders (USA) (En,Ja,Fr,De,Es,It)">
 		<description>Sonic Riders DX (v2.1) (Extreme Gear Labs)</description>

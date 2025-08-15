@@ -5,7 +5,7 @@
 		<id>071</id>
 		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy</name>
 		<description>Arduboy Inc. - Arduboy</description>
-		<version>v20250725</version>
+		<version>v20250801</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -18,18 +18,6 @@
 	<game name="Arduventure - Trail of the Blade (World) (Team A.R.G.)">
 		<description>Arduventure - Trail of the Blade (World) (Team A.R.G.)</description>
 		<rom name="Arduventure - Trail of the Blade (World) (Team A.R.G.).hex" size="77225" crc="5274a6b7" md5="bd401331c603e6a8363617c6021d5805" sha1="e6d2410798fcb39a3f1ce687324e826b4c575345" />
-	</game>
-	<game name="Bytes and Knights (World) (v2.0) (crait)">
-		<description>Bytes and Knights (World) (v2.0) (crait)</description>
-		<rom name="Bytes and Knights (World) (v2.0) (crait).arduboy" size="376059" crc="8a8352d4" md5="09ea58eaaa1f6a594dba131554455635" sha1="8490c91edd1344fcd75ea093f130552e634d739e" />
-	</game>
-	<game name="Bytes and Knights (World) (v3.1) (crait)">
-		<description>Bytes and Knights (World) (v3.1) (crait)</description>
-		<rom name="Bytes and Knights (World) (v3.1) (crait).arduboy" size="382957" crc="bca786a9" md5="c4d4d10373319d98a1b2b4154ab4d9ac" sha1="48932b6599ba31bb5d69a329cfa30b498778a43c" />
-	</game>
-	<game name="Dazzle Dash (World) (brow1067)">
-		<description>Dazzle Dash (World) (brow1067)</description>
-		<rom name="Dazzle Dash (World) (brow1067).arduboy" size="152635" crc="1a3db98c" md5="4984c896c64c94dac7f13421602c94a3" sha1="0dd113de9bc80bebfed5da155ac5686220d84c6a" />
 	</game>
 	<game name="Dice of Fate (World) (Team A.R.G.)">
 		<description>Dice of Fate (World) (Team A.R.G.)</description>
@@ -66,10 +54,6 @@
 	<game name="Rick Ardurous (World) (lswbanban)">
 		<description>Rick Ardurous (World) (lswbanban)</description>
 		<rom name="Rick Ardurous (World) (lswbanban).hex" size="79095" crc="732afb2e" md5="53d0a8eaf9e76424f23bb0d86a41923e" sha1="ea2db821022bd290ca21fb84a980425f6e368218" />
-	</game>
-	<game name="Siren's Last Call (World) (v1.0.0) (poevoid)">
-		<description>Siren's Last Call (World) (v1.0.0) (poevoid)</description>
-		<rom name="Siren's Last Call (World) (v1.0.0) (poevoid).arduboy" size="70031" crc="26040df1" md5="96cca0f0a0daa54c8b523726ee217109" sha1="c13cd6c82b1ad96cf203a3c3130e9eacb2ae08a3" status="none" />
 	</game>
 	<game name="Sliding Tiles (World) (Pharap)">
 		<description>Sliding Tiles (World) (Pharap)</description>
