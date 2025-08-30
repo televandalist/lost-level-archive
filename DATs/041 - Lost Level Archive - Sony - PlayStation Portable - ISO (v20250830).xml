@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20250814</version>
+		<version>v20250830</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -146,6 +146,10 @@
 	<game name="Plants vs. Zombies (World) (Demo) (v0.7.0) (AlexDev2)">
 		<description>Plants vs. Zombies (World) (Demo) (v0.7.0) (AlexDev2)</description>
 		<rom name="Plants vs. Zombies (World) (Demo) (v0.7.0) (AlexDev2).iso" size="143949824" crc="d7e43c8f" md5="05b4e96e082a3608da5ba6eefec42e1a" sha1="8d4dff527a4f2b33be2c350cf6a57eedaa641b35" status="none" />
+	</game>
+	<game name="Plants vs. Zombies (World) (v1.0) (Aftermarket) (AlexDev2)">
+		<description>Plants vs. Zombies (World) (v1.0) (Aftermarket) (AlexDev2)</description>
+		<rom name="Plants vs. Zombies (World) (v1.0) (Aftermarket) (AlexDev2).iso" size="145260544" crc="eb785fa8" md5="347d47ad2bad86d5e4b8013b514b94fe" sha1="5af795390c6f13976676b7695f7078b6aafdd4b3" status="none" />
 	</game>
 	<game name="SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95)">
 		<description>SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95)</description>

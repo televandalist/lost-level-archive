@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250814</version>
+		<version>v20250830</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -34,6 +34,10 @@
 	<game name="Celeste (USA) (PICO-8 Port) (Aftermarket) (iProgramInCpp)">
 		<description>Celeste (USA) (PICO-8 Port) (Aftermarket) (iProgramInCpp)</description>
 		<rom name="Celeste (USA) (PICO-8 Port) (Aftermarket) (iProgramInCpp).nes" size="24592" crc="98942992" md5="9f3ca43c8a2ce8da2c55199bdb511110" sha1="966aa30eac4964f2acb05a321da99acab09aac07" />
+	</game>
+	<game name="CelesteNES (World) (Demo) (Aftermarket) (Unl)">
+		<description>CelesteNES (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="CelesteNES (World) (Demo) (Aftermarket) (Unl).nes" size="262160" crc="1fd09ee3" md5="7ee65e02e9dc3c7ee12d66f103079a31" sha1="4cd56ce8fdd4b921684fe56bdcc3bec0db33d6b3" status="none" />
 	</game>
 	<game name="Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code)">
 		<description>Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code)</description>

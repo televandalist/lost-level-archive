@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250814</version>
+		<version>v20250830</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -433,9 +433,9 @@
 		<description>San Andreas on the Go (World) (v20220107) (Aftermarket) (bacalhau_seco)</description>
 		<rom name="San Andreas on the Go (World) (v20220107) (Aftermarket) (bacalhau_seco).gb" size="131072" crc="c1b80a22" md5="b5ea2f62761566b1e088f97e32d272dd" sha1="012ae848bfb93817b17f3470b19c262f1365ebbd" />
 	</game>
-	<game name="Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl)">
-		<description>Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl)</description>
-		<rom name="Senshijidaino Kyoryu - DINOPREHIS! - Beta 1997 (World) (Aftermarket) (Unl).gb" size="524288" crc="5FD53151" md5="6762619D05C36252B1DDFB67230F52F0" sha1="73CB2330F9B58A324A41F6AA85B53AB8CC946AFC"/>
+	<game name="Senshijidaino kyōryū - DINOPREHÍS! (World) (1997 Beta) (Es) (Aftermarket) (Unl)">
+		<description>Senshijidaino kyōryū - DINOPREHÍS! (World) (1997 Beta) (Es) (Aftermarket) (Unl)</description>
+		<rom name="Senshijidaino kyōryū - DINOPREHÍS! (World) (1997 Beta) (Es) (Aftermarket) (Unl).gb" size="524288" crc="5FD53151" md5="6762619D05C36252B1DDFB67230F52F0" sha1="73CB2330F9B58A324A41F6AA85B53AB8CC946AFC"/>
 	</game>
 	<game name="Sky Ace (Asia) (Multicart Rip) (Unl)">
 		<description>Sky Ace (Asia) (Multicart Rip) (Unl)</description>

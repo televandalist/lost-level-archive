@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250704</version>
+		<version>v20250830</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -140,6 +140,11 @@
 	<game name="Kingdom Hearts II - Final Mix+ (Japan) (En) (Undub) (v1.0) (Hidden Smithery))">
 		<description>Kingdom Hearts II - Final Mix+ (Japan) (En) (Undub) (v1.0) (Hidden Smithery))</description>
 		<rom name="Kingdom Hearts II - Final Mix+ (Japan) (En) (Undub) (v1.0) (Hidden Smithery)).iso" size="4783433728" crc="557798c9" md5="ed6d295af69e7847ca6f269c77cbaafe" sha1="70bc74041d54d2368a5aacbae14b1cf911b851ea" />
+	</game>
+	<game name="Mega Man X7 (USA) (Prototype) (2003-05-11)">
+		<description>Mega Man X7 (USA) (Prototype) (2003-05-11)</description>
+		<rom name="Mega Man X7 (USA) (Prototype) (2003-05-11).bin" size="532208208" crc="b5a445f3" md5="a90ba1415b79e92cc250e3c86585567e" sha1="c4bc623ae037a84d57f7841ff50dc06316f34833" status="none" />
+		<rom name="Mega Man X7 (USA) (Prototype) (2003-05-11).cue" size="123" crc="0c02e25b" md5="74f623c555d82c1be28ed8058a2a7d26" sha1="0d36f472fb5064f927fdb1514e45358dd7819058" status="none" />
 	</game>
 	<game name="Meitantei Conan - Daiei Teikoku no Isan (Japan) (En) (v1.0.0) (cynthia1412)">
 		<description>Meitantei Conan - Daiei Teikoku no Isan (Japan) (En) (v1.0.0) (cynthia1412)</description>

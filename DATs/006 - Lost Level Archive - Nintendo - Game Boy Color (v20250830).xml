@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250814</version>
+		<version>v20250830</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -222,6 +222,10 @@
 	<game name="Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)">
 		<description>Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)</description>
 		<rom name="Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl).gbc" size="524288" crc="1d758544" md5="91c3d238305f308e00fca917d996bb40" sha1="644a6409949520b1c7a654eed6a156d35967ec1c" />
+	</game>
+	<game name="Melanie and the Magic Forest (World) (v2025) (GB Compatible) (Aftermarket) (Unl)">
+		<description>Melanie and the Magic Forest (World) (v2025) (GB Compatible) (Aftermarket) (Unl)</description>
+		<rom name="Melanie and the Magic Forest (World) (v2025) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" crc="2d0b4ebf" md5="6669ba8e9dcd087124ab657c8a8ad0db" sha1="fe106123c88c965fa23304caddfbfa3f64a46a31" status="none" />
 	</game>
 	<game name="Metal Slug 2001 (China) (Bootleg) (Unl)">
 		<description>Metal Slug 2001 (China) (Bootleg) (Unl)</description>

@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250814</version>
+		<version>v20250830</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -198,6 +198,11 @@
 		<description>Mike Visor (USA) (Aftermarket) (Aionmagan)</description>
 		<rom name="Mike Visor (USA) (Aftermarket) (Aionmagan).bin" size="40252128" crc="db70c283" md5="f1be3a75abfd3b9a30d522c50f4fbbae" sha1="89403d86af691bf2b79c7cd58eb07a7592e45613" />
 		<rom name="Mike Visor (USA) (Aftermarket) (Aionmagan).cue" size="108" crc="367d8780" md5="9faead6af01fd8079a6211b4ec9e1dcd" sha1="a632a617856879af3d07e41f661c6db8c15e1e3b" />
+	</game>
+	<game name="Muppets Take to the Skies (USA) (Prototype) (2002-09-25)">
+		<description>Muppets Take to the Skies (USA) (Prototype) (2002-09-25)</description>
+		<rom name="Muppets Take to the Skies (USA) (Prototype) (2002-09-25).bin" size="12141024" crc="50a6919c" md5="7413771bb1a8767a680b5e93225e4b1e" sha1="db753d5e30f3bb35a7897e82aa0529ffb70427ea" status="none" />
+		<rom name="Muppets Take to the Skies (USA) (Prototype) (2002-09-25).cue" size="119" crc="78ef6278" md5="83b915debfa9acca1017e6b987094930" sha1="ef6142c22c9c8579965a59f84b1e28111e8edb11" status="none" />
 	</game>
 	<game name="Net Yaroze - 2019 Mini Compilation (NTSC) (Aftermarket) (Unl)">
 		<description>Net Yaroze - 2019 Mini Compilation (NTSC) (Aftermarket) (Unl)</description>
