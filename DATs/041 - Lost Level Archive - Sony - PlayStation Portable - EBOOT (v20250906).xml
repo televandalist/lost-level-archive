@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (EBOOT)</name>
 		<description>Sony - PlayStation Portable (EBOOT)</description>
-		<version>v20250528</version>
+		<version>v20250906</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -97,6 +97,11 @@
 		<rom name="SDL.txt" size="425" crc="7063ff1e" md5="13911ca3c926fc64780f9b8b7777a322" sha1="da3a773438595138d1b50b1cc0bf8636a0a8b76c" />
 		<rom name="stderr.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
 		<rom name="stdout.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+	</game>
+	<game name="BirdLife (v0.2) (bu-nyan)">
+		<description>BirdLife (v0.2) (bu-nyan)</description>
+		<rom name="EBOOT.PBP" size="244872" crc="0a3d0d7d" md5="e06c35f25727b6198b6cecd9d1eea299" sha1="cf8953dda3980731e9033d3efbdae058a72f2795" status="none" />
+		<rom name="Readme.txt" size="417" crc="79d3b357" md5="6fa423b3c3d8c953867f1e1df9f5a12e" sha1="863c3d21f45533a2adddf6a22b67c1b2f45282ad" status="none" />
 	</game>
 	<game name="Blob Wars - Metal Blob Solid (v1.04) (deniska)">
 		<description>Blob Wars - Metal Blob Solid (v1.04) (deniska)</description>

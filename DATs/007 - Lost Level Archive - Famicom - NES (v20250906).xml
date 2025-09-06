@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250830</version>
+		<version>v20250906</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -94,6 +94,10 @@
 	<game name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)">
 		<description>LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)</description>
 		<rom name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick).nes" size="24592" crc="82dbc5e3" md5="4c551bd96e85ba9164c732bbcdf60e2c" sha1="6aa612921e4cbee9027db7f740950488a3326229" />
+	</game>
+	<game name="Mantle (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Mantle (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Mantle (World) (v1.1) (Aftermarket) (Unl).nes" size="163856" crc="c3b96d0f" md5="797fa67c5b7926154ffdb16a4e36fba9" sha1="8ef4aa2f142c7daa1c1b7793e454d198f8183e52" status="none" />
 	</game>
 	<game name="Mega Mountain (USA) (v2018) (Adrian Makes Games)">
 		<description>Mega Mountain (USA) (v2018) (Adrian Makes Games)</description>
