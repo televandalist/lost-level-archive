@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250830</version>
+		<version>v20250906</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -140,6 +140,11 @@
 	<game name="Kingdom Hearts II - Final Mix+ (Japan) (En) (Undub) (v1.0) (Hidden Smithery))">
 		<description>Kingdom Hearts II - Final Mix+ (Japan) (En) (Undub) (v1.0) (Hidden Smithery))</description>
 		<rom name="Kingdom Hearts II - Final Mix+ (Japan) (En) (Undub) (v1.0) (Hidden Smithery)).iso" size="4783433728" crc="557798c9" md5="ed6d295af69e7847ca6f269c77cbaafe" sha1="70bc74041d54d2368a5aacbae14b1cf911b851ea" />
+	</game>
+	<game name="Mega Man X7 (USA) (Prototype) (2003-02-20)">
+		<description>Mega Man X7 (USA) (Prototype) (2003-02-20)</description>
+		<rom name="Mega Man X7 (USA) (Prototype) (2003-02-20).bin" size="311844624" crc="c35133c7" md5="195f083c01e7f3eaa98dd4809ed1a477" sha1="df330be4722c129e52851dfa9a8aa145bf33f0d1" status="none" />
+		<rom name="Mega Man X7 (USA) (Prototype) (2003-02-20).cue" size="123" crc="448f4904" md5="3db1cbf9909cb82a678ce1528112bb72" sha1="f658c52f2508ec0cba85a79b7b90f1dbb56a5c0d" status="none" />
 	</game>
 	<game name="Mega Man X7 (USA) (Prototype) (2003-05-11)">
 		<description>Mega Man X7 (USA) (Prototype) (2003-05-11)</description>
