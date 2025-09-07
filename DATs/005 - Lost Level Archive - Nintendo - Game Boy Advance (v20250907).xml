@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20250814</version>
+		<version>v20250907</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -87,10 +87,6 @@
 		<description>Dark Eden (Unknown) (Prototype)</description>
 		<rom name="Dark Eden (Unknown) (Prototype).gba" size="1361276" crc="9CF479D2" md5="50E9DBC3731383D6452584BFAD42297D" sha1="DF70DB3A44117AF3C744388AA17819ED8017E1D2"/>
 	</game>
-	<game name="Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl)">
-		<description>Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl)</description>
-		<rom name="Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="2059172" crc="8515069c" md5="0f424c61285bfee9a940bc9aa47c61bf" sha1="d2546be26c1e902e09cbb288ff9e4f654ae5194b" />
-	</game>
 	<game name="Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl)">
 		<description>Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl)</description>
 		<rom name="Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl).gba" size="32764" crc="f848cfd1" md5="0bc483bbb1ba8ea1027bbfda343652bb" sha1="e85720700014f6a44db21fd1a1a09ac79e0e39d8" />
@@ -127,10 +123,6 @@
 		<description>GBACRAFT (World) (Aftermarket) (Unl)</description>
 		<rom name="GBACRAFT (World) (Aftermarket) (Unl).gba" size="331964" crc="5eca3aa3" md5="a217568fa2774c8a191a55d7f633e3ad" sha1="b48234b45510296f9ee724c10b4661bf7e68fd1c" />
 	</game>
-	<game name="Getting Around It with Pheasant Birdy (World) (GBA Jam 2024) (Aftermarket) (Unl)">
-		<description>Getting Around It with Pheasant Birdy (World) (GBA Jam 2024) (Aftermarket) (Unl)</description>
-		<rom name="Getting Around It with Pheasant Birdy (World) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="4770080" crc="cd007dbd" md5="e391eed848ae680be93bba1d691bd55b" sha1="d1886668327f4f691fb7bc935d1b2b43adba61f6" />
-	</game>
 	<game name="Gleam (World) (v2006) (Unl)">
 		<description>Gleam (World) (v2006) (Unl)</description>
 		<rom name="Gleam (World) (v2006) (Unl).gba" size="30709368" crc="c4b63fe6" md5="06bcdc20120e43c623020cd811254587" sha1="4164633bbd32dee5c7e9571a07bd76d1e5773af8" />
@@ -138,10 +130,6 @@
 	<game name="Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble)">
 		<description>Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble)</description>
 		<rom name="Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble).gba" size="33554432" crc="71ea7d97" md5="9c7b11ea67d07798602d3ff791f797e4" sha1="fff4c3f8dc3fd8e57b0ea5a23f1430fa93d8950a" />
-	</game>
-		<game name="Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (v1.3) (Aftermarket) (Rik Nicol, Jeremy Clarke)">
-		<description>Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (v1.3) (Aftermarket) (Rik Nicol, Jeremy Clarke)</description>
-		<rom name="Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (v1.3) (Aftermarket) (Rik Nicol, Jeremy Clarke).gba" size="33554432" crc="159ff629" md5="bb9368a99e87251d9323a54841045914" sha1="df5473dbb005816293238095076e8f8c75484f93" />
 	</game>
 	<game name="Gravity Ball Advance (World) (v2008) (Aftermarket) (Unl)">
 		<description>Gravity Ball Advance (World) (v2008) (Aftermarket) (Unl)</description>
@@ -311,10 +299,6 @@
 		<description>Radicorn (World) (Aftermarket) (Unl)</description>
 		<rom name="Radicorn (World) (Aftermarket) (Unl).gba" size="88704" crc="c176fc59" md5="09698b7f688a00a7ac4a67a225c2181f" sha1="42e722987387bda61f2fa34c22e1789df9d5c0d4" />
 	</game>
-	<game name="Ring Dash GBA (World) (v1.0c) (Aftermarket) (BriG78cx)">
-		<description>Ring Dash GBA (World) (v1.0c) (Aftermarket) (BriG78cx)</description>
-		<rom name="Ring Dash GBA (World) (v1.0c) (Aftermarket) (BriG78cx).gba" size="1116952" crc="69687f2b" md5="6674a36645a801ce159766827ca6d8f0" sha1="9345e13b0eb12886a5675078874e3e5aece55c5d" />
-	</game>
 	<game name="Rinne Tsukihime - Box Edition (World) (v5.0) (Aftermarket) (Unl)">
 		<description>Rinne Tsukihime - Box Edition (World) (v5.0) (Aftermarket) (Unl)</description>
 		<rom name="Rinne Tsukihime - Box Edition (World) (v5.0) (Aftermarket) (Unl).gba" size="16416768" crc="d11b0233" md5="ece8c562ebd71eae03c9862d30c04da3" sha1="f09cfa2f3a9895a32ffce337d91efd66006d7833" />
@@ -394,10 +378,6 @@
 	<game name="Trailblazer Advance (World) (v0.9b) (Unl)">
 		<description>Trailblazer Advance (World) (v0.9b) (Unl)</description>
 		<rom name="Trailblazer Advance (World) (v0.9b) (Unl).gba" size="383072" crc="316f42b5" md5="f217c3e11fca80a3a3775b48e76fee41" sha1="aa4824638acb435dec5b9ec993c56fa5cd6e5b4d" />
-	</game>
-	<game name="Trials of Chaos (World) (GBA Jam 2024) (Aftermarket) (Unl)">
-		<description>Trials of Chaos (World) (GBA Jam 2024) (Aftermarket) (Unl)</description>
-		<rom name="Trials of Chaos (World) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="17901224" crc="1822f291" md5="d9371f098dfaaf7d52bca4cbc333223d" sha1="65f52d937a2c3247753f2d59bf39bbaf6f23da56" />
 	</game>
 	<game name="TroGBA (World) (v1.0) (Aftermarket) (Unl)">
 		<description>TroGBA (World) (v1.0) (Aftermarket) (Unl)</description>
@@ -546,9 +526,5 @@
 	<game name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (USA)">
 		<description>Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (USA)</description>
 		<rom name="Yu-Gi-Oh! Early Days Collection - Worldwide Edition - Stairway to the Destined Duel (USA).gba" size="16777216" crc="9f64379c" md5="1df9e439464c27c5da6df24d66bd7d35" sha1="69a258f99c06db3673fa7fa701b3adeee1197404" />
-	</game>
-	<game name="Zipline Zapper (World) (Aftermarket) (3DSage)">
-		<description>Zipline Zapper (World) (Aftermarket) (3DSage)</description>
-		<rom name="Zipline Zapper (World) (Aftermarket) (3DSage).gba" size="1934808" crc="297d664b" md5="85c6ef88ad57e0af9778c68880295351" sha1="8ef671cf45d12232cc8e8292c4689082d794b468" status="none" />
 	</game>
 </datafile>

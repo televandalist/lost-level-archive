@@ -4,8 +4,8 @@
 	<header>
 		<id>076</id>
 		<name>Removed - 076 - Lost Level Archive - NEC - PC Engine CD - TurboGrafx-CD</name>
-		<description>NEC - PC Engine CD - TurboGrafx-CD</description>
-		<version>v20250905</version>
+		<description>Removed - NEC - PC Engine CD - TurboGrafx-CD</description>
+		<version>v20250907</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -38,5 +38,19 @@
 		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 22).bin" size="7143024" crc="0f2ff7ca" md5="44f44225abbeb105c713932a04a21438" sha1="557296ddf6a4cfb33befc3d0a5d78366a25b6e7e" status="none" />
 		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper) (Track 23).bin" size="232892688" crc="fb4f96dd" md5="8fe3d971762ee256674c132961a23717" sha1="4149e9940ff343e4bf3577e30dfcbf4e427b5f68" status="none" />
 		<rom name="Ginga Ojousama Densetsu Yuna 2 (Japan) (En) (v1.1) (Supper).cue" size="3092" crc="a36e91a0" md5="c4c74dadb37321a9e6be5159289564bd" sha1="022c3b50c3a7019d220b223686abbacd29c4a8ae" status="none" />
+	</game>
+	<game name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro)">
+		<description>Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro)</description>
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 01).wav" size="13332788" crc="1ec3492d" md5="1792bef113a89bf93e5ec1cc558ebd75" sha1="45877f709bcbc226c2b0a931c3a5890d2c385e7f" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 02).iso" size="1384448" crc="18d24150" md5="b4a5e5ff1fe97bc6dd3abd09b8ecdb12" sha1="9c79ea0574e8c89c5c5083ea380f95bb88a70e3b" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 03).wav" size="27820796" crc="7f1b9430" md5="3d388ccd3d99ae2030be5c48251d23d6" sha1="de418c41d5b244df8ac08f00e422ca5563218dec" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 04).wav" size="29299376" crc="b873fdec" md5="8188e46d3b7e5d5eddbc6d6333d75dff" sha1="bbbd899a1f8e6ea9399b6d5813ce682838cee3ca" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 05).wav" size="1855644" crc="f88e7c9e" md5="69c95f7d1945d69b500a813981355c45" sha1="04d69e435d99a5a743ab073aa28e120d6a1e922b" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 06).wav" size="1874420" crc="0ff60528" md5="5f5d2b8b4216fb524eaf4d059d6e21c7" sha1="34621d9ee958e8fd98723c0b7106afa7cbf4540f" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 07).wav" size="1814444" crc="039f3001" md5="d6836c335c43d3a354ddc93653721693" sha1="f7ad78b881119b15f345aa23aecf5936338cfb2e" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 08).wav" size="14202660" crc="bda62b29" md5="6845e6bdc4d9f71276635f6e33ec9205" sha1="b4c46a1a75874f932d5174f319371ce3d76f683c" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 09).wav" size="42327060" crc="de1d3fb3" md5="8de1a0eeae1c0d4ae7997bb9c6ca1756" sha1="1fc4984c172d6a8e8f9a36184b9b8d1dfd339a12" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro) (Track 10).wav" size="6350444" crc="6de904a8" md5="ff5a88d7b82759edc884db57d6c455b9" sha1="a0540970b884b0c08d838e21f234c8de6afffa9d" />
+		<rom name="Nyanja! (World) (v3.0 Demo) (Aftermarket) (SaruPro).cue" size="1260" crc="a9c5390c" md5="784400af1627d0e5e262e058104bff1e" sha1="1c3837c7ebb216ee524be96913ecb0a8f27c4b72" />
 	</game>
 </datafile>

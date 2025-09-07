@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>018</id>
+		<name>Removed - 018 - Lost Level Archive - Nintendo - Nintendo DS</name>
+		<description>Removed - Nintendo - Nintendo DS</description>
+		<version>v20250907</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Minicraft - DS Edition (World) (v1.0.0-Beta 3) (Aftermarket) (ArthurCose)">
+		<description>Minicraft - DS Edition (World) (v1.0.0-Beta 3) (Aftermarket) (ArthurCose)</description>
+		<rom name="Minicraft - DS Edition (World) (v1.0.0-Beta 3) (Aftermarket) (ArthurCose).nds" size="1214976" crc="a923db06" md5="61988232caaf6ace146f04ad7009f864" sha1="5f855714c023f9c97e1c35d2d7fd7e57c7ca5eed" status="none" />
+	</game>
+</datafile>

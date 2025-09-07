@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>006</id>
+		<name>Removed - 006 - Lost Level Archive - Nintendo - Game Boy Color</name>
+		<description>Removed - Nintendo - Game Boy Color</description>
+		<version>v20250907</version>
+		<author>tele</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)">
+		<description>Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)</description>
+		<rom name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games).gbc" size="4194304" crc="ab96806a" md5="b90fae25ad1dbc7599758c1744287267" sha1="7c86eefe37b82d422327651b8761c1f8b0ca327d" />
+	</game>
+</datafile>

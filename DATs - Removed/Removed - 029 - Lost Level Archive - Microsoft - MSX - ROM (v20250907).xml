@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[http://www.logiqx.com/Dats/datafile.dtd]>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<header>
+		<id>029</id>
+		<name>Removed - 029 - Lost Level Archive - Microsoft - MSX - ROM</name>
+		<description>Removed - Microsoft - MSX - ROM</description>
+		<version>v20250907</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Brunilda (2024) (v1.01) (SCC, Mapper Konami5) (128KB VRAM) (Retroworks)">
+		<description>Brunilda (2024) (v1.01) (SCC, Mapper Konami5) (128KB VRAM) (Retroworks)</description>
+		<rom name="Brunilda (2024) (v1.01) (SCC, Mapper Konami5) (128KB VRAM) (Retroworks).rom" size="1277952" crc="9eb9bad0" md5="e64516057017949edf78d8517a14028b" sha1="fe239a9d71352f4b45e6df64a38341544c197cfb" status="none" />
+	</game>
+</datafile>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>007</id>
+		<name>Removed - 007 - Lost Level Archive - Nintendo - Famicom - NES</name>
+		<description>Removed - Nintendo - Famicom - NES</description>
+		<version>v20250907</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="All Hell Unleashed (World) (Aftermarket) (Unl)">
+		<description>All Hell Unleashed (World) (Aftermarket) (Unl)</description>
+		<rom name="All Hell Unleashed (World) (Aftermarket) (Unl).nes" size="524304" crc="2f78164f" md5="0a42874e644792f57b63d698b9f75819" sha1="50feaa775d1f2c871a00ed4870989dab7a202bf0" />
+	</game>
+	<game name="Backwards Quest (World) (v1.8) (Aftermarket) (Artix)">
+		<description>Backwards Quest (World) (v1.8) (Aftermarket) (Artix)</description>
+		<rom name="Backwards Quest (World) (v1.8) (Aftermarket) (Artix).nes" size="524304" crc="26a3e818" md5="0d9b701d1e31f982aea70da7466ff3d5" sha1="027d6f30d79c34dba78a60dc11b0f01c95b44b80" status="none" />
+	</game>
+	<game name="CelesteNES (World) (Demo) (Aftermarket) (Unl)">
+		<description>CelesteNES (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="CelesteNES (World) (Demo) (Aftermarket) (Unl).nes" size="262160" crc="1fd09ee3" md5="7ee65e02e9dc3c7ee12d66f103079a31" sha1="4cd56ce8fdd4b921684fe56bdcc3bec0db33d6b3" status="none" />
+	</game>
+	<game name="Enter Password (USA) (v2024-04-27) (Aftermarket) (Unl) (Johnybot)">
+		<description>Enter Password (USA) (v2024-04-27) (Aftermarket) (Unl) (Johnybot)</description>
+		<rom name="Enter Password (USA) (v2024-04-27) (Aftermarket) (Unl) (Johnybot).nes" size="40976" crc="392c782b" md5="613f27f190f3c1a1bc0fec7640c80948" sha1="b66153d4242ede5f2eaa3032c6c6f8849219db90" />
+	</game>
+	<game name="Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul)">
+		<description>Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul)</description>
+		<rom name="Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul).nes" size="524304" crc="ee9c048d" md5="65719a37c48cf991cfe79218a5d55acf" sha1="68eff69353c9e334936ada0c89fc7bbf524a8757" status="none" />
+	</game>
+	<game name="Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg)">
+		<description>Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg)</description>
+		<rom name="Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg).nes" size="1048592" crc="91D6F1F4" md5="EFC3933C833059F8B1E82C9EB48E6057" sha1="603A686B3A3267D09B9A6840224B1EB07313F849"/>
+	</game>
+	<game name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)">
+		<description>LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)</description>
+		<rom name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick).nes" size="24592" crc="82dbc5e3" md5="4c551bd96e85ba9164c732bbcdf60e2c" sha1="6aa612921e4cbee9027db7f740950488a3326229" />
+	</game>
+	<game name="Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul)">
+		<description>Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul)</description>
+		<rom name="Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul).nes" size="524304" crc="dcb3c6d1" md5="885357fbb426e805661ac8eea6e0be49" sha1="0b32ceba72ac9943db1787907dd7c96274109afd" status="none" />
+	</game>
+	<game name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx)">
+		<description>Sonik Gem Dash (World) (Aftermarket) (BriG78cx)</description>
+		<rom name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx).nes" size="65552" crc="8b752416" md5="a4e9080ff3e4ef5596fda29ad7e28f5b" sha1="d0cbc768f40cbc2aabe6071bf416e905c3c248c2" status="none" />
+	</game>
+	<game name="You Are Insignificant (USA) (Aftermarket) (Unl) (Team Disposables)">
+		<description>You Are Insignificant (USA) (Aftermarket) (Unl) (Team Disposables)</description>
+		<rom name="You Are Insignificant (USA) (Aftermarket) (Unl) (Team Disposables).nes" size="24592" crc="b2ae15b0" md5="b45d2fb6f49caaf7192d4df5edd8b59f" sha1="8cef412e94cb5ae5b161ceb6f3223dc26171b4f2" />
+	</game>
+</datafile>

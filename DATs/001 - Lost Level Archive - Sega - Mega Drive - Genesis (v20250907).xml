@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20250725</version>
+		<version>v20250907</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -18,10 +18,6 @@
 	<game name="Angry Birds (Demo) (Bootleg)">
 		<description>Angry Birds (Demo) (Bootleg).md</description>
 		<rom name="Angry Birds (Demo) (Bootleg).md" size="2621440" crc="9e73551a" md5="ad6ac7316d65857e27e5944b376af9c0" sha1="0fc13f486ae322d48b74350560e8c35745aceb14" />
-	</game>
-	<game name="Batman Returns MD (USA) (v1.2) (Aftermarket) (Pyron's Lair)">
-		<description>Batman Returns MD (USA) (v1.2) (Aftermarket) (Pyron's Lair)</description>
-		<rom name="Batman Returns MD (USA) (v1.2) (Aftermarket) (Unl).md" size="2097152" crc="30f2ea20" md5="83910fbe56f65b4b63698d634d56a0a2" sha1="2f20558bf83ea96ecb97e154c5aeee5b24ce0a0b" status="none" />
 	</game>
 	<game name="Checker (USA) (AtGames - Devworks) (Bootleg)">
 		<description>Checker (USA) (AtGames - Devworks) (Bootleg).md</description>
@@ -38,10 +34,6 @@
 	<game name="Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown)">
 		<description>Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md</description>
 		<rom name="Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md" size="524288" crc="fbb6cf49" md5="f3094cbf13e6cf5219734ce4debff5c0" sha1="2ec9ff982a7d271ceb1d92d1c551208142ea477a" />
-	</game>
-	<game name="Iron Man (World) (v1.01) (Aftermarket) (old_pirate)">
-		<description>Iron Man (World) (v1.01) (Aftermarket) (old_pirate)</description>
-		<rom name="Iron Man (World) (v1.01) (Aftermarket) (old_pirate).md" size="917504" crc="5fd1cf02" md5="42292287930bb213da54723b929b276b" sha1="5bca280816c5988f9349b70633ba8adbf707858b" status="none" />
 	</game>
 	<game name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic)">
 		<description>Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md</description>
@@ -63,10 +55,6 @@
 		<description>Metal Gear (World) (Amiga Port) (v1.0) (h0ffman)</description>
 		<rom name="Metal Gear (World) (Amiga Port) (v1.0) (h0ffman).md" size="1572864" crc="9f6a5f55" md5="af52dc45e702765fae7afb96a9930cd0" sha1="8f64f5f89ef631cf9308c823e06fb48e835d4268" />
 	</game>
-	<game name="Metal Gear (World) (Amiga Port) (v1.1) (h0ffman)">
-		<description>Metal Gear (World) (Amiga Port) (v1.1) (h0ffman)</description>
-		<rom name="Metal Gear (World) (Amiga Port) (v1.1) (h0ffman).md" size="1572864" crc="724fe7b3" md5="c7086ec7bc21096c266eae0eb3b95e93" sha1="89b32e57e2dee000b5a4a6502b70e568637d4fda" />
-	</game>
 	<game name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)">
 		<description>Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)</description>
 		<rom name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl).md" size="5242880" crc="45d73398" md5="a8751584041af810c8ceabe5e9c8a91b" sha1="1177cf4306ec695cc01120bd6d6c35d82787f9be" />
@@ -86,10 +74,6 @@
 	<game name="Sonic Delta 40Mb (v0.64) (Neto)">
 		<description>Sonic Delta 40Mb (v0.64) (Neto).md</description>
 		<rom name="Sonic Delta 40Mb (v0.64) (Neto).md" size="5242880" crc="787369b0" md5="76777d3a0e62a05557c4d91f5d593d2f" sha1="ff849f23ac7cbf498b5b2259e3b44da401da8b14" />
-	</game>
-	<game name="Sonic the Hedgehog 3 - Paramount Promotional Cart (USA) (Aftermarket)">
-		<description>Sonic the Hedgehog 3 - Paramount Promotional Cart (USA) (Aftermarket)</description>
-		<rom name="Sonic the Hedgehog 3 - Paramount Promotional Cart (USA) (Aftermarket).md" size="4194304" crc="f9881aae" md5="2886958811c81211174184d6fa874797" sha1="691894261033cef1936a2ad9ef594e30241c7e0b" status="none" />
 	</game>
 	<game name="Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ1 Restored)">
 		<description>Sonic The Hedgehog 3 (USA) (Proto) (1993-11-03) (LRZ1 Restored).md</description>

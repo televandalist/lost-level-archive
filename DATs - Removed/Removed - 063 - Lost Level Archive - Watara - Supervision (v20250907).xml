@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>063</id>
+		<name>Removed - 063 - Lost Level Archive - Watara - Supervision</name>
+		<description>Removed - Watara - Supervision</description>
+		<version>v20250907</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Assembloids (World) (Aftermarket) (Unl)">
+		<description>Assembloids (World) (Aftermarket) (Unl)</description>
+		<rom name="Assembloids (World) (Aftermarket) (Unl).sv" size="65536" crc="c71131e4" md5="6dd574473abfe47583c81a2fe33d3d02" sha1="79831275a6a30064d400b21c7eff709403ebcecc" />
+	</game>
+</datafile>

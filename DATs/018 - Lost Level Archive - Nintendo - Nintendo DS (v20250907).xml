@@ -5,7 +5,7 @@
 		<id>018</id>
 		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
 		<description>Nintendo - Nintendo DS</description>
-		<version>v20250719</version>
+		<version>v20250907</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -286,10 +286,6 @@
 	<game name="Metal Slug Combat (World) (v1.0) (Aftermarket) (Unl) (Master Sonic)">
 		<description>Metal Slug Combat (World) (v1.0) (Aftermarket) (Unl) (Master Sonic)</description>
 		<rom name="Metal Slug Combat (World) (v1.0) (Aftermarket) (Unl) (Master Sonic).nds" size="1852480" crc="64be2010" md5="0bb7ce50ec46de6788a229356879be86" sha1="845fd39ab0a3a8160296b0268f78a7db1c7a0f1e" />
-	</game>
-	<game name="Minicraft - DS Edition (World) (v1.0.0-Beta 3) (Aftermarket) (ArthurCose)">
-		<description>Minicraft - DS Edition (World) (v1.0.0-Beta 3) (Aftermarket) (ArthurCose)</description>
-		<rom name="Minicraft - DS Edition (World) (v1.0.0-Beta 3) (Aftermarket) (ArthurCose).nds" size="1214976" crc="a923db06" md5="61988232caaf6ace146f04ad7009f864" sha1="5f855714c023f9c97e1c35d2d7fd7e57c7ca5eed" status="none" />
 	</game>
 	<game name="NDS KoiKoi (World) (v20100830) (Aftermarket) (Unl) (MeRAMEN)">
 		<description>NDS KoiKoi (World) (v20100830) (Aftermarket) (Unl) (MeRAMEN)</description>

@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250906</version>
+		<version>v20250907</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -19,25 +19,13 @@
 		<description>Alien Cat 2 (World) (Aftermarket) (PSCDGames)</description>
 		<rom name="Alien Cat 2 (World) (Aftermarket) (Unl).nes" size="262160" crc="550e30b3" md5="8fe07ecb8a184872bba97a1e98beca43" sha1="16c7ec6a3d56ba8f8267dcefa8819abc2b502f4c" status="none" />
 	</game>
-	<game name="All Hell Unleashed (World) (Aftermarket) (Unl)">
-		<description>All Hell Unleashed (World) (Aftermarket) (Unl)</description>
-		<rom name="All Hell Unleashed (World) (Aftermarket) (Unl).nes" size="524304" crc="2f78164f" md5="0a42874e644792f57b63d698b9f75819" sha1="50feaa775d1f2c871a00ed4870989dab7a202bf0" />
-	</game>
 	<game name="Angry Birds (China) (Aftermarket) (Bootleg) (Nice Code)">
 		<description>Angry Birds (China) (Aftermarket) (Bootleg) (Nice Code)</description>
 		<rom name="Angry Birds (China) (Aftermarket) (Bootleg) (Nice Code).nes" size="98320" crc="1499b706" md5="44ba6a8bf133b5cf53a3c0d577918320" sha1="3ea185838b06a854c1cf27f91abe61e8af0a0a95" />
 	</game>
-	<game name="Backwards Quest (World) (v1.8) (Aftermarket) (Artix)">
-		<description>Backwards Quest (World) (v1.8) (Aftermarket) (Artix)</description>
-		<rom name="Backwards Quest (World) (v1.8) (Aftermarket) (Artix).nes" size="524304" crc="26a3e818" md5="0d9b701d1e31f982aea70da7466ff3d5" sha1="027d6f30d79c34dba78a60dc11b0f01c95b44b80" status="none" />
-	</game>
 	<game name="Celeste (USA) (PICO-8 Port) (Aftermarket) (iProgramInCpp)">
 		<description>Celeste (USA) (PICO-8 Port) (Aftermarket) (iProgramInCpp)</description>
 		<rom name="Celeste (USA) (PICO-8 Port) (Aftermarket) (iProgramInCpp).nes" size="24592" crc="98942992" md5="9f3ca43c8a2ce8da2c55199bdb511110" sha1="966aa30eac4964f2acb05a321da99acab09aac07" />
-	</game>
-	<game name="CelesteNES (World) (Demo) (Aftermarket) (Unl)">
-		<description>CelesteNES (World) (Demo) (Aftermarket) (Unl)</description>
-		<rom name="CelesteNES (World) (Demo) (Aftermarket) (Unl).nes" size="262160" crc="1fd09ee3" md5="7ee65e02e9dc3c7ee12d66f103079a31" sha1="4cd56ce8fdd4b921684fe56bdcc3bec0db33d6b3" status="none" />
 	</game>
 	<game name="Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code)">
 		<description>Crash Bandicoot (China) (Aftermarket) (Bootleg) (Nice Code)</description>
@@ -51,17 +39,9 @@
 		<description>Cross Shuriken (France) (Aftermarket) (Unl) (Fabrizio Caruso)</description>
 		<rom name="Cross Shuriken (France) (Aftermarket) (Unl) (Fabrizio Caruso).nes" size="40976" crc="af229fe9" md5="fb786ac46a51e3faa667195372e6074e" sha1="a9e2bddf3d8e305689d07cabbce4ed8e2ed19ad8" />
 	</game>
-	<game name="Enter Password (USA) (v2024-04-27) (Aftermarket) (Unl) (Johnybot)">
-		<description>Enter Password (USA) (v2024-04-27) (Aftermarket) (Unl) (Johnybot)</description>
-		<rom name="Enter Password (USA) (v2024-04-27) (Aftermarket) (Unl) (Johnybot).nes" size="40976" crc="392c782b" md5="613f27f190f3c1a1bc0fec7640c80948" sha1="b66153d4242ede5f2eaa3032c6c6f8849219db90" />
-	</game>
 	<game name="Fish (World) (v1.2) (Aftermarket) (Unl) (voxel)">
 		<description>Fish (World) (v1.2) (Aftermarket) (Unl) (voxel)</description>
 		<rom name="Fish (World) (v1.2) (Aftermarket) (Unl) (voxel).nes" size="40976" crc="20120db7" md5="b7a38bd1f84e6d02695e2ced8b80eb49" sha1="f4342a4d6752332eb09e4c1f9a896dc380a96275" />
-	</game>
-	<game name="Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul)">
-		<description>Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul)</description>
-		<rom name="Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul).nes" size="524304" crc="ee9c048d" md5="65719a37c48cf991cfe79218a5d55acf" sha1="68eff69353c9e334936ada0c89fc7bbf524a8757" status="none" />
 	</game>
 	<game name="Honey Peach-Mei Nu Quan (Asia) (Sachen)">
 		<description>Honey Peach-Mei Nu Quan (Asia) (Sachen)</description>
@@ -75,10 +55,6 @@
 		<description>Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl).nes" size="786448" crc="604b7fb1" md5="1216024cdff098ebc3f4e3f1becf1804" sha1="814aeba26b4df2497f47771e97e5ef5bfb6e6272" status="none" />
 	</game>
-	<game name="Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg)">
-		<description>Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg)</description>
-		<rom name="Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg).nes" size="1048592" crc="91D6F1F4" md5="EFC3933C833059F8B1E82C9EB48E6057" sha1="603A686B3A3267D09B9A6840224B1EB07313F849"/>
-	</game>
 	<game name="Koudai Guaishou III - Pokemon Diamond III (China) (Bootleg)">
 		<description>Koudai Guaishou III - Pokemon Diamond III (China) (Bootleg)</description>
 		<rom name="Koudai Guaishou III - Pokemon Diamond III (China) (Bootleg).nes" size="1048848" crc="725A7EAE" md5="964A77006AAD0F6FD098F89FE8ED8E34" sha1="186F739E271CA7D51B8401AA2570EDF21B14AEE9"/>
@@ -90,10 +66,6 @@
 	<game name="Legend of Zelda, The - Triforce of the Gods (China) (En) (v1.1) (pacsnacdave)">
 		<description>Legend of Zelda, The - Triforce of the Gods (China) (En) (v1.1) (pacsnacdave)</description>
 		<rom name="Legend of Zelda, The - Triforce of the Gods (China) (En) (v1.1) (pacsnacdave).nes" size="2097259" crc="7bfe3590" md5="cba5237bdd24506d75e7b4a194b3c097" sha1="6e07687f9e45a4e79d5e95a34537c76f2485af11" />
-	</game>
-	<game name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)">
-		<description>LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick)</description>
-		<rom name="LJ65 (USA) (v0.41) (Aftermarket) (Unl) (Damian Yerrick).nes" size="24592" crc="82dbc5e3" md5="4c551bd96e85ba9164c732bbcdf60e2c" sha1="6aa612921e4cbee9027db7f740950488a3326229" />
 	</game>
 	<game name="Mantle (World) (v1.1) (Aftermarket) (Unl)">
 		<description>Mantle (World) (v1.1) (Aftermarket) (Unl)</description>
@@ -146,10 +118,6 @@
 	<game name="Paint or Draw (USA) (v3.0) (Aftermarket) (Unl) (dougeff)">
 		<description>Paint or Draw (USA) (v3.0) (Aftermarket) (Unl) (dougeff)</description>
 		<rom name="Paint or Draw (USA) (v3.0) (Aftermarket) (Unl) (dougeff).nes" size="24592" crc="b69b31bd" md5="4ec7a3f78063c0f6385b670670719361" sha1="21c43dfe413b23e1a9b558aacd0a86ae8bd6c9e0" />
-	</game>
-	<game name="Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul)">
-		<description>Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul)</description>
-		<rom name="Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul).nes" size="524304" crc="dcb3c6d1" md5="885357fbb426e805661ac8eea6e0be49" sha1="0b32ceba72ac9943db1787907dd7c96274109afd" status="none" />
 	</game>
 	<game name="Police Dog Lasy (China) (v1.0) (Unl) (Aftermarket) (Nice Code)">
 		<description>Police Dog Lasy (China) (v1.0) (Unl) (Aftermarket) (Nice Code)</description>
@@ -211,10 +179,6 @@
 		<description>Somari (Hummer Team) (Aftermarket) (Bootleg)</description>
 		<rom name="Somari (Hummer Team) (Aftermarket) (Bootleg).nes" size="524304" crc="51589daf" md5="cb1d67e6455d2fa514b939817d64c9d2" sha1="6cf18228cfb66d48b3642069979d4a5103cb8528" />
 	</game>
-	<game name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx)">
-		<description>Sonik Gem Dash (World) (Aftermarket) (BriG78cx)</description>
-		<rom name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx).nes" size="65552" crc="8b752416" md5="a4e9080ff3e4ef5596fda29ad7e28f5b" sha1="d0cbc768f40cbc2aabe6071bf416e905c3c248c2" status="none" />
-	</game>
 	<game name="Sudo King (Asia) (Multicart Rip) (Unl)">
 		<description>Sudo King (Asia) (Multicart Rip) (Unl)</description>
 		<rom name="Sudo King (Asia) (Multicart Rip) (Unl).nes" size="40976" crc="5f1d1360" md5="3a2b5d8b38395b25bd08fb92c40bf64c" sha1="8ac7c55cb70f8f2db03eeaad135ed2ae0ca3399b" />
@@ -242,9 +206,5 @@
 	<game name="Witches Weed (USA) (Demo 3) (Aftermarket) (Unl) (T-bone#1)">
 		<description>Witches Weed (USA) (Demo 3) (Aftermarket) (Unl) (T-bone#1)</description>
 		<rom name="Witches Weed (USA) (Demo 3) (Aftermarket) (Unl) (T-bone#1).nes" size="524304" crc="c63834bb" md5="288d3b40090c1d15d7460bed4c0d60dc" sha1="abd18db6cc1a99d01adaa0c76e17affe8dd0d6b5" />
-	</game>
-	<game name="You Are Insignificant (USA) (Aftermarket) (Unl) (Team Disposables)">
-		<description>You Are Insignificant (USA) (Aftermarket) (Unl) (Team Disposables)</description>
-		<rom name="You Are Insignificant (USA) (Aftermarket) (Unl) (Team Disposables).nes" size="24592" crc="b2ae15b0" md5="b45d2fb6f49caaf7192d4df5edd8b59f" sha1="8cef412e94cb5ae5b161ceb6f3223dc26171b4f2" />
 	</game>
 </datafile>

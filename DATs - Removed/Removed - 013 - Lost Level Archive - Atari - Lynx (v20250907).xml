@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>013</id>
+		<name>Removed - 013 - Lost Level Archive - Atari - Lynx</name>
+		<description>Removed - Atari - Lynx</description>
+		<version>v20250907</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Xump - The Final Run (v1.20) (Aftermarket) (Retroguru)">
+		<description>Xump - The Final Run (v1.20) (Aftermarket) (Retroguru)</description>
+		<rom name="Xump - The Final Run (v1.20) (Aftermarket) (Retroguru).lnx" size="222832" crc="41e546a7" md5="e8cddf7b04a935fd48ab030d2ede8be0" sha1="1381bfbd5caaeefaf44b886068f5542f4005a899" status="none" />
+	</game>
+	<game name="Xump 2 - Back to Space (World) (Aftermarket) (Retroguru)">
+		<description>Xump 2 - Back to Space (World) (Aftermarket) (Retroguru)</description>
+		<rom name="Xump 2 - Back to Space (World) (Aftermarket) (Retroguru).lnx" size="163845" crc="24c31987" md5="f820a030331cd49250edc1a0a82f0992" sha1="4a7dbc244cd2fb93ff19a9253b67b1573c43d2e6" status="none" />
+	</game>
+</datafile>

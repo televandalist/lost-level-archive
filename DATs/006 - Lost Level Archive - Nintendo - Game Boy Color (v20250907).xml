@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250830</version>
+		<version>v20250907</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -98,10 +98,6 @@
 	<game name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)">
 		<description>Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)</description>
 		<rom name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222).gbc" size="2097152" crc="b7cdf437" md5="160d4da4a787f957fbd5079db6ee86b2" sha1="2910f9cc95a2e521abf63d7b79b329216145997c" />
-	</game>
-	<game name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)">
-		<description>Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)</description>
-		<rom name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games).gbc" size="4194304" crc="ab96806a" md5="b90fae25ad1dbc7599758c1744287267" sha1="7c86eefe37b82d422327651b8761c1f8b0ca327d" />
 	</game>
 	<game name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)">
 		<description>Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)</description>

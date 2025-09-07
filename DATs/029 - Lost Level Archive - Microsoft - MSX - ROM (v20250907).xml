@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250814</version>
+		<version>v20250907</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -194,10 +194,6 @@
 	<game name="British Bob (2009) (Relevo Videogames)">
 		<description>British Bob (2009) (Relevo Videogames)</description>
 		<rom name="British Bob (2009) (Relevo Videogames).rom" size="16384" crc="8ab004f9" md5="b68d4ef5560e04dac9b153b05b4968b9" sha1="e45af2f15327dfdc1b1250ddab97b7f28801d5ca" status="none" />
-	</game>
-	<game name="Brunilda (2024) (v1.01) (SCC, Mapper Konami5) (128KB VRAM) (Retroworks)">
-		<description>Brunilda (2024) (v1.01) (SCC, Mapper Konami5) (128KB VRAM) (Retroworks)</description>
-		<rom name="Brunilda (2024) (v1.01) (SCC, Mapper Konami5) (128KB VRAM) (Retroworks).rom" size="1277952" crc="9eb9bad0" md5="e64516057017949edf78d8517a14028b" sha1="fe239a9d71352f4b45e6df64a38341544c197cfb" status="none" />
 	</game>
 	<game name="Bubbo World 2 (2016) (N.I.)">
 		<description>Bubbo World 2 (2016) (N.I.)</description>

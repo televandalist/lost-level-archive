@@ -5,7 +5,7 @@
 		<id>013</id>
 		<name>013 - Lost Level Archive - Atari - Lynx</name>
 		<description>Atari - Lynx</description>
-		<version>v20250706</version>
+		<version>v20250907</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -26,13 +26,5 @@
 	<game name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)">
 		<description>Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)</description>
 		<rom name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos).lnx" size="262208" crc="482719d8" md5="f3663cf094ca1ab6883d6b3c03e7429d" sha1="f826cecb0e2ddc3620d6509b821591aa11d0ec4e" />
-	</game>
-	<game name="Xump - The Final Run (v1.20) (Aftermarket) (Retroguru)">
-		<description>Xump - The Final Run (v1.20) (Aftermarket) (Retroguru)</description>
-		<rom name="Xump - The Final Run (v1.20) (Aftermarket) (Retroguru).lnx" size="222832" crc="41e546a7" md5="e8cddf7b04a935fd48ab030d2ede8be0" sha1="1381bfbd5caaeefaf44b886068f5542f4005a899" status="none" />
-	</game>
-	<game name="Xump 2 - Back to Space (World) (Aftermarket) (Retroguru)">
-		<description>Xump 2 - Back to Space (World) (Aftermarket) (Retroguru)</description>
-		<rom name="Xump 2 - Back to Space (World) (Aftermarket) (Retroguru).lnx" size="163845" crc="24c31987" md5="f820a030331cd49250edc1a0a82f0992" sha1="4a7dbc244cd2fb93ff19a9253b67b1573c43d2e6" status="none" />
 	</game>
 </datafile>
