@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (DSK)</name>
 		<description>Amstrad - CPC (DSK)</description>
-		<version>v20250519</version>
+		<version>v20250913</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -517,6 +517,10 @@
 	<game name="Todo sobre el Amstrad - 15 - Laser (1987) (En,Es) (G.T.S. Editorial)">
 		<description>Todo sobre el Amstrad - 15 - Laser (1987) (En,Es) (G.T.S. Editorial)</description>
 		<rom name="Todo sobre el Amstrad - 15 - Laser (1987) (En,Es) (G.T.S. Editorial).dsk" size="194816" crc="de7c5712" md5="19f2aecdacf501faedb8164f0a3371cd" sha1="0d5213d8f14fcbbca528e608287ecf21c60c19da" />
+	</game>
+	<game name="Uwol 2 (2011) (Aftermarket) (Mojon Twins)">
+		<description>Uwol 2 (2011) (Aftermarket) (Mojon Twins)</description>
+		<rom name="Uwol 2 (2011) (Aftermarket) (Mojon Twins).dsk" size="194816" crc="18588dc1" md5="fb4a14b1a610f3c2b0ff1546ae19d2c8" sha1="af09a1d2dc8907fd87c2443bde5b5f7553e8bfb6" status="none" />
 	</game>
 	<game name="WhatTheRock (2023) (Createvia)">
 		<description>WhatTheRock (2023) (Createvia)</description>

@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250830</version>
+		<version>v20250913</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -88,6 +88,10 @@
 	<game name="Cairn (World) (v1.4.4) (Aftermarket) (GB Studio)">
 		<description>Cairn (World) (v1.4.4) (Aftermarket) (GB Studio)</description>
 		<rom name="Cairn (World) (v1.4.4) (Aftermarket) (GB Studio).gb" size="4194304" crc="e57eb9e6" md5="f91f1460898c5ee26da227e6bc472df1" sha1="6b6bd73508cd6faf6cd4e4b54546c40636d99d71" />
+	</game>
+	<game name="Cake Snake (World) (Aftermarket) (Unl)">
+		<description>Cake Snake (World) (Aftermarket) (Unl)</description>
+		<rom name="Cake Snake (World) (Aftermarket) (Unl).gb" size="32768" crc="5f2c0f0b" md5="9b58b56c449f0b541a7032ab8f443379" sha1="295446aac145727514491108d013c090d671f0a6" status="none" />
 	</game>
 	<game name="Cat Mario (World) (En) (v2022-04-21 Demo) (Aftermarket) (Unl)">
 		<description>Cat Mario (World) (En) (v2022-04-21 Demo) (Aftermarket) (Unl)</description>
@@ -228,6 +232,10 @@
 	<game name="Game Boy Modern Story (World) (v2020-11-02) (Aftermarket) (GB Studio)">
 		<description>Game Boy Modern Story (World) (v2020-11-02) (Aftermarket) (GB Studio)</description>
 		<rom name="Game Boy Modern Story (World) (v2020-11-02) (Aftermarket) (GB Studio).gb" size="262144" crc="e216c08e" md5="564c42ae36eda32359cee3021ef17c11" sha1="c10eab2a6276227d599a76b4cfa754f88f69acef" />
+	</game>
+	<game name="Game of Life Kuzushi (World) (Aftermarket) (Unl)">
+		<description>Game of Life Kuzushi (World) (Aftermarket) (Unl)</description>
+		<rom name="Game of Life Kuzushi (World) (Aftermarket) (Unl).gb" size="65536" crc="53f8ef87" md5="b04d10af7ff5010c90be47948158f016" sha1="6c88a33d034751ddd2a3932521112352708ef7a7" status="none" />
 	</game>
 	<game name="GB Lunar Lander (World) (GB Showdown 2023) (Aftermarket) (GB Studio)">
 		<description>GB Lunar Lander (World) (GB Showdown 2023) (Aftermarket) (GB Studio)</description>

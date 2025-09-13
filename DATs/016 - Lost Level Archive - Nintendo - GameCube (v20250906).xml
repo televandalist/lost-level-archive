@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20250906</version>
+		<version>v20250913</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -90,6 +90,11 @@
 	<game name="Pokemon XD - Gale of Darkness - Pokemon XG (v1.2.1-3) (StarsMmd)">
 		<description>Pokemon XD - Gale of Darkness - Pokemon XG (v1.2.1-3) (StarsMmd)</description>
 		<rom name="Pokemon XD - Gale of Darkness - Pokemon XG (v1.2.1-3) (StarsMmd).iso" size="1459978240" crc="9b232c01" md5="a7b6aced55de97a776a1a235e3a4a57e" sha1="7af7d11916f69d3af1041c728f9231ba9b38f29e" />
+	</game>
+	<game name="Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO)">
+		<description>Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO)</description>
+		<rom name="Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO) (Disc 1).iso" size="1459978240" crc="fa532366" md5="3592064f79dc94068ff89fe733340bb0" sha1="5bf2df116bb6c15868273bb018572584360e2bec" status="none" />
+		<rom name="Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO) (Disc 2).iso" size="1459978240" crc="c3e2d52f" md5="5a7cebf95feaba82375ffeedb5024a21" sha1="89064c5eb6abd541eeb11211ede5d042e45d315d" status="none" />
 	</game>
 	<game name="Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2)">
 		<description>Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2)</description>

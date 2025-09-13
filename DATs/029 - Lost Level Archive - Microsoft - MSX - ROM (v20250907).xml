@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250907</version>
+		<version>v20250913</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -567,9 +567,13 @@
 		<description>Gravitica (2018) (v1.0) (Yusuke Miyauchi)</description>
 		<rom name="Gravitica (2018) (v1.0) (Yusuke Miyauchi).rom" size="32768" crc="3bc64731" md5="3248030ee4546a0ad3329399023606ff" sha1="9dec583ada35979e62d1d6ad296a8916f3de9414" status="none" />
 	</game>
-	<game name="Grazers (2024) (v1.2) (Artūrs Grebstelis)">
-		<description>Grazers (2024) (v1.2) (Artūrs Grebstelis)</description>
-		<rom name="Grazers (2024) (v1.2) (Artūrs Grebstelis).rom" size="32768" crc="5670651f" md5="713e9fd8449a7f07b754fbd53b5f55be" sha1="4a96c5d525a3511fc7fa694f0bc6a506869e1abe" status="none" />
+	<game name="Grazers (2024) (v1.1) (Aftermarket) (Snauts)">
+		<description>Grazers (2024) (v1.1) (Aftermarket) (Snauts)</description>
+		<rom name="Grazers (2024) (v1.1) (Aftermarket) (Snauts).rom" size="32768" crc="5670651f" md5="713e9fd8449a7f07b754fbd53b5f55be" sha1="4a96c5d525a3511fc7fa694f0bc6a506869e1abe" status="none" />
+	</game>
+	<game name="Grazers (2024) (v1.2) (Aftermarket) (Snauts)">
+		<description>Grazers (2024) (v1.2) (Aftermarket) (Snauts)</description>
+		<rom name="Grazers (2024) (v1.2 (Aftermarket) (Snauts)rom" size="32768" crc="5670651f" md5="713e9fd8449a7f07b754fbd53b5f55be" sha1="4a96c5d525a3511fc7fa694f0bc6a506869e1abe" status="none" />
 	</game>
 	<game name="Great New World, A (2024) (v1.0) (Phaze101)">
 		<description>Great New World, A (2024) (v1.0) (Phaze101)</description>

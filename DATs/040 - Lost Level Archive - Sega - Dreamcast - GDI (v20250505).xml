@@ -5,7 +5,7 @@
 		<id>040</id>
 		<name>040 - Lost Level Archive - Sega - Dreamcast - GDI</name>
 		<description>Sega - Dreamcast - GDI</description>
-		<version>v20250505</version>
+		<version>v20250913</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -106,6 +106,13 @@
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 2).raw" size="1237152" crc="99566185" md5="5a6c3ee28764b05886836c5552f87e8a" sha1="149f252882d31cbd0f21a2f93f4380135caeb1b2" />
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 3).bin" size="1185760800" crc="74446f13" md5="caa392704776a842f1273761dd790b7f" sha1="d40776e64a20aa19930c3f06406cbe9794505be1" />
 		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype).gdi" size="240" crc="2b71da4e" md5="1d5b3fa3e9cff0cb877f65a5afa52bee" sha1="60c875a53014b5a84df3d849834696d650bbd9e2" />
+	</game>
+	<game name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella)">
+		<description>Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella)</description>
+		<rom name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella) (Track 01).bin" size="1058400" crc="aec77548" md5="ee0d1d0cd558fcfa0aec91969683789b" sha1="25b3f4bf4470357036996480b7adfa2c66c94053" status="none" />
+		<rom name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella) (Track 02).raw" size="38125920" crc="e49e47d4" md5="ee7c874338e760ea9f2d1d1e4d9787ca" sha1="3c1a51e563d26b72a32243af8e196b3d41153bd6" status="none" />
+		<rom name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella) (Track 03).bin" size="1185760800" crc="ddadde7a" md5="1d02cf5440836c8b5128e89ad63522a8" sha1="095aabadb8167e59fd441ea4f805c8e5e8488eaf" status="none" />
+		<rom name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella).gdi" size="264" crc="62215043" md5="c7a7b8b1dfd20673ee13e5a7d0b01bd7" sha1="131f5e92335a86f4958e91f0ef6d943f16ba15fd" status="none" />
 	</game>
 	<game name="Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1)">
 		<description>Resident Evil - Code Veronica X (Japan) (En) (v1.0) (truemaster1)</description>

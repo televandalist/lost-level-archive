@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250907</version>
+		<version>v20250913</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -42,6 +42,10 @@
 	<game name="Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl)">
 		<description>Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl)</description>
 		<rom name="Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl).gbc" size="524288" crc="068d6a70" md5="de6bafbf23389d72a4bab17b83e479d3" sha1="597e3900de3b75002096e07ebd0839186c7594a7" />
+	</game>
+	<game name="BreakOut (World) (Aftermarket) (Unl)">
+		<description>BreakOut (World) (Aftermarket) (Unl)</description>
+		<rom name="BreakOut (World) (Aftermarket) (Unl).gbc" size="32768" crc="258b47f9" md5="91d55e8de955bbc397c2bf85c08e7386" sha1="579c56b1d7b8318cf09f6c21b41043b5da703f4f" status="none" />
 	</game>
 	<game name="Candy Curfew (World) (v1.1) (Aftermarket) (GB Studio) (birdup)">
 		<description>Candy Curfew (World) (v1.1) (Aftermarket) (GB Studio) (birdup)</description>
@@ -102,6 +106,10 @@
 	<game name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)">
 		<description>Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)</description>
 		<rom name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl).gbc" size="524288" crc="b5d08d14" md5="59e32f8c38b3400bc147a470c88fb582" sha1="cbb21e03b63f72648ac3dfbc5fc5818fd15b6d3c" />
+	</game>
+	<game name="Flappy Turd (World) (Aftermarket) (Unl)">
+		<description>Flappy Turd (World) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Turd (World) (Aftermarket) (Unl).gbc" size="32768" crc="498caab2" md5="5e800f516cc9e33f1fa16dae7a8b4f07" sha1="7f33a176a5dd7dd8b743f1366c2a2cea09326b2c" status="none" />
 	</game>
 	<game name="Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)</description>
@@ -286,6 +294,10 @@
 	<game name="Piropa (World) (v2.1) (Aftermarket) (sg)">
 		<description>Piropa (World) (v2.1) (Aftermarket) (sg)</description>
 		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg).gbc" size="262144" crc="a8787006" md5="6d7e36ff5900e2ce2e30854c62aa697e" sha1="e0697fdfb0509ae68c8d1ffc3e138dd65301c7e1" status="none" />
+	</game>
+	<game name="Plant Blitz (World) (Aftermarket) (Unl)">
+		<description>Plant Blitz (World) (Aftermarket) (Unl)</description>
+		<rom name="Plant Blitz (World) (Aftermarket) (Unl).gbc" size="32768" crc="bb32f249" md5="988b8c009d681ebb632e64c4ac2fe1ba" sha1="f7c5a1c6b2f6c6b54439b8ef50335ea4fd056cad" status="none" />
 	</game>
 	<game name="Pokemon Scarlet Version (SGB Enhanced) (World) (Aftermarket) (Game Boy Demakes)">
 		<description>Pokemon Scarlet Version (SGB Enhanced) (World) (Aftermarket) (Game Boy Demakes)</description>

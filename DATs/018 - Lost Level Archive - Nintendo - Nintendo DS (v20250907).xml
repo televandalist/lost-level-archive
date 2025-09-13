@@ -5,7 +5,7 @@
 		<id>018</id>
 		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
 		<description>Nintendo - Nintendo DS</description>
-		<version>v20250907</version>
+		<version>v20250913</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -66,6 +66,10 @@
 	<game name="Bob's Game (World) (Demo) (Aftermarket) (Unl) (Robert Pelloni)">
 		<description>Bob's Game (World) (Demo) (Aftermarket) (Unl) (Robert Pelloni)</description>
 		<rom name="Bob's Game (World) (Demo) (Aftermarket) (Unl) (Robert Pelloni).nds" size="2942400" crc="6db72dab" md5="e8179d49f3100068cff4bdd2ab17dd40" sha1="34ee996172913d959b3488dbc67f9a02520d5d50" />
+	</game>
+	<game name="Boulder Crash 3D (World) (Aftermarket) (Unl)">
+		<description>Boulder Crash 3D (World) (Aftermarket) (Unl)</description>
+		<rom name="Boulder Crash 3D (World) (Aftermarket) (Unl).nds" size="812032" crc="0e29c034" md5="67d5601b89dad3dcd0b70ec8d05f2152" sha1="3459e78b6cfcca7a6bf3dde635f598c026e360e3" status="none" />
 	</game>
 	<game name="Boy and His Blob, A (USA) (Proto) (2005-05-16)">
 		<description>Boy and His Blob, A (USA) (Proto) (2005-05-16)</description>
