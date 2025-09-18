@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250906</version>
+		<version>v20250918</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -175,6 +175,10 @@
 		<description>Nicktoons Slap Shot (USA) (Prototype) (2004-03-25)</description>
 		<rom name="Nicktoons Slap Shot (USA) (Prototype) (2004-03-25).iso" size="129282048" crc="1cc6650b" md5="e870118777ef83bd7eb11bdf758d66c3" sha1="a9a672902c0b0532c3ad0617aacaa51221f032b3" />
 	</game>
+	<game name="Onimusha 2 - Samurai's Destiny (USA) (Undub) (v2021-02-14) (swosho)">
+		<description>Onimusha 2 - Samurai's Destiny (USA) (Undub) (v2021-02-14) (swosho)</description>
+		<rom name="Onimusha 2 - Samurai's Destiny (USA) (Undub) (v2021-02-14) (swosho).iso" size="3815086080" crc="fa1224f9" md5="27e74907227b3cc14dfe49fb99ee69e8" sha1="2e032451ac5fc7c21f438bb495e48ce3dd2dd688" status="none" />
+	</game>
 	<game name="Project Zero (Europe) (Undub) (v1.0.3) (wagrenier)">
 		<description>Project Zero (Europe) (Undub) (v1.0.3) (wagrenier)</description>
 		<link type="Project Page">https://github.com/wagrenier/ZeroUndub</link>
@@ -217,17 +221,29 @@
 		<description>Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.02) (Kotoba)</description>
 		<rom name="Shin Megami Tensei - Persona 3 (USA) (Undub - Remixed Music) (v1.02) (Kotoba).iso" size="4485382144" crc="1b630d0a" md5="55fe2385e132d544a3d1c36c2b8a8ea4" sha1="778e82c7463233727bcc0a7e856545ed7eb52553" />
 	</game>
-	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)">
-		<description>Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE)</description>
-		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Controllable Party) (TGE).iso" size="4594335744" crc="0526d83f" md5="52a46ba50484cbd6411d5e67b6625c15" sha1="462676be62f1cab35531fafe3335cf3456cdb919" />
+	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)">
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE).iso" size="4594335744" crc="0526d83f" md5="52a46ba50484cbd6411d5e67b6625c15" sha1="462676be62f1cab35531fafe3335cf3456cdb919" status="none" />
 	</game>
-	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01)">
-		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01)</description>
-		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01).iso" size="4534960128" crc="700b46b2" md5="afb5ba7e16953b6e6890bb56a7ec5eaa" sha1="786e8fd46b1b2f9c1a96b113e5f8dd30242ac51a" />
+	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)">
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Original BGM) (v1.01) (Fei).iso" size="4534960128" crc="da576993" md5="7b41861db8d5314c1c80ec918f6e14ef" sha1="4bcff9b964e0c2afc7f0644d93d2046582d4c824" status="none" />
 	</game>
-	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01) (Original BGM) (Controllable Party) (TGE)">
-		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01) (Original BGM) (Controllable Party) (TGE)</description>
-		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Undub) (v1.01) (Original BGM) (Controllable Party) (TGE).iso" size="4534960128" crc="da576993" md5="7b41861db8d5314c1c80ec918f6e14ef" sha1="4bcff9b964e0c2afc7f0644d93d2046582d4c824" />
+	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei)">
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei).iso" size="4535844864" crc="45241fd4" md5="dfdc589575a1c6384de1227ef25d7940" sha1="529a44b317f74e08b8048319b5f92ed855d32bd4" status="none" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare)">
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare).iso" size="4598462464" crc="ffc1d7b5" md5="5f045361d394575915a443944a8699ef" sha1="7a81e99ea129a16870a246b9d767dee2189d552a" status="none" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Original BGM) (v1.01) (Fei)">
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub - Original BGM) (v1.01) (Fei)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Original BGM) (v1.01) (Fei).iso" size="4534960128" crc="700b46b2" md5="afb5ba7e16953b6e6890bb56a7ec5eaa" sha1="786e8fd46b1b2f9c1a96b113e5f8dd30242ac51a" status="none" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)">
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)</description>
+		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei).iso" size="4535844864" crc="a6de40da" md5="9b89f172c98f09394313fc9d177fe2cb" sha1="4636efa4e277845e5cfbc63c34c0346091b144ac" status="none" />
 	</game>
 	<game name="Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) (En) (v1.1.3) (Jang &amp; Krisan Thyme)">
 		<description>Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) (En) (v1.1.3) (Jang &amp; Krisan Thyme)</description>
