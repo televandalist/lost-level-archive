@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250913</version>
+		<version>v20250921</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -1646,6 +1646,10 @@
 	<game name="Wicket el Ewok (Spain) (1987) (Walther Miller)">
 		<description>Wicket el Ewok (Spain) (1987) (Walther Miller)</description>
 		<rom name="Wicket el Ewok (Spain) (1987) (Walther Miller).rom" size="32768" crc="d42e3740" md5="f32d5d24d218a9813ea86aae08c78c73" sha1="ef6f0db4c9858a96f9a83cda414112087ad64b78" status="none" />
+	</game>
+	<game name="Wild Puzzle (2017) (Mapax)">
+		<description>Wild Puzzle (2017) (Mapax)</description>
+		<rom name="Wild Puzzle (2017) (Mapax).rom" size="1048576" crc="2d327502" md5="f43ee36983edf0c29653d22809a32bb1" sha1="48b3e0acf9029d2b83e850b75696e61e0a50a7ac" status="none" />
 	</game>
 	<game name="Wing Warriors (2015) (EGS, Kitmaker)">
 		<description>Wing Warriors (2015) (EGS, Kitmaker)</description>

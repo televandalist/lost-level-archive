@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>047</id>
+		<name>047 - Lost Level Archive - NEC - PC-8801 - D88</name>
+		<description>NEC - PC-8801 - D88</description>
+		<version>v20250921</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Ascend (2022) (Inufuto)">
+		<description>Ascend (2022) (Inufuto)</description>
+		<rom name="Ascend (2022) (Inufuto).d88" size="348848" crc="aada6f57" md5="5def00835e061a54fe6d1fa2d5a8d2b0" sha1="4a2b0196b8c45f78b496434b58d49dfac8475538" />
+	</game>
+	<game name="Black Onyx, The (Japan) (Game Disk) (En) (v1.0) (LordKarnov42)">
+		<description>Black Onyx, The (Japan) (Game Disk) (En) (v1.0) (LordKarnov42)</description>
+		<rom name="Black Onyx, The (Japan) (Game Disk) (En) (v1.0) (LordKarnov42).d88" size="349600" crc="2b37833a" md5="907babb78b5bbbbebeef2b1b1f52212e" sha1="ab8c4f4d9774ca11b7df43de261190674558d29e" />
+	</game>
+	<game name="Dragon &amp; Princess, The (Japan) (En) (v1.01) (NLeseul)">
+		<description>Dragon &amp; Princess, The (Japan) (En) (v1.01) (NLeseul)</description>
+		<rom name="Dragon &amp; Princess, The (Japan) (En) (v1.01) (NLeseul).d88" size="348848" crc="2a14dc5f" md5="4a70d47b026967ca8cfc93e261355565" sha1="3f5a2e3b1b822d22006be6f89206502c1dcfa1f1" />
+	</game>
+	<game name="Hachinoid (v1.0.1) (2021) (bent)">
+		<description>Hachinoid (v1.0.1) (2021) (bent)</description>
+		<rom name="Hachinoid (v1.0.1) (2021) (bent).d88" size="348848" crc="ad308a68" md5="249870e7657a87a5d0e6256c5c43418a" sha1="8f3e70c49c098c73c23ac7256ec332905da47d2e" />
+	</game>
+	<game name="Hopman (2023) (Inufuto)">
+		<description>Hopman (2023) (Inufuto)</description>
+		<rom name="Hopman (2023) (Inufuto).d88" size="348848" crc="06db7ca7" md5="17fce162c8ac66bad21bb8e801bd8bb3" sha1="94f920f9d2a4cb601d7bc97dbe7497d94d5473bd" />
+	</game>
+	<game name="Librarian, The (2022) (v0.91) (bent)">
+		<description>Librarian, The (2022) (v0.91) (bent)</description>
+		<rom name="Librarian, The (2022) (v0.91) (bent).d88" size="348848" crc="1ef6fc18" md5="a8bdd05816906c0b2ee99c29e094f734" sha1="8b8aeea1434bfbb6afb1423eeb3be1c99501c969" status="none" />
+	</game>
+	<game name="Nightlife (Japan) (En) (v1.0) (Umbrella Terms)">
+		<description>Nightlife (Japan) (En) (v1.0) (Umbrella Terms)</description>
+		<rom name="Nightlife (Japan) (En) (v1.0) (Umbrella Terms).d88" size="66240" crc="50abaf0a" md5="52ce540799528d35585b33950164a599" sha1="b003c9f5f5fdca81832db615094417a6ce89391d" />
+	</game>
+	<game name="Red Stack (1985) (Cosmos Computer)">
+		<description>Red Stack (1985) (Cosmos Computer)</description>
+		<rom name="Red Stack (1985) (Cosmos Computer).d88" size="185008" crc="fccef1b2" md5="99308a38ca6714a02110b0888932c473" sha1="f60b23641cd627667c16b1b44582e247e35aa389" />
+	</game>
+</datafile>
