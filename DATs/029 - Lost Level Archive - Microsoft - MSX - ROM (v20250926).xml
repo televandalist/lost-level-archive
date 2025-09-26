@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250921</version>
+		<version>v20250926</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -1579,6 +1579,14 @@
 		<description>Tragaperras (2005) (Jordi Sala Clara)</description>
 		<rom name="Tragaperras (2005) (Jordi Sala Clara).rom" size="16384" crc="cdc9fd74" md5="165d0e64762e6412e04ece9093839731" sha1="1074acd37ee42661d86b75a8491365ed8ceaa6e0" status="none" />
 	</game>
+	<game name="Transball (2016) (En) (v1.3.2) (Braingames)">
+		<description>Transball (2016) (En) (v1.3.2) (Braingames)</description>
+		<rom name="Transball (2016) (En) (v1.3.2) (Braingames).rom" size="32768" crc="cbcf03c5" md5="a58689d44636dfeb752ae49b549ab625" sha1="a2a7974e024e3ab9cef8739557fff3e066d57064" status="none" />
+	</game>
+	<game name="Transball (2016) (Es) (v1.3.2) (Braingames)">
+		<description>Transball (2016) (Es) (v1.3.2) (Braingames)</description>
+		<rom name="Transball (2016) (Es) (v1.3.2) (Braingames).rom" size="32768" crc="80776cee" md5="f45889716effd3c2bc801693181189f8" sha1="81035452cfa19a5505807a126eaacc57242b0bc0" status="none" />
+	</game>
 	<game name="Turfy (2018) (v20180708) (Uninteresting)">
 		<description>Turfy (2018) (v20180708) (Uninteresting)</description>
 		<rom name="Turfy (2018) (v20180708) (Uninteresting).rom" size="16384" crc="329e6672" md5="0cb1b85b022d40c5180b465daf5387c3" sha1="cdc8812cdf0026538b6542455b9bcf9badb6c648" status="none" />
@@ -1630,6 +1638,10 @@
 	<game name="Wash Man (2022) (v2.8) (Gamecast)">
 		<description>Wash Man (2022) (v2.8) (Gamecast)</description>
 		<rom name="Wash Man (2022) (v2.8) (Gamecast).rom" size="65536" crc="5c57f2bc" md5="b3667860ac0054515ab2bc55527cb44c" sha1="259807d6f616e3927c219724575022de760f5206" status="none" />
+	</game>
+	<game name="Westen House EX (2024) (Braingames)">
+		<description>Westen House EX (2024) (Braingames)</description>
+		<rom name="Westen House EX (2024) (Braingames).rom" size="131072" crc="313ac966" md5="95e34008e0bdc7a3532ac49544f283e7" sha1="96340fe1668903f9971533d73040a081dc177454" status="none" />
 	</game>
 	<game name="Whack 'Em Smack 'Em (2024) (v1.0) (JessCreations)">
 		<description>Whack 'Em Smack 'Em (2024) (v1.0) (JessCreations)</description>

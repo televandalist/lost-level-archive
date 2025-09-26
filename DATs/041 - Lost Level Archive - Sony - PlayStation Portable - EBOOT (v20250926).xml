@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (EBOOT)</name>
 		<description>Sony - PlayStation Portable (EBOOT)</description>
-		<version>v20250906</version>
+		<version>v20250926</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -5431,6 +5431,43 @@
 		<rom name="version.txt" size="4479" crc="64ba3ddb" md5="1e6c5a220ebe23a7935f24232819b215" sha1="86a413af2dd03eafca7662fd7c660f59485d68d7" />
 		<rom name="win32.lua" size="374" crc="7e38f265" md5="f7163edac47e6032b0506527a954cc1f" sha1="00dc1c7d6b90c45bb9862c187ace8ed45c0db013" />
 		<rom name="win32_start.bat" size="93" crc="3c9be14a" md5="17b4fb19b77d474c72c6ae48c9d6f60f" sha1="96e0d67cd79d492e1a55cd05e7ee71b20fe29676" />
+	</game>
+	<game name="Sailor Moon RevengeX (World) (Aftermarket) (Unl)">
+		<description>Sailor Moon RevengeX (World) (Aftermarket) (Unl)</description>
+		<rom name="ACTION.ADX" size="7792" crc="9bde7e1b" md5="29259d90400d732214b07576cf5626b1" sha1="c52fa209bb67289584883066d05be2fe912b9e35" status="none" />
+		<rom name="ANIM01.DXD" size="457744" crc="fd8a5d6e" md5="6513689fb40c602c33a090e0b1bfbd6d" sha1="52afcd97b1040bd946b57f6bf43753f3848e70c0" status="none" />
+		<rom name="BONUS.DXD" size="174672" crc="3f27aedb" md5="8fca37bafe8f77f4cc475d42be0bf5a1" sha1="ab02ed2c93a2394549da55f4ab4d90b0b05fb466" status="none" />
+		<rom name="DRAGON.DXD" size="299804" crc="f24032d5" md5="66e545b6c9386f19862abdeb2a52d977" sha1="9d4f92a1e0b62bbfba534768b1402d8578363b86" status="none" />
+		<rom name="DRAGSND.ADX" size="140779" crc="3a34d2a9" md5="4ee7a80e28c976ea863ee74f29eba535" sha1="37b22c886817fe3ce5e1cf13adbf73d3e60de944" status="none" />
+		<rom name="EBOOT.dcb" size="161246" crc="461df676" md5="7f3b684ee3e30d2b95f95f61c7e98964" sha1="cc984d07d359402a2e0661057bc79a8222718eaf" status="none" />
+		<rom name="EBOOT.PBP" size="2002872" crc="53b1abe1" md5="d6c068789e36306fa8e93be42bcc190e" sha1="867f3862cf603c099d9432d9525b973d7021e6ad" status="none" />
+		<rom name="GMLOAD.TTE" size="131775" crc="196a48e3" md5="501670ab83d56177b82a212dca226236" sha1="3fb1ef0022f210380685cf5f4c790ce3fda7f4c6" status="none" />
+		<rom name="KICK.ADX" size="30289" crc="051ce32f" md5="b80dfdd94485a338e1837c2b81683c3d" sha1="b50350eba8b99159321ae5e31f520bcbc7b7f14b" status="none" />
+		<rom name="LASER.ADX" size="59855" crc="49e2a478" md5="f082fc812ab518cc64d0ca5f88a569c4" sha1="728db309db6ccced437eb6fef9437e26bed2b42d" status="none" />
+		<rom name="OGRO.ADX" size="42556" crc="1e287097" md5="59b258e05d1a81a6c91e33d3d2cab729" sha1="349802f12a75ca06c7fd4c4cddf99212951b38da" status="none" />
+		<rom name="OGRO.DXD" size="281828" crc="b0bfa3a1" md5="62ba76acbb19943aafce0782691cf457" sha1="14d8b108345b9698a71f3b28991acf756c918315" status="none" />
+		<rom name="POWER.ADX" size="43453" crc="810ee8d7" md5="5d9c209637dd33c2165e69ddf27280cd" sha1="6ce1d4de477819fa62de7a638f84c8b64a4acfe8" status="none" />
+		<rom name="RAVEN.ADX" size="71649" crc="caf83e53" md5="f392ded3f3019c49de6d40d4a0f3b4ac" sha1="99bebf52474aa91011e6d45808925027156207ec" status="none" />
+		<rom name="SERENA.DXD" size="650108" crc="f72b8d89" md5="f690f152ca59cc0961088c63a7501e81" sha1="a219beaeba5f363e10dcaae66114354b4528a483" status="none" />
+		<rom name="STAGE01.DXD" size="517512" crc="d3013ff3" md5="dbb7fb756bb9e8ef11be197709aa8d36" sha1="a14119eb33adf2d581b533408b5b06e087bd2d2f" status="none" />
+		<rom name="STAGE02.DXD" size="307272" crc="c95158a8" md5="df38ccbe5d1abb20c27b8f6db641a199" sha1="ce7f87fca094977606b1a4d0b0b0ad2fdf1e5998" status="none" />
+		<rom name="STAGE03.DXD" size="164208" crc="50e2753f" md5="11bee3b44900b866aac7e70a0e85513a" sha1="b9fd72112dd427f7ba5a4d7e1fc183b984637d9b" status="none" />
+		<rom name="STAGE04.DXD" size="1687272" crc="6a229857" md5="08f819a18134144ed341f75ca02b2e32" sha1="def959033d089c9e158a3b4c89f8f9b24969cefa" status="none" />
+		<rom name="STAGE05.DXD" size="1590792" crc="c6ffe6bb" md5="47f6ebdc3af8ed6f6da17f1ae222e4b3" sha1="5c63f892139de276a9d7ef671b30e6c8a399691c" status="none" />
+		<rom name="STAGE07.DXD" size="1254312" crc="1fc1d9d0" md5="a62aa1cfc03d79ade2185686607b9dae" sha1="3713bb59c25723628c56fdce78d0f87c2ffbaca2" status="none" />
+		<rom name="STAGE08.DXD" size="666792" crc="d5ce704a" md5="a91ffb6b8b609b5df8ccdfa3faefef68" sha1="7f1fab195021ae33ab40f1f84115745c50323f0d" status="none" />
+		<rom name="STAGE09.DXD" size="563592" crc="cf874ada" md5="ab497601756f2e9b2488417cfc4e7dad" sha1="be6b50b18da0b80cc2bf1dd11c7b1a3a1b6bd150" status="none" />
+		<rom name="STAGE10.DXD" size="153672" crc="d71d5915" md5="869a82dac0e98d65b3a4400a06a419dd" sha1="eedb020ebb67c8720368add677130537a4ede5e9" status="none" />
+		<rom name="STAGE11.DXD" size="153672" crc="1248b22d" md5="4591ad5ef10e445949bff8c9a4b805ee" sha1="ab3f81336116517f78a2f4a9493cb39c0bcb1ded" status="none" />
+		<rom name="STAGE12.DXD" size="1310472" crc="fedc104e" md5="226f7c5a3ac120cb2292c6b3799505d5" sha1="3875390f11f117c7cd051f0100d3521eddc21b5e" status="none" />
+		<rom name="STAGE13.DXD" size="827592" crc="74283f6e" md5="f7bb88f48404ec6eba61fd3a8e1c3f72" sha1="c1a1ea62fa86dad9b86105f60c0f87279d034ca0" status="none" />
+		<rom name="STAGE14.DXD" size="153672" crc="b64e9cb4" md5="e9add8190faa03d24a4119703b7cb099" sha1="9d853be1dee23d32d7b960e27df005c4cb0e0dcc" status="none" />
+		<rom name="TRACK06.ADX" size="450150" crc="e46eb407" md5="a521dc489545d87ce127cb72acb39c0d" sha1="f0281ab01748b7d684ec8a55d4bc7af7d68eed74" status="none" />
+		<rom name="TRANSFRM.ADX" size="205591" crc="694c3f12" md5="ed7b90446b7ea2a6e958e6a6a5c30590" sha1="e79597a7b0f0da126f80e67f5a3032c12a33a921" status="none" />
+		<rom name="TRANSFRM.DXD" size="770920" crc="e4ce55a3" md5="ec53596c7037055dce37c1fe521604c9" sha1="0cb0c2bb9bca7e655426d31e45d96173546e9884" status="none" />
+		<rom name="VAMPIRE.DXD" size="232984" crc="ef102597" md5="2680e54662ea3b75304c966782bc7882" sha1="17d6cca98b29ba24b8ea2a6fb4b56257aa106c31" status="none" />
+		<rom name="WINNER.DXD" size="153672" crc="e34625be" md5="3b7af66425f5548882ce6ad1f2d5cd73" sha1="09749697497a356002cadd19b4c6172774428849" status="none" />
+		<rom name="WITCH.ADX" size="58948" crc="5ac7082d" md5="ca4544ee7d312170bab76dfb3af39e76" sha1="479fb4a311a29215f732a71944ed762161a3a1cb" status="none" />
 	</game>
 	<game name="Zelda - Oni Link Begins (v1.0) (Randall Spychalla)">
 		<description>Zelda - Oni Link Begins (v1.0) (Randall Spychalla)</description>

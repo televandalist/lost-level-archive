@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - DSK</name>
 		<description>Microsoft - MSX - DSK</description>
-		<version>v20250814</version>
+		<version>v20250926</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -253,6 +253,10 @@
 	<game name="Nyancle Racing (1988) (64K) (Bit2)">
 		<description>Nyancle Racing (1988) (64K) (Bit2)</description>
 		<rom name="Nyancle Racing (1988) (64K) (Bit2).dsk" size="737280" crc="f86ce067" md5="19883eedd59fd6a9886f05e236ebe204" sha1="f04abb4b149db20a860984062fc66d207e852538" status="none" />
+	</game>
+	<game name="Oath Under the Stars, The (2025) (meichnpp)">
+		<description>Oath Under the Stars, The (2025) (meichnpp)</description>
+		<rom name="Oath Under the Stars, The (2025) (meichnpp).dsk" size="737280" crc="8083bddb" md5="56c4952af7419dd70e52ea3c45b26e4a" sha1="8780fb9c3742a46e4a984750a032700ff87434c9" status="none" />
 	</game>
 	<game name="Obake-chan (2025) (v1.0) (meichnpp)">
 		<description>Obake-chan (2025) (v1.0) (meichnpp)</description>

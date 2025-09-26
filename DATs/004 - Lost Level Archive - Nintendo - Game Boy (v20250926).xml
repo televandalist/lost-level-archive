@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20250913</version>
+		<version>v20250926</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -245,9 +245,13 @@
 		<description>GB Paint (World) (Aftermarket) (Unl)</description>
 		<rom name="GB Paint (World) (Aftermarket) (Unl).gb" size="131072" crc="2c77d091" md5="e5c30dd277d746345269b868f8f5eae1" sha1="7b1e27b76ffe563c5772000f60ad3dc2de0a54c3" />
 	</game>
-	<game name="GSPS - The Game (Poland) (v1.0) (Aftermarket) (zachariasz455)">
-		<description>GSPS - The Game (Poland) (v1.0) (Aftermarket) (zachariasz455)</description>
-		<rom name="GSPS - The Game (Poland) (v1.0) (Aftermarket) (zachariasz455).gb" size="524288" crc="8045c88e" md5="df77829789b41cc5be505e8cdce80ce1" sha1="2c32a0199d53b750c57dfa5fac4f862bf92812c7" status="none" />
+	<game name="GSPS - The Game (Poland) (En) (v1.0) (Aftermarket) (zachariasz455)">
+		<description>GSPS - The Game (Poland) (En) (v1.0) (Aftermarket) (zachariasz455)</description>
+		<rom name="GSPS - The Game (Poland) (En) (v1.0) (Aftermarket) (zachariasz455).gb" size="524288" crc="8465b47b" md5="01cf4c043f69a9924f2a689e3fa60157" sha1="ed5f63a9c600ff8a85e0bad52a0b78fe04efed99" status="none" />
+	</game>
+	<game name="GSPS - The Game (Poland) (Pl) (v1.0) (Aftermarket) (zachariasz455)">
+		<description>GSPS - The Game (Poland) (Pl) (v1.0) (Aftermarket) (zachariasz455)</description>
+		<rom name="GSPS - The Game (Poland) (Pl) (v1.0) (Aftermarket) (zachariasz455).gb" size="524288" crc="8045c88e" md5="df77829789b41cc5be505e8cdce80ce1" sha1="2c32a0199d53b750c57dfa5fac4f862bf92812c7" status="none" />
 	</game>
 	<game name="Halo - Combat Devolved (World) (Aftermarket) (GB Studio)">
 		<description>Halo - Combat Devolved (World) (Aftermarket) (GB Studio)</description>
