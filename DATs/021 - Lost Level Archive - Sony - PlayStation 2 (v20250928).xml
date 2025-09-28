@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250918</version>
+		<version>v20250928</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -277,6 +277,10 @@
 	<game name="Tales of the Abyss (USA) (Undub) (v2.5) (Kotoba Group)">
 		<description>Tales of the Abyss (USA) (Undub) (v2.5) (Kotoba Group)</description>
 		<rom name="Tales of the Abyss (USA) (Undub) (v2.5) (Kotoba Group).iso" size="4669773824" crc="597b8393" md5="320cc72a8f624e9bfaa575b35c80108c" sha1="c6b1c2390f4cdf592570b36b947d31b9f9343437" />
+	</game>
+	<game name="Tales of the Abyss (USA) (Undub) (v2.6) (Kotoba Group)">
+		<description>Tales of the Abyss (USA) (Undub) (v2.6) (Kotoba Group)</description>
+		<rom name="Tales of the Abyss (USA) (Undub) (v2.6) (Kotoba Group).iso" size="4154155008" crc="556cce27" md5="b24ac3e820d0e11f964ed54a9d005014" sha1="3de1608b680d26bfac630ae8bc8f57148c76243a" status="none" />
 	</game>
 	<game name="Warriors Orochi 2 (USA) (Undub) (v1.0) (swosho)">
 		<description>Warriors Orochi 2 (USA) (Undub) (v1.0) (swosho)</description>

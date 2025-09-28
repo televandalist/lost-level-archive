@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250830</version>
+		<version>v20250928</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -249,6 +249,11 @@
 		<rom name="PETSCOP - Restored (NTSC) (Demo) (v1.2) (Aftermarket) (NITROYUASH).bin" size="184582608" crc="ee3db5d8" md5="7cfbfbb58f513465ab51802a3182ea36" sha1="359b6176b46ef3ecb74b4a3ff511256ef10782c7" />
 		<rom name="PETSCOP - Restored (NTSC) (Demo) (v1.2) (Aftermarket) (NITROYUASH).cue" size="132" crc="2a2a18fb" md5="fda3998434f60044cae631d2413d1016" sha1="8218e1e7aa51377d07f758618140c2ba235c4ea4" />
 	</game>
+	<game name="PETSCOP - Restored (NTSC) (v1.3) (Aftermarket) (NITROYUASH)">
+		<description>PETSCOP - Restored (NTSC) (v1.3) (Aftermarket) (NITROYUASH)</description>
+		<rom name="PETSCOP - Restored (NTSC) (v1.3) (Aftermarket) (NITROYUASH).bin" size="185596320" crc="a0b57812" md5="81dad9f49e30bd7598b4b8d4c974400e" sha1="32ab1698a3017f699b749c7736691c26bd8f2e78" status="none" />
+		<rom name="PETSCOP - Restored (NTSC) (v1.3) (Aftermarket) (NITROYUASH).cue" size="125" crc="4bac2016" md5="9bac77cf27216d3fbc8f4781de84863d" sha1="ff6e49b518feacd0808cb2b3f4112aa4c32556fd" status="none" />
+	</game>
 	<game name="PlayStation Doom - Master Edition (Beta 4) (Team GEC)">
 		<description>PlayStation Doom - Master Edition (Beta 4) (Team GEC)</description>
 		<rom name="PlayStation Doom - Master Edition (Beta 4) (Team GEC).bin" size="472947216" crc="5c21499f" md5="a73799f58d8a39464e2911563fdf29d5" sha1="470a7503f6353ad3a9572dd237e28b1c4dd39341" />
@@ -482,6 +487,11 @@
 		<description>WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio)</description>
 		<rom name="WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio).bin" size="650158656" crc="e514c3aa" md5="50aeccd8ea8d2975d1eac06c3f9bae03" sha1="860f99e2dce82230e25ba48611fd9268e5420d44" />
 		<rom name="WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio).cue" size="117" crc="4932305a" md5="3bd5ef83a018f003fd047b78b411e54e" sha1="54f106827da945905dc754aa713fa1360374aa95" />
+	</game>
+	<game name="Where's Derpy (USA) (v1.1) (Aftermarket) (gameblabla)">
+		<description>Where's Derpy (USA) (v1.1) (Aftermarket) (gameblabla)</description>
+		<rom name="Where's Derpy (USA) (v1.1) (Aftermarket) (gameblabla).bin" size="7573440" crc="68874224" md5="ad36ac36a8322a404b3df6354db02669" sha1="b317170479855fb5d1961c1d47c080f4174c5228" status="none" />
+		<rom name="Where's Derpy (USA) (v1.1) (Aftermarket) (gameblabla).cue" size="119" crc="e1b9ef4b" md5="ef216f21072360597a1d2efbaf253a13" sha1="5ace27bd0008e15701a71c5761758005d4c5ceaa" status="none" />
 	</game>
 	<game name="Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl)">
 		<description>Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl)</description>
