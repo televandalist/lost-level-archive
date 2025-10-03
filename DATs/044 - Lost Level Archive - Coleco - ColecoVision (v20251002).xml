@@ -5,7 +5,7 @@
 		<id>044</id>
 		<name>044 - Lost Level Archive - Coleco - ColecoVision</name>
 		<description>Coleco - ColecoVision</description>
-		<version>v20250621</version>
+		<version>v20251002</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -114,6 +114,10 @@
 	<game name="Track &amp; Field (World) (Aftermarket) (Team Pixelboy)">
 		<description>Track &amp; Field (World) (Aftermarket) (Team Pixelboy)</description>
 		<rom name="Track &amp; Field (World) (Aftermarket) (Team Pixelboy).col" size="16417" crc="a8b4b159" md5="fbf9d274f3b730a1a03bf4edd49e94b6" sha1="39a90ef25c2a2a404e2caf5a6ad1ff828f8c72fc" status="none" />
+	</game>
+	<game name="Where's Derpy (USA) (v1.2) (Aftermarket) (gameblabla)">
+		<description>Where's Derpy (USA) (v1.2) (Aftermarket) (gameblabla)</description>
+		<rom name="Where's Derpy (USA) (v1.2) (Aftermarket) (gameblabla).col" size="27740" crc="53059516" md5="291282d0946c56d3763044d73fbff74c" sha1="a595ebac485814cd6e4c40b33dfbcab25d0e9c03" status="none" />
 	</game>
 	<game name="Zombie Incident (SGM) (World) (v2018) (Aftermarket) (Unl)">
 		<description>Zombie Incident (SGM) (World) (v2018) (Aftermarket) (Unl)</description>
