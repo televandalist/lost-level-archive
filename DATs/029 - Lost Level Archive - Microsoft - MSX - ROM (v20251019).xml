@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20250926</version>
+		<version>v20251019</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -22,6 +22,10 @@
 	<game name="Adventures of Moron van der Slut, The (2010) (The New Image)">
 		<description>Adventures of Moron van der Slut, The (2010) (The New Image)</description>
 		<rom name="Adventures of Moron van der Slut, The (2010) (The New Image).rom" size="131072" crc="08545471" md5="7145bbe78ca41c7eb4ebb5993ed9996c" sha1="74ace233682d2e4355a02e52bbd078358811a35b" status="none" />
+	</game>
+	<game name="Aleste 2 (1989) (Compile) (ROM Conversion) (v8.0) (Ricbit)">
+		<description>Aleste 2 (1989) (Compile) (ROM Conversion) (v8.0) (Ricbit)</description>
+		<rom name="Aleste 2 (1989) (Compile) (ROM Conversion) (v8.0) (Ricbit).rom" size="2097152" crc="002fe8f7" md5="d7a82c877457e9917171c77aa828c1aa" sha1="e93d0840c59c6eba273df546d22148d486a150a6" status="none" />
 	</game>
 	<game name="Alien Attack (2021) (v3.0) (Marcos Daniel Blanco, Daniel Simon)">
 		<description>Alien Attack (2021) (v3.0) (Marcos Daniel Blanco, Daniel Simon)</description>

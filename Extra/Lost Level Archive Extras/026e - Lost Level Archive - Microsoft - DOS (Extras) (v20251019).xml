@@ -5,7 +5,7 @@
 		<id>026e</id>
 		<name>026e - Lost Level Archive - Microsoft - DOS - Extras</name>
 		<description>Microsoft - DOS - Extras</description>
-		<version>v20250915</version>
+		<version>v20251019</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -38,6 +38,10 @@
 	<game name="Abyss of Pandemonium (1998) (Impel Development Team) (Extras)">
 		<description>Abyss of Pandemonium (1998) (Impel Development Team) (Extras)</description>
 		<rom name="Abyss of Pandemonium (1998) (Impel Development Team) - Manual.txt" size="5733" crc="ae4c52d6" md5="c966f687df6f5b3c9aff02f070b6645e" sha1="af97054fe758642256e33e60ec354f4cd910bf10" status="none" />
+	</game>
+	<game name="Acronia (2020) (Hadrosaurus Software) (Extras)">
+		<description>Acronia (2020) (Hadrosaurus Software) (Extras)</description>
+		<rom name="Acronia (2020) (Hadrosaurus Software) - User Guide.pdf" size="5320671" crc="1255c41b" md5="4e7cbe2b0e26d8e51775336f27eb9f27" sha1="280d3e5f6c9bbaa5697def7f1df21eeede2a1152" status="none" />
 	</game>
 	<game name="Adventures of Willy Beamish, The (1991) (Dynamix) (Extras)">
 		<description>Adventures of Willy Beamish, The (1991) (Dynamix) (Extras)</description>
@@ -164,6 +168,10 @@
 		<rom name="Armored Fist (1994) (NovaLogic) - Manual.pdf" size="3178996" crc="cc837788" md5="7e74e30d1c0217d89ba6777f718e7b68" sha1="531023ef2974e52f744843e7b095e4fa24d034f4" status="none" />
 		<rom name="Armored Fist (1994) (NovaLogic) - Official Strategy Guide (Prima).pdf" size="133512073" crc="41b8a460" md5="c58a45f901382d544d51f000d65e3ce8" sha1="550c95fe40fb90c17f8d9ca9b7f286fcea1dc367" status="none" />
 	</game>
+	<game name="Arrakis (2000) (Stefan Hendriks) (Extras)">
+		<description>Arrakis (2000) (Stefan Hendriks) (Extras)</description>
+		<rom name="Arrakis (2000) (Stefan Hendriks) - Manual.txt" size="10038" crc="1d602d90" md5="e7d86a21fbb0ed0255ce3ddf7e198b50" sha1="3392c64c5d1d6f8b4cd6a0619d51e51427051004" status="none" />
+	</game>
 	<game name="Asterix - Caesar's Challenge (1995) (Infogrames) (Extras)">
 		<description>Asterix - Caesar's Challenge (1995) (Infogrames) (Extras)</description>
 		<rom name="Asterix - Caesar's Challenge (1995) (Infogrames) - Manual.pdf" size="41786410" crc="ace11213" md5="b341f567649e851cb0288b151b290cdc" sha1="8e78a862984941bc0255e01d2a3047f7300e057f" status="none" />
@@ -225,6 +233,11 @@
 		<rom name="Bard's Tale 3, The - Thief Of Fate (1990) (Interplay) - Interactive Code Wheel.htm" size="7470429" crc="a827b8cf" md5="b5f744ce067f8f79003f7a363db4d319" sha1="726da018ad5c5bc5b540588c879b2c8e23479a84" status="none" />
 		<rom name="Bard's Tale 3, The - Thief Of Fate (1990) (Interplay) - Manual.pdf" size="11192786" crc="070e4f1e" md5="d3f7fc333563f06336fe25cb83e4781e" sha1="77a39603d94df4949e0db739ebb1ed65d9251856" status="none" />
 		<rom name="Bard's Tale 3, The - Thief Of Fate (1990) (Interplay) - Map.jpg" size="101707" crc="c808aaa3" md5="e809fc05fe467eae9e8ae816b466d6c0" sha1="94889c9a46bfd1cf76d7230169e15900766a2c21" status="none" />
+	</game>
+	<game name="Barren Planet (2023) (Cyningstan) (Extras)">
+		<description>Barren Planet (2023) (Cyningstan) (Extras)</description>
+		<rom name="Barren Planet (2023) (Cyningstan) - Manual.pdf" size="3479302" crc="0d7c0336" md5="75a8e1a668824797705491de6523b436" sha1="7923ec4b6fb48965679790e19943ddd99e0b27d0" status="none" />
+		<rom name="Barren Planet - The Polar Expedition (2023) (Cyningstan) - Manual.pdf" size="3502395" crc="519fa482" md5="2dbf92f8a1a3dcda57adc62fc7856a73" sha1="bb07ff0bbbf124a9e427cbcd68eb0fc606020242" status="none" />
 	</game>
 	<game name="Batman - The Caped Crusader (1989) (Special FX Software) (Extras)">
 		<description>Batman - The Caped Crusader (1989) (Special FX Software) (Extras)</description>
@@ -566,6 +579,11 @@
 		<rom name="Contra (1988) (Konami) - Manual.pdf" size="2677042" crc="3f6af7b0" md5="ed2a59af6636c594e0c644f53b259e12" sha1="5b4291baf3a47ad56bf546b03f2a9a152c76a3f3" status="none" />
 		<rom name="Contra (1988) (Konami) - Poster.jpg" size="1580470" crc="f60f1756" md5="91c6d36a5a545a4093a492484e0a4012" sha1="9aeb5983bf18908993b49bfba53aedacc80a58e4" status="none" />
 	</game>
+	<game name="Cool Spot (1994) (Virgin Games) (Extras)">
+		<description>Cool Spot (1994) (Virgin Games) (Extras)</description>
+		<rom name="Cool Spot (1994) (Virgin Games) - Manual.pdf" size="6775512" crc="56f83271" md5="6e450facf0b13e8a98ccebf8c5f83ef2" sha1="a40f1807a0de1a618d084f94c7424601c2596afc" status="none" />
+		<rom name="Cool Spot (1994) (Virgin Games) - Reference Card.jpg" size="508971" crc="9f29c385" md5="1ce767eafbe28a67ae7a7b5ad4ca0b7a" sha1="892377007483e8ef5ad11b345f159aa78f6f9afd" status="none" />
+	</game>
 	<game name="Cosmo's Cosmic Adventure - Forbidden Planet (1992) (Apogee Software) (Extras)">
 		<description>Cosmo's Cosmic Adventure - Forbidden Planet (1992) (Apogee Software) (Extras)</description>
 		<rom name="Cosmo's Cosmic Adventure - Forbidden Planet (1992) (Apogee Software) - Manual.pdf" size="415361" crc="921eccbb" md5="82a90de03c571bc320e4b382327b5c29" sha1="d6d414637d330d385c108d5c5af8d5d5a5ab3764" status="none" />
@@ -901,6 +919,10 @@
 		<rom name="Earthworm Jim (1996) (Rainbow Arts) - GamePro Strategy Guide.pdf" size="11010114" crc="25d164f8" md5="7548747fcaecb0815d069719f0614c98" sha1="95879fff7aa788e486efa0c600e6162eb6de66b8" status="none" />
 		<rom name="Earthworm Jim (1996) (Rainbow Arts) - Manual.pdf" size="13476642" crc="fc356b6c" md5="945fbaa22a267cd41c5f5ed0a76060d7" sha1="4177b3972fdd9d3edd3e4af6d165df0ba9a7822b" status="none" />
 	</game>
+	<game name="Economitopia 2 (2020) (SuperLeaf 1995) (Extras)">
+		<description>Economitopia 2 (2020) (SuperLeaf 1995) (Extras)</description>
+		<rom name="Economitopia 2 (2020) (SuperLeaf 1995) - Manual.txt" size="53" crc="7f0717d1" md5="de7e3f22cf45d535913e9ff60a0980de" sha1="272f55dcdf761f79c45004bfcb32b503faf5273e" status="none" />
+	</game>
 	<game name="EcoQuest 1 - The Search for Cetus (1991) (Sierra On-Line) (Extras)">
 		<description>EcoQuest 1 - The Search for Cetus (1991) (Sierra On-Line) (Extras)</description>
 		<rom name="EcoQuest 1 - The Search for Cetus (1991) (Sierra On-Line) - Eco News.pdf" size="10581777" crc="493affcf" md5="357c9434de4200aed25e9b7201704441" sha1="b18e1c59706df28ca8f30640d3c6d371b2873bc4" status="none" />
@@ -1067,6 +1089,11 @@
 	<game name="Galaxian (1983) (Atari) (Extras)">
 		<description>Galaxian (1983) (Atari) (Extras)</description>
 		<rom name="Galaxian (1983) (Atari) - Manual.pdf" size="1967321" crc="64c359a0" md5="841baae3e8bbfdeff0053866d15c7c72" sha1="577a54fa47d3c109515a21df8a1d92a1da64060e" status="none" />
+	</game>
+	<game name="Gates Of Integrity (2022) (Tarjan) (Extras)">
+		<description>Gates Of Integrity (2022) (Tarjan) (Extras)</description>
+		<rom name="Gates Of Integrity (2022) (Tarjan) - Hintbook.pdf" size="2890422" crc="a22ceb1e" md5="f8d4bcb1cc278378437952cbbf8f0163" sha1="a21fe5dc81a0cbeec66ee805a808d6ae9c507e25" status="none" />
+		<rom name="Gates Of Integrity (2022) (Tarjan) - Monster and Item List.pdf" size="33656" crc="66032c6a" md5="77cad39fcb5fa04c7f8810560b54703f" sha1="28b7065707bb5a66c16a268dcfc4225d635a742a" status="none" />
 	</game>
 	<game name="Gateway to the Savage Frontier (1991) (Beyond Software) (Extras)">
 		<description>Gateway to the Savage Frontier (1991) (Beyond Software) (Extras)</description>
@@ -1409,6 +1436,15 @@
 		<rom name="Lands of Lore - The Throne of Chaos (1993) (Westwood Studios) - The History of the Lands of Lore.pdf" size="7081935" crc="88a1b1e2" md5="97f1b9088ecedcecac6bcc1bb911c0cd" sha1="18c2cc85f61036de5e3e14e2ccf973a939d8b3e1" status="none" />
 		<rom name="Lands of Lore - The Throne of Chaos (1993) (Westwood Studios) - VG Maps.pdf" size="1421221" crc="3c704109" md5="fcb6960a663c5800a130a397614e5800" sha1="7bf2f6b8bc9e19e30c225d15b5f9c525f1eedcee" status="none" />
 	</game>
+	<game name="Laura Bow in the Dagger of Amon Ra (1992) (Sierra On-Line) (Extras)">
+		<description>Laura Bow in the Dagger of Amon Ra (1992) (Sierra On-Line) (Extras)</description>
+		<rom name="Laura Bow in the Dagger of Amon Ra (1992) (Sierra On-Line) - CD Manual.pdf" size="2029034" crc="be47e13f" md5="9671448ec50efa34632a71ce3c0f6498" sha1="46b6acc5a885ea7acc49c8c90336759519262c88" status="none" />
+		<rom name="Laura Bow in the Dagger of Amon Ra (1992) (Sierra On-Line) - Egyptian Exhibit Flyer.pdf" size="628907" crc="866de017" md5="9930ee540dedfe2388cfaafd01b02d94" sha1="0e7712bade1f5ebf9658c022c11f603c403fab2c" status="none" />
+		<rom name="Laura Bow in the Dagger of Amon Ra (1992) (Sierra On-Line) - Hint Book.pdf" size="14547512" crc="9f7d507a" md5="d5513df5d9ad2205710601f948908288" sha1="dc73844e37f77d9d3f03d93cfe098375057f9273" status="none" />
+		<rom name="Laura Bow in the Dagger of Amon Ra (1992) (Sierra On-Line) - Manual.pdf" size="16102588" crc="89f45948" md5="12a925a25cf19f746652868878bc9c85" sha1="3cd37f219cd5276256510d85fc36b1d4e710485e" status="none" />
+		<rom name="Laura Bow in the Dagger of Amon Ra (1992) (Sierra On-Line) - Reference Card.pdf" size="1006078" crc="fa905a8d" md5="78aa4cd5a8291e3391ef7df45bf5eaf4" sha1="27b5f02de3dd00c73e7c82ba9d05b53a1a1ba633" status="none" />
+		<rom name="Laura Bow in the Dagger of Amon Ra (1992) (Sierra On-Line) - Sierra Game Manual.pdf" size="7792956" crc="0427f1f7" md5="f1f83d168f7b2b0c62147a6e045d9cb0" sha1="0cf3b958c27014c87d3b2b9db497133fef07c6bf" status="none" />
+	</game>
 	<game name="Legend of Kyrandia Book 1 (1992) (Westwood Studios) (Extras)">
 		<description>Legend of Kyrandia Book 1 (1992) (Westwood Studios) (Extras)</description>
 		<rom name="Legend of Kyrandia Book 1 (1992) (Westwood Studios) - Addendum.pdf" size="598637" crc="e32febb9" md5="f46f367baf20434aa61f8bdaf85dfbd3" sha1="729eb17966cabdc51f178ccc1deef2cb873485df" status="none" />
@@ -1731,6 +1767,10 @@
 		<description>Might and Magic - Swords of Xeen (1995) (Catware) (Extras)</description>
 		<rom name="Might and Magic - Swords of Xeen (1995) (Catware) - Manual.pdf" size="2947181" crc="a9e50206" md5="88529a82ebcfb4bc7f0e6a1c96fbca0c" sha1="b6e9b984fea7d0fddbcc4c66111b4bd5f65a3929" status="none" />
 	</game>
+	<game name="Millenium - Return to Earth (1989) (Software Studios) (Extras)">
+		<description>Millenium - Return to Earth (1989) (Software Studios) (Extras)</description>
+		<rom name="Millenium - Return to Earth (1989) (Software Studios) - Manual.pdf" size="8606068" crc="f9e33346" md5="8534330b5dfd540810b3fb517fec595c" sha1="e47280a6fa56f4e41708324db66d33e7c2ff14e9" status="none" />
+	</game>
 	<game name="Miner 2049er (1983) (Micro Fun) (Extras)">
 		<description>Miner 2049er (1983) (Micro Fun) (Extras)</description>
 		<rom name="Miner 2049er (1983) (Micro Fun) - Manual.pdf" size="123064" crc="80041ec1" md5="894b04181212c44f10e87f50ecfcb081" sha1="10bb9a88e90d4088dc5fd8a98b7c8b63391688a5" status="none" />
@@ -1824,6 +1864,12 @@
 	<game name="Ninja Gaiden (1990) (Tecmo) (Extras)">
 		<description>Ninja Gaiden (1990) (Tecmo) (Extras)</description>
 		<rom name="Ninja Gaiden (1990) (Tecmo) - Manual.pdf" size="151323" crc="b94ec5f4" md5="ba90e7c026dbad7e5bc5fac6caaaf0a0" sha1="86868be7c677bda27278a14cb17e090dab542382" status="none" />
+	</game>
+	<game name="Obitus (1991) (Scenario) (Extras)">
+		<description>Obitus (1991) (Scenario) (Extras)</description>
+		<rom name="Obitus (1991) (Scenario) - Manual.pdf" size="9491636" crc="5e4f44a1" md5="90f28cda3389671c4d2eedf6de521d5d" sha1="1c5f61097a6dab8813f72cded4dc9b4f019294ae" status="none" />
+		<rom name="Obitus (1991) (Scenario) - Note.jpg" size="110638" crc="e4c2dfdf" md5="b0b27c8e2ce78f1761ddca108212ee89" sha1="b75a7d3464f52d02ba6cb8182c0e23a9d44dd73d" status="none" />
+		<rom name="Obitus (1991) (Scenario) - Reference Card.pdf" size="596601" crc="6eb4c6ef" md5="9aa8ee1ff1e10ad94eb7244d472987e8" sha1="4b1cbba627982ee1215650ece09f195a9c87bf73" status="none" />
 	</game>
 	<game name="Oddworld - Abe's Oddysee (1997) (Oddworld Inhabitants) (Extras)">
 		<description>Oddworld - Abe's Oddysee (1997) (Oddworld Inhabitants) (Extras)</description>
@@ -1976,6 +2022,15 @@
 		<rom name="Pools of Darkness (1991) (SSI) - Cluebook.pdf" size="35248778" crc="b1f9644b" md5="ef49e50abfa67448df5323708544eb4e" sha1="677b642b0c86afbaef314d5c0a144547e5106a6d" status="none" />
 		<rom name="Pools of Darkness (1991) (SSI) - Manual.pdf" size="8199002" crc="6220fb28" md5="4b67ad3f42d2a74aa8d8827e94119961" sha1="304108b76f50c830f422c7db1d41603bd8b1cf98" status="none" />
 		<rom name="Pools of Darkness (1991) (SSI) - Quick Reference Card.pdf" size="1005700" crc="f3a5ce59" md5="49991d4952d14613fd73f7301e8bf0ef" sha1="0c0a8437679abbb867a5385c29aa2300a784340f" status="none" />
+	</game>
+	<game name="Populous (1989) (Bullfrog Productions) (Extras)">
+		<description>Populous (1989) (Bullfrog Productions) (Extras)</description>
+		<rom name="Populous (1989) (Bullfrog Productions) - Addendum.pdf" size="328752" crc="7f2cb230" md5="d516f2810b6aced27330a0e4563df913" sha1="1a083ea09371b9312696f4955f5efe9c3be411b4" status="none" />
+		<rom name="Populous (1989) (Bullfrog Productions) - Command Summary Card.pdf" size="6934776" crc="b2351a9a" md5="9a85e510eb6b55d7d3a7ebad2ce895c8" sha1="84c9b150ee276e11817a836149520d810fc49b21" status="none" />
+		<rom name="Populous (1989) (Bullfrog Productions) - GOG Manual.pdf" size="3775851" crc="aaa96fb0" md5="c557c356dd4af3a44492a59114f5c0d0" sha1="53b76733cad0908f2d53dae40473a78ad0ebcf42" status="none" />
+		<rom name="Populous (1989) (Bullfrog Productions) - Manual.pdf" size="3759811" crc="a0cf1130" md5="6e46d3480fec350f6f8838b3e75d8b9d" sha1="6a85089d3fab227884b256765fbcb8e2afe4bdd2" status="none" />
+		<rom name="Populous (1989) (Bullfrog Productions) - The Promised Lands Order Form.pdf" size="1325289" crc="8c7d4c39" md5="5d5ef97fb95e5dc5f45928a86e2e1b02" sha1="42e079fdd931727083d922220ca53b3ef4382d9e" status="none" />
+		<rom name="Populous (1989) (Bullfrog Productions) - The Promised Lands Reference Card.pdf" size="5381980" crc="823a1d84" md5="dd1b10daff3ceba3931fef9592999180" sha1="a3adf98313de460aab8973eff061eda1ce0a079a" status="none" />
 	</game>
 	<game name="Powerslave (1996) (Lobotomy Software) (Extras)">
 		<description>Powerslave (1996) (Lobotomy Software) (Extras)</description>
@@ -2321,6 +2376,11 @@
 		<rom name="Sid Meier's Railroad Tycoon Deluxe (1993) (MPS Labs) - Player Aid Cards.pdf" size="32326015" crc="c5f02b70" md5="f27c65aab7681cafee5df5da14fa0b22" sha1="aa7cb6b65c78212c752bd382172a8a1673f40678" status="none" />
 		<rom name="Sid Meier's Railroad Tycoon Deluxe (1993) (MPS Labs) - Technical Supplement.pdf" size="102217" crc="8a59dba0" md5="11222967c1d467e86a10379bda6a41c2" sha1="aa0fbf69596efd4c4c3b3209828e3ad9e61c3c4d" status="none" />
 	</game>
+	<game name="Silpheed (1988) (Sierra On-Line) (Extras)">
+		<description>Silpheed (1988) (Sierra On-Line) (Extras)</description>
+		<rom name="Silpheed (1988) (Sierra On-Line) - Copy Protection.jpg" size="146760" crc="3aa7ab85" md5="f08b6ed517eeb026a402dc841079da84" sha1="59f26a4c09198b34eb114307aea1f476dd86acf9" status="none" />
+		<rom name="Silpheed (1988) (Sierra On-Line) - Manual.pdf" size="3859557" crc="ee317fb9" md5="ee622a8c08932755962b64ace7f2189c" sha1="c3c74b5f8ac90991ac77e80a633773fb15b77229" status="none" />
+	</game>
 	<game name="Silverball (1993) (Epic MegaGames) (Extras)">
 		<description>Silverball (1993) (Epic MegaGames) (Extras)</description>
 		<rom name="Silverball (1993) (Epic MegaGames) - Manual.pdf" size="5191332" crc="5662b2ee" md5="bcc69cb0f38c7cb5fe1e657f1795e5b2" sha1="c4e02ee7c036d6e3cad2b9c7eb0b21b80101ee8c" status="none" />
@@ -2659,6 +2719,21 @@
 		<rom name="System Shock (1994) (Looking Glass Technologies) - Reference Card.pdf" size="428813" crc="0dad05a8" md5="e0c5aca005876ae580bf8f75d156ef68" sha1="9fd19fd5f5543c3efa82efc93b9faec01d3698dc" status="none" />
 		<rom name="System Shock (1994) (Looking Glass Technologies) - Strategies and Secrets.pdf" size="202300778" crc="3420b3fe" md5="7947362f53baae0ea84d0364cfe1280f" sha1="524a42a8edfcf236909a9c7146c473836fc65dad" status="none" />
 		<rom name="System Shock (1994) (Looking Glass Technologies) - VG Maps.pdf" size="914948" crc="05ba9ce3" md5="a667dda15e6fd4c616634bdfc806fd60" sha1="fb7c297f35bec7d36094362a9858ac797481b456" status="none" />
+	</game>
+	<game name="Task Force 1942 (1992) (MPS Labs) (Extras)">
+		<description>Task Force 1942 (1992) (MPS Labs) (Extras)</description>
+		<rom name="Task Force 1942 (1992) (MPS Labs) - Guide to Japanese Naval Vessels.pdf" size="31575686" crc="c79b8ed1" md5="050f46929bb475d8036b0a04cb836e83" sha1="df83ff2b71a4626c1c3ab7228450bb7c8521064b" status="none" />
+		<rom name="Task Force 1942 (1992) (MPS Labs) - Guide to US Naval Vessels.pdf" size="26582905" crc="59334441" md5="0c7e0d4fbd2ba3102939482e79521ead" sha1="18fecc460940cd7128e225306ccedb48c50067d9" status="none" />
+		<rom name="Task Force 1942 (1992) (MPS Labs) - Manual.pdf" size="106884395" crc="c3f10399" md5="eaa069745c32b06848dfcea377a15859" sha1="d187fc8d60a4556d661b356ffbbdeb09e1a720e2" status="none" />
+		<rom name="Task Force 1942 (1992) (MPS Labs) - Map.pdf" size="2500565" crc="d2c29618" md5="3e61081bc64df2f5d11aaa4f7700d117" sha1="f1434df0dd8b7a85abc6f019d92882c66ac1cb06" status="none" />
+		<rom name="Task Force 1942 (1992) (MPS Labs) - Technical Supplement.pdf" size="12042830" crc="0348d83b" md5="e47c18b3eaf27547b93ca7c1e2828a78" sha1="41e5fd866c3d6b37cb76414f12aff5c173d5aaf9" status="none" />
+	</game>
+	<game name="Teenagent (1995) (Metropolis Software House) (Extras)">
+		<description>Teenagent (1995) (Metropolis Software House) (Extras)</description>
+		<rom name="Teenagent (1995) (Metropolis Software House) - Manual.pdf" size="6603010" crc="f0e90f4d" md5="453410827426506f04b070bf86f2360e" sha1="b68c28e8dc078d1153050a4573e3955aef3ff7ab" status="none" />
+		<rom name="Teenagent (1995) (Metropolis Software House) - Newspaper (Po).pdf" size="7810855" crc="b5ee3aa6" md5="fd21c3244af6ceaf05dcd7b710c9df7b" sha1="f4e90d4328093a55df3717fe498080446bf9398e" status="none" />
+		<rom name="Teenagent (1995) (Metropolis Software House) - Poster.pdf" size="2652117" crc="795b05b7" md5="32bdfd85d563fdb9f1f4deaf9b1ae56d" sha1="a010666b97ee63816af46fed74b9400a2ea15cb9" status="none" />
+		<rom name="Teenagent (1995) (Metropolis Software House) - Registration Card (Po).pdf" size="467338" crc="d32366a7" md5="47269b772977a5ad434d02f71ad4bff1" sha1="b93c8f2a138f74e6d131a857ce1ea23cb73bb08e" status="none" />
 	</game>
 	<game name="Telengard (1985) (Avalon Hill) (Extras)">
 		<description>Telengard (1985) (Avalon Hill) (Extras)</description>

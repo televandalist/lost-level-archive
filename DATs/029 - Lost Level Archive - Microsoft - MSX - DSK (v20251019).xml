@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - DSK</name>
 		<description>Microsoft - MSX - DSK</description>
-		<version>v20250926</version>
+		<version>v20251019</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -327,6 +327,10 @@
 	<game name="Porpoise Man, The (2023) (v1.0) (Es) (TP) (Jose Soto)">
 		<description>Porpoise Man, The (2023) (v1.0) (Es) (TP) (Jose Soto)</description>
 		<rom name="Porpoise Man, The (2023) (v1.0) (Es) (TP) (Jose Soto).dsk" size="737280" crc="d1ecc35a" md5="029e6d8df9290285e0c459636b9a0278" sha1="f5313e473d37a15b840825056b6b124eb90d1be9" status="none" />
+	</game>
+	<game name="Psycho World (Japan) (En) (v3.0) (Django, FRS)">
+		<description>Psycho World (Japan) (En) (v3.0) (Django, FRS)</description>
+		<rom name="Psycho World (Japan) (En) (v3.0) (Django, FRS).dsk" size="737280" crc="8959e94a" md5="7ac2f1e1d4f50a55ef2c4eca3fd4fe07" sha1="e05e1018e2bf65edadc36a30f8ca16daeb6c1263" status="none" />
 	</game>
 	<game name="Put Up (1987) (BAS) (Yuichi Ag)">
 		<description>Put Up (1987) (BAS) (Yuichi Ag)</description>

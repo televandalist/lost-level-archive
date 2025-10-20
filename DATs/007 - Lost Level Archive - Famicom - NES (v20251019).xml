@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20250907</version>
+		<version>v20251019</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -18,6 +18,10 @@
 	<game name="Alien Cat 2 (World) (Aftermarket) (PSCDGames)">
 		<description>Alien Cat 2 (World) (Aftermarket) (PSCDGames)</description>
 		<rom name="Alien Cat 2 (World) (Aftermarket) (Unl).nes" size="262160" crc="550e30b3" md5="8fe07ecb8a184872bba97a1e98beca43" sha1="16c7ec6a3d56ba8f8267dcefa8819abc2b502f4c" status="none" />
+	</game>
+	<game name="All Hell Unleashed (World) (v6.66) (Aftermarket) (Unl)">
+		<description>All Hell Unleashed (World) (v6.66) (Aftermarket) (Unl)</description>
+		<rom name="All Hell Unleashed (World) (v6.66) (Aftermarket) (Unl).nes" size="524304" crc="4203e09a" md5="5ce4300f73286aea91aa3c6131cfc263" sha1="46f12d14670874e2496d51478d7240ca699c222b" status="none" />
 	</game>
 	<game name="Angry Birds (China) (Aftermarket) (Bootleg) (Nice Code)">
 		<description>Angry Birds (China) (Aftermarket) (Bootleg) (Nice Code)</description>
