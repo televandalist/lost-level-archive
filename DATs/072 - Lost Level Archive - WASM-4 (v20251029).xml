@@ -5,7 +5,7 @@
 		<id>072</id>
 		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20250725</version>
+		<version>v20251029</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -47,6 +47,10 @@
 		<description>Bubblewrap (World) (Henrik Zenkert)</description>
 		<rom name="Bubblewrap (World) (Henrik Zenkert).wasm" size="8265" crc="fe1a8404" md5="b0c8134afd1da1b31ef3a1f7b80245df" sha1="1a77a259c77246fd884a2b795546009504e755d4" />
 	</game>
+	<game name="Comic-Sans (World) (Eduardo Minholi, Nuno Abilio)">
+		<description>Comic-Sans (World) (Eduardo Minholi, Nuno Abilio)</description>
+		<rom name="Comic-Sans (World) (Eduardo Minholi, Nuno Abilio).wasm" size="33084" crc="647138d7" md5="a15d84ac06f9f1bbbb44b8b72ad7e8f3" sha1="9b2a4f3792e67f1968db0f3feb05073eb2cfd1c0" status="none" />
+	</game>
 	<game name="Crazy Factory (World) (Can Durmus)">
 		<description>Crazy Factory (World) (Can Durmus)</description>
 		<rom name="Crazy Factory (World) (Can Durmus).wasm" size="47244" crc="2b5c8c3e" md5="4c4a98674279368a31f05aad23bcf891" sha1="b7c2f75aa28238af20aeaae1e39d2efce8f93a26" />
@@ -70,6 +74,14 @@
 	<game name="Don't Smash into Obstacles (World) (Proto) (Mateusz Czarnecki)">
 		<description>Don't Smash into Obstacles (World) (Proto) (Mateusz Czarnecki)</description>
 		<rom name="Don't Smash into Obstacles (World) (Proto) (Mateusz Czarnecki).wasm" size="3504" crc="AEAA9D93" md5="444255185EB652C852A57F4758D1086C" Sha1="47050F7EA23B87C29E9970B8A5F8E044656F37FC"/>
+	</game>
+	<game name="Duck Maze (World) (Julia Marques Sanches)">
+		<description>Duck Maze (World) (Julia Marques Sanches)</description>
+		<rom name="Duck Maze (World) (Julia Marques Sanches).wasm" size="3359" crc="cb009b7c" md5="a359288d51ebe7678df4891d09452aa4" sha1="6c1cc3ca78df6ab1a190c6c85627b3afdbee3fd4" status="none" />
+	</game>
+	<game name="Earth Invaders (World) (Yara F. Scramin)">
+		<description>Earth Invaders (World) (Yara F. Scramin)</description>
+		<rom name="Earth Invaders (World) (Yara F. Scramin).wasm" size="8577" crc="6766e8b3" md5="f07acae65361275fec4271da94f54065" sha1="aaeee0fd8e0017213d5a141539969538233a8106" status="none" />
 	</game>
 	<game name="Endless Runner (World) (Richard McCormack)">
 		<description>Endless Runner (World) (Richard McCormack)</description>
@@ -163,6 +175,10 @@
 		<description>Journey to Entorus (World) (v1.1) (Marcus Ramse)</description>
 		<rom name="Journey to Entorus (World) (v1.1) (Marcus Ramse).wasm" size="55973" crc="7B211FA8" md5="0B01CF784F95C390ACA5E690BEE8118A" Sha1="5868D709C8D4DFD4DC4407ABE1204E4E34499984"/>
 	</game>
+	<game name="Jump 'n' Shoot (World) (Matheus Foltran Consonni)">
+		<description>Jump 'n' Shoot (World) (Matheus Foltran Consonni)</description>
+		<rom name="Jump 'n' Shoot (World) (Matheus Foltran Consonni).wasm" size="8892" crc="4a0c892a" md5="33a3220e392269c113aa92dc7906ccbc" sha1="80080e40fa8d90be42026ebfecae3b021756b7f3" status="none" />
+	</game>
 	<game name="Kitty Game (World) (v1.3.0) (CanyonTurtle)">
 		<description>Kitty Game (World) (v1.3.0) (CanyonTurtle)</description>
 		<rom name="Kitty Game (World) (v1.3.0) (CanyonTurtle).wasm" size="62982" crc="2be85e96" md5="9ea0e3e1af7a318c9f85be94b02fd2bb" sha1="8197d7dc8d83d5f8a3e8252923da5aefd78afcc4" />
@@ -198,6 +214,14 @@
 	<game name="Maze Wanderer (World) (Grant Handy)">
 		<description>Maze Wanderer (World) (Grant Handy)</description>
 		<rom name="Maze Wanderer (World) (Grant Handy).wasm" size="12007" crc="57d7ec3d" md5="74122bf8adaaa4fde756b09c481c23c0" sha1="f8ccd52928d1edca4dee39c815a6b06ca2c0bf13" />
+	</game>
+	<game name="Mazethingie (World) (Davy Willems)">
+		<description>Mazethingie (World) (Davy Willems)</description>
+		<rom name="Mazethingie (World) (Davy Willems).wasm" size="3226" crc="1a08cf0f" md5="35c7030f33a42b0aa1e55b8a98cab632" sha1="e14cd5a2f374a81b394e6eb885626cd5bb6d7932" status="none" />
+	</game>
+	<game name="Melancholy - cart 0 (World) (De-Alchmst)">
+		<description>Melancholy - cart 0 (World) (De-Alchmst)</description>
+		<rom name="Melancholy - cart 0 (World) (De-Alchmst).wasm" size="59614" crc="38e9ac04" md5="8afba0799351d89747e5a807ebd373fe" sha1="1d82e2b266aa93b03bc435b6391642f1b2a5c763" status="none" />
 	</game>
 	<game name="Meteoroids (World) (v0.3) (Jeremy Zeiber)">
 		<description>Meteoroids (World) (v0.3) (Jeremy Zeiber)</description>
@@ -427,6 +451,10 @@
 		<description>Trials of the Dark Sea (World) (ericvilcu)</description>
 		<rom name="Trials of the Dark Sea (World) (ericvilcu).wasm" size="50764" crc="931fe52a" md5="b2fc3935919473d0272c2c78bc09e338" sha1="5534355a24ac4b8c3de4de5cfdc1ef8ce39f968c" />
 	</game>
+	<game name="UEM Mini Game (World) (Thiago Calvi)">
+		<description>UEM Mini Game (World) (Thiago Calvi)</description>
+		<rom name="UEM Mini Game (World) (Thiago Calvi).wasm" size="30518" crc="a052fef3" md5="b3406a544cb0a96b675360a853d720ad" sha1="00423e2a65962ab3172ad83ff6e74b08df732c9e" status="none" />
+	</game>
 	<game name="Universe Simulator (World) (v0.1) (osimmac)">
 		<description>Universe Simulator (World) (v0.1) (osimmac)</description>
 		<rom name="Universe Simulator (World) (v0.1) (osimmac).wasm" size="57973" crc="92a72efc" md5="c90ea596588a6ed3bea874a7cfdc3486" sha1="4f58c579c624ff112cde5924759872371be66df4" />
@@ -438,6 +466,10 @@
 	<game name="WASM Cities (World) (quic5)">
 		<description>WASM Cities (World) (quic5)</description>
 		<rom name="WASM Cities (World) (quic5).wasm" size="13064" crc="0fc7306f" md5="bcc2a64f6d9cb045c2b1ec2b5cff4b9a" sha1="b2af03c9854bb829072e428140be9db4dac46fdf" />
+	</game>
+	<game name="WASM Invaders (World) (L.H. Zanetti, M.C. Jacomini)">
+		<description>WASM Invaders (World) (L.H. Zanetti, M.C. Jacomini)</description>
+		<rom name="WASM Invaders (World) (L.H. Zanetti, M.C. Jacomini).wasm" size="4004" crc="3c396fc0" md5="e0102bec6ef9bf5a78255a5f914d7f01" sha1="2898386fc1766e3bdf39aa7f98dc626df58cccfd" status="none" />
 	</game>
 	<game name="Wasm Wars (World) (Daniel Kiyoshi)">
 		<description>Wasm Wars (World) (Daniel Kiyoshi)</description>
@@ -498,6 +530,10 @@
 	<game name="You Will Return (World) (Rev 1) (Sander in 't Veld)">
 		<description>You Will Return (World) (Rev 1) (Sander in 't Veld)</description>
 		<rom name="You Will Return (World) (Rev 1) (Sander in 't Veld).wasm" size="44030" crc="4E634886" md5="4CE31F9E2ABFEDDB79132951567BBD27" Sha1="3F7EB715A5AB85B94D1C48D99DD19CA79EA6F36C"/>
+	</game>
+	<game name="Zigtris (World) (Toby Jaffey)">
+		<description>Zigtris (World) (Toby Jaffey)</description>
+		<rom name="Zigtris (World) (Toby Jaffey).wasm" size="9076" crc="2a2b352d" md5="c5591e6aa2bf3c735088f8960a276983" sha1="caa9027e9325a7a571eab98be3722c06504300a2" status="none" />
 	</game>
 	<game name="Znake (World) (freiguy1)">
 		<description>Znake (World) (freiguy1)</description>
