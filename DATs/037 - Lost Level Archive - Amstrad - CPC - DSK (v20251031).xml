@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (DSK)</name>
 		<description>Amstrad - CPC (DSK)</description>
-		<version>v20250913</version>
+		<version>v20251031</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -156,6 +156,14 @@
 		<description>Cosmic Gatlin' (2021) (Chill Boat Studio)</description>
 		<rom name="Cosmic Gatlin' (2021) (CPCRetroDev 2021) (Chill Boat Studio).dsk" size="204544" crc="5f0d9461" md5="34487f9a2ced90b71584775358d30a2c" sha1="509461bf864a5372a014c10f10da21eb801e1352" />
 	</game>
+	<game name="CPC Jewels (2022) (ESP Soft)">
+		<description>CPC Jewels (2022) (ESP Soft)</description>
+		<rom name="CPC Jewels (2022) (ESP Soft).dsk" size="194816" crc="fbb39540" md5="e2f1dc66e13cb6f2d194fde43ab3d117" sha1="a8cc08c6be701653a687b68c01a01903de5c1b60" status="none" />
+	</game>
+	<game name="CPC Jewels (2022) (v1.2) (ESP Soft)">
+		<description>CPC Jewels (2022) (v1.2) (ESP Soft)</description>
+		<rom name="CPC Jewels (2022) (v1.2) (ESP Soft).dsk" size="194816" crc="549d9fff" md5="d76ac8b6fa8d315bba8292b8dc2004ae" sha1="3bc74af3b0af179c41577a6e1483bc0867201460" status="none" />
+	</game>
 	<game name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (DSK)">
 		<description>CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (DSK)</description>
 		<rom name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower).dsk" size="204544" crc="ed6d1b25" md5="ab5a2801391d9fc1c279d95b0c2d40a0" sha1="2d03b20c1743f5040777a0f0f731b271a309fedc" />
@@ -244,6 +252,10 @@
 		<description>Galastrad (2024) (v1.02) (AYOR61)</description>
 		<rom name="Galastrad (2024) (v1.02) (AYOR61).dsk" size="204544" crc="b95d4f96" md5="3226ac3244f5b1ea784029ab5b7f4240" sha1="4b6bbdfedf6754e584bacb64b7ee4dee417b2159" />
 	</game>
+	<game name="Gates to Heaven (2022) (v1.1) (ESP Soft)">
+		<description>Gates to Heaven (2022) (v1.1) (ESP Soft)</description>
+		<rom name="Gates to Heaven (2022) (v1.1) (ESP Soft).dsk" size="194816" crc="bd450293" md5="fd026cc0baa179f72e36f930349db657" sha1="c8b580092a0d38dbe6013c06caac8d89fb0c04a4" status="none" />
+	</game>
 	<game name="Get Out of My Store! (2021) (PyroBombastic Games)">
 		<description>Get Out of My Store! (2021) (PyroBombastic Games)</description>
 		<rom name="Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games).dsk" size="204544" crc="ba385f1d" md5="4737bcf67c163be6ea3bc31aa7655eec" sha1="749dd684f4600c4c1f9a27a134119a8d074b4a45" />
@@ -283,6 +295,14 @@
 	<game name="Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez)">
 		<description>Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez)</description>
 		<rom name="Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez).dsk" size="204544" crc="38fd5e84" md5="0634b6301b5b111d244c1a506d6444fd" sha1="de87874530a4ad67e378da0d887dad6aa14d4015" />
+	</game>
+	<game name="Krook (2025) (En) (Tartessos Games)">
+		<description>Krook (2025) (En) (Tartessos Games)</description>
+		<rom name="Krook (2025) (En) (Tartessos Games).dsk" size="194816" crc="5219821c" md5="f536318fb3e90f0b23fc508877207d28" sha1="fe4d2f6538ab819e30111462ef5244f357d95242" status="none" />
+	</game>
+	<game name="Krook (2025) (Es) (Tartessos Games)">
+		<description>Krook (2025) (Es) (Tartessos Games)</description>
+		<rom name="Krook (2025) (Es) (Tartessos Games).dsk" size="194816" crc="87f8c822" md5="d48c2f0962143448c15bf16aff298d31" sha1="cf15570415d7cf8604ca94a91c2da12d0affddbd" status="none" />
 	</game>
 	<game name="Last Brew, The (2023) (CPCRetroDev 2023) (Vec)">
 		<description>Last Brew, The (2023) (CPCRetroDev 2023) (Vec)</description>
@@ -328,6 +348,10 @@
 		<description>Miss Input (2019) (ChupiGames) (En)</description>
 		<rom name="Miss Input (2019) (ChupiGames) (En).dsk" size="204544" crc="64c57ea6" md5="e4bc8e3f51491a8866dbe4078037169f" sha1="f84d29be030f02d44a94f1a03ecdf8994a0287f4" />
 	</game>
+	<game name="Monster Mayhem (2024) (Mananuk) (M)">
+		<description>Monster Mayhem (2024) (Mananuk) (M)</description>
+		<rom name="Monster Mayhem (2024) (Mananuk) (M).dsk" size="194816" crc="5323f1cf" md5="e7c45a27d2df090c068e986628ee814b" sha1="1e50dbab65574a108b73ccae4cdfcdf3933c1723" status="none" />
+	</game>
 	<game name="Monty Python's Flying Circus (Spain) (1990) (Core Design)">
 		<description>Monty Python's Flying Circus (Spain) (1990) (Core Design)</description>
 		<rom name="Monty Python's Flying Circus (Spain) (1990) (Core Design).dsk" size="212224" crc="2672c86e" md5="bfcecc63874469b62d3ae23b613e454f" sha1="50b18c7542aee33746b2bbb3e244aa666d60e057" />
@@ -336,9 +360,17 @@
 		<description>Monty Python's Flying Circus (UK) (1990) (Core Design)</description>
 		<rom name="Monty Python's Flying Circus (UK) (1990) (Core Design).dsk" size="514304" crc="79d82218" md5="a690a05a5b823685ef0a815b10005ace" sha1="11326d174e685c3aef19d26f6d9ca7e8060f464a" />
 	</game>
+	<game name="MoonRN (2025) (Snauts)">
+		<description>MoonRN (2025) (Snauts)</description>
+		<rom name="MoonRN (2025) (Snauts).dsk" size="204544" crc="64a442d6" md5="c1533744ff02937bc0751c4a79babcd1" sha1="c2d59e0daf63537582188f1fbcdec1125453567f" status="none" />
+	</game>
 	<game name="Moonsters (2021) (dam_studios)">
 		<description>Moonsters (2021) (dam_studios)</description>
 		<rom name="Moonsters (2021) (CPCRetroDev 2021) (dam_studios).dsk" size="204544" crc="e6eeb873" md5="5f02d76ca4944b402dd0fb2db59c3d67" sha1="f2097e5cc99748cbc9fdbd80595330c3bad446f7" />
+	</game>
+	<game name="Moritz on the Autobahn (2022) (Team Moritz CPC)">
+		<description>Moritz on the Autobahn (2022) (Team Moritz CPC)</description>
+		<rom name="Moritz on the Autobahn (2022) (Team Moritz CPC).dsk" size="204544" crc="880f1cfc" md5="aadf925ceb4f0424f04b7e0fb31e9909" sha1="f8e3c9764fc442e7120f773069f660f7538219d4" status="none" />
 	</game>
 	<game name="Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)">
 		<description>Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)</description>
@@ -380,9 +412,17 @@
 		<description>Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft)</description>
 		<rom name="Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft).dsk" size="194816" crc="bfd9ab2c" md5="5fe20d58f41ff43c0d64f427701061bb" sha1="9b5da22cbd322abb277265861b6cb3f04f22810d" />
 	</game>
+	<game name="Pepper Buster (2024) (v1.1) (Crazy Piri)">
+		<description>Pepper Buster (2024) (v1.1) (Crazy Piri)</description>
+		<rom name="Pepper Buster (2024) (v1.1) (Crazy Piri).dsk" size="204544" crc="edf419cb" md5="8e5c5563e639ab04d5e7215631af1476" sha1="de4b044696f18f1fff5acd7035542dfea2682e80" status="none" />
+	</game>
 	<game name="Perched! (2021) (Lumina Studio)">
 		<description>Perched! (2021) (Lumina Studio)</description>
 		<rom name="Perched! (2021) (CPCRetroDev 2021) (Lumina Studio).dsk" size="204544" crc="8d080609" md5="6be9d9689dcca6edb367072ffa2212db" sha1="de9acc3cd0a5be6f8d8418283cc34519553e9be3" />
+	</game>
+	<game name="Phantomas en el Museo (2025) (The Mojon Twins)">
+		<description>Phantomas en el Museo (2025) (The Mojon Twins)</description>
+		<rom name="Phantomas en el Museo (2025) (The Mojon Twins).dsk" size="194816" crc="020f63e6" md5="25fc0848dcc159a90fbd8e7ff1e7a467" sha1="9d0fe310056467a6a1c5b9d3e1527ae4377b8b2f" status="none" />
 	</game>
 	<game name="Pinball Dreams (UK) (128K) (2019) (Version double size) [Original]">
 		<description>Pinball Dreams (UK) (128K) (2019) (Version double size) [Original]</description>
@@ -411,6 +451,14 @@
 	<game name="Rebelstar (UK) (1986) (Firebird)">
 		<description>Rebelstar (UK) (1986) (Firebird)</description>
 		<rom name="Rebelstar (UK) (1986) (Firebird).dsk" size="194816" crc="b15eaf9e" md5="25ad40449089fc7e6994f041d24648d2" sha1="0033c8612697de4e40030c89309e8615ecac7a91" />
+	</game>
+	<game name="Red Planet (2022) (En) (v1.1) (PlayOnRetro)">
+		<description>Red Planet (2022) (En) (v1.1) (PlayOnRetro)</description>
+		<rom name="Red Planet (2022) (En) (v1.1) (PlayOnRetro).dsk" size="194816" crc="6a041270" md5="6a232c80e5dd4880d81027c03d5a5268" sha1="1cf823563bf6dd8535bbc25b852d267bf62583ca" status="none" />
+	</game>
+	<game name="Red Planet (2022) (Es) (v1.1) (PlayOnRetro)">
+		<description>Red Planet (2022) (Es) (v1.1) (PlayOnRetro)</description>
+		<rom name="Red Planet (2022) (Es) (v1.1) (PlayOnRetro).dsk" size="194816" crc="c59b7739" md5="725e35c14975a12e4d7593c74af18d83" sha1="d595417576e541bcf390890448a53b27abfae420" status="none" />
 	</game>
 	<game name="Red Sunset (v3.0) (2022) (ESP Soft)">
 		<description>Red Sunset (v3.0) (2022) (ESP Soft)</description>

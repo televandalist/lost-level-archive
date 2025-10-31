@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>037</id>
+		<name>037 - Lost Level Archive - Amstrad - CPC (CDT)</name>
+		<description>Amstrad - CPC (CDT)</description>
+		<version>v20251031</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="8bit Wars (2001) (21bloques)">
+		<description>8bit Wars (2001) (21bloques)</description>
+		<rom name="8bit Wars (2021) (CPCRetroDev 2021) (21bloques).cdt" size="64589" crc="f2f11629" md5="a940cd284eb2cd3224ec6541c7627107" sha1="01419a8d7e18ad0ef8b823448e5d987df396b1e2" />
+	</game>
+	<game name="Aliens'n Tanks (2021) (v1.0) (Ohcaco Games)">
+		<description>Aliens'n Tanks (2021) (v1.0) (Ohcaco Games)</description>
+		<rom name="Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.0) (Ohcaco Games).cdt" size="33193" crc="7764c3b4" md5="7c97bc7395ecac38e4071333b1c0d82a" sha1="243bd723214555087bab4f1a278aabaf071b55bd" />
+	</game>
+	<game name="Aliens'n Tanks (2021) (v1.1) (Ohcaco Games)">
+		<description>Aliens'n Tanks (2021) (v1.1) (Ohcaco Games)</description>
+		<rom name="Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.1) (Ohcaco Games).cdt" size="38106" crc="75c2fac3" md5="3537c43907220922cb773fb21ca18fcf" sha1="c5ae2429b725ebf72396821e6184de7cc355542a" />
+	</game>
+	<game name="Alloy Box (2023) (CPCRetroDev 2023) (CNGSoft)">
+		<description>Alloy Box (2023) (CPCRetroDev 2023) (CNGSoft)</description>
+		<rom name="Alloy Box (2023) (CPCRetroDev 2023) (CNGSoft).cdt" size="15704" crc="fc1bc8e2" md5="4c231be8b212cea76cb8fa76c82bd165" sha1="55bced08927932c6c2e4b22ee8170f2ac66a26d8" />
+	</game>
+	<game name="Amstred (2021) (Ancient World)">
+		<description>Amstred (2021) (Ancient World)</description>
+		<rom name="Amstred (2021) (CPCRetroDev 2021) (Ancient World).cdt" size="159739" crc="4bdbb0bd" md5="d7300ac9268c123849efaf5ad3cc8632" sha1="4cc182459c65a58325cf4c323647c94402966033" />
+	</game>
+	<game name="Balkanoid (2023) (CPCRetroDev 2023) (Eduard Andrei Duta, Francisco Wendeburg)">
+		<description>Balkanoid (2023) (CPCRetroDev 2023) (Eduard Andrei Duta, Francisco Wendeburg)</description>
+		<rom name="Balkanoid (2023) (CPCRetroDev 2023) (Eduard Andrei Duta, Francisco Wendeburg).cdt" size="34423" crc="040be936" md5="4c5db9990872daaa5f450374b3d0de2e" sha1="ed9ebd3fee09b79adcf7a0d30043607a98ce8eab" />
+	</game>
+	<game name="Barking Adventure (2021) (capAI)">
+		<description>Barking Adventure (2021) (capAI)</description>
+		<rom name="Barking Adventure (2021) (CPCRetroDev 2021) (capAI).cdt" size="28505" crc="a4f40e73" md5="a4173d7455c49a9894c033ce9508add3" sha1="3cd8aae888b723bf7b00a9449f640cf69b107117" />
+	</game>
+	<game name="Beach Buggy Simulator (1988) (Firebird) (v4.88)">
+		<description>Beach Buggy Simulator (1988) (Firebird) (v4.88)</description>
+		<rom name="Beach Buggy Simulator (1988) (Firebird) (v4.88).cdt" size="73439" crc="1be27206" md5="bcbdfd52ad28e91b9275fc9a4de5a7ea" sha1="bd59539b9a0a492b5de374f410214070911ec896" />
+	</game>
+	<game name="Brick Rick (2020) (v1.0.1) (reidrac)">
+		<description>Brick Rick (2020) (v1.0.1) (reidrac)</description>
+		<rom name="Brick Rick (2020) (v1.0.1) (reidrac).cdt" size="19071" crc="87b42465" md5="84e0ff8d62ce2c8e9638a345d808cf08" sha1="278820c192df521e07a2c5620950363b9359b474" />
+	</game>
+	<game name="Capeture, The (2021) (Cyb3r Apes)">
+		<description>Capeture, The (2021) (Cyb3r Apes)</description>
+		<rom name="Capeture, The (2021) (CPCRetroDev 2021) (Cyb3r Apes).cdt" size="42562" crc="1731fcfe" md5="9e34fd002880f2858a2c40fe36a0c774" sha1="9112a06f23f588c89a65920a5517d49e68649c92" />
+	</game>
+	<game name="Castle Kid (2021) (AxolotIUA)">
+		<description>Castle Kid (2021) (AxolotIUA)</description>
+		<rom name="Castle Kid (2021) (CPCRetroDev 2021) (AxolotIUA).cdt" size="50767" crc="aeea1f67" md5="81222370029dc88d68b83619776eb865" sha1="8cbfdd8efdc967e4b6fb1ab7a0a291cd98de10ac" />
+	</game>
+	<game name="Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft)">
+		<description>Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft)</description>
+		<rom name="Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft).cdt" size="36367" crc="94c4e0a9" md5="930c695e95917cb45bd3a3d77afc1c53" sha1="4d834260e3f1e31e3504ec2f994502ebd0132251" />
+	</game>
+	<game name="Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft)">
+		<description>Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft)</description>
+		<rom name="Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft).cdt" size="23487" crc="9b276d7a" md5="973e4a93b22a58506edf31ab25cd3bc6" sha1="745920cefa370bd83b05dbbfffb96007fad94f5a" />
+	</game>
+	<game name="Cloud Sailor (2021) (rhgi1)">
+		<description>Cloud Sailor (2021) (rhgi1)</description>
+		<rom name="Cloud Sailor (2021) (CPCRetroDev 2021) (rhgi1).cdt" size="25339" crc="631f8128" md5="63c92c57cce68dcb17073a8410f91592" sha1="fdaee9ea3a94a273b96a6ec3ff0cc5fc80f9d554" />
+	</game>
+	<game name="Cosmic Gatlin' (2021) (Chill Boat Studio)">
+		<description>Cosmic Gatlin' (2021) (Chill Boat Studio)</description>
+		<rom name="Cosmic Gatlin' (2021) (CPCRetroDev 2021) (Chill Boat Studio).cdt" size="44874" crc="288f5e95" md5="8a6b8021c4288adf48c35b43ff98afb3" sha1="32d1c6d2d633f4752cbf1241446eed0e1a93c403" />
+	</game>
+	<game name="CPC Jewels (2022) (ESP Soft)">
+		<description>CPC Jewels (2022) (ESP Soft)</description>
+		<rom name="CPC Jewels (2022) (ESP Soft).cdt" size="40707" crc="741609be" md5="a98db3010e9d5d367ab202af762d203b" sha1="d8de6c411fc34d4f625f0bf7e7795d8f95aa1df0" status="none" />
+	</game>
+	<game name="CPC Jewels (2022) (v1.2) (ESP Soft)">
+		<description>CPC Jewels (2022) (v1.2) (ESP Soft)</description>
+		<rom name="CPC Jewels (2022) (v1.2) (ESP Soft).cdt" size="42408" crc="7f0e8e04" md5="fe4a5b12f68c0ccaee36b873f6130593" sha1="1b9e710998d38d10a3bfb81326bceaab91022224" status="none" />
+	</game>
+	<game name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (CRT)">
+		<description>CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower) (CRT)</description>
+		<rom name="CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower).cdt" size="97791" crc="81069cd8" md5="6f77f266f494bc04db3d26f141502c4a" sha1="2f10a464a15e465c43bce24d793c305706e6055d" />
+	</game>
+	<game name="Cult, The (En) (2023) (64K) (Tartessos Games)">
+		<description>Cult, The (En) (2023) (64K) (Tartessos Games)</description>
+		<rom name="Cult, The (En) (2023) (64K) (Tartessos Games).cdt" size="20669" crc="42805bf8" md5="1a5b721b39e924fb988afa5713771d58" sha1="9cbf310b9e08fafd6d432761cc30f819140e49dc" />
+	</game>
+	<game name="Cult, The (Es) (2023) (64K) (Tartessos Games)">
+		<description>Cult, The (Es) (2023) (64K) (Tartessos Games)</description>
+		<rom name="Cult, The (Es) (2023) (64K) (Tartessos Games).cdt" size="20633" crc="9ba4e265" md5="7921a89eebb36bb5185131e75dab6be3" sha1="f97c68855c22a1a1e68086b72fa16730a989ff4a" />
+	</game>
+	<game name="Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)">
+		<description>Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez)</description>
+		<rom name="Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez).cdt" size="38893" crc="4b1211ab" md5="8c69dd52d72f3d4887946a9429242a7b" sha1="aeecf2f866afc21573a5e0fa6ce0130f5ed249ec" />
+	</game>
+	<game name="DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird)">
+		<description>DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird)</description>
+		<rom name="DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird).cdt" size="44485" crc="f7cbc94b" md5="84e174670b0bd3e9587ce529fe923723" sha1="15d2bfd765ed26c873337670299ba5c139dfbfa9" />
+	</game>
+	<game name="Double Keys! (2021) (acorascuenca)">
+		<description>Double Keys! (2021) (acorascuenca)</description>
+		<rom name="Double Keys! (2021) (CPCRetroDev 2021) (acorascuenca).cdt" size="61441" crc="49c13e8e" md5="8e94c91cc3b031859a9e57744f8de8cd" sha1="0c129781e14808dfbfc5e178b7b960fab6f0d5ed" />
+	</game>
+	<game name="Dr. Roland (v1.0) (2021) (John Lobo)">
+		<description>Dr. Roland (v1.0) (2021) (John Lobo)</description>
+		<rom name="Dr. Roland (v1.0) (2021) (John Lobo).cdt" size="47675" crc="c43361d4" md5="5ab3cc1eb0c6cde46328429694b54a9d" sha1="11e344f387eff6c9d7c0eda575de7a60dba508df" />
+	</game>
+	<game name="Dr. Roland (v1.1) (2021) (John Lobo)">
+		<description>Dr. Roland (v1.1) (2021) (John Lobo)</description>
+		<rom name="Dr. Roland (v1.1) (2021) (John Lobo).cdt" size="47675" crc="c43361d4" md5="5ab3cc1eb0c6cde46328429694b54a9d" sha1="11e344f387eff6c9d7c0eda575de7a60dba508df" />
+	</game>
+	<game name="Final War (2023) (CPCRetroDev 2023) (recreogames)">
+		<description>Final War (2023) (CPCRetroDev 2023) (recreogames)</description>
+		<rom name="Final War (2023) (CPCRetroDev 2023) (recreogames).cdt" size="43676" crc="74fe7672" md5="514ade06f67703736657ebaf9920ec7c" sha1="64b127453a694c220fc2479b7dc1532bf3bb4a52" />
+	</game>
+	<game name="Fitzroy Dives Deep (2021) (v1.0) (awergh)">
+		<description>Fitzroy Dives Deep (2021) (v1.0) (awergh)</description>
+		<rom name="Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.0) (awergh).cdt" size="43195" crc="f515c304" md5="2039d817e4de7376df43db8fe59534e8" sha1="bba17cb11b4bdbc6d45cd4a85d5253d6fff5b536" />
+	</game>
+	<game name="Fitzroy Dives Deep (2021) (v1.1) (awergh)">
+		<description>Fitzroy Dives Deep (2021) (v1.1) (awergh)</description>
+		<rom name="Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.1) (awergh).cdt" size="43195" crc="9834010d" md5="42594ad914538f1f7025135991cd01e3" sha1="cb0b937af89532fb249dd350b0be17debea28050" />
+	</game>
+	<game name="Fitzroy Dives Deep (2021) (v1.2) (awergh)">
+		<description>Fitzroy Dives Deep (2021) (v1.2) (awergh)</description>
+		<rom name="Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.2) (awergh).cdt" size="43195" crc="f92633b1" md5="fca812a99f2293d15a553853c785d9fd" sha1="766d45b4e595b55c601f3457ed3aa38add668772" />
+	</game>
+	<game name="Fitzroy Dives Deep (2021) (v1.3) (awergh)">
+		<description>Fitzroy Dives Deep (2021) (v1.3) (awergh)</description>
+		<rom name="Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.3) (awergh).cdt" size="43711" crc="84fbce23" md5="6a1ae5de03537f026fc3e82206bb9e74" sha1="6b1947e3e7e8a6d0d97b333727ab9bbf1001b362" />
+	</game>
+	<game name="Forms (2023) (CPCRetroDev 2023) (John Lobo)">
+		<description>Forms (2023) (CPCRetroDev 2023) (John Lobo)</description>
+		<rom name="Forms (2023) (CPCRetroDev 2023) (John Lobo).cdt" size="24221" crc="ed5ba098" md5="436956c7ac4fabbad04d111684fca22d" sha1="a18b45f120d9d4cc214a58360943737d4c978fcb" />
+	</game>
+	<game name="Froggo Hop (2021) (Popcorn Games)">
+		<description>Froggo Hop (2021) (Popcorn Games)</description>
+		<rom name="Froggo Hop (2021) (Popcorn Games).cdt" size="30811" crc="338ccf17" md5="bfc7c25903e79e0d3b260c30d4d812cd" sha1="0c52395e50a333d2837c878dee7399bc87727f54" />
+	</game>
+	<game name="Galactic Tomb (2022) (ESP Soft) (Side A)">
+		<description>Galactic Tomb (2022) (ESP Soft) (Side A)</description>
+		<rom name="Galactic Tomb (2022) (ESP Soft) (Side A).cdt" size="90921" crc="5b891981" md5="1318df70b05490f7683f043c2327007e" sha1="a38737fe18cbbd5bed12a067d28e629da55ce63a" />
+	</game>
+	<game name="Galactic Tomb (2022) (ESP Soft) (Side B)">
+		<description>Galactic Tomb (2022) (ESP Soft) (Side B)</description>
+		<rom name="Galactic Tomb (2022) (ESP Soft) (Side B).cdt" size="81489" crc="87872a36" md5="fe9ac683006e6c6aa9ac069ebe24712c" sha1="06f4e2b2db62fdd6bad6cddf71b5a42261accde8" />
+	</game>
+	<game name="Galastrad (2024) (v1.02) (AYOR61)">
+		<description>Galastrad (2024) (v1.02) (AYOR61)</description>
+		<rom name="Galastrad (2024) (v1.02) (AYOR61).cdt" size="53854" crc="c844c1a9" md5="d9058d93fe92e3ada0cc436e14220001" sha1="ada53d415d5c32d697d1fedec8d8d5f298909f92" />
+	</game>
+	<game name="Gates to Heaven (2022) (v1.1) (ESP Soft)">
+		<description>Gates to Heaven (2022) (v1.1) (ESP Soft)</description>
+		<rom name="Gates to Heaven (2022) (v1.1) (ESP Soft).cdt" size="31493" crc="ea11da91" md5="8faf1845f486c6760da1ce8f9dfe60c9" sha1="01ee5b78c73e475229ea86bf4b63b05504fb99b8" status="none" />
+	</game>
+	<game name="Get Out of My Store! (2021) (PyroBombastic Games)">
+		<description>Get Out of My Store! (2021) (PyroBombastic Games)</description>
+		<rom name="Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games).cdt" size="42886" crc="5a2a71cd" md5="907d7ea047c09bd9a6630f69c2033932" sha1="9d15fe59728186359a2dde7e0c306a0ee9cfa7dd" />
+	</game>
+	<game name="Hey Sailor! (2020) (MarineDevelopers)">
+		<description>Hey Sailor! (2020) (MarineDevelopers)</description>
+		<rom name="Hey Sailor! (2020) (MarineDevelopers).cdt" size="29917" crc="cac6842d" md5="7dcc5b96f63125c7c028a8ffa3a3d926" sha1="7b561a0d331b5cd36bddc817c060df06f6d738ad" />
+	</game>
+	<game name="Into the Darkness (2021) (Popcorn Games)">
+		<description>Into the Darkness (2021) (Popcorn Games)</description>
+		<rom name="Into the Darkness (2021) (CPCRetroDev 2021) (Popcorn Games).cdt" size="26818" crc="c9f69f6d" md5="14613bb947fcbd3211f74a7a713c2a65" sha1="3021f84ccb450087096c298d0d825a80d37da889" />
+	</game>
+	<game name="KILLMIL (2021) (OldSchoolAmstrad)">
+		<description>KILLMIL (2021) (OldSchoolAmstrad)</description>
+		<rom name="KILLMIL (2021) (CPCRetroDev 2021) (OldSchoolAmstrad).cdt" size="38404" crc="62a634fd" md5="27caee6399b613461df66128a6d3450d" sha1="036692d1325881d88da6255b230ea5486f3445cf" />
+	</game>
+	<game name="Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez)">
+		<description>Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez)</description>
+		<rom name="Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez).cdt" size="26225" crc="b656caa9" md5="150ddd0a99231097f579420dc8591ff4" sha1="3e287c4c31d1fb90a911c8941461a657999056c9" />
+	</game>
+	<game name="Krook (2025) (En) (Tartessos Games)">
+		<description>Krook (2025) (En) (Tartessos Games)</description>
+		<rom name="Krook (2025) (En) (Tartessos Games).cdt" size="26304" crc="f40b12c9" md5="092385830cf136ade7d1305634c99030" sha1="66abd3f5d2041cb362077c2fee891f0a3972b86d" status="none" />
+	</game>
+	<game name="Krook (2025) (Es) (Tartessos Games)">
+		<description>Krook (2025) (Es) (Tartessos Games)</description>
+		<rom name="Krook (2025) (Es) (Tartessos Games).cdt" size="26339" crc="23b0d374" md5="b3157079c16709dc7abdfcf010e0d442" sha1="7f7395d8f2468164d1817428f294dce1b21f19cd" status="none" />
+	</game>
+	<game name="Last Fungus, The (2021) (Ocacho Games)">
+		<description>Last Fungus, The (2021) (Ocacho Games)</description>
+		<rom name="Last Fungus, The (2021) (CPCRetroDev 2021) (Ocacho Games).cdt" size="37126" crc="47c8d788" md5="ed7b8376a43c6fea3fc3ef581b8bbb52" sha1="1fe3333952cbeecef6dd9e69ee4d21d78b1a90ca" />
+	</game>
+	<game name="LoopWorlds (2021) (DreamyZombies)">
+		<description>LoopWorlds (2021) (DreamyZombies)</description>
+		<rom name="LoopWorlds (2021) (CPCRetroDev 2021) (DreamyZombies).cdt" size="34085" crc="8516c6a1" md5="4d0f6edf71c41e52910d7faa07454942" sha1="defdc806f96467686ac1357a8ebe26b94db0ba12" />
+	</game>
+	<game name="Mandarin, The (2022) (Mananuk)">
+		<description>Mandarin, The (2022) (Mananuk)</description>
+		<rom name="Mandarin, The (2022) (Mananuk).cdt" size="25433" crc="34663f31" md5="8a9ee1a7fc7daf89b8bc54f37548b076" sha1="ccd254e7cbb7fc917c86d8dee0e476bba535d473" />
+	</game>
+	<game name="Monster Mayhem (2024) (Mananuk)">
+		<description>Monster Mayhem (2024) (Mananuk)</description>
+		<rom name="Monster Mayhem (2024) (Mananuk).cdt" size="71715" crc="9bd3f858" md5="62e81784a0a6a8c7eac6d3153c025111" sha1="f58b4a9c4ddf46f6993963a3cb1d28b387ed5858" status="none" />
+	</game>
+	<game name="Moonsters (2021) (dam_studios)">
+		<description>Moonsters (2021) (dam_studios)</description>
+		<rom name="Moonsters (2021) (CPCRetroDev 2021) (dam_studios).cdt" size="35533" crc="246e42cf" md5="d802d0fe57d3efb22390348bdb30ab5b" sha1="acd982df6ac7537a819d18b6f0e1d8485bb840ae" />
+	</game>
+	<game name="Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)">
+		<description>Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)</description>
+		<rom name="Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0).cdt" size="41426" crc="a42e9b19" md5="88841ab47f744929af93adf075245dec" sha1="0eed95e357ba25208f86dd09ddb71ec30ca2246b" />
+	</game>
+	<game name="Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio)">
+		<description>Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio)</description>
+		<rom name="Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio).cdt" size="38080" crc="6ece6d22" md5="87c717979ead7a4a9095ff2afd2ca477" sha1="963eeef1908591634ff8e573ceb8eff92275ad91" />
+	</game>
+	<game name="Oh No, My Moustache (2022) (Strawberry Studio)">
+		<description>Oh No, My Moustache (2022) (Strawberry Studio)</description>
+		<rom name="Oh No, My Moustache (2022) (Strawberry Studio).cdt" size="44159" crc="c70dc954" md5="cdf321ae7c046cf91b6b413bcdba4d85" sha1="2f612ffdd2fc1e6f0e6d1e1d1e3679b734737720" />
+	</game>
+	<game name="One Wonder (2023) (CPCRetroDev 2023) (Kaiwa-ams1)">
+		<description>One Wonder (2023) (CPCRetroDev 2023) (Kaiwa-ams1)</description>
+		<rom name="One Wonder (2023) (CPCRetroDev 2023) (Kaiwa-ams1).cdt" size="33766" crc="06273f43" md5="ed5111e3b2de8da8b8a6de9a7c2c35ce" sha1="41985a057f7b073fc3ae3e0187f29ba4886701f4" />
+	</game>
+	<game name="Paleto Jones (2022) (UK) (v4.0) (Mananuk)">
+		<description>Paleto Jones (2022) (UK) (v4.0) (Mananuk)</description>
+		<rom name="Paleto Jones (2022) (UK) (v4.0) (Mananuk).cdt" size="32271" crc="db7b9721" md5="deef89eca41ff4e190e058ab589a3708" sha1="68f6e5284c458025c3273d42d58f3ee4aef76e2d" />
+	</game>
+	<game name="Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft)">
+		<description>Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft)</description>
+		<rom name="Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft).cdt" size="68284" crc="9812ddf2" md5="098ed6d87cfdd911501cd408a7df83ce" sha1="abef354e7d3bbd88995f2f4d4023914153989d7f" />
+	</game>
+	<game name="Perched! (2021) (Lumina Studio)">
+		<description>Perched! (2021) (Lumina Studio)</description>
+		<rom name="Perched! (2021) (CPCRetroDev 2021) (Lumina Studio).cdt" size="46250" crc="61ad6d7f" md5="359544eacb6ae24c95585ec2da8a4d08" sha1="15ede04249cb4eb5cdb15aa422240e1d640a6e4b" />
+	</game>
+	<game name="Phantomas en el Museo (2025) (The Mojon Twins)">
+		<description>Phantomas en el Museo (2025) (The Mojon Twins)</description>
+		<rom name="Phantomas en el Museo (2025) (The Mojon Twins).cdt" size="26438" crc="a93b8ccd" md5="ae0cb3df3e52c513ac08d252f0393ac2" sha1="fc62a9189280445184db4ddcffa3d4423ac10f5a" status="none" />
+	</game>
+	<game name="Postman Pat II (UK) (1989) (Alternative Software)">
+		<description>Postman Pat II (UK) (1989) (Alternative Software)</description>
+		<rom name="Postman Pat II (UK) (1989) (Alternative Software).cdt" size="66721" crc="ff7edaea" md5="f34cfe30dfd33420164a86244a5fb69d" sha1="efaf4280f2c6cf84918334e101e659962728fea5" />
+	</game>
+	<game name="Prelude to Chaos, A (2016) (EgoTrip)">
+		<description>Prelude to Chaos, A (2016) (EgoTrip)</description>
+	</game>
+	<game name="Rail Runner (2023) (CPCRetroDev 2023) (amstradartisans)">
+		<description>Rail Runner (2023) (CPCRetroDev 2023) (amstradartisans)</description>
+		<rom name="Rail Runner (2023) (CPCRetroDev 2023) (amstradartisans).cdt" size="19975" crc="f6b02816" md5="062b16a434cf5203f5903d75f8f914c8" sha1="981479e375da1bbb7f632f8107b5ba5e9e29482a" />
+	</game>
+	<game name="Rainbow Wielder (2021) (PyroClastic Software)">
+		<description>Rainbow Wielder (2021) (PyroClastic Software)</description>
+		<rom name="Rainbow Wielder (2021) (CPCRetroDev 2021) (PyroClastic Software).cdt" size="24999" crc="783eb95f" md5="f1c0a47b9b20309c57f16575832d830c" sha1="4020d70fee6f3c73e3addd6dea0fb996cb2fdd18" />
+	</game>
+	<game name="Red Planet (2022) (En) (v1.1) (PlayOnRetro)">
+		<description>Red Planet (2022) (En) (v1.1) (PlayOnRetro)</description>
+		<rom name="Red Planet (2022) (En) (v1.1) (PlayOnRetro).cdt" size="27199" crc="2e3f05ef" md5="e0027448231f50b21195a4c6ce86d192" sha1="08fbc7bb6719466b7672d845a65d6e5c7449e635" status="none" />
+	</game>
+	<game name="Red Planet (2022) (Es) (v1.1) (PlayOnRetro)">
+		<description>Red Planet (2022) (Es) (v1.1) (PlayOnRetro)</description>
+		<rom name="Red Planet (2022) (Es) (v1.1) (PlayOnRetro).cdt" size="27334" crc="c109c8a1" md5="1f064d73ea6789228f0593f58823ce8f" sha1="9a6db8e8aeeed7eae9e6e0ef7abb6298de27dca8" status="none" />
+	</game>
+	<game name="Shadow Hunter (2023) (Mananuk)">
+		<description>Shadow Hunter (2023) (Mananuk)</description>
+		<rom name="Shadow Hunter (2023) (Mananuk).cdt" size="30692" crc="6d0f702d" md5="0ff1c96835bd2861c5cfaa2a49d30b74" sha1="7B6508ABF97B2D201F23AD3937A0DC5F64FF5BB2" />
+	</game>
+	<game name="Shinobu (2020) (v20201006) (RubenRubioM)">
+		<description>Shinobu (2020) (v20201006) (RubenRubioM)</description>
+		<rom name="Shinobu (2020) (v20201006) (RubenRubioM).cdt" size="39447" crc="1d2d7b5a" md5="2baba6bfdc680f0c9b9d2e78feef9771" sha1="85d9b8658b7abc0c79a5c5e5a149e2784089616d" />
+	</game>
+	<game name="SkillTeam (2025) (v1.0) (David Programa)">
+		<description>SkillTeam (2025) (v1.0) (David Programa)</description>
+		<rom name="SkillTeam (2025) (v1.0) (David Programa).cdt" size="45865" crc="35dcf72c" md5="3ffe4ff23156a8d2f6835889e505000e" sha1="6f6855b0c2688c971be7454de935723b5886890a" />
+	</game>
+	<game name="Small Games for Smart Minds (2007) (ESP Soft)">
+		<description>Small Games for Smart Minds (2007) (ESP Soft)</description>
+		<rom name="Small Games for Smart Minds (2007) (ESP Soft).cdt" size="33108" crc="24def383" md5="e7c654c1d6b5ffd39928610aa212cb94" sha1="d6869fa3d6eb2b33b3be77dfec4b55059b4c130e" />
+	</game>
+	<game name="Snake (UK) (2021) (Version Basic 1.1) (LeoSoft)">
+		<description>Snake (UK) (2021) (Version Basic 1.1) (LeoSoft)</description>
+		<rom name="Snake (UK) (2021) (Version Basic 1.1) (LeoSoft).dsk" size="194816" crc="3a43fc57" md5="261b43933f7452c9c25cb1d77f00e9d3" sha1="3daa9390c180d8b181197f6992443fd28c1a8a06" />
+	</game>
+	<game name="Sorcerers (v1.1) (2020) (Salva Kantero)">
+		<description>Sorcerers (v1.1) (2020) (Salva Kantero)</description>
+		<rom name="Sorcerers (v1.1) (2020) (Salva Kantero).cdt" size="51478" crc="59ed69ec" md5="31be25b30026b18d6dc425387a5245c0" sha1="e7862031722cd5a1a02a89a2ee36e7383339f088" />
+	</game>
+	<game name="Sugar City (2023) (Voxel Tower)">
+		<description>Sugar City (2023) (Voxel Tower)</description>
+		<rom name="Sugar City (2023) (Voxel Tower).dsk" size="204544" crc="18cd7f48" md5="93c4a7e4ac32a1f8e3ecc905929e810d" sha1="5f3f55c9c7657b688c378d35fdb979388cdfa5d5" />
+	</game>
+	<game name="Survive the Week (2021) (En) (Carlos Pérezgrin)">
+		<description>Survive the Week (2021) (Carlos Pérezgrin)</description>
+		<rom name="Survive the Week (2021) (CPCRetroDev 2021) (En) (Carlos Pérezgrin).cdt" size="61399" crc="fde2aec7" md5="5cda6bf144ea075813c3b23766cd9177" sha1="93eb17fb61f935298f1634ce754e70a8c7182c2f" />
+	</game>
+	<game name="Survive the Week (2021) (Es) (Carlos Pérezgrin)">
+		<description>Survive the Week (2021) (Carlos Pérezgrin)</description>
+		<rom name="Survive the Week (2021) (CPCRetroDev 2021) (Es) (Carlos Pérezgrin).cdt" size="61399" crc="1294cbc6" md5="2bd4d47ed25e231b2dc2c245cb637076" sha1="b67a76db6f7cbd88fdba9effd66a47860adf81bd" />
+	</game>
+	<game name="WhatTheRock (2023) (Createvia)">
+		<description>WhatTheRock (2023) (Createvia)</description>
+		<rom name="WhatTheRock (2023) (Createvia).cdt" size="39593" crc="6cda4b2c" md5="69f8b7c88094db9d032bde3eaf5bd06f" sha1="ad34f8c900ca33b92c0d25718eb2b114e6e3d3d6" />
+	</game>
+	<game name="Wireware (2021) (CNG Soft)">
+		<description>Wireware (2021) (CNG Soft)</description>
+		<rom name="Wireware (2021) (CPCRetroDev 2021) (CNG Soft).cdt" size="16185" crc="034e76ec" md5="5bf74c1eb8e126b2d025ab7ff5b7048e" sha1="9d81837a6bb882dbed03a8e2d343ea6378109e50" />
+	</game>
+	<game name="Wizard Dash (2021) (v1.0) (Crab Party)">
+		<description>Wizard Dash (2021) (v1.0) (Crab Party)</description>
+		<rom name="Wizard Dash (2021) (CPCRetroDev 2021) (v1.0) (Crab Party).cdt" size="42537" crc="40d8e0f8" md5="ef207baede7683a4d4258d48b14314a2" sha1="1a1715651a27a86b09cc47fe0edf1e85e746854b" />
+	</game>
+	<game name="Wizard Dash (2021) (v1.1) (Crab Party)">
+		<description>Wizard Dash (2021) (v1.1) (Crab Party)</description>
+		<rom name="Wizard Dash (2021) (CPCRetroDev 2021) (v1.1) (Crab Party).cdt" size="46807" crc="393ea61e" md5="266126cb537ac8326887e613774c143a" sha1="e4c2cbc0211855b2b685d49e6e0f251538909e7b" />
+	</game>
+	<game name="Wonder Boy (1987) (Activision) (En) (Alt)">
+		<description>Wonder Boy (1987) (Activision) (En) (Alt)</description>
+		<rom name="Wonder Boy (1987) (Activision) (En) (Alt).cdt" size="65566" crc="618c084f" md5="0600267395755f3610fff3bafe6b50c6" sha1="c7e24550d7a2e48c309d7f77285fe7dbbf474d0e" />
+	</game>
+	<game name="Wonder Boy (1987) (Activision) (En) (Proein Soft Line)">
+		<description>Wonder Boy (1987) (Activision) (En) (Proein Soft Line)</description>
+		<rom name="Wonder Boy (1987) (Activision) (En) (Proein Soft Line).cdt" size="65623" crc="44d05afa" md5="68f23339b5849a332f2ff86e7dbce398" sha1="84848babc23ffc8b59a47520a346ddef5d4ef3b6" />
+	</game>
+	<game name="Wrath of the MCPC, The (2021) (lambdamikel)">
+		<description>Wrath of the MCPC, The (2021) (lambdamikel)</description>
+		<rom name="Wrath of the MCPC, The (2021) (CPCRetroDev 2021) (lambdamikel).cdt" size="34393" crc="03279691" md5="3ea57db4e0395a33df2a101d548cf0df" sha1="3eb4804b8491e693120a13436e40a0e81ede87fd" />
+	</game>
+	<game name="Wrath of the MCPC, The (2021) (LambdaSpeak) (lambdamikel)">
+		<description>Wrath of the MCPC, The (2021) (LambdaSpeak)(lambdamikel)</description>
+		<rom name="Wrath of the MCPC, The (2021) (LambdaSpeak) (CPCRetroDev 2021) (lambdamikel).cdt" size="29379" crc="1a3b10ee" md5="45c4c102bb7acd128c56485f02e9e053" sha1="d6eac8cbdaa1a3b43504f737858d6971c3373a9c" />
+	</game>
+	<game name="Wrecking Ball (2021) (Francesc Alcaucer)">
+		<description>Wrecking Ball (2021) (Francesc Alcaucer)</description>
+		<rom name="Wrecking Ball (2021) (CPCRetroDev 2021) (Francesc Alcaucer).cdt" size="48317" crc="5d5d0b49" md5="9084a16bba4736f9d5f23c151ce37f88" sha1="cd35689f14d021193c9cb30a335901a3e4115dd2" />
+	</game>
+</datafile>

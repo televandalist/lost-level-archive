@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>037</id>
+		<name>037 - Lost Level Archive - Amstrad - CPC (SNA)</name>
+		<description>Amstrad - CPC (SNA)</description>
+		<version>v20251031</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird)">
+		<description>DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird)</description>
+		<rom name="DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird).sna" size="65792" crc="019791d7" md5="9575b6fdb2fbcb021ab4435b28aac79d" sha1="ac3264667ece6c9f25da1c6ef09e6910370bc86e" />
+	</game>
+	<game name="Dr. Roland (v1.0) (2021) (John Lobo)">
+		<description>Dr. Roland (v1.0) (2021) (John Lobo)</description>
+		<rom name="Dr. Roland (v1.0) (2021) (John Lobo).sna" size="65792" crc="cf7849e9" md5="6f1f04247951b094ff6f4eca16a770e5" sha1="c80f8c610af4dc995d2002ce44e1e40949d380d1" />
+	</game>
+	<game name="Dr. Roland (v1.1) (2021) (John Lobo)">
+		<description>Dr. Roland (v1.1) (2021) (John Lobo)</description>
+		<rom name="Dr. Roland (v1.1) (2021) (John Lobo).sna" size="65792" crc="cf7849e9" md5="6f1f04247951b094ff6f4eca16a770e5" sha1="c80f8c610af4dc995d2002ce44e1e40949d380d1" />
+	</game>
+	<game name="Froggo Hop (2021) (Popcorn Games)">
+		<description>Froggo Hop (2021) (Popcorn Games)</description>
+		<rom name="Froggo Hop (2021) (Popcorn Games).sna" size="65792" crc="68539254" md5="4f51400274e3a55bd6f6c2c3c1801c6d" sha1="89f28d42fc76c0ca59979a3478dfd4c8e6799c42" />
+	</game>
+	<game name="Hey Sailor! (2020) (MarineDevelopers)">
+		<description>Hey Sailor! (2020) (MarineDevelopers)</description>
+		<rom name="Hey Sailor! (2020) (MarineDevelopers).sna" size="65792" crc="79aa74a3" md5="f71b1d5ca9777e8d3f0c2dd865da7730" sha1="9da50f5c6a5c30beef242beec2f6d413688bf1d1" />
+	</game>
+	<game name="Mandarin, The (2022) (Mananuk)">
+		<description>Mandarin, The (2022) (Mananuk)</description>
+		<rom name="Mandarin, The (2022) (Mananuk).sna" size="65792" crc="768e8292" md5="27fdefe7429d0959a8355b8d57627bd5" sha1="a7ce2b96ee4d3453975539754acf0b92de9c6b6a" />
+	</game>
+	<game name="Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)">
+		<description>Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0)</description>
+		<rom name="Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0).sna" size="65792" crc="17017435" md5="cfbdbc9bc4345243c7ba3162564b19e0" sha1="9dd8b03da36fbf62db381ea5cd388bc4d3544418" />
+	</game>
+	<game name="Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio)">
+		<description>Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio)</description>
+		<rom name="Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio).sna" size="65792" crc="2852787a" md5="e9bec8e5950ef4e3f0ad1c231aac3c6f" sha1="7b4146ca3adff6f4a3459a00a8fe4f7e99be8e46" />
+	</game>
+	<game name="Oh No, My Moustache (2022) (Strawberry Studio)">
+		<description>Oh No, My Moustache (2022) (Strawberry Studio)</description>
+		<rom name="Oh No, My Moustache (2022) (Strawberry Studio).sna" size="65792" crc="e8772ed8" md5="61fa82806bf3fcec07f674aff495e386" sha1="5d0c6ac7765a793e08adc09ce49da884b18a4990" />
+	</game>
+	<game name="Paleto Jones (2022) (UK) (v4.0) (Mananuk)">
+		<description>Paleto Jones (2022) (UK) (v4.0) (Mananuk)</description>
+		<rom name="Paleto Jones (2022) (UK) (v4.0) (Mananuk).sna" size="65792" crc="1e8303be" md5="4497612d96f27c53ff2de3589570f901" sha1="2274cb1f4e37dff512ad8f7d00f4ae5ed744b31d" />
+	</game>
+	<game name="Red Planet (2022) (En) (v1.1) (PlayOnRetro)">
+		<description>Red Planet (2022) (En) (v1.1) (PlayOnRetro)</description>
+		<rom name="Red Planet (2022) (En) (v1.1) (PlayOnRetro).sna" size="65792" crc="beafe56a" md5="d2b6f90f7c1e50e362e6f2009560d82e" sha1="c9c588b4094161f2738ab9b0b0cf165a7e8fd220" status="none" />
+	</game>
+	<game name="Red Planet (2022) (Es) (v1.1) (PlayOnRetro)">
+		<description>Red Planet (2022) (Es) (v1.1) (PlayOnRetro)</description>
+		<rom name="Red Planet (2022) (Es) (v1.1) (PlayOnRetro).sna" size="65792" crc="4302401c" md5="3b0ed6facf3afd3e4cd3b757c6696d19" sha1="63a0732847f570b173147b047a939c5024118fe6" status="none" />
+	</game>
+	<game name="WhatTheRock (2023) (Createvia)">
+		<description>WhatTheRock (2023) (Createvia)</description>
+		<rom name="WhatTheRock (2023) (Createvia).sna" size="65792" crc="aa7c55f7" md5="2a9cdd5614f06c31339c59f3186662bc" sha1="2989a47b89f78bc51f02e911c9e4d1520953f9ad" />
+	</game>
+</datafile>

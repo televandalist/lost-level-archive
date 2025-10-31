@@ -5,12 +5,16 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii</name>
 		<description>Nintendo - Wii</description>
-		<version>v20251019</version>
+		<version>v20251031</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Castle of Shikigami III (USA) (Undub) (v1.0) (swosho)">
+		<description>Castle of Shikigami III (USA) (Undub) (v1.0) (swosho)</description>
+		<rom name="Castle of Shikigami III (USA) (Undub) (v1.0) (swosho).iso" size="4699979776" crc="6c9b1e10" md5="c8103099134117d3bd9369460a818f9f" sha1="d376bf72af9293b5392ea5b23b6905c0117c5bbd" status="none" />
+	</game>
 	<game name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)">
 		<description>NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)</description>
 		<rom name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team).iso" size="1172766720" crc="bb5ff25b" md5="74f73eaef342308dd06fc6ede718929f" sha1="ac89e47d4f546b7f4851458cd6f540fe9088d05d" status="none" />

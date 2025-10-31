@@ -5,7 +5,7 @@
 		<id>071</id>
 		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy FX</name>
 		<description>Arduboy Inc. - Arduboy FX</description>
-		<version>v20250801</version>
+		<version>v20251031</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -38,6 +38,14 @@
 	<game name="Greenhorn Syndicate (World) (v1.2) (Atom_Y)">
 		<description>Greenhorn Syndicate (World) (v1.2) (Atom_Y)</description>
 		<rom name="Greenhorn Syndicate (World) (v1.2) (Atom_Y).arduboy" size="60868" crc="0e20a975" md5="60d8ec1b84d3db7b6f56fd6854ccbd6c" sha1="2496117c54d707513481f5ef741940c20519d02c" status="none" />
+	</game>
+	<game name="Prince of Arabia FX (World) (v1.4) (Press Play On Tape)">
+		<description>Prince of Arabia FX (World) (v1.4) (Press Play On Tape)</description>
+		<rom name="Prince of Arabia FX (World) (v1.4) (Press Play On Tape).arduboy" size="120936" crc="8e5decdf" md5="b347df01115e15810f3f861485b90d0e" sha1="5fbe6849a62671a1a920a41d787c8ce53118b60a" status="none" />
+	</game>
+	<game name="Prince of Persia FX (World) (v1.4) (Press Play On Tape)">
+		<description>Prince of Persia FX (World) (v1.4) (Press Play On Tape)</description>
+		<rom name="Prince of Persia FX (World) (v1.4) (Press Play On Tape).arduboy" size="120909" crc="2f720a24" md5="6187e40a00a4dcf8252e0e0e430354ef" sha1="dff3bee4be9169054af3a208ab955a3869c5c798" status="none" />
 	</game>
 	<game name="Siren's Last Call (World) (v1.0.0) (poevoid)">
 		<description>Siren's Last Call (World) (v1.0.0) (poevoid)</description>

@@ -5,7 +5,7 @@
 		<id>029e</id>
 		<name>029e - Lost Level Archive - Microsoft - MSX (Extras)</name>
 		<description>Microsoft - MSX (Extras)</description>
-		<version>v20250913</version>
+		<version>v20251031</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -837,6 +837,10 @@
 		<description>Mine Finder (2022) (Paolo Fabrizio Pugno) - Extras</description>
 		<rom name="Mine Finder (2022) (Paolo Fabrizio Pugno) - Manual (En).pdf" size="388869" crc="0f130940" md5="49ffb61120da32c7a92b73e4b504d311" sha1="ab4fe7c4cfee93fe4e79074c643b80c61c28922a" status="none" />
 		<rom name="Mine Finder (2022) (Paolo Fabrizio Pugno) - Manual (Pt).pdf" size="411305" crc="977fd83b" md5="1c5d394f9237488ed871d300dacfc34f" sha1="163174cdd20a4d26342d78fb13bb5885a51f7bef" status="none" />
+	</game>
+	<game name="MinQ Extra (2024) (NukegaraDHP) - Extras">
+		<description>MinQ Extra (2024) (NukegaraDHP) - Extras</description>
+		<rom name="MinQ Extra (2024) (NukegaraDHP) (En,Ja,Es) (128K) - Label.pdf" size="60459" crc="96074c23" md5="e7889cf040e0beb8780dae431aab93d2" sha1="655e7c0aad7507d0df2cfeac019aa78b4c8aca98" status="none" />
 	</game>
 	<game name="Mint (2023) (meichnpp) - Extras">
 		<description>Mint (2023) (meichnpp) - Extras</description>
