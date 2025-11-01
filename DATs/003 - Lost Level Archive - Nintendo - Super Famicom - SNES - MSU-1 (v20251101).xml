@@ -5,12 +5,50 @@
 		<id>003</id>
 		<name>003 - Lost Level Archive - Nintendo - Super Famicom - SNES - MSU-1</name>
 		<description>Nintendo - Super Famicom - SNES - MSU-1</description>
-		<version>v20250719</version>
+		<version>v20251101</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)">
+		<description>Shadowrun (USA) (MSU-1) (v20210428) (Conn)</description>
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-1.pcm" size="16084500" crc="8d4a33f8" md5="95a0c9e6234bc62160b5e58701ca3b32" sha1="cf9751f967403491c06b46398ffa8ee2c2e6d01d" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-2.pcm" size="11473708" crc="a86336e4" md5="c308161a0a528aa78f27123586f95eca" sha1="78fcd291438e8e75a4935c6989fb6dcb3b6bcdc2" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-3.pcm" size="15165532" crc="c473ec52" md5="4f0ff6adfd391cf332c8a9eab4f096e2" sha1="083e955baa2c2a2d6c31acd79e480cc0793823bb" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-4.pcm" size="11465104" crc="a9ddb6d6" md5="5869a75c54d7d406e17f6d3152aab885" sha1="e42488ac314e49fd1f9ce40ae1bfb756953a3b64" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-5.pcm" size="8773328" crc="e0473953" md5="c07f539e2cd31fb50410e02cb04e53ed" sha1="838e7c4a52a96fbc1346d0247c66d5863cef82f3" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-6.pcm" size="11870320" crc="0727b441" md5="e7417cb511470c86c8828031e063875f" sha1="c39107e7bb730cec1171b33b9bcfbd723ccf52af" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-7.pcm" size="22293540" crc="63447b7f" md5="2c800bb9ef9203b0705c1a8329a26aec" sha1="cd9bc4e3e3c3a24b5bd13e7fad17eb66ddf7230c" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-8.pcm" size="5995224" crc="761fb68d" md5="5de8e2d30ee24d0587c9c06b1c884693" sha1="62eb05a00f13358e79ae78cb0605d9b31a10d760" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-9.pcm" size="6754916" crc="80860e30" md5="8dd36514c2db6699128d6f88f691d46b" sha1="d4016f509727dc848ae1ead4e248ee93f5c479f5" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-10.pcm" size="5529672" crc="cdee50d1" md5="2f715742d74a303312adbb628dadc3f7" sha1="a24f7e32947a7314b91dd8a20493e6d871ef1420" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-11.pcm" size="3584984" crc="5c80afe3" md5="e327f732c259e315ca96e7860238c9e8" sha1="12390977e1c1101c328fe3376b20f227dfb5d92a" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-12.pcm" size="15063208" crc="5e77d1fc" md5="3c5ab663ef870c271e175804f8c13787" sha1="4456e586a089154f0c9fcf45cbc27b1c23b3e95f" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-49.pcm" size="15500124" crc="c191ff9a" md5="a6862e8e1fd8e47b7f4fbd931a39d6d4" sha1="d2888eb4cff0f46c52170d13df620de3318b8364" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-50.pcm" size="7075052" crc="6f2c5394" md5="97f96fda571b8e8f44a4184458a7c06f" sha1="1dc26046dfd4f98b6994616745c270b2d22b7ba9" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn)-51.pcm" size="8879972" crc="fd60a044" md5="f709c1f110cdd74f684b72908e0bdda6" sha1="7d3b83cd2d4a49c408ecd4cfcc917d042bf1f654" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn).sfc" size="1572864" crc="9ad405c5" md5="4bb8081fe57c4485f60b88875141a91a" sha1="7088cbc5bb77411379e1c0f1fae61595aca0a52f" status="none" />
+	</game>
+	<game name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)">
+		<description>Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)</description>
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-1.pcm" size="16084500" crc="8d4a33f8" md5="95a0c9e6234bc62160b5e58701ca3b32" sha1="cf9751f967403491c06b46398ffa8ee2c2e6d01d" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-2.pcm" size="11473708" crc="a86336e4" md5="c308161a0a528aa78f27123586f95eca" sha1="78fcd291438e8e75a4935c6989fb6dcb3b6bcdc2" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-3.pcm" size="15165532" crc="c473ec52" md5="4f0ff6adfd391cf332c8a9eab4f096e2" sha1="083e955baa2c2a2d6c31acd79e480cc0793823bb" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-4.pcm" size="11465104" crc="a9ddb6d6" md5="5869a75c54d7d406e17f6d3152aab885" sha1="e42488ac314e49fd1f9ce40ae1bfb756953a3b64" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-5.pcm" size="8773328" crc="e0473953" md5="c07f539e2cd31fb50410e02cb04e53ed" sha1="838e7c4a52a96fbc1346d0247c66d5863cef82f3" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-6.pcm" size="11870320" crc="0727b441" md5="e7417cb511470c86c8828031e063875f" sha1="c39107e7bb730cec1171b33b9bcfbd723ccf52af" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-7.pcm" size="22293540" crc="63447b7f" md5="2c800bb9ef9203b0705c1a8329a26aec" sha1="cd9bc4e3e3c3a24b5bd13e7fad17eb66ddf7230c" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-8.pcm" size="5995224" crc="761fb68d" md5="5de8e2d30ee24d0587c9c06b1c884693" sha1="62eb05a00f13358e79ae78cb0605d9b31a10d760" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-9.pcm" size="6754916" crc="80860e30" md5="8dd36514c2db6699128d6f88f691d46b" sha1="d4016f509727dc848ae1ead4e248ee93f5c479f5" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-10.pcm" size="5529672" crc="cdee50d1" md5="2f715742d74a303312adbb628dadc3f7" sha1="a24f7e32947a7314b91dd8a20493e6d871ef1420" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-11.pcm" size="3584984" crc="5c80afe3" md5="e327f732c259e315ca96e7860238c9e8" sha1="12390977e1c1101c328fe3376b20f227dfb5d92a" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-12.pcm" size="15063208" crc="5e77d1fc" md5="3c5ab663ef870c271e175804f8c13787" sha1="4456e586a089154f0c9fcf45cbc27b1c23b3e95f" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-49.pcm" size="15500124" crc="c191ff9a" md5="a6862e8e1fd8e47b7f4fbd931a39d6d4" sha1="d2888eb4cff0f46c52170d13df620de3318b8364" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-50.pcm" size="7075052" crc="6f2c5394" md5="97f96fda571b8e8f44a4184458a7c06f" sha1="1dc26046dfd4f98b6994616745c270b2d22b7ba9" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-51.pcm" size="8879972" crc="fd60a044" md5="f709c1f110cdd74f684b72908e0bdda6" sha1="7d3b83cd2d4a49c408ecd4cfcc917d042bf1f654" status="none" />
+		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support).sfc" size="1572864" crc="a013a8ee" md5="060775afe9e8e847ff3bbad125e6a1ab" sha1="b63435fb58b56de3c5eb792d8dda4e31f53961c6" status="none" />
+	</game>
 	<game name="Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)">
 		<description>Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)</description>
 		<rom name="Super Road Blaster (USA)/Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)-0.pcm" size="571976" crc="eff800a5" md5="24e9079d153873d57d7c2ee40b0ff610" sha1="679c6603b75c4e8dd506ddaea10f51ff74515cf5"/>
