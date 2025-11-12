@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20250928</version>
+		<version>v20251112</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -499,5 +499,10 @@
 		<rom name="Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl) (Disc 1).cue" size="544" crc="2da6f7e9" md5="d2e52f48f1c35a493de4029646b7baa0" sha1="0984011f508962e9138fd900c4befc42c2f35d34" />
 		<rom name="Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl) (Disc 2).bin" size="441468048" crc="f57f17da" md5="31d8af3009341b42d5821eea3590a926" sha1="f85c7176adcf0cb92972cac8d21ca92e5af33856" />
 		<rom name="Yakyuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (Unl) (Disc 2).cue" size="544" crc="7184f1f1" md5="c5dfeda7775f92275ba6a7dc37be159c" sha1="04277fd43bf81d2937ba43011eda23a67486f96b" />
+	</game>
+	<game name="Yume Nikki PS (USA) (v0.00.2) (Aftermarket) (Elias Daler)">
+		<description>Yume Nikki PS (USA) (v0.00.2) (Aftermarket) (Elias Daler)</description>
+		<rom name="Yume Nikki PS (USA) (v0.00.2) (Aftermarket) (Elias Daler).bin" size="23073120" crc="d0cb259e" md5="3a15edb11ab44e653507e7e38186fc9d" sha1="1df4e81fd2f871e1fd8ed1eb820f2349e18e2905" status="none" />
+		<rom name="Yume Nikki PS (USA) (v0.00.2) (Aftermarket) (Elias Daler).cue" size="121" crc="a13a4504" md5="bf780304fd8046a3e10c72d55c8cb8fd" sha1="31d8541ad42de5c6eac21d72cf5054c6691c7dc3" status="none" />
 	</game>
 </datafile>

@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20250913</version>
+		<version>v20251112</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -50,6 +50,10 @@
 	<game name="Candy Curfew (World) (v1.1) (Aftermarket) (GB Studio) (birdup)">
 		<description>Candy Curfew (World) (v1.1) (Aftermarket) (GB Studio) (birdup)</description>
 		<rom name="Candy Curfew (World) (v1.1) (Aftermarket) (GB Studio) (birdup).gbc" size="262144" crc="7b94b3a4" md5="9897f2ca117a6dea29c277ab90fe3e86" sha1="a1337ab513d843cd3a3271191cfea3051e53d1d7" status="none" />
+	</game>
+	<game name="Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video)">
+		<description>Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video)</description>
+		<rom name="Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video).gbc" size="2097152" crc="d0b4bdc1" md5="0144019e6a624ab7e9483fdf9cb0601f" sha1="8cfbd7768801ad0b573597c2dcfdf036b0ae8465" status="none" />
 	</game>
 	<game name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)">
 		<description>Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)</description>

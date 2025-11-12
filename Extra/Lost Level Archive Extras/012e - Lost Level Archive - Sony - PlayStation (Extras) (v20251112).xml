@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>012e</id>
+		<name>012e - Lost Level Archive - Sony - PlayStation (Extras)</name>
+		<description>Sony - PlayStation (Extras)</description>
+		<version>v20251112</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Loonies 8192 (NTSC) (r66) (Aftermarket) (thp) - Extras">
+		<description>Loonies 8192 (NTSC) (r66) (Aftermarket) (thp) - Extras</description>
+		<rom name="Loonies 8192 (NTSC) (r66) (Aftermarket) (thp) - Cover Art.png" size="181625" crc="d6334a7b" md5="59aa78556a3b270789d88725e15e2108" sha1="7f4edc307c95bc4128d635ae332c843d5bc9f68b" status="none" />
+		<rom name="Loonies 8192 (NTSC) (r66) (Aftermarket) (thp) - Manual.txt" size="5378" crc="dd90aece" md5="775f707f9d05f8968a859b8c90ca9ea2" sha1="7722b054ab793c27668bfa62b9a033807ae102e4" status="none" />
+	</game>
+	<game name="Magic Castle (Net Yaroze) (Kaiga) - Extras">
+		<description>Magic Castle (Net Yaroze) (Kaiga) - Extras</description>
+		<rom name="Magic Castle (Net Yaroze) (Kaiga) - Manual.pdf" size="667907" crc="5ffe0476" md5="3d4dbb466f231c776d36f812ed974e2e" sha1="bd1d08d5bf27d2538422e8a1ed65bbdcdab71617" />
+		<rom name="Magic Castle (Net Yaroze) (Kaiga) - Press Kit.pdf" size="624473" crc="e21ef55e" md5="af2eb4fef6097fb14dfded392b7ce147" sha1="5c408ce96d72d1b41cd0b51c18cd86e2269b2e53" />
+	</game>
+	<game name="Resident Evil - The Prison (v1.2) (Aydan Watkins) - Extras">
+		<description>Resident Evil - The Prison (v1.2) (Aydan Watkins) - Extras</description>
+		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins) - Manual.txt" size="2553" crc="1bfb0d25" md5="f9fc7f7d95fa0a8d7ac3f7000447a5c6" sha1="ab5309b75da70407869fb0b7cec32ef2118fd554" status="none" />
+	</game>
+	<game name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) - Extras">
+		<description>Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) - Extras</description>
+		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) - Manual.txt" size="2747" crc="ec493726" md5="22a29e276a040f35159d06fef5bc23d5" sha1="85d4f9503301800861e4665781c8930180c2506d" status="none" />
+	</game>
+	<game name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26) - Extras">
+		<description>Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26) - Extras</description>
+		<rom name="Suikoden II (E3 Preview CD-R) (Proto) (1999-04-26) - Disc.jpeg" size="2564452" crc="e7bcbe1a" md5="e83eacadf879ca76f34cd61efefe4e5a" sha1="fd04ca55ac7e35223f8f7a80e7b15d9a6df170c0" status="none" />
+	</game>
+	<game name="Yume Nikki PS (USA) (v0.00.2) (Aftermarket) (Elias Daler) - Extras">
+		<description>Yume Nikki PS (USA) (v0.00.2) (Aftermarket) (Elias Daler) - Extras</description>
+		<rom name="Yume Nikki PS (USA) (v0.00.2) (Aftermarket) (Elias Daler) - Cover.jpg" size="1449035" crc="09e48055" md5="18d38d8b1187010726d10fd476ca0b6a" sha1="ff31de8697afc50cc6d13b7d8f7d1acefd6ea88b" status="none" />
+	</game>
+</datafile>

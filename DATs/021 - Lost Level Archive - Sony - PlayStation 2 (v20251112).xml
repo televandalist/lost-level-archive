@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20250928</version>
+		<version>v20251112</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -76,6 +76,10 @@
 	<game name="Fruit'y (USA) (v1.0) (Retroguru)">
 		<description>Fruit'y (USA) (v1.0) (Retroguru)</description>
 		<rom name="Fruit'y (USA) (v1.0) (Retroguru).iso" size="25051136" crc="aae1cca2" md5="4c7efd3186c49b8d33991d037a186c78" sha1="88d59a78fd2739d821bff928c8cca52a5eb32f23" />
+	</game>
+	<game name="Genji - Dawn of the Samurai (USA) (PT-BR) (RevNatal) (bitraiden &amp; hnnewgames)">
+		<description>Genji - Dawn of the Samurai (USA) (PT-BR) (RevNatal) (bitraiden &amp; hnnewgames)</description>
+		<rom name="Genji - Dawn of the Samurai (USA) (PT-BR) (RevNatal) (bitraiden &amp; hnnewgames).iso" size="3034064896" crc="8730ca5b" md5="2915f8ad0d1c9f721b2bd4a04ddc0dad" sha1="d54238c717e09c696395ba5ce01a13df8b96837e" status="none" />
 	</game>
 	<game name="GH2DX - Custom Edition - Force Controllers As Guitar - Brand New Hero (v1.0) (ParallaxDG)">
 		<description>GH2DX - Custom Edition - Force Controllers As Guitar - Brand New Hero (v1.0) (ParallaxDG)</description>
@@ -196,6 +200,10 @@
 	<game name="Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games)">
 		<description>Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games)</description>
 		<rom name="Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games).iso" size="4559339520" crc="d1d20fea" md5="c1f783756a76f8f0b542c86f887afda5" sha1="dbd928d9176a5e9375a2849ee9af36705d47f039" status="none" />
+	</game>
+	<game name="Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan)">
+		<description>Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan)</description>
+		<rom name="Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan).iso" size="3979575296" crc="d189546c" md5="64a66281b7d31a5ff0e30a4d01d368a4" sha1="f39c4de46aa0d1f6599a4aa5a5a04845b2b10927" status="none" />
 	</game>
 	<game name="Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32)">
 		<description>Sailor Moon RevengeX (USA) (v3.0) (Aftermarket) (Nova32)</description>
