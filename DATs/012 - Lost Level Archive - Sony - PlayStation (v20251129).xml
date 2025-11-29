@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20251112</version>
+		<version>v20251129</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -442,6 +442,21 @@
 		<description>Roll Boss Rush (World) (Aftermarket) (Mini Zombie)</description>
 		<rom name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie).bin" size="132330576" crc="a851808a" md5="0d563d7df4d84869eb9da9c7b6cddbf9" sha1="a30c75951524d4a363f53d9df001ecae10ae43c9" />
 		<rom name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie).cue" size="116" crc="682a2966" md5="dcbae52e5220df3e62476cb2bcfbb5de" sha1="95b32a8de2d408b7331ad2ebce137586e588e28f" />
+	</game>
+	<game name="Sonic the Hedgehog XA (v0.6) (Europe) (luksamuk)">
+		<description>Sonic the Hedgehog XA (v0.6) (Europe) (luksamuk)</description>
+		<rom name="Sonic the Hedgehog XA (v0.6) (Europe) (luksamuk).bin" size="319841424" crc="635f12b5" md5="cb9fd69ebf80487741563259e5f811e9" sha1="ada182195de79c3b1eaef34cc24271510355239b" status="none" />
+		<rom name="Sonic the Hedgehog XA (v0.6) (Europe) (luksamuk).cue" size="904" crc="28112131" md5="5d6623afa214f7015776a6cb255da669" sha1="1f9bb707e24a66ca5fe314b2992bde4c3feae899" status="none" />
+	</game>
+	<game name="Sonic the Hedgehog XA (v0.6) (Japan) (luksamuk)">
+		<description>Sonic the Hedgehog XA (v0.6) (Japan) (luksamuk)</description>
+		<rom name="Sonic the Hedgehog XA (v0.6) (Japan) (luksamuk).bin" size="319841424" crc="c7559e4a" md5="13378a53fdb8f0fd2ce9e73326664ed0" sha1="1fd4f8851ea9fedf9036df2a322160b63b6d7501" status="none" />
+		<rom name="Sonic the Hedgehog XA (v0.6) (Japan) (luksamuk).cue" size="903" crc="f69a89ac" md5="bc3685d26cfa0806015f0ce397bb408a" sha1="d6418a2186cf49cd541a6ea2ff722fd5746e979b" status="none" />
+	</game>
+	<game name="Sonic the Hedgehog XA (v0.6) (USA) (luksamuk)">
+		<description>Sonic the Hedgehog XA (v0.6) (USA) (luksamuk)</description>
+		<rom name="Sonic the Hedgehog XA (v0.6) (USA) (luksamuk).bin" size="319841424" crc="272de09b" md5="de8f88336a5001f9654b61c082cc1532" sha1="5d1457282ecca855c0aa618e95e828f758a02d25" status="none" />
+		<rom name="Sonic the Hedgehog XA (v0.6) (USA) (luksamuk).cue" size="901" crc="d33283e4" md5="8246f8158972bc06705de6ecf98251c9" sha1="0497f337ab5caf6265203ae2483576d95dddab3a" status="none" />
 	</game>
 	<game name="StarCon (USA) (v1998-07-15) (Proto)">
 		<description>StarCon (USA) (v1998-07-15) (Proto)</description>

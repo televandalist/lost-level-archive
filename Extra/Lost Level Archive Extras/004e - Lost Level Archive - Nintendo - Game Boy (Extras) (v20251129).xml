@@ -5,7 +5,7 @@
 		<id>004e</id>
 		<name>004e - Lost Level Archive - Nintendo - Game Boy (Extras)</name>
 		<description>Nintendo - Game Boy (Extras)</description>
-		<version>v20250712</version>
+		<version>v20251129</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -29,6 +29,10 @@
 	<game name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras">
 		<description>Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras</description>
 		<rom name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Manual.pdf" size="298424" crc="CF4ED794" md5="F36955A03CF90B7186EA52C35FF36B48" sha1="F536EE8715E2FE4BBBCA1AE936FFA2548D5D0EED" date="2023-07-27 13:13:18"/>
+	</game>
+	<game name="Galacard (World) (Aftermarket) (Bipedal Studios) - Strategy Guide">
+		<description>Galacard (World) (Aftermarket) (Bipedal Studios) - Strategy Guide</description>
+		<rom name="Galacard (World) (Aftermarket) (Bipedal Studios) - Strategy Guide.pdf" size="94483" crc="2d575833" md5="5a70a59f8e30683697f2b20eaa7688d1" sha1="e45169d44faed2a2d64c7258394bc0ad1fe6ffa2" status="none" />
 	</game>
 	<game name="LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Extras">
 		<description>LesbiAnts - Our New Morphology - Final Evolution (World) (Aftermarket) (astoryinpieces) - Extras</description>

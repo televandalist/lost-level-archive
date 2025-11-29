@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20250814</version>
+		<version>v20251129</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -23,13 +23,29 @@
 		<description>Amazona Adventure (USA) (Aftermarket) (Unl)</description>
 		<rom name="Amazona Adventure (USA) (Aftermarket) (Unl).a26" size="32768" crc="e9b64328" md5="cb7f692445421db83d3b7030647aea34" sha1="691a3e0cb609f03f12b62e49969d73f8cf3ca11c" />
 	</game>
+	<game name="Angry Video Game Nerd, The (NTSC) (Aftermarket) (Unl)">
+		<description>Angry Video Game Nerd, The (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Angry Video Game Nerd, The (NTSC) (Aftermarket) (Unl).a26" size="16384" crc="21696547" md5="9150cd982fbd340c75b1371a12796704" sha1="ffc3eff7afc1051716159ddfaf2fe2bf149e5d49" status="none" />
+	</game>
 	<game name="Anguna (USA) (Aftermarket) (Unl)">
 		<description>Anguna (USA) (Aftermarket) (Unl)</description>
 		<rom name="Anguna (USA) (Aftermarket) (Unl).a26" size="16384" crc="f402ecf9" md5="81b400ecf7ddae9c57dcd0fac503749b" sha1="4defb230fcc24cec16e0dd586540f7767ca40dd0" />
 	</game>
+	<game name="Arkyology (NTSC) (Proto) (1983)">
+		<description>Arkyology (NTSC) (Proto) (1983)</description>
+		<rom name="Arkyology (NTSC) (Proto) (1983).a26" size="8192" crc="f3a3a96b" md5="2434102f30eeb47792cf0825e368229b" sha1="df30a11c28e0988939ede9590f36690f94cb6778" status="none" />
+	</game>
+	<game name="Arkyology (NTSC) (Proto) (1983) (Startup Bugfix) (DirtyHairy)">
+		<description>Arkyology (NTSC) (Proto) (1983) (Startup Bugfix) (DirtyHairy)</description>
+		<rom name="Arkyology (NTSC) (Proto) (1983) (Startup Bugfix) (DirtyHairy).a26" size="8192" crc="63cc9c32" md5="93c4b910f7649b3e998bb6d8527c6f4a" sha1="14e58a028df96a234abcc517f42e71dae023a8dd" status="none" />
+	</game>
 	<game name="Asterix (Europe) (CX2696)">
 		<description>Asterix (Europe) (CX2696)</description>
 		<rom name="Asterix (Europe) (CX2696).a26" size="8192" crc="2e3deb79" md5="faebcb2ef1f3831b2fc1dbd39d36517c" sha1="ff31d885ea3d96850547fdb8978d12d0965a2c1f" />
+	</game>
+	<game name="Astro Chase (NTSC) (Proto) (1983-10-25)">
+		<description>Astro Chase (NTSC) (Proto) (1983-10-25)</description>
+		<rom name="Astro Chase (NTSC) (Proto) (1983-10-25).a26" size="4096" crc="322fa083" md5="7d24f3054be9950aa263e005581c4786" sha1="806947f2eefc60ab53c2b723d0156dacbe74ba24" status="none" />
 	</game>
 	<game name="Baby (NTSC) (Demo) (Aftermarket) (RobsomeStudios)">
 		<description>Baby (NTSC) (Demo) (Aftermarket) (RobsomeStudios)</description>
@@ -46,6 +62,18 @@
 	<game name="Baby (NTSC) (v3.0) (Aftermarket) (RobsomeStudios)">
 		<description>Baby (NTSC) (v3.0) (Aftermarket) (RobsomeStudios)</description>
 		<rom name="Baby (NTSC) (v3.0) (Aftermarket) (RobsomeStudios).a26" size="4096" crc="bffe982e" md5="795bafe9e9f4ea7a5d2c34c1a4fea992" sha1="e4fd953bb42de4906586222e4a622f369e9c5d58" />
+	</game>
+	<game name="Backfire (NTSC) (Aftermarket) (Chad Lare)">
+		<description>Backfire (NTSC) (Aftermarket) (Chad Lare)</description>
+		<rom name="Backfire (NTSC) (Aftermarket) (Chad Lare).a26" size="4096" crc="dcead99a" md5="ea08d519122e6af06117fdded62c525d" sha1="990ddb407e6b343f0790c1606abfd47a0380807d" status="none" />
+	</game>
+	<game name="Bee-Ball (NTSC) (Aftermarket) (Ivan Machado)">
+		<description>Bee-Ball (NTSC) (Aftermarket) (Ivan Machado)</description>
+		<rom name="Bee-Ball (NTSC) (Aftermarket) (Ivan Machado).a26" size="4096" crc="eb4b9ca9" md5="45cbf6ed6ec3140ba3723c1e5dcec9d7" sha1="d182f4e5f42398871fe00f28a570566442184c66" status="none" />
+	</game>
+	<game name="Bee-Ball (PAL) (Aftermarket) (Ivan Machado)">
+		<description>Bee-Ball (PAL) (Aftermarket) (Ivan Machado)</description>
+		<rom name="Bee-Ball (PAL) (Aftermarket) (Ivan Machado).a26" size="4096" crc="3c513b77" md5="c287c9a9d9949295fe37cba3c13104aa" sha1="154aaf601c79461f387045eede54c0e715c7b9be" status="none" />
 	</game>
 	<game name="Birds and Beans (NTSC) (Aftermarket) (Unl) (Bluswimmer)">
 		<description>Birds and Beans (NTSC) (Aftermarket) (Unl) (Bluswimmer)</description>
@@ -123,6 +151,10 @@
 		<description>Euchre (USA) (Aftermarket) (Unl)</description>
 		<rom name="Euchre (USA) (Aftermarket) (Unl).a26" size="4096" crc="b600ae88" md5="6205855cc848d1f6c4551391b9bfa279" sha1="47c2b4444b374352e5be15efc9330ddfec3ca71c" />
 	</game>
+	<game name="Firefox (NTSC) (Proto) (1982)">
+		<description>Firefox (NTSC) (Proto) (1982)</description>
+		<rom name="Firefox (NTSC) (Proto) (1982).a26" size="8192" crc="5c105d84" md5="554fd5775ca6d544818c96825032cf0d" sha1="73f5f00aa8c587a3d0db0f5fd83a804c41ac4594" status="none" />
+	</game>
 	<game name="Fish (NTSC) (Proto) (1983-12-22)">
 		<description>Fish (NTSC) (Proto) (1983-12-22)</description>
 		<rom name="Fish (NTSC) (Proto) (1983-12-22).a26" size="4096" crc="d1ac6dc6" md5="42110c026e7a30c732e3f56ece48cd05" sha1="9c5e9c4ea35a2eed3045952bde5127f04ca3ad53" />
@@ -159,6 +191,14 @@
 		<description>Holey Moley (USA) (Joystick Conversion) (Prototype)</description>
 		<rom name="Holey Moley (USA) (Joystick Conversion) (Prototype).a26" size="8192" crc="8f38fa8c" md5="078e08c1ddf839067b7bc7b88dc04ac1" sha1="b599385047fbf6ed27c3f612cee6ebe88922a693" />
 	</game>
+	<game name="Hunchy 2 (NTSC) (Aftermarket) (Chris Walton)">
+		<description>Hunchy 2 (NTSC) (Aftermarket) (Chris Walton)</description>
+		<rom name="Hunchy 2 (NTSC) (Aftermarket) (Chris Walton).a26" size="4096" crc="66148936" md5="9fa0c664b157a0c27d10319dbbca812c" sha1="bc9dac2223a3975bf4ab6d844f06e71598906c6f" status="none" />
+	</game>
+	<game name="Hunchy 2 (PAL) (Aftermarket) (Chris Walton)">
+		<description>Hunchy 2 (PAL) (Aftermarket) (Chris Walton)</description>
+		<rom name="Hunchy 2 (PAL) (Aftermarket) (Chris Walton).a26" size="4096" crc="060c9130" md5="11f9532557e4c9569f4b242164006161" sha1="39a18c8857c3cd2b9c390a243869b021990ffebe" status="none" />
+	</game>
 	<game name="Hunger Shark (USA) (v0.2.4) (Aftermarket) (Unl)">
 		<description>Hunger Shark (USA) (v0.2.4) (Aftermarket) (Unl)</description>
 		<rom name="Hunger Shark (USA) (v0.2.4) (Aftermarket) (Unl).a26" size="8192" crc="4e33a998" md5="919278fc296daeca578376d542166d8c" sha1="002656b73aa8747a5dbdfc47c77f3423843579b3" />
@@ -194,6 +234,10 @@
 	<game name="Kelly Kangaroo (USA) (v0.6) (Aftermarket) (Unl)">
 		<description>Kelly Kangaroo (USA) (v0.6) (Aftermarket) (Unl)</description>
 		<rom name="Kelly Kangaroo (USA) (v0.6) (Aftermarket) (Unl).a26" size="32768" crc="fcb219c6" md5="c411ec2fed53fa14c1fde93a8a975345" sha1="7ebb5e591f0d9b4349d16ee8da50a8fab7c9c30f" />
+	</game>
+	<game name="Kick-Man (NTSC) (Proto) (1982-01-08)">
+		<description>Kick-Man (NTSC) (Proto) (1982-01-08)</description>
+		<rom name="Kick-Man (NTSC) (Proto) (1982-01-08).a26" size="4096" crc="c0eb1ff3" md5="248668b364514de590382a7eda2c9834" sha1="ad4f13f34148e45a3d83873d5cd2537def3599c6" status="none" />
 	</game>
 	<game name="Lead 8K (USA) (Aftermarket) (Unl)">
 		<description>Lead 8K (USA) (Aftermarket) (Unl)</description>
@@ -291,6 +335,10 @@
 		<description>Punch Out (Demake) (NTSC) (Aftermarket) (Unl) (MathanGames)</description>
 		<rom name="Punch Out (Demake) (NTSC) (Aftermarket) (Unl) (MathanGames).a26" size="32768" crc="780db785" md5="ea6a1cdd1b14eac02759ea6372cfc1f5" sha1="b9d93a04b7fe83ef6782c1145819de24cc4c0f0f" />
 	</game>
+	<game name="Rock Shot (NTSC) (Aftermarket) (Vivian Video)">
+		<description>Rock Shot (NTSC) (Aftermarket) (Vivian Video)</description>
+		<rom name="Rock Shot (NTSC) (Aftermarket) (Vivian Video).a26" size="4096" crc="654c7274" md5="d92c1ebe55807fab5921d960130d6925" sha1="25c1338cc954bf903136258cf162f5a584f97b89" status="none" />
+	</game>
 	<game name="Skeleton+ (NTSC) (Aftermarket) (Unl) (Eric Ball)">
 		<description>Skeleton+ (NTSC) (Aftermarket) (Unl) (Eric Ball)</description>
 		<rom name="Skeleton+ (NTSC) (Aftermarket) (Unl) (Eric Ball).a26" size="4096" crc="69666409" md5="eafe8b40313a65792e88ff9f2fe2655c" sha1="71e757f92788794632e48a8104e715cb9eb6b217" />
@@ -302,6 +350,10 @@
 	<game name="Snake (Rick Skrbina) (USA) (Aftermarket) (Unl)">
 		<description>Snake (Rick Skrbina) (USA) (Aftermarket) (Unl)</description>
 		<rom name="Snake (Rick Skrbina) (USA) (Aftermarket) (Unl).a26" size="4096" crc="5c0b7e5f" md5="bd81069d0945f26d7ff753767208c305" sha1="5c41c48869aa4b64111a24011589be33e7f73ade" />
+	</game>
+	<game name="Snark (NTSC) (Proto) (1978)">
+		<description>Snark (NTSC) (Proto) (1978)</description>
+		<rom name="Snark (NTSC) (Proto) (1978).a26" size="2048" crc="e7fdc618" md5="f753c0799f8ed2c767d3241112b96408" sha1="2142f58bcd4a164c43beb9c715ec57c45fe518a0" status="none" />
 	</game>
 	<game name="Space Barricade (NTSC) (Aftermarket) (lott72)">
 		<description>Space Barricade (NTSC) (Aftermarket) (lott72)</description>
@@ -342,6 +394,14 @@
 	<game name="Strike Zone Bowling (PAL60) (Aftermarket) (Unl)">
 		<description>Strike Zone Bowling (PAL60) (Aftermarket) (Unl)</description>
 		<rom name="Strike Zone Bowling (PAL60) (Aftermarket) (Unl).a26" size="32768" crc="054d226c" md5="7cbbb78e2942a49ccd32b600c7d65d19" sha1="589a585e99015605b5c33ff6edd0b629332d779b" />
+	</game>
+	<game name="Tarzan (NTSC) (Proto) (1984)">
+		<description>Tarzan (NTSC) (Proto) (1984)</description>
+		<rom name="Tarzan (NTSC) (Proto) (1984).a26" size="16384" crc="15e22f06" md5="468dc062a58499d081c59cf5fd08f655" sha1="a6d9a3375f9ca62123353760d0c78d05717de7d2" status="none" />
+	</game>
+	<game name="Tarzan (NTSC) (Proto) (1984) (F6 Bankswitch)">
+		<description>Tarzan (NTSC) (Proto) (1984) (F6 Bankswitch)</description>
+		<rom name="Tarzan (NTSC) (Proto) (1984) (F6 Bankswitch).a26" size="16384" crc="a1e79520" md5="1bbdbdce8ee72f1feb80a71814a84c70" sha1="2f9ae5af879291fd557249a99e34ce3225e24aae" status="none" />
 	</game>
 	<game name="Tetris26 (NTSC) (Aftermarket) (Unl) (Colin Hughes)">
 		<description>Tetris26 (NTSC) (Aftermarket) (Unl) (Colin Hughes)</description>

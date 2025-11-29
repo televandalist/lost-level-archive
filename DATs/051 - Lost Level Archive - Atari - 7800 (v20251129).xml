@@ -5,7 +5,7 @@
 		<id>051</id>
 		<name>051 - Lost Level Archive - Atari - 7800</name>
 		<description>Atari - 7800</description>
-		<version>v20250621</version>
+		<version>v20251129</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -42,5 +42,9 @@
 	<game name="TiME Salvo (USA) (Aftermarket) (Mike Saarna)">
 		<description>TiME Salvo (USA) (Aftermarket) (Mike Saarna)</description>
 		<rom name="TiME Salvo (USA) (Aftermarket) (Mike Saarna).a78" size="49280" crc="99908716" md5="668c10974001dc1b02466bdaaa6c7d2b" sha1="83d24c64ca9def70012c4b3fb50c949ac4ce0560" />
+	</game>
+	<game name="Waffle Painter (USA) (v1.1) (Aftermarket) (Vivian Video)">
+		<description>Waffle Painter (USA) (v1.1) (Aftermarket) (Vivian Video)</description>
+		<rom name="Waffle Painter (USA) (v1.1) (Aftermarket) (Vivian Video).a78" size="32896" crc="93a4a0f3" md5="717701e350fe704d0fbe8e4455e48d2f" sha1="ad034be19465d7386ae08950d6036ff7a0b158d9" status="none" />
 	</game>
 </datafile>

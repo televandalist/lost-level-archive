@@ -5,7 +5,7 @@
 		<id>011</id>
 		<name>011 - Lost Level Archive - Sega - Master System</name>
 		<description>Sega - Master System</description>
-		<version>v20250719</version>
+		<version>v20251129</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -50,6 +50,10 @@
 	<game name="Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl)">
 		<description>Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl)</description>
 		<rom name="Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl).sms" size="131072" crc="dbc88d37" md5="8635b8ecbce48c128cd5a6376843cf9b" sha1="f1e16dee2be2e9046608cd0532c5ab5a4145cdcd" />
+	</game>
+	<game name="RingDash SMS (World) (v1.1) (Aftermarket) (BriG78cx)">
+		<description>RingDash SMS (World) (v1.1) (Aftermarket) (BriG78cx)</description>
+		<rom name="RingDash SMS (World) (v1.1) (Aftermarket) (BriG78cx).sms" size="131072" crc="a1e883fc" md5="7206f1e903f6b0749cccd779d63464c0" sha1="f2801a72bb92865803a41e52286f62451c7ce2c7" status="none" />
 	</game>
 	<game name="Snail Maze - Music Demo (USA, Europe)">
 		<description>Snail Maze - Music Demo (USA, Europe)</description>

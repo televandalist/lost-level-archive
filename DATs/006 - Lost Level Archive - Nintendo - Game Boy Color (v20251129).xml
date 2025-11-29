@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20251112</version>
+		<version>v20251129</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -75,6 +75,10 @@
 		<description>Consume (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Consume (World) (Aftermarket) (GB Studio).gbc" size="2097152" crc="8caff077" md5="143dfbbdfa9b188684d0837692df581d" sha1="99608d5b8282be899c952ed7433164e40440acc0" />
 	</game>
+	<game name="Crystal Clear (World) (Aftermarket) (Bipedal Studios)">
+		<description>Crystal Clear (World) (Aftermarket) (Bipedal Studios)</description>
+		<rom name="Crystal Clear (World) (Aftermarket) (Bipedal Studios).gbc" size="32768" crc="842803f2" md5="05c146ec00faee185934b8cfbc3e6de2" sha1="c6f75290c37a9eec5e7470ce38061c352c91520c" status="none" />
+	</game>
 	<game name="Crystal Depths (World) (v1.3) (Aftermarket) (GB Studio) (quackdev)">
 		<description>Crystal Depths (World) (v1.3) (Aftermarket) (GB Studio) (quackdev)</description>
 		<rom name="Crystal Depths (World) (v1.3) (Aftermarket) (GB Studio) (quackdev).gbc" size="524288" crc="124b7b55" md5="a03811ac2a40001240756c0c7c2be808" sha1="e8b2e1f2af2117ebc5b92ddedc69a60707788864" status="none" />
@@ -122,6 +126,10 @@
 	<game name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)">
 		<description>G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl).gbc" size="262144" crc="2f813033" md5="3e151d9bfd7b36a80ef475a98863a001" sha1="0407a3fc4c8c6711cde8fe9d07860dc3ef075f5e" />
+	</game>
+	<game name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios)">
+		<description>Galacard Platinum (World) (Aftermarket) (Bipedal Studios)</description>
+		<rom name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios).gbc" size="65536" crc="35cb8ca4" md5="39f52304f12df792da99c8e2608c64aa" sha1="893b498e5726bbe7f48f3690fdc14b89b408d98f" status="none" />
 	</game>
 	<game name="Geometrix (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Geometrix (World) (v1.0) (Aftermarket) (Unl)</description>
@@ -206,6 +214,10 @@
 	<game name="Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl)" cloneof="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
 		<description>Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl)</description>
 		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl).gbc" size="4194304" crc="0c6cdaaa" md5="a208b6e3cea582b1e45255031b6b7152" sha1="2e28c460be56eaeae975f620c66228e1cf66b1ed" />
+	</game>
+	<game name="Labyrinth of the Dragon (World) (v1.0.5a) (Aftermarket) (NesHacker)">
+		<description>Labyrinth of the Dragon (World) (v1.0.5a) (Aftermarket) (NesHacker)</description>
+		<rom name="Labyrinth of the Dragon (World) (v1.0.5a) (Aftermarket) (NesHacker).gbc" size="524288" crc="4cfa04a0" md5="529fd124d6ad0543c52fe65caedb0fd6" sha1="dc48a18aea88cc7f51d179174e50cd8400dcbd88" status="none" />
 	</game>
 	<game name="Laura's Room (World) (Aftermarket) (GB Studio) (Morgis)">
 		<description>Laura's Room (World) (Aftermarket) (GB Studio) (Morgis)</description>

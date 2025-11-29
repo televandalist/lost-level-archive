@@ -5,7 +5,7 @@
 		<id>015</id>
 		<name>015 - Lost Level Archive - Sega - Game Gear</name>
 		<description>Sega - Game Gear</description>
-		<version>v20250308</version>
+		<version>v20251129</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,6 +14,10 @@
 	<game name="Hopman Mini (World) (v2023-08-16) (Aftermarket) (Unl) (Inufuto)">
 		<description>Hopman Mini (World) (v2023-08-16) (Aftermarket) (Unl) (Inufuto)</description>
 		<rom name="Hopman Mini (World) (v2023-08-16) (Aftermarket) (Unl) (Inufuto).gg" size="16368" crc="84fd672d" md5="73cda8d9cf406c5ad1d69747333482e9" sha1="920aa9c3d64073d140280bf0baed64fe2aaa5dfa" />
+	</game>
+	<game name="RingDash GG (World) (Aftermarket) (BriG78cx)">
+		<description>RingDash GG (World) (Aftermarket) (BriG78cx)</description>
+		<rom name="RingDash GG (World) (Aftermarket) (BriG78cx).gg" size="131072" crc="471c09b7" md5="90008552628768282f5993f4f9638b6e" sha1="ce851f25e70093e7c2cc6d14f95918a8d1f31360" status="none" />
 	</game>
 	<game name="Snepzhen Solitaire (World) (v1.0) (Aftermarket) (Unl) (Wainstop)">
 		<description>Snepzhen Solitaire (World) (v1.0) (Aftermarket) (Unl) (Wainstop)</description>

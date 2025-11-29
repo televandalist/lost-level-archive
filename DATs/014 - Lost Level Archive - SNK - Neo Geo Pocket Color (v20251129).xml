@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>014</id>
+		<name>014 - Lost Level Archive - SNK - Neo Geo Pocket Color</name>
+		<description>SNK - Neo Geo Pocket Color</description>
+		<version>v20251129</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Another Day in Hell (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Another Day in Hell (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Another Day in Hell (World) (v1.1) (Aftermarket) (Unl).ngc" size="1494777" crc="73d4c2a4" md5="b66c0335be91d86650e31c5942a69323" sha1="8ede8a19190fb5e74658d06f2d076a9fcf440187" />
+	</game>
+	<game name="Blocks (World) (Aftermarket) (Unl)">
+		<description>Blocks (World) (Aftermarket) (Unl)</description>
+		<rom name="Blocks (World) (Aftermarket) (Unl).ngc" size="32768" crc="dfd9d777" md5="e2b6d75c63b17e18cd02411f6ce1d6e4" sha1="8bb44863e9e874d8d78234a406f84e33711fc495"/>
+	</game>
+	<game name="Bomberman (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Bomberman (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Bomberman (World) (v1.1) (Aftermarket) (Unl).ngc" size="1910804" crc="61b14431" md5="3f18507c9aa7e80b9aa75ce9e69de9ed" sha1="18f722428e3033ba631f4f049520577da867731e" />
+	</game>
+	<game name="Columns (World) (Aftermarket) (Unl)">
+		<description>Columns (World) (Aftermarket) (Unl)</description>
+		<rom name="Columns (World) (Aftermarket) (Unl).ngc" size="196608" crc="7b628e3b" md5="836323995f1dbc3c77343581d8b01b82" sha1="73a268323a606353cdfb0d8da692305a9d70901c" />
+	</game>
+	<game name="Diamond Run (World) (Aftermarket) (Unl)">
+		<description>Diamond Run (World) (Aftermarket) (Unl)</description>
+		<rom name="Diamond Run (World) (Aftermarket) (Unl).ngc" size="32768" crc="97c58fd0" md5="0cd4aa9a72ececf14508de6ae6725ed1" sha1="76f82acc6e5df9c4980a56361966058653cd32f6"/>
+	</game>
+	<game name="Dodger (World) (Aftermarket) (Unl)">
+		<description>Dodger (World) (Aftermarket) (Unl)</description>
+		<rom name="Dodger (World) (Aftermarket) (Unl).ngc" size="12917" crc="70f69290" md5="4d66a6bb96afb16a1402d6c6fe4f4b24" sha1="a29b0397b0c1c5f6344933ed7383a5b7b0dbca15" />
+	</game>
+	<game name="Don't Die, Mr. Robot! (World) (Aftermarket) (Infinite State Games)">
+		<description>Don't Die, Mr. Robot! (World) (Aftermarket) (Infinite State Games)</description>
+		<rom name="Don't Die, Mr. Robot! (World) (Aftermarket) (Infinite State Games).ngp" size="2097152" crc="0c36f0f3" md5="11971a9022e4737bb216c06709977bdd" sha1="7f437acd83a264b30b0baf0dc248f043614b7f8e" status="none" />
+	</game>
+	<game name="Don't Die, Mr. Robot! (World) (Aftermarket) (Infinite State Games) (No Save)">
+		<description>Don't Die, Mr. Robot! (World) (Aftermarket) (Infinite State Games) (No Save)</description>
+		<rom name="Don't Die, Mr. Robot! (World) (Aftermarket) (Infinite State Games) (No Save).ngp" size="464980" crc="e95214bb" md5="d709664ad5bbd3cd82f2ddf28237d3ea" sha1="dede0fba68af37bfa249686083c52ee0c5563e00" status="none" />
+	</game>
+	<game name="DynaMate (World) (v1.1) (Aftermarket) (Unl)">
+		<description>DynaMate (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="DynaMate (World) (v1.1) (Aftermarket) (Unl).ngc" size="44261" crc="86d81b9e" md5="7b5687c944b3eaaa829670a48b166666" sha1="53d433dfad7699006c529a02fe6e54cca3aaf424" />
+	</game>
+	<game name="Fruity Pals' Revenge (World) (Aftermarket) (Infinite State Games)">
+		<description>Fruity Pals' Revenge (World) (Aftermarket) (Infinite State Games)</description>
+		<rom name="Fruity Pals' Revenge (World) (Aftermarket) (Infinite State Games).ngp" size="2097152" crc="f92db309" md5="853e98fa97cc74eb70621e5620dff47b" sha1="0784e58ddf280c82d5b39f763e35b5ea3cfb5b71" status="none" />
+	</game>
+	<game name="Fruity Pals' Revenge (World) (Aftermarket) (Infinite State Games) (No Save)">
+		<description>Fruity Pals' Revenge (World) (Aftermarket) (Infinite State Games) (No Save)</description>
+		<rom name="Fruity Pals' Revenge (World) (Aftermarket) (Infinite State Games) (No Save).ngp" size="802607" crc="553632a7" md5="14e1bcf0e904bcc2cc3cc37d7ab94102" sha1="7e34ebc2322599d034077b6a8074c51cb40a50f6" status="none" />
+	</game>
+	<game name="Gears of Fate (World) (v20090508) (Aftermarket) (Unl)">
+		<description>Gears of Fate (World) (v20090508) (Aftermarket) (Unl)</description>
+		<rom name="Gears of Fate (World) (v20090508) (Aftermarket) (Unl).ngc" size="1917732" crc="3c75807e" md5="782c7aec693c95de10e05a268c023ce1" sha1="b2356a4c4af8cb40a212a2e29a74084dfda6c53a"/>
+	</game>
+	<game name="Lights! (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Lights! (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Lights! (World) (v1.1) (Aftermarket) (Unl).ngc" size="32768" crc="281de628" md5="1715311acd6bf2717a3b1bf70321d195" sha1="eeac12009e07025e46a188b17b38fdae2c7346a6"/>
+	</game>
+	<game name="Manic Miner Starring Miner Willy (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Manic Miner Starring Miner Willy (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Manic Miner Starring Miner Willy (World) (v1.0) (Aftermarket) (Unl).ngc" size="524288" crc="7b23af97" md5="b3fc27e28a2042a6923dce0ad750559a" sha1="abcfe0616f3f4556f5fc46c44ca7bb49799bcb14" />
+	</game>
+	<game name="Mines (World) (Aftermarket) (Unl)">
+		<description>Mines (World) (Aftermarket) (Unl)</description>
+		<rom name="Mines (World) (Aftermarket) (Unl).ngc" size="32768" crc="4b687e99" md5="6594d32d6774b616949a31641799472a" sha1="7aa07c67a6aa8d398370bceea7124f9e2e5b03f8"/>
+	</game>
+	<game name="Mr. Do! (World) (Aftermarket) (Unl)">
+		<description>Mr. Do! (World) (Aftermarket) (Unl)</description>
+		<rom name="Mr. Do! (World) (Aftermarket) (Unl).ngc" size="16152" crc="0098c7b5" md5="2ee3331dd1e34020bbafdd91df0ce1bb" sha1="3e0ea487d3647936413a42570d0a1a6565cc6ec9"/>
+	</game>
+	<game name="Pac-Man (World) (Aftermarket) (Unl)">
+		<description>Pac-Man (World) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man (World) (Aftermarket) (Unl).ngc" size="131411" crc="1dcec4ea" md5="e2173aeabe4bede0f2e958b4214adf40" sha1="79daaa356bf8e4de48e6668d685e13ba3d38c9b4" />
+	</game>
+	<game name="Puzzle Gems (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Puzzle Gems (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Puzzle Gems (World) (v1.1) (Aftermarket) (Unl).ngc" size="39798" crc="ef104269" md5="04a35a8f274479a061b88bdeee8ee6d4" sha1="cf0fc231f7386ffb9fbf5825d03a758fa0236081"/>
+	</game>
+	<game name="Snake (World) (v1.2) (Aftermarket) (Unl)">
+		<description>Snake (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Snake (World) (v1.2) (Aftermarket) (Unl).ngc" size="524288" crc="82510aa9" md5="62029cf9c8af82f4dd13bd0243693d32" sha1="2ca5b0e26dbb6f399ff89183de17603ea78e87a7"/>
+	</game>
+	<game name="SOD Chess (World) (v1.1) (Aftermarket) (Unl)">
+		<description>SOD Chess (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="SOD Chess (World) (v1.1) (Aftermarket) (Unl).ngc" size="143697" crc="2f2dd18e" md5="a7e02990870e99bde6b3dddc5ef17b86" sha1="067d3a23e8c0f0008e47392fcf2b664d996a0746" />
+	</game>
+	<game name="Thieves (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Thieves (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Thieves (World) (v1.0) (Aftermarket) (Unl).ngc" size="524288" crc="68242322" md5="5e9603ffffeaad87c91bf171aa6c833b" sha1="cc21b9da3306d3237e710a2d9400ee5c3a27bc29" />
+	</game>
+</datafile>

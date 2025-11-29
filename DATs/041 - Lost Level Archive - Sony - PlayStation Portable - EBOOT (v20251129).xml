@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (EBOOT)</name>
 		<description>Sony - PlayStation Portable (EBOOT)</description>
-		<version>v20250926</version>
+		<version>v20251129</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -228,6 +228,205 @@
 		<rom name="ep4demo4.dat" size="130" crc="4e73dc66" md5="920bf9b630b2d869dbea09d94767d371" sha1="6440ccde8180f6bf08c292c25d511bfe2cf18562" />
 		<rom name="readme.txt" size="6647" crc="e5a04f23" md5="02378492ddb5e48819dbeb57e41cd7c2" sha1="1255debad8a88788abc0d53e189be5b46e2b7a3b" />
 		<rom name="strings.dat" size="10595" crc="ac6a5ce3" md5="e7197fe6c2b46a545c4151f186ab59dd" sha1="bfbba93cbba9593065f90bcda19c130f77f7539a" />
+	</game>
+	<game name="CSPSP (World) (v1.91) (Aftermarket) (Kevin Chen)">
+		<description>CSPSP (World) (v1.91) (Aftermarket) (Kevin Chen)</description>
+		<rom name="data\animations.txt" size="1065" crc="e49a0749" md5="71cc53da959210737339b87c1c5d36b6" sha1="bdf347ac74803bd6f763c070272c35a98011250d" status="none" />
+		<rom name="data\config.txt" size="75" crc="24665679" md5="3ae12f023c097abbb733fcb95fc37f74" sha1="cb50d1c720ab6e66a499a9a64fd325540b6fdd62" status="none" />
+		<rom name="data\f3.dat" size="2048" crc="4563e608" md5="a74178fad58c6b9c51d65b017cad5dde" sha1="3888796fe2772de4d92678cb5aac0fc23e54ff25" status="none" />
+		<rom name="data\f3.png" size="10087" crc="b7bbdb41" md5="e7cca9ba559ffc1d58f4c02296da164f" sha1="dfefaef548e1662760ed89680a509ec3e5e4f196" status="none" />
+		<rom name="data\favorites.txt" size="17" crc="14be625e" md5="2ad2395fa41bd743ead73d09c6ca5f6a" sha1="6f82d0cf5a3af58d075c68b0d886163cef447523" status="none" />
+		<rom name="data\guns.txt" size="1518" crc="667100f7" md5="e5ee481eb9267012f3e9450ebbb4fcb0" sha1="0fd3ad8d6f58cdbba1e1a00f84d2a409c058ec05" status="none" />
+		<rom name="data\idstorage.prx" size="2606" crc="95553fad" md5="9f97669a8357bf6a2a81b8277694ce89" sha1="3f8cf26c397a5e36dd1eec1defe4d0e01394e996" status="none" />
+		<rom name="data\rapmet.prx" size="1918" crc="e4f8ef09" md5="003797d2b43aee386be8379c91c5cf1c" sha1="6cfee904ecbb802b91429afdcba8630773f19215" status="none" />
+		<rom name="data\Thumbs.db" size="5120" crc="65ea5e16" md5="971930c06b122f6eb54093cf9726f3f7" sha1="b6ff96f063428c6b1a84fd085f029d4b3a38fc7c" status="none" />
+		<rom name="gfx\ammo.png" size="3043" crc="90555f69" md5="b99525ba3184d183efeac610b0190943" sha1="773e43696ce7be1ca48d03e2af6ec1b99f990520" status="none" />
+		<rom name="gfx\bg.PNG" size="135854" crc="56eef763" md5="9fc028bd2488430ad76f59b906ed21c4" sha1="9f0786d34e8f1a007c24dd2ce5fad7dd525bc965" status="none" />
+		<rom name="gfx\buyzone.png" size="2873" crc="fb9c91e1" md5="9ff9615f91b4a40158c05363c590722a" sha1="a3449714cecf1c4260be89bb6e1ab2b0b7867f5a" status="none" />
+		<rom name="gfx\controls.png" size="13268" crc="e61a92b0" md5="caa8ba98c704dff8a025a5fc07b0ff0a" sha1="2690f1cf2b83c3c2558a2dfe7248f586434c3e85" status="none" />
+		<rom name="gfx\ctf.png" size="4275" crc="53940461" md5="61f7f6c06b0406480943615e057c9377" sha1="4276996ace53b33eaa31bd2ba7f77815a575edcf" status="none" />
+		<rom name="gfx\damageindicator.png" size="5143" crc="24ab6013" md5="3380a00b423728abf415b9c701f76e36" sha1="0c01ba04fc20a7a647aff2afcec8ac0159d5217c" status="none" />
+		<rom name="gfx\decals.png" size="11661" crc="15f7a4aa" md5="adeecf1c807a43e8ee3f121f2a941698" sha1="65978946977cd585dc97fcc6e574c197fb7bf443" status="none" />
+		<rom name="gfx\explosion.psi" size="128" crc="a907dbab" md5="091739043824d0234ea70169e3924bfc" sha1="642764d6c93b6697ef1da1421ce88c0c44e9396e" status="none" />
+		<rom name="gfx\flash.psi" size="128" crc="71bac7e1" md5="98c9902b718a9bd729b2d2df6daeae96" sha1="908b4ce6941a2ca805eb606206bb8e281bffff6b" status="none" />
+		<rom name="gfx\guns.png" size="6140" crc="6158a91d" md5="5006bb586dc47f9b05ef2617c1f618ea" sha1="92d15dc78e697c71b8fb5b7a53fa0db4294b1e38" status="none" />
+		<rom name="gfx\gunsground.png" size="13430" crc="3877d280" md5="618c3e8a566f28e018b044c4cfd48d8c" sha1="b3fe294b095e27aeebc95da6c599ca6ebbb3fa29" status="none" />
+		<rom name="gfx\health.png" size="3122" crc="60f17291" md5="97d59c57af09093cabe30bab6a9cb7f8" sha1="b9887364a278bb8a03e5e7a7b76651ed35d565e3" status="none" />
+		<rom name="gfx\logo.png" size="10405" crc="00156b57" md5="b96d4d43893b8dadad8a9e1e67d9850b" sha1="017d4a3cee06537e9faf1015a6105322499db0d1" status="none" />
+		<rom name="gfx\muzzleflash.png" size="6193" crc="344d993a" md5="a681752ad1c6b08743d745e20298b328" sha1="0c7f8f7438f12583e50bc147b582fb4d16ab1096" status="none" />
+		<rom name="gfx\particles.png" size="12602" crc="4e6622ca" md5="3b825e1c440bd898e954550924621313" sha1="2fc97e547befa9daa70931379370b86dfbb64c7e" status="none" />
+		<rom name="gfx\players.png" size="11605" crc="32f38803" md5="adf7bf383575b7ca1010705bd746598f" sha1="1a0f7e6c5fec1ab3cd1e75252b5f1a2a8b2ceaf5" status="none" />
+		<rom name="gfx\playersdead.png" size="25679" crc="433cf55c" md5="d9eaf713be1fc564031460e6343ad3df" sha1="afb631ecc56724fa4c46417aa93ac91019135c64" status="none" />
+		<rom name="gfx\radar.png" size="2961" crc="8beca6d4" md5="6942a20d69a8e6ec326d799270810ee9" sha1="280df90130fae671c6ce2bfe19824c649ead0460" status="none" />
+		<rom name="gfx\scoreicons.png" size="2939" crc="3688e1ee" md5="3ba499ce3ad86cd4a1c9f1c7d891a158" sha1="f14de13048569cfedb515666aefcadb23e34827a" status="none" />
+		<rom name="gfx\smoke.psi" size="128" crc="93bec11d" md5="f50cfb02dc770afd47de481b04a47abe" sha1="3f381ebf3538b4adbe896695b00c580602525087" status="none" />
+		<rom name="gfx\Thumbs.db" size="47104" crc="1014e58a" md5="f16dc2995c8b87c0953198a7d91fda31" sha1="cae9686045fd1696aa0d575080f1f9b34e9f71dd" status="none" />
+		<rom name="gfx\danzeff\keys.png" size="9863" crc="7381e767" md5="20ce5c72672389880da91190b6bdc343" sha1="4bebf55b71d281a336aaa6ee9b1d6efef38f8af2" status="none" />
+		<rom name="gfx\danzeff\keys_c.png" size="10968" crc="f5a40239" md5="a1d0cbfbf3ac0f597a700951560213a1" sha1="8c551a35ae2af8f594f1057f145fb6d163bd2f68" status="none" />
+		<rom name="gfx\danzeff\keys_s.png" size="24244" crc="e3c23c70" md5="91a1dda4269d4f1d8f1676a40a72321a" sha1="80ad6ba624c8c49e1bfebc2588daf141e9973c55" status="none" />
+		<rom name="gfx\danzeff\keys_s_c.png" size="25960" crc="9195ac78" md5="079f0078fdbc21c1ceb25e631a54ead5" sha1="bb1e47fe89eb01e70eac63b152d1ba7ef91cfeb0" status="none" />
+		<rom name="gfx\danzeff\nums.png" size="7298" crc="a9c01188" md5="b74b0c3ede2071c2e97cb181219054e4" sha1="675f3069defe4a8b148e03afa01a7dfa2512ddac" status="none" />
+		<rom name="gfx\danzeff\nums_c.png" size="9593" crc="88a0b404" md5="0f864e4c5330510de55cdcc5970fe0fd" sha1="3f3801c9bfdca977c1e36a599da0daa3acdb9be8" status="none" />
+		<rom name="gfx\danzeff\nums_s.png" size="18118" crc="27ff1c0b" md5="7554e44aed9abd956c317406161b6adb" sha1="76ddf8e0984adc82db6d2d6bec64fa362fef7322" status="none" />
+		<rom name="gfx\danzeff\nums_s_c.png" size="23574" crc="c267d4e6" md5="63bc59d0e7bc349bea3b20ef798a083a" sha1="aefc09edbe8a5d0800d1f2081ab0e8c6415ddf33" status="none" />
+		<rom name="gfx\danzeff\Thumbs.db" size="78336" crc="87c9d737" md5="0b422cc9478234adb689dd61e7115794" sha1="69c2a3f317de86de0f35a9ca9c46994cde99a9b0" status="none" />
+		<rom name="maps\CastleVonbrown\map.txt" size="3993" crc="8cbd21af" md5="feec8944d30ab099ec4ea4d96f182b7f" sha1="77c632862014d13444fef7e6a06567344d0ddbb1" status="none" />
+		<rom name="maps\CastleVonbrown\overview.png" size="6766" crc="acb98119" md5="97fd38b483f507738c979e9ee4902e1c" sha1="a2d847979161c8252d9db336303eb1e26ad4cab5" status="none" />
+		<rom name="maps\CastleVonbrown\Thumbs.db" size="9216" crc="e673dfa6" md5="f438d0e7cc61c2b04730fba00b892acb" sha1="dc844d6baf12c5310d7c9cefffe0196dba738ac9" status="none" />
+		<rom name="maps\CastleVonbrown\tile.png" size="319173" crc="7b36c5b4" md5="5e11b7454e94af587135bd80f4d01f2c" sha1="1422d6f028bde221fa5b8bfe3886fee7f0e75ec2" status="none" />
+		<rom name="maps\Circle\map.txt" size="4278" crc="8a578a77" md5="c47073575ce5b2e1c281964acab14a45" sha1="b9f27f806e9f717bd475d30530a9f328036c317c" status="none" />
+		<rom name="maps\Circle\overview.png" size="4708" crc="ebbe9de2" md5="099447f7ae8fdfe5d68f80e26d1a2fba" sha1="aa879837abde2ee4ddcc23a761ae732a29274b10" status="none" />
+		<rom name="maps\Circle\Thumbs.db" size="5632" crc="dd259d91" md5="7196276ece8f8e1becf28aafca299fa5" sha1="01af21ae2efc3bf5c91077dbe4889a2b7b8f019a" status="none" />
+		<rom name="maps\Circle\tile.png" size="116394" crc="83df9754" md5="fa7848daab7405889e846fcfadb0052c" sha1="7a3bb52c16af78b919317d6d8faf6053720ad8e8" status="none" />
+		<rom name="maps\cs_italy\map.txt" size="22629" crc="07ce1322" md5="0228fe3f2fe60be57386c4191f3a0a5e" sha1="88bb64fc675fbb2139cbde00a39dee715bad6b68" status="none" />
+		<rom name="maps\cs_italy\overview.png" size="32518" crc="244eed9a" md5="3c7d7d3911ebb3d3f59e7a0b8fd58631" sha1="9166e87a24cb0a115dfbe72a4d7fb195f2b8048d" status="none" />
+		<rom name="maps\cs_italy\tile.png" size="103028" crc="bc34a1bc" md5="70e359e60c6c00a8a8ab5895a8d0ad18" sha1="feb6882d7fa124d41b3521b9b0b942eabea5f590" status="none" />
+		<rom name="maps\de_dust2\map.txt" size="8410" crc="1b1c2c82" md5="93b34ff8fa8f3e28a7b4077d3e9e78b3" sha1="b8d6d904353ab89cb7215fca1b6cb550bf6c15f1" status="none" />
+		<rom name="maps\de_dust2\overview.png" size="14545" crc="e89f30be" md5="1e6ab7061270ff22063176014ff54308" sha1="39bf5e73c4ffcaccc46a6261e4e98698ebfa045d" status="none" />
+		<rom name="maps\de_dust2\Thumbs.db" size="10752" crc="04b45b86" md5="1cd5e7933a75f44dd4ff75b3488c8da1" sha1="e646ced592f64817565227144c187e6c9f216f44" status="none" />
+		<rom name="maps\de_dust2\tile.png" size="242512" crc="c37b0d6a" md5="63c5ab53167b78d742c16bee06bcd1b2" sha1="8b9e298b5dcf6d133f281f754af8e9eff5c0a3df" status="none" />
+		<rom name="maps\flagrunner\map.txt" size="5366" crc="256e0ec0" md5="52fe19efdd6b72af61a4cf0c717439c5" sha1="e71541dd7279e352158c5f557e47930a0b631cb8" status="none" />
+		<rom name="maps\flagrunner\overview.png" size="3023" crc="79a7460a" md5="2eb289b73e818ee5f9b0365b1e77e501" sha1="88de30dd42d0225c07787fe081cfcee0b473e5d8" status="none" />
+		<rom name="maps\flagrunner\tile.png" size="3516" crc="d58d45b7" md5="2ba7b3abe734debf25ef557dbe0bc3ea" sha1="e62455be529c4ebcd85eafca8685447096f60ef5" status="none" />
+		<rom name="maps\fy_dodgeball\map.txt" size="4532" crc="9c87ad38" md5="c46c11d279f73bf0048e17b3e215ee98" sha1="8b1ddfe71a9e534d2d0ea9062ea017f7cfa41be2" status="none" />
+		<rom name="maps\fy_dodgeball\overview.png" size="2277" crc="31fa3a68" md5="d79e3b77816daf6e945e9c3dd0affb02" sha1="11503827f5bca91704af57c34254905ab5907655" status="none" />
+		<rom name="maps\fy_dodgeball\Thumbs.db" size="7680" crc="fe37e304" md5="2cd200248eaaeff9c7356f81c28e43f1" sha1="4d23d0dab86ce997d6bec6b0d67c2611e1423616" status="none" />
+		<rom name="maps\fy_dodgeball\tile.png" size="177378" crc="c3523d2b" md5="671e079018b4950e71fc72d73fc1ee93" sha1="5d209672987f555bcd71f00a23a658d986c83295" status="none" />
+		<rom name="maps\fy_nade\map.txt" size="4813" crc="6e579d62" md5="bb63d5dd03580c6438b05e5fa4e069ef" sha1="ea80bc8905d0e403a9eb545da4511ccc11a30e1e" status="none" />
+		<rom name="maps\fy_nade\overview.png" size="597" crc="6ff90ca5" md5="25763da97f764490ae1a079ed5923e28" sha1="a77c59a75cdd94381ffff8d4294a714b55006e6c" status="none" />
+		<rom name="maps\fy_nade\Thumbs.db" size="3584" crc="ec696a9a" md5="d74c581be5d139b812868c56579abe92" sha1="0182018b3946da577c425eae9071748579b8f9b0" status="none" />
+		<rom name="maps\fy_nade\tile.png" size="1838" crc="9b1e29ea" md5="4a19c36b26818f28d1915fa4afa81b95" sha1="7dbbc7b89677fe90e0aaca8490ace7b88ebd3ad5" status="none" />
+		<rom name="maps\fy_poolday\map.txt" size="2325" crc="834f581d" md5="be7473336795e91c3bbbbcae5fab2675" sha1="aeac45a7b1e3f3b3ae433fb65ac2e441f7a6bfaa" status="none" />
+		<rom name="maps\fy_poolday\overview.png" size="461" crc="fc5f18d4" md5="2b3818abdff06385f1d0a0a1c1aadd64" sha1="1ac165d8d9a18cd2f2f7b4de96487ac9fe0e16e5" status="none" />
+		<rom name="maps\fy_poolday\Thumbs.db" size="3584" crc="578489c7" md5="af808309f0856af30aac37450e070f79" sha1="31f2f156572752e374fc4015ba8aa24ee266a07d" status="none" />
+		<rom name="maps\fy_poolday\tile.png" size="525" crc="c16ca819" md5="bd129a618d35ff8ae06b2cc13928aaa4" sha1="046116bacfee6e5dc5020742061331f05061062b" status="none" />
+		<rom name="maps\Guano\map.txt" size="4012" crc="cd9fb27c" md5="88926bf877e50d33456c2deb885cab76" sha1="49d9ca130936419d6d20047ce83e8f59fbed8dee" status="none" />
+		<rom name="maps\Guano\overview.png" size="9755" crc="15f554bd" md5="eb447071907e60de218c64b3ac93a299" sha1="9d1f1794a74fdce3a96e88d9b5de99a3c0b482c3" status="none" />
+		<rom name="maps\Guano\Thumbs.db" size="3584" crc="22ca6235" md5="c8469b137eb86e845b418e0dc3339960" sha1="386352e4ac2e8cdd8006706c1a7f73737cf4f8e5" status="none" />
+		<rom name="maps\Guano\tile.png" size="50820" crc="556f1dd8" md5="70d3f144cb048b340f9b2b80d2701e3f" sha1="af27c4e477cb4b631fe821a07f0d94205ab8822b" status="none" />
+		<rom name="maps\iceworld\map.txt" size="1913" crc="54f11880" md5="7e6829fa869f641f977ce852a644ccb9" sha1="2468289be31b6ded7a89afc70cba30d6ae7ee15e" status="none" />
+		<rom name="maps\iceworld\overview.png" size="6132" crc="beb5741b" md5="f14f8da40fcac96346120f1a4d045562" sha1="3f47e2daa200a0427efecc7b34769dbd4034205b" status="none" />
+		<rom name="maps\iceworld\Thumbs.db" size="5632" crc="b61ed84c" md5="990ab6c6041175ac53baf1adea9095c3" sha1="68de8530a8a249001004e61518559217c6e4af53" status="none" />
+		<rom name="maps\iceworld\tile.PNG" size="7592" crc="9b817f12" md5="f4fa796e277a3098e285b67844df4afb" sha1="6c2b5bb97d17b2aee6ebc9cb027c520d4fbc05c3" status="none" />
+		<rom name="maps\lasertag2\map.txt" size="2041" crc="3e3d7933" md5="9e961345b8d734685aceac978c9677c9" sha1="3e22e032f7329aad28aa6bc28b01612bf6e988f5" status="none" />
+		<rom name="maps\lasertag2\overview.png" size="367" crc="6b023419" md5="7d802a89e5dee25df0c298956aab6e83" sha1="fa2011ddb84f6ac40cfce584bebbe837512c315b" status="none" />
+		<rom name="maps\lasertag2\Thumbs.db" size="3584" crc="3dedb1d9" md5="13336ee62d42f82e0143a354b7530325" sha1="06f38ea5400702a0867216fac08b5142f061cd64" status="none" />
+		<rom name="maps\lasertag2\tile.png" size="7392" crc="2f5e4408" md5="6e011dab871d9ef237c59d045e218302" sha1="6d97dfeb8be85f1b70007344057cf5aab1595ff2" status="none" />
+		<rom name="maps\lasertag\map.txt" size="782" crc="820d6854" md5="6e8a09b010aba7a2480bca689a7e35a2" sha1="0d2e9c773999d56a70cbe63ef81e346286b63494" status="none" />
+		<rom name="maps\lasertag\overview.png" size="123" crc="7949a559" md5="3338050397be23d27527dd2b45637084" sha1="10c035bad349a6e524805df8826200a922abebed" status="none" />
+		<rom name="maps\lasertag\Thumbs.db" size="3584" crc="70c41538" md5="8bab064acde768825cad47ab43b5d117" sha1="528d7c512d8e978d08bdabd957ad932864d64c2a" status="none" />
+		<rom name="maps\lasertag\tile.png" size="7294" crc="b16bd97f" md5="006eca1a69450f3c336530e71fb4adab" sha1="1e474c2491181b0fa9fadeda54a73202429253ee" status="none" />
+		<rom name="maps\louismap\map.txt" size="3349" crc="6e1eb5b5" md5="3d584beabf947481ea03fe0ea868a79f" sha1="3c758789800ebc5539d3523ec84707735c7f6bb9" status="none" />
+		<rom name="maps\louismap\overview.png" size="3256" crc="10cc9fce" md5="1dce38e5d365155e0eb7e47cee2eb975" sha1="3a57c00314043fe0e91c6bf091501dd7450e54e9" status="none" />
+		<rom name="maps\louismap\Thumbs.db" size="3584" crc="7f9e331b" md5="08f5edbd20e1dac7736195b77e7eb345" sha1="9269276219f99ac9eb059a9dc8bca211a938f055" status="none" />
+		<rom name="maps\louismap\tile.png" size="34984" crc="8dc8f183" md5="c76698696afe7588cb4373edc1fbd174" sha1="65c2a7d918e20d5fdfec31ab7ff9dbbf22dcc035" status="none" />
+		<rom name="maps\Office2D\map.txt" size="7284" crc="2931ed5d" md5="022b9c84f8da55d308bf80c0d78757f3" sha1="5dcd073ddc4487f4893d9a03b2c36ad13502e20f" status="none" />
+		<rom name="maps\Office2D\overview.png" size="5195" crc="748ecc5f" md5="59421a37680ef14958a0ecd21180adc0" sha1="abfc6fee13d2fde8827df978a80c421faf38123e" status="none" />
+		<rom name="maps\Office2D\Thumbs.db" size="4096" crc="29307419" md5="cb47125df59f2f26c417cb5d11df1fe7" sha1="c809ba4ea4710e6171569342d1edb28d3ed3cc1f" status="none" />
+		<rom name="maps\Office2D\tile.png" size="60848" crc="54015474" md5="0d7a9f2fead4645ce06c7b47246a6789" sha1="bc20f97674d4e3d2ac398dfcc69bd9a0019162a2" status="none" />
+		<rom name="maps\river\map.txt" size="2537" crc="f1ef5530" md5="1b6794148f3832b5b0b1bbfce1c5b9e1" sha1="26ef9b49ec48de2e26d6a072b94f154b33aedbfe" status="none" />
+		<rom name="maps\river\overview.png" size="2644" crc="8c9e8316" md5="bdc1a6e5b2121628d3a0b0091ee122e1" sha1="4c89956b97ca6bfb06ea3c3b058635108ad1160b" status="none" />
+		<rom name="maps\river\Thumbs.db" size="9728" crc="b62d17f8" md5="edb4b158a5dba0de3039ef34cb6a919b" sha1="b6c49b4e3bb824f5c6e611a7b4c304422f858e00" status="none" />
+		<rom name="maps\river\tile.png" size="90228" crc="b9b953af" md5="17814c6d8e4f0f37a025584bd25d1d62" sha1="4cca97469e7d9e81ee29533386aedcaf94a424f6" status="none" />
+		<rom name="maps\Silent_Forest\map.txt" size="3298" crc="d10aa225" md5="1496467a968d45f8fc61111ae0e1a370" sha1="79a3df8a1b5f6570418bd28b0808ec20f187b288" status="none" />
+		<rom name="maps\Silent_Forest\overview.png" size="2522" crc="c4b733ed" md5="66e4ae82aad4b547634c5b9448925130" sha1="586a5c2ee577ec7caecd54b1683533861c94aa64" status="none" />
+		<rom name="maps\Silent_Forest\Thumbs.db" size="6656" crc="0340cd2b" md5="91d696694fd7d9de0aab586ae7aef9e9" sha1="2f8e91a08fd0752495f8e0f788aa2212a1d4149a" status="none" />
+		<rom name="maps\Silent_Forest\tile.png" size="13530" crc="0f7f615b" md5="e68de5929a8899c6c83ea29a0c579b5f" sha1="81b8c3a4c23901b3ed043bed7e14e14186735fd2" status="none" />
+		<rom name="maps\Small_Forest\map.txt" size="854" crc="b3817e2c" md5="6ece90b24149b1d320cfae0ff1045406" sha1="465e99ece8f8ed5c2fab6a68b3bac86e6147730d" status="none" />
+		<rom name="maps\Small_Forest\overview.png" size="935" crc="8b7de5ec" md5="9607097a41ca8427bc8127d5569a6ef5" sha1="9541690ed2c750afdf7a33692a4e70791f25f69c" status="none" />
+		<rom name="maps\Small_Forest\Thumbs.db" size="3584" crc="f3514c76" md5="45f16914f7fc3ea70d2a6669af0c4843" sha1="e9ad45e4b87805a5608fc2d5d86bbdbc9c0fdc6a" status="none" />
+		<rom name="maps\Small_Forest\tile.png" size="13530" crc="0f7f615b" md5="e68de5929a8899c6c83ea29a0c579b5f" sha1="81b8c3a4c23901b3ed043bed7e14e14186735fd2" status="none" />
+		<rom name="maps\Small_Train_Yard\map.txt" size="1655" crc="0dda1d66" md5="7a36dfe052abe52cf358048eafbf5cd3" sha1="4df2b05c2181a3eb48efdd081bf789217849d0ac" status="none" />
+		<rom name="maps\Small_Train_Yard\overview.png" size="3427" crc="ba906606" md5="7ae1953f87207d659269ac27a8f56ff8" sha1="97f1963ee897315ead659bc90a8143141d504c4c" status="none" />
+		<rom name="maps\Small_Train_Yard\Thumbs.db" size="19456" crc="5da7de68" md5="9e8ab1b6f377fede4475c5d88d027439" sha1="48ed446e9a2ba16df43631409fd8e7cb5bd376dd" status="none" />
+		<rom name="maps\Small_Train_Yard\tile.png" size="802203" crc="5a4fbdb3" md5="e89257339eb351f454cf437db52ae5e2" sha1="1fa2a1e0daddc3c1cd68687b131d0f387eab4b3d" status="none" />
+		<rom name="maps\winter\map.txt" size="2753" crc="693785d5" md5="65d15a01e860807405c582c992a45313" sha1="b59d84957ca4b346968da1104a4ad9eb5ab5b6dc" status="none" />
+		<rom name="maps\winter\overview.png" size="4071" crc="d2c2a3c5" md5="0326f913c0fb2376e568ef3f21778ab2" sha1="9969242d2615a40b4ed63fa61f29621fc40b3c06" status="none" />
+		<rom name="maps\winter\Thumbs.db" size="3584" crc="ce55d53b" md5="cc029f0c8b8ed1c296719e76740f6b9b" sha1="529139d6b343689ea44c39cb70c31027cbfcae26" status="none" />
+		<rom name="maps\winter\tile.png" size="14192" crc="318f16c4" md5="1c84ac8baf48bef7a76ecb2cabb97787" sha1="1c525790c4f9a0459d1bdcded000315810da2758" status="none" />
+		<rom name="sfx\ak47.wav" size="25976" crc="72354fc1" md5="fadf055f1bcb523b01caab44a3ec3119" sha1="9a08539cee6451e8b6eff265e529201e06ff680a" status="none" />
+		<rom name="sfx\ak47reload.wav" size="44350" crc="2ead203e" md5="2260314ce89b98f06b6f4bdb027d56d1" sha1="c23e9112eebebf8782fa25ebbd4c1beb458a6c61" status="none" />
+		<rom name="sfx\ammo.wav" size="6734" crc="1c4de074" md5="987ab42efb655a62249651907daef16e" sha1="c5d8336943e2a7023ea17b7458f62bde46e12757" status="none" />
+		<rom name="sfx\aug.wav" size="24890" crc="2fe514ad" md5="a4c0d709687837737ae80725e77daf52" sha1="2dff58ed56f371ceae449ecc10bdfe9a64268fe2" status="none" />
+		<rom name="sfx\augreload.wav" size="54620" crc="ef85c136" md5="1244ee798e6af5b6b51c2b63493ed14d" sha1="2c0131417397d41bca37a5d61e8173ae6480dcc2" status="none" />
+		<rom name="sfx\awp.wav" size="40490" crc="11bffc91" md5="f623183ed5bed7665a952729b97e4c00" sha1="9e46157feddf9429ecde4a3b04dad6fc3a90e7d3" status="none" />
+		<rom name="sfx\awpreload.wav" size="48550" crc="49e144c9" md5="196690573c39aa32dc60ef1ece504f4a" sha1="0a26041a7781ad8182ded2d016bf0b7234f1754d" status="none" />
+		<rom name="sfx\ctwin.wav" size="41458" crc="0ad7ccfa" md5="6521ec616077a9973f7fa0a96f15afd9" sha1="142167708fdf2f70b7476a66996b2ff649418c09" status="none" />
+		<rom name="sfx\deagle.wav" size="25386" crc="3c0fac6e" md5="aa852cb487eef44cdbf08894d88125dc" sha1="5815213475b1ed1adb76b019d4707bf15aed0384" status="none" />
+		<rom name="sfx\deaglereload.wav" size="32404" crc="2a526d57" md5="b44437b2ed522cabe4a6628288873061" sha1="c76997cb97c53d5b4e41072d1fc07318cf689a84" status="none" />
+		<rom name="sfx\deploy.wav" size="5822" crc="1a741573" md5="f500f82e52cefed5b993239e7601e6b0" sha1="fed8302560f4dea7b11c2fef72980123d15f0391" status="none" />
+		<rom name="sfx\die1.wav" size="21244" crc="813f0b61" md5="ebd95c6e35639a4b63f78bfbf3a16bca" sha1="80f5c7c425c8e818d67decef8571357545f1a90d" status="none" />
+		<rom name="sfx\die2.wav" size="43776" crc="70b2ded4" md5="e19d1f5ee4678922640ec509f1537ebf" sha1="bb55a7b759cd650248775691327f27c2b36070a4" status="none" />
+		<rom name="sfx\die3.wav" size="21646" crc="0700e37e" md5="8541678f0c94104ca6e6d93207e9adde" sha1="7169b7fc34bcfeef2ed54bd3ffc94575d0dea6c7" status="none" />
+		<rom name="sfx\dryfire_pistol.wav" size="2620" crc="a836fc7c" md5="f2d673dfe014eb63143875fe0a529a8e" sha1="61917f212067daab5fbf5ee0455ea54a75bf322f" status="none" />
+		<rom name="sfx\dryfire_rifle.wav" size="3062" crc="c13c8001" md5="bda9754d7b2f7435b6f756710547a38f" sha1="6d8cb85395a8367dde2ea67f88d57b727dc84e00" status="none" />
+		<rom name="sfx\elite.wav" size="28676" crc="d3faaa6b" md5="2c53c5906091106b8f4f27eff864ba3a" sha1="2c11d6dcc98fb0f4c9aa5e719520d29c06cac1fd" status="none" />
+		<rom name="sfx\elitereload.wav" size="82374" crc="4185634c" md5="b72b8b50fd3e285aa2f511213f75aa86" sha1="c6ecce160251343ee20ef27bb30a267e95608295" status="none" />
+		<rom name="sfx\famas.wav" size="61820" crc="accf8ffa" md5="a50e22ff3e45ba3cd3d8bab2ce45ed9f" sha1="5d2d5e84574731fcc26619aed70df93443b80c1f" status="none" />
+		<rom name="sfx\famasreload.wav" size="43416" crc="14cbf72b" md5="197ca1f430168da0836afd98678dc3a6" sha1="8250037480824a9f8535c5d136fd8b8037433a5c" status="none" />
+		<rom name="sfx\fireinthehole.wav" size="31688" crc="21d4f222" md5="c1f57fd68438c403ab61f3ef00183fa5" sha1="781d1c2bbf5ead653e6151694db510f0b97f9aaa" status="none" />
+		<rom name="sfx\fiveseven.wav" size="12674" crc="2e46c0c6" md5="c86335edb043a831026c29844e0658ad" sha1="020413d12745fe531dda955cc20923bf63005a26" status="none" />
+		<rom name="sfx\fivesevenreload.wav" size="47264" crc="0b191cf5" md5="2065dbe7e4f411d9d5e06cf9bb1ff3fe" sha1="78ecb48c3452946a403ae63abcf9535737460146" status="none" />
+		<rom name="sfx\flashbang.wav" size="31258" crc="88077311" md5="af580a98c93dec600df1df1a0de404a7" sha1="5fa23ee41d20f205fa0895532e7c75702e744706" status="none" />
+		<rom name="sfx\g3sg1.wav" size="33130" crc="be31ec57" md5="160ca71b5debc7e42dc985811329bece" sha1="108aba5b780eaaa441acd15e62de1b9b91eb88cf" status="none" />
+		<rom name="sfx\g3sg1reload.wav" size="70720" crc="c88d98f8" md5="98ba6f18dcdf6842dbd2a00b1eedf128" sha1="7e934d816d1f344fd6c525ec2c2fdaf8dc14a856" status="none" />
+		<rom name="sfx\galil.wav" size="71788" crc="dc42309d" md5="4025c701a464fa6761de8bc3436aa769" sha1="a4e49d4907d16f4bf04292a4c3287eab2634682e" status="none" />
+		<rom name="sfx\galilreload.wav" size="41612" crc="e4745547" md5="78e5ea1f5ab5786fb4eac9299c03adb0" sha1="74f452c4e3097ee43efd3926da6c78d165fc94eb" status="none" />
+		<rom name="sfx\glock.wav" size="20908" crc="d9df969e" md5="a46f1c18c220ff548f4c0b2b6fee9418" sha1="b150242156b4f7808438fd93f844204b4cab2152" status="none" />
+		<rom name="sfx\glockreload.wav" size="34464" crc="4d2a3430" md5="5f37912c655cc49f60db0df5254080b7" sha1="0f35ecec7360293b08654f9f6987156e899b3d5d" status="none" />
+		<rom name="sfx\grenadebounce.wav" size="10760" crc="c4d817bf" md5="8b3d4cd804fdd8214200748d66669211" sha1="9ab0723977d832bc0c522e42788c8523efe11319" status="none" />
+		<rom name="sfx\hegrenade1.wav" size="28836" crc="45142e74" md5="31b1e82446e1dd0ace741db939d7da9b" sha1="a58e659aa39d527e7c4ed030891b7f4cfdfcd1e8" status="none" />
+		<rom name="sfx\hegrenade2.wav" size="28836" crc="45142e74" md5="31b1e82446e1dd0ace741db939d7da9b" sha1="a58e659aa39d527e7c4ed030891b7f4cfdfcd1e8" status="none" />
+		<rom name="sfx\hegrenade3.wav" size="28920" crc="e35d3298" md5="49e84528cefd87b9880c6365fc90c021" sha1="139b960c8b7a1eb39c524323e73d2af381860bcf" status="none" />
+		<rom name="sfx\hit1.wav" size="7020" crc="0abf488d" md5="298e65970a44b2f90b865c62040c9ee8" sha1="3b60408ad864c2994d13de6ae573aca089475b28" status="none" />
+		<rom name="sfx\hit2.wav" size="7650" crc="c553ec91" md5="efb92a7fb557297092590e225c77857d" sha1="0336c717e4b6c2d69e9c056d6af4b0b44720dd09" status="none" />
+		<rom name="sfx\hit3.wav" size="6520" crc="ba79c74d" md5="706714c7b1aabacb6daa330fea5b3e61" sha1="f27c77f8cddbf3f141aa7ff0bd91ae0a410e08a4" status="none" />
+		<rom name="sfx\hitindicator.wav" size="10696" crc="a45000a8" md5="b5c5633ac11f396cc81133afff1a7f9f" sha1="864585db08b9fb83fc7f6ae9d6fb957d1b216a6d" status="none" />
+		<rom name="sfx\knife.wav" size="2928" crc="0c264dea" md5="be681ea979c3c42dd704220b0b0436ff" sha1="fe6ea3293b1fc6406d06defd3d38717ceb25bcd6" status="none" />
+		<rom name="sfx\knifehit.wav" size="13284" crc="67a68aae" md5="c31df0acb4dc55f3e9114d99b54aa95f" sha1="2e2123428ce4211bb8e8effca4aa0fad14a73477" status="none" />
+		<rom name="sfx\knifereload.wav" size="58" crc="1701a690" md5="729685f6f705fbede1644bca315c977f" sha1="d47198c9ef0f0ec6f94be6143439f4ba18df7653" status="none" />
+		<rom name="sfx\m3.wav" size="35354" crc="33c01480" md5="ee707d9aecf7dc07695926604aed17fd" sha1="8f2acaf01fb2bb348a9d6e43fe433d6814d3b37e" status="none" />
+		<rom name="sfx\m3reload.wav" size="88598" crc="8e6913ee" md5="5fc6b96d5406825e0d6511b0d3e95577" sha1="2e755c40746035bff0ad55c44fb740fc373e6ffc" status="none" />
+		<rom name="sfx\m4a1.wav" size="18704" crc="23afad0f" md5="8e7b98121994d3ffdffefb36efee1fb7" sha1="d284de509882c8f46765932e9827e32509eae71f" status="none" />
+		<rom name="sfx\m4a1reload.wav" size="42762" crc="c0437157" md5="738de5491e0ec4457023020c1b14cfae" sha1="851ee7ee92f30b6ee437bd19693e0eca9838b2b1" status="none" />
+		<rom name="sfx\m249.wav" size="25268" crc="a4e91ab0" md5="38aa27d5b03e3d9b357619e8433c4321" sha1="fedf9dbc1c4ffcf5bdd259dbd10b0d70546a34aa" status="none" />
+		<rom name="sfx\m249reload.wav" size="107660" crc="a8ce6a64" md5="635f67889db3e138efa3befbd26da074" sha1="15607c9ff7580a551fed2aebe2b454e6bc58ea42" status="none" />
+		<rom name="sfx\mac10.wav" size="8794" crc="56f8f3dc" md5="8b2d095f0a02ea6c135b41553a077b36" sha1="9f1fbe0efb250f4990d7bf4e817d38eae66003d9" status="none" />
+		<rom name="sfx\mac10reload.wav" size="40566" crc="800540a3" md5="4349cb546d17a00414527c35ea854b3a" sha1="ebe4ea5f51fb67019db95f95808b068fd800a048" status="none" />
+		<rom name="sfx\mp5.wav" size="23746" crc="f3dac3fa" md5="08b52490d54af93647d18cfd17702f0a" sha1="6ea7794250709ec9583849ca734013d6a51a0cb3" status="none" />
+		<rom name="sfx\mp5reload.wav" size="37772" crc="6e5aafc6" md5="57f0c3b26ce23072e1cd932b8d3302fd" sha1="011f2ad8300434cfb98b635d520bcfaa76f8d119" status="none" />
+		<rom name="sfx\p90.wav" size="14024" crc="5ea0644c" md5="c65b31d43027c1b07eadb0db1a6defa7" sha1="ad8a8c6d8c952a095d56148cf40749e3bb14db05" status="none" />
+		<rom name="sfx\p90reload.wav" size="41668" crc="03a52a0c" md5="fc8366e8bf537f581bab6933c8a8f8fd" sha1="7521eb67380d547ec23673c0a82b884672fc6547" status="none" />
+		<rom name="sfx\p228.wav" size="15408" crc="a9f0358e" md5="bc50be94baffd1ac986842023b27180d" sha1="dd6a59813e403457c969bf4fcd60e57af85ab1da" status="none" />
+		<rom name="sfx\p228reload.wav" size="44290" crc="915283fd" md5="1068c7b0bfab08ca999fd9c30db12b1a" sha1="0c2756b6b9f1e4ce28b61ab185d186f9fd57c409" status="none" />
+		<rom name="sfx\pickup.wav" size="14662" crc="f6938ee5" md5="6a120c33a2be40f9f4df4d344ce96c5d" sha1="9ed444b61014eadde5ec9814c9b1602e7dc30959" status="none" />
+		<rom name="sfx\pinpull.wav" size="2716" crc="71a42b66" md5="69ceb8b285664eeba0f5ed19b9abd74d" sha1="c5e037c12365a9b0596a12540ebfe131617496a8" status="none" />
+		<rom name="sfx\Raindrops.mp3" size="2136012" crc="d6e062ea" md5="af8df28a9f984259702b2be4e0824b76" sha1="da0bb1bdd4b23ec3cabe227ef0dae5a919f30b81" status="none" />
+		<rom name="sfx\ricochet1.wav" size="11272" crc="a20eae4d" md5="cd878ac6870fe528066bae419c6b014c" sha1="565aa26ae3db9258ffb1311fed2193e90ad5bd6b" status="none" />
+		<rom name="sfx\ricochet2.wav" size="13296" crc="173d916f" md5="95c9dfb5f07f5a141625a5b878cc7ddd" sha1="fd60daf911770b57ef63718529f008082ee151b5" status="none" />
+		<rom name="sfx\ricochet3.wav" size="10260" crc="c76a94cf" md5="2100818033e2e6fad319bfd3c0db7578" sha1="4da612f893b85da89a4b6f3f42de8b4eef7857bf" status="none" />
+		<rom name="sfx\ricochet4.wav" size="12284" crc="b41c5480" md5="ebbfe2abdcf4f4fe5f994efbbf85135a" sha1="c3be47f05094a612abefc7f2fb6314a972cdfa1d" status="none" />
+		<rom name="sfx\rounddraw.wav" size="26386" crc="ad6b9827" md5="20c7f1b1468bcefd43f72de9775debce" sha1="853fbc2e83ec6734530800a8f4e9b6d387640c58" status="none" />
+		<rom name="sfx\scout.wav" size="57404" crc="9ec006ae" md5="99768b51434efd8daff7adbed0d66695" sha1="132a61e3ec2791f79de27d7f2732bd597a9ef8c9" status="none" />
+		<rom name="sfx\scoutreload.wav" size="31968" crc="4a159609" md5="d090fded853eeb87710ac63718c0f053" sha1="066e2dc912f908729c217e2255f079104e3d5d45" status="none" />
+		<rom name="sfx\sg550.wav" size="42366" crc="3dcb82f0" md5="2b32f77bb32c30042850a77258c4d034" sha1="c5b1623c5c71fac7a69e073c858657e64066c97c" status="none" />
+		<rom name="sfx\sg550reload.wav" size="48714" crc="4e4f056d" md5="1cbceef601780604e0d90a816a34051e" sha1="f8574b8657f3d382897873963306bbc133079adf" status="none" />
+		<rom name="sfx\sg552.wav" size="24492" crc="4569b1dc" md5="3a39de5deecd9a99ddf3225f73424f4d" sha1="7ffa8e03556e094dc3875d802773c05c8b2e2615" status="none" />
+		<rom name="sfx\sg552reload.wav" size="52348" crc="f654bc8c" md5="58c4e20a724536ca4c52ae10eb64ff9a" sha1="d24dda35416f65ca870728b6edf4c46a78f38c03" status="none" />
+		<rom name="sfx\smokegrenade.wav" size="22334" crc="1dccedb5" md5="c6e02b430fc6e419a0e67dd3d5f654ac" sha1="da2ccd373b68d0a650e0a8a0fed8654402e61b95" status="none" />
+		<rom name="sfx\tmp.wav" size="5628" crc="e98b5199" md5="50b1527eefedeeb9062fdcdcfd37202a" sha1="d9af14a67d6c099734b14b2889d1e86383b989e3" status="none" />
+		<rom name="sfx\tmpreload.wav" size="34464" crc="4d2a3430" md5="5f37912c655cc49f60db0df5254080b7" sha1="0f35ecec7360293b08654f9f6987156e899b3d5d" status="none" />
+		<rom name="sfx\twin.wav" size="36394" crc="7fd09578" md5="bc7758349f00808162a59f9a58c0135c" sha1="5c43e1a577f02d5129dc487f0b66350ab291e78f" status="none" />
+		<rom name="sfx\ump.wav" size="15462" crc="912f8795" md5="864ab6ee5d56b043f012fe16e1fe9101" sha1="6e95ed5f19d204c57b5ac14b416ab5979c776eb1" status="none" />
+		<rom name="sfx\umpreload.wav" size="41908" crc="add1e401" md5="4d6c27223f69924bcaa7abe23366a1f9" sha1="300a88f9025d3f08b7ccf7c09d13987946b2308c" status="none" />
+		<rom name="sfx\usp.wav" size="16960" crc="ea73400a" md5="6c060bfc5acbccc116e3d54fbf23b819" sha1="99b7b22fcfc7df4c6ddd6bccf7f5ccf4b855b556" status="none" />
+		<rom name="sfx\uspreload.wav" size="41380" crc="b1246d06" md5="d566ba45eaf31ad90300b1f0a95ff78e" sha1="d071c9985262961c5dd9bdb5a4f55f9b42a031dd" status="none" />
+		<rom name="sfx\walk1.wav" size="10874" crc="956bc53e" md5="52a34639dbe6aff7ff96c45630d4ceaa" sha1="6587e22d317a93e29c4d4d5a387d9c36838bfd06" status="none" />
+		<rom name="sfx\walk2.wav" size="10216" crc="c32188cb" md5="dd0ae698831e46f653022682539df702" sha1="bd08e4e1ef0cec451d52b7838d793508ace208fa" status="none" />
+		<rom name="sfx\xm1014.wav" size="21652" crc="4883b403" md5="8d59336677ed3a9c884451cbd6d80f05" sha1="44ffc72148f6ca8057bf6c4bdab73eb54fda19c0" status="none" />
+		<rom name="sfx\xm1014reload.wav" size="55168" crc="fbd2e37d" md5="eacfdbf933371281897e9d4c1640aa9a" sha1="2d85a62cc8bfdf4d758a35706011e05f904bcc22" status="none" />
+		<rom name="EBOOT.PBP" size="1367823" crc="e7202b07" md5="66350274372d8818ccfd3f880844a528" sha1="9724b92056d6106ff9340a3994984fe83912c01a" status="none" />
+		<rom name="exception.prx" size="2186" crc="c0e640ae" md5="707c9cf0e8373d7e7d6d6a0ad31327de" sha1="a12dc3c405d0714831b25142541987761b343d43" status="none" />
 	</game>
 	<game name="Doki Doki Literature Club (Fan Port) (v1.2.4) (FLS Gaming Projects)">
 		<description>Doki Doki Literature Club (Fan Port) (v1.2.4) (FLS Gaming Projects)</description>
@@ -1486,6 +1685,126 @@
 		<rom name="EBOOT.PBP" size="9286230" crc="85e0c643" md5="b49ee9cd7cbe6ac68d5803722729df88" sha1="d2928925ae8d11228a3abac84c20a67cff99acca" />
 		<rom name="ReadMe_en.txt" size="1823" crc="af6d5f87" md5="319546e1477932e1ea65e97dce528d14" sha1="b248f12b0b5f695cb1769ae2637c56a7d755ecb9" />
 		<rom name="ReadMe_zhCN.txt" size="1434" crc="ed6c82ba" md5="414af1beb8c948372b12d7f2a55ccf68" sha1="07c2c8469bf3abd2a73394a809734f799727c641" />
+	</game>
+	<game name="Hatsune Miku Boukenki (World) (v20120218) (Aftermarket) (KAGE3)">
+		<description>Hatsune Miku Boukenki (World) (v20120218) (Aftermarket) (KAGE3)</description>
+		<rom name="DAT\ArmorInfo.dat" size="446" crc="50bbb180" md5="3fd96ce6b8f44502bbca50c3a6201e4c" sha1="e4f8bab5684782bf4d8620277d8d6fab1be96644" status="none" />
+		<rom name="DAT\BootsInfo.dat" size="491" crc="613f60db" md5="5de46e54a6c5146103af906e6ee6ea4a" sha1="72877bcde7c30389b700a2d05714139777b76075" status="none" />
+		<rom name="DAT\ItemInfo.dat" size="2141" crc="955642f2" md5="ddf477e276a3b882266f0d5a1e56f009" sha1="a6b165f713d6049b2da5ca357a7ad0083810f8ea" status="none" />
+		<rom name="DAT\ItemTypeInfo.dat" size="216" crc="43776def" md5="d4cfa2c6c74d6364e3744ef529762a9a" sha1="7ea898c9fb91e994e2387699b011b1ff2bbc35d1" status="none" />
+		<rom name="DAT\LevelUpInfo.dat" size="755" crc="f491a2a1" md5="9899b4c837eb347099ebeeacca5b9a43" sha1="7f2930df835a53716cf407527917191d049b7c0e" status="none" />
+		<rom name="DAT\SkillAttack.dat" size="858" crc="3f8d5bb0" md5="0fcdb4aa1bd22ffff604b2e50ffca630" sha1="2df893e86da24293912fa8c8af580927f66be919" status="none" />
+		<rom name="DAT\SkillEtc.dat" size="655" crc="1dd153f7" md5="b20743389d78bf2f4db12084418e6d14" sha1="cb061ce9d70c4cfd5c61398103af49e07647a3ea" status="none" />
+		<rom name="DAT\SkillRecover.dat" size="752" crc="a0ae8e71" md5="579c92e09b2b1a44539064a11a9cac70" sha1="560e0517480312780fd21ef8c1049aeb69ac19c4" status="none" />
+		<rom name="DAT\SkillStep.dat" size="1087" crc="e3a0820b" md5="41e4afdfb26392c48f67a710e3b9f490" sha1="b31032177396c70673b0089c45ccbb2d1c48f023" status="none" />
+		<rom name="DAT\SkillType.dat" size="230" crc="cb43406f" md5="fe4e95f0746b10ae5561f8d2c8619d92" sha1="4843f56633ecded1192c8a1129b74d0769a3605b" status="none" />
+		<rom name="DAT\WeaponInfo.dat" size="756" crc="e8765fd4" md5="a4208845b0a675490a0021a2d71aad08" sha1="19c66ba614d4e30391834f0e7004d88f93d867ac" status="none" />
+		<rom name="MAP\enemy07route.dat" size="324" crc="1d2b6097" md5="a0a5b79e0522646d6d65d171794e58cd" sha1="db4aa75160f8f95597586848fb8e00dbcce0bc25" status="none" />
+		<rom name="MAP\map00_1.dat" size="334" crc="bcf59f88" md5="d3756e1657d6e2546085c03830320d35" sha1="4789f1b7821c6cae5211704bc6c22ef0a9fcd7b9" status="none" />
+		<rom name="MAP\map00_2.dat" size="302" crc="42e8a223" md5="72c323d87ef71550c4cbc9cf209f4fa7" sha1="c7bee55abb8bac3c2b532f2a9b62d70b8a5cda1d" status="none" />
+		<rom name="MAP\map01_1.dat" size="152" crc="58ab5296" md5="3ff61275c98ed23aa37f0b4008ff599d" sha1="8d3bf144f9844414afc2208246d29e20d028a35e" status="none" />
+		<rom name="MAP\map01_2.dat" size="1184" crc="a873da1a" md5="b9293a61c7a73895830e6c2ef9185bc9" sha1="ee15d73495f6d737d88bb5493c5011381c88f1b6" status="none" />
+		<rom name="MAP\map01_3.dat" size="795" crc="5b9148b2" md5="9c764a469ee176f7f237880cbd7508cd" sha1="2661b09b899019d4d06f254924f8e53963b65f07" status="none" />
+		<rom name="MAP\map01_4.dat" size="324" crc="9b4a8cc0" md5="bef910e703426ec1179fe28e1c393556" sha1="09400a15daf0a11bbb31f939bd1c8a4b532434fa" status="none" />
+		<rom name="MAP\map01_5.dat" size="56" crc="83b2e424" md5="afff5032ff43db33d75e1ddbbf8f8f83" sha1="4939fa0c6bccf494d857779cd49b28245a847089" status="none" />
+		<rom name="MAP\map01_6.dat" size="919" crc="12753b06" md5="9650fae26d1e4c1b801c54f435f3ec74" sha1="a79b8fc97130a0eb24fc46c3770d64ba3980f874" status="none" />
+		<rom name="MAP\map03.dat" size="977" crc="88619904" md5="ed2dbef5215a80f1d9c8b97ed3628163" sha1="785d627fa92b314d5c26727689eaa1f24b447c7e" status="none" />
+		<rom name="MAP\map07.dat" size="1066" crc="ed38693a" md5="bf3adce87eb14635cc0280e5399ce49f" sha1="a0beb845704553afb13bfabc30adc7475cb139db" status="none" />
+		<rom name="MUSIC\MusMus\tw028.mp3" size="1458304" crc="3990d76f" md5="5e28eeb718d921629f33ffc650ebc62f" sha1="0ad7c1899cc8658af318859a20680ff02de6b6a6" status="none" />
+		<rom name="MUSIC\onjin\muci_keikai_09_Kakou_Short.mp3" size="64809" crc="6c98b9ad" md5="c95ae785982a19b7a0ffbd94b08a3a0d" sha1="c45df57fb956dd26b69dc829bd7da36ef1203976" status="none" />
+		<rom name="MUSIC\onjin\se02-07_Kakou_Short.mp3" size="112875" crc="2be58e9d" md5="4b3df5eb39bc6f5780ee0b2b3211c7cf" sha1="176e03352736dbba67bb057e1ed0aa64161f3819" status="none" />
+		<rom name="MUSIC\onjin\se02-12.mp3" size="61465" crc="32ce37df" md5="92385e2a41fba95d7ceb78b8c17e6aa7" sha1="e1186ccd38a506f3ff5fba10240f96a727a34ade" status="none" />
+		<rom name="MUSIC\onjin\se02-a03.mp3" size="17109" crc="5c99ca62" md5="638c1cfe504aef4f00455b63773297cd" sha1="baee7abdd87986b6e284ea5acab0fc4382d2444b" status="none" />
+		<rom name="MUSIC\onjin\se02-a03_Kakou_Short.mp3" size="24685" crc="2b4645f5" md5="dc1702c0aee6a1d3fe1f0d841413190f" sha1="0cfd4b5bcb3b55dc21c00616cc2551d732f92606" status="none" />
+		<rom name="MUSIC\onjin\sen_ge_byun02.mp3" size="10493" crc="377c10b0" md5="0cee941bb8fcbf7494438e208cbba682" sha1="f2214fd1ccd8f39c4e4ca0f611f799bc8986be5a" status="none" />
+		<rom name="MUSIC\onjin\sen_ka_kazekiri04.mp3" size="18330" crc="a1979a1d" md5="0fe6545896cacee028fb68ccd11997c9" sha1="34efdc8a444b2300ba8c3c5569950ac775f4ccb8" status="none" />
+		<rom name="MUSIC\onjin\ta_ge_quiz_fanfa01.mp3" size="34795" crc="c5f74776" md5="1349785ddcb927baf394c6043ea68616" sha1="feed5b47a4ae1488432395d49a718d54e68c4edc" status="none" />
+		<rom name="MUSIC\onjin\ta_ge_quiz_no01.mp3" size="13471" crc="dbf2b99d" md5="986f3b9f0046b16750b80d5f1a11c7a9" sha1="7f08becd013c558c67a5da67f2f18e961c096e3e" status="none" />
+		<rom name="MUSIC\onjin\ta_ge_quiz_yes01.mp3" size="16449" crc="00dddce3" md5="08b1c99bf304c76684cd40f9f8b45143" sha1="098f919bdddaf46a6b618270bea241dfac7f77ac" status="none" />
+		<rom name="MUSIC\onjin\ta_ta_upup02.mp3" size="39052" crc="91ca845b" md5="9ad9af549b4b68f962a786cce6c7d004" sha1="aa1a4e9119e958fc6c8adefde479df1bbee48e57" status="none" />
+		<rom name="MUSIC\onjin\tm01.mp3" size="14131" crc="1e9a8580" md5="0c1672d79e8ecbde55b82bed1bdffacb" sha1="31245d34a96eb6766348a1dd5e7b0fb91b994849" status="none" />
+		<rom name="MUSIC\Senses Circuit\get.mp3" size="8455" crc="d109aa20" md5="9d3bc49d27a684d1bffe19d8b60b03f6" sha1="daa337c712accd33a2169d4d834fe65309ddcf91" status="none" />
+		<rom name="MUSIC\Senses Circuit\harp.mp3" size="167129" crc="9508b237" md5="f96e602b4d516e4d73561f4d212ffa00" sha1="d00c0a22cc7df683d4f80e689040911ada12ae44" status="none" />
+		<rom name="MUSIC\Senses Circuit\loop_34.mp3" size="267569" crc="4ce187a0" md5="8bf0e9ae94818bf69779dc1324dd30ca" sha1="957a3c3f4a137339f73c613bda41b63903a162ef" status="none" />
+		<rom name="MUSIC\sinkyoumusic\Bouken.mp3" size="4429477" crc="ceb8171b" md5="d5f6703e4fd884edc32559bae578823e" sha1="d749b7153c48bfac192cc2159666152c5703f287" status="none" />
+		<rom name="MUSIC\sinkyoumusic\Miracle.mp3" size="1924641" crc="22350be8" md5="95d177a2777f7658914369441ffb4e58" sha1="4c1085236e723c2486a130ca77a3010d4f5e4a82" status="none" />
+		<rom name="MUSIC\sinkyoumusic\New Clere.mp3" size="3841045" crc="6403ac08" md5="8577476297da44b0554477d08089c4e7" sha1="ad88889e0a742e34c977d958a5bc1c191bc2c95f" status="none" />
+		<rom name="MUSIC\sinkyoumusic\Raiun.mp3" size="3516654" crc="a220591f" md5="5008993b15fabeaebdadab0d339f08fc" sha1="31af07e0b74d5a9fa35f3b8439846ff484473c53" status="none" />
+		<rom name="MUSIC\sinkyoumusic\SAD Music box.mp3" size="5381588" crc="e13ee29b" md5="44c1becfede9450a8dd08424d27d9b2f" sha1="7426e89978b8b651e687568fc3e431ec8ba200b8" status="none" />
+		<rom name="MUSIC\sinkyoumusic\UNDER GROUND.mp3" size="1971034" crc="270be071" md5="9729e64178da3d1f662418f29dd2b401" sha1="b0a1ce32ffaf5ffb82214c8039446f68442f7e0d" status="none" />
+		<rom name="MUSIC\spacheeg\win2.mp3" size="39672" crc="f623d635" md5="145f2ee78944992c6b410b6ddda6a239" sha1="f6595964ae3ce7322a66ea3f8026279c6ae01e77" status="none" />
+		<rom name="MUSIC\WEB WAVE LIB\BellH@11.mp3" size="95197" crc="cde65058" md5="4026070a3326b66943a15d2855a8b72f" sha1="0fafa3cef0c1c8a895663bfdd29035d0ef21a4ae" status="none" />
+		<rom name="PICTURE\Balloon.png" size="17530" crc="382539d4" md5="fb72bde8ff00283ad35a95230d2d7613" sha1="a0647fc779bdf65d35343e07f05ec9e7bac383fb" status="none" />
+		<rom name="PICTURE\clash01.png" size="16606" crc="dde90e94" md5="d552718c6d407fcdc412905e54fee9ad" sha1="22bb0d66742c485889eed7b4f9173de1eb22d3c9" status="none" />
+		<rom name="PICTURE\enemy0501.png" size="3146" crc="52f34c24" md5="5c50fe8f919a832bf3a392627450afe0" sha1="ada719f3fbdb83d9603e2b31cd842e3b6435ebb4" status="none" />
+		<rom name="PICTURE\enemy0502.png" size="3320" crc="9264fa55" md5="3a251055166c7599bd55666ecd93e2c3" sha1="c72a05a89084c4546ca594e27126e9c27b212478" status="none" />
+		<rom name="PICTURE\hit01.png" size="2112" crc="1bc10764" md5="8913f4e2312a3b4fef96059777ffa912" sha1="423b26c81bf6a01ecb93934f67fdd781ac22a1f1" status="none" />
+		<rom name="PICTURE\houjyu.png" size="1560" crc="5dddb33e" md5="82894f9076b84a1e3e6913d2ebb39922" sha1="7899390a5ecdc264f5aaf151bbc616338942b3a6" status="none" />
+		<rom name="PICTURE\KaoGra1.png" size="66105" crc="712dccb9" md5="84dbc8a6453c324e33787c66b230ad26" sha1="72aa80b399de8c77574454f25eba5185fd0c9a3c" status="none" />
+		<rom name="PICTURE\logo_miku_boukennki.png" size="85544" crc="108901d2" md5="babf1819699ea352bb73fe5af1783394" sha1="6b452aecf0bbab2ac10f496b045e8edbc42f303a" status="none" />
+		<rom name="PICTURE\map00back.png" size="378202" crc="46ffc94e" md5="77d9364d5607ae09bda891455e59e455" sha1="6ba623273028643634ccb12ef34945b3cb6dc7a7" status="none" />
+		<rom name="PICTURE\map00parts.png" size="8317" crc="f95bb3b7" md5="ed290a4cc9967a807df4a6a8aa367c24" sha1="e4721bd57b650c84be3822f5247f92429d601e84" status="none" />
+		<rom name="PICTURE\map01backBoss.png" size="219370" crc="a8395853" md5="6d428669c894923045d48d8efb514865" sha1="289ca6cb860167c9b2b74c9bd9ac66bf43e82465" status="none" />
+		<rom name="PICTURE\map01backV1.png" size="485243" crc="8dfbca83" md5="c593191627b9184dfb742dc7826ed70f" sha1="02d6e3f4994b47b0f2ef0487c26de459f9ae9da1" status="none" />
+		<rom name="PICTURE\map01parts.png" size="84420" crc="783b56e9" md5="6bf3cdcacd845b544438542053027004" sha1="c306ce47ee7c6c687bda37877d25fc93ac1a7ba2" status="none" />
+		<rom name="PICTURE\menuEtc.png" size="86631" crc="b555aa76" md5="a5f905238841cc3c9e9fd27e4aa76f94" sha1="606672daafb1524eaa196ab21e783e0b7dee4ea2" status="none" />
+		<rom name="PICTURE\MenuMiku.png" size="29197" crc="e4bbb24b" md5="711453cf10c047bbcdbfdec5efebed39" sha1="756b71b98b570d544f107dfcfb60507f957e657c" status="none" />
+		<rom name="PICTURE\midashiLogo.png" size="109033" crc="1d25f4b7" md5="01bb7faf73ae9b39b42aaff5bbd711d7" sha1="266168314336be6b8a8e218524d4741c6e107125" status="none" />
+		<rom name="PICTURE\player01.png" size="92796" crc="a7d4356d" md5="01357d8e37781dcaeadc53a9dc0d2529" sha1="b1cca7acb2e367f6dbd60d4adfd9ac2d7e25eb7b" status="none" />
+		<rom name="PICTURE\player02.png" size="41262" crc="589c68f0" md5="05db0e31bc8da9e96a195f5924991ca1" sha1="513e4abcb256495b7d03f6258dbf4f9a8c1c1c4b" status="none" />
+		<rom name="PICTURE\SaveData.png" size="109518" crc="413a0203" md5="7a1b85608776e314898ad083f9e8b161" sha1="60a7805328b57e846f60ee5e2499eea01dc8eeb2" status="none" />
+		<rom name="PICTURE\takarabako.png" size="8013" crc="b1b4fa3a" md5="cde75909fdc085a5eb3c7fe58e4ad9d0" sha1="e0e168b5da99b19daa9082c924850aa0ae3cfc59" status="none" />
+		<rom name="PICTURE\takarabakoCoinNote.png" size="113560" crc="7ff8ba91" md5="b7a406b1207b371cbde8eb70cc07a03f" sha1="88a69f7d97e0b3f5cc0bee3cf659c6e13fb21cba" status="none" />
+		<rom name="PICTURE\waku96.png" size="2417" crc="9815f659" md5="03effc693be42addb8d0a2b45b600524" sha1="c7dbf00cabe879addae884f38e9f2546e11e35bb" status="none" />
+		<rom name="PICTURE\waku180.png" size="9712" crc="e65b65a3" md5="8767cb57c624306f6e567966d016efe0" sha1="086d874ef38f2ed1dbdef60bfcfe6bc55ebbb9ac" status="none" />
+		<rom name="PICTURE\waku208x96.PNG" size="1913" crc="81227cd8" md5="921e3d1a697dde61a803e8f2bd1cbdfd" sha1="4298feb1943fb60c1e88cf6a67b669cf97d0643d" status="none" />
+		<rom name="PICTURE\waku360.png" size="5797" crc="8af1b873" md5="9f3eac80d4311f49faae0d798ff1a382" sha1="712d2c965e3e6e3394c4480a158cfa7066e93b67" status="none" />
+		<rom name="PICTURE\Warm.png" size="17522" crc="102c8bcf" md5="144fc47d27214f9b7da367192c76288d" sha1="99aea1705a86ad6f4d7abd572970649695e38c59" status="none" />
+		<rom name="PICTURE\X-Elemental.png" size="1565" crc="20afc9e7" md5="b11afb33b691b289a1dca29e7e93bc49" sha1="bc362611aa1275460405b960d1788b67a44705d2" status="none" />
+		<rom name="SCENARIO\map00_1.lua" size="35163" crc="385aa77e" md5="f4f9f2347c02f7450566bcdc721aec5a" sha1="119a7399a5d2526b310423645014657978e34189" status="none" />
+		<rom name="SCENARIO\map00_2.lua" size="17822" crc="c039bf4c" md5="1786f4518682c67ae934125b6b437593" sha1="f26bc5f27ae8ab690775198db9295ce024def570" status="none" />
+		<rom name="SCENARIO\map01_1.lua" size="10777" crc="f4955016" md5="4bc29423ae5f60d89c42fdff92adf5f1" sha1="151b86541f088f9ff3083b2b14da22ed36714cdf" status="none" />
+		<rom name="SCENARIO\map01_2.lua" size="9764" crc="e9fa8126" md5="0407003320b35742c08b5e521a98efd8" sha1="c2ca89ebc19a85a859a5f9c969943bca842f8431" status="none" />
+		<rom name="SCENARIO\map01_3.lua" size="8519" crc="61e4cf80" md5="4c74f1d9905cd5168c910a755db267e8" sha1="2252fec2c5946a763ec9a3b9e96bdf7672a3e905" status="none" />
+		<rom name="SCENARIO\map01_4.lua" size="15271" crc="14a67f22" md5="02902e62e197a44e7c8ebfdb14e887a2" sha1="1fd7bbb063ef08a862695c907db691d6e6b6d0d6" status="none" />
+		<rom name="SCENARIO\map01_5.lua" size="5080" crc="27288d7a" md5="7be238418e321bf8fc3a8df381f86608" sha1="0fb27ebf5e74463d2ee3a8fafa7076c480aa2d89" status="none" />
+		<rom name="SCENARIO\opening00.txt" size="1006" crc="68919bde" md5="107223d6c14538fc22d7a8fd77615806" sha1="ed570e05e6d1b14d68fe0becab5f07d40b7bd668" status="none" />
+		<rom name="SCENARIO\SpecialThanks.txt" size="3550" crc="097f6e85" md5="d3e11f24da468c8bfe63edee236da205" sha1="4bf6f9033caa3571043724bf39a58f6223438fed" status="none" />
+		<rom name="SCREEN_SHOT\ScreenShot.ini" size="1" crc="f4dbdf21" md5="cfcd208495d565ef66e7dff9f98764da" sha1="b6589fc6ab0dc82cf12099d1c2d40ab994e8410c" status="none" />
+		<rom name="SE\click01\click0101.mp3" size="3787" crc="e70bf15b" md5="8ebd356b2c9f9fa7709d4da792fffe14" sha1="00851bde9823bbdfa69c5fffddd1155a8b28867d" status="none" />
+		<rom name="SE\click01\click0104.mp3" size="8757" crc="73c41de2" md5="f38eacd7f1f434c25d6834a54daf5aa8" sha1="8a927b095842ebdd0a63bcb35d980aefafe950bf" status="none" />
+		<rom name="SE\jump01\jump0103_Kakou_Short.mp3" size="7131" crc="7205a5f2" md5="07ee3436bedbb4a9a331232c3308e770" sha1="edf20c4daed3d1fe0a9c9771a7e78f9f5e1e9d7a" status="none" />
+		<rom name="SE\kage3\MikuDamege1.mp3" size="5063" crc="9cb81ac0" md5="819411965415c9069ce90f9beee94c7a" sha1="c47c8a96efd550b4a2a25c39b0ccc95f733f97d0" status="none" />
+		<rom name="SE\kage3\MikuDamege2.mp3" size="9243" crc="bfb35178" md5="85ea247033dae963326c09c0b1135d63" sha1="3facc6cc3ec2abb9e2bf4c26bc9cf6e6b5415af9" status="none" />
+		<rom name="SE\nekomimiP\m_atk01_.mp3" size="11694" crc="954571ae" md5="ab39d52a8dc9f1b52728d94f6f480484" sha1="beeead659ea83704d81b576fd90f7335808fc484" status="none" />
+		<rom name="SE\nekomimiP\m_atk08_.mp3" size="12529" crc="2a1fcc18" md5="e1848df3b595a5855068e1c6aecf11b8" sha1="49a639bd9499451a0b28b1e37b742142a57b93f2" status="none" />
+		<rom name="SE\nekomimiP\m_atk11_.mp3" size="12006" crc="9620530f" md5="5d3cd5d0ab0e4b223b0038da4d4449fb" sha1="7766a53893b9fb7e44bac289246fac9d5f343473" status="none" />
+		<rom name="SE\onjin\ani_ge_tori_wing02.mp3" size="21002" crc="9619b3ac" md5="5f8441e9709f2a2de73acc2dbf51f816" sha1="2809578ac000b94bbed79a8d5f4759715f0d8669" status="none" />
+		<rom name="SE\onjin\muci_keikai_09.mp3" size="33723" crc="08309afe" md5="906629a4cfd006d322206d3f2c98b5be" sha1="998e1cd3101d5a7e643a72f1b65a06ac078d288b" status="none" />
+		<rom name="SE\onjin\se02-a03.mp3" size="17109" crc="5c99ca62" md5="638c1cfe504aef4f00455b63773297cd" sha1="baee7abdd87986b6e284ea5acab0fc4382d2444b" status="none" />
+		<rom name="SE\onjin\sen_ge_bom02.mp3" size="16300" crc="63c43159" md5="646d18a48e9f86d09956f92885852e24" sha1="7a56de1ba70abd31d13088e7fbaa3dd8b5f714ed" status="none" />
+		<rom name="SE\onjin\sen_ge_bun01.mp3" size="23318" crc="91b62470" md5="46740eb98520effa84b2a82d30b88bcd" sha1="d65a8dad73bb6178066428a9633f97a59a8847cb" status="none" />
+		<rom name="SE\onjin\sen_ge_byun02_Kakou_Short.mp3" size="5459" crc="7b30fc4e" md5="d3e0457086c58f2ef5c7a2755cbc6b20" sha1="a1aa128fc236601462b6c422a64716a9893928c1" status="none" />
+		<rom name="SE\onjin\sen_ge_hasai02_Kakou_Short.mp3" size="16326" crc="3b40550f" md5="837a48036714883463aa2bb28d7e8868" sha1="d2bd4682a8fb9a3d885dbfa7055d1a8140c22a6a" status="none" />
+		<rom name="SE\onjin\sen_ka_kazekiri04.mp3" size="18330" crc="a1979a1d" md5="0fe6545896cacee028fb68ccd11997c9" sha1="34efdc8a444b2300ba8c3c5569950ac775f4ccb8" status="none" />
+		<rom name="SE\onjin\sen_ka_kazekiri04_Kakou_Short.mp3" size="11694" crc="954571ae" md5="ab39d52a8dc9f1b52728d94f6f480484" sha1="beeead659ea83704d81b576fd90f7335808fc484" status="none" />
+		<rom name="SE\onjin\ta_ge_quiz_no01.mp3" size="13471" crc="dbf2b99d" md5="986f3b9f0046b16750b80d5f1a11c7a9" sha1="7f08becd013c558c67a5da67f2f18e961c096e3e" status="none" />
+		<rom name="SE\onjin\ta_ta_ja-n01_Kakou_Short.mp3" size="80274" crc="101edb03" md5="caab818a68a23545c6e98ab9b59bf0bc" sha1="34f90446a7500668526a6d36f9d901ad78eae873" status="none" />
+		<rom name="SE\onjin\ta_ta_nage02.mp3" size="46229" crc="6b51d321" md5="546fd149356f41c60fb25dbb01b46b79" sha1="6d9ae1e5c88ba50229c15c029e1b149ab6ac01f1" status="none" />
+		<rom name="SE\onjin\ta_ta_nage02_Kakou_Short.mp3" size="48509" crc="451a6479" md5="dd704a8e3f26c919521a6b55bf0ba78c" sha1="6f2d4149c9cb9e561f9dd108c188c029d720cf45" status="none" />
+		<rom name="SE\onjin\tm01.mp3" size="14131" crc="1e9a8580" md5="0c1672d79e8ecbde55b82bed1bdffacb" sha1="31245d34a96eb6766348a1dd5e7b0fb91b994849" status="none" />
+		<rom name="SE\onjin\tm02.mp3" size="14131" crc="ef699edc" md5="16b733c4af4a16415a3e13bb51de931a" sha1="3b690243921180bbb9fb48279760718e95f2b8ee" status="none" />
+		<rom name="SE\ReI\330a770f_Kakou_Short.mp3" size="12146" crc="a4bcbf9d" md5="e055416d154c4dd2a59f32ebc732b0cd" sha1="cc2045982f4c1cb240ae9a551125ce5dccb7fc4e" status="none" />
+		<rom name="SE\ReI\kiran2.mp3" size="52707" crc="8d7b13ad" md5="5a5579ec760c120845c37a1a9df4a62c" sha1="97957ce4b43d219476807f32f7732fd61713602d" status="none" />
+		<rom name="SE\Senses Circuit\get.mp3" size="32359" crc="7e66ff8d" md5="0517d6b73accb4e44ea390ee1dc3d793" sha1="86e2452c0a59a11c98d1f1783dcfa969fdaa9e3e" status="none" />
+		<rom name="SE\Senses Circuit\get_2.mp3" size="56750" crc="5da4c47c" md5="a4cbf5f89cc1b4ea7febc86b99f794cd" sha1="80b130355152f156b5edede92620f375914eca54" status="none" />
+		<rom name="SE\sinkyoumusic\System01.mp3" size="21734" crc="3673bcf0" md5="1dbf88a4ba23c29de4b089483b291cfd" sha1="9b46162cbf2afbb6748040688bb36a0181c689f1" status="none" />
+		<rom name="SE\sinkyoumusic\System02.mp3" size="2951" crc="5413d78c" md5="ff17bef18ee1a8922275fcbe51329c67" sha1="e3487ea89abd279b6eb0777a22bb85e44666759f" status="none" />
+		<rom name="dxplog.txt" size="1812" crc="8baeeb16" md5="f71be89b2654f946ff5040ab5267c8e3" sha1="83e6fa6ded076a81c3a68c7c16fcbd26c47a4bff" status="none" />
+		<rom name="EBOOT.PBP" size="1557833" crc="183a6860" md5="146187146d332a04f09b607a2e37c0e4" sha1="268447e46fb8f89147937eab3992da459ad8736c" status="none" />
+		<rom name="FileList.bat" size="24" crc="6b17851d" md5="21e941188d4e82410860dd59a0c80882" sha1="163c41313c21962f005012bb429f7249b3d65f0e" status="none" />
+		<rom name="FileList.txt" size="3670" crc="398545ed" md5="2b2d4daeb59da854fe9c8b37abcf538a" sha1="36c9107293fcbb940d54bee039928f959ebbb860" status="none" />
+		<rom name="Version.txt" size="14" crc="a3c08bf9" md5="8f869a4fc56acee8d2d4d3fcea214947" sha1="d19b3cc37f5691512f8d82777e67028bd324a34c" status="none" />
 	</game>
 	<game name="Hydra Castle Labyrinth (v2021-11-08) (JeffRuLz)">
 		<description>Hydra Castle Labyrinth (v2021-11-08) (JeffRuLz)</description>

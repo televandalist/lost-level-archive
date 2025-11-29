@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>004e</id>
+		<name>004e - Lost Level Archive - Nintendo - Game Boy Color (Extras)</name>
+		<description>Nintendo - Game Boy Color (Extras)</description>
+		<version>v20251129</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Dangan GB2 (World) (Aftermarket) (snorpung) - Extras">
+		<description>Dangan GB2 (World) (Aftermarket) (snorpung) - Extras</description>
+		<rom name="Dangan GB2 (World) (Aftermarket) (snorpung) - Manual.pdf" size="2487811" crc="93de5ef0" md5="c52c8a488436f222ec6c8b5d540fd9a4" sha1="a995dd12ba444897635e816092f8cb76dbeb1df9" status="none" />
+	</game>
+	<game name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios) - Strategy Guide">
+		<description>Galacard Platinum (World) (Aftermarket) (Bipedal Studios) - Strategy Guide</description>
+		<rom name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios) - Strategy Guide.pdf" size="133398" crc="8942bbf5" md5="c84c2d88946ef84e2dbcc676d6d4c609" sha1="79e32ec82bcf33d023a31130c9cc75ea596eb41b" status="none" />
+	</game>
+	<game name="Piropa (World) (v2.1) (Aftermarket) (sg) - Extras">
+		<description>Piropa (World) (v2.1) (Aftermarket) (sg) - Extras</description>
+		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg) - Box Art.pdf" size="1455450" crc="b7dc26df" md5="e2f2a2b9ebf06d5e4cb396520d40a958" sha1="5ac0e78c1306133068e91b89ee9076ecfd385524" status="none" />
+		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg) - Cartridge Sticker.pdf" size="80974" crc="da44f19f" md5="b97dcb2fe52014609ce8c52b74f26403" sha1="661d3bffbc195fbfb075f0f2267efd1962b43f4f" status="none" />
+		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg) - Manual.pdf" size="1232449" crc="37219b4e" md5="6a2e59057810acf7de49ac46c84fa2a9" sha1="937a18087105be3b3059ed16ccde290618e01f00" status="none" />
+	</game>
+	<game name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Extras">
+		<description>TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Extras</description>
+		<rom name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Manual.pdf" size="5607230" crc="7f25cd0e" md5="07492bafc22a62ec443e476c5cbfbd13" sha1="e8b3737249d3e7f84929360bb4ab3a78a5e25db3" status="none" />
+	</game>
+</datafile>

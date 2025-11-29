@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>041</id>
+		<name>041 - Lost Level Archive - Sony - PlayStation Portable (CSO)</name>
+		<description>Sony - PlayStation Portable (CSO)</description>
+		<version>v20251129</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Cookie Clicker PSP (World) (Aftermarket) (XD)">
+		<description>Cookie Clicker PSP (World) (Aftermarket) (XD)</description>
+		<rom name="Cookie Clicker PSP (World) (Aftermarket) (XD).cso" size="2590348" crc="b25f52a6" md5="0a0ef23054af6a61a0b012cce5e708f4" sha1="62bf88c72161c24e33aa6a8bd2e0970098d67ac7" status="none" />
+	</game>
+</datafile>
