@@ -5,7 +5,7 @@
 		<id>013</id>
 		<name>013 - Lost Level Archive - Atari - Lynx</name>
 		<description>Atari - Lynx</description>
-		<version>v20250907</version>
+		<version>v20251129</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -22,6 +22,14 @@
 	<game name="Flappy Bird (EE) (World) (Aftermarket) (tonma)">
 		<description>Flappy Bird (EE) (World) (Aftermarket) (tonma)</description>
 		<rom name="Flappy Bird (EE) (World) (Aftermarket) (tonma).lnx" size="32073" crc="e6787336" md5="84d02bc4f902462f654216007a379fbb" sha1="da3ca5809a475f70a2275ceac43198f98dbe0b79" />
+	</game>
+	<game name="Grogger (World) (v1.4) (Aftermarket) (Ganksoft Entertainment)">
+		<description>Grogger (World) (v1.4) (Aftermarket) (Ganksoft Entertainment)</description>
+		<rom name="Grogger (World) (v1.4) (Aftermarket) (Ganksoft Entertainment).lnx" size="65536" crc="06d45fba" md5="1aca54b7cd9dd3d509d038d0973df0be" sha1="f303ae21c4bdc25f4efe71bb1911ca067547a54a" status="none" />
+	</game>
+	<game name="Grogger (World) (v1.4) (Aftermarket) (Ganksoft Entertainment)">
+		<description>Grogger (World) (v1.4) (Aftermarket) (Ganksoft Entertainment)</description>
+		<rom name="Grogger (World) (v1.4) (Aftermarket) (Ganksoft Entertainment).lyx" size="65472" crc="4b907e29" md5="f5ad5b95450c0dac977909b89367c255" sha1="6925f41274ae18a041aea886166cf6b3ab1509a4" status="none" />
 	</game>
 	<game name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)">
 		<description>Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)</description>
