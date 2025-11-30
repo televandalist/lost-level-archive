@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20251114</version>
+		<version>v20251130</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -59,6 +59,18 @@
 		<description>Pikmin 2 - Colossal Caverns (v2.3) (PikHacker)</description>
 		<rom name="Pikmin 2 - Colossal Caverns (v2.3) (PikHacker).iso" size="225423856" crc="be2a6503" md5="0d9bcb6ed23a2e39ea882407f29019f6" sha1="0ab00d66ea86ee39cd5cabb8794697a785ad0dca" />
 	</game>
+	<game name="Pikmin 2 - Hallows Haunt (v1.3) (Cloober)">
+		<description>Pikmin 2 - Hallows Haunt (v1.3) (Cloober)</description>
+		<rom name="Pikmin 2 - Hallows Haunt (v1.3) (Cloober).iso" size="1392443392" crc="79313885" md5="25e513bbb7d70a4423fa7f6c359e8f1b" sha1="892a8f15f3463058880982c7d32c574227379403" status="none" />
+	</game>
+	<game name="Pikmin 2 - New Year (v1.38) (AmigaOwl)">
+		<description>Pikmin 2 - New Year (v1.38) (AmigaOwl)</description>
+		<rom name="Pikmin 2 - New Year (v1.38) (AmigaOwl).iso" size="1459978240" crc="5a39a8e7" md5="9f12db91bfed627b758afe3bbae86af2" sha1="342d52ef0c2dc8b68c551cf7520e50e61e7b9c29" status="none" />
+	</game>
+	<game name="Pikmin 2 - Piki 2 (v2.8) (Anto)">
+		<description>Pikmin 2 - Piki 2 (v2.8) (Anto)</description>
+		<rom name="Pikmin 2 - Piki 2 (v2.8) (Anto).iso" size="1459978240" crc="b6db3c36" md5="06b3f5cb7f3bf51593a70d05a037d56e" sha1="a5d1f4fddd9b9c05ea870b891aee605ab35c6c5b" status="none" />
+	</game>
 	<game name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker)">
 		<description>Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker)</description>
 		<rom name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker).iso" size="1408532480" crc="de2b5629" md5="bfb3752412c9827732b53f6590ccb408" sha1="753af1b8024d0e43d1d0047d65b4be67143fd22e" />
@@ -70,6 +82,14 @@
 	<game name="Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker)">
 		<description>Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker)</description>
 		<rom name="Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker).iso" size="1459978240" crc="95e0cb69" md5="77b7ea16ec63038ef46a84edb15e5886" sha1="5fca8201afb6ac819ec02870bf3b9ed43dc8d11d" />
+	</game>
+	<game name="Pikmin 2 - Power Cut (v1.22) (Cloober)">
+		<description>Pikmin 2 - Power Cut (v1.22) (Cloober)</description>
+		<rom name="Pikmin 2 - Power Cut (v1.22) (Cloober).iso" size="1141932032" crc="25ade386" md5="37a0b3928ff53635607015a1916acef2" sha1="4a4e4a5562109334e25cbcc1c801af29122c9d28" status="none" />
+	</game>
+	<game name="Pikmin 2 - Power-Cut Blackout (v2.1) (Cloober)">
+		<description>Pikmin 2 - Power-Cut Blackout (v2.1) (Cloober)</description>
+		<rom name="Pikmin 2 - Power-Cut Blackout (v2.1) (Cloober).iso" size="1087668224" crc="3d11f682" md5="bc0495f988e0551b42705f505e10bec6" sha1="97281ec54f13a9f1f6e50244517d549991de8bb6" status="none" />
 	</game>
 	<game name="Pikmin 2 - Regrown (v2.0) (Ochrehorns)">
 		<description>Pikmin 2 - Regrown (v2.0) (Ochrehorns)</description>
