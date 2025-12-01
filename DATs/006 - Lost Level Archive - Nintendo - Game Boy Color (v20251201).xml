@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20251129</version>
+		<version>v20251201</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -146,6 +146,10 @@
 	<game name="Hatsune Miku Bomb Squad (World) (v1.3) (Aftermarket) (Unl)">
 		<description>Hatsune Miku Bomb Squad (World) (v1.3) (Aftermarket) (Unl)</description>
 		<rom name="Hatsune Miku Bomb Squad (World) (v1.3) (Aftermarket) (Unl).gbc" size="524288" crc="b5465484" md5="6364d4ca7ea0f83981e97c12fd08ea97" sha1="4592070930a50e7f21ec10ecf0ef3d2365aec9a7" />
+	</game>
+	<game name="Heart of Arel DX, The (World) (v2.1) (Aftermarket) (meadow drone)">
+		<description>Heart of Arel DX, The (World) (v2.1) (Aftermarket) (meadow drone)</description>
+		<rom name="Heart of Arel DX, The (World) (v2.1) (Aftermarket) (meadow drone).gbc" size="1048576" crc="1633b355" md5="ab17d7e134e2dd65764da154f51a2e1c" sha1="4fd18c3ceeae478da94715ece99391db77e297a2" status="none" />
 	</game>
 	<game name="Hollow Knight - Fool's Song (World) (v1.0) (Aftermarket) (GB Studio) (Elvies)">
 		<description>Hollow Knight - Fool's Song (World) (v1.0) (Aftermarket) (GB Studio) (Elvies)</description>
@@ -358,6 +362,10 @@
 	<game name="Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio)">
 		<description>Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio)</description>
 		<rom name="Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio).gbc" size="1048576" crc="b900ed70" md5="10876e1b4a66fea431ccf90d4b56dee7" sha1="a99a3bcd1ec0698bb39a53e279b49e95f8595810" />
+	</game>
+	<game name="Silent Hill 1 Demake (World) (v20251022) (Aftermarket) (Colony21)">
+		<description>Silent Hill 1 Demake (World) (v20251022) (Aftermarket) (Colony21)</description>
+		<rom name="Silent Hill 1 Demake (World) (v20251022) (Aftermarket) (Colony21).gbc" size="4194304" crc="9de8a6a1" md5="67484b082b41fff3faa58a002993b1e6" sha1="c0d0e437dc6c5afea73846337d0bf13e42b0e099" status="none" />
 	</game>
 	<game name="Silent Hill 2 - Born From a Wish (World) (2024-05-31) (Demo) (Aftermarket) (Unl)">
 		<description>Silent Hill 2 - Born From a Wish (World) (2024-05-31) (Demo) (Aftermarket) (Unl)</description>

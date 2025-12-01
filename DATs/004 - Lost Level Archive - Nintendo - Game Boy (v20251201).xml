@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20251129</version>
+		<version>v20251201</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -476,6 +476,10 @@
 	<game name="Soul Void Redux (World) (Aftermarket) (GB Studio)">
 		<description>Soul Void Redux (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Soul Void Redux (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="B6F5F372" md5="CE14AFB9B396A74A1E0E2ECE9747EA9C" sha1="3B10F6BAE11DAB5BB6106D0A6E4E80A3FBD0FA7A"/>
+	</game>
+	<game name="SPACE.GB (World) (v1.0) (Aftermarket) (BiSCUiTLOCKER)">
+		<description>SPACE.GB (World) (v1.0) (Aftermarket) (BiSCUiTLOCKER)</description>
+		<rom name="SPACE.GB (World) (v1.0) (Aftermarket) (BiSCUiTLOCKER).gb" size="524288" crc="caf467ca" md5="ed1a722cf23ea767ed90597cf55d8cf6" sha1="4ff262ab866669415ba4513c6f921cd3ff9d4db1" status="none" />
 	</game>
 	<game name="Space Landing (World) (Steam) (Aftermarket) (Maurizio)">
 		<description>Space Landing (World) (Steam) (Aftermarket) (Maurizio)</description>

@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20250907</version>
+		<version>v20251201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -138,6 +138,14 @@
 	<game name="Hajimete no Orusuban (Japan) (En - Voice-Spc) (Fan Port) (Unl)">
 		<description>Hajimete no Orusuban (Japan) (En - Voice-Spc) (Fan Port) (Unl)</description>
 		<rom name="Hajimete no Orusuban (Japan) (En - Voice-Spc) (Fan Port) (Unl).gba" size="31883264" crc="faede331" md5="733e79630527629cbbe757b3e7f30a31" sha1="55ad1565fe49c05e7da50eb8e606b31cf3f86e26" />
+	</game>
+	<game name="Hollow Knight (World) (Beta 1) (Aftermarket) (Elvies)">
+		<description>Hollow Knight (World) (Beta 1) (Aftermarket) (Elvies)</description>
+		<rom name="Hollow Knight (World) (Beta 1) (Aftermarket) (Elvies).gba" size="1104756" crc="c26ce81b" md5="fe75379d511efcc5246bc64a629bb163" sha1="035a5700ee6914ef14284ca926732a65a388a083" status="none" />
+	</game>
+	<game name="Hollow Knight (World) (Beta 2) (Aftermarket) (Elvies)">
+		<description>Hollow Knight (World) (Beta 2) (Aftermarket) (Elvies)</description>
+		<rom name="Hollow Knight (World) (Beta 2) (Aftermarket) (Elvies).gba" size="1124596" crc="5622bce2" md5="0c7177020807ef7b517150d9ad9f74ad" sha1="95ebefd9831c38becef8bad4bf31be08aa162261" status="none" />
 	</game>
 	<game name="Holy Hell (World) (NEO Retro Coding Compo 2012) (Aftermarket) (Unl)">
 		<description>Holy Hell (World) (NEO Retro Coding Compo 2012) (Aftermarket) (Unl)</description>
