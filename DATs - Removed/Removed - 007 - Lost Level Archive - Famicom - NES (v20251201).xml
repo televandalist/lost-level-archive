@@ -5,15 +5,23 @@
 		<id>007</id>
 		<name>Removed - 007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Removed - Nintendo - Famicom - NES</description>
-		<version>v20250907</version>
+		<version>v20251201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Alien Cat 2 (World) (Aftermarket) (PSCDGames)">
+		<description>Alien Cat 2 (World) (Aftermarket) (PSCDGames)</description>
+		<rom name="Alien Cat 2 (World) (Aftermarket) (Unl).nes" size="262160" crc="550e30b3" md5="8fe07ecb8a184872bba97a1e98beca43" sha1="16c7ec6a3d56ba8f8267dcefa8819abc2b502f4c" status="none" />
+	</game>
 	<game name="All Hell Unleashed (World) (Aftermarket) (Unl)">
 		<description>All Hell Unleashed (World) (Aftermarket) (Unl)</description>
 		<rom name="All Hell Unleashed (World) (Aftermarket) (Unl).nes" size="524304" crc="2f78164f" md5="0a42874e644792f57b63d698b9f75819" sha1="50feaa775d1f2c871a00ed4870989dab7a202bf0" />
+	</game>
+	<game name="All Hell Unleashed (World) (v6.66) (Aftermarket) (Unl)">
+		<description>All Hell Unleashed (World) (v6.66) (Aftermarket) (Unl)</description>
+		<rom name="All Hell Unleashed (World) (v6.66) (Aftermarket) (Unl).nes" size="524304" crc="4203e09a" md5="5ce4300f73286aea91aa3c6131cfc263" sha1="46f12d14670874e2496d51478d7240ca699c222b" status="none" />
 	</game>
 	<game name="Backwards Quest (World) (v1.8) (Aftermarket) (Artix)">
 		<description>Backwards Quest (World) (v1.8) (Aftermarket) (Artix)</description>
@@ -31,6 +39,10 @@
 		<description>Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul)</description>
 		<rom name="Friday Night Funkin' - Counterfeit Edition (USA) (v0.4) (Mapper 2) (Aftermarket) (Not1Soul).nes" size="524304" crc="ee9c048d" md5="65719a37c48cf991cfe79218a5d55acf" sha1="68eff69353c9e334936ada0c89fc7bbf524a8757" status="none" />
 	</game>
+	<game name="Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl)">
+		<description>Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl).nes" size="786448" crc="604b7fb1" md5="1216024cdff098ebc3f4e3f1becf1804" sha1="814aeba26b4df2497f47771e97e5ef5bfb6e6272" status="none" />
+	</game>
 	<game name="Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg)">
 		<description>Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg)</description>
 		<rom name="Koudai Guaishou II - Pokemon Diamond II (China) (Bootleg).nes" size="1048592" crc="91D6F1F4" md5="EFC3933C833059F8B1E82C9EB48E6057" sha1="603A686B3A3267D09B9A6840224B1EB07313F849"/>
@@ -42,6 +54,10 @@
 	<game name="Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul)">
 		<description>Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul)</description>
 		<rom name="Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul).nes" size="524304" crc="dcb3c6d1" md5="885357fbb426e805661ac8eea6e0be49" sha1="0b32ceba72ac9943db1787907dd7c96274109afd" status="none" />
+	</game>
+	<game name="Project Plue (BNROM) (Level Patch) (Mega Cat Studios)">
+		<description>Project Plue (BNROM) (Level Patch) (Mega Cat Studios)</description>
+		<rom name="Project Plue (BNROM) (Level Patch) (Mega Cat Studios).nes" size="524304" crc="e47438ec" md5="e327a550834653b41f6057d778e45ce5" sha1="7350aaef66d1d0dad7be552f82060ad9dbcaad7f" />
 	</game>
 	<game name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx)">
 		<description>Sonik Gem Dash (World) (Aftermarket) (BriG78cx)</description>

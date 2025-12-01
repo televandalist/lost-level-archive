@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20251019</version>
+		<version>v20251201</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,14 +14,6 @@
 	<game name="Ai Senshi Nicol (Japan) (FDS Conversion)">
 		<description>Ai Senshi Nicol (Japan) (FDS Conversion)</description>
 		<rom name="Ai Senshi Nicol (Japan) (FDS Conversion).nes" size="262160" crc="d2a09f84" md5="b00e878010f4e919a38090f8c05cc5b4" sha1="9c3364fa94a50b939d4167c024c23ede9e0c1a31" />
-	</game>
-	<game name="Alien Cat 2 (World) (Aftermarket) (PSCDGames)">
-		<description>Alien Cat 2 (World) (Aftermarket) (PSCDGames)</description>
-		<rom name="Alien Cat 2 (World) (Aftermarket) (Unl).nes" size="262160" crc="550e30b3" md5="8fe07ecb8a184872bba97a1e98beca43" sha1="16c7ec6a3d56ba8f8267dcefa8819abc2b502f4c" status="none" />
-	</game>
-	<game name="All Hell Unleashed (World) (v6.66) (Aftermarket) (Unl)">
-		<description>All Hell Unleashed (World) (v6.66) (Aftermarket) (Unl)</description>
-		<rom name="All Hell Unleashed (World) (v6.66) (Aftermarket) (Unl).nes" size="524304" crc="4203e09a" md5="5ce4300f73286aea91aa3c6131cfc263" sha1="46f12d14670874e2496d51478d7240ca699c222b" status="none" />
 	</game>
 	<game name="Angry Birds (China) (Aftermarket) (Bootleg) (Nice Code)">
 		<description>Angry Birds (China) (Aftermarket) (Bootleg) (Nice Code)</description>
@@ -54,10 +46,6 @@
 	<game name="King of Fighters R2, The (China) (Bootleg) (Unl)">
 		<description>King of Fighters R2, The (China) (Bootleg) (Unl)</description>
 		<rom name="King of Fighters R2, The (China) (Bootleg) (Unl).nes" size="524304" crc="b32b068c" md5="af0e68f2d25a803d70282bdd52331db8" sha1="93c06eabb62bd622900213b0b3566b40bc244a21" />
-	</game>
-	<game name="Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl)">
-		<description>Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl)</description>
-		<rom name="Kingdom Crisis (USA) (Demo) (Aftermarket) (Unl).nes" size="786448" crc="604b7fb1" md5="1216024cdff098ebc3f4e3f1becf1804" sha1="814aeba26b4df2497f47771e97e5ef5bfb6e6272" status="none" />
 	</game>
 	<game name="Koudai Guaishou III - Pokemon Diamond III (China) (Bootleg)">
 		<description>Koudai Guaishou III - Pokemon Diamond III (China) (Bootleg)</description>
@@ -166,10 +154,6 @@
 	<game name="Project Blue (JP BNROM) (Level Patch) (Mega Cat Studios)">
 		<description>Project Blue (JP BNROM) (Level Patch) (Mega Cat Studios)</description>
 		<rom name="Project Blue (JP BNROM) (Level Patch) (Mega Cat Studios).nes" size="524304" crc="d6c56deb" md5="553a4205fa2f640ba8c3c939229c634e" sha1="66e5d00ea7e2cb76b3f81edeff2ff19ed0141d2a" />
-	</game>
-	<game name="Project Plue (BNROM) (Level Patch) (Mega Cat Studios)">
-		<description>Project Plue (BNROM) (Level Patch) (Mega Cat Studios)</description>
-		<rom name="Project Plue (BNROM) (Level Patch) (Mega Cat Studios).nes" size="524304" crc="e47438ec" md5="e327a550834653b41f6057d778e45ce5" sha1="7350aaef66d1d0dad7be552f82060ad9dbcaad7f" />
 	</game>
 	<game name="Puck-Man Puzzler (USA) (Demo) (Aftermarket) (Unl) (Debiru)">
 		<description>Puck-Man Puzzler (USA) (Demo) (Aftermarket) (Unl) (Debiru)</description>
