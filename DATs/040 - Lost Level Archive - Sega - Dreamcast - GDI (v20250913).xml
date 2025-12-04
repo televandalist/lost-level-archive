@@ -5,7 +5,7 @@
 		<id>040</id>
 		<name>040 - Lost Level Archive - Sega - Dreamcast - GDI</name>
 		<description>Sega - Dreamcast - GDI</description>
-		<version>v20250913</version>
+		<version>v20251204</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -99,13 +99,6 @@
 		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin) (Track 02).bin" size="10948560" crc="c9961131" md5="932face99d8ebc48de4adb89b0d260e0" sha1="aee5d258dfbd01f226b585243f7725d4843c92df" />
 		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin) (Track 03).bin" size="1185760800" crc="1b9a87e6" md5="f698dfcbae6873352895e81dec097ec4" sha1="ae146a07911d77b15db42dd9c3cd622314661b6d" />
 		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin).gdi" size="291" crc="be2e7983" md5="4a720e4b817f1e56f5f69c89430b73a7" sha1="0392b5b76e2b40d702161ff531cbd21b63f49b04" />
-	</game>
-	<game name="Propeller Arena (USA) (2001-09-11) (Prototype) (GDI)">
-		<description>Propeller Arena (USA) (2001-09-11) (Prototype) (GDI)</description>
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 1).bin" size="705600" crc="0273e7ae" md5="9c9aff05221526e2de67f17338c7069f" sha1="16da502568f6a520d1f84fdb8c3775143b3aa5c5" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 2).raw" size="1237152" crc="99566185" md5="5a6c3ee28764b05886836c5552f87e8a" sha1="149f252882d31cbd0f21a2f93f4380135caeb1b2" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 3).bin" size="1185760800" crc="74446f13" md5="caa392704776a842f1273761dd790b7f" sha1="d40776e64a20aa19930c3f06406cbe9794505be1" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype).gdi" size="240" crc="2b71da4e" md5="1d5b3fa3e9cff0cb877f65a5afa52bee" sha1="60c875a53014b5a84df3d849834696d650bbd9e2" />
 	</game>
 	<game name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella)">
 		<description>Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella)</description>

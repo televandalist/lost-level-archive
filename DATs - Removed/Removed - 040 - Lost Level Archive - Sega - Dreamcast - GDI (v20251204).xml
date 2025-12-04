@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>040</id>
+		<name>Removed - 040 - Lost Level Archive - Sega - Dreamcast - GDI</name>
+		<description>Removed - Sega - Dreamcast - GDI</description>
+		<version>v20251204</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Propeller Arena (USA) (2001-09-11) (Prototype) (GDI)">
+		<description>Propeller Arena (USA) (2001-09-11) (Prototype) (GDI)</description>
+		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 1).bin" size="705600" crc="0273e7ae" md5="9c9aff05221526e2de67f17338c7069f" sha1="16da502568f6a520d1f84fdb8c3775143b3aa5c5" />
+		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 2).raw" size="1237152" crc="99566185" md5="5a6c3ee28764b05886836c5552f87e8a" sha1="149f252882d31cbd0f21a2f93f4380135caeb1b2" />
+		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 3).bin" size="1185760800" crc="74446f13" md5="caa392704776a842f1273761dd790b7f" sha1="d40776e64a20aa19930c3f06406cbe9794505be1" />
+		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype).gdi" size="240" crc="2b71da4e" md5="1d5b3fa3e9cff0cb877f65a5afa52bee" sha1="60c875a53014b5a84df3d849834696d650bbd9e2" />
+	</game>
+</datafile>

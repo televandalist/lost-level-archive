@@ -5,7 +5,7 @@
 		<id>040</id>
 		<name>040 - Lost Level Archive - Sega - Dreamcast - BIN-CUE</name>
 		<description>Sega - Dreamcast - BIN-CUE</description>
-		<version>v20250820</version>
+		<version>v20251204</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -17,13 +17,6 @@
 		<rom name="Dino Crisis (USA) (Ru) (ViT Co.,Akella,Dreamrus) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9" status="none" />
 		<rom name="Dino Crisis (USA) (Ru) (ViT Co.,Akella,Dreamrus) (Track 3).bin" size="1185760800" crc="d54cddbc" md5="f29b937cbf5f4fe9351d478a7ad9b395" sha1="25672852227754594613e9a53382cde64031422b" status="none" />
 		<rom name="Dino Crisis (USA) (Ru) (ViT Co.,Akella,Dreamrus).cue" size="438" crc="dd27f414" md5="831c3b79fd17910b13c9f0afc8856d4f" sha1="273a96ae9aae0246cc1558336d83661fe0742c4d" status="none" />
-	</game>
-	<game name="Propeller Arena (USA) (2001-09-11) (Prototype) (BIN-CUE)">
-		<description>Propeller Arena (USA) (2001-09-11) (Prototype) (BIN-CUE)</description>
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 1).bin" size="705600" crc="0273e7ae" md5="9c9aff05221526e2de67f17338c7069f" sha1="16da502568f6a520d1f84fdb8c3775143b3aa5c5" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype) (Track 3).bin" size="1185760800" crc="74446f13" md5="caa392704776a842f1273761dd790b7f" sha1="d40776e64a20aa19930c3f06406cbe9794505be1" />
-		<rom name="Propeller Arena (USA) (2001-09-11) (Prototype).cue" size="432" crc="c6868c7f" md5="011f7b0796de19553251e7bfe39bff7e" sha1="d2b460462f7a96d033ae07887855a8beb8c983bc" />
 	</game>
 	<game name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE)">
 		<description>Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE)</description>
