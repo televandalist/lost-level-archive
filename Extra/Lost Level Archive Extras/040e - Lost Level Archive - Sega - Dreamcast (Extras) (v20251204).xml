@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>040e</id>
+		<name>040e - Lost Level Archive - Sega - Dreamcast (Extras)</name>
+		<description>Sega - Dreamcast (Extras)</description>
+		<version>v20251204</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Castlevania Resurrection (E3 Pre-Demo) - Extras">
+		<description>Castlevania Resurrection (E3 Pre-Demo) - Extras</description>
+		<rom name="Castlevania Resurrection (E3 Pre-Demo) - Cover.pdf" size="1187600" crc="84a54ccf" md5="7686de758507af2c216acef74dda8b0f" sha1="0937da09e09edd4a47e41ab1374d84785dcb1cea" />
+	</game>
+	<game name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Extras)">
+		<description>Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Extras)</description>
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) - Front.png" size="1306606" crc="ee36402c" md5="b9a8a912f3e9c2aace1600c3035de392" sha1="cccb0d007bc5afd9ce615048aff6cd0ca4fd74b7" status="none" />
+	</game>
+	<game name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Extras)">
+		<description>Half-Life - Black Ops (v20070915) (OVERRiDE) (Extras)</description>
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) - Back.jpg" size="486897" crc="1f8c3bc0" md5="1b5a2ede02b186e5ef25afe219c84d67" sha1="37d23a85920b67f07dc990baafb5ee13f3e7a476" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) - Disc.jpg" size="44662" crc="a359028a" md5="d1115430fadde10c43cf9caec84f6e33" sha1="45e8e532a39d724a642e0f0a6b018c208e4ed9b1" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) - Front-Alt.jpg" size="148644" crc="d2032db0" md5="92c11e29e6a062a01b57cdecf6fdc64e" sha1="a5752531245139d34cfff762405889b3e99adb41" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) - Front.jpg" size="66184" crc="2348601a" md5="26952d0baa4750e3050bee386d1dbb12" sha1="8aa6deb0d49fd9329cd8b709aed78d487a193f72" status="none" />
+	</game>
+	<game name="Half-Life - Blue Shift (v20070214) (OVERRiDE) (Extras)">
+		<description>Half-Life - Blue Shift (v20070214) (OVERRiDE) (Extras)</description>
+		<rom name="Half-Life - Blue Shift (v20070214) (OVERRiDE) - Front.png" size="3141565" crc="280aa6c1" md5="8fb5d2d35d731a6486c833ed85cf17a0" sha1="01d6e87f6742bdd27f1e153978191dfe7758f447" status="none" />
+	</game>
+	<game name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Extras)">
+		<description>Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Extras)</description>
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) - Disc Cover.png" size="634833" crc="e82bb3c2" md5="f9a6108140b4145bf4ada2d308eb3932" sha1="8785f5d923117b7df5f51f7e7a172de54cdf0bbe" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) - DVD Case.jpg" size="825021" crc="cabf4af9" md5="a3db46a29f88fc2d4796ef992b745dde" sha1="d694386e401a0bd6d3392a81cf4be79fcb81b684" status="none" />
+	</game>
+	<game name="Half-Life - Counter-Strike - Condition Zero (v0.1) (OVERRiDE) (Extras)">
+		<description>Half-Life - Counter-Strike - Condition Zero (v0.1) (OVERRiDE) (Extras)</description>
+		<rom name="Half-Life - Counter-Strike - Condition Zero (v0.1) (OVERRiDE) - Front-Alt.jpg" size="409766" crc="b530613a" md5="5f6748df0666483325a14c7c1e42d4ae" sha1="cd33b30a7d0c9011df890db6bc3f043da49137db" status="none" />
+		<rom name="Half-Life - Counter-Strike - Condition Zero (v0.1) (OVERRiDE) - Front.jpg" size="381598" crc="95707a8b" md5="aa7f3cfbbde5cdd152e4ec50f1e65ad8" sha1="dc2d7636481b078ae6d8e9cb60baad12794a245f" status="none" />
+	</game>
+	<game name="Half-Life - Grunt (v20130220) (Evil Wesker) (Extras)">
+		<description>Half-Life - Grunt (v20130220) (Evil Wesker) (Extras)</description>
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) - Disc.jpg" size="64632" crc="2c2fd153" md5="9de7a4414fedc05ed8c7682b8e1e230e" sha1="9933ea6331b7732efd2e99ae03d03e0890f196ed" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) - DVD Case.jpg" size="1701378" crc="5d4d148b" md5="2be470b2bbd6c1a72e2421920e938a01" sha1="7a2e69216e830873a9b714ece4e7a34d42d0f6e9" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) - Front.jpg" size="147965" crc="fb6a8b35" md5="cec0396ca7d5bb42f370b2aa1f8f2aed" sha1="dda26010741cc99b4cebc2a327246ac86aaba0d1" status="none" />
+	</game>
+	<game name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Extras)">
+		<description>Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Extras)</description>
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) - Front.png" size="3693271" crc="645865c1" md5="0cdb57aa609b14bde1822af648bec1cf" sha1="b3d009eb237684a6d8a60628ad43e93887d70d60" status="none" />
+	</game>
+	<game name="Half-Life - Opposing Forces (v20110610) (Unknown) (Extras)">
+		<description>Half-Life - Opposing Forces (v20110610) (Unknown) (Extras)</description>
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) - Front.png" size="3638154" crc="711492f2" md5="3de9aff6f2721677abfdc434be1fe7b9" sha1="879b4de04fc2ff22235b8a484719d58f7c2062e7" status="none" />
+	</game>
+	<game name="Half-Life - Paranoia (v1.0) (Various) (Extras)">
+		<description>Half-Life - Paranoia (v1.0) (Various) (Extras)</description>
+		<rom name="Half-Life - Paranoia (v1.0) (Various) - Cover.jpg" size="664272" crc="7079cb61" md5="00ec78ecd7344d0f2983b2842ec39973" sha1="c7e84de79f65dbc8677efe8c283dbf6514a4411e" status="none" />
+		<rom name="Half-Life - Paranoia (v1.1) (Various) - Cover.jpg" size="475946" crc="e5c2696c" md5="cb12c62a7dd7eb56443c4b73cc26ecc7" sha1="00fd75a1a5b95aef9950f79d722b69dae1a101a8" status="none" />
+	</game>
+	<game name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Extras)">
+		<description>Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Extras)</description>
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) - Alternate.jpg" size="124756" crc="6a7d06d6" md5="b473b52bf9daa02afe90b2946f79ded7" sha1="bba88794fe18dc7c73af7a63c059b3899a651e79" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) - Black.png" size="3263568" crc="b8d0fe16" md5="80c3cc789fa88e44b92c5d34e0c411bd" sha1="e12fedf8aa48e09a72e40ae862c3b9d0ce88e2c0" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) - White.png" size="3249125" crc="138726a8" md5="d1e82784b5feff94acafcd8afa8ea8ab" sha1="f9667806333b381e0c7e9be80c98d52177982470" status="none" />
+	</game>
+	<game name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Extras)">
+		<description>Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Extras)</description>
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) - Cover.jpg" size="179351" crc="fc1f20ff" md5="e6ffa7fa86a0d8b388876892853994fe" sha1="67e0c50da9db28d02ffa5b8cd2259fce3c93ad2c" status="none" />
+	</game>
+	<game name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Extras">
+		<description>Ultimate Doom, The (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Back Print.pdf" size="13162752" crc="df973694" md5="62186c89809b99a77498708f36352177" sha1="be128e6a0e5d2e43aa7e95bacc70a341777d4471" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Back.png" size="9971051" crc="8a92c772" md5="d234c1291a86b8b6ad93095216bf773f" sha1="bc411156843e4774ac3379310c028d42ceaf4e8f" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - CD.png" size="6790197" crc="b00f4fc5" md5="d0a6de197b0130dda157890894ec0c44" sha1="77cae9c0113fc18319234e85864d9df50480dbec" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Front Print.pdf" size="4202444" crc="90a7a3e0" md5="d3c8395a73d16b0a0004754a30ae71ef" sha1="c071b1293ac2052b247fc825e6d59d2c31706c07" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Front.png" size="31702775" crc="d4947efb" md5="94ae96d651d25d4f69141b1e2622fcf4" sha1="8778ab7117387c4aa0eb7dff20bea8d2ec4fd398" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Inlay.png" size="9971051" crc="adbac715" md5="24b9b1fc6c116ece0988ef1ff032608c" sha1="c0a5ac43d2b159fe8f19b32eb95dbc9563abd08f" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) - Manual.png" size="8205343" crc="3b2b44ec" md5="8d2834e401793a5de8d237d657f000f7" sha1="85f614dfc559da39b0cc590821319d2f533cd365" />
+	</game>
+</datafile>

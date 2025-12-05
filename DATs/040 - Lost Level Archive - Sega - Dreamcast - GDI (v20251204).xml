@@ -11,6 +11,15 @@
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl)">
+		<description>Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl)</description>
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 1).iso" size="614400" crc="4c9622ca" md5="dbda6fbe2607c668b0dc6b940a359382" sha1="7cdd992cc5ab2acd2e4c4c269f63c408815fe81a" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 2).raw" size="1237152" crc="bc56e241" md5="03c796f60db2e9ef0b65a42a47a9d321" sha1="1bc5d3822f954a634e1f39584f98da42784e914e" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 3).iso" size="95406080" crc="650dd5e9" md5="d2c1376509d420be01d2ecb7b2bc74d4" sha1="c5dcb524e87f4381922e66ec3f57369df06c90ca" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 4).raw" size="1060752" crc="bfdf6078" md5="166d547d4b80a87ad3538f9377fbf6d8" sha1="471abb758a709c9d678bd2e76f31a6d721b5f4f0" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 5).iso" size="1048576" crc="7b79a891" md5="436ab9ba3666dd0a5ef87712c23b0c34" sha1="e361877a444950c474481ca4d72f6467d0cadb16" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl).gdi" size="512" crc="e03b5086" md5="0b161309ac848f9e26e63b2aacd7a043" sha1="384843de5b72c41d054abf37efa6d935e9218762" status="none" />
+	</game>
 	<game name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly)">
 		<description>Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly)</description>
 		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly) (Track 1).bin" size="614400" crc="71ed9787" md5="82b3a2154ccc53f3ce2f256dfab810c9" sha1="347668eceb64e9803d7cde0b464c7c174ff5f9d9" />
@@ -65,6 +74,86 @@
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 04).raw" size="1060752" crc="BFDF6078" md5="166D547D4B80A87AD3538F9377FBF6D8" sha1="471ABB758A709C9D678BD2E76F31A6D721B5F4F0"/>
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 05).bin" size="1181788272" crc="2B8FABBC" md5="F7A9490C8A14F76308E689B6F9699DD0" sha1="9831F3C16C0428E631A22A6977521AAFCD24D164"/>
 		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito).gdi" size="385" crc="77C6AD78" md5="6EC11F09295CDA5403E3A18565165F94" sha1="B592465FB0E735BCFC4415CE1FD0282557AFEFEF"/>
+	</game>
+	<game name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix)">
+		<description>Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix)</description>
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 3).iso" size="307200" crc="e043fcf6" md5="26a917f0bee62c521c010440a48f8ea7" sha1="5a4ddf3efcadd661584262a7d8a08c4858ec66a6" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 5).iso" size="118943744" crc="511931e9" md5="d13152f5fd9a6e90412a71970ad445aa" sha1="fc4bd86af755514f7c625dd9f7da1a9271d41acc" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix).gdi" size="472" crc="548f1555" md5="c59d3a35f71f118b12704c19c47bddef" sha1="61b1c45c2b9596cca46470ac17c38d777ad8e682" status="none" />
+	</game>
+	<game name="Half-Life - Black Ops (v20070915) (OVERRiDE)">
+		<description>Half-Life - Black Ops (v20070915) (OVERRiDE)</description>
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 3).iso" size="307200" crc="d5249496" md5="e7653627cad67226300745f5ebd20717" sha1="9ddebcaf07eddf521731fde938d2de1d570fddc4" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 5).iso" size="269479936" crc="9b67566b" md5="620d1919006b052578e35e0011b0d7be" sha1="97379b86db893136069f355a6bd52d769df7b057" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE).gdi" size="397" crc="5592a1be" md5="034ce713273bc8f41bc3860e05025e50" sha1="a3895c274e8c1bfdbfec4829aa9f0deedb4265e5" status="none" />
+	</game>
+	<game name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team)">
+		<description>Half-Life - Counter-Strike (v200901) (CSDC Dev Team)</description>
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 3).iso" size="796598272" crc="4c5ad8de" md5="42801303dce8e44d3c3cf7a3bfdac24f" sha1="8938af159dc5881e25240ea2f8b407b2ab6a17f8" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 5).iso" size="234362880" crc="9ce5b571" md5="e6b457fb7c28fa7b26a6bfc7ccc45bd9" sha1="e2f66b3be7cb8a8784f331c0730f388d535ade7f" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team).gdi" size="437" crc="27170e8a" md5="eacef359e98a2d2763d23fc64b582ecb" sha1="0e8e56bf40c6314d5707398e1efad5f3db28871e" status="none" />
+	</game>
+	<game name="Half-Life - Grunt (v20130220) (Evil Wesker)">
+		<description>Half-Life - Grunt (v20130220) (Evil Wesker)</description>
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 3).iso" size="814698496" crc="3f137230" md5="b38672ebc8b4e209ce48b431f6956403" sha1="9a223f90416d5758635ddc2d5840b40c14fb665c" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 5).iso" size="216262656" crc="867f2852" md5="e529409a268b7be1fc3fb5c2b55abe75" sha1="ef7efb86ea6e657e73e7ca2940b79c2606cd4d79" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker).gdi" size="392" crc="6e5c78aa" md5="820af7c4308a32e74b7652c84a3316d6" sha1="55581b9facb74a962e4807c8af9f85c07f2cd374" status="none" />
+	</game>
+	<game name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix)">
+		<description>Half-Life - Gunman Chronicles (v20150624) (Dreammatrix)</description>
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 3).iso" size="698595328" crc="17a84709" md5="32afd95d94e37d379f075e8991343c58" sha1="b7e274f018cb676102c12749ff574506d032219a" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 5).iso" size="332365824" crc="51736574" md5="aacd326fad2bce4b857e5038c59ab8c0" sha1="7280f3817a7ff79929be0ada7aba865fcfdaafc5" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix).gdi" size="452" crc="3f2722be" md5="5e7047941736fe1a20c85365973d28e5" sha1="e192604641581bddae3a2cc472566450139187f9" status="none" />
+	</game>
+	<game name="Half-Life - Opposing Forces (v20110610) (Unknown)">
+		<description>Half-Life - Opposing Forces (v20110610) (Unknown)</description>
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 3).iso" size="461283328" crc="9b5e8026" md5="facfd5558cf251623dcfe44bc04be02e" sha1="4bd9c61d2bdd5f89c3c487de06c5248537da5c6e" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 5).iso" size="569677824" crc="5d8414ad" md5="359ef4f9d7b4d094b86180e8aceba3c3" sha1="b85b617c49ac5016eba6e7fe94021c9accfc5937" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown).gdi" size="422" crc="30d54ce2" md5="d65721e2e25e26f4dd989dbda62212f9" sha1="8730ab2cc16436c4d7a246cebdaafc8aed571922" status="none" />
+	</game>
+	<game name="Half-Life - Paranoia (v1.1) (Various)">
+		<description>Half-Life - Paranoia (v1.1) (Various)</description>
+		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 1).iso" size="1241088" crc="6bf9ad3b" md5="ff7329c91585712ed4109f57ef4a853e" sha1="c54f72aa4127f130fe56eb17bf82bccc8f2e4f91" status="none" />
+		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 3).iso" size="272793600" crc="fa8fc59d" md5="4395b9719d3d79040cd65ce7ae2bd545" sha1="6f234844b7648c3dc723719e22a439816102a837" status="none" />
+		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 4).iso" size="1159168" crc="34bbf91a" md5="bdcb6f16176c0c4a9f54863d945ab18e" sha1="ae80e36df63ab5dba334fc7056eca78f9509f4b0" status="none" />
+		<rom name="Half-Life - Paranoia (v1.1) (Various).gdi" size="290" crc="696839f0" md5="f99ee77714e7917417ce8dc7473f2ded" sha1="6ad02058cdeae72e425b128d18d3480d85356f12" status="none" />
+	</game>
+	<game name="Half-Life - They Hunger (Dreammatrix, Deprogrammer)">
+		<description>Half-Life - They Hunger (Dreammatrix, Deprogrammer)</description>
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 3).iso" size="795541504" crc="8857e053" md5="f05dc7d6a073e418699d04de390cf499" sha1="366789a8054a254d71d331a0e8e6a8cb2f3438cb" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 5).iso" size="235419648" crc="63884d46" md5="729475b5d017b32af01b946f149b2cbc" sha1="aa63cf71065c91ab2037e28fb40f4ca7ac6da528" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer).gdi" size="432" crc="d5f7c0bc" md5="94abdeffa79764f73fe172b554bf366e" sha1="6b8c5b0cd086551bc68f196e056d32245abf257b" status="none" />
+	</game>
+	<game name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix)">
+		<description>Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix)</description>
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 3).iso" size="765704192" crc="ef760905" md5="5db530e91160c9c746ebd8ddf1b0e6ca" sha1="664c23a4999731f56e957b7954d04ebf4accad0c" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 5).iso" size="265256960" crc="f48ad3a2" md5="82184c688c4a5dfc355a931ebeac0aa7" sha1="09e4662b02c279f8a39baed65c77d788fa03dbdd" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix).gdi" size="442" crc="caee2547" md5="88d51e67280ed64b93e9a27442b5d5ee" sha1="81e28de0797764f362f44da53a5b1200b76fcd51" status="none" />
 	</game>
 	<game name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly)">
 		<description>L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly)</description>
