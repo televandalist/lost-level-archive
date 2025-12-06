@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20251130</version>
+		<version>v20251206</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -94,10 +94,6 @@
 	<game name="Pikmin 2 - Regrown (v2.0) (Ochrehorns)">
 		<description>Pikmin 2 - Regrown (v2.0) (Ochrehorns)</description>
 		<rom name="Pikmin 2 - Regrown (v2.0) (Ochrehorns).iso" size="1459978240" crc="e782b479" md5="44359cb46aa4ce72c92245e111e45243" sha1="2bddd46f01f5620fb64e5fe766ad4fcb21df535e" status="none" />
-	</game>
-	<game name="Pikmin 2 - Regrown (v2.1) (Ochrehorns)">
-		<description>Pikmin 2 - Regrown (v2.1) (Ochrehorns)</description>
-		<rom name="Pikmin 2 - Regrown (v2.1) (Ochrehorns).iso" size="1459978240" crc="737244ce" md5="c20e365e3ce7f1ece3fc9f8f5871e6fa" sha1="f5ca0490f1fcca80eec3f9b531bdd08868fe39ac" status="none" />
 	</game>
 	<game name="Pokemon Colosseum - Grand Colosseum - Hoenn Version (v2.0) (Kya)">
 		<description>Pokemon Colosseum - Grand Colosseum - Hoenn Version (v2.0) (Kya)</description>
