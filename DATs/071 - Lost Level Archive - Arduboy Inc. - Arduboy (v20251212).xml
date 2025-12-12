@@ -5,7 +5,7 @@
 		<id>071</id>
 		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy</name>
 		<description>Arduboy Inc. - Arduboy</description>
-		<version>v20250801</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -94,6 +94,14 @@
 	<game name="Tunnel Terror (World) (tomsk666)">
 		<description>"Tunnel Terror (World) (tomsk666)</description>
 		<rom name="Tunnel Terror (World) (tomsk666).hex" size="53453" crc="8bd52174" md5="261fc7523620b31920a1ca923a598f67" sha1="29f43d46eb39a970c23418506b523bc560a394b5" />
+	</game>
+	<game name="Vectramblex (World) (v1.00) (melanj)">
+		<description>Vectramblex (World) (v1.00) (melanj)</description>
+		<rom name="Vectramblex (World) (v1.00) (melanj).hex" size="78972" crc="ed0551f9" md5="d04cea8eddd015bf0d303c2d0de32b07" sha1="689d63ce685e913f8f5fb2b038a04c95dcf395bc" status="none" />
+	</game>
+	<game name="Vectramblex (World) (v1.01) (melanj)">
+		<description>Vectramblex (World) (v1.01) (melanj)</description>
+		<rom name="Vectramblex (World) (v1.01) (melanj).hex" size="79578" crc="f2974248" md5="dbabac22745717866e945c3b061f871b" sha1="53965e88973b7cfe098b0db930f19d161e242753" status="none" />
 	</game>
 	<game name="Video Poker (World) (delpozzo)">
 		<description>Video Poker (World) (delpozzo)</description>

@@ -127,6 +127,10 @@
 		<description>SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95)</description>
 		<rom name="SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95).iso" size="2095632384" crc="7e662ae7" md5="cfc229a78b1afbfc935e9769ccd8a062" sha1="a1040bc899cdd552ced158e2a12e112693cbde57" />
 	</game>
+	<game name="Senjou no Valkyria 3 E2 - Extra Edition (Japan) (En) (v2.0) (VC3TP)">
+		<description>Senjou no Valkyria 3 E2 - Extra Edition (Japan) (En) (v2.0) (VC3TP)</description>
+		<rom name="Senjou no Valkyria 3 E2 - Extra Edition (Japan) (En) (v2.0) (VC3TP).iso" size="1771300864" crc="190394de" md5="dd0e198cb5414fc11601f20bec1f48fa" sha1="1a69eec680c186efdb0225e27302aaa1104a0ee3" status="none" />
+	</game>
 	<game name="Shovel Knight Portable (v0.2.0) (Yerson Games)">
 		<description>Shovel Knight Portable (v0.2.0) (Yerson Games)</description>
 		<rom name="Shovel Knight Portable (v0.2.0) (Yerson Games).iso" size="144670720" crc="be61dfb3" md5="a972b004c9a3ec699e2dacb39134cf5f" sha1="0004feedac327dc8ae84cc113ff003458e765961" />
@@ -166,6 +170,10 @@
 	<game name="Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects)">
 		<description>Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects)</description>
 		<rom name="Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects).iso" size="767053824" crc="9e032ad9" md5="baedb9d53dce6d9269ec88c268aa6836" sha1="44f0d5bec7c4b313ca6db87984998421eec84610" />
+	</game>
+	<game name="Ys vs. Sora no Kiseki - Alternative Saga (Japan) (En) (v1.0) (The GeoFront)">
+		<description>Ys vs. Sora no Kiseki - Alternative Saga (Japan) (En) (v1.0) (The GeoFront)</description>
+		<rom name="Ys vs. Sora no Kiseki - Alternative Saga (Japan) (En) (v1.0) (The GeoFront).iso" size="1105534976" crc="dbac52ee" md5="522eb7e20823ee01cbec697c575afcb8" sha1="be4b1b36703e23943042c74a3c1d1dbedbe8f605" status="none" />
 	</game>
 	<game name="Zettai Zetsumei Toshi 3 - Kowareyuku Machi to Kanojo no Uta (Japan) (En) (v1.1) (Geo-City Productions)">
 		<description>Zettai Zetsumei Toshi 3 - Kowareyuku Machi to Kanojo no Uta (Japan) (En) (v1.1) (Geo-City Productions)</description>

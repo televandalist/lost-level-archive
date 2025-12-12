@@ -5,7 +5,7 @@
 		<id>072</id>
 		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20251029</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -494,6 +494,10 @@
 	<game name="Wasmanoid (World) (wasm4fun)">
 		<description>Wasmanoid (World) (wasm4fun)</description>
 		<rom name="Wasmanoid (World) (wasm4fun).wasm" size="23688" crc="d2020173" md5="7a2555eedc3623b57cb1ed0565e8238c" sha1="ce96fc9719fb8422d782fb3ef6ba3bdcbde8694b" />
+	</game>
+	<game name="WASMstein 3D (World) (v1.0) (Jeremy Zeiber)">
+		<description>WASMstein 3D (World) (v1.0) (Jeremy Zeiber)</description>
+		<rom name="WASMstein 3D (World) (v1.0) (Jeremy Zeiber).wasm" size="65059" crc="91ae0e2c" md5="a16c43936a0f7d0510fb1b7a57780174" sha1="4c7ae88f33a49a888adb8a9e0a5a410f0a6a844e" status="none" />
 	</game>
 	<game name="Watris (World) (Bruno Garcia)">
 		<description>Watris (World) (Bruno Garcia)</description>

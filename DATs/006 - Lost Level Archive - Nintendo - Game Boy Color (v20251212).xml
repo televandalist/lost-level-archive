@@ -443,6 +443,10 @@
 		<description>Ultima 3 (World) (v0.995) (Aftermarket) (Unl)</description>
 		<rom name="Ultima 3 (World) (v0.995) (Aftermarket) (Unl).gbc" size="1048576" crc="1e0f8c40" md5="b9c4a66858e58c8f57a84d405107d2a0" sha1="27fcd2fe59678e91a5946d7509153e71a28f447f" />
 	</game>
+	<game name="Undertale GBC (World) (v9.1.0) (Aftermarket) (Aki)">
+		<description>Undertale GBC (World) (v9.1.0) (Aftermarket) (Aki)</description>
+		<rom name="Undertale GBC (World) (v9.1.0) (Aftermarket) (Aki).gbc" size="2097152" crc="6ebd8ee6" md5="55d7672e6b2819f87eaf27714ff87294" sha1="8791da2aea9b69c574e272c59d52c227b5a382e9" status="none" />
+	</game>
 	<game name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)">
 		<description>Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)</description>
 		<rom name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl).gbc" size="32768" crc="210bce6a" md5="509a9b53e45415fa404b1f8c334e2f5b" sha1="5432978ad0ea805e9b807a87ddb6baabb73733d8" />
