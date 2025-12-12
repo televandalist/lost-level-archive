@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>025e</id>
+		<name>025e - Lost Level Archive - Atari - 2600 (Extras)</name>
+		<description>Atari - 2600 (Extras)</description>
+		<version>v20251212</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Aardvark (2019) (Oscar Toledo G., Thomas Jentzsch, Nathan Strum) (Extras)">
+		<description>Aardvark (2019) (Oscar Toledo G., Thomas Jentzsch, Nathan Strum) (Extras)</description>
+		<rom name="Aardvark (2019) (Oscar Toledo G., Thomas Jentzsch, Nathan Strum) - Manual.txt" size="7654" crc="d406fe79" md5="82c3eec1dcb7f0af191460845ee65795" sha1="f50c9ac3541f79b11e1ec78b44081f145c897d29" status="none" />
+	</game>
+	<game name="Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) (Extras)">
+		<description>Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) (Extras)</description>
+		<rom name="Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) - Box Back.png" size="7434931" crc="30a0f2bf" md5="cbe38ca88d95bc30a1d25f4e5e51453b" sha1="265a51d2bbe2466490aec3c622015f21f671626f" status="none" />
+		<rom name="Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) - Box Front.png" size="4508739" crc="3d959044" md5="610362a713ff2cb91df62207dc08e7c0" sha1="40662ed3d70578d73aee3ac18f0fb69a220f8589" status="none" />
+		<rom name="Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) - Manual 0.png" size="2326505" crc="36f75a03" md5="39b9bbad18a6b9570972f28f92e83285" sha1="8d4e96741f633f3e9b8aaf4d241bea34ba14ecd2" status="none" />
+		<rom name="Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) - Manual 1.png" size="3333455" crc="6438bb72" md5="283e24e8272a8293fd5951dc197883f0" sha1="2737166f6a5091e34a90f6f11fe417909d7383c5" status="none" />
+		<rom name="Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) - Manual 2.png" size="3300018" crc="72f3f007" md5="c7685e1a679d238ddf960257b2889e8f" sha1="6eb3c8fc50757d6937cf15e772d2347a74038c1f" status="none" />
+		<rom name="Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) - Manual 3.png" size="2438932" crc="4e69b902" md5="8b469a3b564f526868eb49740297f02f" sha1="3c36e00e58d9172502687c716e42a29f7e2ccde6" status="none" />
+		<rom name="Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) - Manual 4.png" size="2481206" crc="74b3afe9" md5="ef1b9c3b6a29f0305525a23fbf7f6db9" sha1="b70586c1f0354c60aafe3b119ad4b0c8245179d9" status="none" />
+		<rom name="Abyss of Chernobyl (v0.81) (Aftermarket) (Fehér János Zoltán) - Manual 5.png" size="2920519" crc="91ea07d1" md5="a4af3cb8b1ead0b405627ab166459a69" sha1="fb1a0d939bfc118f0310682503f57955bcad63e6" status="none" />
+	</game>
+	<game name="Alien Force (NTSC) (Nova32) - Extras">
+		<description>Alien Force (NTSC) (Nova32) - Extras</description>
+		<rom name="Alien Force (NTSC) (Nova32) - Manual.pdf" size="1491837" crc="4b510fed" md5="baee6d6b6d575c70f04306c5108a0815" sha1="6c4843354cbcd7e7d8f1fea1ae77479597fa560b" />
+	</game>
+	<game name="Cave Raider (NTSC) (Atarius Maximus) - Extras">
+		<description>Cave Raider (NTSC) (Atarius Maximus) - Extras</description>
+		<rom name="Cave Raider (NTSC) (Atarius Maximus) - Map.png" size="1011822" crc="92945895" md5="b1bb1eb3a806c3d470c647328dbf7520" sha1="5cd00bf082e83046f0be5dd3e48f344132b334a0" />
+	</game>
+	<game name="Duelo (NTSC) (Nomad Natan) - Extras">
+		<description>Duelo (NTSC) (Nomad Natan) - Extras</description>
+		<rom name="Duelo (NTSC) (Nomad Natan) - Manual.pdf" size="38777" crc="608b4bf7" md5="84b5e19ef2ca4d660fc914b30e57d9a3" sha1="5519283a9f7a85ff2c25b062791d7113c89314a3" />
+		<rom name="Duelo (NTSC) (Nomad Natan) - Wallpaper.png" size="1687671" crc="85311304" md5="59ffaba27a8d9b8c187a626dd49aabfd" sha1="e81fabfb702adad3b54775d03a3e10f5bf29c0d5" />
+	</game>
+	<game name="ElectroBall (v1.0) (Mike Littau) (Extras)">
+		<description>ElectroBall (v1.0) (Mike Littau) (Extras)</description>
+		<rom name="ElectroBall (v1.0) (Mike Littau) - Manual.pdf" size="141127" crc="8529057a" md5="1b185efb9e6d89239f7c890562020b4c" sha1="a5f913d0b187c2a4475a31e7c55ebd00261232a7" status="none" />
+	</game>
+	<game name="Immunity (NTSC) (Aftermarket) (Mike Losh) (Extras)">
+		<description>Immunity (NTSC) (Aftermarket) (Mike Losh) (Extras)</description>
+		<rom name="Immunity (NTSC) (Aftermarket) (Mike Losh) - Manual.pdf" size="40658" crc="52682fe7" md5="9c7af1d061a81d89f793493cbb316327" sha1="f09cffa748d06c2a1946a659e64851867d49dd23" status="none" />
+	</game>
+	<game name="Mr. Yo-Yo (NTSC) (Aftermarket) (David Marli) (Extras)">
+		<description>Mr. Yo-Yo (NTSC) (Aftermarket) (David Marli)  (Extras)</description>
+		<rom name="Mr. Yo-Yo (NTSC) (Aftermarket) (David Marli) - Manual.docx" size="25912" crc="1e2aa3c1" md5="6e3c3cb19054c526c5893823bbe258b9" sha1="af14613eeda5202c03b03560bde303321408fe8b" status="none" />
+	</game>
+	<game name="Omicron 2K (NTSC) (Aftermarket) (seemo) (Extras)">
+		<description>Omicron 2K (NTSC) (Aftermarket) (seemo) (Extras)</description>
+		<rom name="Omicron 2K (NTSC) (Aftermarket) (seemo) - Label.png" size="304975" crc="2418115b" md5="feefd6acae991ae622df264cac318f19" sha1="da468ec69c113d7aa034d8efb7f95ecb2669e7f9" status="none" />
+		<rom name="Omicron 2K (NTSC) (Aftermarket) (seemo) - Readme.txt" size="2341" crc="2740819f" md5="40ddb83e10d8e3489a74cceaabcd657a" sha1="0e32e0218e890984104ee8c1f47013abc0d91963" status="none" />
+	</game>
+	<game name="Robot City (v1.01) (Aftermarket) (Thomas Jentzsch) (Extras)">
+		<description>Robot City (v1.01) (Aftermarket) (Thomas Jentzsch) (Extras)</description>
+		<rom name="Robot City (v1.01) (Aftermarket) (Thomas Jentzsch) - Manual.txt" size="3901" crc="44913fba" md5="e16def6768edccae0ac7ca2ca0865b4a" sha1="66b081bd4b46a5dcd62ad917d09a98750ad92120" status="none" />
+	</game>
+</datafile>

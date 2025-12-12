@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20251129</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -167,6 +167,13 @@
 		<rom name="Medievil (USA) (Prototype) (1997-09-07) (All Levels, Debug2) (SCEE) (Track 1).bin" size="321071520" crc="4bf61244" md5="d6685268d723bceae318ef38f78618fa" sha1="f33a64438bfef2c6514fe8d2529f16f29e9c8991" />
 		<rom name="Medievil (USA) (Prototype) (1997-09-07) (All Levels, Debug2) (SCEE) (Track 2).bin" size="32970336" crc="9398f2c7" md5="42c47549179d745454b38082f3820cf5" sha1="b059e2710609eb3a79214805aa99f9361093a5ef" />
 		<rom name="Medievil (USA) (Prototype) (1997-09-07) (All Levels, Debug2) (SCEE).cue" size="281" crc="5ab63332" md5="8b1985437753ac990cbb96d383afb84d" sha1="3e2c8b966e631fe22da3c0c24022802bd393c633" />
+	</game>
+	<game name="Mega Man 8 (USA) (Undub) (v1.4) (Acediez)">
+		<description>Mega Man 8 (USA) (Undub) (v1.4) (Acediez)</description>
+		<rom name="Mega Man 8 (USA) (Undub) (v1.4) (Acediez) (Track 1).bin" size="424493664" crc="cf8eb77b" md5="a95b3d833da18eb0c0aad909ebf0b88b" sha1="99437f16b05434193035cc73de6e456a44a4326c" status="none" />
+		<rom name="Mega Man 8 (USA) (Undub) (v1.4) (Acediez) (Track 2).bin" size="47030592" crc="9bf32be4" md5="a75dcbb5c831a966c47563e7ea4150c9" sha1="70e4bddd2a67ab7e2ccea0c836c7e9190f307241" status="none" />
+		<rom name="Mega Man 8 (USA) (Undub) (v1.4) (Acediez) (Track 3).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" status="none" />
+		<rom name="Mega Man 8 (USA) (Undub) (v1.4) (Acediez).cue" size="387" crc="84814164" md5="7307955a86f6501de73d83c4fe14ca22" sha1="eb74380de4a8c6852dd8ebf10dd325afa5182254" status="none" />
 	</game>
 	<game name="Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)">
 		<description>Mega Man Legends 2 (USA) (Pt) (v1.0) (Rafa4k)</description>

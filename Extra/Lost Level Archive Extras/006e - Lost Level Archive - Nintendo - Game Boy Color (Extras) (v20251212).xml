@@ -2,10 +2,10 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<id>004e</id>
-		<name>004e - Lost Level Archive - Nintendo - Game Boy Color (Extras)</name>
+		<id>006e</id>
+		<name>006e - Lost Level Archive - Nintendo - Game Boy Color (Extras)</name>
 		<description>Nintendo - Game Boy Color (Extras)</description>
-		<version>v20251129</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -24,6 +24,10 @@
 		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg) - Box Art.pdf" size="1455450" crc="b7dc26df" md5="e2f2a2b9ebf06d5e4cb396520d40a958" sha1="5ac0e78c1306133068e91b89ee9076ecfd385524" status="none" />
 		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg) - Cartridge Sticker.pdf" size="80974" crc="da44f19f" md5="b97dcb2fe52014609ce8c52b74f26403" sha1="661d3bffbc195fbfb075f0f2267efd1962b43f4f" status="none" />
 		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg) - Manual.pdf" size="1232449" crc="37219b4e" md5="6a2e59057810acf7de49ac46c84fa2a9" sha1="937a18087105be3b3059ed16ccde290618e01f00" status="none" />
+	</game>
+	<game name="Sqrxz (World) (v0.95) (Aftermarket) (Icarus Productions) - Extras">
+		<description>Sqrxz (World) (v0.95) (Aftermarket) (Icarus Productions) - Extras</description>
+		<rom name="Sqrxz (World) (v0.95) (Aftermarket) (Icarus Productions) - Manual.txt" size="5650" crc="dfc3dd0d" md5="a81e287d33a767d104686c2b8e19384f" sha1="ffe988a9da159e9838b8c4e151a1f363003bf285" status="none" />
 	</game>
 	<game name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Extras">
 		<description>TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Extras</description>

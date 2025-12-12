@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20251201</version>
+		<version>v20251212</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -172,6 +172,10 @@
 	<game name="Delia - The Traveling Witch (World) (v1.5) (Aftermarket) (GB Studio)">
 		<description>Delia - The Traveling Witch (World) (v1.5) (Aftermarket) (GB Studio)</description>
 		<rom name="Delia - The Traveling Witch (World) (v1.5) (Aftermarket) (GB Studio).gb" size="1048576" crc="0fdbc833" md5="12b829b53cbd7b671d0f24bd2bccb585" sha1="29529384625855ba0745a6158d0a48c9b0d238b9" />
+	</game>
+	<game name="Deltarune 1989 (World) (Aftermarket) (GB Studio) (Rainbomb Productions)">
+		<description>Deltarune 1989 (World) (Aftermarket) (GB Studio) (Rainbomb Productions)</description>
+		<rom name="Deltarune 1989 (World) (Aftermarket) (GB Studio) (Rainbomb Productions).gb" size="1048576" crc="9cc066a7" md5="c7e5a9dc2aecbc8c605a8a6fe14e7364" sha1="6571d7dee055c0347112d17149a99565bfa60279" status="none" />
 	</game>
 	<game name="Desert Bus (World) (Aftermarket) (Unl)">
 		<description>Desert Bus (World) (Aftermarket) (Unl)</description>

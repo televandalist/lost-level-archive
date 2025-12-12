@@ -5,7 +5,7 @@
 		<id>039</id>
 		<name>039 - Lost Level Archive - Sega - Saturn</name>
 		<description>Sega - Saturn</description>
-		<version>v20251201</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -41,6 +41,15 @@
 		<description>Hellslave - Project Z-Treme (USA) (v0.361) (Aftermarket) (XL2)</description>
 		<rom name="Hellslave - Project Z-Treme (USA) (v0.361) (Aftermarket) (XL2).bin" size="503431488" crc="799173aa" md5="73817d9afe083295e7098fedfd96834d" sha1="12bff7765b02fb1277e39172e0dc0410dacd181c" status="none" />
 		<rom name="Hellslave - Project Z-Treme (USA) (v0.361) (Aftermarket) (XL2).cue" size="559" crc="719dacf4" md5="6ae7984057751107f44e52016b707971" sha1="d781065c37854a5d12dc03350db0f7fe7898c6e3" status="none" />
+	</game>
+	<game name="IRRÉEL (v0.018) (XL2) (RA Compatible)">
+		<description>IRRÉEL (v0.018) (XL2) (RA Compatible)</description>
+		<rom name="IRRÉEL (v0.018) (XL2) (RA Compatible) (Track 1).iso" size="7110656" crc="d4575bcc" md5="e7485a0ef8ebbf9bf9ea1cc256a77629" sha1="38bb1c99cddc989905854a6791af968bb479d96c" status="none" />
+		<rom name="IRRÉEL (v0.018) (XL2) (RA Compatible) (Track 2).wav" size="26113358" crc="b9846573" md5="c485fcae20d4354f39b8c56b2a3ea72c" sha1="e1f218b31c4401ae823b8675b1a27486dd9589a4" status="none" />
+		<rom name="IRRÉEL (v0.018) (XL2) (RA Compatible) (Track 3).wav" size="9169486" crc="d03e3d8c" md5="6fab068c748a0a2c5ba44928925d924e" sha1="d8122074c3c7576cd2e2059406bb06e8059a4471" status="none" />
+		<rom name="IRRÉEL (v0.018) (XL2) (RA Compatible) (Track 4).wav" size="23906904" crc="ca3ea95c" md5="7c8d72949f5a6df98eb77fe42b9d7263" sha1="8b28d5ae812f27fa9f1bcde5bbd1b9d99354cc8f" status="none" />
+		<rom name="IRRÉEL (v0.018) (XL2) (RA Compatible) (Track 5).wav" size="9934764" crc="6f6cc817" md5="5ea17f35a0fa8abda2674a3e0f36705e" sha1="74b0bbae12b855e04ca0042e3000af9fd31f5290" status="none" />
+		<rom name="IRRÉEL (v0.018) (XL2) (RA Compatible).cue" size="589" crc="1ad2376b" md5="04f55ad1ab2c499a42d5434207cf7999" sha1="c9ae9cc71ce89f70e5294dbe653b6296b3f3282b" status="none" />
 	</game>
 	<game name="Magic Knight Rayearth (USA) (Undub) (v1.0) (Rep_Plus_^-^)">
 		<description>Magic Knight Rayearth (USA) (Undub) (v1.0) (Rep_Plus_^-^)</description>

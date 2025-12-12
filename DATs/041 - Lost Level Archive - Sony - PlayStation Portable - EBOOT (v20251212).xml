@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (EBOOT)</name>
 		<description>Sony - PlayStation Portable (EBOOT)</description>
-		<version>v20251201</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -132,6 +132,31 @@
 		<rom name="EBOOT.PBP" size="876225" crc="be8910ed" md5="8b28186ef3a35501c807dbf6f58d4853" sha1="b1a6290c4f498e5e5272bfde1343bdc4a3e2b79b" />
 		<rom name="Lostland_readme.txt" size="1299" crc="7aee0176" md5="8e7fe294d9f513518089b6598df9dc89" sha1="83fb71e20eccdbd59248479ce76ba3df6ee1f8f2" />
 		<rom name="readme.txt" size="1673" crc="e1535702" md5="a810d46f34b02cd37b9a6970df11da66" sha1="d9cd5a8d2da613f04b278585dccdc02965937d2f" />
+	</game>
+	<game name="Cave Story - Balrog Rush (v20100712) (Andwhy)">
+		<description>Cave Story - Balrog Rush (v20100712) (Andwhy)</description>
+		<rom name="data.csz" size="1474760" crc="41d1e75f" md5="62a7a70a4d51ecb5b80f6a97d7c7adf0" sha1="e35ec92db405d0fec8d263eb576fe965bc63753f" status="none" />
+		<rom name="EBOOT.PBP" size="819807" crc="d8dafe0f" md5="42415c2b9dff8808e7240966022bc99f" sha1="b25c5e78e5ba16ae272408e236b35d3187cad03b" status="none" />
+	</game>
+	<game name="Cave Story - Boss Rush (v20100731) (SeriousFace, Andwhy)">
+		<description>Cave Story - Boss Rush (v20100731) (SeriousFace, Andwhy)</description>
+		<rom name="data.csz" size="1429233" crc="b218c6b2" md5="ea6561575869456fe2f3c45c88676e30" sha1="824eff0cfc0ba689ef56e3b1af5741720009474e" status="none" />
+		<rom name="EBOOT.PBP" size="831303" crc="5edcf50d" md5="fac95afc35d3f72d1b5986def75abfc5" sha1="a6eaecec5319b2bc9addda9272634a6a994d486f" status="none" />
+	</game>
+	<game name="Cave Story - Comedy Story (v20100731) (Andwhy)">
+		<description>Cave Story - Comedy Story (v20100731) (Andwhy)</description>
+		<rom name="data.csz" size="1436756" crc="0f1c59d6" md5="ab09004e942e86033546e391245ee52f" sha1="d41fd54f717559e74b909b990359122eeb73123c" status="none" />
+		<rom name="EBOOT.PBP" size="877639" crc="68f0fe44" md5="75e2ea160bcc64ab92ebcc92b379f035" sha1="c2ba0bfad6d76724956126217214e2040ad759c3" status="none" />
+	</game>
+	<game name="Cave Story - Death Story (v20100731) (Andwhy)">
+		<description>Cave Story - Death Story (v20100731) (Andwhy)</description>
+		<rom name="data.csz" size="1467559" crc="fe5c96c7" md5="ea10dfce905bcbe7d4e72f10ff971b6f" sha1="5943fc827c59d086258ec734a757f8ac1d1e11c0" status="none" />
+		<rom name="EBOOT.PBP" size="822343" crc="be983647" md5="7cd6098771369c2473ae6ac57a61e70f" sha1="6b080b93bfc4cfa0f46a99f7b257a3083f6a072f" status="none" />
+	</game>
+	<game name="Cave Story - Jenka's Nightmare Revived (v20120316) (Andwhy)">
+		<description>Cave Story - Jenka's Nightmare Revived (v20120316) (Andwhy)</description>
+		<rom name="data.csz" size="1738922" crc="2597e161" md5="3ce550f5fc28589063692bf427a791b5" sha1="97b71113d04348fadbf85b7934f7d8985942a479" status="none" />
+		<rom name="EBOOT.PBP" size="839034" crc="c8ff6400" md5="1d8306aa1b26ae22799cb8835d254db9" sha1="0d1d6fcf87f232d86d715b11cb60f21f27442164" status="none" />
 	</game>
 	<game name="Clever Frog (v2011-02-08) (vanek-ridal)">
 		<description>Clever Frog (v2011-02-08) (vanek-ridal)</description>
@@ -5787,6 +5812,80 @@
 		<rom name="VAMPIRE.DXD" size="232984" crc="ef102597" md5="2680e54662ea3b75304c966782bc7882" sha1="17d6cca98b29ba24b8ea2a6fb4b56257aa106c31" status="none" />
 		<rom name="WINNER.DXD" size="153672" crc="e34625be" md5="3b7af66425f5548882ce6ad1f2d5cd73" sha1="09749697497a356002cadd19b4c6172774428849" status="none" />
 		<rom name="WITCH.ADX" size="58948" crc="5ac7082d" md5="ca4544ee7d312170bab76dfb3af39e76" sha1="479fb4a311a29215f732a71944ed762161a3a1cb" status="none" />
+	</game>
+	<game name="Unofficial Cave Story - Return to World (v20080321) (leviadragon)">
+		<description>Unofficial Cave Story - Return to World (v20080321) (leviadragon)</description>
+		<rom name="a1.jpg" size="88413" crc="d5243040" md5="c1164d38b7dd625c62f28749c73bcb74" sha1="4e97760229855d871662956d93facb1a9a655e5d" status="none" />
+		<rom name="a2.jpg" size="117563" crc="3830fc44" md5="44d009b0536c0892234b2b05db428dce" sha1="62a50d3c28fa274bf616889998ea587aa02e2db0" status="none" />
+		<rom name="a3.jpg" size="126559" crc="b4bfffba" md5="fcb0a8003c24e8a5ab5ac6b221654ab3" sha1="bb749944bfb432f5413f8d06634055933ab4a4ec" status="none" />
+		<rom name="a4.jpg" size="91024" crc="5a777bd4" md5="0e719039fc4a15e12cf308d5cb68f031" sha1="6ac32f37e6350312c185b55ad2e798e77d89da21" status="none" />
+		<rom name="a5.jpg" size="59671" crc="d914502e" md5="ce2cc8e60c02d152d072f2618cbf1c00" sha1="acffaab920f2ac7bc1b355252f7593bd605649f3" status="none" />
+		<rom name="a6.jpg" size="100687" crc="49fdfc08" md5="0717234a6d40834932ceb89534d1aece" sha1="b650db6176228e5af823cfa5ece0466e3136ba04" status="none" />
+		<rom name="animLib.lua" size="5869" crc="def0b995" md5="1f940a80ecce4850e3ba53c9c48c12da" sha1="109327ac8bf5d3aa6828a2c953dc6cf3f7c428a0" status="none" />
+		<rom name="blocco.png" size="3496" crc="c4ba89a6" md5="c08a2dbd9de2f37bd5a1d132b2d7b4f9" sha1="9d4c9efb0282d3229761218b5709b1c0ccb0cae0" status="none" />
+		<rom name="boss.png" size="4401" crc="2b769381" md5="0bffdb964e054d14dcbd114c6469a89c" sha1="2aafe76a3055ee0a736b9314ffed292e846f08a6" status="none" />
+		<rom name="bullet.png" size="3030" crc="f5208d85" md5="547f652894e6c62beed93e39d5b1291e" sha1="c98f70e8712102110ca47b6479a1250a1f1a5bbb" status="none" />
+		<rom name="c1.png" size="535" crc="fef30cdd" md5="d88cfacb3e9ac607d77079bc3598bcb0" sha1="cd8e322b9432e6686c5d2386f273356334f45443" status="none" />
+		<rom name="c1l.png" size="3236" crc="a06a4a4c" md5="0663d0d393dc09c1520494c63f36e074" sha1="2f15ed6432c0703c95d641ae1442442b3c67cab8" status="none" />
+		<rom name="c2.png" size="533" crc="de84127a" md5="5b3e8e17a0230a43188c83596d491b5c" sha1="1bb6586011d09c0109d0bdb8ce2a752364f06f2b" status="none" />
+		<rom name="c2l.png" size="3254" crc="ade9b035" md5="d8e243100b03125ec30de6a712aef488" sha1="5383157de25e4c84051d0abc21a5d168d3f69cee" status="none" />
+		<rom name="c3.png" size="533" crc="3b6b6e86" md5="65305cd0ae40f4ad75bab51ac3b15a01" sha1="169dc6fb734b5f3562b5403ea1bde22eddab8e04" status="none" />
+		<rom name="c3l.png" size="3217" crc="0fd3853b" md5="44b42a6d123cfe070f6aa73ff02c5f4b" sha1="e62c8b628a5e9a30718c99f30fb3437ad0091b8a" status="none" />
+		<rom name="c4.png" size="533" crc="de84127a" md5="5b3e8e17a0230a43188c83596d491b5c" sha1="1bb6586011d09c0109d0bdb8ce2a752364f06f2b" status="none" />
+		<rom name="c4l.png" size="3254" crc="ade9b035" md5="d8e243100b03125ec30de6a712aef488" sha1="5383157de25e4c84051d0abc21a5d168d3f69cee" status="none" />
+		<rom name="Cavestory.lua" size="21197" crc="adeaa0b2" md5="e3296d67e6456513280c668bfe1ba159" sha1="90e4d34b1bce802f5c824d1f8e0a2962ca81b9f7" status="none" />
+		<rom name="cloud.png" size="6381" crc="eb150a4e" md5="9afffc92e36bca400a5b2078c705e4eb" sha1="edda8670561fdeaf1143b234b0072c5d341cdcac" status="none" />
+		<rom name="cloudnight.png" size="6269" crc="1d9f0338" md5="b215e9d3af415bcb9eaf1486a4c94175" sha1="583f243b35f442d11774606c17f195ad4242e914" status="none" />
+		<rom name="cocodile1.png" size="3036" crc="e3be2589" md5="5bb9b27ce205035ad6aaa71937526aac" sha1="f06fdcb0193b96cc6cec4c406e65ac2302fae140" status="none" />
+		<rom name="cocodilea.png" size="4013" crc="ae4407a5" md5="4f31bb18ab84749c29fd76d3209ccd17" sha1="933d3ebf6824b01304a3cc94c38c8126c60bf240" status="none" />
+		<rom name="Copia di cloudnight.png" size="6396" crc="b4afbc91" md5="981919b5399c36cbf34814b03ef21dcc" sha1="c59d8d5407ce79aa4a8573ed5043af757e1b110b" status="none" />
+		<rom name="Copia di sfondo1.png" size="30549" crc="f0a624c9" md5="14c7bca9d889014dbde23d740bd1338e" sha1="da0ded093f9d6107810646cc16958d168f2e266e" status="none" />
+		<rom name="credits.lua" size="1633" crc="e78d8512" md5="0d921febc630d8ec59d3dcc3b2092bab" sha1="7694918f3bcf9a84be8458ff4f005e7eac5ee12c" status="none" />
+		<rom name="drago.png" size="3735" crc="742f99c1" md5="159f8051a193d83640b930f7bd9526b7" sha1="f5df5a51a592c01d8d2ba0300a83ff016f448107" status="none" />
+		<rom name="dragoa.png" size="3694" crc="ed761b42" md5="7fe5a78fad19905ff46d54fe995fca60" sha1="29972786d061356f84360dbfe0f0a6c50576f30b" status="none" />
+		<rom name="dragoleft1.png" size="3233" crc="793a9f1d" md5="4cc9a240532355b40b526c394cc4e720" sha1="2c0e42f2ba03f51abb616ebdae59b203bee91e60" status="none" />
+		<rom name="dragoleft.png" size="3267" crc="7d28b575" md5="c153e81c1c25c8e51d611375e05c6599" sha1="fac48552fc4753e0efc6ba2f4415745c78fa58c6" status="none" />
+		<rom name="dragolefthit.png" size="3615" crc="6b5cd49f" md5="eccbe0d7986424ab9e3ca526e01fe1dd" sha1="e1f7e5500f41d79cd38912c62856b7680329068c" status="none" />
+		<rom name="dragolefthita.png" size="3574" crc="ebae5630" md5="f8eaa0671fb471e7a881832cc70483c5" sha1="77a103f84127bcd7e0322399a167af4dc3e21d06" status="none" />
+		<rom name="dragoright1.png" size="3239" crc="530aa7d3" md5="bd4680b0bc9168627789dbf6bbb707f8" sha1="2e2f06ce8213c0718d84f2227182b016a76630a1" status="none" />
+		<rom name="dragoright.png" size="3271" crc="67090244" md5="c3860860cd7dd48f31cdf3330ac36cee" sha1="bcd4185a555281ca865785bc2ccf04b0640cd9a8" status="none" />
+		<rom name="dragorighthit.png" size="3555" crc="3a74f90b" md5="4c3f9266c364d4375179db3f1771dd9e" sha1="9962dd64a886f6b85ad2dd7f8f0aadc173d4a482" status="none" />
+		<rom name="dragorighthita.png" size="3593" crc="d1003008" md5="8487b896bbc0a651211793a760b3591d" sha1="1c5da5e28dd1d5f8915ee608f223a5476913c449" status="none" />
+		<rom name="EBOOT.PBP" size="1847968" crc="293e987f" md5="976ecdccb816904e1f37c7c1038af5b3" sha1="2eac3e4d9cd179c83bbc10147324aa4dd5fc7bf1" status="none" />
+		<rom name="fall.png" size="4667" crc="3ffc33dc" md5="b88fd8da5c6dae27e0023da03441af9c" sha1="207f729170b8e52c41461b2fc98c69a8cfae50fc" status="none" />
+		<rom name="freccia.png" size="4781" crc="b1b1090c" md5="e235c77ef8d525d108eef28117620894" sha1="fbc697e25b9e8e5e91ee79467f720fa138d70efa" status="none" />
+		<rom name="girl1.png" size="488" crc="6e95a008" md5="a9e5083eb466259f92f3552b54605e15" sha1="d75b880cc033b2ca835112f013af3e4fc2c55df9" status="none" />
+		<rom name="girl1l.png" size="3186" crc="fda08190" md5="d8fdd9098e698500d76dc5a106e4e3f0" sha1="34a83fe0dfb3ca90dfbcbb79b0b502aaeddc3855" status="none" />
+		<rom name="girl2.png" size="495" crc="adc9462b" md5="c835590a5fb5831e15c2f443f64804de" sha1="882782f31dc92b472a1c775e4919a7c2d520def7" status="none" />
+		<rom name="girl2l.png" size="3165" crc="38ce0f84" md5="6b9a263a829ec557e03c8d2962088359" sha1="5d43d4dacc1e834c14cf2810dc8c71444d99efdb" status="none" />
+		<rom name="girl3.png" size="3159" crc="c9f2ae57" md5="637d83de0fa97d7647f48b3eaf57e026" sha1="3edabcc5ba0c5dc684fc716215d2727256a6984d" status="none" />
+		<rom name="header.png" size="3407" crc="4accba26" md5="5d8523b8c3044a9d84954e7d61f0641d" sha1="3deed851991f94eba25f5af0dd6c7f7636c028e0" status="none" />
+		<rom name="ICON0.PNG" size="11689" crc="e624b7b5" md5="f2144ef9e2b303900680120e8206b899" sha1="4c7430dbf382972bb49f7e048b4e08e3b2b35e91" status="none" />
+		<rom name="island.png" size="6380" crc="54c3d475" md5="f508a4f37e6ea690e971b69f9857b5c6" sha1="f50cdfce0501551e5e6b6155b9a9fe71a1e454b7" status="none" />
+		<rom name="mimiga1.png" size="3458" crc="113f082b" md5="3ed32de73718bb4e429a1af0f51f7f39" sha1="06df75d6bac336b35fa9d13687f92beebacbd28a" status="none" />
+		<rom name="mimiga2.png" size="3568" crc="49072466" md5="db6b842cd148f5cea94a5ec583b84615" sha1="2a39da876b0731e455bf3e9d1a0c4334244451fb" status="none" />
+		<rom name="mimiga3.png" size="3563" crc="ec40d399" md5="ea5c029fd20b4e12242884a388d1ce78" sha1="f654b9ef7e8ad2559ecaa44430a6f29d3f920669" status="none" />
+		<rom name="Mimiga Townfromoriginalalbum.mp3" size="1257251" crc="9e654255" md5="1a17e026c3f147690b899bba6c5f2168" sha1="9049e0dc810488bb7f6c7ac8b98c7a803f08dad6" status="none" />
+		<rom name="moon.png" size="4830" crc="8a524e28" md5="e957e978f143b75a1df2f7e6bdd8a39e" sha1="ad648148b9f7a1ed87314630792b80232f09fc33" status="none" />
+		<rom name="primo.png" size="6599" crc="941de8e2" md5="461f8b5e1ea6beedc1eaaafe5b93b0f8" sha1="c7c6382febe18e84ff3e959fc790a949b534de0a" status="none" />
+		<rom name="primor.png" size="6740" crc="2036e39a" md5="47701cd68a473f44ba13a94f19b8165b" sha1="dc8e82bea0c64ba9d8be0a2ee20b2e14f7c42864" status="none" />
+		<rom name="readme.txt" size="696" crc="67d0e06e" md5="66bcd4802bb909a5e09991de7d4fe9ae" sha1="24f3ca3a9ddfe6e17a524ce9fb33820f49449c04" status="none" />
+		<rom name="script.lua" size="3102" crc="3ca982f1" md5="b955a7f85f241e00afb51307764900df" sha1="fd3ee8a0b8e991351c9496888b9f5fc01e85824f" status="none" />
+		<rom name="secondo.png" size="7813" crc="50e73e85" md5="6f858ec7415d9ceed150a64898fcab23" sha1="fc5f941a4d4fde1e0d6a2dee78c22a8544c31b9c" status="none" />
+		<rom name="secondor.png" size="7813" crc="50e73e85" md5="6f858ec7415d9ceed150a64898fcab23" sha1="fc5f941a4d4fde1e0d6a2dee78c22a8544c31b9c" status="none" />
+		<rom name="secondors.png" size="7428" crc="0d145d49" md5="074675fee5adf7515cc098a8e3e427d9" sha1="f5de1ae26acb9aa5c8b91569c746823d26aa2e09" status="none" />
+		<rom name="sfondd.png" size="17108" crc="4847656f" md5="8c2267fa775be7687e1611a7f6bb61a1" sha1="b84fbe14b59265da1cd04814434797267d7ec0cc" status="none" />
+		<rom name="sfondo1.png" size="30549" crc="f0a624c9" md5="14c7bca9d889014dbde23d740bd1338e" sha1="da0ded093f9d6107810646cc16958d168f2e266e" status="none" />
+		<rom name="sfondo1a.png" size="30768" crc="a04dc284" md5="52485189c39db72b79f323430c43e0fa" sha1="30016fe7eb61ffc3dba5a5a9ddf95c5368fd0814" status="none" />
+		<rom name="sfondo.png" size="37565" crc="3cb015b1" md5="4095496147cd821f2ecacf43dc9f1164" sha1="be1764588a24059a19a9941ff587bd77ada10506" status="none" />
+		<rom name="sfondonight.png" size="30379" crc="ebe9bf25" md5="9ea7b462786c5f06a9fef88d131a8469" sha1="b67aa28b4b0812b1f81b822fd08ab0af62b736ae" status="none" />
+		<rom name="sfondonighta.png" size="30614" crc="6f62997a" md5="d39382c8cf3fe8aaa5c5fd5079e772ad" sha1="ca6b63363c279f869f954ad6742ca134bddf8a5f" status="none" />
+		<rom name="splash.png" size="189501" crc="b14861e4" md5="bfa413e27a4a62c78e68854978aa0cb5" sha1="a07f917711c589249df1b15ccd2d8c16736b2b3a" status="none" />
+		<rom name="terzo.png" size="9450" crc="1cb09439" md5="ca5fd54c5151802b76ca972a43de2803" sha1="7b9b2e84a3a5a075ab2639cb3613c8ef37c9f563" status="none" />
+		<rom name="terzor.png" size="8873" crc="18d8d273" md5="f99d615a423c50c365f4a1930786880a" sha1="600d7c28646a1ec145ec392e55f3e694045790a4" status="none" />
+		<rom name="title.png" size="4198" crc="fed6f6ab" md5="5a9d58c053bcd8b1951b6aa746dcf2de" sha1="e84bebf29690ee22b20653a24d768a8e4e9e37e0" status="none" />
+		<rom name="under.png" size="60187" crc="f2e84719" md5="744597d7096e32ef2c37cf69ae7d4083" sha1="2e63acb13d014de48dbd98b02b2ee46a828699d2" status="none" />
+		<rom name="wall.png" size="8078" crc="ea9f3e3e" md5="920ef7ba2cfeff7328abab55dcd83c12" sha1="a011c99450898bbdd2a908eb4d475f4be3346543" status="none" />
 	</game>
 	<game name="Wagic the Homebrew (World) (v0.25.5) (Aftermarket) (Eduardo Munoz Gomez)">
 		<description>Wagic the Homebrew (World) (v0.25.5) (Aftermarket) (Eduardo Munoz Gomez)</description>

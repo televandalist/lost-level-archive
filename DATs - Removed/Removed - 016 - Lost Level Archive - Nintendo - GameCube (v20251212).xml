@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>016</id>
+		<name>Removed - 016 - Lost Level Archive - Nintendo - GameCube</name>
+		<description>Removed - Nintendo - GameCube</description>
+		<version>v20251212</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="BFBBMix (v5.06) (skyweiss)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
+		<description>BFBBMix (v5.06) (skyweiss)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="BFBBMix (v5.06) (skyweiss).iso" size="834306048" crc="252ce672" md5="a7d63448fde422621909b042864f6a27" sha1="24884bb8e6533b85857c1cae328760c6142bc362" />
+	</game>
+	<game name="Five Nights in BFBB (v1.4) (Gravity)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
+		<description>Five Nights in BFBB (v1.4) (Gravity)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Five Nights in BFBB (v1.4) (Gravity).iso" size="1232928768" crc="258d3fc6" md5="7151229c7e3d6397fb14537557ea3c60" sha1="01d11b7293e4c6b205b6dcabfb431ade38266e2c" />
+	</game>
+	<game name="Floating Block Forever (v2023-02-11) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
+		<description>Floating Block Forever (v2023-02-11) (Eyepie)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Floating Block Forever (v2023-02-11) (Eyepie).iso" size="847740928" crc="7befd980" md5="765dc69018a6f51ebb3c44200b9e5b3c" sha1="c3179cf953f92ed0aa773b9486e7203c21261e49" />
+	</game>
+	<game name="Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan) (En) (v1.0) (SuperrSonic)">
+		<description>Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan) (En) (v1.0) (SuperrSonic)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan) (En) (v1.0) (SuperrSonic).iso" size="553749760" crc="368d2acd" md5="1cb2535c8da42c4c7bc926d5f39f6ea7" sha1="01c80bf0395ec98f41a3529086149e49df4796d6" />
+	</game>
+	<game name="Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ)">
+		<description>Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ).iso" size="1102137344" crc="c15ab5f1" md5="9ddce0cc0c508c63e2bfbf0c4c7515bd" sha1="eb83ab9ecffe760be2c60f0f9c9912a573164809" />
+	</game>
+	<game name="Movie Mashup (v1.0) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
+		<description>Movie Mashup (v1.0) (Eyepie)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Movie Mashup (v1.0) (Eyepie).iso" size="581435392" crc="007bccbd" md5="0c055649336ee34ac47e4a54e709d1cf" sha1="cfcb59ed719bc83651d4adbfffa5bab7e8501eb2" />
+	</game>
+	<game name="Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread)">
+		<description>Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread).iso" size="1459978240" crc="fa9bc8ed" md5="8c9c4a098a9a4fc18854292e5dd58d27" sha1="d58c5603d5f46d59fb051eb57b7e99e338ad14e4" />
+	</game>
+	<game name="Pokemon Colosseum - Grand Colosseum - Hoenn Version (v2.0) (Kya)">
+		<description>Pokemon Colosseum - Grand Colosseum - Hoenn Version (v2.0) (Kya)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Pokemon Colosseum - Grand Colosseum - Hoenn Version (v2.0) (Kya).iso" size="1460126752" crc="75bbd086" md5="4861d3b2919a82f291b663879197ccb0" sha1="1903d80b1696fe33c5e5f858b60805f10b1e972f" />
+	</game>
+	<game name="Pokemon Colosseum - Grand Colosseum - Johto Version (v2.0) (Kya)">
+		<description>Pokemon Colosseum - Grand Colosseum - Johto Version (v2.0) (Kya)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Pokemon Colosseum - Grand Colosseum - Johto Version (v2.0) (Kya).iso" size="1460126752" crc="c809d33e" md5="f3eb578d9d0fd81979482fe15d67032e" sha1="8ebb394a6f01941af8bfdbefcd4a850160a1dc31" />
+	</game>
+	<game name="Pokemon Colosseum - Grand Colosseum - Kanto Version (v2.0) (Kya)">
+		<description>Pokemon Colosseum - Grand Colosseum - Kanto Version (v2.0) (Kya)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Pokemon Colosseum - Grand Colosseum - Kanto Version (v2.0) (Kya).iso" size="1460126752" crc="f6b125b9" md5="467ea4ad28acbbf7fcce2ccdf85db4f1" sha1="8a525933583b3b0304b3397a42fa767db121aaa9" />
+	</game>
+	<game name="Pokemon XD - Gale of Darkness - Pokemon XG (v1.2.1-3) (StarsMmd)">
+		<description>Pokemon XD - Gale of Darkness - Pokemon XG (v1.2.1-3) (StarsMmd)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Pokemon XD - Gale of Darkness - Pokemon XG (v1.2.1-3) (StarsMmd).iso" size="1459978240" crc="9b232c01" md5="a7b6aced55de97a776a1a235e3a4a57e" sha1="7af7d11916f69d3af1041c728f9231ba9b38f29e" />
+	</game>
+	<game name="Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO)">
+		<description>Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO) (Disc 1).iso" size="1459978240" crc="fa532366" md5="3592064f79dc94068ff89fe733340bb0" sha1="5bf2df116bb6c15868273bb018572584360e2bec" status="none" />
+		<rom name="Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO) (Disc 2).iso" size="1459978240" crc="c3e2d52f" md5="5a7cebf95feaba82375ffeedb5024a21" sha1="89064c5eb6abd541eeb11211ede5d042e45d315d" status="none" />
+	</game>
+	<game name="Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2)">
+		<description>Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2).iso" size="1459978240" crc="f0a5c78e" md5="f2816bd2fbace8a6a3aebd0fd0c8e26b" sha1="50efd1095c21692076dd2445ae6e4ffa2c41db3e" />
+	</game>
+	<game name="Short Mod B (v2024-04-01) (Willcon)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
+		<description>Short Mod B (v2024-04-01) (Willcon)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Short Mod B (v2024-04-01) (Willcon).iso" size="914325504" crc="af86431a" md5="549a82a4943dbb4e12238c92f83b4034" sha1="7fd7ecf032b9069f338d01ff7dcdbf6932cc2437" />
+	</game>
+	<game name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)">
+		<description>SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks).iso" size="1459978240" crc="f83c34ed" md5="6fa091ffe7e0bed1fbaee64b08ca0c8e" sha1="c4aab132aa19bc9b8925a0e241b63bf6db4e9b22" />
+	</game>
+	<game name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks)">
+		<description>SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks).iso" size="1459978240" crc="f83c34ed" md5="6fa091ffe7e0bed1fbaee64b08ca0c8e" sha1="c4aab132aa19bc9b8925a0e241b63bf6db4e9b22" status="none" />
+	</game>
+	<game name="SpongeBob and the Pit of 100 Trials (v2.0) (Gravity)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
+		<description>SpongeBob and the Pit of 100 Trials (v2.0) (Gravity)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="SpongeBob and the Pit of 100 Trials (v2.0) (Gravity).iso" size="1229651968" crc="e50c60b0" md5="e0eff2fe5419dcabfb0dd9ccceef7f83" sha1="b32e39226e8ba18f9b359ae5b4f42f4a7f836155" />
+	</game>
+	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.1) (aaron5015)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
+		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.1) (aaron5015)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.1) (aaron5015).iso" size="1617723392" crc="42e5a63c" md5="7ccfef4914d6beb46289d12da4bb0d4f" sha1="b91fe52758ec2a254d12a0c5eafda681c47405b1" />
+	</game>
+	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Sock Expedition Extreme (v1.6) (TetraxZ)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
+		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Sock Expedition Extreme (v1.6) (TetraxZ)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="SpongeBob SquarePants - Battle for Bikini Bottom - Sock Expedition Extreme (v1.6) (TetraxZ).iso" size="1239449600" crc="f1f80f86" md5="6150c4d8995adc32649fafc04fbf1090" sha1="12b5090b0d63ebab357f317fa87eb54198eb0a18" />
+	</game>
+	<game name="SpongeBob SquarePants - Spatula Collector (v1.01) (aaron5015)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
+		<description>SpongeBob SquarePants - Spatula Collector (v1.01) (aaron5015)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="SpongeBob SquarePants - Spatula Collector (v1.01) (aaron5015).iso" size="1458634752" crc="411d7610" md5="c3f2fe6a5ebab6c1427f9073e417f009" sha1="a753de67ec797e77a4303fd538bc856ba81a6c59" />
+	</game>
+	<game name="Super Doot Sunshine (v1.4.0) (warspyking)" cloneof="Super Mario Sunshine (USA)">
+		<description>Super Doot Sunshine (v1.4.0) (warspyking)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Super Doot Sunshine (v1.4.0) (warspyking).iso" size="1459978240" crc="1e0e558e" md5="ee334e837718b5acb41ce5145a532165" sha1="90ffb58ecd98d137861414a5a52217ee8b40f08b" />
+	</game>
+	<game name="Super Sponge Ball (v1.1) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
+		<description>Super Sponge Ball (v1.1) (Eyepie)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Super Sponge Ball (v1.1) (Eyepie).iso" size="841252864" crc="de9be1ee" md5="784d343a929d3ff399c03324e252cd0d" sha1="259d373054def8dee0fb175a0f08e9fac9b097f4" />
+	</game>
+	<game name="Valley of the Lost (v1.2) (Latte)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
+		<description>Valley of the Lost (v1.2) (Latte)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Valley of the Lost (v1.2) (Latte).iso" size="834535424" crc="e0e019be" md5="377f9eab45622ca92a71db4cb6ead37b" sha1="425b122002d764729e735a3ff1ad1c8a182d0dd3" />
+	</game>
+</datafile>

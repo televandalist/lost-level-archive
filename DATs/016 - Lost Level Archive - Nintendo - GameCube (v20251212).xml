@@ -5,32 +5,12 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20251206</version>
+		<version>v20251212</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="BFBBMix (v5.06) (skyweiss)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
-		<description>BFBBMix (v5.06) (skyweiss)</description>
-		<rom name="BFBBMix (v5.06) (skyweiss).iso" size="834306048" crc="252ce672" md5="a7d63448fde422621909b042864f6a27" sha1="24884bb8e6533b85857c1cae328760c6142bc362" />
-	</game>
-	<game name="Five Nights in BFBB (v1.4) (Gravity)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
-		<description>Five Nights in BFBB (v1.4) (Gravity)</description>
-		<rom name="Five Nights in BFBB (v1.4) (Gravity).iso" size="1232928768" crc="258d3fc6" md5="7151229c7e3d6397fb14537557ea3c60" sha1="01d11b7293e4c6b205b6dcabfb431ade38266e2c" />
-	</game>
-	<game name="Floating Block Forever (v2023-02-11) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
-		<description>Floating Block Forever (v2023-02-11) (Eyepie)</description>
-		<rom name="Floating Block Forever (v2023-02-11) (Eyepie).iso" size="847740928" crc="7befd980" md5="765dc69018a6f51ebb3c44200b9e5b3c" sha1="c3179cf953f92ed0aa773b9486e7203c21261e49" />
-	</game>
-	<game name="Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan) (En) (v1.0) (SuperrSonic)">
-		<description>Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan) (En) (v1.0) (SuperrSonic)</description>
-		<rom name="Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan) (En) (v1.0) (SuperrSonic).iso" size="553749760" crc="368d2acd" md5="1cb2535c8da42c4c7bc926d5f39f6ea7" sha1="01c80bf0395ec98f41a3529086149e49df4796d6" />
-	</game>
-	<game name="Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ)">
-		<description>Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ)</description>
-		<rom name="Legend of Zelda, The - Wind Waker - The Legend of Goose - The Honk Waker (v1.1) (BigSharkZ).iso" size="1102137344" crc="c15ab5f1" md5="9ddce0cc0c508c63e2bfbf0c4c7515bd" sha1="eb83ab9ecffe760be2c60f0f9c9912a573164809" />
-	</game>
 	<game name="Mario Kart - Double Dash!! Plus (v3.3) (That1loser4)">
 		<description>Mario Kart - Double Dash!! Plus (v3.3) (That1loser4)</description>
 		<rom name="Mario Kart - Double Dash!! Plus (v3.3) (That1loser4).iso" size="1074593792" crc="e3accee4" md5="5d3a850ff6d41a7d2b8eec3d67acfd00" sha1="cf71db16c4babe77a34918c70fe20114029edabf" status="none" />
@@ -39,10 +19,6 @@
 		<description>MKDD - Mario Kart Double Dash Extended (v2.0) (M64)</description>
 		<rom name="MKDD - Mario Kart Double Dash Extended (v2.0) (M64).iso" size="1459978240" crc="8de9c734" md5="a7a438445046286964d6896ee3036bca" sha1="7f10b48ef8fe66761f70cc7127394dc9e9f7eb19" />
 	</game>
-	<game name="Movie Mashup (v1.0) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
-		<description>Movie Mashup (v1.0) (Eyepie)</description>
-		<rom name="Movie Mashup (v1.0) (Eyepie).iso" size="581435392" crc="007bccbd" md5="0c055649336ee34ac47e4a54e709d1cf" sha1="cfcb59ed719bc83651d4adbfffa5bab7e8501eb2" />
-	</game>
 	<game name="Pickles (World) (2024-07-29) (Proto)">
 		<description>Pickles (World) (2024-07-29) (Proto)</description>
 		<rom name="Pickles (World) (2024-07-29) (Proto).iso" size="1459978240" crc="7fa9a839" md5="313057403f079b96926335202a6ca40c" sha1="9038eb0c7c013421a9be5a94fcd3d27c7f2f8767" />
@@ -50,10 +26,6 @@
 	<game name="Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore)">
 		<description>Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore)</description>
 		<rom name="Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore).iso" size="1412136960" crc="4d90bf93" md5="0acc04fbfb6cb442a396e7a5facd9951" sha1="b224f0338e48eb40b605daeb3141ada0c5701129" />
-	</game>
-	<game name="Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread)">
-		<description>Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread)</description>
-		<rom name="Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread).iso" size="1459978240" crc="fa9bc8ed" md5="8c9c4a098a9a4fc18854292e5dd58d27" sha1="d58c5603d5f46d59fb051eb57b7e99e338ad14e4" />
 	</game>
 	<game name="Pikmin 2 - Colossal Caverns (v2.3) (PikHacker)">
 		<description>Pikmin 2 - Colossal Caverns (v2.3) (PikHacker)</description>
@@ -95,30 +67,9 @@
 		<description>Pikmin 2 - Regrown (v2.0) (Ochrehorns)</description>
 		<rom name="Pikmin 2 - Regrown (v2.0) (Ochrehorns).iso" size="1459978240" crc="e782b479" md5="44359cb46aa4ce72c92245e111e45243" sha1="2bddd46f01f5620fb64e5fe766ad4fcb21df535e" status="none" />
 	</game>
-	<game name="Pokemon Colosseum - Grand Colosseum - Hoenn Version (v2.0) (Kya)">
-		<description>Pokemon Colosseum - Grand Colosseum - Hoenn Version (v2.0) (Kya)</description>
-		<rom name="Pokemon Colosseum - Grand Colosseum - Hoenn Version (v2.0) (Kya).iso" size="1460126752" crc="75bbd086" md5="4861d3b2919a82f291b663879197ccb0" sha1="1903d80b1696fe33c5e5f858b60805f10b1e972f" />
-	</game>
-	<game name="Pokemon Colosseum - Grand Colosseum - Johto Version (v2.0) (Kya)">
-		<description>Pokemon Colosseum - Grand Colosseum - Johto Version (v2.0) (Kya)</description>
-		<rom name="Pokemon Colosseum - Grand Colosseum - Johto Version (v2.0) (Kya).iso" size="1460126752" crc="c809d33e" md5="f3eb578d9d0fd81979482fe15d67032e" sha1="8ebb394a6f01941af8bfdbefcd4a850160a1dc31" />
-	</game>
-	<game name="Pokemon Colosseum - Grand Colosseum - Kanto Version (v2.0) (Kya)">
-		<description>Pokemon Colosseum - Grand Colosseum - Kanto Version (v2.0) (Kya)</description>
-		<rom name="Pokemon Colosseum - Grand Colosseum - Kanto Version (v2.0) (Kya).iso" size="1460126752" crc="f6b125b9" md5="467ea4ad28acbbf7fcce2ccdf85db4f1" sha1="8a525933583b3b0304b3397a42fa767db121aaa9" />
-	</game>
-	<game name="Pokemon XD - Gale of Darkness - Pokemon XG (v1.2.1-3) (StarsMmd)">
-		<description>Pokemon XD - Gale of Darkness - Pokemon XG (v1.2.1-3) (StarsMmd)</description>
-		<rom name="Pokemon XD - Gale of Darkness - Pokemon XG (v1.2.1-3) (StarsMmd).iso" size="1459978240" crc="9b232c01" md5="a7b6aced55de97a776a1a235e3a4a57e" sha1="7af7d11916f69d3af1041c728f9231ba9b38f29e" />
-	</game>
-	<game name="Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO)">
-		<description>Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO)</description>
-		<rom name="Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO) (Disc 1).iso" size="1459978240" crc="fa532366" md5="3592064f79dc94068ff89fe733340bb0" sha1="5bf2df116bb6c15868273bb018572584360e2bec" status="none" />
-		<rom name="Resident Evil (USA) (Ru) (Team Raccoon, R.G. MVO) (Disc 2).iso" size="1459978240" crc="c3e2d52f" md5="5a7cebf95feaba82375ffeedb5024a21" sha1="89064c5eb6abd541eeb11211ede5d042e45d315d" status="none" />
-	</game>
-	<game name="Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2)">
-		<description>Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2)</description>
-		<rom name="Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2).iso" size="1459978240" crc="f0a5c78e" md5="f2816bd2fbace8a6a3aebd0fd0c8e26b" sha1="50efd1095c21692076dd2445ae6e4ffa2c41db3e" />
+	<game name="Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns)">
+		<description>Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns)</description>
+		<rom name="Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns).iso" size="1459978240" crc="ba4473fa" md5="775162799e44cdf983967fb18f6623a5" sha1="c2dba2d078ead3d074cc75b5293151e5a14c3ff6" status="none" />
 	</game>
 	<game name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)">
 		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)</description>
@@ -127,14 +78,6 @@
 	<game name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen)">
 		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen)</description>
 		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen).iso" size="1529839616" crc="608b69c4" md5="db6dba6df2067a7b6384440401754934" sha1="246329735cd79fd0fe187c61b94487e75c42f1b7" />
-	</game>
-	<game name="Short Mod B (v2024-04-01) (Willcon)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
-		<description>Short Mod B (v2024-04-01) (Willcon)</description>
-		<rom name="Short Mod B (v2024-04-01) (Willcon).iso" size="914325504" crc="af86431a" md5="549a82a4943dbb4e12238c92f83b4034" sha1="7fd7ecf032b9069f338d01ff7dcdbf6932cc2437" />
-	</game>
-	<game name="Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team)" cloneof="Sonic Riders (USA) (En,Ja,Fr,De,Es,It)">
-		<description>Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team)</description>
-		<rom name="Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team).iso" size="2104557568" crc="861ae034" md5="9cbc195582c9cecf9b496db34347577a" sha1="788468169873927f28a3072044e3985c7bca4bf6" />
 	</game>
 	<game name="SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team)">
 		<description>SMS - Super Mario Eclipse (v1.0.4) (Eclipse Team)</description>
@@ -156,45 +99,21 @@
 		<description>SMS - Super Mario Sunburn (v1.9) (Eclipse Team)</description>
 		<rom name="SMS - Super Mario Sunburn (v1.9) (Eclipse Team).iso" size="1459978240" crc="28df0d93" md5="0aba511d344e6427d9a510d6bb3fff89" sha1="2cfcd09f4f4969fafd4bc6cd8c162790defc5fa1" />
 	</game>
-	<game name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)">
-		<description>SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)</description>
-		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks).iso" size="1459978240" crc="f83c34ed" md5="6fa091ffe7e0bed1fbaee64b08ca0c8e" sha1="c4aab132aa19bc9b8925a0e241b63bf6db4e9b22" />
-	</game>
-	<game name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks)">
-		<description>SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks)</description>
-		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks).iso" size="1459978240" crc="f83c34ed" md5="6fa091ffe7e0bed1fbaee64b08ca0c8e" sha1="c4aab132aa19bc9b8925a0e241b63bf6db4e9b22" status="none" />
+	<game name="Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team)" cloneof="Sonic Riders (USA) (En,Ja,Fr,De,Es,It)">
+		<description>Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team)</description>
+		<rom name="Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team).iso" size="2104557568" crc="861ae034" md5="9cbc195582c9cecf9b496db34347577a" sha1="788468169873927f28a3072044e3985c7bca4bf6" />
 	</game>
 	<game name="Sonic Riders DX (v2.1) (Extreme Gear Labs)" cloneof="Sonic Riders (USA) (En,Ja,Fr,De,Es,It)">
 		<description>Sonic Riders DX (v2.1) (Extreme Gear Labs)</description>
 		<rom name="Sonic Riders DX (v2.1) (Extreme Gear Labs).iso" size="1378942976" crc="64a25d95" md5="31a47dce756825f19e6e1d48f32ef48e" sha1="34af4d88b357abafcf16707ac9f00947a5586f95" />
 	</game>
-	<game name="SpongeBob and the Pit of 100 Trials (v2.0) (Gravity)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
-		<description>SpongeBob and the Pit of 100 Trials (v2.0) (Gravity)</description>
-		<rom name="SpongeBob and the Pit of 100 Trials (v2.0) (Gravity).iso" size="1229651968" crc="e50c60b0" md5="e0eff2fe5419dcabfb0dd9ccceef7f83" sha1="b32e39226e8ba18f9b359ae5b4f42f4a7f836155" />
-	</game>
 	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v2.2) (TLL)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
 		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v2.2) (TLL)</description>
 		<rom name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v2.2) (TLL).iso" size="1090191360" crc="863ac998" md5="b7ae3e9ca6635ae5dd23cf62d2227972" sha1="f9f879e7f0765e7d7ad698b45d654a39351a726f" />
 	</game>
-	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.1) (aaron5015)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
-		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.1) (aaron5015)</description>
-		<rom name="SpongeBob SquarePants - Battle for Bikini Bottom - Second Strike (v1.02.1) (aaron5015).iso" size="1617723392" crc="42e5a63c" md5="7ccfef4914d6beb46289d12da4bb0d4f" sha1="b91fe52758ec2a254d12a0c5eafda681c47405b1" />
-	</game>
-	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Sock Expedition Extreme (v1.6) (TetraxZ)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
-		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Sock Expedition Extreme (v1.6) (TetraxZ)</description>
-		<rom name="SpongeBob SquarePants - Battle for Bikini Bottom - Sock Expedition Extreme (v1.6) (TetraxZ).iso" size="1239449600" crc="f1f80f86" md5="6150c4d8995adc32649fafc04fbf1090" sha1="12b5090b0d63ebab357f317fa87eb54198eb0a18" />
-	</game>
-	<game name="SpongeBob SquarePants - Spatula Collector (v1.01) (aaron5015)" cloneof="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
-		<description>SpongeBob SquarePants - Spatula Collector (v1.01) (aaron5015)</description>
-		<rom name="SpongeBob SquarePants - Spatula Collector (v1.01) (aaron5015).iso" size="1458634752" crc="411d7610" md5="c3f2fe6a5ebab6c1427f9073e417f009" sha1="a753de67ec797e77a4303fd538bc856ba81a6c59" />
-	</game>
 	<game name="SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
 		<description>SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator)</description>
 		<rom name="SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator).iso" size="1222246400" crc="7d7917d6" md5="7b593d713dfedc4bdada456bc5e2d923" sha1="b80ffd58d38e030d18d377de546d937e66ea9391" />
-	</game>
-	<game name="Super Doot Sunshine (v1.4.0) (warspyking)" cloneof="Super Mario Sunshine (USA)">
-		<description>Super Doot Sunshine (v1.4.0) (warspyking)</description>
-		<rom name="Super Doot Sunshine (v1.4.0) (warspyking).iso" size="1459978240" crc="1e0e558e" md5="ee334e837718b5acb41ce5145a532165" sha1="90ffb58ecd98d137861414a5a52217ee8b40f08b" />
 	</game>
 	<game name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)">
 		<description>Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)</description>
@@ -212,17 +131,9 @@
 		<description>Super Smash Bros. Melee - The Akaneia Build (v1.0.1) (Team Akaneia)</description>
 		<rom name="Super Smash Bros. Melee - The Akaneia Build (v1.0.1) (Team Akaneia).iso" size="1459978240" crc="f42c9a24" md5="63ea8e113e451c9369f17f7a49012412" sha1="66eaca53bb33824118345378b32cb56516d0308f" status="none" />
 	</game>
-	<game name="Super Sponge Ball (v1.1) (Eyepie)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
-		<description>Super Sponge Ball (v1.1) (Eyepie)</description>
-		<rom name="Super Sponge Ball (v1.1) (Eyepie).iso" size="841252864" crc="de9be1ee" md5="784d343a929d3ff399c03324e252cd0d" sha1="259d373054def8dee0fb175a0f08e9fac9b097f4" />
-	</game>
 	<game name="Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex)">
 		<description>Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex)</description>
 		<rom name="Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex).iso" size="1459978240" crc="df3c3372" md5="b231c940f9e767c92e4ce6e86883682f" sha1="722b227cdc1da8ef63f670b9b230f3e176699bc8" />
-	</game>
-	<game name="Valley of the Lost (v1.2) (Latte)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
-		<description>Valley of the Lost (v1.2) (Latte)</description>
-		<rom name="Valley of the Lost (v1.2) (Latte).iso" size="834535424" crc="e0e019be" md5="377f9eab45622ca92a71db4cb6ead37b" sha1="425b122002d764729e735a3ff1ad1c8a182d0dd3" />
 	</game>
 	<game name="Zatch Bell! Mamodo Fury (USA) (Undub) (SuperrSonic)">
 		<description>Zatch Bell! Mamodo Fury (USA) (Undub) (SuperrSonic)</description>

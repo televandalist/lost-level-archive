@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>Removed - 007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Removed - Nintendo - Famicom - NES</description>
-		<version>v20251201</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -55,9 +55,9 @@
 		<description>Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul)</description>
 		<rom name="Pizza Tower - Counterfeit Edition (USA) (Aftermarket) (Not1Soul).nes" size="524304" crc="dcb3c6d1" md5="885357fbb426e805661ac8eea6e0be49" sha1="0b32ceba72ac9943db1787907dd7c96274109afd" status="none" />
 	</game>
-	<game name="Project Plue (BNROM) (Level Patch) (Mega Cat Studios)">
-		<description>Project Plue (BNROM) (Level Patch) (Mega Cat Studios)</description>
-		<rom name="Project Plue (BNROM) (Level Patch) (Mega Cat Studios).nes" size="524304" crc="e47438ec" md5="e327a550834653b41f6057d778e45ce5" sha1="7350aaef66d1d0dad7be552f82060ad9dbcaad7f" />
+	<game name="Project Blue (BNROM) (Level Patch) (Mega Cat Studios)">
+		<description>Project Blue (BNROM) (Level Patch) (Mega Cat Studios)</description>
+		<rom name="Project Blue (BNROM) (Level Patch) (Mega Cat Studios).nes" size="524304" crc="e47438ec" md5="e327a550834653b41f6057d778e45ce5" sha1="7350aaef66d1d0dad7be552f82060ad9dbcaad7f" />
 	</game>
 	<game name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx)">
 		<description>Sonik Gem Dash (World) (Aftermarket) (BriG78cx)</description>

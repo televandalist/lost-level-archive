@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>016e</id>
+		<name>016e - Lost Level Archive - Nintendo - GameCube (Extras)</name>
+		<description>Nintendo - GameCube (Extras)</description>
+		<version>v20250719</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Pikmin 2 - Colossal Caverns (PikHacker) - Extras">
+		<description>Pikmin 2 - Colossal Caverns (PikHacker) - Extras</description>
+		<rom name="Pikmin 2 - Colossal Caverns (PikHacker) - Manual.pdf" size="520459" crc="2c0c9aa9" md5="6a47e3d4a9580387152b29305769a518" sha1="1c762f13051cf1905000fbd0177d6e84fba76a28" />
+	</game>
+	<game name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa) - Extras">
+		<description>Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa) - Extras</description>
+		<rom name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa) - Official Booklet.pdf" size="670447" crc="71137c0d" md5="97d31de1adcc26ce8c0320ee6a64b168" sha1="c9769ab0ea943db39ea32a0bf50017f358ac0030" status="none" />
+	</game>
+</datafile>

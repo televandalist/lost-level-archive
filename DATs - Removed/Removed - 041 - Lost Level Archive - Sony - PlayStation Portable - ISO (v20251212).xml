@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>041</id>
+		<name>Removed - 041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
+		<description>Removed - Sony - PlayStation Portable (ISO)</description>		<version>v20251212</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan) (En) (20121116) (SRWFanHobByt3)">
+		<description>Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan) (En) (20121116) (SRWFanHobByt3)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan) (En) (20121116) (SRWFanHobByt3).iso" size="1139832832" crc="0909383c" md5="40b6bd7ba27c71a24dd96354fc803f6c" sha1="88a93a5b251216356d7265106353ef4e3f1a5f5a" />
+	</game>
+	<game name="Dai-2-Ji Super Robot Taisen Z Saisei-hen (Japan) (En) (20121130) (SRWFanHobByt3)">
+		<description>Dai-2-Ji Super Robot Taisen Z Saisei-hen (Japan) (En) (20121130) (SRWFanHobByt3)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Dai-2-Ji Super Robot Taisen Z Saisei-hen (Japan) (En) (20121130) (SRWFanHobByt3).iso" size="1612865536" crc="5e262fac" md5="df4954493e5418c155d3f3b5421dd4da" sha1="6199b07e051d8738e297b01f9027897a991af1f0" />
+	</game>
+	<game name="Eiyuu Densetsu - Ao no Kiseki (Japan) (En) (v15) (Flame, Guren)">
+		<description>Eiyuu Densetsu - Ao no Kiseki (Japan) (En) (v15) (Flame, Guren)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Eiyuu Densetsu - Ao no Kiseki (Japan) (En) (v15) (Flame, Guren).iso" size="1437401088" crc="f765c9ae" md5="a41e9f6a888f009ed3b37b0de335057b" sha1="e7098ab39dac341073d4d9c2c3d737dbbc2cd81f" />
+	</game>
+	<game name="God Eater 2 (Japan) (Id) (v1.30) (Srigatan)">
+		<description>God Eater 2 (Japan) (Id) (v1.30) (Srigatan)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="God Eater 2 (Japan) (Id) (v1.30) (Srigatan).iso" size="1718906880" crc="07a7ff3a" md5="c79abed0dfd3c9b91e94b7a9bddce6c9" sha1="c40fa1ad25fe3ef2e2fea13112ce2eca7f64cf7b" />
+	</game>
+	<game name="Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2)">
+		<description>Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2).iso" size="1167693824" crc="a2599d68" md5="2d37c9c8917d8863bfe994f4a4de5c6e" sha1="200b153a04c1fbee94efee36884eec7d15ca60d6" />
+	</game>
+	<game name="Kurohyou - Ryuu ga Gotoku Shinshou (Japan, Asia) (En) (v1.2) (Teak K4L)">
+		<description>Kurohyou - Ryuu ga Gotoku Shinshou (Japan, Asia) (En) (v1.2) (Teak K4L)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Kurohyou - Ryuu ga Gotoku Shinshou (Japan, Asia) (En) (v1.2) (Teak K4L).iso" size="1237743616" crc="a3a939e3" md5="955753eb77719fded37e81cf70e8e69a" sha1="f3fb3bad2ef8d2741afa484b7c99936775007157" />
+	</game>
+	<game name="Kurohyou 2 - Ryuu ga Gotoku Ashura-hen (Japan) (En) (v1.01) (TeamK4L)">
+		<description>Kurohyou 2 - Ryuu ga Gotoku Ashura-hen (Japan) (En) (v1.01) (TeamK4L)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Kurohyou 2 - Ryuu ga Gotoku Ashura-hen (Japan) (En) (v1.01) (TeamK4L).iso" size="1680226304" crc="57916b23" md5="957477ae5178e342e4afec84cc1f2474" sha1="7e50eab541c8e09c64e74c3d5e5fad6b6279bc02" />
+	</game>
+	<game name="Shin Megami Tensei - Persona 3 Portable (USA) (Es) (v1.0) (HxCannon)">
+		<description>Shin Megami Tensei - Persona 3 Portable (USA) (Es) (v1.0) (HxCannon)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Shin Megami Tensei - Persona 3 Portable (USA) (Es) (v1.0) (HxCannon).iso" size="1245159424" crc="60198265" md5="c9c50452bf4945ab56385717921d404d" sha1="42094f4e07f1815018674b1f868b765524a3073d" />
+	</game>
+	<game name="Shin Megami Tensei - Persona (USA) (Music Restoration) (v1.5.0) (TopCape)">
+		<description>Shin Megami Tensei - Persona (USA) (Music Restoration) (v1.5.0) (TopCape)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Shin Megami Tensei - Persona (USA) (Music Restoration) (v1.5.0) (TopCape).iso" size="915177472" crc="91cc9704" md5="f55bf63db47898a17c9d83b090a79be9" sha1="db8370b36607950b6e289accd5122e566224c614" />
+	</game>
+	<game name="Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.1) (TopCape)">
+		<description>Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.1) (TopCape)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.1) (TopCape).iso" size="835010560" crc="e3555846" md5="c5c4526b64de6caed3b1125ef800da62" sha1="05f839f7e75ee589a1d4938e783f5cf3bd34f2eb" />
+	</game>
+	<game name="Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.2) (TopCape)">
+		<description>Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.2) (TopCape)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.2) (TopCape).iso" size="835010560" crc="2f5631e4" md5="230c711cec14fb553f86621d59c3b485" sha1="4a59e0b0eb195b1ff9d23ec9fb855c96b26d12b7" />
+	</game>
+	<game name="Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.01) (Mugi)">
+		<description>Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.01) (Mugi)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.01) (Mugi).iso" size="296583168" crc="c15864d7" md5="381490d234b7b8f636036cd690afb0c5" sha1="151ea5b29d052eb1910a0cc341c4b423f2c9d5f4" />
+	</game>
+	<game name="Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.02) (Mugi)">
+		<description>Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.02) (Mugi)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.02) (Mugi).iso" size="296581120" crc="c7944e4e" md5="3a7f66f6825cc71b1bd14218c0ecb32d" sha1="a7fe455cc723a1c5005684d1e7eba68a2881caa5" />
+	</game>
+	<game name="Sol Trigger (Japan) (En) (v0.9) (GareJei, JamRules)">
+		<description>Sol Trigger (Japan) (En) (v0.9) (GareJei, JamRules)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Sol Trigger (Japan) (En) (v0.9) (GareJei, JamRules).iso" size="1521942528" crc="a066f187" md5="d329225f5ece08762e40c903b11618e3" sha1="db0cfdab6f045796957f4e8110995a7b0651e911" />
+	</game>
+	<game name="Star Ocean - First Departure (Europe) (Fr) (v0.82) (Killy)">
+		<description>Star Ocean - First Departure (Europe) (Fr) (v0.82) (Killy)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Star Ocean - First Departure (Europe) (Fr) (v0.82) (Killy).iso" size="1119807488" crc="27eb77a7" md5="4b69a2b1c0a6dbe8c63382a3131f0cfb" sha1="b14f11ffc06922d2254c98ddb2386d90e7064bbb" />
+	</game>
+	<game name="Tales of The Heroes - Twin Braves (Japan) (En) (v0.1) (pokefloote)">
+		<description>Tales of The Heroes - Twin Braves (Japan) (En) (v0.1) (pokefloote)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Tales of The Heroes - Twin Braves (Japan) (En) (v0.1) (pokefloote).iso" size="1208219648" crc="fad57b4c" md5="18b8e60974d35c92a290aa95917fd2a6" sha1="b4f0137dc15cfc7afe51fe160f14c2dbc148761e" />
+	</game>
+	<game name="ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz)">
+		<description>ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz).iso" size="1708947456" crc="9634adbd" md5="24bac0ccfd6b293f585804eab86d82c2" sha1="ee6c7a204fe0e5dacf9a1121ace6a039c82666ef" />
+	</game>
+	<game name="ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown)">
+		<description>ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown).iso" size="1621264384" crc="60ab455f" md5="c02afdf831c8afb1b791a17c9a520ee0" sha1="b64e8b93d1aca796b5e7fa61f318ce1422ccfd9c" />
+	</game>
+</datafile>

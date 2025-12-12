@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>021</id>
+		<name>Removed - 021 - Lost Level Archive - Sony - PlayStation 2</name>
+		<description>Removed - Sony - PlayStation 2</description>
+		<version>v20251212</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Atelier Marie + Elie - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (En) (v1.01) (Atelier Traduction)">
+		<description>Atelier Marie + Elie - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (En) (v1.01) (Atelier Traduction)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Atelier Marie + Elie - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (En) (v1.01) (Atelier Traduction).iso" size="1551040512" crc="ded23029" md5="2bbe14b0851b7eff48cb8d9969343460" sha1="34048d18ebc554d1caf5e7b614cf1c06817a51f9" />
+	</game>
+	<game name="Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) (En) (v1.1.3) (Jang &amp; Krisan Thyme)">
+		<description>Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) (En) (v1.1.3) (Jang &amp; Krisan Thyme)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) (En) (v1.1.3) (Jang &amp; Krisan Thyme).iso" size="3431858176" crc="ed543437" md5="98cbb652b8d149954e11dba6d14cabf6" sha1="63f6993e39acd3493c6483f3e6846d5d62e809ea" />
+	</game>
+	<game name="Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop)">
+		<description>Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop).bin" size="230677104" crc="567a4f3c" md5="2694959833da0fb99c948f36bccb8f0d" sha1="aab7ff19c07c97dcf6241242a2cef98faa610fad" />
+		<rom name="Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop).cue" size="151" crc="ade23b85" md5="e7f546b70741603911851131ac93175f" sha1="3775575988c0fce8e856ab48a332a374f00ac47d" />
+	</game>
+</datafile>

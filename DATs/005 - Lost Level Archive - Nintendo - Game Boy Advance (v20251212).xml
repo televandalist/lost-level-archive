@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20251201</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -86,6 +86,10 @@
 	<game name="Dark Eden (Unknown) (Prototype)">
 		<description>Dark Eden (Unknown) (Prototype)</description>
 		<rom name="Dark Eden (Unknown) (Prototype).gba" size="1361276" crc="9CF479D2" md5="50E9DBC3731383D6452584BFAD42297D" sha1="DF70DB3A44117AF3C744388AA17819ED8017E1D2"/>
+	</game>
+	<game name="Digimon Adventure (Prototype) (Sintax)">
+		<description>Digimon Adventure (Prototype) (Sintax)</description>
+		<rom name="Digimon Adventure (Prototype) (Sintax).gba" size="3759280" crc="d6d7a9c6" md5="1dabbc7a86182729df1310ae6234ffb4" sha1="ea4eb7676bf4e83276ec059744224aca34a2173c" status="none" />
 	</game>
 	<game name="Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl)">
 		<description>Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl)</description>

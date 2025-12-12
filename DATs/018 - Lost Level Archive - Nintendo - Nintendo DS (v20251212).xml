@@ -5,7 +5,7 @@
 		<id>018</id>
 		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
 		<description>Nintendo - Nintendo DS</description>
-		<version>v20250913</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -142,10 +142,6 @@
 	<game name="Dicewars DS (World) (v0.4.0) (Aftermarket) (Unl) (Melw)">
 		<description>Dicewars DS (World) (v0.4.0) (Aftermarket) (Unl) (Melw)</description>
 		<rom name="Dicewars DS (World) (v0.4.0) (Aftermarket) (Unl) (Melw).nds" size="1090112" crc="0eafb400" md5="e0c893204d1cdad94a7c6842da9af3c1" sha1="20f343b041ad792eab204a1106528994d137e530" />
-	</game>
-	<game name="Disgaea DS (USA) (Undub)" cloneof="Disgaea DS (USA)">
-		<description>Disgaea DS (USA) (Undub)</description>
-		<rom name="Disgaea DS (USA) (Undub).nds" size="67325652" crc="FEBDE0A9" md5="6ACB0D1808099511489838A923604978" sha1="F009DDB9A04C28D8BB288F256B07945D3F141384"/>
 	</game>
 	<game name="DrugWars DS (World) (v1.52) (Aftermarket) (Unl) (DragonMinded)">
 		<description>DrugWars DS (World) (v1.52) (Aftermarket) (Unl) (DragonMinded)</description>
@@ -314,10 +310,6 @@
 	<game name="No Place to Hide (World) (v20060730) (Aftermarket) (Unl)">
 		<description>No Place to Hide (World) (v20060730) (Aftermarket) (Unl)</description>
 		<rom name="No Place to Hide (World) (v20060730) (Aftermarket) (Unl).nds" size="1681984" crc="0541b555" md5="d08f56ed4a32c272c7dfa431b3b9df5c" sha1="8405d5d0a16972f9fcc14b30b770747de99f8896" />
-	</game>
-	<game name="Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) (En) (v0.3d-1) (Nora Project)">
-		<description>Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) (En) (v0.3d-1) (Nora Project)</description>
-		<rom name="Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) (En) (v0.3d-1) (Nora Project).nds" size="250017084" crc="1892576a" md5="9ad45ea9ec88d004537e98a9d60a6525" sha1="45524b9e7527acc759ada57a5c3fc5c899a584df" />
 	</game>
 	<game name="Nyan Cat's Star Dodge (World) (v1.0) (Aftermarket) (rockleeace)">
 		<description>Nyan Cat's Star Dodge (World) (v1.0) (Aftermarket) (rockleeace)</description>

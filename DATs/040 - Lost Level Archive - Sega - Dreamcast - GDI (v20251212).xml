@@ -5,7 +5,7 @@
 		<id>040</id>
 		<name>040 - Lost Level Archive - Sega - Dreamcast - GDI</name>
 		<description>Sega - Dreamcast - GDI</description>
-		<version>v20251204</version>
+		<version>v20251212</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -77,6 +77,7 @@
 	</game>
 	<game name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix)">
 		<description>Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1001N</comment>
 		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
 		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
 		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 3).iso" size="307200" crc="e043fcf6" md5="26a917f0bee62c521c010440a48f8ea7" sha1="5a4ddf3efcadd661584262a7d8a08c4858ec66a6" status="none" />
@@ -86,6 +87,7 @@
 	</game>
 	<game name="Half-Life - Black Ops (v20070915) (OVERRiDE)">
 		<description>Half-Life - Black Ops (v20070915) (OVERRiDE)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1002N</comment>
 		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
 		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
 		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 3).iso" size="307200" crc="d5249496" md5="e7653627cad67226300745f5ebd20717" sha1="9ddebcaf07eddf521731fde938d2de1d570fddc4" status="none" />
@@ -95,6 +97,7 @@
 	</game>
 	<game name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team)">
 		<description>Half-Life - Counter-Strike (v200901) (CSDC Dev Team)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1003N</comment>
 		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
 		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
 		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 3).iso" size="796598272" crc="4c5ad8de" md5="42801303dce8e44d3c3cf7a3bfdac24f" sha1="8938af159dc5881e25240ea2f8b407b2ab6a17f8" status="none" />
@@ -104,6 +107,7 @@
 	</game>
 	<game name="Half-Life - Grunt (v20130220) (Evil Wesker)">
 		<description>Half-Life - Grunt (v20130220) (Evil Wesker)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1004N</comment>
 		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
 		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
 		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 3).iso" size="814698496" crc="3f137230" md5="b38672ebc8b4e209ce48b431f6956403" sha1="9a223f90416d5758635ddc2d5840b40c14fb665c" status="none" />
@@ -113,6 +117,7 @@
 	</game>
 	<game name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix)">
 		<description>Half-Life - Gunman Chronicles (v20150624) (Dreammatrix)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1005N</comment>
 		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
 		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
 		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 3).iso" size="698595328" crc="17a84709" md5="32afd95d94e37d379f075e8991343c58" sha1="b7e274f018cb676102c12749ff574506d032219a" status="none" />
@@ -122,6 +127,7 @@
 	</game>
 	<game name="Half-Life - Opposing Forces (v20110610) (Unknown)">
 		<description>Half-Life - Opposing Forces (v20110610) (Unknown)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1006N</comment>
 		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
 		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
 		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 3).iso" size="461283328" crc="9b5e8026" md5="facfd5558cf251623dcfe44bc04be02e" sha1="4bd9c61d2bdd5f89c3c487de06c5248537da5c6e" status="none" />
@@ -131,6 +137,7 @@
 	</game>
 	<game name="Half-Life - Paranoia (v1.1) (Various)">
 		<description>Half-Life - Paranoia (v1.1) (Various)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1007N</comment>
 		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 1).iso" size="1241088" crc="6bf9ad3b" md5="ff7329c91585712ed4109f57ef4a853e" sha1="c54f72aa4127f130fe56eb17bf82bccc8f2e4f91" status="none" />
 		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
 		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 3).iso" size="272793600" crc="fa8fc59d" md5="4395b9719d3d79040cd65ce7ae2bd545" sha1="6f234844b7648c3dc723719e22a439816102a837" status="none" />
@@ -139,6 +146,7 @@
 	</game>
 	<game name="Half-Life - They Hunger (Dreammatrix, Deprogrammer)">
 		<description>Half-Life - They Hunger (Dreammatrix, Deprogrammer)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1008N</comment>
 		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
 		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
 		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 3).iso" size="795541504" crc="8857e053" md5="f05dc7d6a073e418699d04de390cf499" sha1="366789a8054a254d71d331a0e8e6a8cb2f3438cb" status="none" />
@@ -148,6 +156,7 @@
 	</game>
 	<game name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix)">
 		<description>Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1009N</comment>
 		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
 		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
 		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 3).iso" size="765704192" crc="ef760905" md5="5db530e91160c9c746ebd8ddf1b0e6ca" sha1="664c23a4999731f56e957b7954d04ebf4accad0c" status="none" />
@@ -269,5 +278,52 @@
 		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) (Track 2).raw" size="13994400" crc="dc7ae092" md5="241e19efc852c90503e4ab868d6c1ed8" sha1="cf07057d6aa2193b159fbf796d9168a598f16fea" />
 		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) (Track 3).bin" size="1185760800" crc="d366f290" md5="35e1eb789ed5c1179e7a808d9c66b8ad" sha1="21b80498f930dd224d5c170cb5bd1d494b7cd026" />
 		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl).gdi" size="241" crc="87950c52" md5="6eb3193982779c77c3f9887a85874dcc" sha1="c0e04b3a66fdda998c74e24b0fef4fb7fad38ab4" />
+	</game>
+	<game name="Worms Pinball (USA) (Prototype) (2000-09-19)">
+		<description>Worms Pinball (USA) (Prototype) (2000-09-19)</description>
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 01).bin" size="1425312" crc="3fbde500" md5="0beb6c60bdd89523d5919f3a0c901e01" sha1="06c7c016c09f6afd7a7569dcd989167b81b4da13" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 02).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 03).bin" size="473401152" crc="282f0a08" md5="2065c7c685886a2df0a9098843ecb9fd" sha1="09607eed046e67f8f4645d59a99b15e33f8a40dc" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 04).raw" size="58113216" crc="21cf11e7" md5="d066e9ca22a72dc726f72014a102b6e8" sha1="b4f5b9ace59fa8d4d1e8e9b2e51472220ead2a51" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 05).raw" size="26107200" crc="684ed7b2" md5="a50b41dd414346642ef42ae7dbbe7527" sha1="50301f64add7779d98c96bce0973298cce8d120d" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 06).raw" size="25048800" crc="69c82100" md5="15059fef333f9e0c9a8166411591cd92" sha1="f0f9cbe31314212be5fc742029f2e955f1f37632" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 07).raw" size="4410000" crc="4d7fd42d" md5="657f71366ea6980a5a7030602b133d86" sha1="a906ff6a5508bdb07b52c0f752c0e8151ef8d2dd" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 08).raw" size="21873600" crc="24b92bb1" md5="67d104b717539324e6dca0cdec7a6eae" sha1="1f7082c7019c0710348a04d6fc69ebb1b7871043" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 09).raw" size="4939200" crc="9b68ec1c" md5="5d5935bb37b65c6cc39ca157bbad334d" sha1="93dd0a04821fda1dd78b5fa146a9dd2922c8dc77" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 10).raw" size="10760400" crc="fb576ada" md5="89cb8ae0717e9f2bd09a6b94eaa39195" sha1="d5ded593ded3a298bc181e1e9f1fdf341a368ec9" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 11).raw" size="11818800" crc="d3f4a798" md5="cde55f9eab55d27a78415c8009c1b483" sha1="59c459c790c30387dd0f35c0f36be44558d1bb5f" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 12).raw" size="11818800" crc="4823767f" md5="d1628d6f1006e4864dbfd8904c14574c" sha1="2bdea5e6160e3895cf5f50504d6e6751fe426f67" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 13).raw" size="1764000" crc="4f5e9d44" md5="6eb0d318b06dfb4bd0cc4c3084a3acda" sha1="68af156b06ecc88e7d74a9992325ee4d866b8051" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 14).raw" size="21873600" crc="2e29c252" md5="8a09f7976e4f6062be4e33b451fe18fc" sha1="3ae71b475db8017dc5c6fb74e6eed5484427799f" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 15).raw" size="6703200" crc="8b08b031" md5="0d78e6a692a8ca28be9407ff7b0b077b" sha1="fbaff73fb388bca325efcbbeea7297373d1564fb" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 16).raw" size="32986800" crc="a6ea9ca9" md5="a7d0ddaf0ca947b0c3d71d0f76b995ae" sha1="75a9d9a9aa9a94255f10328ade9d63c1a6a8a618" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 17).raw" size="10407600" crc="3070ea39" md5="ad66fe4d50a37aa96f1f6d5b82b3f1a4" sha1="d37f97abbe4656919f73714ce5af0440722d365c" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 18).raw" size="21873600" crc="f26b2244" md5="696275fb14f25d7833f76955d6c02275" sha1="2cf18a24600088a1696cf78854d432c0271653ff" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 19).raw" size="12524400" crc="b3269097" md5="c12da4f635541d0418e5815e22202207" sha1="d11f8e745af3ac02adc1437af12162471fb84084" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 20).raw" size="25225200" crc="0b910166" md5="31219c4aad5cff7fbf14ae35d51ec29d" sha1="f686d4f7de01719c629abfd5a4a6f30ef1bd6c26" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 21).raw" size="8114400" crc="346f61fb" md5="fcf84b25652a9a3d989bbc6ed76ad5f7" sha1="93150742460c6d00454a7957380669e650b63251" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 22).raw" size="11642400" crc="51ef07a0" md5="7dad93a974d515d4077bbc542ec4e537" sha1="f01c63b95b99ec6955084a8143c851b6c8ce0519" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 23).raw" size="11466000" crc="50f25a1c" md5="e4ee4bc98904b232626f96514a60fc51" sha1="a59bc4eda9766ed152026c925b2f8bbc5436b331" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 24).raw" size="11466000" crc="5c3aacd2" md5="8b08a93e25356b31fb32f9664275fe2b" sha1="b96a9f5ac0a33021b98580bce5739bf6478e2472" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 25).raw" size="14817600" crc="033b6dd3" md5="3652bda4093b86fec42e1f73ec43ab9f" sha1="12d46ea76d7459aa768c5be5b4c7b04918fbf896" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 26).raw" size="12171600" crc="8238564d" md5="65cc590db1ac5900723179c96063e294" sha1="cb7123b6e70200b3527cb493cd1d7326f6a480a4" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 27).raw" size="22755600" crc="afe5343a" md5="d87d1d72973a1a50f43cce15f8b899fc" sha1="980302b026bf1cb77af04ca86419098761404a30" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 28).raw" size="11642400" crc="8d147218" md5="c6b0bbaa54f123d4d6f562dc3d3155df" sha1="e579a96fef55bce6bc6319914463466016da8a13" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 29).raw" size="22755600" crc="940dec66" md5="62841f88b100a917d6a60cc6588971bb" sha1="9141d2ed8430909885d8bebe8a3f899355f6a259" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 30).raw" size="23814000" crc="0edc475c" md5="18422982cb2c2060f62e2dd5dfa5a434" sha1="377c4d6bea397feaec114fed05801e41e11586bc" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 31).raw" size="12171600" crc="e9c30824" md5="6b57c98611e0d029a61bbbd7e8b7b13c" sha1="89cf6d0bda20b1dfde6322664d623b13d797d32c" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 32).raw" size="4586400" crc="967c9a20" md5="1e74859695dc76dcbebd434c7d98cd2a" sha1="89a9ec6aa046946b89ccf0b5bc7792179af8511a" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 33).raw" size="20991600" crc="08a7b3fa" md5="9f7f0390e41ec39194bb8f20e64eba24" sha1="79a87e87e542cde5405d95ad92db8923637d8537" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 34).raw" size="22932000" crc="8937c5ed" md5="2294bf83f0d7dd65c7f0889f163ff303" sha1="2ec30d60a2f6e09e6df19a16352d4488491e438a" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 35).raw" size="17110800" crc="17d07c20" md5="59da5970e8bff6e655a0051f3abc03de" sha1="ba5f784df01796024d7eb373f248ee84479f7ee5" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 36).raw" size="11289600" crc="f8c8afd9" md5="c6741e8a50503b3235dc81b8073b079d" sha1="80df147d3fdaf87f83fd51243c1041d606a06001" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 37).raw" size="22050000" crc="26bfdfb7" md5="c04bb02e9db1b96761e6ba9b04f78484" sha1="4648e1a51aac7bd26637524b0021d0213ac76ad9" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 38).raw" size="11995200" crc="ea431dfe" md5="2cb26cf8a1e7c127a0aefe9da8b71d01" sha1="af66b3c6e1b2e73b07d162ce9edcff351d09ae29" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 39).raw" size="22226400" crc="a9eec31a" md5="760f3ef5c7f27d9fe88ae6f5a067356a" sha1="8890fd751f0dae355e85f222846b9d75644cfa9f" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 40).raw" size="4586400" crc="51bd7a4a" md5="b3b623d79c85d41956224ec337ec0c8f" sha1="7162556b421fab1904aba23b19c26b3a28cbad29" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 41).raw" size="11642400" crc="e8805fae" md5="a3407a7213b4b875a4f6c073dba5a3be" sha1="8e6b64afcfcb50cfb60fb59ccc0ddfa586ec66eb" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 42).raw" size="5115600" crc="3f386770" md5="2f2a084a61bc2fa89b0928f497bba0ef" sha1="a7ca4ae147ba59aa909a807ccf78dc81f1b0fd20" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 43).bin" size="86062032" crc="17a9a6b5" md5="63b8b4a03cd0786b50b116afc1339f7b" sha1="941cef7cd1df87297d4a0ad6ca0749fc751f27e7" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19).gdi" size="3510" crc="9417db81" md5="f611cef0a9eb0abec2894d8254e356c6" sha1="23382e54f087f18324b17fd22c11566b9ae02aa4" status="none" />
 	</game>
 </datafile>

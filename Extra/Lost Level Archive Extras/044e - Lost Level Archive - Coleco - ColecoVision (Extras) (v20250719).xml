@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>044e</id>
+		<name>044e - Lost Level Archive - Coleco - ColecoVision (Extras)</name>
+		<description>Coleco - ColecoVision (Extras)</description>
+		<version>v20250719</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Mario Bros. (World) (Aftermarket) (Unl) - Extras">
+		<description>Mario Bros. (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Mario Bros. (World) (Aftermarket) (Unl) - Manual.pdf" size="5606599" crc="d0273ec6" md5="737b47cf89928b42fc645404a519fd03" sha1="51fa9681151908d0e1c32028e77793588f997840" />
+	</game>
+	<game name="Mr. Chin (World) (MSX Conversion) - Extras">
+		<description>Mr. Chin (World) (MSX Conversion) - Extras</description>
+		<rom name="Mr. Chin (World) (MSX Conversion) - Manual.pdf" size="2886773" crc="1d76fc0c" md5="88cf84bac684fd71518e7fa9aa448b4d" sha1="1d3da7cae77ae7d3bb2cb8994ea89c1a3e914dc1" />
+	</game>
+	<game name="Quest for the Golden Chalice (World) (Aftermarket) (Unl) - Extras">
+		<description>Quest for the Golden Chalice (World) (Aftermarket) (Unl) - Extras</description>
+		<rom name="Quest for the Golden Chalice (World) (Aftermarket) (Unl) - Manual.pdf" size="465194" crc="9a6e725f" md5="eea0602b29dc1a7d25de74352eedf858" sha1="470a5c627a66814ce0253913b91e3213d0414b2a" />
+	</game>
+	<game name="Track &amp; Field (World) (MSX Port) (Aftermarket) (Team Pixelboy) - Extras">
+		<description>Track &amp; Field (World) (MSX Port) (Aftermarket) (Team Pixelboy) - Extras</description>
+		<rom name="Track &amp; Field (World) (MSX Port) (Aftermarket) (Team Pixelboy) - Box Art.jpg" size="84585" crc="da102f13" md5="adbb1c349f76ca350010e7a071015160" sha1="82cd8dec042303a7a5dd5ba447efd3d676630b85" status="none" />
+		<rom name="Track &amp; Field (World) (MSX Port) (Aftermarket) (Team Pixelboy) - Manual.pdf" size="1082106" crc="76a00add" md5="b546946c768327fd2ae418ce9d791856" sha1="84c4e1c6b50d96c471056dc2d2100f389ae5b544" status="none" />
+	</game>
+</datafile>
