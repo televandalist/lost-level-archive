@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>037e</id>
+		<name>037e - Lost Level Archive - Amstrad - CPC (Extras)</name>
+		<description>Amstrad - CPC (Extras)</description>
+		<version>v20251212</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="4 to 4 - Back to the Future (2015) (Kukulcan) (En)- Extras">
+		<description>4 to 4 - Back to the Future (2015) (Kukulcan) (En)- Extras</description>
+		<rom name="4 to 4 - Back to the Future (2015) (Kukulcan) (En) - Cover.pdf" size="2596852" crc="f36d0142" md5="a78c141b1258d4ff29450b3f5f7cbb28" sha1="26d08f8e11541f78b1f042b1465d5f822e6f1437" status="none" />
+		<rom name="4 to 4 - Back to the Future (2015) (Kukulcan) (En) - Inlay.pdf" size="21525" crc="9d510a43" md5="498aff37cb47dbebc5a5d561e5a8d1b4" sha1="8af64b1d8875f598cfa19f9d07f9da1c8c0a6976" status="none" />
+		<rom name="4 to 4 - Back to the Future (2015) (Kukulcan) (En) - Sticker.pdf" size="22039" crc="bf1b68c4" md5="fe1895f9c781a2729df2b0dd4e759505" sha1="5b12bbaf768d8c162d1d6b7cc9bc74846a3e5ef6" status="none" />
+	</game>
+	<game name="8bit Wars (2001) (21bloques) - Extras">
+		<description>8bit Wars (2001) (21bloques) - Extras</description>
+		<rom name="8bit Wars (2021) (21bloques) - Manual (En).pdf" size="897392" crc="f76c0030" md5="91e7a8fc35ad6b8943d68da3b91915a9" sha1="ccaa0c708ea49b0ddc9e2d71e9b597cfab34416d" status="none" />
+		<rom name="8bit Wars (2021) (21bloques) - Manual (Es).pdf" size="912076" crc="79ae8fec" md5="1ab77ad0b4d9bf0e69a0451bd49498b0" sha1="1499ec72444cfc8501155a6335a5e71734a72ada" status="none" />
+	</game>
+	<game name="Aliens'n Tanks (2021) (Ohcaco Games) - Extras">
+		<description>Aliens'n Tanks (2021) (Ohcaco Games) - Extras</description>
+		<rom name="Aliens'n Tanks (2021) (Ohcaco Games) - Font - Cosmic Alien (Freaky Fonts).ttf" size="15720" crc="940f4620" md5="2d085987a602486a6177202dc4baa789" sha1="e086bbc31b82916f5307b9de67376e0c3bcfbcd1" status="none" />
+		<rom name="Aliens'n Tanks (2021) (Ohcaco Games) - Font - Pixellari (Zacchary Dempsey-Plante).ttf" size="39908" crc="65684ee0" md5="496f5330d2c390d6487c296d2c550426" sha1="2cb35cc3586c7a1cb8eb385f4e88d2f0b803c2f2" status="none" />
+		<rom name="Aliens'n Tanks (2021) (Ohcaco Games) - Font - Press Start 2P (Codeman38).ttf" size="82480" crc="aa4f6892" md5="74496d9086d97aaeeafb3085e9957668" sha1="91a2b00b578d4e50e9aed4b3c6dde937930860d5" status="none" />
+		<rom name="Aliens'n Tanks (2021) (Ohcaco Games) - Making of.pdf" size="442884" crc="40607919" md5="56b84130060b8f759192ced2a9022d51" sha1="e0a8f09259902249c591d5bfb2ddb6315fe43b72" status="none" />
+		<rom name="Aliens'n Tanks (2021) (Ohcaco Games) - Manual.pdf" size="1009080" crc="62b67692" md5="9cf39f6b5b898bf2ae482570b2dd2bed" sha1="3b8e72c3b3e4f838dabcfa8f33c9c35437aed306" status="none" />
+	</game>
+	<game name="Alloy Box (2023) (CNGSoft) - Extras">
+		<description>Alloy Box (2023) (CNGSoft) - Extras</description>
+		<rom name="Alloy Box (2023) (CNGSoft) - Manual.pdf" size="91767" crc="626f6728" md5="148321ba3fac755ead4b77ac1ea30ccb" sha1="a21be5c977e3eef9425144cdf3d799748e06e2e2" status="none" />
+	</game>
+	<game name="Altair (2014) (Inmensa Bola de Manteca) (En,Es)- Extras">
+		<description>Altair (2014) (Inmensa Bola de Manteca) (En,Es)- Extras</description>
+		<rom name="Altair (2014) (Inmensa Bola de Manteca) - Cover.pdf" size="243678" crc="567dac85" md5="632090a1fbc3a4028782310a9a4876f1" sha1="b509f58d48b2f2763a8842872fe63df533173eb9" status="none" />
+		<rom name="Altair (2014) (Inmensa Bola de Manteca) - Inlay.pdf" size="32330" crc="7f9b2be3" md5="5da2761f79fbf602b1104f6ba210ac4b" sha1="8cc5391c38d5595950eceaf88cf1629b37c12df9" status="none" />
+		<rom name="Altair (2014) (Inmensa Bola de Manteca) - Sticker.pdf" size="28206" crc="6b46d5e4" md5="eb1e0f9f289115c2c74b86e21674bc67" sha1="e1197a529168c2a218ff35b0eb03bb2776015a5f" status="none" />
+	</game>
+	<game name="Amnesia (1998) (Rudiger, JRM) (En)- Extras">
+		<description>Amnesia (1998) (Rudiger, JRM) (En)- Extras</description>
+		<rom name="Amnesia (1998) (Rudiger, JRM) - Cover.pdf" size="1127734" crc="f209e253" md5="de285962818af1a220b79d1543bf3f0c" sha1="9e134db4331b7fdb857eddf01d2773824edc0238" status="none" />
+		<rom name="Amnesia (1998) (Rudiger, JRM) - Inlay.pdf" size="52349" crc="56a7537f" md5="350e5d05b4334f66b7a8d205c6bbfd99" sha1="96baaea01e1ce904b89d6ee0605531b37c36ee03" status="none" />
+		<rom name="Amnesia (1998) (Rudiger, JRM) - Sticker.pdf" size="28865" crc="969f4148" md5="937d3eed7a7e667efbcdaf300e72efbf" sha1="a717c3eaf37c263bc5fa5c4d2dc37f44c1cfd27a" status="none" />
+	</game>
+	<game name="Ant Attack (2014) (40Crisis)- Extras">
+		<description>Ant Attack (2014) (40Crisis)- Extras</description>
+		<rom name="Ant Attack (2014) (40Crisis) - Cover.pdf" size="963408" crc="c694b68a" md5="e6c34de9efcfa0309d85d76322a83c27" sha1="d6919afd269013e4114407ba7aad217c22e70b92" status="none" />
+		<rom name="Ant Attack (2014) (40Crisis) - Inlay (En).pdf" size="31130" crc="3257a990" md5="78ecdbee324640ead5f010ba7e0223dc" sha1="70b6e03502c3bf48e29d0830a169de9ef4a79362" status="none" />
+		<rom name="Ant Attack (2014) (40Crisis) - Inlay (Fr).pdf" size="32839" crc="847b02f0" md5="e43faa1af3c13f60629fee552f70db86" sha1="2a77728bf31ec049c455b298e080401975dd09fc" status="none" />
+		<rom name="Ant Attack (2014) (40Crisis) - Sticker.pdf" size="26308" crc="87764158" md5="d8f2492f307a3b87ed558a46c1492d54" sha1="f9b65de14ecee4ef0d542f43b4e7ef32193ca6ff" status="none" />
+	</game>
+	<game name="Aqua (2006) (GG, DadMan) (Es)- Extras">
+		<description>Aqua (2006) (GG, DadMan) (Es)- Extras</description>
+		<rom name="Aqua (2006) (GG, DadMan) (Es) - Cover.pdf" size="1233154" crc="765cd7d2" md5="03ab301f76b9f0caa4f322814d55f034" sha1="283a1b1e180a58aaccfd77fdaf48859fe1ad0873" status="none" />
+		<rom name="Aqua (2006) (GG, DadMan) (Es) - Inlay.pdf" size="19908" crc="858ae426" md5="72880aa9f9e3ccff850aa2b29dde9543" sha1="b848b4b99569e256c8def5a0e2a21fa957b07d19" status="none" />
+		<rom name="Aqua (2006) (GG, DadMan) (Es) - Sticker.pdf" size="21855" crc="febd914a" md5="c8337ac78ab9a6cbf4c82a2d74b5d368" sha1="f7aa2395823b8a26dec72851a0f62292acaa9e6e" status="none" />
+	</game>
+	<game name="Area 51 (2006) (J. Cauldwell, N. Campbell) (En)- Extras">
+		<description>Area 51 (2006) (J. Cauldwell, N. Campbell) (En)- Extras</description>
+		<rom name="Area 51 (2006) (J. Cauldwell, N. Campbell) (En) - Cover.pdf" size="477584" crc="e62f04e2" md5="2b41e068c13da98fc62ffe9a5f338e99" sha1="3d6e51c12d2a763a3b000a1b5d970066e425c16f" status="none" />
+		<rom name="Area 51 (2006) (J. Cauldwell, N. Campbell) (En) - Inlay.pdf" size="50699" crc="685613aa" md5="0631e5631432f1f5dc591269ebd161da" sha1="8c7dca83bf34006717c7344ef22802aa350e3276" status="none" />
+		<rom name="Area 51 (2006) (J. Cauldwell, N. Campbell) (En) - Sticker.pdf" size="28736" crc="80bd6fb0" md5="ea50511e75522d4b32f59eea9452d56e" sha1="b360f8133c1b5a9e0ffb43970495f46ada242248" status="none" />
+	</game>
+	<game name="Arquimedes XXI (2011) (Dinamic Software, ESP Soft)- Extras">
+		<description>Arquimedes XXI (2011) (Dinamic Software, ESP Soft)- Extras</description>
+		<rom name="Arquimedes XXI (2011) (Dinamic Software, ESP Soft) - Cover.pdf" size="1299837" crc="217055a8" md5="a14775ee9d5e0939d141942e263ae634" sha1="f964fddc643165c04544bf0975ea826090a02960" status="none" />
+		<rom name="Arquimedes XXI (2011) (Dinamic Software, ESP Soft) - Inlay (En).pdf" size="99906" crc="32d25f55" md5="403971d50426035f45e45fc8681b9fb2" sha1="d726c81bac7c59aa02276afb4cb479b5cb0c954c" status="none" />
+		<rom name="Arquimedes XXI (2011) (Dinamic Software, ESP Soft) - Inlay (Es).pdf" size="99422" crc="009ed99d" md5="02f2d5ae127a719a22aa33af9849dfec" sha1="cf4e883197b892462607157c79e41c0bd18ecc1c" status="none" />
+		<rom name="Arquimedes XXI (2011) (Dinamic Software, ESP Soft) - Inlay (Fr).pdf" size="99901" crc="b4e5d2ea" md5="8347bcd7215d913d34f32a3449e15cf5" sha1="2f4aabbf135e235b3e93fddf226761ad5329e302" status="none" />
+		<rom name="Arquimedes XXI (2011) (Dinamic Software, ESP Soft) - Sticker.pdf" size="39175" crc="1a9a2888" md5="89df8d92bda47e3b5a1e539f6f61c7dd" sha1="994d677388f311d26655dffa1ca53a395a1240bd" status="none" />
+	</game>
+	<game name="Axys - The Last Battle (1991) (Fabien Fessard) (Fr)- Extras">
+		<description>Axys - The Last Battle (1991) (Fabien Fessard) (Fr)- Extras</description>
+		<rom name="Axys - The Last Battle (1991) (Fabien Fessard) (Fr) - Cover.pdf" size="719871" crc="f46aebbf" md5="ba4c626d1c249ad1d99972e872c9d223" sha1="9b532f4c33196081508b3e6966b5ee3e29d621d5" status="none" />
+		<rom name="Axys - The Last Battle (1991) (Fabien Fessard) (Fr) - Inlay.pdf" size="20471" crc="b9f303e0" md5="106087e18f8840341d05ba7e24741458" sha1="bfc61e7744b693a1c37f9ea700747d8d13a0e0b7" status="none" />
+		<rom name="Axys - The Last Battle (1991) (Fabien Fessard) (Fr) - Sticker.pdf" size="19929" crc="39c3cc90" md5="fd22917af48037c40eb8bc1926af8eba" sha1="d40b38ba0395a79be63e8f0ee4a0680f7a4b84f9" status="none" />
+	</game>
+	<game name="Balldozer (1991) (Joeren Erkens) (En)- Extras">
+		<description>Balldozer (1991) (Joeren Erkens) (En)- Extras</description>
+		<rom name="Balldozer (1991) (Joeren Erkens) (En) - Cover.pdf" size="1198818" crc="6384a6b0" md5="c1aba71ace3f1600d15d9da2faa7c07e" sha1="29a5c0c5f79ffbd24c6cf513003c22e1ef28ad37" status="none" />
+		<rom name="Balldozer (1991) (Joeren Erkens) (En) - Inlay.pdf" size="54148" crc="771853fa" md5="ea0a4b2aa4a252e49d9b43fc2089744e" sha1="ebb8e09201820a4a63afa1193c4b5871880101ef" status="none" />
+		<rom name="Balldozer (1991) (Joeren Erkens) (En) - Sticker.pdf" size="22400" crc="02b3b899" md5="0781f841ebc17bb209d492a870a61c3f" sha1="5152ba367d0f48cab7f0e2496a73cd455fe59927" status="none" />
+	</game>
+	<game name="Balloonacy! (2007) (Richard Bayliss, Kevin Thacker) (En)- Extras">
+		<description>Balloonacy! (2007) (Richard Bayliss, Kevin Thacker) (En)- Extras</description>
+		<rom name="Balloonacy! (2007) (Richard Bayliss, Kevin Thacker) (En) - Cover.pdf" size="837271" crc="a9526f90" md5="d8f62f313409112737ceb076e1e0374e" sha1="dfef15d73582eaf8e40808a98d302de53b09f95e" status="none" />
+		<rom name="Balloonacy! (2007) (Richard Bayliss, Kevin Thacker) (En) - Inlay.pdf" size="39204" crc="f47d1947" md5="4d5c697c2d1f5d5e37ddc5d5c5474bab" sha1="29da7af0e42192042e12771d8205baa1bdd7889c" status="none" />
+		<rom name="Balloonacy! (2007) (Richard Bayliss, Kevin Thacker) (En) - Sticker.pdf" size="29786" crc="1500502c" md5="b35215dd329c8b57170e14a5219b93e0" sha1="3287c19a9803d7b04774101eaf770ed2944018f5" status="none" />
+	</game>
+	<game name="Balls (2004) (Z Production) (En)- Extras">
+		<description>Balls (2004) (Z Production) (En)- Extras</description>
+		<rom name="Balls (2004) (Z Production) (En) - Cover.pdf" size="1003745" crc="735d653e" md5="070301a0aa948450e695e46803c215ce" sha1="9e21d9714ce2645f55188e6850123cc914767a79" status="none" />
+		<rom name="Balls (2004) (Z Production) (En) - Inlay.pdf" size="21370" crc="14b417c6" md5="33f9baecdeb0f82211c7ef6cefbdbed0" sha1="7c3c9f96ba0a1223db7d6e1bf10ace643dc2457b" status="none" />
+		<rom name="Balls (2004) (Z Production) (En) - Sticker.pdf" size="20162" crc="26a670d0" md5="88e953d2520dcd143125425c00112cc2" sha1="599fb0ed58b72cf4c8690fbef561489a4b3f73fa" status="none" />
+	</game>
+	<game name="Barking Adventure (2021) (capAI) - Extras">
+		<description>Barking Adventure (2021) (capAI) - Extras</description>
+		<rom name="Barking Adventure (2021) (capAI) - Making of.pdf" size="129690" crc="14242257" md5="9ba02334f3fdec345b97469c33f126b8" sha1="5640b7c2898b9af428c8298dbf2bc8980104ab3c" status="none" />
+		<rom name="Barking Adventure (2021) (capAI) - Manual.pdf" size="220864" crc="62df251c" md5="9896e94542f0bba0c381fb6e361c8a89" sha1="ab9affffd3c1f266fb787c95fc451a2f99d13b27" status="none" />
+	</game>
+	<game name="Betiled! (2009) (Zogo, DaDMan) (En)- Extras">
+		<description>Betiled! (2009) (Zogo, DaDMan) (En)- Extras</description>
+		<rom name="Betiled! (2009) (Zogo, DaDMan) (En) - Cover.pdf" size="1458322" crc="cbdda805" md5="b663ebefc7b8bcd379810ce9c6ac5cb6" sha1="66f8700aea146a4289c9c216b286ad3149900d5a" status="none" />
+		<rom name="Betiled! (2009) (Zogo, DaDMan) (En) - Inlay.pdf" size="20796" crc="0a5b547c" md5="32b0240d981c34dbcdfc31aa7184782c" sha1="ff192a26be05c508029b20e7a06d804658364536" status="none" />
+		<rom name="Betiled! (2009) (Zogo, DaDMan) (En) - Sticker.pdf" size="21418" crc="773136bb" md5="7a7c6fa3c8b39b2b6dc793f6cc1c2e3f" sha1="7f9e6d3e424970bed7191996b26fba41b22ca586" status="none" />
+	</game>
+	<game name="Black System Anthology - Volume 1 (1993) (Black System)- Extras">
+		<description>Black System Anthology - Volume 1 (1993) (Black System)- Extras</description>
+		<rom name="Black System Anthology - Volume 1 (1993) (Black System) - Cover.pdf" size="1253673" crc="48b582f3" md5="8bb9ccdb50d1db6e9383d79126a9f5e6" sha1="74bcc205d2b6c7b736e170198ad9f4c49a44843c" status="none" />
+		<rom name="Black System Anthology - Volume 1 (1993) (Black System) - Inlay (En).pdf" size="20177" crc="0bd4977a" md5="ae8db013bf4e2815d3e13fb8aa374bff" sha1="a412dd1b060f2c10c6c578ac7b9be59cbbbbde81" status="none" />
+		<rom name="Black System Anthology - Volume 1 (1993) (Black System) - Inlay (Fr).pdf" size="20788" crc="11990496" md5="0fc07ff52de70d86a7db8fbf437f46ee" sha1="66baa4425e252c31ab29c4d475d702388e6e5519" status="none" />
+		<rom name="Black System Anthology - Volume 1 (1993) (Black System) - Sticker.pdf" size="57581" crc="a52be3c6" md5="9972b0b04621de9f83db245f1a7cdb95" sha1="72ef6e614a475dcb1a81a188ff6a04d600d23afe" status="none" />
+	</game>
+	<game name="Black System Anthology - Volume 2 (1993) (Black System)- Extras">
+		<description>Black System Anthology - Volume 2 (1993) (Black System)- Extras</description>
+		<rom name="Black System Anthology - Volume 2 (1993) (Black System) - Cover.pdf" size="1336749" crc="bf572a2c" md5="2eb91db79c54d034ac23f4ca12a9e754" sha1="94065f6cb0a63066cae6afbd80f9cda822d29130" status="none" />
+		<rom name="Black System Anthology - Volume 2 (1993) (Black System) - Inlay (En).pdf" size="20404" crc="f89116c4" md5="79811e15a773fc9efdc7600ad4525199" sha1="c31dae817593d8d6158cf0d31642060631ca6f2e" status="none" />
+		<rom name="Black System Anthology - Volume 2 (1993) (Black System) - Inlay (Fr).pdf" size="21427" crc="8b9481da" md5="fe8d53cced8aa0216d060988fea16554" sha1="0ab29babb6728ab4d2390c0f918579c974cdcac5" status="none" />
+		<rom name="Black System Anthology - Volume 2 (1993) (Black System) - Sticker.pdf" size="57766" crc="db7276e0" md5="84cc596055cb32c2eb1e5e98b0f95e33" sha1="a266c1057ac8a685eb38c3d57da214504670b5f1" status="none" />
+	</game>
+	<game name="Blue Angel 69 (2010) (Kevin Thacker) (En)- Extras">
+		<description>Blue Angel 69 (2010) (Kevin Thacker) (En)- Extras</description>
+		<rom name="Blue Angel 69 (2010) (Kevin Thacker) (En) - Cover.pdf" size="715451" crc="36113513" md5="97fab071109a1b0e45f1a50fc529dfe7" sha1="02a1dc8504aa46f70a2131bc4effe612395b3897" status="none" />
+		<rom name="Blue Angel 69 (2010) (Kevin Thacker) (En) - Inlay.pdf" size="50107" crc="42648b41" md5="a7e5db1be226b2df5906a22d7b924f27" sha1="c211dcf65a50e244fdb9b6e9283b12a257b291d1" status="none" />
+		<rom name="Blue Angel 69 (2010) (Kevin Thacker) (En) - Sticker.pdf" size="62058" crc="ec2e7a61" md5="c03f31a7d628bcd852844b209cbb1b45" sha1="c6336f2f30c22eccfbd5b388ff729623b49c92ea" status="none" />
+	</game>
+	<game name="Brick Rick (2020) (reidrac) - Extras">
+		<description>Brick Rick (2020) (reidrac) - Extras</description>
+		<rom name="Brick Rick (2020) (reidrac) - Manual.pdf" size="117421" crc="ebcb9c54" md5="4d93a3bdcbe4da223515edf257d17cb0" sha1="08fd6d16cc3bdd598e1a674bc141c8aeabb71af9" status="none" />
+	</game>
+	<game name="Bubble Bobble 4 CPC (2012) (CNG Soft)- Extras">
+		<description>Bubble Bobble 4 CPC (2012) (CNG Soft)- Extras</description>
+		<rom name="Bubble Bobble 4 CPC (2012) (CNG Soft) - Cover.pdf" size="1077466" crc="1ef20d4a" md5="53e4d763c45c7cb76e63b9e272a393a7" sha1="0a145965e432f4d3a83a0141c687abd6c8151258" status="none" />
+		<rom name="Bubble Bobble 4 CPC (2012) (CNG Soft) - Inlay (En).pdf" size="262425" crc="162673d0" md5="2117c0f95748eead1439c187def2609b" sha1="fa9d96fa5aa5c8c6ccc886d9d1dff99c61fb209a" status="none" />
+		<rom name="Bubble Bobble 4 CPC (2012) (CNG Soft) - Inlay (Fr).pdf" size="263504" crc="b8bed56e" md5="75e8e003c493cd5ea5fd6f3390037635" sha1="b7b69752e43696ba68b38304d217734a3d8d2e7d" status="none" />
+		<rom name="Bubble Bobble 4 CPC (2012) (CNG Soft) - Sticker.pdf" size="36145" crc="90329a77" md5="d1790f43d73ab67b7d077edc52ba3f8a" sha1="7581fc7136043b39ae6cdae706e220ea0a31d3ec" status="none" />
+	</game>
+	<game name="Capeture, The (2021) (Cyb3r Apes) - Extras">
+		<description>Capeture, The (2021) (Cyb3r Apes) - Extras</description>
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\AboveTheRainbow.aks" size="9600" crc="8244563c" md5="eace493657f62d188d897bd1f7b4b6a6" sha1="c44a7be576bbbe83280d16f1946e7dc32a8e90ff" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\Apes_Game.aks" size="7125" crc="3be438f1" md5="01d93b80250c17310aa8859c3f299f45" sha1="9585d0e2244e3390c06acfa13b1c2131a76ae76b" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\GameOver.aks" size="9544" crc="d9f0cbdb" md5="7b82857ec3cf34bc25db2cb6693fdf79" sha1="7e8e58a1df58f483a48d57b08921866565106bd9" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\Hurry_Up.aks" size="9560" crc="6693a9be" md5="947363b8ea90efe5d66ce1d2a293f913" sha1="b371c4b91c66b35ea7fd2e2045c123af112eba30" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\KillMePlease.aks" size="7167" crc="d96c7135" md5="a0b4f94ac05678ebc525bc47daeb4d2a" sha1="7dd484cf4dc1fc0a0943f232e269824b23de9e9f" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\MagicForest.aks" size="9603" crc="9de37d67" md5="44ca44df7c2ec7f718a09c9ef393c700" sha1="cb9496f576c9ac77f08002aa4358ba126859ba5e" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\Mamasita.aks" size="11944" crc="3018c8b9" md5="89fdf5fa1e288219b414634b397da31a" sha1="32e91660da307a46339cbe3c3fa1be079ea3da46" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\RescueMission.aks" size="7147" crc="d5e625c9" md5="fba1a3da9e1b0dc40efd6a5c9db048b5" sha1="c2f43f96dc3455300f945ccff663a49ad9df85e6" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\TheLastBattle.aks" size="7141" crc="e0bd4472" md5="7a93ae6814df09d10900c96a7fff9879" sha1="61b41d4441d9cf5a30b5296f67fb8f5cc7a7d574" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\ThePrincess.aks" size="14483" crc="bfa24813" md5="c3a97caf797c34d32b8b24e9e615cda5" sha1="a13eaf3dda3265baf8c66fb219a065e148ba4b69" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - OST\ToTheRiver.aks" size="14477" crc="3dd008f4" md5="50215c7ca737d74fa850907dbbe65000" sha1="4e66ffbf8b06266f12b9d5fa07650c66b659bef7" status="none" />
+		<rom name="Capeture, The (2021) (Cyb3r Apes) - Manual.pdf" size="573592" crc="7a5c0d13" md5="2940d5daffea2e39a1355104747e21a0" sha1="524e3b3de634054f02b52322e07d240fa14c3cf5" status="none" />
+	</game>
+	<game name="Castle Kid (2021) (AxolotIUA) - Extras">
+		<description>Castle Kid (2021) (AxolotIUA) - Extras</description>
+		<rom name="Castle Kid (2021) (AxolotIUA) - Making of.pdf" size="563657" crc="8edd34ae" md5="7f646515f6512922f5f1f31bd67a6ca7" sha1="94397965ae7477cf3bb3098e9374e50e2f633398" status="none" />
+		<rom name="Castle Kid (2021) (AxolotIUA) - Manual.pdf" size="265923" crc="f4ce8229" md5="e06b746d3d9d5eef886f68c7c8aea370" sha1="49452a83d70a5576803621006f117c043f26a635" status="none" />
+	</game>
+	<game name="Cheril of the Bosque (2010) (The Mojon Twins) (En)- Extras">
+		<description>Cheril of the Bosque (2010) (The Mojon Twins) (En)- Extras</description>
+		<rom name="Cheril of the Bosque (2010) (The Mojon Twins) (En) - Cover.pdf" size="932704" crc="2c04d147" md5="77c3b814c4cd3fca9c7f954160ab0d54" sha1="05b513148da83d375231d7a2eb3143cbb4a62697" status="none" />
+		<rom name="Cheril of the Bosque (2010) (The Mojon Twins) (En) - Inlay.pdf" size="21334" crc="f2c67326" md5="ee4602bf4815d04054bffa8f9ed6d3cd" sha1="8d1860e736e02c4719361a74bfc15f11ec14e362" status="none" />
+		<rom name="Cheril of the Bosque (2010) (The Mojon Twins) (En) - Sticker.pdf" size="21344" crc="f2d10d24" md5="a95739323bbf8668e0d6a43449dd3be9" sha1="e3b79dd7e8909248ca330c1dae34bf9c1392f8ab" status="none" />
+	</game>
+	<game name="Citadelle (2005) (Loriciels) (Fr)- Extras">
+		<description>Citadelle (2005) (Loriciels) (Fr)- Extras</description>
+		<rom name="Citadelle (2005) (Loriciels) (Fr) - Cover.pdf" size="1522559" crc="2a549b97" md5="d6cb22b0b5bdeec9d315e8785d131f67" sha1="48e96765cf944cf4fb1186772a80732ef71f0973" status="none" />
+		<rom name="Citadelle (2005) (Loriciels) (Fr) - Inlay.pdf" size="329069" crc="1a5ccdbe" md5="f902eb73d849996e403385aae1f5dca7" sha1="d3f19af8a9860476e52877ff21fece126a2b2fa7" status="none" />
+		<rom name="Citadelle (2005) (Loriciels) (Fr) - Sticker.pdf" size="26631" crc="017fc841" md5="da996f60a16c5e53c641ab8b8e0dbcc0" sha1="8c6d5e98aeb5e17784d64b4b536078df219450ed" status="none" />
+	</game>
+	<game name="Cloud Sailor (2021) (rhgi1) - Extras">
+		<description>Cloud Sailor (2021) (rhgi1) - Extras</description>
+		<rom name="Cloud Sailor (2021) (rhgi1) - Manual.pdf" size="277238" crc="4bed9838" md5="a7660076110179b1eeeaeb1d3d056cb6" sha1="de2a048b2e6eca3be65572d9d961558a5fe70a44" status="none" />
+	</game>
+	<game name="Color Lines (2010) (Tom&amp;Jerry)- Extras">
+		<description>Color Lines (2010) (Tom&amp;Jerry)- Extras</description>
+		<rom name="Color Lines (2010) (Tom&amp;Jerry) - Cover.pdf" size="591454" crc="e86f8f49" md5="4a4c5fa050c3f0eeeb25354d9c49c294" sha1="da0828ddf1a0ea41364cc7a09b93adaebe038440" status="none" />
+		<rom name="Color Lines (2010) (Tom&amp;Jerry) - Inlay (En).pdf" size="20969" crc="24380236" md5="28fc60f8a01a2507249782a7d11f0463" sha1="a29c9164bee4a3555ca85f92704e9e180f88bcdd" status="none" />
+		<rom name="Color Lines (2010) (Tom&amp;Jerry) - Inlay (Fr).pdf" size="21641" crc="a91fe811" md5="97585bdd911745ff063fa43e39fa82e8" sha1="5e11e378b243d2a4da4cb607a35d0e8edcc5d2b7" status="none" />
+		<rom name="Color Lines (2010) (Tom&amp;Jerry) - Sticker.pdf" size="19673" crc="36924ad0" md5="eb9ac6678d157c5a22057b6eb3400ce5" sha1="61c748bff593e4bf912246965092524918e2fed0" status="none" />
+	</game>
+	<game name="Cosmic Gatlin' (2021) (Chill Boat Studio) - Extras">
+		<description>Cosmic Gatlin' (2021) (Chill Boat Studio) - Extras</description>
+		<rom name="Cosmic Gatlin' (2021) (Chill Boat Studio) - Making of.pdf" size="1131734" crc="d200c44c" md5="0431f028953f0b8968c02a7fd54cc5e9" sha1="3691c3f9059ec82bae5b25c12433bb573c08d2f7" status="none" />
+		<rom name="Cosmic Gatlin' (2021) (Chill Boat Studio) - Manual.pdf" size="209488" crc="8ab1556e" md5="a4aa82ed08e34241d57a9280143e32eb" sha1="c61a26a74a16dd90e90ac78d4295f19195a989e1" status="none" />
+	</game>
+	<game name="Crazy Snake (1992) (Fraggle et Duck) (En)- Extras">
+		<description>Crazy Snake (1992) (Fraggle et Duck) (En)- Extras</description>
+		<rom name="Crazy Snake (1992) (Fraggle et Duck) (En) - Cover.pdf" size="1023481" crc="aa0b91bd" md5="69fbcc4cfb8086e6af2bedf1826fd6cc" sha1="902118e242bd6e2da588c0106e7941d1daa0c225" status="none" />
+		<rom name="Crazy Snake (1992) (Fraggle et Duck) (En) - Inlay.pdf" size="30499" crc="9bef0a4d" md5="78e8d887efbad6b103bb231548ad5706" sha1="691ed773ce4b2e39ba66da241e5cea3b5173dbc3" status="none" />
+		<rom name="Crazy Snake (1992) (Fraggle et Duck) (En) - Sticker.pdf" size="20950" crc="d188774a" md5="4357c9c3b752c40027f7629958ef915e" sha1="e9bb06908cce6b9ede9e6ecf3a23c6cda771aaee" status="none" />
+	</game>
+	<game name="Crime du Parking, Le (2008) (Froggy Software, Tom&amp;Jerry) (Fr)- Extras">
+		<description>Crime du Parking, Le (2008) (Froggy Software, Tom&amp;Jerry) (Fr)- Extras</description>
+		<rom name="Crime du Parking, Le (2008) (Froggy Software, Tom&amp;Jerry) (Fr) - Cover.pdf" size="476766" crc="71ba404b" md5="21e7653042cb41fb1b9724d3d4a1ff1a" sha1="c3d72d1538bd7b67a1039768046c6145e5f0415f" status="none" />
+		<rom name="Crime du Parking, Le (2008) (Froggy Software, Tom&amp;Jerry) (Fr) - Inlay.pdf" size="240943" crc="838a9af7" md5="b630bacef819abcb5a8a08b5785c6610" sha1="2037e1675b71f08a0f6a8c1c2df8b602a2ef0595" status="none" />
+		<rom name="Crime du Parking, Le (2008) (Froggy Software, Tom&amp;Jerry) (Fr) - Sticker.pdf" size="30480" crc="e06ef36f" md5="6206f9b2066f0b49e952e85d2e7bb690" sha1="990a0746b0bf2462b5223906e4b9527af2745811" status="none" />
+	</game>
+	<game name="Crystal Mission (1991) (Andreas Stroiczek) (En)- Extras">
+		<description>Crystal Mission (1991) (Andreas Stroiczek) (En)- Extras</description>
+		<rom name="Crystal Mission (1991) (Andreas Stroiczek) (En) - Cover.pdf" size="1150562" crc="95ffd978" md5="f53fd030125e5200ef9fee7cf6a2aff4" sha1="58bcff1bf2a59af5c50914851cba4b83585c12dc" status="none" />
+		<rom name="Crystal Mission (1991) (Andreas Stroiczek) (En) - Inlay.pdf" size="21477" crc="e2b945dd" md5="dc660aa12e7003ce9a1c2cdba7e85bb2" sha1="183048efb8d676f1267b6a21c3efcfc6a9afdeb9" status="none" />
+		<rom name="Crystal Mission (1991) (Andreas Stroiczek) (En) - Sticker.pdf" size="22312" crc="a88fbde4" md5="a2673a8e2994bd6f20eba7f2829995bf" sha1="5128a771a16554c7ecdce0867085e7b0d993cb3e" status="none" />
+	</game>
+	<game name="Cult, The (2023) (Tartessos Games) - Extras">
+		<description>Cult, The (2023) (Tartessos Games) - Extras</description>
+		<rom name="Cult, The (2023) (Tartessos Games) (En) - Disk Box Art.png" size="1123942" crc="2c216a8d" md5="78577582aa2a1cb746effbafcb4f2dd6" sha1="81b86bd4226aceceeef06e51b22c8486fc605915" status="none" />
+		<rom name="Cult, The (2023) (Tartessos Games) (En) - Tape Box Art.jpg" size="1201498" crc="23264f92" md5="20bb80e2534a97f777ec2a2ff6368d43" sha1="09eb486b6f7bf30096e01a9b875bec6fd92e9eef" status="none" />
+		<rom name="Cult, The (2023) (Tartessos Games) (Es) - Disk Box Art.png" size="1130348" crc="7cd88e72" md5="f8795e966776b007ce1f86eaaeafea9f" sha1="85d66ef9a73056b21c9cbd2f4d1db1f9a55bd22d" status="none" />
+		<rom name="Cult, The (2023) (Tartessos Games) (Es) - Tape Box Art.png" size="1130348" crc="7cd88e72" md5="f8795e966776b007ce1f86eaaeafea9f" sha1="85d66ef9a73056b21c9cbd2f4d1db1f9a55bd22d" status="none" />
+	</game>
+	<game name="Dawn of Kernel (2018) (Juan J. Martinez) - Extras">
+		<description>Dawn of Kernel (2018) (Juan J. Martinez) - Extras</description>
+		<rom name="Dawn of Kernel (2018) (Juan J. Martinez) - Manual.pdf" size="28233" crc="d5a8b620" md5="d67fc6845c25914ad9a269b059d9e0c6" sha1="fd9fb5e3e951481b7906f0e783487738641135a2" status="none" />
+	</game>
+	<game name="Dead by Dawn (2012) (Malcom Kirk, Miguelsky) (En)- Extras">
+		<description>Dead by Dawn (2012) (Malcom Kirk, Miguelsky) (En)- Extras</description>
+		<rom name="Dead by Dawn (2012) (Malcom Kirk, Miguelsky) (En) - Cover.pdf" size="1279253" crc="e8909d0a" md5="ac8064de9935a76c6a5b935be2b77523" sha1="1ee46cfe3ff2e3e8bba3ac53335b23ef5cf9bcee" status="none" />
+		<rom name="Dead by Dawn (2012) (Malcom Kirk, Miguelsky) (En) - Inlay.pdf" size="22221" crc="57d40d5b" md5="9518e71241064f94bc676823456d1ec3" sha1="d21edde8cd616ad0a4997da8aba4338e1c4a4e11" status="none" />
+		<rom name="Dead by Dawn (2012) (Malcom Kirk, Miguelsky) (En) - Sticker.pdf" size="23835" crc="1aca7e11" md5="145ad06e33c85ac1e47b04142223261c" sha1="bc5330b7c65eb5903b98e222973777c011e78c39" status="none" />
+	</game>
+	<game name="Dead on Time (v3.0) (2010) (Paul Kooistra) (En)- Extras">
+		<description>Dead on Time (v3.0) (2010) (Paul Kooistra) (En)- Extras</description>
+		<rom name="Dead on Time (v3.0) (2010) (Paul Kooistra) (En) - Cover.pdf" size="1100801" crc="4cf37a51" md5="c2b49271ba6a57d7af3b9ed1f6fe7c55" sha1="461820ac16b09c879d380c132c58da2ac210f264" status="none" />
+		<rom name="Dead on Time (v3.0) (2010) (Paul Kooistra) (En) - Inlay.pdf" size="51896" crc="a038d1e6" md5="375edbf25f769781e24703d4d95cd087" sha1="251dd45c67ec04c31bb95cc58e02c1774b1d2842" status="none" />
+		<rom name="Dead on Time (v3.0) (2010) (Paul Kooistra) (En) - Sticker.pdf" size="23091" crc="5791d628" md5="bbb29cf1b2605bd3b40147d10d2deb02" sha1="f7dafd0fdac397cdc9500bdfa6cd1fdbeef2dee6" status="none" />
+	</game>
+	<game name="DiveJely (2023) (ChonkyBird) - Extras">
+		<description>DiveJely (2023) (ChonkyBird) - Extras</description>
+		<rom name="DiveJely (2023) (ChonkyBird) - Making Of.pdf" size="106547" crc="a87f527c" md5="2e199323b3b90ff03ca144a05a640d15" sha1="6e78e35f919da9f19926fb1345145846eaab4e89" status="none" />
+		<rom name="DiveJely (2023) (ChonkyBird) - Manual.pdf" size="340987" crc="23a43867" md5="719e8574cc1e676366fa3be9c502bed7" sha1="863f9f5ec8696b2ca5ae772e6deb4d0a7d8bb69b" status="none" />
+	</game>
+	<game name="Double Keys! (2021) (acorascuenca) - Extras">
+		<description>Double Keys! (2021) (acorascuenca) - Extras</description>
+		<rom name="Double Keys! (2021) (acorascuenca) - Manual.pdf" size="518685" crc="df3fe3a9" md5="940fcbbccba4582ab4e231a123cf70e6" sha1="7e3d32b57abf8e563346c7d07b94fc0140ec6be1" status="none" />
+	</game>
+	<game name="Dr. Roland (2021) (John Lobo) - Extras">
+		<description>Dr. Roland (2021) (John Lobo) - Extras</description>
+		<rom name="Dr. Roland (2021) (John Lobo) - Manual.pdf" size="239132" crc="9ed3ca8e" md5="620d269383de61da243e83247c520eab" sha1="e1a5bbe0f58a9d0e993f34d09979a84a458d7303" status="none" />
+	</game>
+	<game name="Démineur (1993) (GPA) (En)- Extras">
+		<description>Démineur (1993) (GPA) (En)- Extras</description>
+		<rom name="Démineur (1993) (GPA) (En) - Cover.pdf" size="687734" crc="d4d913c4" md5="0acd6220255c1950d8dee196b18e4e89" sha1="bdb7a33d4dd27791e67c2f9172a3896f4f240220" status="none" />
+		<rom name="Démineur (1993) (GPA) (En) - Inlay.pdf" size="20399" crc="c9fec9b0" md5="7a97f53c2d7d5e2026ed7635ab688ccd" sha1="5dc12df4fc2be83f83c05e6dde1e6b7525126b90" status="none" />
+		<rom name="Démineur (1993) (GPA) (En) - Sticker.pdf" size="19774" crc="a1be94f8" md5="49d5ebb358ca6f365feaf63e9d8fe6d3" sha1="254bf988a365d1ebd666d33edb17914104c0b859" status="none" />
+	</game>
+	<game name="Edge Grinder (2012) (Cosine Systems, Axelay) (En)- Extras">
+		<description>Edge Grinder (2012) (Cosine Systems, Axelay) (En)- Extras</description>
+		<rom name="Edge Grinder (2012) (Cosine Systems, Axelay) (En)  - Cover.pdf" size="797045" crc="cf320ddf" md5="e5d6d897c3377942d81f569f2e245c8d" sha1="1c1e290ce8a34ffab45e70bdf5a365d84328aba1" status="none" />
+		<rom name="Edge Grinder (2012) (Cosine Systems, Axelay) (En)  - Inlay.pdf" size="20527" crc="747732a5" md5="27b4f5101305a18421ef735618e861d6" sha1="c075f002a8b9163f8d37fd130f31879f0433fa11" status="none" />
+		<rom name="Edge Grinder (2012) (Cosine Systems, Axelay) (En)  - Sticker.pdf" size="46873" crc="2dcaa324" md5="e830d4c3322fbae9a0dcef778c69b60a" sha1="5fcfbe083a5c35cc7101816bf40c4154b3fb4fb6" status="none" />
+	</game>
+	<game name="Evil Donjon (1989) (Marc Delaperriere) (En)- Extras">
+		<description>Evil Donjon (1989) (Marc Delaperriere) (En)- Extras</description>
+		<rom name="Evil Donjon (1989) (Marc Delaperriere) (En) - Cover.pdf" size="523921" crc="e82f4cae" md5="28a27f01c57dbaf61114e9f21daa1e01" sha1="65241aae531e5accf966ce13792d6b3ee3e09dfb" status="none" />
+		<rom name="Evil Donjon (1989) (Marc Delaperriere) (En) - Inlay.pdf" size="49636" crc="877be9b8" md5="47ee5e3157809db146d54343e4c3fe1a" sha1="f78f08a8d1be0b7b55743d037a98bfc45e9b70fc" status="none" />
+		<rom name="Evil Donjon (1989) (Marc Delaperriere) (En) - Sticker.pdf" size="22203" crc="535db033" md5="26c72ea2cbe0b5ba2134d392b1a754e0" sha1="0b5df666c3d3a5378e1c1d0cfeee60b9021a76a6" status="none" />
+	</game>
+	<game name="Final War (2023) (recreogames) - Extras">
+		<description>Final War (2023) (recreogames) - Extras</description>
+		<rom name="Final War (2023) (recreogames) - Manual.pdf" size="577036" crc="6096850f" md5="e16b3a827a02f3330dfdf9e391b5367d" sha1="3a6c6b5b44870b0702e65a9c9c08b7006dbb1a66" status="none" />
+	</game>
+	<game name="Fitzroy Dives Deep (2021) (awergh) - Extras">
+		<description>Fitzroy Dives Deep (2021) (awergh) - Extras</description>
+		<rom name="Fitzroy Dives Deep (2021) (awergh) - Manual.pdf" size="254209" crc="a465bb44" md5="5cb4ba4239a5fd1623e107e2ae42f461" sha1="f42069be0fc717d9e2a50c6d666b4aa7769c568b" status="none" />
+	</game>
+	<game name="Forms (2023) (John Lobo) - Extras">
+		<description>Forms (2023) (John Lobo) - Extras</description>
+		<rom name="Forms (2023) (John Lobo) - Manual.pdf" size="141605" crc="88a57196" md5="6aa8b7171cefcd96763b428ffc2b2c61" sha1="d542b4a36cfbb7a0e859080999991a09d11fd429" status="none" />
+	</game>
+	<game name="Frestris (1995) (Uncle Siggi) (En)- Extras">
+		<description>Frestris (1995) (Uncle Siggi) (En)- Extras</description>
+		<rom name="Frestris (1995) (Uncle Siggi) (En) - Cover.pdf" size="1087545" crc="b2a39229" md5="3d48abd682b16f47af07704cf11b8b41" sha1="6cb2f266a5970fbd117a4fbd4677d902b70c2765" status="none" />
+		<rom name="Frestris (1995) (Uncle Siggi) (En) - Inlay.pdf" size="21076" crc="9266b3e5" md5="ed31019fa2d924456b9c22f6124aecfb" sha1="146b0908d3b31af0b688598022e942f7f34acf75" status="none" />
+		<rom name="Frestris (1995) (Uncle Siggi) (En) - Sticker.pdf" size="20335" crc="b1a3d189" md5="5be0290c0fa20fa180bdf70ecb1d7d4e" sha1="e0cdb39a45da3d05167d9a998c024b8f41ccf5c9" status="none" />
+	</game>
+	<game name="Froggo Hop (2021) (Popcorn Games) - Extras">
+		<description>Froggo Hop (2021) (Popcorn Games) - Extras</description>
+		<rom name="Froggo Hop (2021) (Popcorn Games) - Manual.pdf" size="180556" crc="19e088a4" md5="7fcfd402ece334f6e6fdfc33b3a6e611" sha1="7b71d321e83db5fdecb573273545ff9d3b6619de" status="none" />
+	</game>
+	<game name="Galactic Tomb (2022) (ESP Soft) - Extras">
+		<description>Galactic Tomb (2022) (ESP Soft) - Extras</description>
+		<rom name="Galactic Tomb (2022) (ESP Soft) - Back.png" size="2127491" crc="8c3eb491" md5="b4ba909b730704806a4dfe950ce55948" sha1="c44cb7994adb38da5713686ac81569ed5cef9700" status="none" />
+		<rom name="Galactic Tomb (2022) (ESP Soft) - Front.png" size="2480068" crc="83bdc2d6" md5="108030f98659e0780cec56b7de4ff0f1" sha1="0a529d4d059011b26e307b1f54bc734e32fb078d" status="none" />
+	</game>
+	<game name="Gates to Hell (2005) (ESP Soft)- Extras">
+		<description>Gates to Hell (2005) (ESP Soft)- Extras</description>
+		<rom name="Gates to Hell (2005) (ESP Soft) - Cover.pdf" size="1316056" crc="a092ed1e" md5="f88a3179c23094420732fc8170b7ae7c" sha1="5865dcaa6ed418a64115c03203477640d88a4809" status="none" />
+		<rom name="Gates to Hell (2005) (ESP Soft) - Inlay (En,Fr).pdf" size="21844" crc="e1c863cd" md5="ffb1a3468c6bacd8466ccbb346baffd8" sha1="11eb9af704914593b76f418f88d68e21357d91fc" status="none" />
+		<rom name="Gates to Hell (2005) (ESP Soft) - Inlay (Es).pdf" size="38675" crc="e07d47e9" md5="e3921c8df7a4ed81646a9fede2e4e45d" sha1="baf81b2a565e186c4f38ae0f6036d68354ae052d" status="none" />
+		<rom name="Gates to Hell (2005) (ESP Soft) - Sticker.pdf" size="20202" crc="72834e17" md5="0eb173c999022bb1ded058f449f31656" sha1="7267fac1f39194081cc77c21f0dd43dc5dc52fd3" status="none" />
+	</game>
+	<game name="Get Out of My Store! (2021) (PyroBombastic Games) - Extras">
+		<description>Get Out of My Store! (2021) (PyroBombastic Games) - Extras</description>
+		<rom name="Get Out of My Store! (2021) (PyroBombastic Games) - Making of.pdf" size="229855" crc="25c5295c" md5="7cb535dd55e8f471e632acaf6eb0a248" sha1="d1a41fae5492f5f7d28031cc316ad5b409acf562" status="none" />
+		<rom name="Get Out of My Store! (2021) (PyroBombastic Games) - Manual.pdf" size="116157" crc="38e9d1e6" md5="f0b10641d0d949486d8fd30881f4236e" sha1="0b172d1236e7133495d0102eb4218f83c737fab7" status="none" />
+	</game>
+	<game name="Groops! (2007) (Binary Sciences) (En,Fr,De,Es)- Extras">
+		<description>Groops! (2007) (Binary Sciences) (En,Fr,De,Es)- Extras</description>
+		<rom name="Groops! (2007) (Binary Sciences) (En,Fr,De,Es) - Cover.pdf" size="639376" crc="3461659d" md5="616b0f74a637723ea6ff287734a2effe" sha1="ce3b2048604fe63e9df159b56b90de741b5c6ba6" status="none" />
+		<rom name="Groops! (2007) (Binary Sciences) (En,Fr,De,Es) - Inlay.pdf" size="18770" crc="536a0984" md5="253655c44b03e953f491cbeb3fba7529" sha1="03193a71158addef735796157bfcf7e71a7fe97a" status="none" />
+		<rom name="Groops! (2007) (Binary Sciences) (En,Fr,De,Es) - Sticker.pdf" size="23041" crc="6e487f21" md5="81fc2504838c95c8fa7ff809b28c0d39" sha1="7968fb27e1cce1e727859854e8fa57c920c99be0" status="none" />
+	</game>
+	<game name="H.E.R.O. (2005) (Flynn) (En)- Extras">
+		<description>H.E.R.O. (2005) (Flynn) (En)- Extras</description>
+		<rom name="H.E.R.O. (2005) (Flynn) (En) - Cover.pdf" size="1101295" crc="6be74f92" md5="5c47b956b58aa2db7d2bbb7e3c32681d" sha1="796cb1deff90566d543f334e4b26cea2fadbfddc" status="none" />
+		<rom name="H.E.R.O. (2005) (Flynn) (En) - Inlay.pdf" size="55510" crc="f5379a68" md5="03f12e934d174b06777edb91e6a2aa9c" sha1="730fe9dbcbcc967776597f606c264803447d5759" status="none" />
+		<rom name="H.E.R.O. (2005) (Flynn) (En) - Sticker.pdf" size="26766" crc="de9b6967" md5="3d0de477f4f04212703b4d7be50166d1" sha1="6d5c6afb8b0b2551bec9d863d92ce295f8d45f9f" status="none" />
+	</game>
+	<game name="Hey Sailor! (2020) (MarineDevelopers) - Extras">
+		<description>Hey Sailor! (2020) (MarineDevelopers) - Extras</description>
+		<rom name="Hey Sailor! (2020) (MarineDevelopers) - Manual.pdf" size="1214055" crc="8efc280f" md5="f1b38b2eeb6a44af439907c55431e149" sha1="fb69d2bf0bec0c67214ddb63b83ab9bb4dac3f51" status="none" />
+	</game>
+	<game name="Hora Bruja (2011) (ESP Soft)- Extras">
+		<description>Hora Bruja (2011) (ESP Soft)- Extras</description>
+		<rom name="Hora Bruja (2011) (ESP Soft) - Cover.pdf" size="1147388" crc="043fa9ff" md5="4671706d475f1e2c0477f1dcb0856eb1" sha1="959b9a2dee39b8100ac0340ae2b7b4ca17cb16ff" status="none" />
+		<rom name="Hora Bruja (2011) (ESP Soft) - Inlay (En,Fr).pdf" size="20965" crc="80fc5c7a" md5="6b9b421a839d702e7331912d3db4b2d9" sha1="873c0798d8e77b053571748b4bc443dc2114f434" status="none" />
+		<rom name="Hora Bruja (2011) (ESP Soft) - Inlay (Es).pdf" size="19800" crc="26bd7cce" md5="f27bab421f4b5140b9ad3d050160b8fc" sha1="1b530e1b148ef317bc99b2f16f6a72ebf1b98f0f" status="none" />
+		<rom name="Hora Bruja (2011) (ESP Soft) - Sticker.pdf" size="18898" crc="95b65e9e" md5="eb9f1daa51988b41589bb9a37e0681b2" sha1="d620f9dc41bd6af1b6ff4d55d1f9e5f389e8e86f" status="none" />
+	</game>
+	<game name="iLogicAll (2009) (CEZ Games Studio, ESP Soft)- Extras">
+		<description>iLogicAll (2009) (CEZ Games Studio, ESP Soft)- Extras</description>
+		<rom name="iLogicAll (2009) (CEZ Games Studio, ESP Soft) - Cover.pdf" size="773773" crc="869a2978" md5="df5f30eca6513827ee5f684a0b1628f7" sha1="455682728eca512e949528e40212f4a26995b004" status="none" />
+		<rom name="iLogicAll (2009) (CEZ Games Studio, ESP Soft) - Inlay (En).pdf" size="20129" crc="3e4480fb" md5="fe7709f9492686d93f1fc4811413ea4e" sha1="3006da35e8777c11774ad2df273731cab3a12b0e" status="none" />
+		<rom name="iLogicAll (2009) (CEZ Games Studio, ESP Soft) - Inlay (Es).pdf" size="20659" crc="c9400d45" md5="88c3a9384100da0c4bcb2ff03bf16683" sha1="39bd394475192ce3f286e3a0f60a1ed6ee0d8b21" status="none" />
+		<rom name="iLogicAll (2009) (CEZ Games Studio, ESP Soft) - Inlay (Fr).pdf" size="20909" crc="017e8c9e" md5="3c0b162823037f6ff399c9e7131409d0" sha1="70cd9614c39e566afc3446e9fbeda82c84678380" status="none" />
+		<rom name="iLogicAll (2009) (CEZ Games Studio, ESP Soft) - Sticker.pdf" size="28577" crc="87d4c5c6" md5="c9b756f6c40f168e9a63c8400d7dac83" sha1="212fa4eeb66c99b1a3013e2fbd1f884a6e1ee5cb" status="none" />
+	</game>
+	<game name="Imaginario Colectivo (2012) (ESP Soft)- Extras">
+		<description>Imaginario Colectivo (2012) (ESP Soft)- Extras</description>
+		<rom name="Imaginario Colectivo (2012) (ESP Soft) - Cover.pdf" size="1146014" crc="4128eed1" md5="41fa5b0d3b5ddbcee9c4a1b7f498d2ba" sha1="eeda6dc289309d1de99d2f8a2922dc7463eade56" status="none" />
+		<rom name="Imaginario Colectivo (2012) (ESP Soft) - Inlay (En).pdf" size="45871" crc="3e92c807" md5="b396f86b13daaf542b279b023a194b1b" sha1="0a0cce331b47635d890cd637ebe6b8d21de2e44b" status="none" />
+		<rom name="Imaginario Colectivo (2012) (ESP Soft) - Inlay (Es).pdf" size="45682" crc="c8ef242d" md5="bbdeeae7a4ab5fd5ec762cb791a63d8d" sha1="3eb999f4c978cee1babbe862efe84f35c4546f17" status="none" />
+		<rom name="Imaginario Colectivo (2012) (ESP Soft) - Inlay (Fr).pdf" size="46217" crc="9676da87" md5="0f47316a97f161e91ec921c8f812c248" sha1="903bd78b9a5674ecb1385b1e2f2439bfb68c1a3a" status="none" />
+		<rom name="Imaginario Colectivo (2012) (ESP Soft) - Sticker.pdf" size="19702" crc="72bf1149" md5="116d1a779d9e911d1a30b5380225b741" sha1="780fea30907cc6111ce90dd84d287853b7b74dd5" status="none" />
+	</game>
+	<game name="Into the Darkness (2021) (Popcorn Games) - Extras">
+		<description>Into the Darkness (2021) (Popcorn Games) - Extras</description>
+		<rom name="Into the Darkness (2021) (Popcorn Games) - Manual.pdf" size="68213" crc="fc6c9636" md5="822738f1a37b1aa589789d7c7b1c949c" sha1="f00b8b29981d94a71d075a322e4a8df019b1607a" status="none" />
+	</game>
+	<game name="Iron Sphere (2006) (Ian Munro) (En)- Extras">
+		<description>Iron Sphere (2006) (Ian Munro) (En)- Extras</description>
+		<rom name="Iron Sphere (2006) (Ian Munro) (En) - Cover.pdf" size="735812" crc="06167266" md5="a984f1a70014122cf9ba40f2eec8ad77" sha1="9e49f3b7f7da050328188a2e5b5da7882e957e01" status="none" />
+		<rom name="Iron Sphere (2006) (Ian Munro) (En) - Inlay.pdf" size="21335" crc="301dca78" md5="f7055b92f49a7d08141db516d5fd8a06" sha1="b0a42da6f71467dd167b6d5d5e66ac05840514f6" status="none" />
+		<rom name="Iron Sphere (2006) (Ian Munro) (En) - Sticker.pdf" size="22913" crc="b41117cb" md5="7a3855f36e45cf52b1b91d7b9e8a55ee" sha1="78f1d4270d2e6409ef1858e6aa5f4cd9b537be9c" status="none" />
+	</game>
+	<game name="Ishido (2005) (Arkos) (En,Fr)- Extras">
+		<description>Ishido (2005) (Arkos) (En,Fr)- Extras</description>
+		<rom name="Ishido (2005) (Arkos) (En,Fr) - Cover.pdf" size="1320444" crc="dfa212b2" md5="9756dd49f482241417c0878e80b180ed" sha1="93d724e1c7cb38f182e68031d0867da396a3c2c4" status="none" />
+		<rom name="Ishido (2005) (Arkos) (En,Fr) - Inlay.pdf" size="8378" crc="c5a100e5" md5="311613ca1e192b7617601f437dbb1eb9" sha1="76993dbb882d34c9a07fb648f87678eb18e670c4" status="none" />
+		<rom name="Ishido (2005) (Arkos) (En,Fr) - Sticker.pdf" size="20906" crc="12349898" md5="e36d08a104e418d058d26a39a9330dae" sha1="8de0fbb4faf1dea6188caec1325155bc4032023e" status="none" />
+	</game>
+	<game name="Jet Pac (2014) (T&amp;C Stamper, 40Crisis) (En)- Extras">
+		<description>Jet Pac (2014) (T&amp;C Stamper, 40Crisis) (En)- Extras</description>
+		<rom name="Jet Pac (2014) (T&amp;C Stamper, 40Crisis) (En) - Cover.pdf" size="1640912" crc="b11b9d75" md5="b1872ade816f0102fcf36f00d07f5928" sha1="e22726cb36ddd3266295b60a38b1a2048bfa0e26" status="none" />
+		<rom name="Jet Pac (2014) (T&amp;C Stamper, 40Crisis) (En) - Inlay.pdf" size="23264" crc="5fa00c1d" md5="eed8d0dd9a738831261301e68e110ccd" sha1="d8b2c01d2286ed1d9c0e73408f144aac4c6bbdb7" status="none" />
+		<rom name="Jet Pac (2014) (T&amp;C Stamper, 40Crisis) (En) - Sticker.pdf" size="29553" crc="844cbd61" md5="a0b1efea483126c51e27407370d9e4f2" sha1="558bcdb7d5c8a8dbd679004bca6ea29ec3a844e1" status="none" />
+	</game>
+	<game name="Jump Mania (1993) (MOPS)- Extras">
+		<description>Jump Mania (1993) (MOPS)- Extras</description>
+		<rom name="Jump Mania (1993) (MOPS) - Cover.pdf" size="850289" crc="aba7c520" md5="17245a3d6e1acdaed1954ee1012c0105" sha1="7f364977ed7c5f66b4c37d6611a6ba3581ab233b" status="none" />
+		<rom name="Jump Mania (1993) (MOPS) - Inlay (En).pdf" size="23296" crc="921bf1e4" md5="0883c51b24ef739a96d957ba55f710c2" sha1="6133bb6a928868b9bcd5718d79d121fc8aa9fd83" status="none" />
+		<rom name="Jump Mania (1993) (MOPS) - Inlay (Fr).pdf" size="24164" crc="ea2dc143" md5="8dd9f461ad1f8f9fd4ef881346984dfc" sha1="3cd8c28345395cac84602b7a3ad8e6c8c9f3a64f" status="none" />
+		<rom name="Jump Mania (1993) (MOPS) - Sticker.pdf" size="20197" crc="75e8e0e9" md5="16e06f0fc090b3f4c6a9802722749d2e" sha1="add7afdc0c682faeeb502b5571562c73fa3efb5c" status="none" />
+	</game>
+	<game name="Justin (2005) (CNG Soft) (En,Fr,De)- Extras">
+		<description>Justin (2005) (CNG Soft) (En,Fr,De)- Extras</description>
+		<rom name="Justin (2005) (CNG Soft) (En,Fr,De) - Cover.pdf" size="701648" crc="817efeb2" md5="e28009680f3efbbd1da8e4754bb29fcd" sha1="f171ec932e3f5c6fd9112ad4b6911ea9c5381dea" status="none" />
+		<rom name="Justin (2005) (CNG Soft) (En,Fr,De) - Inlay.pdf" size="43215" crc="c045d0a5" md5="b2262cf7bdddf89ee88e5a4175ec5d22" sha1="fa9864131b1117bde6451aab1a7fc6ba1e37a376" status="none" />
+		<rom name="Justin (2005) (CNG Soft) (En,Fr,De) - Sticker.pdf" size="29147" crc="2700ed36" md5="6e07b29b66a1d0655ff802bbe8737d30" sha1="3196d2f5cc73e8339def6ddf2a44ac80d593d224" status="none" />
+	</game>
+	<game name="KILLMIL (2021) (OldSchoolAmstrad) - Extras">
+		<description>KILLMIL (2021) (OldSchoolAmstrad) - Extras</description>
+		<rom name="KILLMIL (2021) (OldSchoolAmstrad) - Manual.pdf" size="138925" crc="0b629148" md5="0ca9828873e3bd481dc7ecb112fb1fc1" sha1="d258b886e317cc63753ce8ec4eb0b378407e2b68" status="none" />
+	</game>
+	<game name="Kitsune's Curse (2020) (Juan J. Martinez) - Extras">
+		<description>Kitsune's Curse (2020) (Juan J. Martinez) - Extras</description>
+		<rom name="Kitsune's Curse (2020) (Juan J. Martinez) - Manual.pdf" size="72019" crc="2e39f519" md5="b9f2f57ac6209b996f3fd2da3d22052a" sha1="e22e974cad47b0367a2662aa9763c5a3fb3e5a31" status="none" />
+	</game>
+	<game name="Krook (2025) (Tartessos Games) - Extras">
+		<description>Krook (2025) (Tartessos Games) - Extras</description>
+		<rom name="Krook (2025) (Tartessos Games) - Box Art (En).png" size="1241018" crc="ab9b0e6d" md5="dfbd90965b13fc439ccda6d5f6541463" sha1="d5325247ed44e8b793a870c59250f647cbe389e9" status="none" />
+		<rom name="Krook (2025) (Tartessos Games) - Box Art (Es).png" size="1242369" crc="ee4faf06" md5="d0f5dcfde588b29e07a2bfd6d8f8a8a7" sha1="b87ad524c00da5808e699b60b10a2f28c3278ed0" status="none" />
+		<rom name="Krook (2025) (Tartessos Games) - Cassette Inlay (En).png" size="1372124" crc="9ee98607" md5="c8e5ccb0ac03f4df6d342bb99e36fa22" sha1="6529ddb0947ab7b39cdcdb6bd0f6d36b9aadd18c" status="none" />
+		<rom name="Krook (2025) (Tartessos Games) - Cassette Inlay (Es).png" size="1377524" crc="d268378f" md5="f7e3c42703a4bbed86720dc7dba2cb78" sha1="0b8e0a7a4142d1583e4bcb50046add0a43fcbe85" status="none" />
+	</game>
+	<game name="L'Affaire Ravenhood (1993) (Bruno Fonters) (Fr)- Extras">
+		<description>L'Affaire Ravenhood (1993) (Bruno Fonters) (Fr)- Extras</description>
+		<rom name="L'Affaire Ravenhood (1993) (Bruno Fonters) (Fr) - Cover.pdf" size="1139311" crc="476b3334" md5="35cec91f998babdfb7e74021cf17d3fe" sha1="6d2339939c794e570769886462f88385bab71638" status="none" />
+		<rom name="L'Affaire Ravenhood (1993) (Bruno Fonters) (Fr) - Inlay.pdf" size="758366" crc="fcedebf2" md5="a04a7f0de8a6e5625dd9426357067723" sha1="674e64192ab2108641178d7279ea1c0435e6f2be" status="none" />
+		<rom name="L'Affaire Ravenhood (1993) (Bruno Fonters) (Fr) - Sticker.pdf" size="22033" crc="39b60c37" md5="43a59ba4426a9139f606432fc09dd711" sha1="b8f030c4187255bf63379f2e1bc19bb8f3328213" status="none" />
+	</game>
+	<game name="Lala the Magical - Prologue (2010) (The Mojon Twins) (En)- Extras">
+		<description>Lala the Magical - Prologue (2010) (The Mojon Twins) (En)- Extras</description>
+		<rom name="Lala the Magical - Prologue (2010) (The Mojon Twins) (En) - Cover.pdf" size="1118928" crc="1f761bad" md5="cd490e8a3ea8125b0403bc28e390efee" sha1="958582e7cef42bffffd14bf0fce499bcfe006533" status="none" />
+		<rom name="Lala the Magical - Prologue (2010) (The Mojon Twins) (En) - Inlay.pdf" size="20577" crc="7e5cc3ba" md5="3fa281a2bb8a1c169bcb7cc9cd69441a" sha1="67b225f42d730530785cfeae15bc8d24794d76f2" status="none" />
+		<rom name="Lala the Magical - Prologue (2010) (The Mojon Twins) (En) - Sticker.pdf" size="21374" crc="a1cc4679" md5="c6e1264b6839220d8ab2c7066a5c434f" sha1="6363414172609b36a626aa8fbf3df2fd34d57d78" status="none" />
+	</game>
+	<game name="Last Brew, The (2023) (Vec) - Extras">
+		<description>Last Brew, The (2023) (Vec) - Extras</description>
+		<rom name="Last Brew, The (2023) (Vec) - Dev Report.pdf" size="219071" crc="e90bd226" md5="99c1421183fed28533ed92076460fd73" sha1="fd552025e848da973da199e72dd4ca1d2b217319" status="none" />
+		<rom name="Last Brew, The (2023) (Vec) - Manual.pdf" size="95656" crc="71880ea7" md5="db264065fd81ad48ab57b234df5a4d4f" sha1="28b2cd0f429f06fa7d60abe83e120b692fbb3fde" status="none" />
+	</game>
+	<game name="Last Fungus, The (2021) (Ocacho Games) - Extras">
+		<description>Last Fungus, The (2021) (Ocacho Games) - Extras</description>
+		<rom name="Last Fungus, The (2021) (Ocacho Games) - Manual (En).pdf" size="1181448" crc="95b552ff" md5="ab617ec5a784da50ea47057cac089392" sha1="e075c1b68f6a9b23e798a58ad31bf302156952d9" status="none" />
+		<rom name="Last Fungus, The (2021) (Ocacho Games) - Manual (Es).pdf" size="819540" crc="f9ac2d9b" md5="92651062584e0cf39742ea6904f9a78f" sha1="1cf188105d8c1381a45c4b3efe1deb4a6f1b3c47" status="none" />
+	</game>
+	<game name="Lights Out (1997) (Rudiger) (Fr)- Extras">
+		<description>Lights Out (1997) (Rudiger) (Fr)- Extras</description>
+		<rom name="Lights Out (1997) (Rudiger) (Fr) - Cover.pdf" size="465941" crc="c2be57fb" md5="f12f0a330a2cad2982012ca4aef770a6" sha1="3f2d5f57557dd77f9dd465c7fdfc9ca86f1fe483" status="none" />
+		<rom name="Lights Out (1997) (Rudiger) (Fr) - Inlay.pdf" size="21960" crc="a8a12b61" md5="eb4b8f25a06a1a18fa0756c69b80db28" sha1="58fb2a2e83f2931e9f5e80784ea0c4fa4e8ed633" status="none" />
+		<rom name="Lights Out (1997) (Rudiger) (Fr) - Sticker.pdf" size="18944" crc="14dd3c6a" md5="ea9c6d852aaf67e3011fa455b6246a1c" sha1="155d84a4c6eba77311892de7fc569e5f3fb49cf1" status="none" />
+	</game>
+	<game name="Lile Oubliee (1993) (Bruno Fonters) (Fr)- Extras">
+		<description>Lile Oubliee (1993) (Bruno Fonters) (Fr)- Extras</description>
+		<rom name="Lile Oubliee (1993) (Bruno Fonters) (Fr) - Cover.pdf" size="1163401" crc="704ecfee" md5="2a1012e4193cc78ef03cda474d75f670" sha1="0d511396d40be76d630ba7fc17eda78b6754f610" status="none" />
+		<rom name="Lile Oubliee (1993) (Bruno Fonters) (Fr) - Inlay.pdf" size="2900482" crc="2c26ceea" md5="6a5ccc5abe4dc2b9483d8dcd64634cba" sha1="be4c8707ed1c71869c7ec4ea09aaa259a1ff9e24" status="none" />
+		<rom name="Lile Oubliee (1993) (Bruno Fonters) (Fr) - Sticker.pdf" size="21606" crc="1ef2f6f0" md5="563fca48a28854e5ab01c043cb4f56e6" sha1="99b7492eb1d52f3af3d966a427e0748b0bd2ea23" status="none" />
+	</game>
+	<game name="Logical Head (2004) (DBT Productions) (Fr)- Extras">
+		<description>Logical Head (2004) (DBT Productions) (Fr)- Extras</description>
+		<rom name="Logical Head (2004) (DBT Productions) (Fr) - Cover.pdf" size="1432764" crc="83ca1167" md5="e9e0a33244c657ae1d0346eeb1c1668c" sha1="f0b858de273df875313bf5f7022375e99de156c3" status="none" />
+		<rom name="Logical Head (2004) (DBT Productions) (Fr) - Inlay.pdf" size="51038" crc="b656c3cc" md5="7fc7c2f6a4da8d02004f0466f31b9944" sha1="7d86fe52b8d3d8cc586647b831ed4c4d9a83c948" status="none" />
+		<rom name="Logical Head (2004) (DBT Productions) (Fr) - Sticker.pdf" size="28676" crc="96352de2" md5="9cc7b4be3f9d6c76f9b524da619cddf6" sha1="9072fa70652a26de6bc7cad4261115de63dafbce" status="none" />
+	</game>
+	<game name="LoopWorlds (2021) (DreamyZombies) - Extras">
+		<description>LoopWorlds (2021) (DreamyZombies) - Extras</description>
+		<rom name="LoopWorlds (2021) (DreamyZombies) - Manual.pdf" size="458100" crc="23e7eaf4" md5="ca3ddccc1c50e8995b63c5c37cdabce7" sha1="7e22917e292ad6d66741f648d3cb47986a0b8837" status="none" />
+	</game>
+	<game name="Magical Drop (2007) (Oscar Sanchez) (En,Es)- Extras">
+		<description>Magical Drop (2007) (Oscar Sanchez) (En,Es)- Extras</description>
+		<rom name="Magical Drop (2007) (Oscar Sanchez) (En,Es) - Cover.pdf" size="746922" crc="0682d445" md5="d587f98c9d4448cf9c3cac750da7dd25" sha1="6383d2c6e01177e8fbd15b92dba53a63b704d2f1" status="none" />
+		<rom name="Magical Drop (2007) (Oscar Sanchez) (En,Es) - Inlay.pdf" size="21404" crc="685aa065" md5="092f6f0788da0319a15d6b0b38ed871b" sha1="c6d97e8a97e29189d3274a8376c0dd06036b46f5" status="none" />
+		<rom name="Magical Drop (2007) (Oscar Sanchez) (En,Es) - Sticker.pdf" size="28104" crc="d7a666c8" md5="2f4fb4ccacd4c94fd1f00983ed09276e" sha1="a10ce62470a0b510ea70386924722179d024d728" status="none" />
+	</game>
+	<game name="Mandarin, The (2022) (Mananuk) - Extras">
+		<description>Mandarin, The (2022) (Mananuk) - Extras</description>
+		<rom name="Mandarin, The (2022) (Mananuk) - Tape Box Art.png" size="2133686" crc="1965c7c4" md5="bc4a893cac4f25bf2c7a13ad86d19f1a" sha1="7490c898f9fdb79e9cc3d26f2dfafda6e149d92e" status="none" />
+	</game>
+	<game name="Mariano the Dragon in Capers in Cityland (2008) (The Mojon Twins, ESP Soft) (En)- Extras">
+		<description>Mariano the Dragon in Capers in Cityland (2008) (The Mojon Twins, ESP Soft) (En)- Extras</description>
+		<rom name="Mariano the Dragon in Capers in Cityland (2008) (The Mojon Twins, ESP Soft) (En) - Cover.pdf" size="1482461" crc="d21f2556" md5="a7c024fd98b5b927b70084535f9f4a84" sha1="f9b125d5ccab20ff10fb9cb8d9912f8d167c5d8d" status="none" />
+		<rom name="Mariano the Dragon in Capers in Cityland (2008) (The Mojon Twins, ESP Soft) (En) - Inlay.pdf" size="61593" crc="4926e682" md5="2424f37c085924ec5e0a2f35fb37621f" sha1="78d74987f0dedd10776d6fbe0c73a1a78380c55b" status="none" />
+		<rom name="Mariano the Dragon in Capers in Cityland (2008) (The Mojon Twins, ESP Soft) (En) - Sticker.pdf" size="40200" crc="5c5abb84" md5="5ab09c7899d02226a3dc1c1d2459e1af" sha1="993488acbb4d8291897867c3e093816d865a23eb" status="none" />
+	</game>
+	<game name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer)- Extras">
+		<description>Master of Space!, The (1994) (Shock Soft &amp; Shimmer)- Extras</description>
+		<rom name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer) - Cover.pdf" size="1100764" crc="36e6f7e0" md5="158845a835e25e3be37aabcd73062d93" sha1="17f39b26c5217ec3bccb3c77d8679eabb48a065c" status="none" />
+		<rom name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer) - Inlay (En).pdf" size="27467" crc="b1fcd4de" md5="0507350bab0c6905a789508d3c506319" sha1="8efe7567e74fc4e479c13f811073c2c5708ad3ca" status="none" />
+		<rom name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer) - Inlay (Fr).pdf" size="27749" crc="1c0dfa20" md5="66e5f7ebb92d2d22ef3e28b6c9bcdf2d" sha1="709a72cf41a70780f535f4e11424bd49a2032fa1" status="none" />
+		<rom name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer) - Sticker.pdf" size="22502" crc="a117b4ff" md5="01ce02c113e8cf94d4c8e90746360b50" sha1="1825e3e31aa2ae3c6cef12c09859ac5338a81978" status="none" />
+	</game>
+	<game name="Maziacs (2013) (Don Priestley, 40Crisis)- Extras">
+		<description>Maziacs (2013) (Don Priestley, 40Crisis)- Extras</description>
+		<rom name="Maziacs (2013) (Don Priestley, 40Crisis) - Cover.pdf" size="1386220" crc="313e1951" md5="c2c6d136f75e50f971f4489b711bc31c" sha1="313e2f4d06daa4f2a2ad75f5ab4a864ac3460e5a" status="none" />
+		<rom name="Maziacs (2013) (Don Priestley, 40Crisis) - Inlay (En).pdf" size="23734" crc="ccdace3f" md5="46534285cb00d2920825636f1c823efc" sha1="894d0d83e2307103289b3795098dd4b8b0671e87" status="none" />
+		<rom name="Maziacs (2013) (Don Priestley, 40Crisis) - Inlay (Fr).pdf" size="22908" crc="041f093b" md5="427ccf6802e32807b289d3896f183bd1" sha1="2a39e5dc3feadbbae5cd13940ea2476c4124f23a" status="none" />
+		<rom name="Maziacs (2013) (Don Priestley, 40Crisis) - Sticker.pdf" size="26899" crc="56c46923" md5="4d93942b18839d4a2bb6ecd61e9eac28" sha1="3e06e671afd833047888bab21c8edb976f74881d" status="none" />
+	</game>
+	<game name="MegaBlasters - Escape from Castle in the Clouds (2015) (Project Argon)- Extras">
+		<description>MegaBlasters - Escape from Castle in the Clouds (2015) (Project Argon)- Extras</description>
+		<rom name="MegaBlasters - Escape from Castle in the Clouds (2015) (Project Argon) - Cover.pdf" size="4765384" crc="9aa388b9" md5="12a65d726d04afc5fd1446ca4b42ce65" sha1="959e4280aecaccdbcebebfbde3e40dfc33b37da5" status="none" />
+		<rom name="MegaBlasters - Escape from Castle in the Clouds (2015) (Project Argon) - Inlay (En).pdf" size="33738" crc="470783b3" md5="34517cd1994a41790a294d51b7b2b1dc" sha1="84b2e9ce4fcbb13a4c4a5525f10afb403f3f3b1c" status="none" />
+		<rom name="MegaBlasters - Escape from Castle in the Clouds (2015) (Project Argon) - Inlay (Fr).pdf" size="34407" crc="22356e5b" md5="34fd7ff82053c25561420f59cf1d7092" sha1="5cbc8d5772129b7c2e80f01ad8c8dc8d7368f4ca" status="none" />
+		<rom name="MegaBlasters - Escape from Castle in the Clouds (2015) (Project Argon) - Sticker.pdf" size="21966" crc="9ae0813c" md5="e940037fc2c20a7351a2d81cdfe97b82" sha1="88457f61d2fe7c66fcf332a472103b9fb0122a2c" status="none" />
+	</game>
+	<game name="Mines Incas (2009) (Astrosmurf) (En,Fr)- Extras">
+		<description>Mines Incas (2009) (Astrosmurf) (En,Fr)- Extras</description>
+		<rom name="Mines Incas (2009) (Astrosmurf) (En,Fr) - Cover.pdf" size="317685" crc="6c3df361" md5="ee4de52f74bbd8632d789e15cde9c693" sha1="547e3d7a7c00f4a7416ebb172ec5d18d4dcf9c55" status="none" />
+		<rom name="Mines Incas (2009) (Astrosmurf) (En,Fr) - Inlay.pdf" size="39850" crc="ef7d684e" md5="75f36cc86cc3c9736766477c62432af6" sha1="e51ddf3350f943dbc01601b24cd55c77e951cf9a" status="none" />
+		<rom name="Mines Incas (2009) (Astrosmurf) (En,Fr) - Sticker.pdf" size="27506" crc="70d37b96" md5="aa85eed5227be264aa8e4171499381c2" sha1="3e7cff034ecda7d681a4386adba6432eeb795c49" status="none" />
+	</game>
+	<game name="Molecularr I et II (1991) (Frédéric Poésy) (En)- Extras">
+		<description>Molecularr I et II (1991) (Frédéric Poésy) (En)- Extras</description>
+		<rom name="Molecularr I et II (1991) (Frédéric Poésy) (En) - Cover.pdf" size="1128305" crc="394b975d" md5="ecc74a6e71ff657ca8816ddb983038ff" sha1="da2fc7a0cf2086f87b6c58c5f7e8e738b3016517" status="none" />
+		<rom name="Molecularr I et II (1991) (Frédéric Poésy) (En) - Inlay.pdf" size="261633" crc="4ad0f995" md5="056df6de0bcc4294a5439429196c0047" sha1="d7c1374f29d85dc25d90bf8f8e0463800c1dc8f6" status="none" />
+		<rom name="Molecularr I et II (1991) (Frédéric Poésy) (En) - Sticker.pdf" size="35917" crc="d47b1e9a" md5="0cad7218140bc42a7d6cc0cf8ff47eb5" sha1="3bf4f441c076eaaa543bbc5dd7396b60245fde7c" status="none" />
+	</game>
+	<game name="Moonsters (2021) (dam_studios) - Extras">
+		<description>Moonsters (2021) (dam_studios) - Extras</description>
+		<rom name="Moonsters (2021) (dam_studios) - Manual.pdf" size="71328" crc="da11ea78" md5="3562522c328a5cd86ea7594c11eaec6c" sha1="30ae5f3699ad011b5d327ccc2f3814afada9fc60" status="none" />
+	</game>
+	<game name="Mr. Og - The Sampler (2023) (Kaiwa-ams0) - Extras">
+		<description>Mr. Og - The Sampler (2023) (Kaiwa-ams0) - Extras</description>
+		<rom name="Mr. Og - The Sampler (2023) (Kaiwa-ams0) - Making Of.pdf" size="34572" crc="196c097b" md5="8a6678837a4690b4dde86758f8126533" sha1="cd090661782115349370e65cc52196a96c924af5" status="none" />
+		<rom name="Mr. Og - The Sampler (2023) (Kaiwa-ams0) - Manual.pdf" size="35195" crc="31de1f0b" md5="ef6d436cf48c274b4a54bd9bcf5d7eb8" sha1="8b1a14fced8da548afd4de2676cab03805bdda92" status="none" />
+	</game>
+	<game name="Mur de Berlin va sauter, Le (2012) (Froggy Software, Tom&amp;Jerry) (Fr)- Extras">
+		<description>Mur de Berlin va sauter, Le (2012) (Froggy Software, Tom&amp;Jerry) (Fr)- Extras</description>
+		<rom name="Mur de Berlin va sauter, Le (2012) (Froggy Software, Tom&amp;Jerry) (Fr) - Cover.pdf" size="856904" crc="061e20be" md5="11383824da0e5ef62845300917117960" sha1="133d1695365686a8323cc728e5c35e1486dce900" status="none" />
+		<rom name="Mur de Berlin va sauter, Le (2012) (Froggy Software, Tom&amp;Jerry) (Fr) - Inlay.pdf" size="29880" crc="8796f5b5" md5="372a6544fdd69d3d5ac3fda6f4a9910f" sha1="58ea742e0a51971e217d31eb7c5b03e105d15304" status="none" />
+		<rom name="Mur de Berlin va sauter, Le (2012) (Froggy Software, Tom&amp;Jerry) (Fr) - Sticker.pdf" size="27596" crc="f435b5a8" md5="55967609d55774e9cb1f1702ac58da88" sha1="a8128234896707ebb77aa41d2cbd2bf6c62ea445" status="none" />
+	</game>
+	<game name="Nanako Descends to Hell (2009) (The Mojon Twins) (En)- Extras">
+		<description>Nanako Descends to Hell (2009) (The Mojon Twins) (En)- Extras</description>
+		<rom name="Nanako Descends to Hell (2009) (The Mojon Twins) (En) - Cover.pdf" size="478332" crc="a7ce48bf" md5="e9ae195579773992c071b39db506ff7e" sha1="019efe1b5934ce986cf7d965a37a6ff68107ab52" status="none" />
+		<rom name="Nanako Descends to Hell (2009) (The Mojon Twins) (En) - Inlay.pdf" size="47933" crc="24400571" md5="a59dbf6cc1705163347b5b9fa5711e34" sha1="bf454199cdb55b8c5aae0036002887a78397e9f5" status="none" />
+		<rom name="Nanako Descends to Hell (2009) (The Mojon Twins) (En) - Sticker.pdf" size="23581" crc="b991f08f" md5="e78f6fd834bf5758e649770c0b11834b" sha1="f7ec37d24fdfb9157331263e73b74e241d4fce8f" status="none" />
+	</game>
+	<game name="Nanako in Classic Japanese Monster Castle (2009) (The Mojon Twins) (En)- Extras">
+		<description>Nanako in Classic Japanese Monster Castle (2009) (The Mojon Twins) (En)- Extras</description>
+		<rom name="Nanako in Classic Japanese Monster Castle (2009) (The Mojon Twins) (En) - Cover.pdf" size="1287379" crc="1a515421" md5="90960ac732cadda30360eae085fd6127" sha1="ec37340d006cf1335d33d4d6b6325a3ad9bb7666" status="none" />
+		<rom name="Nanako in Classic Japanese Monster Castle (2009) (The Mojon Twins) (En) - Inlay.pdf" size="50518" crc="58cd4a0a" md5="27ce2779e4a5dc9a713e6ec147ac815f" sha1="973a78d26b4dfda8c2f9c7ce196a68e6257fa40f" status="none" />
+		<rom name="Nanako in Classic Japanese Monster Castle (2009) (The Mojon Twins) (En) - Sticker.pdf" size="24016" crc="f55a4e46" md5="5907ee48bd7874c66ccd08df714569d7" sha1="6d9642a92e742b743d40a300433c0586d08b5246" status="none" />
+	</game>
+	<game name="Nuke Bug (2023) (AlakranStudio) - Extras">
+		<description>Nuke Bug (2023) (AlakranStudio) - Extras</description>
+		<rom name="Nuke Bug (2023) (AlakranStudio) - Making Of.pdf" size="1363795" crc="b34cb578" md5="6af76962972bc2dff2d7716658b57c72" sha1="f51820f062ac4f44311c1282cd70d00605b8d055" status="none" />
+		<rom name="Nuke Bug (2023) (AlakranStudio) - Manual.pdf" size="1458177" crc="7d9d352e" md5="90dab5556df4e9cada700e4d0f9b05c4" sha1="d618618879fdb41c9f22720529190f97a3621350" status="none" />
+	</game>
+	<game name="Oh No, My Moustache (2022) (Strawberry Studio) - Extras">
+		<description>Oh No, My Moustache (2022) (Strawberry Studio) - Extras</description>
+		<rom name="Oh No, My Moustache (2022) (Strawberry Studio) - Making Of.pdf" size="684226" crc="7aaf3be0" md5="0e1b78192b39ffd8570a2ee59d4d78fa" sha1="5fe26ae05c71f9c9471053230878f2d383365fe0" status="none" />
+		<rom name="Oh No, My Moustache (2022) (Strawberry Studio) - Manual (En).pdf" size="421867" crc="f0cffb5a" md5="5054311ded675aa4f16e2546f046c31a" sha1="fa2e4c1c24db60db8dcfc5e93cf874f733a2a6c0" status="none" />
+		<rom name="Oh No, My Moustache (2022) (Strawberry Studio) - Manual (Es).pdf" size="421396" crc="1fad76a5" md5="d5c07921a512145e1cc64ac28d4ae71a" sha1="7097575c2e5434a8d52d2021a738d08279b3b618" status="none" />
+	</game>
+	<game name="One Wonder (2023) (Kaiwa-ams0) - Extras">
+		<description>One Wonder (2023) (Kaiwa-ams0) - Extras</description>
+		<rom name="One Wonder (2023) (Kaiwa-ams0) - Making Of.pdf" size="891325" crc="15e143eb" md5="8e2eababdf4b91655f5df098435ee649" sha1="4bf89539148a10a36ee2558850b2bca762e762de" status="none" />
+		<rom name="One Wonder (2023) (Kaiwa-ams0) - Manual.pdf" size="53005" crc="b86ce680" md5="91fcbb19f1d55d42314848cdc8c4ad11" sha1="abdfbab42385495132ac5f0162ab6665fbf667b5" status="none" />
+	</game>
+	<game name="Overkoban (2013) (Futility Games) (En)- Extras">
+		<description>Overkoban (2013) (Futility Games) (En)- Extras</description>
+		<rom name="Overkoban (2013) (Futility Games) (En) - Cover.pdf" size="491266" crc="7e4f5e70" md5="91172c4cf9f9b95fc13eea41d3b61bc4" sha1="6217afea81d0d1469e68c768d1157ebd84197b68" status="none" />
+		<rom name="Overkoban (2013) (Futility Games) (En) - Inlay.pdf" size="32829" crc="ee614d2a" md5="805bd2b8f5f1fe2a1f7c4e81cb688caa" sha1="9c7a0455f04d221b203e1f4274a771d4fb42b44b" status="none" />
+		<rom name="Overkoban (2013) (Futility Games) (En) - Sticker.pdf" size="20667" crc="507ce2c9" md5="de3620748231a151a27aba2ddfdddf51" sha1="156968fb749b0f63f9a61c9791e0ccb2c9c68afe" status="none" />
+	</game>
+	<game name="Paleto Jones (2022) (Mananuk) - Extras">
+		<description>Paleto Jones (2022) (Mananuk) - Extras</description>
+		<rom name="Paleto Jones (2022) (Mananuk) - Cassette Inlay.png" size="1112748" crc="9867c8b1" md5="005c90b93f899cfd106c51bfaed4e37e" sha1="d43756e4bb5fc5fa6c3c95383b07a16d7859155b" status="none" />
+		<rom name="Paleto Jones (2022) (Mananuk) - Manual (En).docx" size="1266811" crc="a9434941" md5="a6df7bdea1f2687126b4fc3d6eb2f6d6" sha1="182d0b85d4db44704b6387d314c4bf5c0ffb847f" status="none" />
+	</game>
+	<game name="Paulina's Potions (2023) (LeoSoft) - Extras">
+		<description>Paulina's Potions (2023) (LeoSoft) - Extras</description>
+		<rom name="Paulina's Potions (2023) (LeoSoft) - Making Of.pdf" size="63653" crc="30ec3bd3" md5="555cdd5134974180b7300f3f7f6825ef" sha1="e9b0175d012014740f52acc9561f5460c0191844" status="none" />
+		<rom name="Paulina's Potions (2023) (LeoSoft) - Manual.pdf" size="730858" crc="8a0464b4" md5="3f083c9559107d98318927d8f88d2994" sha1="3fae6f3cb537a0d16eceb2d626afe331a72cdd3b" status="none" />
+	</game>
+	<game name="Perched! (2021) (Lumina Studio) - Extras">
+		<description>Perched! (2021) (Lumina Studio) - Extras</description>
+		<rom name="Perched! (2021) (Lumina Studio) - Making of.pdf" size="1342366" crc="be0ee0ac" md5="978821b0e39ff28666924e771150b852" sha1="ddc2f1bae112215fe011d50f6d1290cdecc69961" status="none" />
+		<rom name="Perched! (2021) (Lumina Studio) - Manual.pdf" size="2155945" crc="857271e4" md5="6523b2fa6053a20fecfa6b48fe66c0e6" sha1="775558eda31d67907f080231b3ec1e78ffadd213" status="none" />
+	</game>
+	<game name="Phantis Legacy (2017) (Kukulcan)- Extras">
+		<description>Phantis Legacy (2017) (Kukulcan)- Extras</description>
+		<rom name="Phantis Legacy (2017) (Kukulcan) - Cover.pdf" size="1338564" crc="16117fff" md5="1dfca07f3cb3e6adecc4d6d199486fdc" sha1="2b79b6dc578b886704ad26535980ea1d0f0e4a9b" status="none" />
+		<rom name="Phantis Legacy (2017) (Kukulcan) - Inlay (En).pdf" size="23858" crc="012b6d8d" md5="c63b1f4b8d4c124b11c5285bfc6357e2" sha1="787a32a725019061c83622db0e67350073be0653" status="none" />
+		<rom name="Phantis Legacy (2017) (Kukulcan) - Inlay (Fr).pdf" size="24507" crc="6b61119f" md5="06643c62d8c45c535bcd8933d8abf4c2" sha1="f5872808f8fa2360e42c01581bd64380c160f582" status="none" />
+		<rom name="Phantis Legacy (2017) (Kukulcan) - Sticker.pdf" size="20716" crc="cfff5784" md5="0cbb3a83f8a9693458ffdac1364cef56" sha1="89089aa6ff4d1d9034583400edb2339596e1c9a5" status="none" />
+	</game>
+	<game name="Phantomas Saga - Infinity (2006) (ESP Soft) (En)- Extras">
+		<description>Phantomas Saga - Infinity (2006) (ESP Soft) (En)- Extras</description>
+		<rom name="Phantomas Saga - Infinity (2006) (ESP Soft) (En) - Cover.pdf" size="633072" crc="fec03831" md5="a755c31c1f9f102b5641595e0751a96f" sha1="479c427b2479d83cb582177d1763a5ac069a90c1" status="none" />
+		<rom name="Phantomas Saga - Infinity (2006) (ESP Soft) (En) - Inlay.pdf" size="43656" crc="acc5a4fc" md5="de30fab76e83419a0e24afc2d230fdf8" sha1="597c3f8f3ffb152a46186ca24dc2855b84497062" status="none" />
+		<rom name="Phantomas Saga - Infinity (2006) (ESP Soft) (En) - Sticker.pdf" size="24088" crc="0be4a2b2" md5="5f0751578e0cddefc2145e5a5b6c50c6" sha1="22940d9375053bb43fcc0e163b44420ebfe61c24" status="none" />
+	</game>
+	<game name="Phantomas Tales #1 - Marsport (2009) (The Mojon Twins) (En)- Extras">
+		<description>Phantomas Tales #1 - Marsport (2009) (The Mojon Twins) (En)- Extras</description>
+		<rom name="Phantomas Tales #1 - Marsport (2009) (The Mojon Twins) (En) - Cover.pdf" size="889516" crc="9bff2569" md5="eb6f8a65e4a2707765efd60489c8133c" sha1="45519081beef1e69c5745b4f118168feab0991e5" status="none" />
+		<rom name="Phantomas Tales #1 - Marsport (2009) (The Mojon Twins) (En) - Inlay.pdf" size="53932" crc="a759b43c" md5="60aadfd36f4d1689339e0f67f4bddbd6" sha1="1be6166d9830638d8a6eef37016724fcd96c0cf4" status="none" />
+		<rom name="Phantomas Tales #1 - Marsport (2009) (The Mojon Twins) (En) - Sticker.pdf" size="23913" crc="0291a3dc" md5="b7d8a18de88a65e6b6dcb035cc20ae6c" sha1="e863454d3a4854d2547d8a0ceb14668c1ab72f10" status="none" />
+	</game>
+	<game name="Platformer Medley - First Block (2009) (The Mojon Twins) (En)- Extras">
+		<description>Platformer Medley - First Block (2009) (The Mojon Twins) (En)- Extras</description>
+		<rom name="Platformer Medley - First Block (2009) (The Mojon Twins) (En) - Cover.pdf" size="1099702" crc="2996a059" md5="4b0f74f6df13b6a6c3d5ab1210cd933c" sha1="ba2b49c58462e01964ec315557574866ec101a3e" status="none" />
+		<rom name="Platformer Medley - First Block (2009) (The Mojon Twins) (En) - Inlay.pdf" size="20633" crc="43353f1b" md5="d03a9796856d9ab98d3452cf6a60a4a5" sha1="7ac13704308f94efd5b88b6e57a72beb130cff63" status="none" />
+		<rom name="Platformer Medley - First Block (2009) (The Mojon Twins) (En) - Sticker.pdf" size="22989" crc="33ebd15a" md5="425434e90ac260993f6c1081b724abc3" sha1="2f33a52f57755a78c1068f188793402dc6069cff" status="none" />
+	</game>
+	<game name="Prelude to Chaos, A (2016) (EgoTrip) - Extras">
+		<description>Prelude to Chaos, A (2016) (EgoTrip) - Extras</description>
+		<rom name="Prelude To Chaos, A (2016) (EgoTrip) - Manual.pdf" size="40216" crc="5837ebbe" md5="bb68ef3b1fa840b13e8177a70138a773" sha1="cfa82625adcc05e8e4cf5ed8497e9cb481f95f98" status="none" />
+	</game>
+	<game name="R-Type (2012) (Carl-Stéphane Berquez)- Extras">
+		<description>R-Type (2012) (Carl-Stéphane Berquez)- Extras</description>
+		<rom name="R-Type (2012) (Carl-Stéphane Berquez) - Cover.pdf" size="274059" crc="cad28af1" md5="37c3f499e5fadfa823c486b59791d72d" sha1="601ecd18922731d9335b959bba2e1a01c067c119" status="none" />
+		<rom name="R-Type (2012) (Carl-Stéphane Berquez) - Inlay (En).pdf" size="376978" crc="9da25b38" md5="b8ddee29fdf09b80007abd6aa251f5d9" sha1="33fd49d126c8c43aa5b348dd8f942ee228a698bf" status="none" />
+		<rom name="R-Type (2012) (Carl-Stéphane Berquez) - Inlay (Fr).pdf" size="376927" crc="00c581d0" md5="f98493da4b476230742742b81c46cdcf" sha1="2f50d364d3552e84660aab003a2f66f8bad527a1" status="none" />
+		<rom name="R-Type (2012) (Carl-Stéphane Berquez) - Sticker.pdf" size="20030" crc="54a027cd" md5="618117e1aeb4fd50ca7815c21a228989" sha1="7619213341056d0d9f98f13757ddba1645f2be99" status="none" />
+	</game>
+	<game name="Rail Runner (2023) (amstradartisans) - Extras">
+		<description>Rail Runner (2023) (amstradartisans) - Extras</description>
+		<rom name="Rail Runner (2023) (amstradartisans) - Manual (En).pdf" size="43381" crc="4731c79e" md5="9b349beaa7c8afe53d0867ef37d2e061" sha1="242df228b5a5dd2110d0f6b9570f5eee3ba42e3f" status="none" />
+		<rom name="Rail Runner (2023) (amstradartisans) - Manual (Es).pdf" size="45055" crc="8c5c892b" md5="39c833cfccebc3180e52da8362870a76" sha1="c353e075a2ba0f516c872bd199710a2ed68e1d25" status="none" />
+	</game>
+	<game name="Rainbow Wielder (2021) (PyroClastic Software) - Extras">
+		<description>Rainbow Wielder (2021) (PyroClastic Software) - Extras</description>
+		<rom name="Rainbow Wielder (2021) (PyroClastic Software) - Manual.pdf" size="30798" crc="2e19d423" md5="0d98448ae299aa0f20d08712c707e6a1" sha1="5d3712f735496b1214fe6e4ac2f6f89559d5dac4" status="none" />
+	</game>
+	<game name="RC Quest (1993) (J. Marek)- Extras">
+		<description>RC Quest (1993) (J. Marek)- Extras</description>
+		<rom name="RC Quest (1993) (J. Marek) - Cover.pdf" size="904932" crc="c46885aa" md5="b0327391bd98d4179ff52ab5afbfde75" sha1="f9af5937bbb667a5880f0634b437c4b9ce9afecf" status="none" />
+		<rom name="RC Quest (1993) (J. Marek) - Inlay (En).pdf" size="29610" crc="68e83509" md5="87d9aa4b8cb482b2b919ca1a4ba30776" sha1="0127b592fbdd4d3ed8542ff3d6f027d1fcb3c942" status="none" />
+		<rom name="RC Quest (1993) (J. Marek) - Inlay (Fr).pdf" size="31304" crc="3586b7b9" md5="48f9300bea5aaf806d10798033bc3c46" sha1="2a6a743c3b9132d7ee6c502f95ab1a1f4ecb3d07" status="none" />
+		<rom name="RC Quest (1993) (J. Marek) - Sticker.pdf" size="19156" crc="649bd8c8" md5="8eb6ce449f26d735321737176f4ff573" sha1="bbd2bc2ca065b7c00d19c678f1823f3ff263dae5" status="none" />
+	</game>
+	<game name="Red Planet (2022) (PlayOnRetro) - Extras">
+		<description>Red Planet (2022) (PlayOnRetro) - Extras</description>
+		<rom name="Red Planet (2022) (PlayOnRetro) - Manual (En).pdf" size="673949" crc="48c903b4" md5="cd0d11bd76ebe8bcc228ed596ad834c3" sha1="6a53a578ca2f312689c54f2755e444dc105b4f46" status="none" />
+		<rom name="Red Planet (2022) (PlayOnRetro) - Manual (En).txt" size="2356" crc="f15a12eb" md5="37d769874341c5748f1b9ece160c93e7" sha1="07c130558b9d6832d49d692ab454c2d9b51a5257" status="none" />
+		<rom name="Red Planet (2022) (PlayOnRetro) - Manual (Es).pdf" size="677734" crc="901fd0db" md5="12bb21f9cb7a7bd7cfde8c6e7318bb26" sha1="e0b7a619e828a91b0d14a09c97e83b85dc93744e" status="none" />
+		<rom name="Red Planet (2022) (PlayOnRetro) - Manual (Es).txt" size="2480" crc="98fbc8cd" md5="71f56e0b1abed46bba8075b8abd7877f" sha1="88764c96f8de6f17b045ff2a469ad338d6e60da4" status="none" />
+	</game>
+	<game name="Red Sunset (2022) (ESP Soft) - Extras">
+		<description>Red Sunset (2022) (ESP Soft) - Extras</description>
+		<rom name="Red Sunset (2022) (ESP Soft) - Disk Box Art.jpg" size="2411413" crc="52629b62" md5="16b2225a430978a69a4a50d8fc2361d2" sha1="6fa11ac7340c8926a7b3f9ad4cb3f087e7eb6e26" status="none" />
+		<rom name="Red Sunset (2022) (ESP Soft) - Manual.png" size="91696" crc="09021827" md5="0ab927ac78441fd1bfb201fd5ba9c71f" sha1="32fccd43d8bc9117bdd11d08c8de9032e3b19748" status="none" />
+		<rom name="Red Sunset (2022) (ESP Soft) - Tape Box Art (En).jpg" size="846995" crc="5a253f8d" md5="2c36aac3237dc3a25e152952bc6f996b" sha1="23f79c80e7646039fe865b428762520a47b19ba1" status="none" />
+		<rom name="Red Sunset (2022) (ESP Soft) - Tape Box Art (Es).jpg" size="859730" crc="bf6248f9" md5="dbaff51e457d148e99560ee30305f74a" sha1="993ccf722fe9bb04ade689664d90b29ae0bcd370" status="none" />
+	</game>
+	<game name="Retromancer, The (2023) (RetroMancer93) - Extras">
+		<description>Retromancer, The (2023) (RetroMancer93) - Extras</description>
+		<rom name="Retromancer, The (2023) (RetroMancer93) - Manual.pdf" size="120045" crc="f884fd17" md5="7d10a387a882ad3d0705f31b6355b9e4" sha1="872892b69c921e87ced906b0d242d57cfe68035e" status="none" />
+		<rom name="Retromancer, The (2023) (RetroMancer93) - Memory.pdf" size="296836" crc="75bf7973" md5="9d4f18adbfd5d8cd1e57bf45cabc47f5" sha1="3794fe5db0ea2c8d40b9c500cd49f15129065103" status="none" />
+	</game>
+	<game name="Return of Traxtor, The (2015) (usebox.net) (En)- Extras">
+		<description>Return of Traxtor, The (2015) (usebox.net) (En)- Extras</description>
+		<rom name="Return of Traxtor, The (2015) (usebox.net) (En) - Cover.pdf" size="1361162" crc="d0a05d5a" md5="5821c378daddd0feaf3dc3f91d6f80c0" sha1="d5571b52d04c1523ca1465d9ee2c8fab90542379" status="none" />
+		<rom name="Return of Traxtor, The (2015) (usebox.net) (En) - Inlay.pdf" size="27491" crc="2f91da68" md5="c271f980a9f279cfc21f49bacfb674b7" sha1="8ca360ccc7c11ee59a93e8f274a4efd865b5edec" status="none" />
+		<rom name="Return of Traxtor, The (2015) (usebox.net) (En) - Sticker.pdf" size="21517" crc="1f622679" md5="013fe00c4590933a09cf2e55912517f9" sha1="42d8ea7dcdbfa02e2cafccc52b11c57ab6ec9179" status="none" />
+	</game>
+	<game name="Robotron 6128 (2009) (Lachlan Keown) (En)- Extras">
+		<description>Robotron 6128 (2009) (Lachlan Keown) (En)- Extras</description>
+		<rom name="Robotron 6128 (2009) (Lachlan Keown) (En) - Cover.pdf" size="1042786" crc="24adc3ae" md5="6c024d630fe5616b378360fa69060c55" sha1="98242e22522db1fec8645b4bcb1b5da9c1f9dfd4" status="none" />
+		<rom name="Robotron 6128 (2009) (Lachlan Keown) (En) - Inlay.pdf" size="139629" crc="454ac69f" md5="6149a4e28d7ad555bb4fd5c83ae38b15" sha1="e7c544ce309a074d7bc4ca329d138602b1a0e66d" status="none" />
+		<rom name="Robotron 6128 (2009) (Lachlan Keown) (En) - Sticker.pdf" size="31644" crc="5935ee93" md5="cbefd6807c21a2ca13048707522283c8" sha1="65595ad48aa99118ee2e7255e3a302efb242ca3c" status="none" />
+	</game>
+	<game name="Shadow Hunter (2023) (Mananuk) - Extras">
+		<description>Shadow Hunter (2023) (Mananuk) - Extras</description>
+		<rom name="Shadow Hunter (2023) (Mananuk) - Cassette Inlay.png" size="1757297" crc="8e49d5ca" md5="24b74d1113112c9108ef0c9b8d7c8b2f" sha1="46364246c4f5e651006f0a2615fc86c23d883cd6" status="none" />
+	</game>
+	<game name="Sheriff Duty (2023) (AlakranStudio) - Extras">
+		<description>Sheriff Duty (2023) (AlakranStudio) - Extras</description>
+		<rom name="Sheriff Duty (2023) (AlakranStudio) - Making Of.pdf" size="1518410" crc="11fb00a7" md5="067581dda77cf8699b945d5a263c1dcd" sha1="85bfa4746d7cea22679fa5341fb5dd9fc7dd8158" status="none" />
+		<rom name="Sheriff Duty (2023) (AlakranStudio) - Manual.pdf" size="1040000" crc="38c90db2" md5="16a07d90efb91fb8d6c8a194cdd2639f" sha1="c64ce1676dd748f6cab41da4b4b75c9778011f7a" status="none" />
+	</game>
+	<game name="Sir Ababol (2010) (The Mojon Twins) (En)- Extras">
+		<description>Sir Ababol (2010) (The Mojon Twins) (En)- Extras</description>
+		<rom name="Sir Ababol (2010) (The Mojon Twins) (En) - Cover.pdf" size="859621" crc="98db0cea" md5="5068ac28a7d515c02405538f9afbe25b" sha1="5a109f31193e4c4f6f738016253b9dcfb3abdc24" status="none" />
+		<rom name="Sir Ababol (2010) (The Mojon Twins) (En) - Inlay.pdf" size="51975" crc="dc7e1c70" md5="217ccfb6e65129bd67f9a82d14073c1a" sha1="2f5d10b8b6cfb77dd76b20694b11c2fb914805c0" status="none" />
+		<rom name="Sir Ababol (2010) (The Mojon Twins) (En) - Sticker.pdf" size="22722" crc="d867457b" md5="eddfe70c1c821d67cd05e4dd8f40a12d" sha1="34880c9014595644b5f3faf12303eacbf60a36f4" status="none" />
+	</game>
+	<game name="Small Games for Smart Minds (2007) (ESP Soft)- Extras">
+		<description>Small Games for Smart Minds (2007) (ESP Soft)- Extras</description>
+		<rom name="Small Games for Smart Minds (2007) (ESP Soft) - Cover.pdf" size="1155946" crc="8b32126f" md5="7a69b4b49f4d1442017aed6fc98e4da5" sha1="9a908e47ecf2fdafd77d56ce339d467a9bf4a24d" status="none" />
+		<rom name="Small Games for Smart Minds (2007) (ESP Soft) - Inlay (En,Fr).pdf" size="30842" crc="bc73fe16" md5="06ae281b128163a165962a64fe2a1e47" sha1="459f73221c2f5cd6cc790287ab46db27c33115be" status="none" />
+		<rom name="Small Games for Smart Minds (2007) (ESP Soft) - Inlay (Es).pdf" size="30208" crc="0918d8ad" md5="2d75ff743a660f6fdeb9ff5dec920a78" sha1="4bcc6e9fddc49545c34ad09a03d2941dad8b8718" status="none" />
+		<rom name="Small Games for Smart Minds (2007) (ESP Soft) - Sticker.pdf" size="20732" crc="c7639c5b" md5="306167d0f65d65cc581d67c89b7617e7" sha1="77240db630108d92ef42d432c1c8a652161b260a" status="none" />
+	</game>
+	<game name="Sorcerers (2020) (Salva Kantero) - Extras">
+		<description>Sorcerers (2020) (Salva Kantero) - Extras</description>
+		<rom name="Sorcerers (2020) (Salva Kantero) - Manual (En).pdf" size="998053" crc="5a73db8f" md5="9e26f9b76e24e48c45c6306e25dae2d4" sha1="edd86c14e4a2e68ed48a8ba6456b4635c25af4d9" status="none" />
+		<rom name="Sorcerers (2020) (Salva Kantero) - Manual (Es).pdf" size="999723" crc="d4b24089" md5="c2501061520e9f8e0ded92f5b52e9fd0" sha1="d10ae8ae152a7f9310c8e4f2e7cc85cf408e917e" status="none" />
+	</game>
+	<game name="Space Moves (2015) (AmstradGamer) (Es)- Extras">
+		<description>Space Moves (2015) (AmstradGamer) (Es)- Extras</description>
+		<rom name="Space Moves (2015) (AmstradGamer) (Es) - Cover.pdf" size="1335416" crc="efc0f697" md5="9ff279b21e3a28b2fcb37bc99473d365" sha1="0a17d312a8a57256fe51deeb3c4e7187edf17ae7" status="none" />
+		<rom name="Space Moves (2015) (AmstradGamer) (Es) - Inlay.pdf" size="20518" crc="b4399a6d" md5="6b135837975f63b193e7b537aabad8bc" sha1="0ad715f4529ffa0f7d6e74d373c48110182a0b17" status="none" />
+		<rom name="Space Moves (2015) (AmstradGamer) (Es) - Sticker.pdf" size="22006" crc="356e6f39" md5="d48f7925d6bebc73a2744be979ebdcff" sha1="383636e8438049e561324b230a21d9563b0a83d9" status="none" />
+	</game>
+	<game name="Star Driver (1994) (Shocker Soft &amp; Shimmer)- Extras">
+		<description>Star Driver (1994) (Shocker Soft &amp; Shimmer)- Extras</description>
+		<rom name="Star Driver (1994) (Shocker Soft &amp; Shimmer) - Cover.pdf" size="1083224" crc="4715cb73" md5="9e05f071a739d295fbd0e5b850fccea9" sha1="ed104cf1b09d38fe366c72ff72942114be8c21d7" status="none" />
+		<rom name="Star Driver (1994) (Shocker Soft &amp; Shimmer) - Inlay (En).pdf" size="28052" crc="1b559f6e" md5="a4deaaf9365877bfa5a46b29a653a12e" sha1="3fdde7cf6116116793bb202f6f5ee42de057ce8b" status="none" />
+		<rom name="Star Driver (1994) (Shocker Soft &amp; Shimmer) - Inlay (Fr).pdf" size="29006" crc="ce38e78d" md5="edbd9580a52730915192b57b664266ce" sha1="9ea96b1f716ae30c774b29b2c3331016055c3920" status="none" />
+		<rom name="Star Driver (1994) (Shocker Soft &amp; Shimmer) - Sticker.pdf" size="22811" crc="7824533b" md5="19f5f91a7662b55764d421bc03a72eac" sha1="537dcb306b3c1d411c85394501b1b31dfa03bbaf" status="none" />
+	</game>
+	<game name="Star Sabre - Enhanced 128K (2009) (Paul Kooistra) (En)- Extras">
+		<description>Star Sabre - Enhanced 128K (2009) (Paul Kooistra) (En)- Extras</description>
+		<rom name="Star Sabre - Enhanced 128K (2009) (Paul Kooistra) (En) - Cover.pdf" size="914483" crc="5d7c90d4" md5="460ce84e390963ca20aaddf8299fdd4a" sha1="5f94d7dc9955e78a50a33d54f7c25dd4685ae833" status="none" />
+		<rom name="Star Sabre - Enhanced 128K (2009) (Paul Kooistra) (En) - Inlay.pdf" size="57226" crc="ae2d3665" md5="90c316de5cc2efa29c398f517dd90967" sha1="260683dea3730608f5509a71ea1406cd2cb7b839" status="none" />
+		<rom name="Star Sabre - Enhanced 128K (2009) (Paul Kooistra) (En) - Sticker.pdf" size="24656" crc="212e5b9c" md5="81c1d4ad003c9fbc1675763ae1e540df" sha1="3a0fb0db804ba7e43f68dfa75976cbd0c1945d72" status="none" />
+	</game>
+	<game name="Stranded (2005) (Bob Smith, Kevin Thacker) (En)- Extras">
+		<description>Stranded (2005) (Bob Smith, Kevin Thacker) (En)- Extras</description>
+		<rom name="Stranded (2005) (Bob Smith, Kevin Thacker) (En) - Cover.pdf" size="830191" crc="c85c129f" md5="34233a52c5035c0c11e525a7449abf18" sha1="0651b6a78a9ad33fc6ebb20dc1acb77e7cb96aa1" status="none" />
+		<rom name="Stranded (2005) (Bob Smith, Kevin Thacker) (En) - Inlay.pdf" size="49943" crc="ebb37bf5" md5="7f1b222197737dc893a5f7b6a7abdc32" sha1="bb0dff097bd30e116dab4de851186a828d648886" status="none" />
+		<rom name="Stranded (2005) (Bob Smith, Kevin Thacker) (En) - Sticker.pdf" size="31039" crc="04e49db8" md5="fc75a4047623edb4cb10ef7992e5eb2e" sha1="37ad6114f013ef6f3fa0907aa43909689c312033" status="none" />
+	</game>
+	<game name="Subtera Puzlo (2013) (Egotrip) (En)- Extras">
+		<description>Subtera Puzlo (2013) (Egotrip) (En)- Extras</description>
+		<rom name="Subtera Puzlo (2013) (Egotrip) (En) - Cover.pdf" size="1048827" crc="add7c2a4" md5="aa81d4500d1fd482649705ef3f484a92" sha1="ee99c6b7e51aa8fd2596f30e5684b639eddf02bb" status="none" />
+		<rom name="Subtera Puzlo (2013) (Egotrip) (En) - Inlay.pdf" size="54479" crc="498a2e4c" md5="c77deb374c8e99a2a5b3463c799d2e4e" sha1="acd4aba4af866f29823daf75edb6fc3c8c87be35" status="none" />
+		<rom name="Subtera Puzlo (2013) (Egotrip) (En) - Sticker.pdf" size="22817" crc="9e7607e0" md5="4e9a2d3681dd6799a8e429960cd9d95f" sha1="8cbbf103634b4696f316e0f67beea30cc4cc3db4" status="none" />
+	</game>
+	<game name="Survive the Week (2021) (Carlos Pérezgrin) - Extras">
+		<description>Survive the Week (2021) (Carlos Pérezgrin) - Extras</description>
+		<rom name="Survive the Week (2021) (Carlos Pérezgrin) - Manual (En).txt" size="1301" crc="5974d4ec" md5="c57028df00a490153f284ea31cde72d3" sha1="60de33db8996cf891b3b45c5b32d9c61c3e80fb3" status="none" />
+		<rom name="Survive the Week (2021) (Carlos Pérezgrin) - Manual (Es).txt" size="1773" crc="6c9608b1" md5="12126559514f6f7c7a4aa05a47eebdbc" sha1="d512f39598f931b2b0845f0381cbb1ca413e50ed" status="none" />
+	</game>
+	<game name="Tetris 95 (1995) (Power System) (En)- Extras">
+		<description>Tetris 95 (1995) (Power System) (En)- Extras</description>
+		<rom name="Tetris 95 (1995) (Power System) (En) - Cover.pdf" size="594254" crc="3690916f" md5="62ff54f25399763a0c47227eb48182d0" sha1="397ede06b0b1f4800ceebd4775dbae6dc746d766" status="none" />
+		<rom name="Tetris 95 (1995) (Power System) (En) - Inlay.pdf" size="10532" crc="15531331" md5="826f578bc4c10c59844868588058ac5d" sha1="2c7007aff7599b066c1c522872a83dd2cc5f6f7f" status="none" />
+		<rom name="Tetris 95 (1995) (Power System) (En) - Sticker.pdf" size="28234" crc="c700a320" md5="f13c91d980aaa3ded4af6aef9bb6b39d" sha1="2287155a057cbc3a8e5fe96db6725b912bef6df2" status="none" />
+	</game>
+	<game name="Tetrix (1989) (Playfield) (En)- Extras">
+		<description>Tetrix (1989) (Playfield) (En)- Extras</description>
+		<rom name="Tetrix (1989) (Playfield) (En) - Cover.pdf" size="572663" crc="a1e69c62" md5="4baaa525a599b23def583be2978dcd37" sha1="6d200332eea7da8d46f5130a4362b6c5e84473ff" status="none" />
+		<rom name="Tetrix (1989) (Playfield) (En) - Inlay.pdf" size="21585" crc="d3ec3cb3" md5="f8d2108267a58b1057ff7d5b2da89ce7" sha1="8ca68fbf55dbd31bc42a9d116766ddb108513795" status="none" />
+		<rom name="Tetrix (1989) (Playfield) (En) - Sticker.pdf" size="19223" crc="387d15b1" md5="2eb90e5346b64d0dd9db6caa0649834b" sha1="9ef57c621699ac501a05532982d0e81849264d57" status="none" />
+	</game>
+	<game name="Totems - Columns CPC Two (2012) (ESP Soft) (En)- Extras">
+		<description>Totems - Columns CPC Two (2012) (ESP Soft) (En)- Extras</description>
+		<rom name="Totems - Columns CPC Two (2012) (ESP Soft) (En) - Cover.pdf" size="1235931" crc="17839867" md5="fcfd3f26f2aa98525026cdda6b09853a" sha1="b55009ceb7fcc727209386949bb34599b656f9d3" status="none" />
+		<rom name="Totems - Columns CPC Two (2012) (ESP Soft) (En) - Inlay.pdf" size="20859" crc="64ae4ebe" md5="b5aef6663ee487135cbc36058ee576bc" sha1="e9277e168c9dc09a87772c738fdb70a420998023" status="none" />
+		<rom name="Totems - Columns CPC Two (2012) (ESP Soft) (En) - Sticker.pdf" size="19473" crc="dd3ae51a" md5="f6ce8c6656600df83dfdd9dbc8caef01" sha1="3a744f9b41249fe43fc6cf6a0e09e6cb0e5c0d8a" status="none" />
+	</game>
+	<game name="Uwol 2 - Quest for Money (2011) (The Mojon Twins) (En)- Extras">
+		<description>Uwol 2 - Quest for Money (2011) (The Mojon Twins) (En)- Extras</description>
+		<rom name="Uwol 2 - Quest for Money (2011) (The Mojon Twins) (En) - Cover.pdf" size="850674" crc="999c63c1" md5="e1add2023cc7a3e5ebbb1fb18711348e" sha1="93d917c92fd84d44b47e857ce862a6eb4ccde352" status="none" />
+		<rom name="Uwol 2 - Quest for Money (2011) (The Mojon Twins) (En) - Inlay.pdf" size="20311" crc="7dd0852c" md5="0a6e8c9f2fd7ff184ecebf5e77c8af55" sha1="507c215ed20341c596e5b31647b1e7aba48bd7eb" status="none" />
+		<rom name="Uwol 2 - Quest for Money (2011) (The Mojon Twins) (En) - Sticker.pdf" size="22546" crc="0798a28c" md5="6c5497c98835b615a812e335bc49ce6b" sha1="8b5124477213d4d87754dc3193acc49d2dc4c323" status="none" />
+	</game>
+	<game name="VirusDog (2016) (Kukulcan) (En)- Extras">
+		<description>VirusDog (2016) (Kukulcan) (En)- Extras</description>
+		<rom name="VirusDog (2016) (Kukulcan) (En) - Cover.pdf" size="336573" crc="1e63648a" md5="2b0c1513eff6d60ab557537d4442e008" sha1="0de621b3a0d9a72ad9bdd253f4f9a78bd1899362" status="none" />
+		<rom name="VirusDog (2016) (Kukulcan) (En) - Inlay.pdf" size="22091" crc="2952ece9" md5="2d5ab89162643f0df98bc1fe2f3398ae" sha1="fc48722613c3559983c41d5055b410b9644c2bcd" status="none" />
+		<rom name="VirusDog (2016) (Kukulcan) (En) - Sticker.pdf" size="21410" crc="20f060c5" md5="1bdafd3eed00f9f13c737503f5196dc0" sha1="4013f9eba154d86578eaf8669bc3c2a75c604ff8" status="none" />
+	</game>
+	<game name="WhatTheRock (2023) (Createvia) - Extras">
+		<description>WhatTheRock (2023) (Createvia) - Extras</description>
+		<rom name="WhatTheRock (2023) (Createvia) - Manual.pdf" size="49457" crc="c663a917" md5="119c613f8f4ba338ad413cf646c15262" sha1="e46dc37222cf84ade75a449522ff411447d371da" status="none" />
+	</game>
+	<game name="Wireware (2021) (CNG Soft) - Extras">
+		<description>Wireware (2021) (CNG Soft) - Extras</description>
+		<rom name="Wireware (2021) (CNG Soft) - Manual.pdf" size="88339" crc="472cf5e3" md5="59712dc6d8390c170e577bd4bfd50727" sha1="8125e214ff87db4d0e291c256181a25ca5ba657e" status="none" />
+	</game>
+	<game name="Wizard Dash (2021) (Crab Party) - Extras">
+		<description>Wizard Dash (2021) (Crab Party) - Extras</description>
+		<rom name="Wizard Dash (2021) (Crab Party) - Making of.pdf" size="678662" crc="e3128206" md5="d09d656e349823430db4468b2cfa7f51" sha1="6b6c7b3f6f198a3e061114760e22a6fc1fbfa7ed" status="none" />
+		<rom name="Wizard Dash (2021) (Crab Party) - Manual.pdf" size="106649" crc="06a8631a" md5="82ede091bae0823c847a57a4eed07123" sha1="a6084e7aebfa701bbda1e83c580098667016ce7f" status="none" />
+	</game>
+	<game name="Wrath of the MCPC, The (2021) (lambdamikel) - Extras">
+		<description>Wrath of the MCPC, The (2021) (lambdamikel) - Extras</description>
+		<rom name="Wrath of the MCPC, The (2021) (lambdamikel) - Manual.pdf" size="113264" crc="7d320651" md5="c79c368068f170d45f58fde8b02f0948" sha1="d959e3b9f7802ce1efac03953c8954995f351a57" status="none" />
+	</game>
+	<game name="Wrecking Ball (2021) (Francesc Alcaucer) - Extras">
+		<description>Wrecking Ball (2021) (Francesc Alcaucer) - Extras</description>
+		<rom name="Wrecking Ball (2021) (Francesc Alcaucer) - Making of (En).pdf" size="2086715" crc="a85cecb0" md5="e3030ad17b8d4a7b1eafbc458a49abb5" sha1="a065f57f91fe3e7ba49b8b367665fabbb2e83550" status="none" />
+		<rom name="Wrecking Ball (2021) (Francesc Alcaucer) - Making of (Es).pdf" size="2178096" crc="00be9c5d" md5="2ee93242e0e32ba98ba08acbe124fc73" sha1="929851c7306b09b5ab20fd756a14767643a8f659" status="none" />
+		<rom name="Wrecking Ball (2021) (Francesc Alcaucer) - Manual (En).pdf" size="230494" crc="1aac9ee2" md5="c42bd00291e9e5f3edf8481d0ae73446" sha1="5e0da8f86844657bf6c4e0ab5a9187de3359f884" status="none" />
+		<rom name="Wrecking Ball (2021) (Francesc Alcaucer) - Manual (Es).pdf" size="321635" crc="f28226cd" md5="c7ee2a9728d1723c83bd0530e09f3c34" sha1="ea24e4898df908136e7dd07ab2821bff780bf9d3" status="none" />
+	</game>
+	<game name="Xalk - Deluxe Edition (2019) (Antman) (En)- Extras">
+		<description>Xalk - Deluxe Edition (2019) (Antman) (En)- Extras</description>
+		<rom name="Xalk - Deluxe Edition (2019) (Antman) (En) - Cover.pdf" size="813158" crc="f46ba674" md5="ca68d0828b452cd36f2bf279d0b09fd2" sha1="aa53a25cffc4d8ae70354932edd9036c837cfbb1" status="none" />
+		<rom name="Xalk - Deluxe Edition (2019) (Antman) (En) - Inlay.pdf" size="22085" crc="995bf210" md5="878b77523c7471c0cf71fdea66101d0b" sha1="ed5552466d13f512b17f1263d3fe6d5b3d8f6968" status="none" />
+		<rom name="Xalk - Deluxe Edition (2019) (Antman) (En) - Sticker.pdf" size="20883" crc="096e8f66" md5="59dba8fe874f54e0277f466c3b391c66" sha1="43ca4fd22e0ae45d0e7a683c4f26547c9204a1c4" status="none" />
+	</game>
+	<game name="zBlast SD (2005) (R. Marks, N. Campbell) (En)- Extras">
+		<description>zBlast SD (2005) (R. Marks, N. Campbell) (En)- Extras</description>
+		<rom name="zBlast SD (2005) (R. Marks, N. Campbell) (En) - Cover.pdf" size="657768" crc="2da113f7" md5="cac9532ee62a2f31d0ed2707a7b9897f" sha1="466b37441169bba3dbf3056fe876a51b102adede" status="none" />
+		<rom name="zBlast SD (2005) (R. Marks, N. Campbell) (En) - Inlay.pdf" size="54454" crc="49e76e5c" md5="9103c43d6a9f1e01bea1fa9c78321a63" sha1="446eed450c4427573008ae88d5f46c8724297494" status="none" />
+		<rom name="zBlast SD (2005) (R. Marks, N. Campbell) (En) - Sticker.pdf" size="30805" crc="1377686a" md5="9953f06b3ad9ff87064b0a41929b32c6" sha1="405a0bf6475ce373f78c6d5e3d71359bb414d8c8" status="none" />
+	</game>
+</datafile>
