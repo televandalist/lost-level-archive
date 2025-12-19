@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii</name>
 		<description>Nintendo - Wii</description>
-		<version>v20251212</version>
+		<version>v20251219</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -18,6 +18,14 @@
 	<game name="Fatal Frame IV - Mask of the Lunar Eclipse (Japan) (En) (v1.5) (Temput)">
 		<description>Fatal Frame IV - Mask of the Lunar Eclipse (Japan) (En) (v1.5) (Temput)</description>
 		<rom name="Fatal Frame IV - Mask of the Lunar Eclipse (Japan) (En) (v1.5) (Temput).iso" size="4699979776" crc="67ca172f" md5="043b1a828d6a7a9a3f8f166552ca2223" sha1="f20952ecbaef4e94ade2e0c4c56ed30d59f6ea37" status="none" />
+	</game>
+	<game name="Just Dance 2020 - Just Dance 2026 (Censored) (v1.2.1) (FreddyLuco, Sofie)">
+		<description>Just Dance 2020 - Just Dance 2026 (Censored) (v1.2.1) (FreddyLuco, Sofie)</description>
+		<rom name="Just Dance 2020 - Just Dance 2026 (Censored) (v1.2.1) (FreddyLuco, Sofie).wbfs" size="3724541952" crc="e9b06b8b" md5="904f34ac714e51364f49b51b71ccd7b5" sha1="8cdd6b1df75895216e25c7ab4f112b434c08567f" status="none" />
+	</game>
+	<game name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)">
+		<description>Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)</description>
+		<rom name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie).wbfs" size="3724541952" crc="22206552" md5="32347ae4415dce9d010c6b0970f85994" sha1="397c08bd349df7c6630d5f0344c82a045f6100e5" status="none" />
 	</game>
 	<game name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)">
 		<description>NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)</description>

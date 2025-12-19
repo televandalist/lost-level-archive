@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20251212</version>
+		<version>v20251219</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -188,6 +188,10 @@
 		<description>Project Zero (Europe) (Undub) (v1.0.3) (wagrenier) (Fixes) (Widescreen)</description>
 		<link type="Project Page">https://github.com/wagrenier/ZeroUndub</link>
 		<rom name="Project Zero (Europe) (Undub) (v1.0.3) (wagrenier) (Fixes) (Widescreen).iso" size="3750100992" crc="e544c29b" md5="872f7e078163eb33fccc8b7c8d6b327d" sha1="8bb602bb7c51ed4ab4d7b119fe720f3c9df60fa6" />
+	</game>
+	<game name="Racing Battle - C1 Grand Prix (Japan) (En) (v8.1) (igorciz777)">
+		<description>Racing Battle - C1 Grand Prix (Japan) (En) (v8.1) (igorciz777)</description>
+		<rom name="Racing Battle - C1 Grand Prix (Japan) (En) (v8.1) (igorciz777).iso" size="3966828544" crc="ea1cab94" md5="8fda80e9b6bff8f4725bdb66df06ecaa" sha1="ac933214b9075254d9e825fd8cbd37bf7e5774db" status="none" />
 	</game>
 	<game name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez)">
 		<description>Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez)</description>
