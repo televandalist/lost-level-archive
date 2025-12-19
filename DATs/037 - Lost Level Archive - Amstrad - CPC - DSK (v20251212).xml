@@ -285,10 +285,6 @@
 		<description>Dead on Time (v3.0) (2010) (Paul Kooistra) (En)</description>
 		<rom name="Dead on Time (v3.0) (2010) (Paul Kooistra) (En).dsk" size="226048" crc="230f6b2f" md5="a4f88a3758847b34cb249ebb1cdaee6a" sha1="9a02be28e5abacd7193196ad00a2bc30f7aa3d66" status="none" />
 	</game>
-	<game name="Default">
-		<description>Default</description>
-		<rom name="desktop.ini" size="5910" crc="052cd23b" md5="d932614ea60ab684849b5675ad381298" sha1="a07d9f1db6e54cf93f89964f664e9c120c27a461" status="none" />
-	</game>
 	<game name="Dempsey and Makepeace (UK) (1986) (Britannia Software)">
 		<description>Dempsey and Makepeace (UK) (1986) (Britannia Software)</description>
 		<rom name="Dempsey and Makepeace (UK) (1986) (Britannia Software).dsk" size="194816" crc="2a0d5f49" md5="b5196099972881b5d7229909bf0d74c7" sha1="7aa6fb13f7e18d2c749fb668e7bbe0c045699015" status="none" />
