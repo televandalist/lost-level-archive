@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20251212</version>
+		<version>v20251229</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -268,6 +268,10 @@
 	<game name="He Fucked The Girl Out of Me (World) (v1.1) (Aftermarket) (GB Studio)">
 		<description>He Fucked The Girl Out of Me (World) (v1.1) (Aftermarket) (GB Studio)</description>
 		<rom name="He Fucked The Girl Out of Me (World) (v1.1) (Aftermarket) (GB Studio).gb" size="1048576" crc="8862ab72" md5="7b0182410ff25d7240827bda438ef05f" sha1="21dd2fe314eaf104e3c5701b7fb87b9e11ee3992" />
+	</game>
+	<game name="Helichoppy (World) (v1.0) (Aftermarket) (Vivian Video)">
+		<description>Helichoppy (World) (v1.0) (Aftermarket) (Vivian Video)</description>
+		<rom name="Helichoppy (World) (v1.0) (Aftermarket) (Vivian Video).gb" size="524288" crc="f1ebf065" md5="971f0a72513a4bb18d19f761f9e40fec" sha1="13f50b87163c65f996063e6d11b9b876c2007398" status="none" />
 	</game>
 	<game name="Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio)">
 		<description>Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio)</description>

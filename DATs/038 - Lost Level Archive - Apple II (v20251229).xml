@@ -5,11 +5,15 @@
 		<id>038</id>
 		<name>038 - Lost Level Archive - Apple II</name>
 		<description>Apple II</description>
-		<version>v20251129</version>
+		<version>v20251229</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Astro-Grover (1987) (Hi-Tech Expressions)">
+		<description>Astro-Grover (1987) (Hi-Tech Expressions)</description>
+		<rom name="Astro-Grover (1987) (Hi-Tech Expressions).dsk" size="143360" crc="1bd89f8d" md5="3f317ae0d53a6e299ba742f58c31305d" sha1="1973f00d57d75d7878999c9cfd808b215447eecf" status="none" />
+	</game>
 	<game name="Dangerous Dave Returns (1992) (Softdisk #133)">
 		<description>Dangerous Dave Returns (1992) (Softdisk #133)</description>
 		<rom name="Dangerous Dave Returns (1992) (Softdisk #133).dsk" size="143360" crc="49344da3" md5="e86922a01ed9c585e422270482da3d46" sha1="abd36781cbbd50f13eaad337a901ca77bab08213" status="none" />
@@ -1064,6 +1068,10 @@
 		<description>Eamon Adventure - 254 - Dawn of the Warlock (2009-03) (Wade Clarke)</description>
 		<rom name="Eamon Adventure - 254 - Dawn of the Warlock (2009-03) (Wade Clarke).dsk" size="143360" crc="af68c1e3" md5="3d5e4573108b70559f459ebee992eb2c" sha1="ffc2295b39b6f685182f5c751871474ee712c8c1" />
 	</game>
+	<game name="Ernie's Magic Shapes (1988) (Hi-Tech Expressions)">
+		<description>Ernie's Magic Shapes (1988) (Hi-Tech Expressions)</description>
+		<rom name="Ernie's Magic Shapes (1988) (Hi-Tech Expressions).dsk" size="143360" crc="e06c17de" md5="8bf8030027e9ef3a36af5fd63ee8dad3" sha1="ba3b2481939e26384f38b8c6d65ca707d35356fd" status="none" />
+	</game>
 	<game name="Fix It (1985) (Random House)">
 		<description>Fix It (1985) (Random House)</description>
 		<rom name="Fix It (1985) (Random House).dsk" size="143360" crc="133a67a4" md5="fcf1978328dec5ddffcbeaa0c0d40209" sha1="e09e55aa5a2c0bd0c534b28523e35e12a2daf96c" />
@@ -1113,6 +1121,10 @@
 	<game name="Retro Fever (2014) (Brandon Bogle &amp; Brian Picchi)">
 		<description>Retro Fever (2014) (Brandon Bogle &amp; Brian Picchi)</description>
 		<rom name="Retro Fever (2014) (Brandon Bogle &amp; Brian Picchi).dsk" size="143360" crc="b55b4f2f" md5="dd3d229588ba113172f66dfa24b7754b" sha1="27806b2bc68ebf1464ee63237998e67e4a94ece8" />
+	</game>
+	<game name="Sesame Street - Letter-Go-Round (1988) (Hi-Tech Expressions)">
+		<description>Sesame Street - Letter-Go-Round (1988) (Hi-Tech Expressions)</description>
+		<rom name="Sesame Street - Letter-Go-Round (1988) (Hi-Tech Expressions).woz" size="233216" crc="c0c38f1e" md5="0f034a47979324f881a8bb410c1ae9ce" sha1="0e79c3970c531d3ca3a1fb5881136cd5037934ac" status="none" />
 	</game>
 	<game name="Stunt Car Racer (2023) (cobbpg)">
 		<description>Stunt Car Racer (2023) (cobbpg)</description>

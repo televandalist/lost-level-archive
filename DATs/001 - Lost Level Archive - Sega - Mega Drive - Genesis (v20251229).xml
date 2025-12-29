@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20250907</version>
+		<version>v20251229</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -98,5 +98,9 @@
 	<game name="Think Good 2004 (AtGames - Devworks)">
 		<description>Think Good 2004 (AtGames - Devworks).md</description>
 		<rom name="Think Good 2004 (AtGames - Devworks).md" size="1208218" crc="9acec7eb" md5="a235e10620413e72ac97907a214bfbb5" sha1="0d657cb4a5def9c074b05a407f1aa1893565eaff" />
+	</game>
+	<game name="Waffle Painter (World) (v1.0) (Aftermarket) (Vivian Video)">
+		<description>Waffle Painter (World) (v1.0) (Aftermarket) (Vivian Video)</description>
+		<rom name="Waffle Painter (World) (v1.0) (Aftermarket) (Vivian Video).md" size="148992" crc="1a959439" md5="71659a7e9bc406a65471a507c61e4da1" sha1="6054c4f8542f3fc149a2605ee8695bdac4ee5c34" status="none" />
 	</game>
 </datafile>
