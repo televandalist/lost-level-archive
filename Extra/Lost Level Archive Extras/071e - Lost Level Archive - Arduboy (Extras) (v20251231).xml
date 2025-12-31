@@ -5,7 +5,7 @@
 		<id>071e</id>
 		<name>071e - Lost Level Archive - Arduboy Inc. - Arduboy (Extras)</name>
 		<description>Arduboy Inc. - Arduboy (Extras)</description>
-		<version>v20251212</version>
+		<version>v20251231</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -14,5 +14,9 @@
 	<game name="Expanse, The - The Edium Gambit (World) (v1.0) (fezzik21) - Extras">
 		<description>Expanse, The - The Edium Gambit (World) (v1.0) (fezzik21) - Extras</description>
 		<rom name="Expanse, The - The Edium Gambit (World) (v1.0) (fezzik21) - Manual.pdf" size="872007" crc="685fec10" md5="b318f41606bdeaa22f5d10ea131dd533" sha1="e967f2345e4f4a2123025ed46058cb0d4fed97b3" status="none" />
+	</game>
+	<game name="Greenhorn Syndicate (World) (ZAKO Studios) (Extras)">
+		<description>Greenhorn Syndicate (World) (ZAKO Studios) (Extras)</description>
+		<rom name="Greenhorn Syndicate (World) (ZAKO Studios) - Manual.png" size="13837924" crc="650cb545" md5="33babb5291b9818ef9c4cc31f5d73f9a" sha1="c4024d5e57ec16a6ea12a592d45a923f3378ce71" status="none" />
 	</game>
 </datafile>

@@ -5,7 +5,7 @@
 		<id>071</id>
 		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy</name>
 		<description>Arduboy Inc. - Arduboy</description>
-		<version>v20251212</version>
+		<version>v20251231</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -54,6 +54,14 @@
 	<game name="Rick Ardurous (World) (lswbanban)">
 		<description>Rick Ardurous (World) (lswbanban)</description>
 		<rom name="Rick Ardurous (World) (lswbanban).hex" size="79095" crc="732afb2e" md5="53d0a8eaf9e76424f23bb0d86a41923e" sha1="ea2db821022bd290ca21fb84a980425f6e368218" />
+	</game>
+	<game name="Road Trip (World) (v1.1) (filmote)">
+		<description>Road Trip (World) (v1.1) (filmote)</description>
+		<rom name="Road Trip (World) (v1.1) (filmote).hex" size="80118" crc="ea90680f" md5="893db32fc74875065270355700c6adef" sha1="5ba3899a523e2069630da7c8a56a33a7bd0e1883" status="none" />
+	</game>
+	<game name="Samurai Banana (World) (v1.0) (mdfewkes)">
+		<description>Samurai Banana (World) (v1.0) (mdfewkes)</description>
+		<rom name="Samurai Banana (World) (v1.0) (mdfewkes).hex" size="40325" crc="4488f188" md5="058ecbaa2598b33b9eb337f8ec0335c7" sha1="2e85954e9b1ab80fa6d2bca1372cb18d5fb0b151" status="none" />
 	</game>
 	<game name="Sliding Tiles (World) (Pharap)">
 		<description>Sliding Tiles (World) (Pharap)</description>

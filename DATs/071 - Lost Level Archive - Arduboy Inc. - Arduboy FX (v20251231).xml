@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>071</id>
+		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy FX</name>
+		<description>Arduboy Inc. - Arduboy FX</description>
+		<version>v20251231</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="2D Minigolf (World) (v1.0) (Benguini Bennett)">
+		<description>2D Minigolf (World) (v1.0) (Benguini Bennett)</description>
+		<rom name="2D Minigolf (World) (v1.0) (Benguini Bennett).arduboy" size="32969" crc="0e7fdae8" md5="16fe28cfa6da00652d1a716c79c36e30" sha1="dc70c708f05378d6e29c0b05942f827ba743d0d8" status="none" />
+	</game>
+	<game name="ArduRacerFx (World) (v1.0) (tonym128)">
+		<description>ArduRacerFx (World) (v1.0) (tonym128)</description>
+		<rom name="ArduRacerFx (World) (v1.0) (tonym128).arduboy" size="40269" crc="6929aa95" md5="c67996d9e72b34635a591a2fd1069154" sha1="6cbbb069cc69e93fa5658097d3af2a8ccfb66f8b" status="none" />
+	</game>
+	<game name="Banana Dash (World) (v1.4) (filmote)">
+		<description>Banana Dash (World) (v1.4) (filmote)</description>
+		<rom name="Banana Dash (World) (v1.4) (filmote).arduboy" size="45835" crc="73290355" md5="e2d55f9035d6432747bec91b0d37680e" sha1="3427f02834040e0ccdb353fd9ba5d9360cfbefa1" status="none" />
+	</game>
+	<game name="Banana Reaper (World) (v1.0) (poevoid)">
+		<description>Banana Reaper (World) (v1.0) (poevoid)</description>
+		<rom name="Banana Reaper (World) (v1.0) (poevoid).arduboy" size="34164" crc="de190ee6" md5="63ef1ad5711e51de261f272a76c0d724" sha1="9470a5239301e81e3ffd4d869f7651c46e2113ab" status="none" />
+	</game>
+	<game name="Bananarama (World) (v1.0) (tonym128)">
+		<description>Bananarama (World) (v1.0) (tonym128)</description>
+		<rom name="Bananarama (World) (v1.0) (tonym128).arduboy" size="34739" crc="8a41c46a" md5="877250d01cd06aafbf48a0ebb6e2eb7a" sha1="a4d18bfdf985405bceb1443d0c980401e6634aff" status="none" />
+	</game>
+	<game name="Bone Shakers (World) (jhhoward)">
+		<description>Bone Shakers (World) (jhhoward)</description>
+		<rom name="Bone Shakers (World) (jhhoward).arduboy" size="20722" crc="fffebf09" md5="b16f8ae39a2cee473984a8e20b545c64" sha1="fd633437eb2326126fdaf22b7b5d77db780a2901" status="none" />
+	</game>
+	<game name="Bytes and Knights (World) (v2.0) (crait)">
+		<description>Bytes and Knights (World) (v2.0) (crait)</description>
+		<rom name="Bytes and Knights (World) (v2.0) (crait).arduboy" size="376059" crc="8a8352d4" md5="09ea58eaaa1f6a594dba131554455635" sha1="8490c91edd1344fcd75ea093f130552e634d739e" />
+	</game>
+	<game name="Bytes and Knights (World) (v3.1) (crait)">
+		<description>Bytes and Knights (World) (v3.1) (crait)</description>
+		<rom name="Bytes and Knights (World) (v3.1) (crait).arduboy" size="382957" crc="bca786a9" md5="c4d4d10373319d98a1b2b4154ab4d9ac" sha1="48932b6599ba31bb5d69a329cfa30b498778a43c" />
+	</game>
+	<game name="Catacombs of the Damned (World) (v1.0) (jhhoward)">
+		<description>Catacombs of the Damned (World) (v1.0) (jhhoward)</description>
+		<rom name="Catacombs of the Damned (World) (v1.0) (jhhoward).arduboy" size="33307" crc="9bfb70ae" md5="53e2cd611e8fab187a64875e18ce871f" sha1="7714d7f9f2698cc9ef09f544ef758bdf1886491e" status="none" />
+	</game>
+	<game name="Chakana Challenge FX (World) (v1.0) (filmote)">
+		<description>Chakana Challenge FX (World) (v1.0) (filmote)</description>
+		<rom name="Chakana Challenge FX (World) (v1.0) (filmote).arduboy" size="120553" crc="3a376d61" md5="adc3875eefcce4b8532c1a82e9371657" sha1="0b3f55a63b358108be7f1570e241931b6b12780d" status="none" />
+	</game>
+	<game name="Chakana Challenge FX (World) (v1.1) (filmote)">
+		<description>Chakana Challenge FX (World) (v1.1) (filmote)</description>
+		<rom name="Chakana Challenge FX (World) (v1.1) (filmote).arduboy" size="124427" crc="f9365c62" md5="1a41de68b2c89cac6a72d4c5289dbb27" sha1="53bcd4b2bea6f807eb99c96f53d22617b04cd690" status="none" />
+	</game>
+	<game name="Dark and Under II (World) (v1.0) (Garage Collective)">
+		<description>Dark and Under II (World) (v1.0) (Garage Collective)</description>
+		<rom name="Dark and Under II (World) (v1.0) (Garage Collective).arduboy" size="286283" crc="9685b11c" md5="c798f6395e7bdfa8b344f25a7b779efb" sha1="b6cf33cdb964add651ed4d7e42cf654a4fea4baa" status="none" />
+	</game>
+	<game name="Dazzle Dash (World) (brow1067)">
+		<description>Dazzle Dash (World) (brow1067)</description>
+		<rom name="Dazzle Dash (World) (brow1067).arduboy" size="185579" crc="d20195b4" md5="3d45bde681af8b0ddffe19442b864c95" sha1="91b5342c08da5eaf45558d767f76af432b0e1521" />
+	</game>
+	<game name="Defender FX (World) (v1.0) (filmote)">
+		<description>Defender FX (World) (v1.0) (filmote)</description>
+		<rom name="Defender FX (World) (v1.0) (filmote).arduboy" size="40368" crc="dae82d4c" md5="729cd3918b73a937dc479d2f6adfae14" sha1="7d1f274521e681588916ced0b48f5d602c1e6a61" status="none" />
+	</game>
+	<game name="Exolon (World) (v1.0) (marggines)">
+		<description>Exolon (World) (v1.0) (marggines)</description>
+		<rom name="Exolon (World) (v1.0) (marggines).arduboy" size="63026" crc="b4e34b85" md5="07534a0f96054ee99cf81abdcb131a62" sha1="c55f77d428ae9add7ef722b097c3a31c13129892" status="none" />
+	</game>
+	<game name="Fall, The (World) (v1.0) (Onebit)">
+		<description>Fall, The (World) (v1.0) (Onebit)</description>
+		<rom name="Fall, The (World) (v1.0) (Onebit).arduboy" size="24621" crc="58703844" md5="1aa0143b069ab6ba060e096de44feceb" sha1="c2878d026fd2c3be44f62eda19f888b5bc79db31" status="none" />
+	</game>
+	<game name="Greenhorn Syndicate (World) (ZAKO Studios)">
+		<description>Greenhorn Syndicate (World) (ZAKO Studios)</description>
+		<rom name="Greenhorn Syndicate (World) (ZAKO Studios).arduboy" size="64342" crc="7bb1b864" md5="0d92604153d872f9d93e307788c2f889" sha1="80ad00071d4cf5f3234c3d9e9e976c3f1004b208" status="none" />
+	</game>
+	<game name="Greenhorn Syndicate (World) (v1.2) (Atom_Y)">
+		<description>Greenhorn Syndicate (World) (v1.2) (Atom_Y)</description>
+		<rom name="Greenhorn Syndicate (World) (v1.2) (Atom_Y).arduboy" size="60868" crc="0e20a975" md5="60d8ec1b84d3db7b6f56fd6854ccbd6c" sha1="2496117c54d707513481f5ef741940c20519d02c" status="none" />
+	</game>
+	<game name="Karateka FX (World) (v1.0) (Press Play On Tape)">
+		<description>Karateka FX (World) (v1.0) (Press Play On Tape)</description>
+		<rom name="Karateka FX (World) (v1.0) (Press Play On Tape).arduboy" size="36820" crc="49b527df" md5="eaaec6a2e040cf9b182cc3a2cdceef9e" sha1="b8cb3622f96867ec253fba5c32caa07d19205462" status="none" />
+	</game>
+	<game name="Kwirk FX (World) (v1.0) (filmote)">
+		<description>Kwirk FX (World) (v1.0) (filmote)</description>
+		<rom name="Kwirk FX (World) (v1.0) (filmote).arduboy" size="41627" crc="4fc75313" md5="c69a3008e3692a563136f4c5c738168a" sha1="6be893e7933048ebd17921e790e8080628092304" status="none" />
+	</game>
+	<game name="Kwirk FX (World) (v1.1) (filmote)">
+		<description>Kwirk FX (World) (v1.1) (filmote)</description>
+		<rom name="Kwirk FX (World) (v1.1) (filmote).arduboy" size="41678" crc="5b54b7f1" md5="b56183b4e258d9685f10d91932b106fa" sha1="c068a02500af64c24bd9df8255a4ff691c2dc4ed" status="none" />
+	</game>
+	<game name="LaserTank (World) (v1.0) (brow1067)">
+		<description>LaserTank (World) (v1.0) (brow1067)</description>
+		<rom name="LaserTank (World) (v1.0) (brow1067).arduboy" size="499611" crc="bfe766dc" md5="ae7799fc68019300991a3d6bc4516074" sha1="1e9e36bb675683df51521cafb3ebbfe2e20990be" status="none" />
+	</game>
+	<game name="Magnets FX (World) (v1.0) (filmote)">
+		<description>Magnets FX (World) (v1.0) (filmote)</description>
+		<rom name="Magnets FX (World) (v1.0) (filmote).arduboy" size="29231" crc="e890742e" md5="dacb111f34ee87d1e95ca8ddb7436345" sha1="44fca3c36d9e7ffc8c57092b672de914b5a48c9c" status="none" />
+	</game>
+	<game name="Manic Miner FX (World) (v1.0) (marggines)">
+		<description>Manic Miner FX (World) (v1.0) (marggines)</description>
+		<rom name="Manic Miner FX (World) (v1.0) (marggines).arduboy" size="26300" crc="539159f9" md5="1b5aaa34df2989cd550dee66fca03d76" sha1="adc4d84b44e218ac9caf95f6eebcd12d862b4961" status="none" />
+	</game>
+	<game name="MicroCity (World) (v1.1) (jhhoward)">
+		<description>MicroCity (World) (v1.1) (jhhoward)</description>
+		<rom name="MicroCity (World) (v1.1) (jhhoward).arduboy" size="31223" crc="0c419314" md5="b759a750ac4d9574e1ecdab0a9c7a4b3" sha1="c11fdbd4f2457b8ac60cfc7f056c02185d8ee36e" status="none" />
+	</game>
+	<game name="MicroCity (World) (v1.2) (jhhoward)">
+		<description>MicroCity (World) (v1.2) (jhhoward)</description>
+		<rom name="MicroCity (World) (v1.2) (jhhoward).arduboy" size="28272" crc="9e30645f" md5="11fb4b585e3352ea8045a338d27a4f7c" sha1="f9da195f8a980a69121a969990923fa8faae1933" status="none" />
+	</game>
+	<game name="MicroCity (World) (v1.3) (jhhoward)">
+		<description>MicroCity (World) (v1.3) (jhhoward)</description>
+		<rom name="MicroCity (World) (v1.3) (jhhoward).arduboy" size="28251" crc="d5a5ca70" md5="dbbc3af6225d7f0ff4b333661a793d26" sha1="cf3e9f66974dccd5e3ff5ae4b35cb2bc33585baf" status="none" />
+	</game>
+	<game name="MonkeyPong (World) (v1.0) (poevoid)">
+		<description>MonkeyPong (World) (v1.0) (poevoid)</description>
+		<rom name="MonkeyPong (World) (v1.0) (poevoid).arduboy" size="19246" crc="c1839591" md5="e8228afe5a03283e9f0035c65794c244" sha1="361970a1da342bcb43c62e48b6f7aa0a96dee98f" status="none" />
+	</game>
+	<game name="Oh Hell FX (World) (v1.0) (filmote)">
+		<description>Oh Hell FX (World) (v1.0) (filmote)</description>
+		<rom name="Oh Hell FX (World) (v1.0) (filmote).arduboy" size="65370" crc="1cebd94c" md5="821bf48c22f70747232b1547a9014379" sha1="65e2aceed67d775b6e0a3a2fb03dbe441f02510d" status="none" />
+	</game>
+	<game name="Oh Hell FX (World) (v1.1) (filmote)">
+		<description>Oh Hell FX (World) (v1.1) (filmote)</description>
+		<rom name="Oh Hell FX (World) (v1.1) (filmote).arduboy" size="65526" crc="57d74d8f" md5="41b002edd3623559b508a11b73d8d720" sha1="084b456524fbe49e1c1d7f274ea59a52c1867135" status="none" />
+	</game>
+	<game name="PaintBall FX (World) (v1.0) (filmote)">
+		<description>PaintBall FX (World) (v1.0) (filmote)</description>
+		<rom name="PaintBall FX (World) (v1.0) (filmote).arduboy" size="27455" crc="86529d69" md5="4dca91e2f2b5a615251b58647842c05e" sha1="6421fd662599841fd5dfcda2ad0905e51b082558" status="none" />
+	</game>
+	<game name="Poker FX (World) (v1.0) (filmote)">
+		<description>Poker FX (World) (v1.0) (filmote)</description>
+		<rom name="Poker FX (World) (v1.0) (filmote).arduboy" size="43142" crc="48fd9f64" md5="ff70217a15fbd0db04e6872dd5e158d6" sha1="c34692b40ae033e7c227301d45b5b88cd8222d0f" status="none" />
+	</game>
+	<game name="Prince of Arabia FX (World) (v1.3) (Press Play On Tape)">
+		<description>Prince of Arabia FX (World) (v1.3) (Press Play On Tape)</description>
+		<rom name="Prince of Arabia FX (World) (v1.3) (Press Play On Tape).arduboy" size="115624" crc="62001561" md5="fe98ed5d7bfc37419a31610ec0032d7a" sha1="8e8b403fac1e9cd47212e7b64b02512a847c0d2b" status="none" />
+	</game>
+	<game name="Prince of Arabia FX (World) (v1.4) (Press Play On Tape)">
+		<description>Prince of Arabia FX (World) (v1.4) (Press Play On Tape)</description>
+		<rom name="Prince of Arabia FX (World) (v1.4) (Press Play On Tape).arduboy" size="120936" crc="8e5decdf" md5="b347df01115e15810f3f861485b90d0e" sha1="5fbe6849a62671a1a920a41d787c8ce53118b60a" status="none" />
+	</game>
+	<game name="Prince of Persia FX (World) (v1.4) (Press Play On Tape)">
+		<description>Prince of Persia FX (World) (v1.4) (Press Play On Tape)</description>
+		<rom name="Prince of Persia FX (World) (v1.4) (Press Play On Tape).arduboy" size="120909" crc="2f720a24" md5="6187e40a00a4dcf8252e0e0e430354ef" sha1="dff3bee4be9169054af3a208ab955a3869c5c798" status="none" />
+	</game>
+	<game name="Shadows and Eternity (World) (v1.0) (Dolorre)">
+		<description>Shadows and Eternity (World) (v1.0) (Dolorre)</description>
+		<rom name="Shadows and Eternity (World) (v1.0) (Dolorre).arduboy" size="22114" crc="34d9497b" md5="169f7d7a1e79882c013372dbfe943697" sha1="39fac3d10810e50db38567eb253cf8c617f0b8fd" status="none" />
+	</game>
+	<game name="Siren's Last Call (World) (v1.0.0) (poevoid)">
+		<description>Siren's Last Call (World) (v1.0.0) (poevoid)</description>
+		<rom name="Siren's Last Call (World) (v1.0.0) (poevoid).arduboy" size="70031" crc="26040df1" md5="96cca0f0a0daa54c8b523726ee217109" sha1="c13cd6c82b1ad96cf203a3c3130e9eacb2ae08a3" status="none" />
+	</game>
+	<game name="Spooky Walking Simulator (World) (v1.0.1)">
+		<description>Spooky Walking Simulator (World) (v1.0.1)</description>
+		<rom name="Spooky Walking Simulator (World) (v1.0.1).arduboy" size="35317" crc="bea8a2a3" md5="4ad28a92739ac466662cd9aee987bb0f" sha1="0f9283553ff56055dd14b46c2c1021ebbb8f4dd1" status="none" />
+	</game>
+	<game name="Texas Hold Em FX (World) (filmote)">
+		<description>Texas Hold Em FX (World) (filmote)</description>
+		<rom name="Texas Hold Em FX (World) (filmote).arduboy" size="59789" crc="ba7db052" md5="637724170183bac44ba985f85e08c2fd" sha1="6127cf0ea9f6653183982b7c332b2ec945b5f297" status="none" />
+	</game>
+	<game name="Wolfenduino 3D FX (World) (v1.0) (jhhoward)">
+		<description>Wolfenduino 3D FX (World) (v1.0) (jhhoward)</description>
+		<rom name="Wolfenduino 3D FX (World) (v1.0) (jhhoward).arduboy" size="79997" crc="8914f241" md5="3a85c1f658555fc70406f4d6e4f792d7" sha1="0c7d12f5c636bd09c10b0d398b77c180215044e5" status="none" />
+	</game>
+</datafile>
