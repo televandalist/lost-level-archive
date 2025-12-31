@@ -5,7 +5,7 @@
 		<id>080</id>
 		<name>080 - Lost Level Archive - Uzebox</name>
 		<description>Uzebox</description>
-		<version>v20250201</version>
+		<version>v20251231</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
@@ -294,9 +294,13 @@
 		<description>Ninja Beatdown (World) (Demo) (Vertig0zone)</description>
 		<rom name="Ninja Beatdown (World) (Demo) (Vertig0zone).uze" size="41632" crc="6f1af9f4" md5="38a569f246c35a776ceb90b713338007" sha1="9d21b80ff5307f0544c642c56578a5e73c766c79" />
 	</game>
+	<game name="Outpost in the Dragon's Maw (World) (v1.0) (Jubatian)">
+		<description>Outpost in the Dragon's Maw (World) (v1.0) (Jubatian)</description>
+		<rom name="Outpost in the Dragon's Maw (World) (v1.0) (Jubatian).uze" size="61952" crc="854835c6" md5="68000697c1e930ee26f0f1a7c601fdb1" sha1="5043aae2a31850e8508c8c36d9effe5ece0eeebf" />
+	</game>
 	<game name="Outpost in the Dragon's Maw (World) (v1.1) (Jubatian)">
 		<description>Outpost in the Dragon's Maw (World) (v1.1) (Jubatian)</description>
-		<rom name="Outpost in the Dragon's Maw (World) (v1.1) (Jubatian).uze" size="61952" crc="854835c6" md5="68000697c1e930ee26f0f1a7c601fdb1" sha1="5043aae2a31850e8508c8c36d9effe5ece0eeebf" />
+		<rom name="Outpost in the Dragon's Maw (World) (v1.1) (Jubatian).uze" size="61952" crc="57505e9a" md5="ed366e0950fac5db8cda44fc15a22393" sha1="79c9db920f6dc95f8682515f79e0198cdf8a70f3" status="none" />
 	</game>
 	<game name="Pac-Man Lite (World) (v1.0) (Paul McPhee)">
 		<description>Pac-Man Lite (World) (v1.0) (Paul McPhee)</description>
