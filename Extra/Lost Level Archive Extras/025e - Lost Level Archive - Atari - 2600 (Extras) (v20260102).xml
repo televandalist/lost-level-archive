@@ -5,7 +5,7 @@
 		<id>025e</id>
 		<name>025e - Lost Level Archive - Atari - 2600 (Extras)</name>
 		<description>Atari - 2600 (Extras)</description>
-		<version>v20251212</version>
+		<version>v20260102</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -55,6 +55,16 @@
 		<description>Omicron 2K (NTSC) (Aftermarket) (seemo) (Extras)</description>
 		<rom name="Omicron 2K (NTSC) (Aftermarket) (seemo) - Label.png" size="304975" crc="2418115b" md5="feefd6acae991ae622df264cac318f19" sha1="da468ec69c113d7aa034d8efb7f95ecb2669e7f9" status="none" />
 		<rom name="Omicron 2K (NTSC) (Aftermarket) (seemo) - Readme.txt" size="2341" crc="2740819f" md5="40ddb83e10d8e3489a74cceaabcd657a" sha1="0e32e0218e890984104ee8c1f47013abc0d91963" status="none" />
+	</game>
+	<game name="Omicron 16K (NTSC) (Aftermarket) (seemo) (Extras)">
+		<description>Omicron 16K (NTSC) (Aftermarket) (seemo) (Extras)</description>
+		<rom name="Omicron 16K (NTSC) (Aftermarket) (seemo) - Manual.pdf" size="94364" crc="ed04bf0c" md5="99643b9f8c6e771078bcf0b1c68adfe4" sha1="1b74b6be2a780d778f2e4e7e5d64abca93e23e45" status="none" />
+	</game>
+	<game name="Penult (Demo) (Aftermarket) (Karl Garrison) (Extras)">
+		<description>Penult (Demo) (Aftermarket) (Karl Garrison) (Extras)</description>
+		<rom name="Penult (Demo) (Aftermarket) (Karl Garrison) - Otherworldly Information (Penult Technical Manual).pdf" size="727609" crc="9299376b" md5="0c3afa4a7eaf011a2afeea35f5368bb0" sha1="57082f17a2afeeae2287bc1d40b4a56f332ffbfd" status="none" />
+		<rom name="Penult (Demo) (Aftermarket) (Karl Garrison) - Spoiler-Free Map.webp" size="35210" crc="3368a23e" md5="3095c877a9f670feb460d3f3ac7417c1" sha1="54665043f91445659fac41a9ec3605d9e213a137" status="none" />
+		<rom name="Penult (Demo) (Aftermarket) (Karl Garrison) - The Queen's Missive (Penult Manual).pdf" size="78892" crc="8fa8c641" md5="d864c32345de0ce8889fc4c2264a6c6e" sha1="d8b9988370ba566b6dbde36958a6b0f26450a791" status="none" />
 	</game>
 	<game name="Robot City (v1.01) (Aftermarket) (Thomas Jentzsch) (Extras)">
 		<description>Robot City (v1.01) (Aftermarket) (Thomas Jentzsch) (Extras)</description>

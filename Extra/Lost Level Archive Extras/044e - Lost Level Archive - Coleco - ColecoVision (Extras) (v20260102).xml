@@ -5,12 +5,16 @@
 		<id>044e</id>
 		<name>044e - Lost Level Archive - Coleco - ColecoVision (Extras)</name>
 		<description>Coleco - ColecoVision (Extras)</description>
-		<version>v20250719</version>
+		<version>v20260102</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Bankruptcy Builder (Wolrd) (Aftermarket) (Good Deal Games) (Extras)">
+		<description>Bankruptcy Builder (Wolrd) (Aftermarket) (Good Deal Games) (Extras)</description>
+		<rom name="Bankruptcy Builder (Wolrd) (Aftermarket) (Good Deal Games) - Manual.pdf" size="1496066" crc="a88fc64b" md5="4c2ee2248d6b80a7983c013454be0b78" sha1="ed4972b4607173c72ff0318dfc85fafd2b4002b1" status="none" />
+	</game>
 	<game name="Mario Bros. (World) (Aftermarket) (Unl) - Extras">
 		<description>Mario Bros. (World) (Aftermarket) (Unl) - Extras</description>
 		<rom name="Mario Bros. (World) (Aftermarket) (Unl) - Manual.pdf" size="5606599" crc="d0273ec6" md5="737b47cf89928b42fc645404a519fd03" sha1="51fa9681151908d0e1c32028e77793588f997840" />

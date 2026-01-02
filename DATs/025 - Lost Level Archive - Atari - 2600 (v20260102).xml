@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20251212</version>
+		<version>v20260102</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -359,6 +359,10 @@
 		<description>Omicron 2K (NTSC) (Aftermarket) (seemo)</description>
 		<rom name="Omicron 2K (NTSC) (Aftermarket) (seemo).a26" size="2048" crc="4c65d39b" md5="2148917316ca5ce1672f6c49c0f89d0b" sha1="0b325f57c792f87236d8586a374e008d957809bc" status="none" />
 	</game>
+	<game name="Omicron 16K (NTSC) (Aftermarket) (seemo)">
+		<description>Omicron 16K (NTSC) (Aftermarket) (seemo)</description>
+		<rom name="Omicron 16K (NTSC) (Aftermarket) (seemo).a26" size="16384" crc="510632bb" md5="bc593f2284c67b7d8716d110f541953f" sha1="cee6992a9870981de758d7ce7a45bfd7e669ab76" status="none" />
+	</game>
 	<game name="Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Dennis Debro)">
 		<description>Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Dennis Debro)</description>
 		<rom name="Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Dennis Debro).a26" size="4096" crc="4db1f88a" md5="6e88da2b704916eb04a998fed9e23a3e" sha1="f6b59b338f205e2e1e593592d04512d40d8a9bdf" />
@@ -370,6 +374,14 @@
 	<game name="Pakoman (NTSC) (Aftermarket) (Unl)">
 		<description>Pakoman (NTSC) (Aftermarket) (Unl)</description>
 		<rom name="Pakoman (NTSC) (Aftermarket) (Unl).a26" size="32768" crc="01e7ac34" md5="30d72f64ffdd6ab5495328507843b76d" sha1="ed070574d2e7476929eada9b010a5dbed16b7ef9" />
+	</game>
+	<game name="Penult (NTSC) (Demo) (Aftermarket) (Karl Garrison)">
+		<description>Penult (NTSC) (Demo) (Aftermarket) (Karl Garrison)</description>
+		<rom name="Penult (NTSC) (Demo) (Aftermarket) (Karl Garrison).a26" size="131072" crc="520913fb" md5="30efc5e6a42e4f823abaea3463a7d37a" sha1="31e63afbef6c37a2931315257008dbfd35c04eb4" status="none" />
+	</game>
+	<game name="Penult (PAL60) (Demo) (Aftermarket) (Karl Garrison)">
+		<description>Penult (PAL60) (Demo) (Aftermarket) (Karl Garrison)</description>
+		<rom name="Penult (PAL60) (Demo) (Aftermarket) (Karl Garrison).a26" size="131072" crc="5239371c" md5="826592de9fef6a2bbeb7ee38724b2217" sha1="165b2d0bd51bc46b36b60f36676b0a95e9b5f28e" status="none" />
 	</game>
 	<game name="Pepsi Invaders - Coke Wins (NTSC) (Prototype)">
 		<description>Pepsi Invaders - Coke Wins (NTSC) (Prototype)</description>

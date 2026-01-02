@@ -5,12 +5,16 @@
 		<id>012e</id>
 		<name>012e - Lost Level Archive - Sony - PlayStation Portable (Extras)</name>
 		<description>Sony - PlayStation Portable (Extras)</description>
-		<version>v20250719</version>
+		<version>v20260102</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Battlejewels (World) (Alpha 3) (Aftermarket) (skeezix) (Extras)">
+		<description>Battlejewels (World) (Alpha 3) (Aftermarket) (skeezix) (Extras)</description>
+		<rom name="Battlejewels (World) (Alpha 3) (Aftermarket) (skeezix) - Gear List.pdf" size="560454" crc="45114972" md5="aaa020492fcb5c675d5afa7df5e60e29" sha1="cb0c546557140cb7df8f7ea114b3852363cb2ab2" status="none" />
+	</game>
 	<game name="Loonies 8192 (NTSC) (r66) (Aftermarket) (thp) - Extras">
 		<description>Loonies 8192 (NTSC) (r66) (Aftermarket) (thp) - Extras</description>
 		<rom name="Loonies 8192 (NTSC) (r66) (Aftermarket) (thp) - Cover Art.png" size="181625" crc="d6334a7b" md5="59aa78556a3b270789d88725e15e2108" sha1="7f4edc307c95bc4128d635ae332c843d5bc9f68b" status="none" />
@@ -36,5 +40,11 @@
 	<game name="Super Luigi Fighter (v2.0) (luigi2498) - Extras">
 		<description>Super Luigi Fighter (v2.0) (luigi2498) - Extras</description>
 		<rom name="Super Luigi Fighter (v2.0) (luigi2498) - Manual.pdf" size="87700" crc="f96896c0" md5="ca6934a861ee01ed44980dea913425af" sha1="de81b20987b345031b6bc048066f6418b3a8469b" status="none" />
+	</game>
+	<game name="Zelda - Navi's Quest PSP (World) (v1.04) (Suloku) (Extras)">
+		<description>Zelda - Navi's Quest PSP (World) (v1.04) (Suloku) (Extras)</description>
+		<rom name="Zelda - Navi's Quest PSP (World) (v1.04) (Suloku) - Guide (US).pdf" size="225479" crc="5ee662df" md5="9596cf3ca81be6347d12564c3171e002" sha1="78d7c92eb51a9d4dbfe414035dc03078444213b5" status="none" />
+		<rom name="Zelda - Navi's Quest PSP (World) (v1.04) (Suloku) - Information.txt" size="3530" crc="9b51cf55" md5="0734a057d2fce5694e73d052a48c211e" sha1="4eb607eecc9ab0fc99d1c839b42fbd5c9a32b325" status="none" />
+		<rom name="Zelda - Navi's Quest PSP (World) (v1.04) (Suloku) - Manual (Fr).pdf" size="245458" crc="cab4a01d" md5="e7ce26942e712f8896b6341ef53bf0e4" sha1="3273dd7c2f826f6246863dd2cdf7a06ccd24cf21" status="none" />
 	</game>
 </datafile>

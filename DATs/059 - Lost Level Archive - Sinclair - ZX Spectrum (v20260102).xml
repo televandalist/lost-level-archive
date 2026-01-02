@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>059</id>
+		<name>059 - Lost Level Archive - Sinclair - ZX Spectrum</name>
+		<description>Sinclair - ZX Spectrum</description>
+		<version>v20260102</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Nohzdyve (2018) (Tuckersoft)">
+		<description>Nohzdyve (2018) (Tuckersoft)</description>
+		<rom name="Nohzdyve (2018) (Tuckersoft).tap" size="13797" crc="ee509081" md5="59e4c4aa81736f5e82d4d0f91f05bee7" sha1="85a442ef5943654a051c66a6776e4737838f7507" status="none" />
+	</game>
+</datafile>

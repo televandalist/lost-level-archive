@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20251212</version>
+		<version>v20260102</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -79,6 +79,10 @@
 		<description>Geometry Dash (v1.0.1) (Yerson Games)</description>
 		<rom name="Geometry Dash (v1.0.1) (Yerson Games).iso" size="122607616" crc="7717896c" md5="6d07d9fd5a99ac82289a4ec4fbab12aa" sha1="d23ac84a46fd40c21e6bc9e64e911e0b8d72aa6f" />
 	</game>
+	<game name="Golden Guy in a Dungeon (World) (Aftermarket) (JabuPL)">
+		<description>Golden Guy in a Dungeon (World) (Aftermarket) (JabuPL)</description>
+		<rom name="Golden Guy in a Dungeon (World) (Aftermarket) (JabuPL).iso" size="2908160" crc="e590fb89" md5="b5f6348b86b1571f9fa81779a7872c42" sha1="860bb016377e074ea5937037c3838d5172ca10d7" status="none" />
+	</game>
 	<game name="Golfing Over It (v1.2) (yokaai)">
 		<description>Golfing Over It (v1.2) (yokaai)</description>
 		<rom name="Golfing Over It (v1.2) (yokaai).iso" size="118904832" crc="06f4cd42" md5="22c53cacd49f8fd0d465367b6c3ba557" sha1="e6bc2cd8c5ff2ba6e5e68f96f33680d687d30b4a" />
@@ -86,6 +90,10 @@
 	<game name="Grand Theft Auto - LCS - Sindacco Chronicles (En) (v2.0) (Barcode Studia)">
 		<description>Grand Theft Auto - LCS - Sindacco Chronicles (En) (v2.0) (Barcode Studia)</description>
 		<rom name="Grand Theft Auto - LCS - Sindacco Chronicles (En) (v2.0) (Barcode Studia).iso" size="892393472" crc="907f9b8e" md5="58040323462e9798167a2e3276d33667" sha1="67bb6616fd9c235db25a753b3da85b9aaef3c01a" />
+	</game>
+	<game name="Heart (World) (v2023) (Aftermarket) (yokaai)">
+		<description>Heart (World) (v2023) (Aftermarket) (yokaai)</description>
+		<rom name="Heart (World) (v2023) (Aftermarket) (yokaai).iso" size="112777216" crc="228043eb" md5="283c07571af35401d9196beae5e819b2" sha1="a2512e2a122d461c7de794da5b3237aa0d0e8116" status="none" />
 	</game>
 	<game name="Jeanne d'Arc (USA) (Es) (v1.0) (Artema Translations)">
 		<description>Jeanne d'Arc (USA) (Es) (v1.0) (Artema Translations)</description>
@@ -107,6 +115,10 @@
 		<description>Left 4 Dead 2 2D (v0.2.0) (AlexDev2)</description>
 		<rom name="Left 4 Dead 2 2D (v0.2.0) (AlexDev2).iso" size="119373824" crc="20334154" md5="7db5563df93e2e32653a204a29071810" sha1="da9466d242d5b2bb8d5a19692df2a63a10ff725d" />
 	</game>
+	<game name="Not Trust! (World) (v2022) (Aftermarket) (VitaCreatorDeveloper)">
+		<description>Not Trust! (World) (v2022) (Aftermarket) (VitaCreatorDeveloper)</description>
+		<rom name="Not Trust! (World) (v2022) (Aftermarket) (VitaCreatorDeveloper).iso" size="131072000" crc="565cb88d" md5="41d7c67a299c3fefd174a460f8ec9e33" sha1="2d618addc37338c47eb2f1121f0edd7329161d09" status="none" />
+	</game>
 	<game name="nothing.seriOS (v2020) (Plaguelabs)">
 		<description>nothing.seriOS (v2020) (Plaguelabs)</description>
 		<rom name="nothing.seriOS (v2020) (Plaguelabs).iso" size="128188416" crc="60bdc312" md5="1c8187a1b6fbe8407dc7135a52462e16" sha1="65761d1694a174db8b4805a2248459ee282410a2" />
@@ -122,6 +134,10 @@
 	<game name="Plants vs. Zombies (World) (v1.0) (Aftermarket) (AlexDev2)">
 		<description>Plants vs. Zombies (World) (v1.0) (Aftermarket) (AlexDev2)</description>
 		<rom name="Plants vs. Zombies (World) (v1.0) (Aftermarket) (AlexDev2).iso" size="145260544" crc="eb785fa8" md5="347d47ad2bad86d5e4b8013b514b94fe" sha1="5af795390c6f13976676b7695f7078b6aafdd4b3" status="none" />
+	</game>
+	<game name="Run and Win (World) (itch.io) (Aftermarket) (Player Studio27)">
+		<description>Run and Win (World) (itch.io) (Aftermarket) (Player Studio27)</description>
+		<rom name="Run and Win (World) (itch.io) (Aftermarket) (Player Studio27).iso" size="110526464" crc="af2d2335" md5="f81a2860ccb27f37ff693ca866657ff9" sha1="0bb6bb99215b1ab760c0836e07d2f051fa6c78f6" status="none" />
 	</game>
 	<game name="SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95)">
 		<description>SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95)</description>
