@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (EBOOT)</name>
 		<description>Sony - PlayStation Portable (EBOOT)</description>
-		<version>v20260102</version>
+		<version>v20260104</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -1322,15 +1322,6 @@
 		<rom name="assets\sfx\kill4.wav" size="14276" crc="968ed61d" md5="70d8cc6bad8d4ddb4e3332f55465fa4e" sha1="640280e7b6fa52e4179b29c3403019c1f7a97d7a" status="none" />
 		<rom name="assets\sfx\pickup.wav" size="14310" crc="684c0ad5" md5="ebada3534b994f4f2832b4de0af37ee6" sha1="0a95575efa24c1ed558e0041e631d0e91a67a1be" status="none" />
 		<rom name="assets\sfx\swing.wav" size="25978" crc="52d8a010" md5="7fabdcf658e0f79f487eca5bfd36a975" sha1="2aae6d838c86d7893a1eecf2a90d9a109526a145" status="none" />
-		<rom name="world\4128831.chk" size="768" crc="fb5bb97c" md5="e9e0cf587270b8f3ef2426d282fd8836" sha1="6a8c61bf18e41287b140c1cb2dc211b770b1123b" status="none" />
-		<rom name="world\4128832.chk" size="768" crc="b99160fd" md5="81077eedec68ee4df86ad77970bc6e78" sha1="5d0a67c829bd896448c56350ae0d251231194224" status="none" />
-		<rom name="world\4128833.chk" size="768" crc="c1dac807" md5="0b9336a34fef8cea55b11c6de48ce510" sha1="ba4762180e8a940b2bf8f2e11600c63a57b7d513" status="none" />
-		<rom name="world\4194367.chk" size="768" crc="f616cad2" md5="b5f939351c94ee6788b58f9e991a4ab6" sha1="866c19c4861d52fbf07844119bd97ae863599509" status="none" />
-		<rom name="world\4194368.chk" size="768" crc="6a2391b8" md5="c0cc913e5a9d47a1c43f17261cd5fd7f" sha1="61535c9891493e91bb0f641def5323ed333ba018" status="none" />
-		<rom name="world\4194369.chk" size="768" crc="238e3fb5" md5="63a5ffe21f5b1e2e4d29d2d65df2a87b" sha1="2a49b1b907942e99b08ea5fd52ab2e9701dd4074" status="none" />
-		<rom name="world\4259903.chk" size="768" crc="3d92c25b" md5="362e014bd21164ec77591a5697e4ba85" sha1="9bb042d9b99cd27caf3b7e77ed2c8228b306d88c" status="none" />
-		<rom name="world\4259904.chk" size="768" crc="0d5cb736" md5="e9331d679d9a353f38836550495f52d3" sha1="4e70c0e8a963458d63f322c9d9309f449022a3d1" status="none" />
-		<rom name="world\4259905.chk" size="768" crc="d7f043a2" md5="48b24e1dccc8dae34aa4e3b23835aad8" sha1="51f15d37e9a1486f5f8ba0dd8384407078802e9e" status="none" />
 		<rom name="EBOOT.PBP" size="2096698" crc="aa72fa30" md5="9dd72ac7696f8d763814cb7b9a35f823" sha1="e20a0515641e619e97ee7106c09945dbc7aa11ea" status="none" />
 	</game>
 	<game name="Five Nights at Freddy's 1 (v1.3.1) (BasDEV)">
@@ -2379,7 +2370,6 @@
 		<rom name="data\sound.rga" size="486624" crc="924fe260" md5="f6232f7771a2955eb8e50b83d2003c35" sha1="ef6d259759a0874579cf7776e98559a1ecea33e3" status="none" />
 		<rom name="EBOOT.PBP" size="1352905" crc="8efcb03b" md5="3fa93d3f5bdede4e08b9f8a406e4daaf" sha1="272e1c91f7d6ed5a59dd3816ede51a5cf8c6b0ab" status="none" />
 		<rom name="hermes.txt" size="27725" crc="2daf6be3" md5="ad8e118838c9c5862b09787248943465" sha1="69244c38e96111b8446f69477b85a20249e9eda3" status="none" />
-		<rom name="hiscores.dat" size="160" crc="7d435dad" md5="efe6fe46d096388190874596ce52725c" sha1="b8b75158f742ca7393958b89cfc27dbe7e0a5d6b" status="none" />
 	</game>
 	<game name="Hydra Castle Labyrinth (v2021-11-08) (JeffRuLz)">
 		<description>Hydra Castle Labyrinth (v2021-11-08) (JeffRuLz)</description>
@@ -5533,7 +5523,6 @@
 		<rom name="assets\sounds\pick.wav" size="211196" crc="d4de98f3" md5="a2720807049eb2fb509b412718866f94" sha1="00e5e772b8ccc93723590a470115f20b87eb470a" status="none" />
 		<rom name="oceanpop\options.json" size="125" crc="331d7a83" md5="761e0426d83aaf3b955b0163c84fa4af" sha1="150ee4da75ad81e38e69abbf969814d1955cc210" status="none" />
 		<rom name="EBOOT.PBP" size="4729753" crc="6a911602" md5="18b65e8478f4f30303cef4c208bc22c6" sha1="c076aff1b97af3e2d8fd10d95184a2b7a8569503" status="none" />
-		<rom name="SDL_Log.txt" size="594" crc="c1fd55fc" md5="d6876f05339bd893b551c526b66d1fe3" sha1="71546324086e28e8e68f66d77b9821ec2c4cc8fc" status="none" />
 	</game>
 	<game name="Odyssey for Panic (World) (v2018) (240-185)">
 		<description>Odyssey for Panic (World) (v2018) (240-185)</description>
