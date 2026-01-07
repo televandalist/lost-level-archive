@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>Removed - 016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Removed - Nintendo - GameCube</description>
-		<version>v20251212</version>
+		<version>v20260104</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -40,6 +40,11 @@
 		<description>Movie Mashup (v1.0) (Eyepie)</description>
 		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
 		<rom name="Movie Mashup (v1.0) (Eyepie).iso" size="581435392" crc="007bccbd" md5="0c055649336ee34ac47e4a54e709d1cf" sha1="cfcb59ed719bc83651d4adbfffa5bab7e8501eb2" />
+	</game>
+	<game name="Pickles (World) (2024-07-29) (Proto)">
+		<description>Pickles (World) (2024-07-29) (Proto)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Pickles (World) (2024-07-29) (Proto).iso" size="1459978240" crc="7fa9a839" md5="313057403f079b96926335202a6ca40c" sha1="9038eb0c7c013421a9be5a94fcd3d27c7f2f8767" />
 	</game>
 	<game name="Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread)">
 		<description>Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread)</description>

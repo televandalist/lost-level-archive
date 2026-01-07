@@ -3,76 +3,72 @@
 <datafile>
 	<header>
 		<id>011</id>
-		<name>011 - Lost Level Archive - Sega - Master System</name>
-		<description>Sega - Master System</description>
-		<version>v20251129</version>
+		<name>Removed - 011 - Lost Level Archive - Sega - Master System</name>
+		<description>Removed - Sega - Master System</description>
+		<version>v20260104</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="Alien Cat 2 (World) (Aftermarket) (PSCDGames)">
-		<description>Alien Cat 2 (World) (Aftermarket) (PSCDGames)</description>
-		<rom name="Alien Cat 2 (World) (Aftermarket) (PSCDGames).sms" size="344064" crc="9552d772" md5="0d9aa5e82f13c1c1deda9127de925fef" sha1="99b346033afbc5804b3e4418820528d51dc594bb" status="none" />
-	</game>
-	<game name="Black Castle (World) (v2024-05-23) (Aftermarket) (Unl)">
-		<description>Black Castle (World) (v2024-05-23) (Aftermarket) (Unl)</description>
-		<rom name="Black Castle (World) (v2024-05-23) (Aftermarket) (Unl).sms" size="131072" crc="e5f3b3f9" md5="ae6969c839d5a0d2c53229639482f61d" sha1="a3479109fb8a623a7a4f3e6af3cbf63bd88ac1ad" />
-	</game>
 	<game name="Bloktris (v1.03) (2023) (Under4Mhz)">
 		<description>Bloktris (v1.03) (2023) (Under4Mhz)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Bloktris (v1.03) (2023) (Under4Mhz).sms" size="262144" crc="7ddd30cb" md5="e5ba57dce3a2995d093aef67effde27d" sha1="cda74a2a596fc5afaf84c74c5b4f54a7b989f87b" />
 	</game>
 	<game name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)">
 		<description>Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Crazy Pinball (USA, Europe) (v3.1) (Aftermarket) (Unl).sms" size="262144" crc="79e2aeb2" md5="8dc6002e19f66bd7dba7f9adb6f8918e" sha1="32bd664de24ac4fc8c96416bc0fa3aaa37c3d060" />
 	</game>
-	<game name="Extreme Volleyball Infernal League (World) (Steam) (v2.1.12) (Aftermarket) (Unl)">
-		<description>Extreme Volleyball Infernal League (World) (Steam) (v2.1.12) (Aftermarket) (Unl)</description>
-		<rom name="Extreme Volleyball Infernal League (World) (Steam) (v2.1.12) (Aftermarket) (Unl).sms" size="524288" crc="dc5c8a14" md5="a8516e8dc290dbaf92b1c82c394db115" sha1="9f40f3babfd1b2bfdf6aacba43952b06d9175dc1" />
+	<game name="Extreme Volleyball Infernal League (World) (v1.0.2) (Aftermarket) (Unl)">
+		<description>Extreme Volleyballl Infernal League (World) (v1.0.2) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Extreme Volleyballl Infernal League (World) (v1.0.2) (Aftermarket) (Unl).sms" size="524288" crc="f7e6c14a" md5="25285037a067c5757caf5bc6c1eea7db" sha1="ad572577d93f25bd27c410300fcae3484d26ae25" />
+	</game>
+	<game name="Extreme Volleyball Infernal League (World) (v1.0.3) (Aftermarket) (Unl)">
+		<description>Extreme Volleyball Infernal League (World) (v1.0.3) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Extreme Volleyball Infernal League (World) (v1.0.3) (Aftermarket) (Unl).sms" size="524288" crc="f9e940b6" md5="69244242fca8522894904168681019e4" sha1="485384571802f8f25c434154ea9e360bc55de63a" />
+	</game>
+	<game name="Extreme Volleyball Infernal League (World) (v1.0.5) (Aftermarket) (Unl)">
+		<description>Extreme Volleyball Infernal League (World) (v1.0.5) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Extreme Volleyball Infernal League (World) (v1.0.5) (Aftermarket) (Unl).sms" size="524288" crc="6402d2d6" md5="a4ba794b418ccfe177c5318bcc0fa9fe" sha1="0ed34d0e119b170fd8ac9b65ff9bbb56e551de92" />
+	</game>
+	<game name="Extreme Volleyball Infernal League (World) (v1.0.6) (Aftermarket) (Unl)">
+		<description>Extreme Volleyball Infernal League (World) (v1.0.6) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Extreme Volleyball Infernal League (World) (v1.0.6) (Aftermarket) (Unl).sms" size="524288" crc="82ef4bda" md5="8b12cc57e9e1baf8cc4165d7f8a210fe" sha1="fab2398562886662775d413ee8457231b9bd7660" />
 	</game>
 	<game name="Frontier Force (USA, Brazil) (v1.1) (Aftermarket) (Badcomputer)">
 		<description>Frontier Force (USA, Brazil) (v1.1) (Aftermarket) (Badcomputer)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Frontier Force (USA, Brazil) (v1.1) (Aftermarket) (Badcomputer).sms" size="524288" crc="fd09f46d" md5="d6e3477b80256b44ff43f9c0562facfb" sha1="55f2ee7fa1a9aaf336d421e9df5b4eed1c63e39b" status="none" />
 	</game>
 	<game name="Iron Man (World) (Alt Controls) (Aftermarket) (old_pirate)">
 		<description>Iron Man (World) (Alt Controls) (Aftermarket) (old_pirate)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Iron Man (World) (Alt Controls) (Aftermarket) (old_pirate).sms" size="507904" crc="2b8ae15d" md5="e5547ef64c39d4add2df78d3ab5c9b79" sha1="4ed8b9c3cdd3ab1ebeb869b64311a28e44d6abe7" status="none" />
 	</game>
 	<game name="Iron Man (World) (v1.00) (Aftermarket) (old_pirate)">
 		<description>Iron Man (World) (v1.00) (Aftermarket) (old_pirate)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Iron Man (World) (v1.00) (Aftermarket) (old_pirate).sms" size="507904" crc="d2f3fed6" md5="8fc6f684a2a0e17c08e43be1bece16d3" sha1="3cc965dcda7064616005770765c6cfd3645c0a1f" status="none" />
-	</game>
-	<game name="Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)">
-		<description>Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano)</description>
-		<rom name="Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano).sms" size="16384" crc="4ffd231b" md5="ef6f43f97be9c2a51c7dbe413032236d" sha1="6621608f3f73ef6351594b99e06f72cedba9c257" />
-	</game>
-	<game name="Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl)">
-		<description>Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl)</description>
-		<rom name="Radical Rat (USA, Europe) (v0.3) (Aftermarket) (Unl).sms" size="131072" crc="dbc88d37" md5="8635b8ecbce48c128cd5a6376843cf9b" sha1="f1e16dee2be2e9046608cd0532c5ab5a4145cdcd" />
 	</game>
 	<game name="RingDash SMS (World) (v1.1) (Aftermarket) (BriG78cx)">
 		<description>RingDash SMS (World) (v1.1) (Aftermarket) (BriG78cx)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="RingDash SMS (World) (v1.1) (Aftermarket) (BriG78cx).sms" size="131072" crc="a1e883fc" md5="7206f1e903f6b0749cccd779d63464c0" sha1="f2801a72bb92865803a41e52286f62451c7ce2c7" status="none" />
-	</game>
-	<game name="Snail Maze - Music Demo (USA, Europe)">
-		<description>Snail Maze - Music Demo (USA, Europe)</description>
-		<rom name="Snail Maze - Music Demo (USA, Europe).sms" size="32768" crc="304fe02b" md5="ffcb0fedde6b7f8377ca99232c123597" sha1="499ac51501035b5ec5a993c0c9c0163d8a49e35c" />
-	</game>
-	<game name="Snail Maze - SMS BIOS (v1.3) (USA, Europe)">
-		<description>Snail Maze - SMS BIOS (v1.3) (USA, Europe)</description>
-		<rom name="Snail Maze - SMS BIOS (v1.3) (USA, Europe).sms" size="8192" crc="5ad6edac" md5="4f47e48248f6498bff9018789f26c9f8" sha1="083ce08bff13b3530371c6021dc740f1cfc78e0c" />
-	</game>
-	<game name="Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl)">
-		<description>Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl)</description>
-		<rom name="Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl).sms" size="32768" crc="016e55cf" md5="579651894466cdb1f89174021d57ed47" sha1="bef4400b208b4288e0523818c9743a79ce693d05" />
 	</game>
 	<game name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx)">
 		<description>Sonik Gem Dash (World) (Aftermarket) (BriG78cx)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Sonik Gem Dash (World) (Aftermarket) (BriG78cx).sms" size="32768" crc="b2f9e6f3" md5="efb29ab5b61521f3c4b0600e7506c55a" sha1="3e0924c283d554a9872cc8a741272ec3d4492971" status="none" />
 	</game>
 	<game name="Vexed (USA) (v1.15) (Aftermarket) (Unl)">
 		<description>Vexed (USA) (v1.15) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Vexed (USA) (v1.15) (Aftermarket) (Unl).sms" size="32768" crc="47c39bac" md5="2cde86c5890081de8c16ff598a756be3" sha1="de0059bbd7b11bb29ca690a1e9e5ed9e0fc89943" />
 	</game>
 </datafile>

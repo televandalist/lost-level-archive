@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>Removed - 001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Removed - Sega - Mega Drive - Genesis</description>
-		<version>v20250907</version>
+		<version>v20260104</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -13,18 +13,27 @@
 	</header>
 	<game name="Batman Returns MD (USA) (v1.2) (Aftermarket) (Pyron's Lair)">
 		<description>Batman Returns MD (USA) (v1.2) (Aftermarket) (Pyron's Lair)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Batman Returns MD (USA) (v1.2) (Aftermarket) (Unl).md" size="2097152" crc="30f2ea20" md5="83910fbe56f65b4b63698d634d56a0a2" sha1="2f20558bf83ea96ecb97e154c5aeee5b24ce0a0b" status="none" />
 	</game>
 	<game name="Iron Man (World) (v1.01) (Aftermarket) (old_pirate)">
 		<description>Iron Man (World) (v1.01) (Aftermarket) (old_pirate)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Iron Man (World) (v1.01) (Aftermarket) (old_pirate).md" size="917504" crc="5fd1cf02" md5="42292287930bb213da54723b929b276b" sha1="5bca280816c5988f9349b70633ba8adbf707858b" status="none" />
+	</game>
+	<game name="Metal Gear (World) (Amiga Port) (v1.0) (h0ffman)">
+		<description>Metal Gear (World) (Amiga Port) (v1.0) (h0ffman)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Metal Gear (World) (Amiga Port) (v1.0) (h0ffman).md" size="1572864" crc="9f6a5f55" md5="af52dc45e702765fae7afb96a9930cd0" sha1="8f64f5f89ef631cf9308c823e06fb48e835d4268" />
 	</game>
 	<game name="Metal Gear (World) (Amiga Port) (v1.1) (h0ffman)">
 		<description>Metal Gear (World) (Amiga Port) (v1.1) (h0ffman)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Metal Gear (World) (Amiga Port) (v1.1) (h0ffman).md" size="1572864" crc="724fe7b3" md5="c7086ec7bc21096c266eae0eb3b95e93" sha1="89b32e57e2dee000b5a4a6502b70e568637d4fda" />
 	</game>
 	<game name="Sonic the Hedgehog 3 - Paramount Promotional Cart (USA) (Aftermarket)">
 		<description>Sonic the Hedgehog 3 - Paramount Promotional Cart (USA) (Aftermarket)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Sonic the Hedgehog 3 - Paramount Promotional Cart (USA) (Aftermarket).md" size="4194304" crc="f9881aae" md5="2886958811c81211174184d6fa874797" sha1="691894261033cef1936a2ad9ef594e30241c7e0b" status="none" />
 	</game>
 </datafile>

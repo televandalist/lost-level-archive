@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>Removed - 005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Removed - Nintendo - Game Boy Advance</description>
-		<version>v20250907</version>
+		<version>v20260104</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -31,8 +31,29 @@
 		<description>Trials of Chaos (World) (GBA Jam 2024) (Aftermarket) (Unl)</description>
 		<rom name="Trials of Chaos (World) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="17901224" crc="1822f291" md5="d9371f098dfaaf7d52bca4cbc333223d" sha1="65f52d937a2c3247753f2d59bf39bbaf6f23da56" />
 	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (Japan)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (Japan).gba" size="8388608" crc="51b35e87" md5="72f072d0e26a9e3d12b6107598cbaf69" sha1="a0ad0cbff3d74bb3e234abcff866994ea602c43a" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (USA)">
+		<description>Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (USA)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Dungeon Dice Monsters (USA).gba" size="8388608" crc="8b5e0a27" md5="1ac4901f9a831d6b86ca776bb61f8d8b" sha1="fdd69455a072b2f74e6c5c50b96daa0438156b27" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Europe)">
+		<description>Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Europe)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Europe).gba" size="8388608" crc="ee317f69" md5="ec2e23cc5fd7a3ea4e32ac7b8d488103" sha1="3ded1227698fbdb2ba47f03025cd1934fc184b99" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Japan)">
+		<description>Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Japan)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Destiny Board Traveler (Japan).gba" size="8388608" crc="8d52b3c5" md5="c5401124a48f173f05fb10fb9e716011" sha1="6816f044c3f4cac76e888c0ec36dc216e7c140d2" />
+	</game>
 	<game name="Zipline Zapper (World) (Aftermarket) (3DSage)">
 		<description>Zipline Zapper (World) (Aftermarket) (3DSage)</description>
+		<comment>In the No Intro DAT</comment>
 		<rom name="Zipline Zapper (World) (Aftermarket) (3DSage).gba" size="1934808" crc="297d664b" md5="85c6ef88ad57e0af9778c68880295351" sha1="8ef671cf45d12232cc8e8292c4689082d794b468" status="none" />
 	</game>
 </datafile>

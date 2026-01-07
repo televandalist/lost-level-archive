@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20251212</version>
+		<version>v20260104</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -18,10 +18,6 @@
 	<game name="MKDD - Mario Kart Double Dash Extended (v2.0) (M64)">
 		<description>MKDD - Mario Kart Double Dash Extended (v2.0) (M64)</description>
 		<rom name="MKDD - Mario Kart Double Dash Extended (v2.0) (M64).iso" size="1459978240" crc="8de9c734" md5="a7a438445046286964d6896ee3036bca" sha1="7f10b48ef8fe66761f70cc7127394dc9e9f7eb19" />
-	</game>
-	<game name="Pickles (World) (2024-07-29) (Proto)">
-		<description>Pickles (World) (2024-07-29) (Proto)</description>
-		<rom name="Pickles (World) (2024-07-29) (Proto).iso" size="1459978240" crc="7fa9a839" md5="313057403f079b96926335202a6ca40c" sha1="9038eb0c7c013421a9be5a94fcd3d27c7f2f8767" />
 	</game>
 	<game name="Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore)">
 		<description>Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore)</description>

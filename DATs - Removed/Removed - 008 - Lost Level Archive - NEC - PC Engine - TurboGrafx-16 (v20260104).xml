@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>008</id>
+		<name>Removed - 008 - Lost Level Archive - NEC - PC Engine - TurboGrafx-16</name>
+		<description>Removed - NEC - PC Engine - TurboGrafx-16</description>
+		<version>v20260104</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Special Ninja Squad (World) (v1.1 Demo) (Aftermarket) (Vectrex28)">
+		<description>Special Ninja Squad (World) (v1.1 Demo) (Aftermarket) (Vectrex28)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Special Ninja Squad (World) (v1.1 Demo) (Aftermarket) (Vectrex28).pce" size="327680" crc="f410b4c9" md5="2c020898a17617fc16b24538a0978c57" sha1="16b32b3cc45d66848f9dec712bf2c5f282028c2a" />
+	</game>
+</datafile>
