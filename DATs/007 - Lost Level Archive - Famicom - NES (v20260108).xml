@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20251212</version>
+		<version>v20260108</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -35,6 +35,11 @@
 		<description>Cross Shuriken (France) (Aftermarket) (Unl) (Fabrizio Caruso)</description>
 		<rom name="Cross Shuriken (France) (Aftermarket) (Unl) (Fabrizio Caruso).nes" size="40976" crc="af229fe9" md5="fb786ac46a51e3faa667195372e6074e" sha1="a9e2bddf3d8e305689d07cabbce4ed8e2ed19ad8" />
 	</game>
+	<game name="F-FF (World) (v2.0) (Aftermarket) (Pubby)">
+		<description>F-FF (World) (v2.0) (Aftermarket) (Pubby)</description>
+		<link type="media">https://pubby.games/fff.html</link>
+		<rom name="F-FF (World) (v2.0) (Aftermarket) (Pubby).nes" size="65552" crc="37750683" md5="400aca7b133be11651a8a45b250f981d" sha1="ef8ed11e19ec7455ecdb671bac5a15875c674477" status="none" />
+	</game>
 	<game name="Fish (World) (v1.2) (Aftermarket) (Unl) (voxel)">
 		<description>Fish (World) (v1.2) (Aftermarket) (Unl) (voxel)</description>
 		<rom name="Fish (World) (v1.2) (Aftermarket) (Unl) (voxel).nes" size="40976" crc="20120db7" md5="b7a38bd1f84e6d02695e2ced8b80eb49" sha1="f4342a4d6752332eb09e4c1f9a896dc380a96275" />
@@ -58,6 +63,11 @@
 	<game name="Legend of Zelda, The - Triforce of the Gods (China) (En) (v1.1) (pacsnacdave)">
 		<description>Legend of Zelda, The - Triforce of the Gods (China) (En) (v1.1) (pacsnacdave)</description>
 		<rom name="Legend of Zelda, The - Triforce of the Gods (China) (En) (v1.1) (pacsnacdave).nes" size="2097259" crc="7bfe3590" md5="cba5237bdd24506d75e7b4a194b3c097" sha1="6e07687f9e45a4e79d5e95a34537c76f2485af11" />
+	</game>
+	<game name="Lunar Limit (World) (Aftermarket) (Pubby)">
+		<description>Lunar Limit (World) (Aftermarket) (Pubby)</description>
+		<link type="media">https://pubby.games/lunarlimit.html</link>
+		<rom name="Lunar Limit (World) (Aftermarket) (Pubby).nes" size="40976" crc="3b1ab559" md5="3ee04ea5084e6014c3b234e5de798283" sha1="e502ec3726150cb5d5fc7aacedeb1acf086cb3c5" status="none" />
 	</game>
 	<game name="Mantle (World) (v1.1) (Aftermarket) (Unl)">
 		<description>Mantle (World) (v1.1) (Aftermarket) (Unl)</description>

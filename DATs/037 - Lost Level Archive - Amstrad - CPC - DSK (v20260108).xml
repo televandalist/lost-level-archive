@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (DSK)</name>
 		<description>Amstrad - CPC (DSK)</description>
-		<version>v20251212</version>
+		<version>v20260108</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -914,6 +914,10 @@
 	<game name="Xalk - Deluxe Edition (2019) (Antman) (En)">
 		<description>Xalk - Deluxe Edition (2019) (Antman) (En)</description>
 		<rom name="Xalk - Deluxe Edition (2019) (Antman) (En).dsk" size="204544" crc="a3f81d10" md5="2a1a49273ae06f7787458c1724038523" sha1="0232313a51ddc943a60c8b00ff26903858c254a4" status="none" />
+	</game>
+	<game name="Xyphoe's Nightmare (2022) (v20220112) (YB Software)">
+		<description>Xyphoe's Nightmare (2022) (v20220112) (YB Software)</description>
+		<rom name="Xyphoe's Nightmare (2022) (v20220112) (YB Software).dsk" size="204544" crc="5b44f122" md5="4f89fadc7312bf9b622c3f81c194f4f5" sha1="9df1a4bfdfcced7e261c080f74c54c4ae416758c" status="none" />
 	</game>
 	<game name="zBlast SD (2005) (R. Marks, N. Campbell) (En)">
 		<description>zBlast SD (2005) (R. Marks, N. Campbell) (En)</description>
