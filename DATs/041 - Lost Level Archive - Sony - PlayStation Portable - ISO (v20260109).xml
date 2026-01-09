@@ -5,12 +5,16 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20260102</version>
+		<version>v20260109</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="4 Hours of Watching Paint Dry (World) (v0.1) (Aftermarket) (sungrandstudios)">
+		<description>4 Hours of Watching Paint Dry (World) (v0.1) (Aftermarket) (sungrandstudios)</description>
+		<rom name="4 Hours of Watching Paint Dry (World) (v0.1) (Aftermarket) (sungrandstudios).iso" size="118751232" crc="1b24cff8" md5="acc1d2366c247fbcb8731968dd35ede1" sha1="847efad36cef77eb7185f736457eaf1ca36af934" status="none" />
+	</game>
 	<game name="7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax)">
 		<description>7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax)</description>
 		<rom name="7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax).iso" size="1585754112" crc="7b9f510e" md5="e1c69d7442cb17b7874281a22fc1d9e4" sha1="a76a6ccef253a81573659126ce746fa3d6af99a7" />

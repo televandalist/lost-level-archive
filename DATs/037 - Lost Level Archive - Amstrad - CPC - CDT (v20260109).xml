@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (CDT)</name>
 		<description>Amstrad - CPC (CDT)</description>
-		<version>v20251031</version>
+		<version>v20260109</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -194,6 +194,14 @@
 	<game name="Mandarin, The (2022) (Mananuk)">
 		<description>Mandarin, The (2022) (Mananuk)</description>
 		<rom name="Mandarin, The (2022) (Mananuk).cdt" size="25433" crc="34663f31" md5="8a9ee1a7fc7daf89b8bc54f37548b076" sha1="ccd254e7cbb7fc917c86d8dee0e476bba535d473" />
+	</game>
+	<game name="Master Piece (v20250316) (En) (Tartessos Games)">
+		<description>Master Piece (v20250316) (En) (Tartessos Games)</description>
+		<rom name="Master Piece (v20250316) (En) (Tartessos Games).cdt" size="18581" crc="604be237" md5="c1e589d7ac03dde89cd3662dfcdfd1c5" sha1="298a9ee7cb0f1f591217ea0fa2314b96744b4355" status="none" />
+	</game>
+	<game name="Master Piece (v20250316) (Es) (Tartessos Games)">
+		<description>Master Piece (v20250316) (Es) (Tartessos Games)</description>
+		<rom name="Master Piece (v20250316) (Es) (Tartessos Games).cdt" size="18600" crc="8a20721b" md5="f157512324a3dd52f12ce18daa227907" sha1="49b2a8cb7b93fe4455337fdbe61639cbb72d5a29" status="none" />
 	</game>
 	<game name="Monster Mayhem (2024) (Mananuk)">
 		<description>Monster Mayhem (2024) (Mananuk)</description>

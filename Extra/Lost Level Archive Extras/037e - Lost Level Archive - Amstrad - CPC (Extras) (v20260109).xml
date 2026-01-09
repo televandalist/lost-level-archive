@@ -5,7 +5,7 @@
 		<id>037e</id>
 		<name>037e - Lost Level Archive - Amstrad - CPC (Extras)</name>
 		<description>Amstrad - CPC (Extras)</description>
-		<version>v20251212</version>
+		<version>v20260109</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -453,6 +453,13 @@
 		<rom name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer) - Inlay (En).pdf" size="27467" crc="b1fcd4de" md5="0507350bab0c6905a789508d3c506319" sha1="8efe7567e74fc4e479c13f811073c2c5708ad3ca" status="none" />
 		<rom name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer) - Inlay (Fr).pdf" size="27749" crc="1c0dfa20" md5="66e5f7ebb92d2d22ef3e28b6c9bcdf2d" sha1="709a72cf41a70780f535f4e11424bd49a2032fa1" status="none" />
 		<rom name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer) - Sticker.pdf" size="22502" crc="a117b4ff" md5="01ce02c113e8cf94d4c8e90746360b50" sha1="1825e3e31aa2ae3c6cef12c09859ac5338a81978" status="none" />
+	</game>
+	<game name="Master Piece (v20250316) (Tartessos Games) (Extras)">
+		<description>Master Piece (v20250316) (Tartessos Games) (Extras)</description>
+		<rom name="Master Piece (v20250316) (En) (Tartessos Games) - Cassette Cover.png" size="454386" crc="2d845304" md5="279de798fa2de167364dfb3c230c3840" sha1="74e420dd2dede2fad04886be9bd05219dbd65b52" status="none" />
+		<rom name="Master Piece (v20250316) (En) (Tartessos Games) - Disk Cover.png" size="479938" crc="6d872594" md5="d14dda4d6e1a106951391b9f472ab507" sha1="cd48048367db5dee142732ed1e41d296b8d85590" status="none" />
+		<rom name="Master Piece (v20250316) (Es) (Tartessos Games) - Cassette Cover.png" size="457398" crc="8ab24bda" md5="7935dfe460a2da3bb9acc94238c42565" sha1="0db4d4cf04f478e3eccf955d74070180338ef1e5" status="none" />
+		<rom name="Master Piece (v20250316) (Es) (Tartessos Games) - Disk Cover.png" size="483469" crc="c2307a78" md5="5a951d8d3a5a13264ab2f3b24e435e9a" sha1="db5ba499c82b0df51605fb1ffc6aec4f130a7eef" status="none" />
 	</game>
 	<game name="Maziacs (2013) (Don Priestley, 40Crisis)- Extras">
 		<description>Maziacs (2013) (Don Priestley, 40Crisis)- Extras</description>

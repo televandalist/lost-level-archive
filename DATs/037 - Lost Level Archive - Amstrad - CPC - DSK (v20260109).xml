@@ -5,7 +5,7 @@
 		<id>037</id>
 		<name>037 - Lost Level Archive - Amstrad - CPC (DSK)</name>
 		<description>Amstrad - CPC (DSK)</description>
-		<version>v20260108</version>
+		<version>v20260109</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -527,6 +527,14 @@
 	<game name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer) (En)">
 		<description>Master of Space!, The (1994) (Shock Soft &amp; Shimmer) (En)</description>
 		<rom name="Master of Space!, The (1994) (Shock Soft &amp; Shimmer) (En).dsk" size="204544" crc="9c08e2ec" md5="74c60eba8d00b5f2b19ddfa7477cebe5" sha1="e842e65d6c0bdbf26f8c4f2cb907b57d63ab2cd8" status="none" />
+	</game>
+	<game name="Master Piece (v20250316) (En) (Tartessos Games)">
+		<description>Master Piece (v20250316) (En) (Tartessos Games)</description>
+		<rom name="Master Piece (v20250316) (En) (Tartessos Games).dsk" size="194816" crc="f00d8f90" md5="9aa10f98b75a245601b291a9c339818a" sha1="d4959d3e46ae3287a6e7874e61b78a3058f20dad" status="none" />
+	</game>
+	<game name="Master Piece (v20250316) (Es) (Tartessos Games)">
+		<description>Master Piece (v20250316) (Es) (Tartessos Games)</description>
+		<rom name="Master Piece (v20250316) (Es) (Tartessos Games).dsk" size="194816" crc="1b446f0f" md5="4326681e1c350a598249178983de988e" sha1="94a7dca776f6161097db82e011319697f03281be" status="none" />
 	</game>
 	<game name="Maziacs (2013) (Don Priestley, 40Crisis) (En)">
 		<description>Maziacs (2013) (Don Priestley, 40Crisis) (En)</description>

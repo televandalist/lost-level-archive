@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20251212</version>
+		<version>v20260109</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -402,6 +402,10 @@
 	<game name="Sqrxz (World) (v0.95) (Aftermarket) (Icarus Productions)">
 		<description>Sqrxz (World) (v0.95) (Aftermarket) (Icarus Productions)</description>
 		<rom name="Sqrxz (World) (v0.95) (Aftermarket) (Icarus Productions).gbc" size="65536" crc="c9a51bc4" md5="640bd682db03012e6fc82f545d84896e" sha1="de35196d4ff4ad54063826b87f41398f736216d8" status="none" />
+	</game>
+	<game name="Squid Game - Game Boy Edition (Kevin the Teal GBC Gamer)">
+		<description>Squid Game - Game Boy Edition (Kevin the Teal GBC Gamer)</description>
+		<rom name="Squid Game - Game Boy Edition (Kevin the Teal GBC Gamer).gbc" size="262144" crc="f0942ff3" md5="84ed5d197d18bf386e6cee9d524e33d8" sha1="c39409eef0ccf2e1890e2a0340c482c210397b5b" status="none" />
 	</game>
 	<game name="Super Doggo WOW WAN (World) (Aftermarket) (Unl)">
 		<description>Super Doggo WOW WAN (World) (Aftermarket) (Unl)</description>

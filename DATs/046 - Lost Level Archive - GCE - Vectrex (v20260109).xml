@@ -5,7 +5,7 @@
 		<id>046</id>
 		<name>046 - Lost Level Archive - GCE - Vectrex</name>
 		<description>GCE - Vectrex</description>
-		<version>v20251129</version>
+		<version>v20260109</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -50,6 +50,10 @@
 	<game name="Rockaroids Remix - 3rd Rock (USA) (Aftermarket) (John Dondzila)">
 		<description>Rockaroids Remix - 3rd Rock (USA) (Aftermarket) (John Dondzila)</description>
 		<rom name="Rockaroids Remix - 3rd Rock (USA) (Aftermarket) (John Dondzila).vec" size="4245" crc="e8d3bbc2" md5="625e537ebb7056e1c6f787c502443bd0" sha1="0a82ca2ace9db627829dd4b5e2390e8d3614ad7d" status="none" />
+	</game>
+	<game name="Spike Goes Skiing (World) (Alpha 08) (Aftermarket) (Andrew Coleman)">
+		<description>Spike Goes Skiing (World) (Alpha 08) (Aftermarket) (Andrew Coleman)</description>
+		<rom name="Spike Goes Skiing (World) (Alpha 08) (Aftermarket) (Andrew Coleman).vec" size="3575" crc="1cabef5b" md5="cec6824e56baba97e90090f685d9294c" sha1="1e619e7e3b66c7945525410f186fe9b5c4f5bbc5" status="none" />
 	</game>
 	<game name="Storm Storm (World) (v2017) (Aftermarket) (Unl)">
 		<description>Storm Storm (World) (v2017) (Aftermarket) (Unl)</description>
