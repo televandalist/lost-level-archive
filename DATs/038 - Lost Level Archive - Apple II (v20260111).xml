@@ -5,7 +5,7 @@
 		<id>038</id>
 		<name>038 - Lost Level Archive - Apple II</name>
 		<description>Apple II</description>
-		<version>v20251229</version>
+		<version>v20260111</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
@@ -1101,6 +1101,10 @@
 		<description>Lamb Chops! (2013) (Brian Picchi)</description>
 		<rom name="Lamb Chops! (2013) (Brian Picchi).do" size="143360" crc="4eeabced" md5="c6471ced618c7621101677095c04df76" sha1="ad3dea5ff554c2ef2c723cafeb30a3b5333800e6" />
 	</game>
+	<game name="Lemmings - Homestar Runner Expansion (2022) (v1.01) (Deater)">
+		<description>Lemmings - Homestar Runner Expansion (2022) (v1.01) (Deater)</description>
+		<rom name="Lemmings - Homestar Runner Expansion (2022) (v1.01) (Deater).dsk" size="143360" crc="e25c4f62" md5="b92516304774a3f481478f17791f33c9" sha1="4a6262efff11b5f873e32040e32ec2b33fd4b4a9" status="none" />
+	</game>
 	<game name="Oregon Trail (1975 Source Conversion) (2015) (Chris Torrence)">
 		<description>Oregon Trail (1975 Source Conversion) (2015) (Chris Torrence)</description>
 		<rom name="Oregon Trail (1975 Source Conversion) (2015) (Chris Torrence).dsk" size="143360" crc="713872c3" md5="de641cd4b5a8f0da32f4ca8b2ba6aa61" sha1="c7af4733146c19d9b77d8749a0a03bb767289e71" />
@@ -1108,6 +1112,14 @@
 	<game name="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)">
 		<description>Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)</description>
 		<rom name="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2).dsk" size="143360" crc="a7b2b091" md5="fc40e6016f06eb748ead9b072c53b6aa" sha1="ef3b51e87f3a2c2c034870b4e0b3cb486c02b7ca" />
+	</game>
+	<game name="Peasant's Quest (2025) (v0.97) (Deater)">
+		<description>Peasant's Quest (2025) (v0.97) (Deater)</description>
+		<rom name="Peasant's Quest (2025) (v0.97) (Deater) (Disk 1).dsk" size="143360" crc="7118e584" md5="1d544ec9a6d8ec74c7b92118bd13d32f" sha1="ac2c04148b0c6c0c35189e6c454362ae4a800b3a" status="none" />
+		<rom name="Peasant's Quest (2025) (v0.97) (Deater) (Disk 2).dsk" size="143360" crc="5f7d840e" md5="2ee7669c533b361a7ba28b1f9db58799" sha1="2b549167b8052c48e773d483b499e8e6aff93124" status="none" />
+		<rom name="Peasant's Quest (2025) (v0.97) (Deater) (Disk 3).dsk" size="143360" crc="0551bb08" md5="5e4c6d601b249de5a8ffd4916c112219" sha1="16f3b97aa73b17dfe3feb743a9a018c715c8eddf" status="none" />
+		<rom name="Peasant's Quest (2025) (v0.97) (Deater) (Disk 4).dsk" size="143360" crc="5923ddbc" md5="ccef105b5a73778518bb38788b135fb5" sha1="443d9461076040660202b7a72cb73e8830f2b2f6" status="none" />
+		<rom name="Peasant's Quest (2025) (v0.97) (Deater) (Disk 5).dsk" size="143360" crc="4645a752" md5="61a6ed559dac2ffbbb719621851b4d8f" sha1="cc7297c2f83f5fe1153ff0a433fe11ec29480d36" status="none" />
 	</game>
 	<game name="Prince of Persia (1989) (Brøderbund) (Rebuilt from Source)">
 		<description>Prince of Persia (1989) (Brøderbund) (Rebuilt from Source)</description>
