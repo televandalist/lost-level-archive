@@ -81,6 +81,11 @@
 		<rom name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen).bin" size="843363696" crc="11cadd22" md5="634f05dee52770fee0a5b3f7c7089ab8" sha1="8471bd32fee059f038115ec223c914b18cf4daed" />
 		<rom name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.0) (FreeGen).cue" size="123" crc="0411d9b4" md5="929552f03c4d5fe15569e508630f4c25" sha1="7edee783284a40e295de04b09b70ffa0631199ed" />
 	</game>
+	<game name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.1) (FreeGen)">
+		<description>Driver 2 The Wheelman Is Back (USA) (Ru) (v1.1) (FreeGen)</description>
+		<rom name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.1) (FreeGen).bin" size="843363696" crc="0ef4add1" md5="964fbe7e0d35552144074139ed9c084f" sha1="b29d8430f2070c207af0dbe5307d3f45042dd9eb" />
+		<rom name="Driver 2 The Wheelman Is Back (USA) (Ru) (v1.1) (FreeGen).cue" size="123" crc="aa1a8a20" md5="a53e448628c234d4efe6789dba97cd78" sha1="1fb9d6d1bfb0533ff318b5cb04644c541628192b" />
+	</game>
 	<game name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz)">
 		<description>Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz)</description>
 		<rom name="Five Nights at Freddy's (World) (v1.2.6) (Aftermarket) (Soeiz).bin" size="130728864" crc="13e9a37e" md5="e2f0d869fb2c8c24843e7b11dcee05ff" sha1="e5b5987c788b78774afbf1d10855e884470f9680" />
