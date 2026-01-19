@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>001e</id>
+		<name>001e - Lost Level Archive - Sega - Mega Drive - Genesis (Extras)</name>
+		<description>Sega - Mega Drive - Genesis (Extras)</description>
+		<version>v20260119</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios) - Quick Guide">
+		<description>Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios) - Quick Guide</description>
+		<rom name="Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios) - Quick Guide.pdf" size="119273" crc="875a0b97" md5="dc0ec140b7853914ab2aeb26ca0611a3" sha1="7a0e6a80c7c2f041754c0b2d6dca517deed93370" status="none" />
+	</game>
+</datafile>

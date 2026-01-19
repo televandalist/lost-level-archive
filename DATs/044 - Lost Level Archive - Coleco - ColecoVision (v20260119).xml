@@ -5,7 +5,7 @@
 		<id>044</id>
 		<name>044 - Lost Level Archive - Coleco - ColecoVision</name>
 		<description>Coleco - ColecoVision</description>
-		<version>v20260102</version>
+		<version>v20260119</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -58,6 +58,14 @@
 	<game name="Booming Boy (World) (SGM) (Aftermarket) (Team Pixelboy)">
 		<description>Booming Boy (World) (SGM) (Aftermarket) (Team Pixelboy).col</description>
 		<rom name="Booming Boy (World) (SGM) (Aftermarket) (Team Pixelboy).col" size="32768" crc="924a7d57" md5="ef6ab798a4b0291424cd7d5072f3ea01" sha1="290223ece23287fc0d1816fd172999cfe4d76ef0" status="none" />
+	</game>
+	<game name="Cosmo Fighter 2 (World) (Aftermarket) (Red Bullet)">
+		<description>Cosmo Fighter 2 (World) (Aftermarket) (Red Bullet)</description>
+		<rom name="Cosmo Fighter 2 (World) (Aftermarket) (Red Bullet).col" size="16384" crc="d93a7dc2" md5="cf3139be847e46d5957c4b00a1921db9" sha1="e9f07b63332ea11b03abcee70536a05db93c5942" status="none" />
+	</game>
+	<game name="Cosmo Fighter 3 (World) (Aftermarket) (Red Bullet)">
+		<description>Cosmo Fighter 3 (World) (Aftermarket) (Red Bullet)</description>
+		<rom name="Cosmo Fighter 3 (World) (Aftermarket) (Red Bullet).col" size="31744" crc="901c8512" md5="d212fbb05b5ebba3b63d7c607cfd71d2" sha1="cae1acd7dc76c2a54b486638288b3059c6ac2754" status="none" />
 	</game>
 	<game name="Cracky (World) (Aftermarket) (Unl)">
 		<description>Cracky (World) (Aftermarket) (Unl)</description>
@@ -151,6 +159,10 @@
 		<description>Quest for the Golden Chalice (World) (Aftermarket) (Unl)</description>
 		<rom name="Quest for the Golden Chalice (World) (Aftermarket) (Unl).col" size="32768" crc="6da37da8" md5="eabcb4a9a1eac2c6f8a7d002987d9e55" sha1="21398973ba4ebd563ccfb0f3c1c03c6a447f4eea" />
 	</game>
+	<game name="Reversi (World) (Aftermarket) (NewColeco)">
+		<description>Reversi (World) (Aftermarket) (NewColeco)</description>
+		<rom name="Reversi (World) (Aftermarket) (NewColeco).col" size="23296" crc="7d102fe7" md5="f6416b12174102dd600a9f27b190910c" sha1="878193d602643183dc00df7da9f20eab416b6d9d" status="none" />
+	</game>
 	<game name="Secret of the Moai (SGM) (MSX Conversion) (World)">
 		<description>Secret of the Moai (SGM) (MSX Conversion) (World)</description>
 		<rom name="Secret of the Moai (SGM) (MSX Conversion) (World).col" size="131072" crc="b753a8ca" md5="3e5e6da18e2ab63bed70fb4663451e3e" sha1="d8ced1a384ad1e88fd8b69fd3a5b265fa3975f31" />
@@ -186,6 +198,10 @@
 	<game name="Super Space Acer (World) (Aftermarket) (Mike Brent)">
 		<description>Super Space Acer (World) (Aftermarket) (Mike Brent).col</description>
 		<rom name="Super Space Acer (World) (Aftermarket) (Mike Brent).col" size="131072" crc="ae209065" md5="72e73d27add27d81780c25c46bbac934" sha1="cfd112d2e907262cf9b60c2d43f19d2596f5892a" status="none" />
+	</game>
+	<game name="Terra Attack (World) (Aftermarket) (Scott Huggins)">
+		<description>Terra Attack (World) (Aftermarket) (Scott Huggins)</description>
+		<rom name="Terra Attack (World) (Aftermarket) (Scott Huggins).col" size="32768" crc="44d527e1" md5="764baa392af1bbfd2637f5e2003f2236" sha1="0276f344d63f4f9675c29730d97112b3123e6c18" status="none" />
 	</game>
 	<game name="Track &amp; Field (World) (Aftermarket) (Team Pixelboy)">
 		<description>Track &amp; Field (World) (Aftermarket) (Team Pixelboy)</description>

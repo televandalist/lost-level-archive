@@ -5,19 +5,27 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20260104</version>
+		<version>v20260119</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="2048 (World) (v1.0) (Oerg866)">
-		<description>2048 (World) (v1.0) (Oerg866)</description>
-		<rom name="2048 (World) (v1.0) (Oerg866).md" size="171470" crc="ae2221cf" md5="e8f0a479d4391ea717cd2ee0132d9122" sha1="c84cacf8a9651b089b53ca35242200181e9e1019" />
+	<game name="2048 (World) (v1.0) (Aftermarket) (Oerg866)">
+		<description>2048 (World) (v1.0) (Aftermarket) (Oerg866)</description>
+		<rom name="2048 (World) (v1.0) (Aftermarket) (Oerg866).md" size="171470" crc="ae2221cf" md5="e8f0a479d4391ea717cd2ee0132d9122" sha1="c84cacf8a9651b089b53ca35242200181e9e1019" />
+	</game>
+	<game name="2048 (World) (v1.2) (Aftermarket) (Oerg866)">
+		<description>2048 (World) (v1.2) (Aftermarket) (Oerg866)</description>
+		<rom name="2048 (World) (v1.2) (Aftermarket) (Oerg866).md" size="93362" crc="c1137ad4" md5="8a304a73d6673d39b8d8e4a617f098ab" sha1="cacde308f8e6714fdf9de0d5858d986dd2ac624e" status="none" />
 	</game>
 	<game name="Angry Birds (Demo) (Bootleg)">
 		<description>Angry Birds (Demo) (Bootleg).md</description>
 		<rom name="Angry Birds (Demo) (Bootleg).md" size="2621440" crc="9e73551a" md5="ad6ac7316d65857e27e5944b376af9c0" sha1="0fc13f486ae322d48b74350560e8c35745aceb14" />
+	</game>
+	<game name="Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios)">
+		<description>Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios)</description>
+		<rom name="Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios).md" size="393216" crc="c714463c" md5="5c6eb6efc137bc314c7978c4709c1fb2" sha1="16fdfb219182f9e40faa7c12d746f4605d0ccdb5" status="none" />
 	</game>
 	<game name="Checker (USA) (AtGames - Devworks) (Bootleg)">
 		<description>Checker (USA) (AtGames - Devworks) (Bootleg).md</description>

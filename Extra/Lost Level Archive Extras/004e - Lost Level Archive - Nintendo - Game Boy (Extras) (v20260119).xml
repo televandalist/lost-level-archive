@@ -5,7 +5,7 @@
 		<id>004e</id>
 		<name>004e - Lost Level Archive - Nintendo - Game Boy (Extras)</name>
 		<description>Nintendo - Game Boy (Extras)</description>
-		<version>v20251129</version>
+		<version>v20260119</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -29,6 +29,10 @@
 	<game name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras">
 		<description>Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Extras</description>
 		<rom name="Deep Dungeon (World) (v1.3) (Aftermarket) (Unl) - Manual.pdf" size="298424" crc="CF4ED794" md5="F36955A03CF90B7186EA52C35FF36B48" sha1="F536EE8715E2FE4BBBCA1AE936FFA2548D5D0EED" date="2023-07-27 13:13:18"/>
+	</game>
+	<game name="Dragonslayer (World) (v1.3) (Aftermarket) (LazyDev) - Manual">
+		<description>Dragonslayer (World) (v1.3) (Aftermarket) (LazyDev) - Manual</description>
+		<rom name="Dragonslayer (World) (v1.3) (Aftermarket) (LazyDev) - Manual.pdf" size="234897" crc="de6dfdec" md5="4f2ce2bdd29726a2bd8b06606061fa8a" sha1="6f14bf6f77c3530aade06c63c822bc2a96534a64" status="none" />
 	</game>
 	<game name="Galacard (World) (Aftermarket) (Bipedal Studios) - Strategy Guide">
 		<description>Galacard (World) (Aftermarket) (Bipedal Studios) - Strategy Guide</description>

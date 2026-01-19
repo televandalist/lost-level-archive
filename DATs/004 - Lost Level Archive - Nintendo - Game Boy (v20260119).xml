@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20251229</version>
+		<version>v20260119</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -19,6 +19,10 @@
 	<game name="204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)">
 		<description>204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01)</description>
 		<rom name="204863 - A P.T. Silent Hills Demake (World) (Aftermarket) (GB Studio) (Jonshaw01).gb" size="524288" crc="62fcad3e" md5="28d77a7797b018be49c31f139912aba8" sha1="83fe12e34eb4a11a537c62c33c4cd863404a8c47" />
+	</game>
+	<game name="Abyss (World) (GBComp25) (Aftermarket) (Mr. Papshmir)">
+		<description>Abyss (World) (GBComp25) (Aftermarket) (Mr. Papshmir)</description>
+		<rom name="Abyss (World) (GBComp25) (Aftermarket) (Mr. Papshmir).gb" size="524288" crc="61109344" md5="7ca5935be5590b28b7f3da3939f49adc" sha1="b105c2e28a2bec0057c2bfe10e74d7fde017ab0b" status="none" />
 	</game>
 	<game name="ACATTAG (World) (GB Comp 2021) (Aftermarket) (selkkie)">
 		<description>ACATTAG (World) (GB Comp 2021) (Aftermarket) (selkkie)</description>
@@ -181,6 +185,10 @@
 		<description>Desert Bus (World) (Aftermarket) (Unl)</description>
 		<rom name="Desert Bus (World) (Aftermarket) (Unl).gb" size="32768" crc="1b26a727" md5="44fc58f70f6a69c02b348f121cafb28c" sha1="7d2ecaf19f8f7edd2f826f505f7c14abc1438416" />
 	</game>
+	<game name="DMG vs. Super Game Boy (World) (SGB) (GBComp25) (Aftermarket) (Dr. Ludos)">
+		<description>DMG vs. Super Game Boy (World) (SGB) (GBComp25) (Aftermarket) (Dr. Ludos)</description>
+		<rom name="DMG vs. Super Game Boy (World) (SGB) (GBComp25) (Aftermarket) (Dr. Ludos).gb" size="32768" crc="f7fb7e86" md5="0463681cc341b6b8e0559765fed186a7" sha1="0078f66e0ee6665682be0d17b1bdc4b5eb585d86" status="none" />
+	</game>
 	<game name="Doki Doki Literature Club (World) (v2020-09-05) (Aftermarket) (GB Studio)">
 		<description>Doki Doki Literature Club (World) (v2020-09-05) (Aftermarket) (GB Studio)</description>
 		<rom name="Doki Doki Literature Club (World) (v2020-09-05) (Aftermarket) (GB Studio).gb" size="131072" crc="7d3d46e7" md5="5079368781ea8f9aca3789495693a224" sha1="7dcf7a8db0c4cae6585a592717910e1e8b34623c" />
@@ -201,6 +209,10 @@
 		<description>Double Dyad (World) (Aftermarket) (Bownly)</description>
 		<rom name="Double Dyad (World) (Aftermarket) (Bownly).gb" size="262144" crc="1842f719" md5="b802ae46439040cb346cdbfa8dc1cb65" sha1="779e31a8a0985870023f1b956c83b5881bab2ab6" status="none" />
 	</game>
+	<game name="Dragonslayer (World) (v1.3) (Aftermarket) (LazyDev)">
+		<description>Dragonslayer (World) (v1.3) (Aftermarket) (LazyDev)</description>
+		<rom name="Dragonslayer (World) (v1.3) (Aftermarket) (LazyDev).gb" size="1048576" crc="47969d13" md5="c72484b6e5bfd69c9f0d4128bba68dd7" sha1="01a804d98a1274b533783a6424692006bc9ff8bc" status="none" />
+	</game>
 	<game name="Dragony's Drive (World) (v1.0) (Aftermarket) (GB Studio)">
 		<description>Dragony's Drive (World) (v1.0) (Aftermarket) (GB Studio)</description>
 		<rom name="Dragony's Drive (World) (v1.0) (Aftermarket) (GB Studio).gb" size="131072" crc="7188d32e" md5="a471b781064f169b63b702b5b9925d9f" sha1="b254ae8d9d7eafbb1d416c80a4be7331bce8f6d7" />
@@ -208,6 +220,10 @@
 	<game name="Explosive Brick '94 (Asia) (Multicart Rip) (Unl)">
 		<description>Explosive Brick '94 (Asia) (Multicart Rip) (Unl)</description>
 		<rom name="Explosive Brick '94 (Asia) (Multicart Rip) (Unl).gb" size="32768" crc="e5541ff5" md5="377d58fdbc0928ebb4516e41885c5b4b" sha1="81bac46c005183313117d3e9145122db6a3e6227" />
+	</game>
+	<game name="Feeding Time (World) (GB Showdown '22) (Aftermarket) (Hohenstaufer)">
+		<description>Feeding Time (World) (GB Showdown '22) (Aftermarket) (Hohenstaufer)</description>
+		<rom name="Feeding Time (World) (GB Showdown '22) (Aftermarket) (Hohenstaufer).gb" size="262144" crc="17da0369" md5="aa31384132420119147ec3fd13797827" sha1="fdbc8841cb0be232dc9328cdbd4a5125053d06d3" status="none" />
 	</game>
 	<game name="Fishin' for Average Caucasian Boyfriends (World) (v20240307) (Aftermarket) (GB Studio)">
 		<description>Fishin' for Average Caucasian Boyfriends (World) (v20240307) (Aftermarket) (GB Studio)</description>
@@ -253,6 +269,14 @@
 		<description>GB Paint (World) (Aftermarket) (Unl)</description>
 		<rom name="GB Paint (World) (Aftermarket) (Unl).gb" size="131072" crc="2c77d091" md5="e5c30dd277d746345269b868f8f5eae1" sha1="7b1e27b76ffe563c5772000f60ad3dc2de0a54c3" />
 	</game>
+	<game name="GbBBS95 (World) (v1.4.6) (Aftermarket) (Beatscribe)">
+		<description>GbBBS95 (World) (v1.4.6) (Aftermarket) (Beatscribe)</description>
+		<rom name="GbBBS95 (World) (v1.4.6) (Aftermarket) (Beatscribe).gb" size="2097152" crc="7b9457ce" md5="b871faa7514585331066f78d60d8364a" sha1="f0220ec7edf172bd0cb14578b8c825ffe942ba4d" status="none" />
+	</game>
+	<game name="Gloomglow (World) (v2.0) (Aftermarket) (Jagger Byte Games)">
+		<description>Gloomglow (World) (v2.0) (Aftermarket) (Jagger Byte Games)</description>
+		<rom name="Gloomglow (World) (v2.0) (Aftermarket) (Jagger Byte Games).gb" size="524288" crc="d5621ede" md5="735c098b263dbf989616e8a03a51d81a" sha1="af2ba716edce7bdcb1cabbdc01fc4e381895e943" status="none" />
+	</game>
 	<game name="GSPS - The Game (Poland) (En) (v1.0) (Aftermarket) (zachariasz455)">
 		<description>GSPS - The Game (Poland) (En) (v1.0) (Aftermarket) (zachariasz455)</description>
 		<rom name="GSPS - The Game (Poland) (En) (v1.0) (Aftermarket) (zachariasz455).gb" size="524288" crc="8465b47b" md5="01cf4c043f69a9924f2a689e3fa60157" sha1="ed5f63a9c600ff8a85e0bad52a0b78fe04efed99" status="none" />
@@ -292,6 +316,10 @@
 	<game name="Horizon - Zero Dawn (World) (Demo) (Aftermarket) (Unl)">
 		<description>Horizon - Zero Dawn (World) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Horizon - Zero Dawn (World) (Demo) (Aftermarket) (Unl).gb" size="131072" crc="5589488c" md5="1ea477b02187c68f8c6a08a97f6ba720" sha1="cb05ce52a9c7a9729a142d1276cb6c063a0680ea" />
+	</game>
+	<game name="It's About Time (World) (GB Showdown '22) (Aftermarket) (Arunkie)">
+		<description>It's About Time (World) (GB Showdown '22) (Aftermarket) (Arunkie)</description>
+		<rom name="It's About Time (World) (GB Showdown '22) (Aftermarket) (Arunkie).gb" size="131072" crc="6cbb3f0e" md5="50ec278292555bf162ef54f6db6522ba" sha1="6a42c3c60aeb93bfab83b02fb6199ceacfb57ffa" status="none" />
 	</game>
 	<game name="Jet Pak DX (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Jet Pak DX (World) (v1.0) (Aftermarket) (Unl)</description>
@@ -353,6 +381,10 @@
 		<description>Mommy Eat My Baby (World) (v1.4) (Aftermarket) (GB Studio) (Panlord)</description>
 		<rom name="Mommy Eat My Baby (World) (v1.4) (Aftermarket) (GB Studio) (Panlord).gb" size="262144" crc="c799d93b" md5="ec7cb42c6e4e2316cea1c6ccca369bd1" sha1="750ff3f98fc2d60228c86f0e2a47361af70e1ebc" status="none" />
 	</game>
+	<game name="Monster Egg (World) (Demo) (v0.1) (GB Showdown '22) (Aftermarket) (sellitos2020)">
+		<description>Monster Egg (World) (Demo) (v0.1) (GB Showdown '22) (Aftermarket) (sellitos2020)</description>
+		<rom name="Monster Egg (World) (Demo) (v0.1) (GB Showdown '22) (Aftermarket) (sellitos2020).gb" size="131072" crc="fdac4b27" md5="235ec6691dc4fc8990a2a2f09424585a" sha1="6bf34802bbafdebbd70e4492be5d6a009522fa6e" status="none" />
+	</game>
 	<game name="Murder Mansion (World) (Aftermarket) (GB Studio)">
 		<description>Murder Mansion (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Murder Mansion (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="213fd097" md5="f3f2e788eb24b519295b72fc79fcad1d" sha1="f7f26ffdc3eed3a843bce94d6926bab00c933c51" />
@@ -409,6 +441,10 @@
 		<description>Ping Pong Diplomacy (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Ping Pong Diplomacy (World) (v1.0) (Aftermarket) (Unl).gb" size="65536" crc="4092a122" md5="53d59905f1000de11478eb245257313b" sha1="8f42fd334b7978892d6450d1c49ef263e7e64ae6" />
 	</game>
+	<game name="Piranesian (World) (Demo) (GBComp25) (Aftermarket) (Timo)">
+		<description>Piranesian (World) (Demo) (GBComp25) (Aftermarket) (Timo)</description>
+		<rom name="Piranesian (World) (Demo) (GBComp25) (Aftermarket) (Timo).gb" size="262144" crc="9965e545" md5="8aefa7d86559ceded230275605df6f34" sha1="8f57a8f1a0d6612c19d40d119875b8cff86d3285" status="none" />
+	</game>
 	<game name="PixPlus (World) (Aftermarket) (Bipedal Studios)">
 		<description>PixPlus (World) (Aftermarket) (Bipedal Studios)</description>
 		<rom name="PixPlus (World) (Aftermarket) (Bipedal Studios).gb" size="32768" crc="45a89247" md5="a07b7105c4a494c36c82325bad1ae338" sha1="381bc8fba0e316ca25ec8f6a34b4479a39650b90" status="none" />
@@ -433,9 +469,17 @@
 		<description>Poopster (World) (v2019-08-04) (Aftermarket) (Zhamul)</description>
 		<rom name="Poopster (World) (v2019-08-04) (Aftermarket) (Zhamul).gb" size="131072" crc="28db5aac" md5="46c1883ba494cfdd8c80a03e6355187a" sha1="1a427f0793b758ce2bcd11e10ec65abfa80818bc" />
 	</game>
+	<game name="Portal Hurdle (World) (GB Showdown '22) (Aftermarket) (Doug T.)">
+		<description>Portal Hurdle (World) (GB Showdown '22) (Aftermarket) (Doug T.)</description>
+		<rom name="Portal Hurdle (World) (GB Showdown '22) (Aftermarket) (Doug T.).gb" size="131072" crc="3ed1f36a" md5="15b1796d2100fdcc47ba055b32530cb4" sha1="5ae5e465f599a4d8d68520c3ff56b3a00ad75ff8" status="none" />
+	</game>
 	<game name="Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio)">
 		<description>Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio)</description>
 		<rom name="Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio).gb" size="524288" crc="7c2986d0" md5="902922ccd6620ace3d3202b96058a68b" sha1="07f34918dc7ca6783e5e7ac3e87e88a1edbf8e62" />
+	</game>
+	<game name="Q-Dash Mission (World) (Aftermarket) (Bipedal Studios)">
+		<description>Q-Dash Mission (World) (Aftermarket) (Bipedal Studios)</description>
+		<rom name="Q-Dash Mission (World) (Aftermarket) (Bipedal Studios).gb" size="65536" crc="67d07aba" md5="f8e25fa77d6a69ea08099337e2027acf" sha1="2124d6a892e0f101cbf3e0090eb3aad6d8b0c416" status="none" />
 	</game>
 	<game name="Rabbit Catcher (World) (Aftermarket) (Unl)">
 		<description>Rabbit Catcher (World) (Aftermarket) (Unl)</description>
@@ -469,6 +513,14 @@
 		<description>Senshijidaino kyōryū - DINOPREHÍS! (World) (1997 Beta) (Es) (Aftermarket) (Unl)</description>
 		<rom name="Senshijidaino kyōryū - DINOPREHÍS! (World) (1997 Beta) (Es) (Aftermarket) (Unl).gb" size="524288" crc="5FD53151" md5="6762619D05C36252B1DDFB67230F52F0" sha1="73CB2330F9B58A324A41F6AA85B53AB8CC946AFC"/>
 	</game>
+	<game name="Shaman Dojo (World) (GB Showdown '22) (Aftermarket) (Spicyfuse)">
+		<description>Shaman Dojo (World) (GB Showdown '22) (Aftermarket) (Spicyfuse)</description>
+		<rom name="Shaman Dojo (World) (GB Showdown '22) (Aftermarket) (Spicyfuse).gb" size="524288" crc="fa5f33d3" md5="7b065ad07f60e3156b51dd25984576fd" sha1="7503f60fb3140542aaee42b6355edfc22c345e06" status="none" />
+	</game>
+	<game name="Short Day, A (World) (GB Showdown '22) (Aftermarket) (Tyler Lombard)">
+		<description>Short Day, A (World) (GB Showdown '22) (Aftermarket) (Tyler Lombard)</description>
+		<rom name="Short Day, A (World) (GB Showdown '22) (Aftermarket) (Tyler Lombard).gb" size="262144" crc="af0b28e0" md5="abfdf7e2aba277999b633b4f8ec565d8" sha1="5c754c0bf26d9b4c57c8613a39221b9868e31567" status="none" />
+	</game>
 	<game name="Sky Ace (Asia) (Multicart Rip) (Unl)">
 		<description>Sky Ace (Asia) (Multicart Rip) (Unl)</description>
 		<rom name="Sky Ace (Asia) (Multicart Rip) (Unl).gb" size="65536" crc="395fe571" md5="6db219fbce9d16272f7566b626c16523" sha1="e62d74152d06ae817658cdcb20954fc32d33dc65" />
@@ -480,6 +532,10 @@
 	<game name="Snake (World) (Aftermarket) (Unl) (Donald Hays)">
 		<description>Snake (World) (Aftermarket) (Unl) (Donald Hays)</description>
 		<rom name="Snake (World) (Aftermarket) (Unl) (Donald Hays).gb" size="32768" crc="E2A61279" md5="70BC400B0939236CD147C264D38CBA66" sha1="46A68EDC1363AF6A41872911029DC0DBC010D385"/>
+	</game>
+	<game name="Song Bird (World) (GB Showdown '22) (Aftermarket) (Eric Mack)">
+		<description>Song Bird (World) (GB Showdown '22) (Aftermarket) (Eric Mack)</description>
+		<rom name="Song Bird (World) (GB Showdown '22) (Aftermarket) (Eric Mack).gb" size="262144" crc="a53b011c" md5="562e336d83ab70eab3c2228e4b12f81e" sha1="0f8777ccaf6d22d1d976ba3bff44d6201bc571fe" status="none" />
 	</game>
 	<game name="Soul Void Redux (World) (Aftermarket) (GB Studio)">
 		<description>Soul Void Redux (World) (Aftermarket) (GB Studio)</description>
@@ -569,9 +625,17 @@
 		<description>VR Pocket Manager (World) (Aftermarket) (GB Studio)</description>
 		<rom name="VR Pocket Manager (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="ec425a94" md5="9c83e00b56b75e49cd52922bfd7313d9" sha1="638f71d0718f6201395506415ace4ae69607aa4d" />
 	</game>
+	<game name="Welcome to Macintester (World) (GB Showdown '22) (Aftermarket) (sloopygoop)">
+		<description>Welcome to Macintester (World) (GB Showdown '22) (Aftermarket) (sloopygoop)</description>
+		<rom name="Welcome to Macintester (World) (GB Showdown '22) (Aftermarket) (sloopygoop).gb" size="262144" crc="5a5e14e0" md5="7b576ac2d2ddfa5d17be6d1900841b02" sha1="4242c6fd8ffa48775d4bb73f40da33a556a6d96b" status="none" />
+	</game>
 	<game name="Wordyl (World) (v1.0.3) (Aftermarket) (Unl)">
 		<description>Wordyl (World) (v1.0.3) (Aftermarket) (Unl)</description>
 		<rom name="Wordyl (World) (v1.0.3) (Aftermarket) (Unl).gb" size="32768" crc="7587f2da" md5="702bee919d1c9a67069213d6d286af51" sha1="f7557aa778321f9a725ce20532e1308a87dd9abc" />
+	</game>
+	<game name="Wyrmhole (World) (GB Showdown '22) (Aftermarket) (quinnp)">
+		<description>Wyrmhole (World) (GB Showdown '22) (Aftermarket) (quinnp)</description>
+		<rom name="Wyrmhole (World) (GB Showdown '22) (Aftermarket) (quinnp).gb" size="32768" crc="15872e8f" md5="86aa3e46730f3fe9cf95eb5e3ce76746" sha1="58fe753f775808c05422333f2c046935c5b6745e" status="none" />
 	</game>
 	<game name="X-Mas Time (World) (De) (Aftermarket) (GB Studio)">
 		<description>X-Mas Time (World) (De) (Aftermarket) (GB Studio)</description>

@@ -5,7 +5,7 @@
 		<id>018</id>
 		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
 		<description>Nintendo - Nintendo DS</description>
-		<version>v20251212</version>
+		<version>v20260119</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -99,6 +99,14 @@
 		<description>Castlevania - Devilish Resemblance (World) (Demo) (Aftermarket) (Unl) (Frosty Chaotix)</description>
 		<rom name="Castlevania - Devilish Resemblance (World) (Demo) (Aftermarket) (Unl) (Frosty Chaotix).nds" size="1779264" crc="b9f1b224" md5="fabb128a936c9ae9255dc30d16d49bad" sha1="3cd5a77be49d324ec31f89d36ff059b82e0e9a33" />
 	</game>
+	<game name="Cave Story DS (World) (En) (v0.4) (Aftermarket) (tilderain)">
+		<description>Cave Story DS (World) (En) (v0.4) (Aftermarket) (tilderain)</description>
+		<rom name="Cave Story DS (World) (En) (v0.4) (Aftermarket) (tilderain).nds" size="2336832" crc="41918d0c" md5="44af4081ef525dc31690b50b0b8d54f5" sha1="da25d96714ce08085cdedaac2e189ca7ee446ccd" status="none" />
+	</game>
+	<game name="Cave Story DS (World) (Ja) (v0.4) (Aftermarket) (tilderain)">
+		<description>Cave Story DS (World) (Ja) (v0.4) (Aftermarket) (tilderain)</description>
+		<rom name="Cave Story DS (World) (Ja) (v0.4) (Aftermarket) (tilderain).nds" size="2340416" crc="f57b9f97" md5="9a2dd799968c64f5f80435bac1ab2a53" sha1="cfa78400384a12824a500e2bc88bffe05f54305b" status="none" />
+	</game>
 	<game name="Cell (World) (v1.1) (Aftermarket) (Unl) (Tom Pike)">
 		<description>Cell (World) (v1.1) (Aftermarket) (Unl) (Tom Pike)</description>
 		<rom name="Cell (World) (v1.1) (Aftermarket) (Unl) (Tom Pike).nds" size="5109336" crc="b1de0667" md5="b4323cd57436785df07e8716c491ade8" sha1="cf3784e5842dbd29fb761a6e83ab485709ac15bb" />
@@ -174,6 +182,10 @@
 	<game name="Every ExteNDS (World) (v1.0) (Aftermarket) (Unl) (Goldohulk)">
 		<description>Every ExteNDS (World) (v1.0) (Aftermarket) (Unl) (Goldohulk)</description>
 		<rom name="Every ExteNDS (World) (v1.0) (Aftermarket) (Unl) (Goldohulk).nds" size="1542208" crc="ada69113" md5="a4453975f24c636a47aeb89941adf232" sha1="42e155615390d21c778eb8029b2c7c053527c39e" />
+	</game>
+	<game name="Evil Birds DS (World) (Demo) (v20120724) (Aftermarket) (BAgames)">
+		<description>Evil Birds DS (World) (Demo) (v20120724) (Aftermarket) (BAgames)</description>
+		<rom name="Evil Birds DS (World) (Demo) (v20120724) (Aftermarket) (BAgames).nds" size="1874336" crc="ee8a192e" md5="33f642f829140e35ab4abb42ae0fd06b" sha1="599810da6987080a34d2a2bcdd017b2975964de2" status="none" />
 	</game>
 	<game name="Fishing the Deep (World) (Aftermarket) (Unl)">
 		<description>Fishing the Deep (World) (Aftermarket) (Unl)</description>

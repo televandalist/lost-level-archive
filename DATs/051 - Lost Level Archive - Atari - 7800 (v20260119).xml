@@ -5,7 +5,7 @@
 		<id>051</id>
 		<name>051 - Lost Level Archive - Atari - 7800</name>
 		<description>Atari - 7800</description>
-		<version>v20251219</version>
+		<version>v20260119</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -19,9 +19,21 @@
 		<description>Beef Drop (NTSC) (Final) (Aftermarket) (AtariAge)</description>
 		<rom name="Beef Drop (NTSC) (Final) (Aftermarket) (AtariAge).a78" size="32768" crc="055cd1e8" md5="78b1061d651ef806becac1dd3fda29a0" sha1="a18afb04d26b42fc2e77539d69e260ba68fd224e" status="none" />
 	</game>
+	<game name="Crazy Otto (World) (v20100102) (Aftermarket) (PacManPlus)">
+		<description>Crazy Otto (World) (v20100102) (Aftermarket) (PacManPlus)</description>
+		<rom name="Crazy Otto (World) (v20100102) (Aftermarket) (PacManPlus).a78" size="16512" crc="065d8651" md5="8093916f93d7c75289742bb7dc3a1710" sha1="8007823857081f9d5dd760606cc21b724fdca16f" status="none" />
+	</game>
+	<game name="Crazy Tank (World) (v20180310) (Aftermarket) (frankodragon)">
+		<description>Crazy Tank (World) (v20180310) (Aftermarket) (frankodragon)</description>
+		<rom name="Crazy Tank (World) (v20180310) (Aftermarket) (frankodragon).a78" size="49280" crc="94ae618d" md5="de7f09aeee397212c6ce538829c18fc0" sha1="26c3aebfd6acdb97d349ece413c3af3c4f260c04" status="none" />
+	</game>
 	<game name="Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke)">
 		<description>Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke)</description>
 		<rom name="Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke).a78" size="32896" crc="59812261" md5="6b3c664b4223085f835ef1a6ca346687" sha1="267776f2da752d5b6420252a9176cf430344454f" />
+	</game>
+	<game name="Hearty Manslapper (World) (v20161130) (Aftermarket) (frankodragon)">
+		<description>Hearty Manslapper (World) (v20161130) (Aftermarket) (frankodragon)</description>
+		<rom name="Hearty Manslapper (World) (v20161130) (Aftermarket) (frankodragon).a78" size="131200" crc="b1d3b770" md5="2421cbc2626a415ee0c39ef8c1fe332c" sha1="9ef312b2cea476b1ab63b27bd63b4c7c341ca02d" status="none" />
 	</game>
 	<game name="I.C.B.M. (USA) (v20230507) (Aftermarket) (Unl)">
 		<description>I.C.B.M. (USA) (v20230507) (Aftermarket) (Unl)</description>
@@ -35,13 +47,25 @@
 		<description>Pac-Man 7800 (USA) (v1.0a) (Bob DeCrescenzo)</description>
 		<rom name="Pac-Man 7800 (USA) (v1.0a) (Bob DeCrescenzo).a78" size="16384" crc="96159f91" md5="8338eca612eedf6ddec57d54942863e7" sha1="d2083ad36797b4dd377d72f452ecd9c773cf37d2" />
 	</game>
+	<game name="Pineapple (World) (v20220619) (Aftermarket) (Chris Read)">
+		<description>Pineapple (World) (v20220619) (Aftermarket) (Chris Read)</description>
+		<rom name="Pineapple (World) (v20220619) (Aftermarket) (Chris Read).a78" size="32896" crc="2d69e588" md5="fb418766128d00c2fda38d92aa9c8e2a" sha1="de40affa7164a7b764e1a5053ee1315d30a11062" status="none" />
+	</game>
 	<game name="Plumb Luck DX (USA) (v20230410 RC2) (Aftermarket) (Unl)">
 		<description>Plumb Luck DX (USA) (v20230410 RC2) (Aftermarket) (Unl)</description>
 		<rom name="Plumb Luck DX (USA) (v20230410 RC2) (Aftermarket) (Unl).a78" size="131200" crc="cb2ba194" md5="312571b777a7d9833c55fbdc03460391" sha1="445193dc19198e7ae787d0677c944c7c9b54bdaa" />
 	</game>
+	<game name="Roof Pooper (World) (v20161006) (Aftermarket) (frankodragon)">
+		<description>Roof Pooper (World) (v20161006) (Aftermarket) (frankodragon)</description>
+		<rom name="Roof Pooper (World) (v20161006) (Aftermarket) (frankodragon).a78" size="32896" crc="772a4053" md5="ddab08c09ca4c55959c357dafea1475f" sha1="359f199d092df0160ee0c8744c5d443a05548ff9" status="none" />
+	</game>
 	<game name="TiME Salvo (USA) (Aftermarket) (Mike Saarna)">
 		<description>TiME Salvo (USA) (Aftermarket) (Mike Saarna)</description>
 		<rom name="TiME Salvo (USA) (Aftermarket) (Mike Saarna).a78" size="49280" crc="99908716" md5="668c10974001dc1b02466bdaaa6c7d2b" sha1="83d24c64ca9def70012c4b3fb50c949ac4ce0560" />
+	</game>
+	<game name="Vong (World) (v20091015) (Aftermarket) (Wickeycolumbus)">
+		<description>Vong (World) (v20091015) (Aftermarket) (Wickeycolumbus)</description>
+		<rom name="Vong (World) (v20091015) (Aftermarket) (Wickeycolumbus).a78" size="16512" crc="a0ee9bcf" md5="3a4bbfbcbfb5f35d1b900358b28746ce" sha1="2b2d2c5ffca2fd776aa2606c2272125c6f4deb00" status="none" />
 	</game>
 	<game name="Waffle Painter (USA) (v1.1) (Aftermarket) (Vivian Video)">
 		<description>Waffle Painter (USA) (v1.1) (Aftermarket) (Vivian Video)</description>

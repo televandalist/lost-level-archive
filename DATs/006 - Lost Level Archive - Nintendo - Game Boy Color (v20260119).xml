@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260109</version>
+		<version>v20260119</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -63,6 +63,10 @@
 		<description>CharaVera Non Chilla - Let Me Sleep (World) (v1.5.2) (Aftermarket) (Protopixel)</description>
 		<rom name="CharaVera Non Chilla - Let Me Sleep (World) (v1.5.2) (Aftermarket) (Protopixel).gbc" size="262144" crc="976bae4f" md5="2625ae08904a6437be85ef0c845d052e" sha1="e278fc381686add76d88e8f7dffadf1da4de6368" status="none" />
 	</game>
+	<game name="Cleaving Caliber EX (World) (GBComp25) (Aftermarket) (Cursed Bootleg)">
+		<description>Cleaving Caliber EX (World) (GBComp25) (Aftermarket) (Cursed Bootleg)</description>
+		<rom name="Cleaving Caliber EX (World) (GBComp25) (Aftermarket) (Cursed Bootleg).gbc" size="262144" crc="27c48419" md5="6133b637bbc790d386ab0efc3a648dfd" sha1="30db1d6fc8a74b564c29829ea3408d614d6cb75c" status="none" />
+	</game>
 	<game name="Combo Fishing (World) (Aftermarket) (Unl)">
 		<description>Combo Fishing (World) (Aftermarket) (Unl)</description>
 		<rom name="Combo Fishing (World) (Aftermarket) (Unl).gbc" size="524288" crc="5c307010" md5="029cd8ae6b130b91918597239464cc35" sha1="61217782f0947a6c947c8a12eff12a8b9ce6d120" />
@@ -74,6 +78,10 @@
 	<game name="Consume (World) (Aftermarket) (GB Studio)">
 		<description>Consume (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Consume (World) (Aftermarket) (GB Studio).gbc" size="2097152" crc="8caff077" md5="143dfbbdfa9b188684d0837692df581d" sha1="99608d5b8282be899c952ed7433164e40440acc0" />
+	</game>
+	<game name="Cosmo Command (World) (GBComp25) (Aftermarket) (claytheturtle)">
+		<description>Cosmo Command (World) (GBComp25) (Aftermarket) (claytheturtle)</description>
+		<rom name="Cosmo Command (World) (GBComp25) (Aftermarket) (claytheturtle).gbc" size="1048576" crc="316766e5" md5="16e56cdba5d2e202fb321670769df0f6" sha1="46af5722b32cd3895db59657912cebeddc133f15" status="none" />
 	</game>
 	<game name="Crystal Clear (World) (Aftermarket) (Bipedal Studios)">
 		<description>Crystal Clear (World) (Aftermarket) (Bipedal Studios)</description>
@@ -119,9 +127,17 @@
 		<description>Flappy Turd (World) (Aftermarket) (Unl)</description>
 		<rom name="Flappy Turd (World) (Aftermarket) (Unl).gbc" size="32768" crc="498caab2" md5="5e800f516cc9e33f1fa16dae7a8b4f07" sha1="7f33a176a5dd7dd8b743f1366c2a2cea09326b2c" status="none" />
 	</game>
+	<game name="Fortune and Glory (World) (GBComp25) (Aftermarket) (VideoGameStoryTime)">
+		<description>Fortune and Glory (World) (GBComp25) (Aftermarket) (VideoGameStoryTime)</description>
+		<rom name="Fortune and Glory (World) (GBComp25) (Aftermarket) (VideoGameStoryTime).gbc" size="2097152" crc="27f2d5b6" md5="bd9a8b47c2bcc0500f3f5e61ba764f03" sha1="9820ff5707cfab91b160be066b81a828570eb115" status="none" />
+	</game>
 	<game name="Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl).gbc" size="1048576" crc="eed25d4f" md5="25ef30a66b243c1af2baffcfc835ac14" sha1="f5a0f63705746c822d720b583af4efbe9ba5c44c" />
+	</game>
+	<game name="Fun Video Store (World) (Demo) (GBComp25) (Aftermarket) (Raul Rosso)">
+		<description>Fun Video Store (World) (Demo) (GBComp25) (Aftermarket) (Raul Rosso)</description>
+		<rom name="Fun Video Store (World) (Demo) (GBComp25) (Aftermarket) (Raul Rosso).gbc" size="524288" crc="45eb863b" md5="5252ebc712b9c7e0531f0a66647ddad2" sha1="13c93627480f7efcff4b2fc80734c700687c7da6" status="none" />
 	</game>
 	<game name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)">
 		<description>G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)</description>
@@ -138,6 +154,14 @@
 	<game name="Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios)">
 		<description>Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios)</description>
 		<rom name="Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios).gbc" size="131072" crc="2bc7966a" md5="bdb05d090a09740ae2c176b218b9fb8e" sha1="3fb6e11f707e0a3f768245e789897532b6fe79be" />
+	</game>
+	<game name="God Destroyer 2 (World) (v1.3) (Aftermarket) (Spicyfuse)">
+		<description>God Destroyer 2 (World) (v1.3) (Aftermarket) (Spicyfuse)</description>
+		<rom name="God Destroyer 2 (World) (v1.3) (Aftermarket) (Spicyfuse).gbc" size="2097152" crc="37637328" md5="00c78083b2cefed494084ffd582d0995" sha1="16d9d89927f5603bfdd63c0a1e5d99c948254f20" status="none" />
+	</game>
+	<game name="Good Luck Baby (World) (GBComp25) (Aftermarket) (Kii)">
+		<description>Good Luck Baby (World) (GBComp25) (Aftermarket) (Kii)</description>
+		<rom name="Good Luck Baby (World) (GBComp25) (Aftermarket) (Kii).gbc" size="2097152" crc="5a9044c6" md5="be8980a3bfc1d09e7d7f6e3b79224fbc" sha1="0373e7f2b1bae24b518a12f8f3b609a7b6b4731a" status="none" />
 	</game>
 	<game name="Grand Battle Stadium (World) (v0.2.1) (GB Comp 2021) (Aftermarket) (GB Studio)">
 		<description>Grand Battle Stadium (World) (v0.2.1) (GB Comp 2021) (Aftermarket) (GB Studio)</description>
@@ -243,6 +267,14 @@
 		<description>Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl)</description>
 		<rom name="Little Dungeon Renovator (World) (v1.0) (GBCompo2023) (Aftermarket) (Unl).gbc" size="262144" crc="d20ab5bd" md5="c93bd5f1928944452cee933dce345f89" sha1="215180e6d2482f3208315fb17a35830c6560133e" />
 	</game>
+	<game name="Little Thief (World) (GB Showdown '22) (Aftermarket) (Marvin Mofeed)">
+		<description>Little Thief (World) (GB Showdown '22) (Aftermarket) (Marvin Mofeed)</description>
+		<rom name="Little Thief (World) (GB Showdown '22) (Aftermarket) (Marvin Mofeed).gbc" size="262144" crc="e52f609b" md5="6f04377978a810c8a37d5d690a27dbd0" sha1="d7508eef7e4322c0a44a6522e84c44237e71d8e8" status="none" />
+	</game>
+	<game name="Luigi's Mansion GBC (World) (GBComp25) (Aftermarket) (Distracted Coder)">
+		<description>Luigi's Mansion GBC (World) (GBComp25) (Aftermarket) (Distracted Coder)</description>
+		<rom name="Luigi's Mansion GBC (World) (GBComp25) (Aftermarket) (Distracted Coder).gbc" size="131072" crc="89ed5d0b" md5="7c3324d9f94f50f7b66c7db5e73b0051" sha1="d2c3cb768e9ca00eb8a8e8623c97389ed20431f6" status="none" />
+	</game>
 	<game name="Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)">
 		<description>Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)</description>
 		<rom name="Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl).gbc" size="524288" crc="1d758544" md5="91c3d238305f308e00fca917d996bb40" sha1="644a6409949520b1c7a654eed6a156d35967ec1c" />
@@ -291,6 +323,10 @@
 		<description>Obscenture (World) (v1.01) (Aftermarket) (Unl)</description>
 		<rom name="Obscenture (World) (v1.01) (Aftermarket) (Unl).gbc" size="2097152" crc="95b6f7bb" md5="74996e87555cbf6e0e63bc61a43c7ddb" sha1="fc75c0335a98f6444bc5d9bd541c68ba98b19975" />
 	</game>
+	<game name="OrmBlok (World) (GBComp25) (Aftermarket) (Mike Leisz, Ben Jelter)">
+		<description>OrmBlok (World) (GBComp25) (Aftermarket) (Mike Leisz, Ben Jelter)</description>
+		<rom name="OrmBlok (World) (GBComp25) (Aftermarket) (Mike Leisz, Ben Jelter).gbc" size="524288" crc="32ea3e07" md5="eafc504d33043897805815b54ab80adc" sha1="64556945d98e3b4a144342bdcf485b01e463c62b" status="none" />
+	</game>
 	<game name="Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz)">
 		<description>Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz)</description>
 		<rom name="Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz).gbc" size="1048576" crc="3779bf1e" md5="cd88815473884f930302098576754ce1" sha1="98e2532efd381264751d7ac3c26718c6200e4cd0" status="none" />
@@ -298,6 +334,10 @@
 	<game name="Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz)">
 		<description>Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz)</description>
 		<rom name="Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz).gbc" size="1048576" crc="ba77e1fa" md5="0a23d354e139f40fe409fce3fc1f503c" sha1="09b35cfab7ee7f5c7f08887e1ffda255b58c3c6a" status="none" />
+	</game>
+	<game name="OutRun (World) (Aftermarket) (Rocketship Park)">
+		<description>OutRun (World) (Aftermarket) (Rocketship Park)</description>
+		<rom name="OutRun (World) (Aftermarket) (Rocketship Park).gbc" size="524288" crc="0b7fc436" md5="d88033e110738b78521195ab5d28bc98" sha1="5368f9bc94acda40be0f945fff7869355fc105c9" status="none" />
 	</game>
 	<game name="Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)">
 		<description>Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)</description>
@@ -358,6 +398,14 @@
 	<game name="Rotagraph (World) (Aftermarket) (Unl)">
 		<description>Rotagraph (World) (Aftermarket) (Unl)</description>
 		<rom name="Rotagraph (World) (Aftermarket) (Unl).gbc" size="32768" crc="4416a41f" md5="840cb597b62d194dd4bc8844fc4032fb" sha1="9c031d748865a5873b40d0b62db141f0426c1866" />
+	</game>
+	<game name="RumbleFest Pro Wrestling (World) (GB Showdown '22) (Aftermarket) (Meeka Arcade)">
+		<description>RumbleFest Pro Wrestling (World) (GB Showdown '22) (Aftermarket) (Meeka Arcade)</description>
+		<rom name="RumbleFest Pro Wrestling (World) (GB Showdown '22) (Aftermarket) (Meeka Arcade).gbc" size="131072" crc="905f6eb7" md5="710979d39623202add83391b71272c3e" sha1="a415c51e968b5df39cca5a815bb63322f53a69da" status="none" />
+	</game>
+	<game name="Shaman Dojo (World) (GB Showdown '22) (Aftermarket) (Spicyfuse)">
+		<description>Shaman Dojo (World) (GB Showdown '22) (Aftermarket) (Spicyfuse)</description>
+		<rom name="Shaman Dojo (World) (GB Showdown '22) (Aftermarket) (Spicyfuse).gbc" size="524288" crc="e39346d3" md5="bdd80a2a5dfc3aec8bdcff1bafcf1cce" sha1="b3eaaa9d0b62fc07667a93f02000802b0422b06a" status="none" />
 	</game>
 	<game name="Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio)">
 		<description>Shera's Music Party (World) (Demo v1.2) (Aftermarket) (GB Studio)</description>
