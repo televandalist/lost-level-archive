@@ -5,7 +5,7 @@
 		<id>009</id>
 		<name>009 - Lost Level Archive - Sega - Sega CD</name>
 		<description>Sega - Sega CD</description>
-		<version>v20251229</version>
+		<version>v20260122</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -19,7 +19,7 @@
 		<rom name="Hide the Baby (Europe) (v1.2) (Aftermarket) (gameblabla) (Track 4).mp3" size="173940" crc="2d729b28" md5="3e979f8e1b0d2b8cd4d61ca18267fbcc" sha1="4426241e43324f3c33e956e5a50eb2cf2a3fd192" status="none" />
 		<rom name="Hide the Baby (Europe) (v1.2) (Aftermarket) (gameblabla) (Track 5).mp3" size="309989" crc="90e3441d" md5="690e68a81c618ca0a729068282a27715" sha1="3e58f93466751e3ed1190949e5fdc140ac0631e6" status="none" />
 		<rom name="Hide the Baby (Europe) (v1.2) (Aftermarket) (gameblabla) (Track 6).mp3" size="2337595" crc="bc160434" md5="5806587fedc80ff8f69c29003794a3a0" sha1="c27c17cb21af210bf20499a6abe949aa0faed3fb" status="none" />
-		<rom name="Hide the Baby (Europe) (v1.2) (Aftermarket) (gameblabla).cue" size="812" crc="3bd20bc3" md5="3df63202710639ab59aa23182998a12a" sha1="9429ee9ad8f4c7bcf9c80e9b68f2717862f5e609" status="none" />
+		<rom name="Hide the Baby (Europe) (v1.2) (Aftermarket) (gameblabla).cue" size="797" crc="8415dcb6" md5="2d220a484c49ee553918db5d1681449e" sha1="25e1ea878a1a69883ada293a33706b3ce8a71488" status="none" />
 	</game>
 	<game name="Hide the Baby (Japan) (v1.2) (Aftermarket) (gameblabla)">
 		<description>Hide the Baby (Japan) (v1.2) (Aftermarket) (gameblabla)</description>
@@ -29,17 +29,17 @@
 		<rom name="Hide the Baby (Japan) (v1.2) (Aftermarket) (gameblabla) (Track 4).mp3" size="173940" crc="2d729b28" md5="3e979f8e1b0d2b8cd4d61ca18267fbcc" sha1="4426241e43324f3c33e956e5a50eb2cf2a3fd192" status="none" />
 		<rom name="Hide the Baby (Japan) (v1.2) (Aftermarket) (gameblabla) (Track 5).mp3" size="309989" crc="90e3441d" md5="690e68a81c618ca0a729068282a27715" sha1="3e58f93466751e3ed1190949e5fdc140ac0631e6" status="none" />
 		<rom name="Hide the Baby (Japan) (v1.2) (Aftermarket) (gameblabla) (Track 6).mp3" size="2337595" crc="bc160434" md5="5806587fedc80ff8f69c29003794a3a0" sha1="c27c17cb21af210bf20499a6abe949aa0faed3fb" status="none" />
-		<rom name="Hide the Baby (Japan) (v1.2) (Aftermarket) (gameblabla).cue" size="806" crc="1a233ae2" md5="1c60775399298ce7427524ed9f9df43a" sha1="10137db434a2e9974cfef9c0c88fc07e4253ee2b" status="none" />
+		<rom name="Hide the Baby (Japan) (v1.2) (Aftermarket) (gameblabla).cue" size="791" crc="e83f5c65" md5="8c61aed0742c31410e08f24380839f12" sha1="003c28141f03894241f1bbbf848ed4a9dcf700b1" status="none" />
 	</game>
 	<game name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla)">
 		<description>Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla)</description>
 		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 1).iso" size="524288" crc="a166d461" md5="cbfebac2cb06681dd3592634d0784c55" sha1="aec0a94f7d35f404ed2179ced279ad0e181b3b91" status="none" />
-		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 2).wav" size="4073704" crc="33a7fc9f" md5="a7169b2965e2506a7ba39281febfd332" sha1="9f5742ff7431f8252992d7e422b59a930e5985c5" status="none" />
-		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 3).wav" size="4930792" crc="908ab166" md5="d3314917cd3d194463d9ac72ee5e7e56" sha1="835add690d86943a278ae71fafbb8a9bdd53060e" status="none" />
-		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 4).wav" size="3829480" crc="f14ddd20" md5="7d4cb8ea90b266e6c074d336afd2622b" sha1="49a1b0cde2f331391128416a6deeb8b5b2fb323d" status="none" />
-		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 5).wav" size="6829288" crc="8df56251" md5="7a32a1de5979507d43fdbd0f8b6ed020" sha1="9784b86412e69836a3330fce358aea155e1fe2f9" status="none" />
-		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 6).wav" size="17764072" crc="aadf17b3" md5="98266fb3ba567e5e38fb459823359efe" sha1="4689e4bf206d33c427657b1aa50569967ab2423b" status="none" />
-		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla).cue" size="794" crc="1801e148" md5="cb270ebed00848b94c33260fc94f4e64" sha1="db3a73d4de18fc80fd2cb94f6d1bca0f635ae6e1" status="none" />
+		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 2).mp3" size="185020" crc="0a346b12" md5="1d079b2236e8f03f21d6dc947eb6fcfb" sha1="4a913d46ef895c64a8477cf4d32ea1e62572402b" status="none" />
+		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 3).mp3" size="223886" crc="c234c7f3" md5="ac27a2785a9b28efad09b289911d698c" sha1="edd289f920370e2c40e91b67d37045b9fe5cb1de" status="none" />
+		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 4).mp3" size="173940" crc="2d729b28" md5="3e979f8e1b0d2b8cd4d61ca18267fbcc" sha1="4426241e43324f3c33e956e5a50eb2cf2a3fd192" status="none" />
+		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 5).mp3" size="309989" crc="90e3441d" md5="690e68a81c618ca0a729068282a27715" sha1="3e58f93466751e3ed1190949e5fdc140ac0631e6" status="none" />
+		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla) (Track 6).mp3" size="2337595" crc="bc160434" md5="5806587fedc80ff8f69c29003794a3a0" sha1="c27c17cb21af210bf20499a6abe949aa0faed3fb" status="none" />
+		<rom name="Hide the Baby (USA) (v1.2) (Aftermarket) (gameblabla).cue" size="779" crc="d0e75642" md5="c555b512143f150fbdf71a01080438dd" sha1="93681447bec569363c33a273a919884bed3aa329" status="none" />
 	</game>
 	<game name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)">
 		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)</description>
