@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20260119</version>
+		<version>v20260131</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -91,6 +91,10 @@
 		<description>Bee-Ball (PAL) (Aftermarket) (Ivan Machado)</description>
 		<rom name="Bee-Ball (PAL) (Aftermarket) (Ivan Machado).a26" size="4096" crc="3c513b77" md5="c287c9a9d9949295fe37cba3c13104aa" sha1="154aaf601c79461f387045eede54c0e715c7b9be" status="none" />
 	</game>
+	<game name="Bees (NTSC) (Aftermarket) (atari2600land)">
+		<description>Bees (NTSC) (Aftermarket) (atari2600land)</description>
+		<rom name="Bees (NTSC) (Aftermarket) (atari2600land).a26" size="2048" crc="885b5c09" md5="597af15cc043c11f60f1e5cc6f091380" sha1="2a20964f859d959fb0620419a2079dc4a44f9824" status="none" />
+	</game>
 	<game name="Birds and Beans (NTSC) (Aftermarket) (Bluswimmer)">
 		<description>Birds and Beans (NTSC) (Aftermarket) (Bluswimmer)</description>
 		<rom name="Birds and Beans (NTSC) (Aftermarket) (Bluswimmer).a26" size="4096" crc="6d0177ca" md5="61454bda4eb3ae776f271fad4226b76d" sha1="8438026cffde5cfaab7d082d74223bd0dd5fa3c4" />
@@ -134,6 +138,14 @@
 	<game name="Cave Raider (NTSC) (v1.07) (Aftermarket) (Unl)">
 		<description>Cave Raider (NTSC) (v1.07) (Aftermarket) (Unl)</description>
 		<rom name="Cave Raider (NTSC) (v1.07) (Aftermarket) (Unl).a26" size="65536" crc="f1b0ce44" md5="e532c1a9c4110c4a359b8e7514dc5c48" sha1="4ff934e5cc2f28ad815c97933e5996f7e6aafa06" />
+	</game>
+	<game name="Chetiry (NTSC) (Stella Fix) (Aftermarket) (Chris Halton)">
+		<description>Chetiry (NTSC) (Stella Fix) (Aftermarket) (Chris Halton)</description>
+		<rom name="Chetiry (NTSC) (Stella Fix) (Aftermarket) (Chris Halton).a26" size="61440" crc="d2cfc75f" md5="9784290f422e7aeeab4d542318bd9a1f" sha1="10c888ee0a92c0cfe0b8b36708019ef3d138609a" status="none" />
+	</game>
+	<game name="Chetiry (PAL) (Stella Fix) (Aftermarket) (Chris Halton)">
+		<description>Chetiry (PAL) (Stella Fix) (Aftermarket) (Chris Halton)</description>
+		<rom name="Chetiry (PAL) (Stella Fix) (Aftermarket) (Chris Halton).a26" size="61440" crc="0e115ec9" md5="c11e8473c652619ac6166900150ce215" sha1="92d431006db551a702f9bb064f10a44a820d615f" status="none" />
 	</game>
 	<game name="Conquest of Mars (NTSC) (Aftermarket) (Unl)">
 		<description>Conquest of Mars (NTSC) (Aftermarket) (Unl)</description>

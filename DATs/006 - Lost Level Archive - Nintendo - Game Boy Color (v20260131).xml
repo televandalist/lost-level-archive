@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260119</version>
+		<version>v20260131</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -38,6 +38,14 @@
 	<game name="Best Text Adventure, The (World) (Aftermarket) (Unl)">
 		<description>Best Text Adventure, The (World) (Aftermarket) (Unl)</description>
 		<rom name="Best Text Adventure, The (World) (Aftermarket) (Unl).gbc" size="1048576" crc="7b13d437" md5="e15744f9e33180f5825c0242900f5a89" sha1="6689a6180096160a44349338e29f2002f2f26da1" />
+	</game>
+	<game name="Blob Dash (World) (v1.0) (Aftermarket) (chocolate pancakes)">
+		<description>Blob Dash (World) (v1.0) (Aftermarket) (chocolate pancakes)</description>
+		<rom name="Blob Dash (World) (v1.0) (Aftermarket) (chocolate pancakes).gbc" size="131072" crc="5aa134c5" md5="cec57b72fd3c3a4c362db61b94b1a37d" sha1="4832f25af62eb07d2f62e75603ff9525b1bb0b85" status="none" />
+	</game>
+	<game name="Blob Dash (World) (v2.0) (Aftermarket) (chocolate pancakes)">
+		<description>Blob Dash (World) (v2.0) (Aftermarket) (chocolate pancakes)</description>
+		<rom name="Blob Dash (World) (v2.0) (Aftermarket) (chocolate pancakes).gbc" size="262144" crc="bd75735c" md5="1c30bd2677fe2200aa5c46792bb06b68" sha1="54dc20a5ee3da24f374aeb71da9ecc3917a57ce6" status="none" />
 	</game>
 	<game name="Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl)">
 		<description>Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl)</description>
@@ -218,6 +226,10 @@
 	<game name="Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike)">
 		<description>Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike)</description>
 		<rom name="Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike).gbc" size="4194304" crc="0783aea3" md5="4f119e2c234a354740ff2a77b6e059db" sha1="0a3801c0302c8f9741064ba9c11c003c39d3ea8a" status="none" />
+	</game>
+	<game name="Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse)">
+		<description>Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse)</description>
+		<rom name="Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse).gbc" size="2097152" crc="49a97a9a" md5="118116d608437b7f189cad791685ac50" sha1="f4b7344a7d8a7aa138aeeba7ed68c8803c9f03b7" status="none" />
 	</game>
 	<game name="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
 		<description>Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)</description>

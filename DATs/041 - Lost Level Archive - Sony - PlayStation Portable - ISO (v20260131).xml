@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20260109</version>
+		<version>v20260131</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -118,6 +118,10 @@
 	<game name="Left 4 Dead 2 2D (v0.2.0) (AlexDev2)">
 		<description>Left 4 Dead 2 2D (v0.2.0) (AlexDev2)</description>
 		<rom name="Left 4 Dead 2 2D (v0.2.0) (AlexDev2).iso" size="119373824" crc="20334154" md5="7db5563df93e2e32653a204a29071810" sha1="da9466d242d5b2bb8d5a19692df2a63a10ff725d" />
+	</game>
+	<game name="Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE)">
+		<description>Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE)</description>
+		<rom name="Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE).iso" size="1323565056" crc="80874121" md5="44761df383bd7e23c43911da0d82020a" sha1="7bdf4f925f72ae2822a161882af1b543fc218128" status="none" />
 	</game>
 	<game name="Not Trust! (World) (v2022) (Aftermarket) (VitaCreatorDeveloper)">
 		<description>Not Trust! (World) (v2022) (Aftermarket) (VitaCreatorDeveloper)</description>
