@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>019</id>
+		<name>019 - Lost Level Archive - Nintendo - Wii - WBFS</name>
+		<description>Nintendo - Wii - WBFS</description>
+		<version>v20260131</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Just Dance 2020 - Just Dance 2026 (Censored) (v20260120) (Sofie)">
+		<description>Just Dance 2020 - Just Dance 2026 (Censored) (v20260120) (Sofie)</description>
+		<rom name="Just Dance 2020 - Just Dance 2026 (Censored) (v20260120) (Sofie).wbfs" size="6046089216" crc="6f08eee0" md5="0401ce20e3190ad27bc5f6c1c473622d" sha1="583704ccb643c7d2ae65508be9572f54c6f72e39" status="none" />
+	</game>
+	<game name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v20260120) (Sofie)">
+		<description>Just Dance 2020 - Just Dance 2026 (Uncensored) (v20260120) (Sofie)</description>
+		<rom name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v20260120) (Sofie).wbfs" size="6039797760" crc="b50e7607" md5="56b7407ee8692a626eec3af86564d20e" sha1="2f69a8382992dd146f645417c6825135a925f0e0" status="none" />
+	</game>
+	<game name="Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista)">
+		<description>Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista)</description>
+		<rom name="Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista).wbfs" size="4177526784" crc="8d701e20" md5="adbcbcbc6ea964b9134a97df8a3882e9" sha1="5aa1c0077c088580d830f956225080926bbf8435" status="none" />
+	</game>
+</datafile>
