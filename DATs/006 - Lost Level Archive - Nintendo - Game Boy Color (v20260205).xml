@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260131</version>
+		<version>v20260205</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -230,6 +230,10 @@
 	<game name="Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse)">
 		<description>Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse)</description>
 		<rom name="Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse).gbc" size="2097152" crc="49a97a9a" md5="118116d608437b7f189cad791685ac50" sha1="f4b7344a7d8a7aa138aeeba7ed68c8803c9f03b7" status="none" />
+	</game>
+	<game name="Kiana &amp; Biscuit - Pirates on a Visit! (World) (v3.0) (Aftermarket) (Spicyfuse)">
+		<description>Kiana &amp; Biscuit - Pirates on a Visit! (World) (v3.0) (Aftermarket) (Spicyfuse)</description>
+		<rom name="Kiana &amp; Biscuit - Pirates on a Visit! (World) (v3.0) (Aftermarket) (Spicyfuse).gbc" size="2097152" crc="5a79518e" md5="14acb3313110a05b374e53ba04821e02" sha1="379c118f17f6018ca3346cbc698f950ea78dd319" status="none" />
 	</game>
 	<game name="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)">
 		<description>Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket) (Unl)</description>
