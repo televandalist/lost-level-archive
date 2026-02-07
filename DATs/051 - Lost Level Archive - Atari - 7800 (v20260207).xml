@@ -5,7 +5,7 @@
 		<id>051</id>
 		<name>051 - Lost Level Archive - Atari - 7800</name>
 		<description>Atari - 7800</description>
-		<version>v20260119</version>
+		<version>v20260207</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -74,5 +74,9 @@
 	<game name="Waffle Painter (USA) (v1.2) (Aftermarket) (Vivian Video)">
 		<description>Waffle Painter (USA) (v1.2) (Aftermarket) (Vivian Video)</description>
 		<rom name="Waffle Painter (USA) (v1.2) (Aftermarket) (Vivian Video).a78" size="32896" crc="4ce5f3ad" md5="184eb963a9cee8b41c9dadf4d2e6aeb9" sha1="875ce127e24803e4c27afce276eb02381c479a4d" status="none" />
+	</game>
+	<game name="Waffle Painter (USA) (v1.3) (Aftermarket) (Vivian Video)">
+		<description>Waffle Painter (USA) (v1.3) (Aftermarket) (Vivian Video)</description>
+		<rom name="Waffle Painter (USA) (v1.3) (Aftermarket) (Vivian Video).a78" size="32896" crc="322d4cb3" md5="deed2db297e942e5f2c4a8e726874c34" sha1="e5d54b9e8e6d2c8a5e54048cdb582c4a83d32812" status="none" />
 	</game>
 </datafile>

@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - ISO</name>
 		<description>Nintendo - Wii - ISO</description>
-		<version>v20260131</version>
+		<version>v20260207</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -38,5 +38,9 @@
 	<game name="Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior)">
 		<description>Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior)</description>
 		<rom name="Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior).iso" size="4699979776" crc="35e77bd8" md5="669e3ac9469a3dec09f64bd299a21ab5" sha1="50291886969a29eabd923be19c66fbd970a50287" status="none" />
+	</game>
+	<game name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)">
+		<description>Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)</description>
+		<rom name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist).iso" size="4699979776" crc="fb3e5853" md5="284c6e4a40f32d78fe4b16150d1944d4" sha1="f30ef7e343b91612f6a90914c09c1d5167cf608b" status="none" />
 	</game>
 </datafile>

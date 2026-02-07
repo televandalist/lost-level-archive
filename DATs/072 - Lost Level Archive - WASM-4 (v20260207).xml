@@ -5,7 +5,7 @@
 		<id>072</id>
 		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20251212</version>
+		<version>v20260207</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -146,6 +146,10 @@
 	<game name="Game of Life - Zig Edition (World) (David Roman)">
 		<description>Game of Life - Zig Edition (World) (David Roman)</description>
 		<rom name="Game of Life - Zig Edition (World) (David Roman).wasm" size="28867" crc="37565c87" md5="aca4a0cdf7c057f0e7e5861de3d19822" sha1="504ea7c49db07aa6a5a95230a45cc3d68a63cb91" />
+	</game>
+	<game name="Glitch Dungeon (World) (Wormi)">
+		<description>Glitch Dungeon (World) (Wormi)</description>
+		<rom name="Glitch Dungeon (World) (Wormi).wasm" size="62135" crc="551dd101" md5="3340d9ca43ad3c11f4e6732f084e299b" sha1="7729764f196dd25de49e5b855280d116e16af8b3" status="none" />
 	</game>
 	<game name="Glowfish Chess (World) (Analog Hors)">
 		<description>Glowfish Chess (World) (Analog Hors)</description>

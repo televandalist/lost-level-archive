@@ -5,12 +5,28 @@
 		<id>003e</id>
 		<name>003e - Lost Level Archive - Nintendo - Super Famicom - SNES (Extras)</name>
 		<description>Nintendo - Super Famicom - SNES (Extras)</description>
-		<version>v20260102</version>
+		<version>v20260207</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="Final Fantasy IV - Namingway Edition (v1.99a) (MSU-1) (v3) (OCRemix, darthvaderx) (Extras)">
+		<description>Final Fantasy IV - Namingway Edition (v1.99a) (MSU-1) (v3) (OCRemix, darthvaderx) (Extras)</description>
+		<rom name="back.jpg" size="1585839" crc="b169f6ff" md5="df6080546b5ce5f0f521935b8b67198a" sha1="058a179928ce19aa50353a9ce73aa7042505dcb8" status="none" />
+		<rom name="disc-1.jpg" size="1138718" crc="f24c0b02" md5="28102a93e7883ac4af82efe9ee2e36e5" sha1="477b6f7549f69d1738952fdffb1aeb99524c64c2" status="none" />
+		<rom name="disc-2.jpg" size="1293239" crc="7330f155" md5="01e34bba278e96cf32350542170ce306" sha1="4aa22148a6179ff2a149ebb4a1e933784d51d115" status="none" />
+		<rom name="disc-3.jpg" size="1320510" crc="b9edc2d8" md5="ac833329bea6ae9d23f4b323cf3710e0" sha1="64cdf7d9e848ec6d5197e88e2f014dbaba2e8562" status="none" />
+		<rom name="FF4 - Echoes of Betrayal, Light of Redemption - Program.pdf" size="446957" crc="09fb5485" md5="e8dc1c4c6a1020a9f3bb9dedf50346d7" sha1="95cc8b265d9d876d91979d759d045259065558fc" status="none" />
+		<rom name="front.jpg" size="3268069" crc="2f6c7fc1" md5="d26e6069c7fd176d8c16fd9e853aab01" sha1="fb3e19e04dabe44084229ffa6438639c8267c963" status="none" />
+		<rom name="Read Me.txt" size="2697" crc="2258eef0" md5="9964d56370fbf0022e99d91386cdb12a" sha1="11cce08dcb92dc70d44e5e4a17226bc1a0ee6114" status="none" />
+		<rom name="tracklist.txt" size="9170" crc="de7e37e8" md5="907e166d526669665d3059f4423668f2" sha1="3907d821d129d1eb81930e7136a8ea9edee2c446" status="none" />
+	</game>
+	<game name="Final Fantasy IV - Namingway Edition (v1.99a) (MSU-1) (v3) (Synthetic Origins by Mathew Valente) (Extras)">
+		<description>Final Fantasy IV - Namingway Edition (v1.99a) (MSU-1) (v3) (Synthetic Origins by Mathew Valente) (Extras)</description>
+		<rom name="FF4SO_blog.pdf" size="3029994" crc="0615cddd" md5="601a7ce115f3018327ed0d0c32480afe" sha1="07a12a08c2ea4de3840655ea28c98ce4e43d431f" status="none" />
+		<rom name="SynthOriginsFF4_cover.png" size="11730779" crc="13c54512" md5="95306fd8bc5b81498510a12e41d25d9c" sha1="8503dd9309d3f3645f670dbe18ab2c3692918baf" status="none" />
+		<rom name="tracklist.txt" size="3008" crc="901fc6a1" md5="1ef3b6da9dff86edb372a01b1c26f499" sha1="23e36ab094027ae916cc5beacfece887238c8d8e" status="none" />
+	</game>
 	<game name="Mega Man (USA) (Fan Port) (v1.5) (MSU-1) (Infidelity) (Extras)">
 		<description>Mega Man (USA) (Fan Port) (v1.5) (MSU-1) (Infidelity) (Extras)</description>
 		<rom name="Mega Man (USA) (Fan Port) (v1.5) (MSU-1) (Infidelity) - Box Art.png" size="3617025" crc="7a67ffb2" md5="d15e61d83c094c87c44a072549ed0057" sha1="860c216b3551c3027f9e444bfd3d913435d3bc7c" status="none" />

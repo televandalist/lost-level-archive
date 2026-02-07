@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - WBFS</name>
 		<description>Nintendo - Wii - WBFS</description>
-		<version>v20260131</version>
+		<version>v20260207</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -22,5 +22,9 @@
 	<game name="Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista)">
 		<description>Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista)</description>
 		<rom name="Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista).wbfs" size="4177526784" crc="8d701e20" md5="adbcbcbc6ea964b9134a97df8a3882e9" sha1="5aa1c0077c088580d830f956225080926bbf8435" status="none" />
+	</game>
+	<game name="Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist)">
+		<description>Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist)</description>
+		<rom name="Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist).wbfs" size="4177526784" crc="6f99bb4b" md5="92563e0f82a6720df7bc1f66db11031e" sha1="316776056c3de6c271fc4a4bddc852024533773e" status="none" />
 	</game>
 </datafile>
