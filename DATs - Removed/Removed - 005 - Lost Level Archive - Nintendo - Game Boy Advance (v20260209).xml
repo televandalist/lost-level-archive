@@ -5,12 +5,17 @@
 		<id>005</id>
 		<name>Removed - 005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Removed - Nintendo - Game Boy Advance</description>
-		<version>v20260104</version>
+		<version>v20260209</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="3D SnowTank (World) (v1.0) (Aftermarket) (3DSage)">
+		<comment>In the No Intro DAT</comment>
+		<description>3D SnowTank (World) (v1.0) (Aftermarket) (3DSage)</description>
+		<rom name="3D SnowTank (World) (v1.0) (Aftermarket) (3DSage).gba" size="233700" crc="e166f47d" md5="8ce34bf20e684a0b35ad2bc14e81c6ce" sha1="797d67f54b009dffc69b042ce17fa3a908933e44" status="none" />
+	</game>
 	<game name="Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl)">
 		<description>Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl)</description>
 		<rom name="Discrete Orange (World) (v0.1 Demo) (GBA Jam 2024) (Aftermarket) (Unl).gba" size="2059172" crc="8515069c" md5="0f424c61285bfee9a940bc9aa47c61bf" sha1="d2546be26c1e902e09cbb288ff9e4f654ae5194b" />
@@ -22,6 +27,16 @@
 	<game name="Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (v1.3) (Aftermarket) (Rik Nicol, Jeremy Clarke)">
 		<description>Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (v1.3) (Aftermarket) (Rik Nicol, Jeremy Clarke)</description>
 		<rom name="Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (v1.3) (Aftermarket) (Rik Nicol, Jeremy Clarke).gba" size="33554432" crc="159ff629" md5="bb9368a99e87251d9323a54841045914" sha1="df5473dbb005816293238095076e8f8c75484f93" />
+	</game>
+	<game name="OpenLara GBA (World) (v20230302) (Aftermarket) (Unl)">
+		<comment>In the No Intro DAT</comment>
+		<description>OpenLara GBA (World) (v20230302) (Aftermarket) (Unl)</description>
+		<rom name="OpenLara GBA (World) (v20230302) (Aftermarket) (Unl).gba" size="10210240" crc="3ac64ef0" md5="092608265cc47ee746747c04d84d69a3" sha1="775f5965414874cd1117c1ad0fcd78d8033ad5fc" />
+	</game>
+	<game name="Radicorn (World) (Aftermarket) (Unl)">
+		<comment>In the No Intro DAT</comment>
+		<description>Radicorn (World) (Aftermarket) (Unl)</description>
+		<rom name="Radicorn (World) (Aftermarket) (Unl).gba" size="88704" crc="c176fc59" md5="09698b7f688a00a7ac4a67a225c2181f" sha1="42e722987387bda61f2fa34c22e1789df9d5c0d4" />
 	</game>
 	<game name="Ring Dash GBA (World) (v1.0c) (Aftermarket) (BriG78cx)">
 		<description>Ring Dash GBA (World) (v1.0c) (Aftermarket) (BriG78cx)</description>

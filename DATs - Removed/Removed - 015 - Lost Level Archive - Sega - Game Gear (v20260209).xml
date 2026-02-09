@@ -3,13 +3,12 @@
 <datafile>
 	<header>
 		<id>015</id>
-		<name>015 - Lost Level Archive - Sega - Game Gear</name>
-		<description>Sega - Game Gear</description>
-		<version>v20251129</version>
+		<name>Removed - 015 - Lost Level Archive - Sega - Game Gear</name>
+		<description>Removed - Sega - Game Gear</description>
+		<version>v20260209</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Hopman Mini (World) (v2023-08-16) (Aftermarket) (Unl) (Inufuto)">
 		<description>Hopman Mini (World) (v2023-08-16) (Aftermarket) (Unl) (Inufuto)</description>

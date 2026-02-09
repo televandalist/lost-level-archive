@@ -5,16 +5,11 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20260131</version>
+		<version>v20260209</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="3D SnowTank (World) (v1.0) (Aftermarket) (3DSage)">
-		<description>3D SnowTank (World) (v1.0) (Aftermarket) (3DSage)</description>
-		<rom name="3D SnowTank (World) (v1.0) (Aftermarket) (3DSage).gba" size="233700" crc="e166f47d" md5="8ce34bf20e684a0b35ad2bc14e81c6ce" sha1="797d67f54b009dffc69b042ce17fa3a908933e44" status="none" />
-	</game>
 	<game name="Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl)">
 		<description>Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl).gba" size="33554432" crc="17e5586a" md5="885afa63766831dae4f8379999d99bdc" sha1="1151d4df2761384528fecd47a7ef1a32de93fb44" />
@@ -239,10 +234,6 @@
 		<description>Nuclear Love (World) (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Nuclear Love (World) (v1.1) (Aftermarket) (Unl).gba" size="545832" crc="22a6a8e9" md5="3799e4aee79b79af793511121d702811" sha1="d97b2c014c97a3f859ad8fb453fabbe57fabb985" />
 	</game>
-	<game name="OpenLara GBA (World) (v20230302) (Aftermarket) (Unl)">
-		<description>OpenLara GBA (World) (v20230302) (Aftermarket) (Unl)</description>
-		<rom name="OpenLara GBA (World) (v20230302) (Aftermarket) (Unl).gba" size="10210240" crc="3ac64ef0" md5="092608265cc47ee746747c04d84d69a3" sha1="775f5965414874cd1117c1ad0fcd78d8033ad5fc" />
-	</game>
 	<game name="Picross Advance (World) (GBAX2005) (Aftermarket) (Unl)">
 		<description>Picross Advance (World) (GBAX2005) (Aftermarket) (Unl)</description>
 		<rom name="Picross Advance (World) (GBAX2005) (Aftermarket) (Unl).gba" size="664164" crc="33011f7c" md5="43c413e3b438bce1b1b4e1b6859e72b9" sha1="07407e68cbfea16d6f713481df048c5474f0d3b0" />
@@ -314,10 +305,6 @@
 	<game name="Portal Advance (World) (v20161112) (Aftermarket) (Ashley Samuelson)">
 		<description>Portal Advance (World) (v20161112) (Aftermarket) (Ashley Samuelson)</description>
 		<rom name="Portal Advance (World) (v20161112) (Aftermarket) (Ashley Samuelson).gba" size="201176" crc="50f6efe7" md5="65080cc9ae25fc558c6fb0a1eb0a3b2b" sha1="72bbae5413aee1f31aa5f7015ea4871448c03f89" status="none" />
-	</game>
-	<game name="Radicorn (World) (Aftermarket) (Unl)">
-		<description>Radicorn (World) (Aftermarket) (Unl)</description>
-		<rom name="Radicorn (World) (Aftermarket) (Unl).gba" size="88704" crc="c176fc59" md5="09698b7f688a00a7ac4a67a225c2181f" sha1="42e722987387bda61f2fa34c22e1789df9d5c0d4" />
 	</game>
 	<game name="Rinne Tsukihime - Box Edition (World) (v5.0) (Aftermarket) (Unl)">
 		<description>Rinne Tsukihime - Box Edition (World) (v5.0) (Aftermarket) (Unl)</description>

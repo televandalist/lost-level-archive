@@ -10,6 +10,15 @@
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 	</header>
+	<game name="ActRaiser (USA) (MSU-1) (Darkshock) (Shiryu Extras)">
+		<description>ActRaiser (USA) (MSU-1) (Darkshock) (Shiryu Extras)</description>
+		<rom name="#007 - Chiptune Faith - ReadMe.txt" size="6190" crc="4fcb8ab0" md5="0236ca83b73642c4c6fc7e65d888dce3" sha1="b94e35bfd024144756c5a6d0a1acf1f262953c47" status="none" />
+		<rom name="#008 - Orchestral Faith - ReadMe.txt" size="6192" crc="ca98bf41" md5="3f641a02c872afdf3cbe72725e0b05ba" sha1="eb251ea77a8528efa46ff5680fb15a51ba791e35" status="none" />
+		<rom name="#009 - Synthesizer Faith - ReadMe.txt" size="6192" crc="39fd53ac" md5="7181bc868d79f3b273fa28cf9a625043" sha1="cbda19bc2dc0d6e523f718f0983717926595ea7f" status="none" />
+		<rom name="MSU1-007-ActRaiser-ChiptuneFaith.png" size="992867" crc="326415a5" md5="196cccba5e3b83ed4ab2a64b34432f9b" sha1="1dc56c71d79c9e2c4b595d2be737d4d8f18498be" status="none" />
+		<rom name="MSU1-008-ActRaiser-OrchestralFaith.png" size="998840" crc="407fbdc6" md5="8c05eae1693912baa044ac53c0ff1e71" sha1="3baccdb568a459bb8af5ce6f807519f4701c942a" status="none" />
+		<rom name="MSU1-009-ActRaiser-SynthesizerFaith.png" size="1051828" crc="14b60cb9" md5="04e6c5e45b3e9572ac00e78ffd7abb8e" sha1="f731163f1f083bfb2cf5c6bae5f5892e523f8e89" status="none" />
+	</game>
 	<game name="Final Fantasy IV - Namingway Edition (v1.99a) (MSU-1) (v3) (OCRemix, darthvaderx) (Extras)">
 		<description>Final Fantasy IV - Namingway Edition (v1.99a) (MSU-1) (v3) (OCRemix, darthvaderx) (Extras)</description>
 		<rom name="back.jpg" size="1585839" crc="b169f6ff" md5="df6080546b5ce5f0f521935b8b67198a" sha1="058a179928ce19aa50353a9ce73aa7042505dcb8" status="none" />
