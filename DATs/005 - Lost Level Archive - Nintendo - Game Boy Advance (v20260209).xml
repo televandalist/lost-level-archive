@@ -166,10 +166,6 @@
 		<description>Kadu Bird (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Kadu Bird (World) (v1.0) (Aftermarket) (Unl).gba" size="1413432" crc="b4a5f197" md5="1d9eb0f4c79935ec84d0c5b0df3230e8" sha1="33c83fd234591fbb78aebd24b60e89c3b24c007d" />
 	</game>
-	<game name="Kagetsu Touya (Japan) (Fan Port) (Unl)">
-		<description>Kagetsu Touya (Japan) (Fan Port) (Unl)</description>
-		<rom name="Kagetsu Touya (Japan) (Fan Port) (Unl).gba" size="16547840" crc="119a8285" md5="ba753b74237fde2d26264b0b095c1a8a" sha1="9e8810eb181ad3e260c5e4d6c484df7991a9f144" />
-	</game>
 	<game name="Kimiga Nozomu Eien (Japan) (Fan Port) (Unl)">
 		<description>Kimiga Nozomu Eien (Japan) (Fan Port) (Unl)</description>
 		<rom name="Kimiga Nozomu Eien (Japan) (Fan Port) (Unl).gba" size="29097984" crc="8da71862" md5="2e13a93cc89cd008cbdcaf875c5b0afd" sha1="0cd12d7f4602dd3c4c2eee8cb8e1a55c23ba05ae" />
@@ -306,9 +302,13 @@
 		<description>Portal Advance (World) (v20161112) (Aftermarket) (Ashley Samuelson)</description>
 		<rom name="Portal Advance (World) (v20161112) (Aftermarket) (Ashley Samuelson).gba" size="201176" crc="50f6efe7" md5="65080cc9ae25fc558c6fb0a1eb0a3b2b" sha1="72bbae5413aee1f31aa5f7015ea4871448c03f89" status="none" />
 	</game>
-	<game name="Rinne Tsukihime - Box Edition (World) (v5.0) (Aftermarket) (Unl)">
-		<description>Rinne Tsukihime - Box Edition (World) (v5.0) (Aftermarket) (Unl)</description>
-		<rom name="Rinne Tsukihime - Box Edition (World) (v5.0) (Aftermarket) (Unl).gba" size="16416768" crc="d11b0233" md5="ece8c562ebd71eae03c9862d30c04da3" sha1="f09cfa2f3a9895a32ffce337d91efd66006d7833" />
+	<game name="Rinne Tooya - Box Edition (World) (v3.0) (Unl)">
+		<description>Rinne Tooya - Box Edition (World) (v3.0) (Unl)</description>
+		<rom name="Rinne Tooya - Box Edition (World) (v3.0) (Unl).gba" size="16547840" crc="119a8285" md5="ba753b74237fde2d26264b0b095c1a8a" sha1="9e8810eb181ad3e260c5e4d6c484df7991a9f144" />
+	</game>
+	<game name="Rinne Tsukihime - Box Edition (World) (v5.0) (Unl)">
+		<description>Rinne Tsukihime - Box Edition (World) (v5.0) (Unl)</description>
+		<rom name="Rinne Tsukihime - Box Edition (World) (v5.0) (Unl).gba" size="16416768" crc="d11b0233" md5="ece8c562ebd71eae03c9862d30c04da3" sha1="f09cfa2f3a9895a32ffce337d91efd66006d7833" />
 	</game>
 	<game name="Scrolls of Fire (World) (GBA Winter Jam '21) (Aftermarket) (Unl)">
 		<description>Scrolls of Fire (World) (GBA Winter Jam '21) (Aftermarket) (Unl)</description>
