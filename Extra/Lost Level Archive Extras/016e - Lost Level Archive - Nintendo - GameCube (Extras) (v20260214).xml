@@ -5,11 +5,10 @@
 		<id>016e</id>
 		<name>016e - Lost Level Archive - Nintendo - GameCube (Extras)</name>
 		<description>Nintendo - GameCube (Extras)</description>
-		<version>v20250719</version>
+		<version>v20260214</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Pikmin 2 - Colossal Caverns (PikHacker) - Extras">
 		<description>Pikmin 2 - Colossal Caverns (PikHacker) - Extras</description>
@@ -18,5 +17,10 @@
 	<game name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa) - Extras">
 		<description>Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa) - Extras</description>
 		<rom name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa) - Official Booklet.pdf" size="670447" crc="71137c0d" md5="97d31de1adcc26ce8c0320ee6a64b168" sha1="c9769ab0ea943db39ea32a0bf50017f358ac0030" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo) - Extras">
+		<description>Super Monkey Ball 2 - Stardust (v1.1) (Nambo) - Extras</description>
+		<rom name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo) - Credits.pdf" size="1705571" crc="691371e9" md5="6f7a9d1cb576683a886ea89b581d7947" sha1="8e83766b0fc9bb72370f3371a2f418a8b2934a82" status="none" />
+		<rom name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo) - Handbook.pdf" size="1216836" crc="145eece4" md5="a9a3dc7ee4bc6bd5903b0823fae52a18" sha1="ff7474e26ec41377a12c7a8a892e90eb9366ae4b" status="none" />
 	</game>
 </datafile>

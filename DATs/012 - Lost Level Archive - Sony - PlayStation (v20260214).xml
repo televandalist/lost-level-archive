@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20251212</version>
+		<version>v20260214</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -27,6 +27,18 @@
 		<rom name="Baroque - Yuganda Mousou (Japan) (En) (v1.02) (Plissken) (Track 1).bin" size="646249632" crc="7f1ebddf" md5="942542bdad4b70e13e52772eebdcf63d" sha1="e0552034b2709b41bc291289c441edb1600beb95" />
 		<rom name="Baroque - Yuganda Mousou (Japan) (En) (v1.02) (Plissken) (Track 2).bin" size="34223952" crc="a8fd782a" md5="3f6186d68e4e6901cc0cb73c979f3bf9" sha1="9694908cbe2ccbce3df890cbc982e86d55a70349" />
 		<rom name="Baroque - Yuganda Mousou (Japan) (En) (v1.02) (Plissken).cue" size="282" crc="8f351e94" md5="ba99aa7f98e64a374228562bdceacb96" sha1="ff449fd01bcf14b9898031cc5a1a75c6d75471f1" />
+	</game>
+	<game name="Beavis and Butt-Head Do Hollywood (Nov 10, 1998 Prototype)">
+		<description>Beavis and Butt-Head Do Hollywood (Nov 10, 1998 Prototype)</description>
+		<comment>https://hiddenpalace.org/Beavis_and_Butt-Head_Do_Hollywood_(Nov_10,_1998_prototype)</comment>
+		<rom name="Beavis and Butt-Head Do Hollywood (Nov 10, 1998 Prototype).bin" size="183249024" crc="1cab9e16" md5="aa2d6f0dfae9e16d8a8e335c7f1180ea" sha1="906ca8a067b93cc4dfe6fde23510cb0befd3d5bb" status="none" />
+		<rom name="Beavis and Butt-Head Do Hollywood (Nov 10, 1998 Prototype).cue" size="124" crc="dd1bd570" md5="0557a8aeadb756eac6a3b81ffeab3af2" sha1="090139705b25aba0bb72436d4179308cee804243" status="none" />
+	</game>
+	<game name="Beavis and Butt-Head Do Hollywood (Nov 10, 1998 Prototype) (8MB) (SolidSnake11)">
+		<description>Beavis and Butt-Head Do Hollywood (Nov 10, 1998 Prototype) (8MB) (SolidSnake11)</description>
+		<comment>https://hiddenpalace.org/Beavis_and_Butt-Head_Do_Hollywood_(Nov_10,_1998_prototype)</comment>
+		<rom name="Beavis and Butt-Head Do Hollywood (Nov 10, 1998 Prototype) (8MB) (SolidSnake11).bin" size="183249024" crc="7c17179d" md5="d9a0e3bac37bd51e5cf300acf1591a9e" sha1="fa491057177987ea1eee9a24bb19581775d174f8" status="none" />
+		<rom name="Beavis and Butt-Head Do Hollywood (Nov 10, 1998 Prototype) (8MB) (SolidSnake11).cue" size="145" crc="bf796866" md5="514860de045aa137d741ab27ebbb2558" sha1="574e281276add01d2e08ff5cb8fd8e3ab28bb0cf" status="none" />
 	</game>
 	<game name="Buzzy Bee (USA) (v1.1) (NDR008)">
 		<description>Buzzy Bee (USA) (v1.1) (NDR008)</description>

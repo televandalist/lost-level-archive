@@ -5,11 +5,10 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20260104</version>
+		<version>v20260214</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Mario Kart - Double Dash!! Plus (v3.3) (That1loser4)">
 		<description>Mario Kart - Double Dash!! Plus (v3.3) (That1loser4)</description>
@@ -111,6 +110,10 @@
 		<description>SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator)</description>
 		<rom name="SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator).iso" size="1222246400" crc="7d7917d6" md5="7b593d713dfedc4bdada456bc5e2d923" sha1="b80ffd58d38e030d18d377de546d937e66ea9391" />
 	</game>
+	<game name="Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham)">
+		<description>Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham)</description>
+		<rom name="Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham).iso" size="1459978240" crc="99793c85" md5="a277f73cb19e4e056889d55d8961dc79" sha1="a8264cba736bfd4a091257f015abf843a7beaaca" status="none" />
+	</game>
 	<game name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)">
 		<description>Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)</description>
 		<rom name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa).iso" size="1459978240" crc="585480f6" md5="7b5c8ec81959cb14f111b4b71fc1773c" sha1="334ec9871f61593a7e6238cf96c2db35d392523a" />
@@ -118,6 +121,18 @@
 	<game name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)">
 		<description>Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)</description>
 		<rom name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK).iso" size="1459978240" crc="ee2d9408" md5="6dff46ace2b4d59c4b82a84b3e6af653" sha1="a5477ef566185956dbdfe77e712eb718b53e3ad4" />
+	</game>
+	<game name="Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie)">
+		<description>Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie)</description>
+		<rom name="Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie).iso" size="1459978240" crc="18a6a9a2" md5="595671a55e4daa02cfce8567b54da9fe" sha1="6f18896e0cea80538783c7d9901ffd6bc4631612" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Monkeyed Ball 2 Witty Subtitle (v1.0) (Twilight)">
+		<description>Super Monkey Ball 2 - Monkeyed Ball 2 Witty Subtitle (v1.0) (Twilight)</description>
+		<rom name="Super Monkey Ball 2 - Monkeyed Ball 2 Witty Subtitle (v1.0) (Twilight).iso" size="1459978240" crc="b33486f2" md5="beb6ff665224ab362e8e8b611578aa11" sha1="8f0909fd1a552f1c1a0f2ecea527490c6bd02a5d" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo)">
+		<description>Super Monkey Ball 2 - Stardust (v1.1) (Nambo)</description>
+		<rom name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo).iso" size="1459978240" crc="043aae4d" md5="844be5453a2f7943255c3c4569cdfb08" sha1="8a14c040ba82dd3ff817ef005ec433b4ef8196eb" status="none" />
 	</game>
 	<game name="Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia)">
 		<description>Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia)</description>
