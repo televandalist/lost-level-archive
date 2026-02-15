@@ -5,11 +5,10 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (EBOOT)</name>
 		<description>Sony - PlayStation Portable (EBOOT)</description>
-		<version>v20260205</version>
+		<version>v20260215</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Alley Cat (v2021-07-30) (Unknown)">
 		<description>Alley Cat (v2021-07-30) (Unknown)</description>
@@ -9380,6 +9379,860 @@
 		<rom name="HOW.Lua" size="617" crc="c6c8bb5a" md5="725cca7d5fe72e15f4d664a03de0d690" sha1="222b014e96a22beaa008d1c3d3ddbb122ba67bd5" status="none" />
 		<rom name="oneFont.pgf" size="1581700" crc="428a1a18" md5="0ed527caf6befe752f759e5de14cf025" sha1="9ee2931e477cf10bc0b764714e9f0a21aaaed3b4" status="none" />
 		<rom name="SCRIPT.lua" size="2251" crc="d01f2c50" md5="e4fb63c37584729ca3d4a13fda9aa5f1" sha1="c1e4f118937446729db331e4af077ffa1d86fc92" status="none" />
+	</game>
+	<game name="Super Mario Wars (World) (v1.3.2) (Percival)">
+		<description>Super Mario Wars (World) (v1.3.2) (Percival)</description>
+		<rom name="filters\Capture The Flag.txt" size="615" crc="9fc3ad56" md5="7e3f886424f425255d91e10352f2ce5e" sha1="49b48674b146c2c60dca938cc56c1b104d586139" status="none" />
+		<rom name="filters\Simple.txt" size="107" crc="aba8ed19" md5="64726f1af94bc68bd272d798eaf1af76" sha1="7c4f43f20bfa887604c18b7f3e10ae8212d60ad8" status="none" />
+		<rom name="gfx\packs\Classic\palette.bmp" size="2562" crc="b458435e" md5="37289ad487167d86a73f1c49b2c02f8e" sha1="721e8df2db8a2c5a279b1563c5ca2f22ef3d6ff1" status="none" />
+		<rom name="gfx\packs\Classic\tileset.png" size="137768" crc="80938b7b" md5="b7b09d93bbf101e640c4f8c18ddf1e42" sha1="e745e1675d141402a8635cbabd8e98804c0f2362" status="none" />
+		<rom name="gfx\packs\Classic\tileset_medium.png" size="76755" crc="d1e4c159" md5="b300f10386592c3ca1b75fb13bf36f04" sha1="7c5a82cb635c8ce9aa58869d049c743ef3910793" status="none" />
+		<rom name="gfx\packs\Classic\tileset_small.png" size="44399" crc="81ba1b25" md5="e145114470305300ec7039d2f84bd812" sha1="5e2934176d382b0842325c6b3bb5f7712eb0b46b" status="none" />
+		<rom name="gfx\packs\Classic\awards\award.png" size="733" crc="dbbf5022" md5="333315f638a8acf10283969fc6fda1a6" sha1="eed8a14735ffcb764b0bfc20df39bc5f8dafc90f" status="none" />
+		<rom name="gfx\packs\Classic\awards\killsinrow.png" size="2248" crc="48111669" md5="481e2904b72f5073f4bc6f934f74ab6a" sha1="e4d1e29ae146195ce027e32dfc398e12c1a3d520" status="none" />
+		<rom name="gfx\packs\Classic\awards\killsinrownumbers1.png" size="547" crc="9544fbea" md5="82ab78faf560db6c552e0a70e0143721" sha1="9c9f94bf1dc6a8bfeea1b723cbbe7f6d739511ac" status="none" />
+		<rom name="gfx\packs\Classic\awards\killsinrownumbers2.png" size="564" crc="36063897" md5="66b21577a5bc70cf7ad0a5e1c59d587a" sha1="098ed4fd3c0f4213954435db16883a61d912c2ca" status="none" />
+		<rom name="gfx\packs\Classic\awards\killsinrownumbers3.png" size="585" crc="8772ed06" md5="8d194c2f3a744370e3a39c539a91ebdb" sha1="68363f315f54037bc4aa6d4055b2881d2aa470bc" status="none" />
+		<rom name="gfx\packs\Classic\awards\killsinrownumbers4.png" size="577" crc="a4e19d96" md5="ea48c239aa146f9c9f61c0f4204382a5" sha1="70eb28b9535e4ad9a72422e8543eb094c6ad435b" status="none" />
+		<rom name="gfx\packs\Classic\awards\souls.png" size="1244" crc="f14fc77c" md5="1d8d87940c68c24621d58a5d9d9cc795" sha1="23f326142d58e061495cce26990a6a207f067fff" status="none" />
+		<rom name="gfx\packs\Classic\awards\soulspawn.png" size="626" crc="6bfcb6c8" md5="8c80af860c580e2e00c75bef864e50cd" sha1="a4e333862359bf6df9e05d84d5f00492f994e7d0" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_Audience.png" size="22837" crc="95352f00" md5="9f552f450ddec0994353988775fee5b1" sha1="559c88930dff0d08033da21f962e2812c621cb95" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_Black.png" size="9908" crc="6bcf29c9" md5="8c16afc6bbea320c99f11b15d4755267" sha1="2122fcbe5116beba983a939cca3e9630ae8108aa" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_CityScape.png" size="16676" crc="5ed9a928" md5="8be655c10b1144e7e33e32466f2029e7" sha1="228222789056e99baaed164b6049a25df733009e" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_DeepDownInACastle.png" size="10159" crc="f409bdad" md5="b13f58d042625fe1adefe1839deb6f7b" sha1="b5d8b55e7ca41adafbe8c69b30f10634e16131cb" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_Doomship.png" size="22753" crc="e93ee4e6" md5="d83ee79629090e4738ad6bd366060ee3" sha1="f47019b1d0eced7f2fa423d3bd45e8ab40b80135" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_DoomshipClouds2.png" size="10011" crc="5968d50b" md5="4b6aaf064f913cd1a3f53bcdebba33cb" sha1="c258a6bc772b4dc778afac502f114791488e2d6a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_DoomshipClouds.png" size="11038" crc="b95032a1" md5="b2a55f9c7c4c1c0f0e97e192d3040fbc" sha1="c2478a22fdebcef2b14854d94d72abb8e99b4156" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_FactoryInside2.png" size="15524" crc="2bc05abe" md5="e405cdce8584d1b13cf3fb52ea608379" sha1="8a8a01bdadfdb630ebeda55bf626a9b3edc5f70a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_FactoryInside3.png" size="26983" crc="18f1a792" md5="47a94f5f87e836f56ac2bbbb71847a2e" sha1="1ed35d2468152a74455fc1fb1ae4b80a137008b6" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_FactoryInside.png" size="19497" crc="da120578" md5="72ac883f23784aa711cb503d0d2d0451" sha1="b1e9f58d6d479ac368f82ca4de5262343739284a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_GoombaPillars2.png" size="15281" crc="2f8d7c67" md5="0ea8e218e011d449f157f472f5ad199d" sha1="2fb0b25870182d539f120ca2e025ab4c83a9ea38" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_GoombaPillars3.png" size="11508" crc="9ac5f5e0" md5="cfd4e0bf65211710388465a6fca8e38f" sha1="4b04a3dd7039f388993350ad735175ab1454dd60" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_GoombaPillars.png" size="14696" crc="0b2dc634" md5="ddff280e7b1dead9b36057b6df7965a6" sha1="4740cd32a3baba4398452b715134236e44064568" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_InsideTheCityInTheSky2.png" size="23651" crc="c44792b4" md5="9cd982803818615ff6b35c9c6e14d2af" sha1="86d9763bda8efacb60b16a3d5b0c719efb1b36ec" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_InsideTheCityInTheSky3.png" size="21320" crc="93cb41be" md5="27bf5e91e65cba244b933346dd752d6c" sha1="cdc44bdb9ac4ffa06a6e512e49c756a81b1e82ac" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_InsideTheCityInTheSky.png" size="24851" crc="f10c9031" md5="0074f024c0995613c0cbb1164042cdb5" sha1="cea2512d439d9d3e318e98f50d89bc91ccccfd5d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_InsideTheGiantTree.png" size="39327" crc="501bf4ee" md5="1870a0e4d76f9d702bc79e6e366bb2f6" sha1="a1265d2ad104164a23113d05bff49c6e78deb040" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_InTheBrickHouse.png" size="21168" crc="60b7de4c" md5="b1fd721d9b526f3df04e95da186fbee9" sha1="5f2e049fd756535bd2d38335a4ca262c9d15b55c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_InTheFactory2.png" size="22274" crc="33b5a7f0" md5="b3e48d3cadc4e079c89cd5d14dca18f4" sha1="91733dfb7dea6b8463ec0aba37d113cd6fa94474" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_InTheFactory3.png" size="18581" crc="4e4ad7ae" md5="4f4d1fcf7c77a5618ace6f47154595b9" sha1="4428905c6c030d5098b6c2521cf5727c6bfd498b" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_InTheFactory4.png" size="22420" crc="a55e1cb6" md5="e08ca15d2ebef0d9827b1d8064d6dca6" sha1="2af890b21598748697f1ffec97c35d177f9bee66" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_InTheFactory.png" size="22144" crc="f3cb2170" md5="7f0ba3b8b1a81617f35c1720bd37f2ee" sha1="13a02dd14d05d6cc4aec6f2cd2a88875c265f744" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_Manor.png" size="9580" crc="72f07634" md5="c50f5688a8bc27e0ac2f8fa570212f50" sha1="d470449ec01ec9b67e73dae4c5c6a73e433722ef" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_MBPipes.png" size="14325" crc="28f15aaa" md5="cf67180926ed23a0d73113114f9552e9" sha1="b29f9bc820afb9aaf33d146eb0ea016b2fbaea56" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_MiscBattle2.png" size="16846" crc="312d4cc5" md5="fce91d53dc18046b68f3754927c0a8b4" sha1="c2fd619c389ec959545df68efc62ef8450570e68" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_MiscBattle3.png" size="14994" crc="43673759" md5="257b7c3158320ac443d2f5ac318224e7" sha1="42b7cd66a7800ff45dc4a81a96f55565edc4a24c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_MiscBattle4.png" size="20072" crc="a78f8c72" md5="0bcc36934a2e6cad0ffaa72b2764341e" sha1="fea4f988dc73216af5c4156e77e836ff7199dc8a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_MiscBattle.png" size="19842" crc="0dc33d75" md5="4dcb50c1b11d9b3a613ad3d93078ba06" sha1="5e743e4cf9a9bc74bc9a63bd6a93b209ab16760d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_MonumentInTheBackground.png" size="28215" crc="bd3a1b82" md5="07811c3e61483738e8e8a384e5482913" sha1="65a6069b1cc4d2eeac580eafa7f8dd29d5273378" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_Ring.png" size="14680" crc="82c5aacc" md5="b4920a81d904163461a4a44d27d699ed" sha1="8623781c8a9afe333f8367153af0074c0501d7aa" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_TreeTrunk.png" size="43172" crc="b47ba575" md5="2e0e222643525af3bc899fef3a105d25" sha1="b2046abea154ae534029d066656fa0a0b522b175" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_Warehouse2.png" size="14433" crc="bac93376" md5="b45270708fcd0150f8cb22366c81b6cd" sha1="d846d0f3cdb47b1bd61291e9a302465705ed8502" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Battle_Warehouse.png" size="24341" crc="2f70a2be" md5="0d7c1fe9f130a3fdc9b0d654910ea18a" sha1="d8f04427c08262c91fffc5feb7c61f64981e5c9a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_BlueDots.png" size="12381" crc="a6a52786" md5="6d9c045c97273389a76f3f4a02095d85" sha1="9f9ee6429af196fbca4f22f4c2444d89854690c8" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Bonus.png" size="24398" crc="ff5b9dc1" md5="e9ae3ff5c957a01c85fb460a268a5454" sha1="0828f763de646d98a06678c78b69a01471902c3d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_BonusGame.png" size="13132" crc="05945f49" md5="c3bbd2b79eff561d6e5ae8fd06c37c69" sha1="1b25a95e87a549d1c5eb2460eaf913521750fe0d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_BonusRoom2.png" size="17911" crc="5c35d473" md5="6a59f46ac6ebdca8532a6b814293dce9" sha1="304fabf85fc3c111847a6c2aa2ddc205443ec096" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_BonusRoom.png" size="12925" crc="c218867c" md5="5a0238b5373d0d7cd30828d8efbcb76c" sha1="cec6817ff7ba2f8ef17d3607c01f7c7b24fb2aee" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_BrownWall.png" size="18803" crc="3b80c4e7" md5="b7d918c1080d7eaa524fed1f819d2c69" sha1="58ab4cbb9cee11da4a1134253501c2650603bac7" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_CoinHall.png" size="14812" crc="9b4c06d8" md5="78af836e3f67cf9fc4f52c8a84335a94" sha1="2a0e057b32d784a4f49011baf84bf9b6f2886fde" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_DKHammer.png" size="14949" crc="f05a41b3" md5="c5c3cd5ffeda2dc8253d0fe26164096d" sha1="3b469fea6438ca0234b10e468097252b72ba7515" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Fire.png" size="17709" crc="f2713ef7" md5="ad6bf6b8cce69827a6583aafbcfed3f0" sha1="623d6c11bbf953ecde7cdc90f10f12a25fb70b12" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_GreenStar.png" size="17885" crc="1a230069" md5="27e2bc4e6db4483fd8658a8475a14d15" sha1="feedf98278b348163edf95efa7d1faef7b111f56" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_HillsAtNight2.png" size="12789" crc="2f498664" md5="3495b1a9ace3c67120561cf96f6d513c" sha1="c3649b8eefba07b26a16cbb426e4ea90c580c5ab" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_HillsAtNight.png" size="16593" crc="2d7f4420" md5="17b46fe3a80d5cef4e6289d9ef67278d" sha1="1292b2e5d7ea71ae487834f8a9fb33efcff77684" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_InTheTreasureHouse2.png" size="16258" crc="10ce3fe1" md5="34ff6c642555007257c467e063f99940" sha1="7b6fc7982328784be8820017a4adfce32f744773" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_InTheTreasureHouse.png" size="19510" crc="75f25604" md5="7e143f873b4b9e878322065453caa9b6" sha1="c7829083394cffc9546c1687ba487d97c23e2aea" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Intro.png" size="13923" crc="c006d5f7" md5="6bab2f7d99dee755dc4a9843f8b5fed9" sha1="0847f9376600eb500d21ef7ad8ee3fb7e8fe31c2" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Library.png" size="16834" crc="ba46082c" md5="6b3a732b125122e37dde4f4f497e87e4" sha1="88675c39168de3c78d1e95a922cabafc27623bf7" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Lightening.png" size="15978" crc="26aef9fe" md5="fba776162c11dba5d13d7dee938c4285" sha1="c421cc20e662a15b050e4094463d76e36db93b9c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Moonlight.png" size="7211" crc="2466381a" md5="4c8f88cb49392065074f476dcdf7cd0b" sha1="5e4847a86973d75ddc781d00eac5ef056ec08b91" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Mushroom.png" size="16227" crc="61918059" md5="018130d357dbf7fccb30daa4ac8b2411" sha1="605c71c50464465c25ca7845e1429544d1900215" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Mystery.png" size="15473" crc="6ee9e5f3" md5="cc759105d7fef3652d57eda930e5146c" sha1="4e57d064d3e11df49c1d2beed057e45340c9adb7" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_NightSky2.png" size="7396" crc="72e56df6" md5="1de9c0edb7bb0cb9a516d0818beba95d" sha1="50188e17089a3b7560b94519fa06c3ab2910b08a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_NightSky.png" size="6974" crc="d3583e53" md5="e684a82d62f6b2ae64e5d2df48f40f8b" sha1="2e5715be6bd994a919f33e7a45baac1e36e125c4" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_PeachCastle.png" size="15091" crc="d6a6a260" md5="818dae5274e211057f71cb45bb977788" sha1="c945c51c4661c7bf3b075e5a9a9bae4370f9914c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Picross.png" size="20451" crc="e9e3c2d5" md5="5f4ece874a69fbbee76b14f8f1656d9e" sha1="2b6a95e945f57d2c82b6ece98a8c904f49d2209f" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_PowerupB.png" size="22949" crc="e17f92c5" md5="0737ecae44694b1a912735fb2db20fbc" sha1="e9201a8987426f7f4ce3ac961e6411997099f03a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_PowerupP.png" size="23309" crc="88b915f5" md5="0de531c67fcd9438a535981422e12c20" sha1="e656f12a1ddc9c9708d5fbedc834fb1d84c5d296" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Safari.png" size="24206" crc="4cf47c24" md5="31e7afb08313cb98c4bc9c66f670704c" sha1="aae107607e80212c93c389e077cac0920ed84489" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_Space.png" size="5644" crc="d8765c4c" md5="da18214c17b247747285058771a3262a" sha1="a61d4b4936fea9da2753f8e9c83c02a813395a28" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_StarryNight2.png" size="9500" crc="73dbf9af" md5="77003a5694ef7e2f320d202a7aba9f11" sha1="d582a4f46b66625c77d5dde56a50c9144b9e1ac2" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Bonus_StarryNight.png" size="9237" crc="1e4fbadf" md5="436f75b522421dd70a66c1aae31aaed7" sha1="4cf22ae2c2edf9ff08cbf0e3dcebf832951b5c7d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_BowserCastle2.png" size="14390" crc="8f71e175" md5="1aef58e2151afb65a7ee7e04a1690adf" sha1="ca9ca3da09f8e30224df3df776f9c09f2336d0c8" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_BowserCastle3.png" size="14987" crc="718be878" md5="8bf2556c1e07e435855c943953b08b42" sha1="8290d87a04ee4b52c8bfb9fea79b532827a3c916" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_BowserCastle.png" size="21782" crc="4efcd022" md5="e07c464082456b56a72e60639a178d7e" sha1="65d1f1cdeb2ebb7eb2f61ceeec4806cf3994a46d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_Castle.png" size="15788" crc="b5511669" md5="c50c59203592ab17e5e3794e10d342e3" sha1="97b9cbab5df208972f514a98b6d4c0ecddc824f6" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_CastleColumns.png" size="18526" crc="759f0f2f" md5="f9f1d9ea7a1b46060fbffe967c3181ab" sha1="ad2c3994819e6cae852acdfbb83c6d9f6cb422c9" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_CastleHall2.png" size="18505" crc="c036cd76" md5="5cb4a5f8d5cfcab11497853b48b44f1d" sha1="fc22bbc62e48a6284126042bc203b758bc73bca8" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_CastleHall3.png" size="19195" crc="0463ad07" md5="ac6b4ad3cc450542e74522db7e3bc4b5" sha1="7c6ed45cce381dbe6ed8a7ab7767414cf989d166" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_CastleHall4.png" size="18242" crc="8c7abc1b" md5="2b0f27c9edb758269757d6f7ae83e854" sha1="527dd0e3b45a81755625c04e99a37597c61ad587" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_CastleHall5.png" size="18521" crc="080fdc57" md5="1c1b72c9049d73229a485e36b41664d0" sha1="cf3f2b4a7cd1b89999009a3a97f8c4ee77f6b14b" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_CastleHall.png" size="18583" crc="7838fe32" md5="62185449c96a8985fc4030218329951f" sha1="530fe9ae1dc5af00c50eea8537896bdc9e08d2b8" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_DarkRoom.png" size="17470" crc="a60fc5cc" md5="7f000400a526a21f34eb71675b09895d" sha1="c92b13158af1dd3eedb5201385b7bc2669e92354" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_DistantClimb.png" size="18833" crc="f1a76ce7" md5="406833a3fa6df70ced455ec9b50533e9" sha1="4e42377a79fc6b87b04f2403852910733906e0e7" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_Dungeon.png" size="25067" crc="b7aed0eb" md5="4226ba9ce8959d0c0c1e4f0ceec00527" sha1="95d35f5ffa110a5545154d492eb149ce165bc0cb" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_Fortress2.png" size="27474" crc="74c2a9f4" md5="da8ba2d593599d75652d0d2530a58bb8" sha1="9b83c92da1c93c284a0ffece5e46a1701166af17" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_Fortress.png" size="27486" crc="fe5dcaa7" md5="05f0401da4299f5250dbf32c764e1370" sha1="6eab8d82c8d8e97406deee39655a295a4dad7e02" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_GoldBowser.png" size="27953" crc="81a5ca1e" md5="ee5dcdcbee86e379d6780384d7505b3a" sha1="f30d93f2d5ee8cbbad69bb87f4d7e3fc79d77ec9" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_GoombaHall.png" size="16768" crc="ec08e2e5" md5="4aa2481eef8d46cc77f7c722ea91eb7f" sha1="637fcb200576c677fe6833fb834fa7f0acf02019" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_LavaGlow.png" size="32300" crc="152aee95" md5="9fa269806f729ca85c5b377f17712ed4" sha1="05a5a1a45fe1562a3225d853d7cd5c5c2edf4aac" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_MainHall.png" size="27161" crc="c85fb4ab" md5="5c13ec803242bae115db802ffcc0e128" sha1="d69ce6fcec3c3bca71b9421470746cf27d374a6c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_Oversee.png" size="18494" crc="55273ace" md5="dfb05b28763358e3c4261f101ee17624" sha1="1ea03c5229abb7b00c02f9f2a0d72b31e3cc942d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_TwoWindows.png" size="12345" crc="490d8b1d" md5="d1c74d5add5c2d71e6cda7646910eb8a" sha1="efb26e6465ae1078bc0b3981027369119a6f291d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_Walls2.png" size="14390" crc="8f71e175" md5="1aef58e2151afb65a7ee7e04a1690adf" sha1="ca9ca3da09f8e30224df3df776f9c09f2336d0c8" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_Walls3.png" size="15788" crc="b5511669" md5="c50c59203592ab17e5e3794e10d342e3" sha1="97b9cbab5df208972f514a98b6d4c0ecddc824f6" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Castle_Walls.png" size="14987" crc="718be878" md5="8bf2556c1e07e435855c943953b08b42" sha1="8290d87a04ee4b52c8bfb9fea79b532827a3c916" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_AboveTheClouds.png" size="18034" crc="55baf8a9" md5="ca2e0a049a02c5091c741f763baef6fc" sha1="a2ed1ce17c9bd30c604283ef7c323881be0d9e05" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_AdvanceClouds.png" size="6877" crc="8aaef118" md5="647e812c5890d718cecc8dbc35dd4289" sha1="5c47f84eefb8c41eab7ce7008d796e5e91b7f661" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_BeanStocks.png" size="20015" crc="43b2cbe9" md5="32baeae607cdf05fab703f482b0869d9" sha1="428cb65bd2ccd26caeca38c99cd8b0454dea9072" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_CityInTheSky2.png" size="12793" crc="8d5a997d" md5="2a0f8c3feea2ceb776fa11c4b2485ee7" sha1="399b8bb092d918d1f4430a77d2843bbf75d5fb8a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_CityInTheSky3.png" size="14362" crc="ab24667d" md5="65cf5f546613766ef554bcd75cf97c86" sha1="5fd04419c76c87733c96af7f9bac00cb4376f510" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_CityInTheSky.png" size="19047" crc="57c07e15" md5="e197afff4839c4fc8a7593056c5ee432" sha1="615d1707ab61ff5141e4ede4cbad4b21823b4b30" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_CloudHills.png" size="9664" crc="83f9cb36" md5="f4e8dc09f475f90b75c2ca6ab158d637" sha1="4ed0cc3ca4d8555254010534a382708eaab866d4" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_Clouds1.png" size="11156" crc="5e0e219e" md5="7c27e8478865f59145ec71de70f7d8a1" sha1="a4bf850444de288aa18898d8c7f5885eba915277" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_Clouds2.png" size="11014" crc="b36a4792" md5="b14316e6e9b856ec11c7c1f277adb01c" sha1="24515d69fee337f7ea03bba7d73edeefa12ea93e" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_Clouds3.png" size="11782" crc="0831a693" md5="677d2a0db7f08ddf193119231d4813c8" sha1="3c67e42b64c36ce1746b847772e85717c05e7666" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_Clouds3a.png" size="9533" crc="9cc13e5a" md5="7561182fe3ab9508de2a7b84db8ac408" sha1="86fde8b80f305f4eea3376c749b059185a899868" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_Clouds.png" size="4222" crc="b57fa7f2" md5="9ceb727d099487897408a604bb34b4fc" sha1="64a94a569122a5814460220255a9ebcf0e6161a9" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_CloudsInTheNight.png" size="14838" crc="3afe5445" md5="6ffd0f35f4c6fb4da6fb5e0304216514" sha1="06b33cf2fac29d8083c184b5b4dbbc5f50dbf6b5" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_KirbyClouds.png" size="17058" crc="02fb1c8b" md5="4e9e7bcb157f1c0d8447df3e216c568b" sha1="7ccccd0e43bf717345b302a97148061f88449ccf" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_MoreClouds.png" size="12091" crc="bd7b39cb" md5="4bd8dd05e62c57c02fbefb52497fa83c" sha1="2e5297a698a51269e6e35c747555224b01d4beed" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_SideClouds.png" size="9859" crc="564dd9e1" md5="13dc96633c2806c142394541caa97738" sha1="963896780310338c1a52d2286d9853906cc25bfb" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_SmilingClouds.png" size="9997" crc="0721dab7" md5="36cf2e58b34fa81cd5563793eeb09fd9" sha1="d50c5b6bd6bc0b759741ca314bd37d7f777f898a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Clouds_StageClear.png" size="14985" crc="6fbf169e" md5="6a8b372af78e4caa93c448fa4d566f63" sha1="9c1ef8cea38e6bd58c257e47c443704f8b7f5f3b" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_Bricks.png" size="15392" crc="14295c5d" md5="07ed9b571a05e1d1388bff5ea997affd" sha1="b5981ef72a6cd8d08e25b7e838ec2d2f140adfbf" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_Canyon.png" size="13171" crc="b7a25946" md5="da44ccd94894e5956d3f6fece1c79ba8" sha1="d328ea21a5cb98499c9b9da80b096d27d71bf09d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_Desert2.png" size="4374" crc="261ffa3a" md5="6b9892664498136589ad738e37965423" sha1="f1bb939d5475686ab8a38316b5bf106356bf1c45" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_Desert.png" size="8455" crc="e604f479" md5="74ba5124e6037e3dcd1a3604122993eb" sha1="3161f53dffb29ed394fc19ec4fc04a74128f6b39" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_DesertByNight.png" size="15643" crc="bf4e4508" md5="6b570d8458de38ce2a41b30fcfd026cb" sha1="e513bac6987c6585974ca7255627380fba68c6b3" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_HillsAtNight.png" size="12412" crc="34dcaac8" md5="63aa3354f5396c907b72a620ce832141" sha1="3fba591fb28629c10866e4175c98a6092959a068" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_LowDunes.png" size="8900" crc="9b5f1f08" md5="d8858e037b85ef6fcfcdb16c35439e02" sha1="9f2f06c2489fe5d1ee1ff44032b0cb3e8c3282c8" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_LowPyramids.png" size="11768" crc="0621f1dc" md5="1878c76f83033d8dc5be320cc73d6e49" sha1="16ae40a11d20375f2d926cc82f2d8eb5f5aa8c8a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_MountainSide.png" size="14761" crc="cc627175" md5="ff04e4bdc9f90b6b0c17bed142c46213" sha1="ccf23b4cd43205aa8db7d4c475f02d01ef2e9a42" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_Oasis.png" size="13752" crc="e38e5efc" md5="7045c51b1c5ac30a848173a9817c989f" sha1="afb546a93e6a67d6dc3cb82373d05989a252ca7d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_OasisPyramid.png" size="19362" crc="5a9c384e" md5="f25907c850bbed60d02e476c2b1479f7" sha1="757c1f809ec39f7f545f3ea66c4c2dba47a62e60" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_Pyramid.png" size="13357" crc="6a3577ed" md5="e66d5e515dc00ca12bb89623a045b308" sha1="d602228bebe4f6ef7e28708e6d2e80a13851d9d6" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_Pyramids.png" size="10829" crc="a6f17d65" md5="856471e1e618af072e1a67caa114f943" sha1="79c23a1cb3f6a0db743bdcc84f936c048050dc3e" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_TempleByTheMountain.png" size="21945" crc="1e2e0854" md5="bddf3a357cc98353358c875de9b74a99" sha1="812f691a8d84b6eae253f1ff10248d6d17e3cb49" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Desert_YoshiSphinx.png" size="13857" crc="0afaa208" md5="7e1b317ae9bf0a79792c1c193a64466b" sha1="a3a793e5ff24af013279e8c8b6e6fb27247a032a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_DistantManor.png" size="26485" crc="6bf004b5" md5="f5b93944361ced0b14a96df235a4e774" sha1="4a4fc625468b4fa8d1c2c8ff44bc872b980eb1c7" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_EerieMountains.png" size="17405" crc="5dfb3a12" md5="6ad5308321aaf759340d8e25936f76a2" sha1="4688e97ad0a157151e21f8394f324039f44fe87f" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_GhostHouse2.png" size="23771" crc="040edaf9" md5="0cebca0e1bbb244c34164ac811f75abc" sha1="2e786bcab6d07c783f13223b8e8eecd14bbe02ac" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_GhostHouse3.png" size="22992" crc="a62c6341" md5="e4c6d8c31fb0bcd5071191abe980f36f" sha1="fafcaee6a577a37f8a704666103187f510947566" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_GhostHouse4.png" size="21674" crc="505f093b" md5="d3c01c7d4a041471a658c6ace2de9a16" sha1="ab53d7bd3217bc25c0b117ec709f2aa05d00e670" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_GhostHouse5.png" size="23528" crc="a80c85c7" md5="9e69807bc61120e0b50a6b4ce6e4a323" sha1="44fd8390a82acdb2cfcfd2f4680fbe00201890aa" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_GhostHouse6.png" size="23178" crc="ce063285" md5="3bacc8a6af858ed3b3a8980f2786eaad" sha1="eb52b88adb2d94186c1a7f8631ccc4b3f0eb4fa7" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_GhostHouse.png" size="23898" crc="17c24cfa" md5="65a5467adaec3a66de4fe0aa5d1dd9aa" sha1="0711f18732a7a6796d4e5c6e353f648b5a8a3244" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_GhostHouseOutside.png" size="15560" crc="cf76fe98" md5="f0927fa68f9822915d2dd60e08284370" sha1="56a864ee2f6c9f93a5b6d9c61cd6d577e6b5364d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_GhostManor2.png" size="18633" crc="f3458e74" md5="0d9d41f215f3bfc6934a311fbc2a1d7f" sha1="2a3d124036acbfd6bbeffeb12ed484452ccc9a34" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Ghost_GhostManor.png" size="20896" crc="8cd6f826" md5="69608ace6dac1bc7b75a886dc5d8ebe0" sha1="34a7ea415f88310b72521ff849568183d89d3eff" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_AboveCaves.png" size="7992" crc="edcd8b42" md5="d401bf609d325e83f662ce215bc82b2e" sha1="40e4abaa1deacddf972ca9877365fe73a7bee19b" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Airway.png" size="32013" crc="53f05b98" md5="bc72ae09224fb1e63cbf5860005d590d" sha1="830246c27acf60b7eee4c0562caefef7dff3c57c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_BlueHills.png" size="10848" crc="b657d01e" md5="436b48f5dcf397a539db4895e6bdb59e" sha1="7c392cae64bba7ff5828df7413f89068ef502901" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_BowserLand.png" size="10767" crc="16c2fe0c" md5="a85d1e4dfda7c17ab9b84f75c61d83c7" sha1="898a5c00cb666acc6f40cb4fbe13bc69301cc7e5" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_ByTheHills.png" size="14798" crc="4eb9d450" md5="5b9da2bf136247eaf20ee0278aa81cd2" sha1="1bd7333f67d00512a951c1f5a61524702d68a7d2" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_CastleWall.png" size="6462" crc="ccaaaa23" md5="9234ee61ffe4483dc1764d2bc5e8a158" sha1="cffb11153a742cc366279a5ac6379f05eeedd8de" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_CastleWallDark.png" size="13720" crc="97d7ccbb" md5="6084a01c41edae0d85b4938f9c43681c" sha1="33e0a24226c39e74e972f8f7f4f0f3911f1d240c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_ChocolateMountain2.png" size="15919" crc="acbec229" md5="6f31ab86fdd43368ab6d93be10ac3ecb" sha1="2367f0b61c98119cf9c869025bd7ec340e0cbb16" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_ChocolateMountain3.png" size="15619" crc="dd8eb814" md5="99c23ad876d9c824cc05ee88da4a2326" sha1="aae9914d7fa3704a495c1402f9a185157881f0fc" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_ChocolateMountain.png" size="16133" crc="891c2a2f" md5="ad60b01e6b73dcaf240a7a0c85586243" sha1="a7f926b40654148d56bd3691fe7c666e5b5df77c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_CityScape.png" size="26365" crc="eb9c734c" md5="da29354462c7dc3ef475e2796e4ed09e" sha1="2d67a32cdeae816dbeda05b5745af5754744fbc8" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Classic2.png" size="5884" crc="51004323" md5="185d4d411d39f4c65b2ff350217d597f" sha1="64d4f82deaa1098623c3c220a80779aec426f336" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Classic.png" size="13030" crc="749cb761" md5="237bf66df29c932c3b50c8c93b4ac080" sha1="45d898acf9c42a8d3cb2098801e5661febb0008b" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Cookie2.png" size="15729" crc="2786ccc3" md5="1fa3e98241c1b6fe2c8e20bb06e309d7" sha1="076741dbf147d3c6a7c99392842f4894f712c260" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Cookie3.png" size="11922" crc="325693bc" md5="d57c6f208f7e6df78db9908d688eaf12" sha1="c681227ba0b6a1d2bac0799d50b5e4f037fb2108" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Cookie.png" size="19461" crc="8333ebd6" md5="c625d4e17fdfe5bc3a849cfc275d715a" sha1="abf9c68e34d183d23d9d55ef2fab73f795893fb5" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Courtyard.png" size="15299" crc="37ba4008" md5="158a9f454e81c189dbd71ed2c70ae143" sha1="9a0e2aef55846331d7542e7a07ba9f3296bd4933" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_CrossSection.png" size="21707" crc="a5ae0b53" md5="a8e10dde25aafae4343ed5711f54f59d" sha1="a68e2d398423f099bc52d1002888bd3cc814ad6c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_DistantMountains2.png" size="17327" crc="a80fc00e" md5="2237d1b378d85c32267cd077f4abca68" sha1="fa5f7caf1e54a88474f3ecc661eda9b002e6eb5c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_DistantMountains.png" size="15580" crc="f14ed870" md5="5026aec15c0c473523f2ad4628c236c0" sha1="f7d3b4a32931065513f751cefe9fc4f319ccd1e1" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_GrassLand.png" size="11079" crc="1b8e8fcc" md5="5f434bd58004c79760b7746f35688505" sha1="0d52fbfb18621be13283d03b16fd09c4e39ea705" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_GreenHills2.png" size="12730" crc="6e447105" md5="8d2a824f10bfed01995fcf2e2cb7335c" sha1="9f37b64418e0018e748bb5c4d2585761338754d5" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_GreenHills.png" size="10785" crc="32a5bf6d" md5="d24bb8a388a7a4da9f584fcd9f077ace" sha1="c41dd7b2d46e60f80830cb3ba889370ec6cb9f28" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_GreenHillsAndClouds.png" size="11034" crc="18c8c556" md5="e6fcac3c6c42e5de90df3d94e19eb0b2" sha1="823c4b81380a24e2e5301bcf9542f284efdb36d9" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_GreenMountains.png" size="12062" crc="c3c69c1e" md5="28ee1aba1d8677ba600d149d6041ac81" sha1="1f6066ad9a650a310c82898d2f0eb89402687e99" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_HillsBrown.png" size="15821" crc="e952c722" md5="eb2d92ca6a15d9f876aebdc7137adbdf" sha1="a2125746de176dcd21b1677f01d0d416967711f3" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_HillsGreen.png" size="15663" crc="73528e6b" md5="803b48c2051fa19fde0ae145783165dd" sha1="220f707a833ecc2a7d047486f9c797e873bd49d6" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_InTheTrees2.png" size="17586" crc="3f0b3c17" md5="890ec88dffcee3258f25ab6e07be8ef8" sha1="efbc480549b56ee683c33c223542f513ba4e9aac" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_InTheTrees3.png" size="17783" crc="737c833c" md5="f0e109d553a62b8f6f3c9d6208a418f5" sha1="e16856f37c6d4f606f2c034873cd971f0adf260d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_InTheTrees4.png" size="17742" crc="155e9877" md5="4f8d09b0a4b2683806dea2091bef7d71" sha1="7a7f2701e595149d3569f5f568d66b3f9b93211b" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_InTheTrees.png" size="17696" crc="4c7d581c" md5="055ca53afd34010d4cdbf74d6e5360ef" sha1="44a85b35e5448f90ad315339de8e8aa68529621b" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Jungle.png" size="36658" crc="fc3c1bd3" md5="105420a01cb52e7ebd89e5927496a363" sha1="103fba548bddd8cd531e24b533b4ff03bb5cc2ba" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_JungleTop.png" size="21131" crc="6f48cd31" md5="95b40e5f833d696e443339a64d1e5ced" sha1="8841532c2d11d0530cdb89a918ed48eb20bd3afc" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_MarioToyFactory.png" size="28787" crc="b8940a4b" md5="21a83377abdc9939037f70f043549f4d" sha1="0e546687d4ee2cf1cf7b6e9db5392891df169fb7" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Marsh.png" size="9695" crc="9eef3473" md5="96ed14997224a8c1e180761dab949afd" sha1="956d8e3ccbf41229560b1b4bcdcb365e7aff3e2f" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_MountainsGreen2.png" size="13405" crc="a0e4a287" md5="e6994705391ed0784d2201167ec66d5a" sha1="9719dbb959b6cd906949ccdbaf54b45ed1e22bea" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_MountainsGreen.png" size="12988" crc="3905643b" md5="7da90b5f926dee0b3579fb6c6812d74b" sha1="fcca898e4fecd527187bbcdc31d16eb584469722" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_MushroomKingdom.png" size="18135" crc="213cd184" md5="451d44534a831ef6383d5376a3f77f8c" sha1="2f2b58aca0301e89dbc70f0c3dd3c29e09c469e6" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Picross.png" size="13438" crc="dae69529" md5="dec2f7d23f122999a6e629116ec8f053" sha1="ce692c7a4d91963239f0c6777364a55f14c15897" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_SafariHills.png" size="15945" crc="0e4ee3e0" md5="c74586652f14d60e9472504860fa0fbe" sha1="8d5a440ea133a03da2782c0bf19f6442afde877c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_SandCastles.png" size="17110" crc="38f1b09a" md5="d5c7309bb40138208ded49e1593ff698" sha1="be313d62d87a12f23da2e53bb0848fd65efee5c5" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_ShyguyCrew.png" size="14221" crc="4e9e337f" md5="c838a7e1e373c47a68b12647b8bb7bd0" sha1="71f04c89bc5603857ee1f0df025d1a686be69fad" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Trees2.png" size="19678" crc="924dab34" md5="08e07cdcbd6ff9de7cb804a47c4e280c" sha1="ede8d2ab21d05b01ed4bb27c9feb599a9a8ccd0c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Trees.png" size="19743" crc="a8806271" md5="738baa27f78779a7c411cc44e00837fc" sha1="571fe656b4b81efd3e27ac64e33d073fbcdccb64" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Volcanic2.png" size="16052" crc="cfbb531c" md5="499452d50c0110930ede510638fbf697" sha1="d145ac88a5bf64f5502973f78d2dd9691c3b31de" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Land_Volcanic.png" size="16107" crc="621c9ebb" md5="96ebb7c43bb43cca55d565305aa4c8fd" sha1="a9739128747d2cdb5e679ce215c00807c46a83ac" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platform_MushroomTops.png" size="12174" crc="75edf818" md5="0fa9812a35b20b7be70ed090b527e85a" sha1="2b7b16d5cddf04d1bf6f35acaa0a47ca66b12cfc" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_AnOminousWorld2.png" size="10316" crc="71b24591" md5="b01a6442413b1dbd6ef7ec42da196ec9" sha1="4f3a9a5056c7ec98f708d38a5cbf1a08ac98f992" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_AnOminousWorld.png" size="10424" crc="5a89e4d2" md5="c64c74b234190b19e2ada189e3782c01" sha1="f38775154d8703ac0c4aec3208fd4a3cc1584d6d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_BlueSpottedHills2.png" size="14972" crc="1db0f342" md5="23c105fd5a68bf5c5f370f80447708eb" sha1="d0cf1d3e5368255548417750f16b4c64678b7aac" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_BlueSpottedHills.png" size="15709" crc="23c60838" md5="50ee66cb17cbb74652e5c171d4cdc22c" sha1="f1756e3a518f80986fa97b05d645548ea93faaeb" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_BlueStarrySky.png" size="8472" crc="62676607" md5="d6db0aeca7146c682004e03d14542ba5" sha1="ad1f30e8a4fa011d8d064b9dfe78656b943447c6" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_BrightStars.png" size="14087" crc="9b37fb23" md5="caf22ee1a7a3f984c75c31f549dd1b0c" sha1="3a402c5347c9da1dc9ce5966a6ad08f401c3e151" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_ChocolateMountain.png" size="15303" crc="5350e2f6" md5="df00b4c44a939ef4f246c314bc8efac1" sha1="6ce5ed0148b99a4c9293aa27ef8dc5a357c81224" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_ChocolateMountains.png" size="14073" crc="a314b6f0" md5="ff40e5ed4467caad475c32c304ffeb76" sha1="f8e0c51f44d5a9fac3a0159826c3ce28e14b2610" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_CloudsAndWaterfalls.png" size="18434" crc="65e575c8" md5="e012fe0aa11edadf3b93050df5259b6a" sha1="c543cad0df846558b0013648b8e24fc0ec70553e" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_CloudTrail.png" size="10716" crc="3877de82" md5="752e3649753cdc80c1a1a25e0da51279" sha1="95ba890da3d790791b61ec07cb92758a568881d6" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_DistantClouds.png" size="12265" crc="35a95ff7" md5="6085dd5492f85acb7be93b7f382ca40b" sha1="4fdf8994e85833c206cc574811d16f0cce00c97d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_DuskOcean.png" size="10308" crc="20d267da" md5="15102442fbb287cabfacd74e4b1f15f1" sha1="92e613f1480a04f8966e0173a7de956a8ee9b73f" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_GreenSpottedHills2.png" size="22950" crc="ca80c4c1" md5="8126a2e9c511c32d9f904cf28d2928bc" sha1="86464406d07fcd743bdfa298101dbc435565a62c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_GreenSpottedHills.png" size="14668" crc="ab21da86" md5="5af435c2ea13007db34cecbacf89a382" sha1="3a4cbf0fde37446884bd9109961c645dbf153bb4" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_GreenStarrySky.png" size="8104" crc="9651aa89" md5="b774f03efe222b7fc4b7c391c53b8122" sha1="446c52eb67e462dbce14c6f3a43d72919dad7eca" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_HighAboveOcean.png" size="13639" crc="fc34dddd" md5="7afe01541e1431f0a5f2703cbf47c1dd" sha1="3cb533f1ae7d4787db26235f23a71771cb4f6e1f" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_JaggedGreenStones2.png" size="15971" crc="3041eb84" md5="2437059f0b66dad3b1d3fd274892f364" sha1="b9ad1f605a0d7f9b8de1a454e0729ed46187957d" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_JaggedGreenStones3.png" size="15258" crc="472576b3" md5="f9ee6d07ef8b84dd7e40a5cf13df5b6c" sha1="0a83407eca11545352b873503312a00b4ffac3b5" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_JaggedGreenStones.png" size="15057" crc="467dd7e0" md5="de3f9528e4c9ee19e37a3e19e97f1d83" sha1="7360d4f7dbf5ea512f914a1cb43c524d7f498b8f" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_KirbyOrangeMountains.png" size="17559" crc="82722eba" md5="6fd51945c48b44ecdb1930556bef3763" sha1="005e10cbf651d5a64be2b1f31502d60b7c58c821" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_KirbyPurpleMountains.png" size="15407" crc="28759cf0" md5="af5226d3dc39aca0a22967f7a025fcfd" sha1="389bdbe0327a9537dc1e2efa918f08708297b163" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_Moonlight.png" size="7211" crc="2466381a" md5="4c8f88cb49392065074f476dcdf7cd0b" sha1="5e4847a86973d75ddc781d00eac5ef056ec08b91" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_Mushrooms.png" size="12719" crc="56e787a3" md5="ab88457d9a2b485f8b2c71db443577fd" sha1="12bd7b926b992f780386103e5d1b1da0af8786b9" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_NightMountains.png" size="21042" crc="786c7d10" md5="032d33b7ddb519e2accbcba71332aad5" sha1="0c3f11cbef7db0f4acbf0eeb9c1e3821b431f0bf" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_SafariHigh.png" size="9605" crc="69cda883" md5="9848b2d9ffe4fe7f2e874bbf7e7956c6" sha1="9f427c3ebff2042570c420abcc7319ae5a297110" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_StripedMountains.png" size="20161" crc="9817a9b5" md5="d888aa641fa2d0757ebad2f2f115c46d" sha1="866d1826e05d32d166d1238fae896a6df74e37f6" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_TallHills.png" size="23569" crc="8ba38a03" md5="1ec070bf858df49b706f52d414b17e31" sha1="7f275b6caadf2026475cba10ba97aa8e1566563a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_UpInTheTreetop2.png" size="9690" crc="08913ccb" md5="28864bdca57f7de9675f81c219d000d4" sha1="0592329f469353faf14578c6fc2697c3100782b0" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_UpInTheTreetop.png" size="18327" crc="3f26974e" md5="c073674ba182bda3cfffbbbc1510879b" sha1="6adfc85475b53bf172dbf20b741e12b98c4753d2" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_Waterfalls2.png" size="21347" crc="e1068538" md5="c91a6ce91b7fbc347ff8bf88b334c5ed" sha1="6a9e7c761f170b5a4c38b40a30671b69b7778778" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_Waterfalls3.png" size="28405" crc="80d1d334" md5="51e9079a8b30b3e9546210497f44af7e" sha1="67824c9d86132707ed4f5082a34511f43993d1b7" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Platforms_Waterfalls.png" size="18016" crc="74586242" md5="766b491d9a641fdf7e3025b9fa08d3af" sha1="4e0ea676f7db6b8bf50a48859bca56acd48808bc" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_BlueJaggedStones2.png" size="15872" crc="24edf291" md5="9ecf392d789283732249601e69ea4981" sha1="476855d846c29c2d1ad05b171cc543edddbc9591" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_BlueJaggedStones.png" size="15608" crc="cbfefaba" md5="1a033ad64e39d803a979d2e923f41978" sha1="3937e1f97ec7c0a72346283d486744355a795e8f" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_hillssnow.png" size="15756" crc="efbf017c" md5="389abdb28b11e5309d3a111976f7a6e9" sha1="6618748b5b2d29be7e2543c7e2d6138392e0dcdc" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_IceCavern.png" size="37857" crc="f2dbac11" md5="169b111b388b510a91f5f8ed8dcfae40" sha1="c94ed7ba3303286a601faef7f6de5a79462f698c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_JaggedIce.png" size="18747" crc="e88fafc1" md5="9634ca0a14c3b9b02dc1f4c56c92fcae" sha1="e6e153d9d9719259f4772105d92df865ec7b6062" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_JaggedWhiteStones2.png" size="4462" crc="623043e3" md5="95878d03fc911172a6d63b57c38c06d0" sha1="5ac0d188f5e7190706a5b3ae278c2a5d7b83368b" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_JaggedWhiteStones3.png" size="15852" crc="c1f9d6f6" md5="288b47fdbe0d30a6413517de2d856210" sha1="8c7f9a17a7c9ef1bb647706759bb00b864e341ac" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_JaggedWhiteStones4.png" size="15256" crc="9f838921" md5="d089db47772c8cf503e5ae80ae9a5269" sha1="0514ea2e81b82e0b169e6c605e8346259b015af2" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_JaggedWhiteStones.png" size="14981" crc="878b5893" md5="19898827ebea4454cdd95e9e59384c27" sha1="59ebaf893d8cf82e169ceeedd406de2504861870" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_SnowCaps.png" size="14435" crc="d29e0068" md5="46b4ca3d04df047abf1848865713a1d2" sha1="df56c382bca71b084465ea3bf30e0ec6e76fc4c1" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_SnowCovered.png" size="15267" crc="6601a987" md5="fc48adbfe694faafb6900f90e56fba85" sha1="dcb3e18fc6684e7629102b98ab9ad29281302bc2" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_SnowTrees.png" size="12358" crc="74aec929" md5="b33b03375e9225ec57259a116958981c" sha1="8dde1dabf227c5b0a4b695c93d1d0514762c39d1" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_SnowyMountains.png" size="17716" crc="ea60f666" md5="6a8594312cb7d6a4f8de19cee64a216f" sha1="261ac37b069815edbbca78af2bb91353fd444cfa" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_WhiteHills.png" size="12616" crc="74b217ad" md5="2d503f0803066a09571d182c3eb9c50e" sha1="313e41211f0678a90c7c5aae1a3c6d8ba37bcfcb" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Snow_WhiteRockies.png" size="4462" crc="623043e3" md5="95878d03fc911172a6d63b57c38c06d0" sha1="5ac0d188f5e7190706a5b3ae278c2a5d7b83368b" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_blackbossbg.png" size="7242" crc="05df6973" md5="4edebde153ce07118a5a4927742fb590" sha1="0f6c7c24b5bf2401899a6d1a4b665f74a8db2633" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_BrownCave.png" size="26810" crc="20684935" md5="1a330eb36ae8583b7bc848c6ed775384" sha1="4f5437b97d3b8866eb24cf0e502952a685fe19ac" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_BrownRockWall2.png" size="19633" crc="d2360ccc" md5="da531b4b015264bdc16eb287aeea89b2" sha1="2d4239ba91f9b168795490d8d0ebb787793a7acb" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_BrownRockWall.png" size="13249" crc="2ae2ba06" md5="34f3a7fd7b724c6b741daee5c7659c19" sha1="15876901c3964b06ae38919afb9b320c8893acd8" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_Cave.png" size="22678" crc="c38c480c" md5="e01e6a250513857dc6f6c0c450b8513f" sha1="602959207f3d8dd3ff5a4695249ba17d644ac111" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_ColdCaves.png" size="22988" crc="1e37b779" md5="50cd1e136c298239f745094e2605bc52" sha1="0459f72bde15141f7cf1d32e0bc3619c8a99f49f" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_DarkPipes2.png" size="17890" crc="8b4f6f2b" md5="6c615ee0ce1a748099241d50d3ea4647" sha1="80dc61bc125ecf421fc16481ada65af06550db3a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_DarkPipes.png" size="16050" crc="73ec28f4" md5="df2b1c7f991095759744e2a2be9b607c" sha1="7c2dc7a6ea71b7c9bdf770b3e308a3c56b63caa4" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_DeepJungle2.png" size="32482" crc="30490f41" md5="6e2be794c4bef3968a09f92025821ea9" sha1="9946c37c83e063d37ef55a4651c53011b0eea011" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_DeepJungle.png" size="34728" crc="6387bddf" md5="4ed64b6ab8d4e2eb3e44a36722114200" sha1="2c47bdeb9cbf906f6fe34e5764e9e1b9f7c89de2" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_EgyptianPillars2.png" size="35036" crc="232fb028" md5="d432880bac2acab0ddc9ef64bfa07e18" sha1="1164c7075da889dc2d0a6b149df5baa42b590efb" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_EgyptianPillars.png" size="30197" crc="20d4a3a8" md5="ec87a948b5f4156ad09fbeb768629f1b" sha1="c54b89b799c68130c417fd297b1c1dcc2bacdc5a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_IceCaves.png" size="23236" crc="5907ae0f" md5="620a8d161c420553696d93b08b04b57c" sha1="2f07296387f06ebb17ea6f17499fd008b905e5ce" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_IcyPillars2.png" size="34123" crc="42e45dc4" md5="de2d4d209cdd542aa8eb4aee7f3e5d8f" sha1="0099e7a93443d2fdf66fc3a32c211cce173944cb" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_IcyPillars.png" size="33068" crc="1e786a13" md5="4e57008bceba8074306a7b713d30bd55" sha1="5aad36937850302c67dd5ff6352e9298d2908920" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_LightPipes.png" size="18120" crc="fe1e5762" md5="a47da681ab54c80b879b96dc8768fb61" sha1="beb5d61e40e9aa344f7813565890bfb739cf4676" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_MB_Pipes.png" size="14325" crc="28f15aaa" md5="cf67180926ed23a0d73113114f9552e9" sha1="b29f9bc820afb9aaf33d146eb0ea016b2fbaea56" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_Mine.png" size="25402" crc="12a4b314" md5="ed366a49519b933c25a139e00b0ff297" sha1="9f0f97f1a7b72a8bf6f532d5664965e7d79af4bd" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_MurkyCaves.png" size="27066" crc="6c16b38b" md5="5dad19f7e0bfbc05de7b42b778fd0b80" sha1="fbf0edf37c2093a2154d5d1969379fa4f997597c" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_RockWallAndPlants.png" size="13620" crc="4bc3e1b4" md5="5e9d719723917de168432f5e961afe3a" sha1="8f5245b5fe7bbc597f8be20a6a52688c1599faaf" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_RockWallAndPlantsDark.png" size="26555" crc="617afaf0" md5="c4d5d65f8adba7068b114b8e4f7ebc2e" sha1="e75f9b6fa439c185c32b419b843a669650cb3d66" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_RockyCave.png" size="24293" crc="d2670dbd" md5="f1bb26074d2dfdc5385d022d4679340a" sha1="957103b4104b0b22c791decd32f0efb51132c532" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_UnderTheGround2.png" size="18662" crc="c8fe0b36" md5="4fcf7fd3545c5365d5dbfaa2958e2fd5" sha1="ec0cc3613479fa916cfac1d1ab5e36e8246120c7" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underground_UnderTheGround.png" size="25601" crc="c28e5b5b" md5="fe6910279db7ab2b08d8d5a3395aa125" sha1="ac4192bb3cdc80b40076d230f6e6a584fb8dfc2a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_BeneathTheSurface2.png" size="14344" crc="26d62cfd" md5="178011c7a3f709b930d5088fb0aa2546" sha1="9ece5a493060581ab20358ba1937cb620f4f757a" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_BeneathTheSurface.png" size="12312" crc="11798903" md5="799ffe23c79101e50be8ac4d5843746b" sha1="3826889b3b78bf1846574f803c5b486998009a55" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_DarkWaters.png" size="21912" crc="9be4f311" md5="ca9af6c4a69df1c004c223ef56eaf6de" sha1="da188c433f1b0c351ce9ea232efd1ac8aaa527ed" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_FortressBeneathTheWater.png" size="26801" crc="77ec7dae" md5="d28ff05e33c0b8d3d2e3302abf69b07a" sha1="3d07293bdb54745a1777be368285296b9262d287" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_InsideTheSunkenShip.png" size="21290" crc="af524467" md5="79d0bdc86071e80c4583f69377b25fc3" sha1="6d0e2a77a46f61eecbb2bf3689f255c526a91dde" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_Safari.png" size="11579" crc="f3886708" md5="b11284b3fe1f3491e48caff7fa23403c" sha1="f4b92af070118e899886f95d38a3aa557eb57c1f" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_SafariPipes.png" size="10067" crc="1a05b573" md5="f5c16e77b25311cc175bf587463227ef" sha1="f256894459734e17dac8210870ad4f22410cbcee" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_Underwater2.png" size="11237" crc="94a74e61" md5="dd1ba7de5455e7f28a89c0f5e3a726e1" sha1="0b2f23b8a75ef99c34e31ddcb60ec4e2e52e2e89" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_Underwater3.png" size="22446" crc="56689236" md5="8cdebfd721cf68fdcb425325a6ea382c" sha1="2bd49fe894bf3d7a0e6b0504aaa8fa64cceea16e" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_Underwater.png" size="22655" crc="56fc1b0c" md5="32ca1ad32d8258009520f103714eab78" sha1="517af94e472da1b554052fb9b53b4e9c4bfc5b72" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_UnderWaterRuins.png" size="10302" crc="a49317b9" md5="ea66a6f35e65eaaa71ef83fdd0697701" sha1="78c1261e14bdadb7413e7f78a90e164679963925" status="none" />
+		<rom name="gfx\packs\Classic\backgrounds\Underwater_WaterPipes.png" size="18204" crc="05d18c08" md5="c37308c66e63d7038e497d1be0ade706" sha1="cd6c08d3438f8245ded323c1195627badc9d53c5" status="none" />
+		<rom name="gfx\packs\Classic\blocks\bounceblock.png" size="288" crc="fc9d89ab" md5="477ab598766b6d822831f8c7de997808" sha1="625683c6558c287152875a939a91a06626be7337" status="none" />
+		<rom name="gfx\packs\Classic\blocks\breakableblock.png" size="497" crc="672cd1d7" md5="9f913977786a7bfe05319f3f4a8ff83a" sha1="cebfae4e0e79d33d8c682d1980450d24a74415db" status="none" />
+		<rom name="gfx\packs\Classic\blocks\donutblock.png" size="327" crc="8c744831" md5="516fbbd2e8652c0fee251e8bb9ea62a9" sha1="5cac7d54ee1376e64e2ebdd0d1f3e546b18e4deb" status="none" />
+		<rom name="gfx\packs\Classic\blocks\flipblock.png" size="650" crc="e702e842" md5="ac77d33ac2f0439fe445706afedf01eb" sha1="b5ce804e9d00c09a7ec3f33398d2205a9b3f42d1" status="none" />
+		<rom name="gfx\packs\Classic\blocks\noteblock.png" size="452" crc="bfea038f" md5="7e98a640cd124d80d34b74d55910734d" sha1="913713275cdef4bf4010ff5672a2b5a25e35d824" status="none" />
+		<rom name="gfx\packs\Classic\blocks\powerupblock.png" size="811" crc="1f0f6337" md5="3f38a80b58a5775e3ba6c47c5461b3fb" sha1="a1731fe711aed5e06c26d49d0bdb79a6f4864434" status="none" />
+		<rom name="gfx\packs\Classic\blocks\switchblock.png" size="1460" crc="7da4a63b" md5="c1cdad09e542a24b23dfd57f2a33d4d6" sha1="2e35b3e070aa14907cecd195445af546ebf14077" status="none" />
+		<rom name="gfx\packs\Classic\blocks\throwblock.png" size="511" crc="f65adc04" md5="7774e7103921b990f8ea798bd712f3c6" sha1="8d962eea86bfd1f34ad98684748216a3c011e361" status="none" />
+		<rom name="gfx\packs\Classic\blocks\Thumbs.db" size="27136" crc="f8aaf394" md5="0cdc00a1321ea743f5cf04abaf8c93e2" sha1="63aecf575e2683353404c7a4c5b4d5ddecbaf562" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\abovearrows.png" size="479" crc="50ae3c74" md5="78d6bfc9c9a641664259634fee28b31f" sha1="a3783a038f13d595b84626a629ee326068bac780" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\bobombsmoke.png" size="310" crc="a517eb01" md5="c7da614c72b2fa4a94db56adc68ab38c" sha1="06858c88f09e6bb465bf42d2d7f1ea1c35b7dc92" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\bonus.png" size="1212" crc="e64866ba" md5="d2b2d5a41b552dcb04586c61d056f921" sha1="89db527df50c4d77eabe6871090dd2bd76dcf76c" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\brokenblueblock.png" size="606" crc="ac46376d" md5="6dce97eaf4fe0d282b0b702b48532bb1" sha1="082a99f877c8c2ab4026c66648776ecd6b779555" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\brokenflipblock.png" size="316" crc="5b703174" md5="7987dc8b111f7a043de1677c70e69aff" sha1="e78b06066fc7ca59063a8a591564ebd6427b2a70" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\brokenyellowblock.png" size="366" crc="cd61c9fb" md5="0c0b5626388b3c70edbb9d07cdb9656d" sha1="6a75c5325a13851c41f388e7204f4bc9ab18de3c" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\bulletbilldead.png" size="1512" crc="d2dcba84" md5="46a4c6b304be4b3d580209f2deccb7b2" sha1="595e2ffe72892fdf88f07fa69a1fb75e2b847b95" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\burnup.png" size="585" crc="ece47daa" md5="d8f5720dcf772fb8510c22fdbe1a29bb" sha1="ff541ddaae3789a22db072d89c2426fe71be0829" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\cape.png" size="2491" crc="e4535ff8" md5="7b240f66938016962f7539e6936f329e" sha1="19fc92ac05874c2558d5be1da321594b0c7558cf" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\cheepcheepdead.png" size="1461" crc="43cb2127" md5="6b65b1e9ab067a80a087fb52e7996d78" sha1="d73533099892809fb1fe5cd6527bdfd83b4382d5" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\cloud1.png" size="415" crc="c1fd724e" md5="6b35bb5e947e6e4fe083a983668f3f7a" sha1="7b73d5a5a73d483a206584ceff907b37a228962c" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\cloud2.png" size="243" crc="603f5c24" md5="3dbd8335f8be66594e6cde499af2a111" sha1="7f75497a60fb3f1747a3beb9f04b18eb8b067bab" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\coinsparks.png" size="431" crc="607011cc" md5="a2bb10d0b97b5b04073d1b630c1c5875" sha1="a4c031e8d81ed51714429ac15ac2905dd99255d9" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\crown.png" size="212" crc="b41a5b20" md5="fe96099a1d9f5721fb05f210efe156e6" sha1="e3cf01b67afb03e84697af00b1bd561e87d4f004" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\explosion.png" size="2373" crc="4318c901" md5="f8a199ae7f1f7b0edae250ddc48c92f5" sha1="e41ba803d1a1140898aa1ba436cec27299e3797a" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\extralife.png" size="1484" crc="fb5c6838" md5="cb4ed448532606e741952c8bba162d0f" sha1="d40caa5695af0ffb723bb814a414f3047eb5922d" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\fireballexplosion.png" size="366" crc="595655dd" md5="7588e0156de81ef4e5fc6c1483360cda" sha1="cb219c7706094cd10d4505514f8fbea6b757d2bb" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\frictionsmoke.png" size="310" crc="a517eb01" md5="c7da614c72b2fa4a94db56adc68ab38c" sha1="06858c88f09e6bb465bf42d2d7f1ea1c35b7dc92" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\ghost1.png" size="668" crc="be097e9c" md5="5eff69d5cbe40377dfd8d30f5ec30346" sha1="8ea39e95abc2c19bf4321c5f049fafa8c1caf99a" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\ghost2.png" size="851" crc="56b6dc93" md5="f8a4bce3c90211c1ce932b16b203de71" sha1="530cebbb6c267ab491ebabffc8949c327a754c17" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\ghost3.png" size="770" crc="01ca7350" md5="19a11b45cea2f095eac5cc838bf3a919" sha1="e3818c70f11b476a126ac01c4ef7ee487d76fc5d" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\goombadead.png" size="296" crc="833040fa" md5="f43790a558ab2f2a6d13e02d860649e0" sha1="e9b828182d1a2e1b3e2d70a8c542cb96f552aa44" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\goombadeadflying.png" size="397" crc="37753120" md5="b5496e0bf67866438f736abafbc3bc27" sha1="4056c3ff0bbced5f7e9c6271af8cd522544299bd" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\leaves.png" size="295" crc="b6068d8b" md5="20985fcc495694e9c529ad08af781c28" sha1="fe513e711eaee53885d2ca9b54bc6fff36244964" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\shade1.png" size="289" crc="97d85eb2" md5="3b6468c875149ade68ed432bb465baef" sha1="40fab7f7b311af5b53633e9e81a9308c224e9ea9" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\shade2.png" size="313" crc="0824fa5d" md5="a55c0bb09860cd0ffe7fbc276a614a2f" sha1="9874e4c96656addf1887f565c814f9973efb23ee" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\shade3.png" size="312" crc="b20415be" md5="faaebe4f532cba9b1c5bcb6e9064f9bd" sha1="b775df82bec5dd2214a89ff930d67446f93df85e" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\shellbounce.png" size="735" crc="9ab2cd40" md5="87cc92e6c4e6875530c20f90d6f37282" sha1="78406b2d560081af3c0ca72a08b629127fd83f36" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\shelldead.png" size="949" crc="1fc5c182" md5="19d12b9b7dcfad87a8aaf6df843b6c57" sha1="0e0bc9954640bb09ff17d316285e35a5329d0561" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\shinesparks.png" size="1259" crc="df9e0926" md5="de638c341c4e099be59dff0182235a98" sha1="55d8d288ceab1b39221f643a065e2e2347bd5258" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\spawndoor1.png" size="790" crc="c423171c" md5="65b03f07eb62f83ef6642f4986f179da" sha1="dc4ab38ca2377ce44703ab2118f90f4d4293e101" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\spawndoor2.png" size="788" crc="6b464a34" md5="419c19ab025b35617b712f60dc26d6b9" sha1="7790de8274eb30493f1f77187022f031b8c59918" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\spawndoor3.png" size="807" crc="5bc82adc" md5="289a17b35de843a7f3639db70eb514fc" sha1="f462ccfc97e81603e3b3b0c7cbbabe8a9924e9bf" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\spawndoor4.png" size="779" crc="28e98746" md5="8ee74030cc3f114193245c0956447c6c" sha1="cb26fb66cba080478fa9bb1ecff8c05c06554234" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\spawneggs.png" size="4423" crc="1ad01ea0" md5="707fbd737a1b8491d7996fe318b0b54c" sha1="aa47809369a5acc9637de56126fc44be8e7ed956" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\spawnsmoke1.png" size="448" crc="e1707de7" md5="51f0716abdab61f96fcf1c376131c55b" sha1="199dab5be5225c05c74eac1b13c6b28f8724c39d" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\spawnsmoke2.png" size="463" crc="ab25b479" md5="0e3718ac9a06dba0d98bdce52aa3260f" sha1="03bfb9ca99381cd266fa6fd3e8ef4d0d60d6d2a3" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\spawnsmoke3.png" size="454" crc="e0f9d337" md5="7f3f968a42e42d8a90f327de797300e4" sha1="fb2a7c19d6c5f526f694cffa3212dfadf56ccde9" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\spawnsmoke4.png" size="464" crc="0bf48e79" md5="db67b163520091010f6ae3bd7d775ddb" sha1="d6417314524c602813ba8a4f035547dc43324b1c" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\timershade.png" size="185" crc="a30db8f0" md5="48db00e8f9ea690c6a7168e7e95671a4" sha1="8666f566c48b5c8c4beff9163afb201ab28ce01a" status="none" />
+		<rom name="gfx\packs\Classic\eyecandy\warplock.png" size="408" crc="d8e80c28" md5="d0d6305dbe70740868715115df2a50f7" sha1="454a1c56e478ea152827a958d08dd408db493595" status="none" />
+		<rom name="gfx\packs\Classic\fonts\font_large.png" size="6345" crc="43239356" md5="ea7068777ea066423beb081b09dbc12e" sha1="2698d24d3d99ef8a74874652fa7691cf26e0d32d" status="none" />
+		<rom name="gfx\packs\Classic\fonts\font_small.png" size="3672" crc="a367a936" md5="9ac030ee4c1a82c0834558147165035b" sha1="ab4226eded55651441ebda557bccc525ea3fdb69" status="none" />
+		<rom name="gfx\packs\Classic\fonts\race.png" size="502" crc="53af6942" md5="23a8792c46196842a2e811c9f4694f12" sha1="6593360b0e6e65a6c92dc393a78501e125c55a47" status="none" />
+		<rom name="gfx\packs\Classic\fonts\score.png" size="849" crc="87922ae0" md5="fa8068936bc9129cc577ac0a5910af75" sha1="5f185dac48782ae0a9337f36c6fcb5422a358412" status="none" />
+		<rom name="gfx\packs\Classic\menu\dialog.png" size="1025" crc="6291f551" md5="7087cb00f39f73c8cffbe6d1017707d4" sha1="b6b0ef878f0188179ed6f209a7aab4849bb5f7b5" status="none" />
+		<rom name="gfx\packs\Classic\menu\dialog_button.png" size="353" crc="a900bc4e" md5="650537aeb4dbe8fa0d1a80a35a33c4a9" sha1="56d730573aa62f46d708fae8d6db04ec62aaab7c" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_background.png" size="19361" crc="d2c99b12" md5="f2b273f3dd7215a2ffbff950c128526b" sha1="94ff4b3c1d5f3c09a042a772a8e826aae10627aa" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_boxed_numbers.png" size="1861" crc="9c997352" md5="35b6ed75426a6f44ec087b77cf77389c" sha1="161f1e21631dbfb454b94af477731b3f67bed327" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_dialog.png" size="5850" crc="0f940040" md5="10fd0b7a87fcf5dc828e81cc8a418f8f" sha1="354783ff48598ba47f4c5e9191b3dc5ea6a1e32b" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_font_large.png" size="6345" crc="43239356" md5="ea7068777ea066423beb081b09dbc12e" sha1="2698d24d3d99ef8a74874652fa7691cf26e0d32d" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_font_small.png" size="3697" crc="df61380d" md5="dd08b2115b3bbb9d44a0ed65e7c42424" sha1="5bc24fde413e0a2b5231b6a7c432d6a8ce1e6908" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_ipfield.png" size="2825" crc="a136d29c" md5="10d6d4baff3d4324a0ddbe625754336c" sha1="97007cb514007568ae661b24bf0d67df13d7b83e" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_map_filter.png" size="1186" crc="786e80d6" md5="ec65c4507a610c2cb8889de9fffa35a8" sha1="e7dad35bd8767ea96fc21066e83f348aa62332a2" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_map_flags.png" size="15208" crc="6e4f4446" md5="d5b01e34383ac546b638fbebd23e1750" sha1="07f448a646f226e4e4fa7db68c303214c79ee30a" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_mode_large.png" size="4227" crc="052972fd" md5="37288c0f8fc7a5966ae8c14b67c0aa52" sha1="8a26ee142f353ba5293148600622d24eb2cc9d99" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_mode_small.png" size="2923" crc="c64b8618" md5="1bb2266b9276c5a6e18a509c11eab929" sha1="f7c8fac66dca11e8564c9bf5771d388cc8f1a401" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_plain_field.png" size="3315" crc="1dfaa7f5" md5="d9286de224da2c9752a08162b86a1b52" sha1="8447d66424d819822470a47bde6db65d480f0dd1" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_platform_arrows.png" size="315" crc="c47c2669" md5="2dd016a242806355c3c70d5a551e719e" sha1="5bf8a4ca3a06774543865868e272d8fd55c0c2a5" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_player_select.png" size="5876" crc="4c660e9b" md5="7eae29f7ee291e670257877c2cd7949a" sha1="242ae10f5bf494c4f35277edd53a55863a9c443b" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_selectfield.png" size="3204" crc="bfd6c6ae" md5="6f65408cf7749fbdd9b5f200fcf4df48" sha1="07b78d960543be72c56fe3c6ed9bca6278c08d3b" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_selectfield_disabled.png" size="3792" crc="0b26b279" md5="af80f4e089d41b187b468cabf3a2ef13" sha1="65f1d32f70c3b21fa389a66c1ebb095e0c5b9248" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_shade.png" size="4135" crc="bd7f24d0" md5="10f2da377dcd0eba5dabcfbebf89daf4" sha1="9aaabf925499121b30ec1046a2415d0f96a0f179" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_slider_bar.png" size="795" crc="1617df69" md5="a41f535f19483389705af13e75f77a43" sha1="3909655997901d4413a0cd091eb5bb463fbe4a1b" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_smw.png" size="7276" crc="5e54c6e0" md5="ffad7b72997f718cb1d3360f157a8eef" sha1="ed8b1f15f4ef80548eec718d3fcfb6e0fdf32f02" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_version.png" size="634" crc="8bf959ca" md5="841ab6902a362366c68211456bac7537" sha1="b30bf979505e962e3198c50f648235fc1ec43ce2" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_warp_preview.png" size="2218" crc="176d8f3a" md5="4f1642188e695699c0a9f5c80c0443ad" sha1="a225a1c575a7e82749db794219c8f581935210b5" status="none" />
+		<rom name="gfx\packs\Classic\menu\menu_warp_thumbnail.png" size="1317" crc="fa1573b6" md5="caed71615050bd71c350f7e0043df574" sha1="bf137b71f193804381e28b55d22ff8bfa40b035d" status="none" />
+		<rom name="gfx\packs\Classic\menu\player_select_background.png" size="6116" crc="17d6a4c5" md5="2b37ba3ef52685e8936f6e1e844f1f9d" sha1="260b683484d99010e3f66845c40ded82bf6b39a1" status="none" />
+		<rom name="gfx\packs\Classic\menu\player_select_ready.png" size="1754" crc="4f4c2e06" md5="2ea8de1ac9dfc5a95ca85ad3155eb856" sha1="27aca624863fdb2bb3e5d98ed66cdd6ee51db074" status="none" />
+		<rom name="gfx\packs\Classic\menu\scoreboard.png" size="1287" crc="319a797f" md5="69b058d56536a4e73bba385b3dc7e4d0" sha1="847e2de7a74f4bbd0f4f298104633365faf20089" status="none" />
+		<rom name="gfx\packs\Classic\menu\splash_72dpi.png" size="3515" crc="960b1927" md5="99886a5b88f0998264122e15e477651e" sha1="7656f3115ffa954094ddae51ce3e81a64501fe61" status="none" />
+		<rom name="gfx\packs\Classic\menu\splash_credits.png" size="4798" crc="5b1472ed" md5="03a9f741402e5a67fcd6c497c3f3f75a" sha1="4debc0d7310298d72bb3684bd307138e9bfc0dbc" status="none" />
+		<rom name="gfx\packs\Classic\menu\Thumbs.db" size="100352" crc="d9be6589" md5="b38f5d02dfbe6bef4e94a02bb6c5022c" sha1="6446176a205126933ffbabdf86c9faa2165346e5" status="none" />
+		<rom name="gfx\packs\Classic\menu\tour_markers.png" size="1766" crc="755f59cb" md5="0f95e699b98c0616c576912c1c7b781d" sha1="cc36ec1e8692a54b910a7f2502e7ebfff7a1bf04" status="none" />
+		<rom name="gfx\packs\Classic\menu\tournament_background.png" size="4180" crc="7e9c990d" md5="6c2ef9fb55caab58fd48ecbcaad3d22f" sha1="92fc2d9e0356eb3b390fcb1bea0ea7ffd6deaeeb" status="none" />
+		<rom name="gfx\packs\Classic\menu\tournament_powerup_splash.png" size="7299" crc="2a6c7ef3" md5="ad59db32296d3d8bbe36f48ca82b6cf6" sha1="8ac888a5ae996d8bb95de69692afbac3de85bb31" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\areas.png" size="910" crc="3cb54ace" md5="b8b7350fae92f6f15d37e2dc6678ff5d" sha1="3e8489186b5db5f4d2e935a985cb65a504014977" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\bowserfire.png" size="1744" crc="81c4d60a" md5="bb7b238f2d72ffd75a1c5ead4a139147" sha1="f235e399c3c346b0d3326d81b0831292536765f7" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\cheepcheep.png" size="2202" crc="1f8fb0a5" md5="842e27211ef0dc87e2c064591021e590" sha1="cb9c43a2930ed41d3b09dd2759fbd4bece781019" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\chicken.png" size="679" crc="fb122171" md5="8a835e4ecddfc74b5e9c58abbf44c0a6" sha1="9fb27f0b22d7e9388233f1d50379be6845abab0a" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\coin.png" size="533" crc="08481316" md5="a4cd34696ebecfc78467def6d56e9ae3" sha1="9d08b8e877de739814ef62bef040f649617564c6" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\egg.png" size="500" crc="c179e696" md5="0690ed3ca0de0815912b2ae7b60c87d1" sha1="0bc9168511d55f33178b2cfa38958405d3d41d40" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\flagbases.png" size="1625" crc="5427df1e" md5="83801049fed4e13765e2a8eb6f417080" sha1="8e8f3d3f7c7e656be696a9637083c7196fe05afa" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\flags.png" size="4379" crc="ae15ad38" md5="f251dae8ac1cf16ea68e0abcee805528" sha1="da87debd7213d6d8a5b6e277e3d8b3ddff17c221" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\frenzycards.png" size="17706" crc="fffadfe9" md5="e6dac188b61c930823ec9e62b744cddc" sha1="b521d26a672c25cfd4aeec9945063889fae36015" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\goomba.png" size="521" crc="ae52dee2" md5="23345180b7fbdf473fbcf1d34fa9216d" sha1="e85a011bd767e2d59faa2572996a4fa33579321c" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\jail.png" size="416" crc="6b79bc83" md5="91e67ffcfea166973eb9e67587a761cd" sha1="e8c3e2a502eea4b8e021aedeec29c92128cb8f9d" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\kingofthehill.png" size="4507" crc="5f329fcc" md5="8a7712deeb679042925920f804ec0c12" sha1="87251cb82bcd65b0a4be3f6474718ac1ada44353" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\koopa.png" size="1274" crc="a2a0b8e8" md5="bc1c05688328c5f3574fc42db075515f" sha1="7f797f297d271c02ac32719d712eb425763538f6" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\menu_stomp.png" size="891" crc="480b4796" md5="ef5124e71394621e85823a5ae66830ec" sha1="905d3546055381761bc949b5eff079b26ee92543" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\menu_survival.png" size="811" crc="ac667100" md5="de0ee7865ae289f7e46d66a607a02bc0" sha1="70025d8389956b0ff18f6d0a98218bb423c2b630" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\ownedtags.png" size="1227" crc="e93bc725" md5="c8d7d11f41f4df2f7efc9b7e6206b20b" sha1="01d7b901843a632cdf09ce04629221481c1cd189" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\podobo.png" size="1039" crc="2fc137ef" md5="769a86986cd8a73cf1f24ed074b3b965" sha1="a7099f3441c7cb1643da6c45632ffaf12c3fa0d7" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\racegoal.png" size="1529" crc="28a05bb6" md5="4205b18423489e87f041004fbc7e68f5" sha1="aff7a300d23c27167e35c5d7b34921297bcd3368" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\star.png" size="2081" crc="d76606e8" md5="a144296803bba2211146af58a0651fd3" sha1="35c35cda76284846c2edc99755d23e7011bef5d0" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\Thumbs.db" size="81408" crc="4d64b3e7" md5="46a3e34a362f78682d13f7d106b12cdf" sha1="3a2de9d1be6d0368d8cb8d85ff95886875d52694" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\thwomp.png" size="865" crc="4f388972" md5="fe436a5037f1253a62e124e9ad7a290a" sha1="4671df332357b0894a1a04b7484f2f829d6897e0" status="none" />
+		<rom name="gfx\packs\Classic\modeobjects\yoshi.png" size="894" crc="cf1a0a93" md5="52a3bbc501260441730254d99aad46b9" sha1="da64a2b63f692caf93a329fcf558a2372d081bd6" status="none" />
+		<rom name="gfx\packs\Classic\modeskins\bobomb.bmp" size="18486" crc="9005e143" md5="148d5cd251adef0c1f1c5bca465c4112" sha1="ce86f30ad9b72bf632c38c35abcfac5227517541" status="none" />
+		<rom name="gfx\packs\Classic\modeskins\chicken.bmp" size="18486" crc="e9c25336" md5="42e125d2ef2bb76ca52a0729e1779052" sha1="5e8161fd32cb1926fa5bb96445f177c505223be8" status="none" />
+		<rom name="gfx\packs\Classic\powerups\1uppowerup.png" size="388" crc="06f4a368" md5="c203c84f3fd5cf15a40b86922b56ec0e" sha1="2dcf25273c725e4197426159b76dc4d2ad509923" status="none" />
+		<rom name="gfx\packs\Classic\powerups\2uppowerup.png" size="375" crc="20ac68d0" md5="b1546d6f6312d0784201c6f900ed27a2" sha1="4496a4027a53a59fa089139fc558dc47575b7634" status="none" />
+		<rom name="gfx\packs\Classic\powerups\3uppowerup.png" size="395" crc="ae1d72cd" md5="b0d1dee856b09322767316aad39c5a81" sha1="d9ea4af4c1167b96e5b0cac61bdf677313cdcdb7" status="none" />
+		<rom name="gfx\packs\Classic\powerups\5uppowerup.png" size="395" crc="2873318a" md5="33352280740502af43eb0eca77e04f79" sha1="0cca47a94ff317bd2c93c46c07a0b404ad939660" status="none" />
+		<rom name="gfx\packs\Classic\powerups\bobombpowerup.png" size="420" crc="7dfe6264" md5="cb5c66fbb8fe98002b938960657cfa23" sha1="8a7d3230d750085d734a3c975ea71d6a0fa48341" status="none" />
+		<rom name="gfx\packs\Classic\powerups\boomerangpowerup.png" size="343" crc="dff53ba8" md5="aaa5e2151d0ac001fe2a8ad05d28fce5" sha1="432f131f7231e23a1751193c20914a4e414d53b4" status="none" />
+		<rom name="gfx\packs\Classic\powerups\bulletbillpowerup.png" size="409" crc="b2d4320d" md5="458fdf3230d88b1ac532dca24e76cc38" sha1="3c19d2b7c5aeaa1eec4a4a1ca7db5adadb4ee5f7" status="none" />
+		<rom name="gfx\packs\Classic\powerups\clockpowerup.png" size="419" crc="44c1a283" md5="134177ac51017ce4e9fa02413e21c226" sha1="83a9ab2c9d1013f09ae6e93e17da231fa07e38e4" status="none" />
+		<rom name="gfx\packs\Classic\powerups\featherpowerup.png" size="447" crc="d367fe2e" md5="141833d2f9fdaaf50615deb8a7179cc9" sha1="ac0d9be9c5f7949fbd62db3ec29b528baca51e42" status="none" />
+		<rom name="gfx\packs\Classic\powerups\fireflower.png" size="406" crc="33268191" md5="af618a84738ba364eb9a991ad43251ab" sha1="ab7052a06b82005ce933a052429989699512aab9" status="none" />
+		<rom name="gfx\packs\Classic\powerups\hammerpowerup.png" size="337" crc="4e3bc04e" md5="fefe64f9dca1b969771e4a59a1892aef" sha1="ce1f9ef86a29737b41595ad2b1bcdfd573f44ff6" status="none" />
+		<rom name="gfx\packs\Classic\powerups\large.png" size="4414" crc="f38d4087" md5="c65125f395f57d4f4a38d49605710d21" sha1="7d3456fcaf542dd842a2edf5af40263d0a518054" status="none" />
+		<rom name="gfx\packs\Classic\powerups\modpowerup.png" size="522" crc="19fb2b93" md5="06fd0e49477121f12a8acc1fa775a2b8" sha1="b9c66b124090d6f5f1f230603e9325a89114bf23" status="none" />
+		<rom name="gfx\packs\Classic\powerups\mysterymushroom.png" size="414" crc="a89cb1fb" md5="c9e129c0d7f343eeb3641ded0ec8ac7b" sha1="8c63382788632ebe79a7e894c51946d6793f4419" status="none" />
+		<rom name="gfx\packs\Classic\powerups\poisonpowerup.png" size="383" crc="cfe42661" md5="3a07025fe48eaf4ab165eebf2766b650" sha1="10096b2d1d159f452a5065fbfa6f2d0d7effe67b" status="none" />
+		<rom name="gfx\packs\Classic\powerups\powpowerup.png" size="532" crc="244b391e" md5="bdb8d1a46f1f311173ec0f1f8df2d8b5" sha1="c92a6a3b2a9b2ffe9ffb9f352ef1770e9dde8ee9" status="none" />
+		<rom name="gfx\packs\Classic\powerups\small.png" size="3023" crc="ab490955" md5="828af3f2937c81fb0f14d2d042509a29" sha1="889fcc97598d626aab18b68a620a49bf23d03c87" status="none" />
+		<rom name="gfx\packs\Classic\powerups\starpowerup.png" size="713" crc="af066358" md5="c9718b488afcae940ed7da141dbc6836" sha1="812527b609fea2af2610bd29186bba1d886c344b" status="none" />
+		<rom name="gfx\packs\Classic\powerups\tanooki.png" size="446" crc="ba0abf19" md5="37f455ca40538e36ed94396a18e92c06" sha1="e8265ac7984cc94628a58ac76c5eb9a52a618d60" status="none" />
+		<rom name="gfx\packs\Classic\projectiles\boomerang.png" size="4427" crc="24a961eb" md5="f5a52f0114e6acd64f7b2987c2e86f65" sha1="6848c3c9d3cb07fd9aed7232112157f43071ee05" status="none" />
+		<rom name="gfx\packs\Classic\projectiles\bulletbill.png" size="3513" crc="bfe4f412" md5="7d10c92a836062c2e65fd5e11f610f1a" sha1="0c078adb5c767845405a150294eedb2151b75040" status="none" />
+		<rom name="gfx\packs\Classic\projectiles\fireball.png" size="2588" crc="24c9bb2f" md5="eaa2d245e679f0003975685fd8cbceb6" sha1="4353926b460608eb38104d27fb2d006b6ea186c4" status="none" />
+		<rom name="gfx\packs\Classic\projectiles\hammer.png" size="2243" crc="188f8041" md5="d6baebbd95de9955932b9dcdcfd59f6f" sha1="63269513a3e983d9d8d5f74f761c2287ae284b38" status="none" />
+		<rom name="gfx\packs\Classic\projectiles\shell.png" size="2700" crc="d8785d25" md5="91d26b920748523f862fbbd0c8a1e22d" sha1="26d65acaff6cbc56712d3dce1c746af4d25ebb38" status="none" />
+		<rom name="gfx\packs\Classic\projectiles\statue.png" size="581" crc="93905dba" md5="16bb2ae69a21f2c356d5475f14df3c4b" sha1="5becf52b5eb10e3b0af4f8ee6f7fee10a5dd8a5a" status="none" />
+		<rom name="gfx\packs\Classic\projectiles\throwblock.png" size="420" crc="1b21cba5" md5="0cfe7a929da04d016fb16f88a5bfff14" sha1="5444890e77e563acc230a809301dba41ebcf4ab1" status="none" />
+		<rom name="gfx\skins\0smw.bmp" size="18486" crc="de51f50a" md5="c16a3e50e574ba7d35b81898d301d52d" sha1="0ec851b89a9b23dd8a084764ebb822658b899bba" status="none" />
+		<rom name="gfx\skins\Luigi.bmp" size="18486" crc="7520b200" md5="86527cd177d7f9ee7d27347d56b7718e" sha1="1cd27de28a0d13e4f3f8ec1285f32dc38e71f822" status="none" />
+		<rom name="maps\0smw.map" size="13797" crc="7b4b8821" md5="cd22efb85f02fc03304e5b38f88d4b54" sha1="697c2947e6a433ed40c67a139fe3641bc0f0548a" status="none" />
+		<rom name="maps\2skyfight.map" size="13757" crc="00237019" md5="e6bb00cf2a632ce91d722e2b239e2ff9" sha1="eeebe1d6523c4e59931097ca7304638cfb333b10" status="none" />
+		<rom name="maps\3blockforts.map" size="13972" crc="aab1bf9f" md5="14d66bbc4f6d1c879365513e2e58cc01" sha1="d76a47d1376ddcca4d70ed44819e696531ff6fe7" status="none" />
+		<rom name="maps\4highabove.map" size="13372" crc="9b5c1bdd" md5="7d51c1343c87ee401cef5efa3542f294" sha1="24262fc726fe3f571cf14c252527891d224cb89a" status="none" />
+		<rom name="maps\4matsy_Ballistic Boardwalks.map" size="13961" crc="ccb7f6ea" md5="25fb09281c084f48d7690c5abfa876d5" sha1="2a0f8c43f2d6fecfad2c63c96db266dff23a0d09" status="none" />
+		<rom name="maps\4matsy_Block Piles.map" size="14400" crc="13e0edc6" md5="934921be8f284ff7a914cb8b3cf7ef42" sha1="d22643ecd0eca62408bc355fb7178ef300681d34" status="none" />
+		<rom name="maps\4matsy_Block! Block!.map" size="13717" crc="68174b34" md5="f5c5453ccd72e2aeb948f3f7bb6badef" sha1="7a55a5ea85b0d443991bd92bf91b1c4ede843209" status="none" />
+		<rom name="maps\4matsy_Bouncy Spikes.map" size="14322" crc="ba444037" md5="b7c111aaecb596d79b478d6e59c29fa7" sha1="3e7145a6d7728b54277a300cfde42680ee4e8172" status="none" />
+		<rom name="maps\4matsy_Cloud Props.map" size="13886" crc="f8012fde" md5="73e0eebc6050c9cc853f022238a0df2e" sha1="1e84d7db93733269672ec59d579caaec65d7b4ea" status="none" />
+		<rom name="maps\4matsy_Death From Above.map" size="13692" crc="e8ac5db1" md5="91d6b1e47a797c4525d823791dc12825" sha1="a205619f47ce5a13de219cb0127fc6e55c8c780e" status="none" />
+		<rom name="maps\4matsy_Down With Donuts.map" size="14637" crc="27a22129" md5="c43b9a808151dec114f07a1d33e378f6" sha1="7cc3eb616644e503093892ccf39e93874524588e" status="none" />
+		<rom name="maps\4matsy_Evening Fracas.map" size="14143" crc="3ca6b035" md5="efcd841fa06409f81401666b40e58955" sha1="341b772808ab057c6fe560047afb774c6842ac70" status="none" />
+		<rom name="maps\4matsy_Hanging Cactus Gardens.map" size="14164" crc="5eb8f834" md5="a4554d2c905b0d56f5e82fff69743323" sha1="4a18662bb8f5d066f3f69a773c76f46da7e3eb41" status="none" />
+		<rom name="maps\4matsy_Heinous Heights.map" size="14014" crc="839f29af" md5="8ffbae8cbd7e4efabb795ad6d3979a57" sha1="f805c2884ef10dc2210aa8906155be2adec39095" status="none" />
+		<rom name="maps\4matsy_Islands of Questionable Support.map" size="13614" crc="f2ea6e72" md5="3f95c6483cc3801db7110085f24bb679" sha1="2fb83da03854d4e27104705062b68e8517363db4" status="none" />
+		<rom name="maps\4matsy_Manic Mountain.map" size="13980" crc="42918b41" md5="4f975537e85dfe809c4f9a00e5e85573" sha1="4d3dee6b06835f362cc8186c11be7dc3e23cd915" status="none" />
+		<rom name="maps\4matsy_Mishmash.map" size="14990" crc="db8a9fc7" md5="1f07b313f34311e3a8c52fe94c2e30cb" sha1="81aa9c6afb6afc904bfc96931a8a0718643c107d" status="none" />
+		<rom name="maps\4matsy_Mountain King.map" size="14290" crc="153a7d62" md5="f63a8a0cdbba36696c6ffb1b81c78745" sha1="8fff191b5d84ecc816d8e943e5365ec8fed703b2" status="none" />
+		<rom name="maps\4matsy_Ninja Gaiden 1 - 1-1.map" size="13883" crc="61b9199d" md5="149670575b8914c7073e1d841c9f3782" sha1="0b7ea1553b73c94de89c40b039c5791918cefa45" status="none" />
+		<rom name="maps\4matsy_Prepare to Joust Buzzard Bait.map" size="13590" crc="44c2249f" md5="701b7fbd8d2fd8c6376009506c8bc0c3" sha1="d18217e9449ac996da088c0c99d19134e1a87ce9" status="none" />
+		<rom name="maps\4matsy_Rubber Room.map" size="14519" crc="2d5ddc47" md5="d1015ffc471187ddb2e2c2c21526c5e2" sha1="7ed635999d7912a750702bd268b4c6cab0304887" status="none" />
+		<rom name="maps\4matsy_Splitting Headache.map" size="13881" crc="1f388c2f" md5="a82f53b1a59591e1eae07da322b7b4b6" sha1="1b2cb12c5464a3568dd43a5d2015b59c87984781" status="none" />
+		<rom name="maps\4matsy_Suspended Craziness.map" size="14555" crc="46a06906" md5="3cecf0084adf080cd6098650d4064283" sha1="2f1d56f3b7c9549df0d6b79ec3ef85cc06f634a1" status="none" />
+		<rom name="maps\4matsy_Switch 'n' Squish.map" size="14970" crc="fee0bcc8" md5="e3f078aa8dba00166dfdbaff83477469" sha1="bd093a2b682f8da554b8573b0ae22531dd62985b" status="none" />
+		<rom name="maps\4matsy_Teal Tunnels.map" size="15026" crc="e4d70661" md5="1be01ed7f8194fef629454e15557a7f2" sha1="326c999b07d2bf18950173724d89486a93af7bd1" status="none" />
+		<rom name="maps\4matsy_Traumatic Plains.map" size="14264" crc="0462d15f" md5="0335e767f9baedb09a1374c07b7c8db7" sha1="916c8f5f401e61cba5cff8f638b0832a683507e3" status="none" />
+		<rom name="maps\4matsy_Unsightly Dryness.map" size="13818" crc="1cd84a73" md5="2ad477f7d39016647f54a4c0dd12c1b2" sha1="8824e6c7ba91a62af4ca28cc750bd4bba1eea149" status="none" />
+		<rom name="maps\4matsy_Wacky Woods.map" size="14000" crc="813ebc4e" md5="a85a4e31fb566e1724634bf5454e0d58" sha1="aed2634b1b794b867b637cc84607ef2b82a4f6e5" status="none" />
+		<rom name="maps\4matsy_wirehenge.map" size="14200" crc="7b175397" md5="e4811e63aae373c98549f49ec7928572" sha1="d56b39aedeac64b554064f9134069199a847686a" status="none" />
+		<rom name="maps\4matsy_Zelda 1 - 1st Quest Level 1.map" size="14210" crc="0bc59a0b" md5="935860eed2868c608fc26583f3af65f8" sha1="d3a7c7ed555f4049ff1d3e3d131fa38215a4739a" status="none" />
+		<rom name="maps\5fall.map" size="13477" crc="4737bc20" md5="a54441ce02dbad7fa02a0758c93317dc" sha1="963c231595f086ee3d3d7812e51b4cc816ca8002" status="none" />
+		<rom name="maps\affe.map" size="13612" crc="f3614560" md5="e0c22f0a85e1d56993d104e461af629d" sha1="cbdbeb1f7a9a19bf222ef04a1e3254ace171e914" status="none" />
+		<rom name="maps\akruru_breakaway.map" size="14359" crc="13e97017" md5="613c03dac96bdd0d1b12d16bd8180227" sha1="9e314bc4adbc8fa92b345ed9c4d750204a5a8de8" status="none" />
+		<rom name="maps\alyeck_ssb smb2.map" size="13617" crc="f4132aa7" md5="14005fc5bdbbd7127d8ef08fcb2f6b44" sha1="e9057ab2d93e9f25cc0170e63c5e1f22bc6ad8df" status="none" />
+		<rom name="maps\bcatcher_field day.map" size="14752" crc="56049ac9" md5="7a299cd42c1ff587fdcb68f2d9d04a3f" sha1="4f5e7be23daca5eb9466af81730de475ad1f4012" status="none" />
+		<rom name="maps\bcatcher_high flying.map" size="13718" crc="d31314aa" md5="bca26ecf65c12f877cc16b3e4399f4ee" sha1="0127bb798c24b44f8f52e4a91369162723dee3cb" status="none" />
+		<rom name="maps\bcatcher_vanilla dome.map" size="14161" crc="c6038de4" md5="8a79f366cb4762f33dfe6a654f5be5d5" sha1="fa9bc94aaed9de79640ecb776e9f317fc0986758" status="none" />
+		<rom name="maps\bcatcher_yoshi island.map" size="13866" crc="bcb835b4" md5="371d7f96898b16f456ae50ad99d073ec" sha1="a7a083d1b1847e1e80530f01544054107def087c" status="none" />
+		<rom name="maps\bobmanperson_icy hills.map" size="14426" crc="b1ef2f71" md5="7738fa4a72e729fd0f649c8dd461a2cb" sha1="23714f96c90b5fac1b8741c2323243b22862e939" status="none" />
+		<rom name="maps\bobmanperson_matmata.map" size="13999" crc="9b38d631" md5="db20c1475073e53432e522cb5745a2d9" sha1="6c338be1564fae34a7dd50c47d0bb4bdf705b8b0" status="none" />
+		<rom name="maps\bobmanperson_wood.map" size="14240" crc="b6044862" md5="0bf8d55746f687a6c1d11bb335cd3efb" sha1="7566dbc8560efa94607aba8df83f33fcbd2d34e6" status="none" />
+		<rom name="maps\chaofan_classicon.map" size="14157" crc="7edbc75e" md5="c329cba525b3d153536db397cb3c60d1" sha1="0b838e9dbe4d2e46781b23fc3e9d4ad2bae5e439" status="none" />
+		<rom name="maps\chomp_chomp beach.map" size="13990" crc="c9f97ef1" md5="d516b2897a6cfd6b5b0bd4a2d886e091" sha1="307761fc0e07e216945a3eab67677117a9e454a3" status="none" />
+		<rom name="maps\clark_hidenseek.map" size="14964" crc="d0e4e39e" md5="c25158c6cf7f104883a8afc373ae8c84" sha1="a9b926d1ff786143580fe3cf3c010638b4b90040" status="none" />
+		<rom name="maps\coolman13714_ghostly madness.map" size="14261" crc="6af6ece6" md5="26a5fc3e4c0fb292867e6061dc343422" sha1="b2b715f76a367e935bbac50749abf13c53592380" status="none" />
+		<rom name="maps\coolman13714_green greens.map" size="14040" crc="1d43549a" md5="6abf445f5b1041ccc520f60e8cb53ed3" sha1="819ba22eacdc7ddbb73c5c4de6e8ea949adbd6a8" status="none" />
+		<rom name="maps\cristomarquez_abovethedomes.map" size="14086" crc="c2a69bef" md5="91733b3281f7e67557d52ca06f687322" sha1="703aa7c1982f12c8e920417a2a060fc2687fc6e1" status="none" />
+		<rom name="maps\cristomarquez_colorpile.map" size="13766" crc="f90d3a34" md5="90354dd6f087b9fc725d07f9e9166032" sha1="1af650f705629ff618fbb9e2b1302db1e3218014" status="none" />
+		<rom name="maps\cristomarquez_darkrock.map" size="14345" crc="e3dfc6c6" md5="02ed927f3fc558ede3f45d437a3f2f55" sha1="71c4b7f1818bf67094ec692f132a5a98be99b3cd" status="none" />
+		<rom name="maps\cristomarquez_doublevision.map" size="14987" crc="8337d346" md5="7916d85c422927ed61315074c92b6edc" sha1="3354e4c363e06f0efb33fd2cdf13ab4d48cd7f07" status="none" />
+		<rom name="maps\cristomarquez_fortress.map" size="14872" crc="4550d4e8" md5="255bcf0aa7ef0736b7f8666bb9056dab" sha1="168d24357e7e06187356f4d5abf4a592c0e2eafe" status="none" />
+		<rom name="maps\cristomarquez_ghosthouse.map" size="14481" crc="77a5c1de" md5="4279b217e802c8775a043e7e8064cb71" sha1="504001e8ca46afaa62d7ebcd71e650a0290228d7" status="none" />
+		<rom name="maps\cristomarquez_greenhill.map" size="13656" crc="1111256c" md5="7c8ac933d1c6a0748950e7ac7dfffd0d" sha1="95c96a05e80f6e6c08a8569ff93c8057cdb59309" status="none" />
+		<rom name="maps\cristomarquez_icecube.map" size="14631" crc="276f69a2" md5="34526b38c3db2bddc9cc9e8571e54a80" sha1="d381eb51e8765f2b3ffa4bceff6060675756813f" status="none" />
+		<rom name="maps\cristomarquez_indoor.map" size="13637" crc="37da1804" md5="92d427a8769025be96b2236900d7cf6e" sha1="1b8c26bf9de8009aabfb03ea4bf365f7ee503d71" status="none" />
+		<rom name="maps\cristomarquez_pyramid.map" size="14496" crc="7b182cd6" md5="90e6fc9a97f9481a268d71eb66116d3b" sha1="2a73139bb892943426220d320ef039c02806530a" status="none" />
+		<rom name="maps\cristomarquez_skyfortress.map" size="13958" crc="78fce7e3" md5="67460a7676504ed9556cb941f01a44fe" sha1="7a3b1f68832b3d5733150e9229f0a8ad7778a4cb" status="none" />
+		<rom name="maps\cristomarquez_valley.map" size="14868" crc="9794bbea" md5="6a8501df123222bebd6d4bcc1e4dc342" sha1="44ddbbd6b1af2fca5f4efea6ceefc79193f54c45" status="none" />
+		<rom name="maps\cristomarquez_warpzone.map" size="14144" crc="247adc19" md5="913c40abfd4428816fdafa9902a3bc3b" sha1="de75df23ddf59f99131d73c813222289613e68c1" status="none" />
+		<rom name="maps\DaSpadger_GoForIt.map" size="14397" crc="6b9d2a04" md5="11c8d9f67acf23797243ad0a5451da2f" sha1="d552f480f182002c6ab514714c8758302e7e8a92" status="none" />
+		<rom name="maps\eeliot_not so cave.map" size="14133" crc="f3c3a63b" md5="8f93e8fd1fb78e371609d57a1b660503" sha1="4c42f3622af2b2b9a37a6dbe8422137c607fe887" status="none" />
+		<rom name="maps\elude_aztec.map" size="14025" crc="3fea53df" md5="850f6be7b78311846b11a3c56af19eec" sha1="7a03c6d0c5d7d9c73c8ce76903865555b32dd40e" status="none" />
+		<rom name="maps\Fu3lman_mbc.map" size="15177" crc="bf0b7e84" md5="c350e356c320361aab5887856ea5bda4" sha1="89ef3f7163167576216d1abdebc62019a3bc8b6f" status="none" />
+		<rom name="maps\gki_castleout.map" size="13877" crc="2cd2cc2e" md5="597da88d6f752dc854391f20f0e836ad" sha1="d007e95a636e8701a10dd97653e60fff8445da88" status="none" />
+		<rom name="maps\hazey_Bubble Bobble 2.map" size="13357" crc="cdab1a3d" md5="0adad104e2d2eb081d763be87246f982" sha1="5289a0cf1e0634f6576c088b4e44341a58555a40" status="none" />
+		<rom name="maps\hazey_Donkey Kong.map" size="13468" crc="10719d5d" md5="715ad3dee6a5250045de706b646e0c6c" sha1="e5f68dcdd4f61d61e518d973e448d80623b5e91c" status="none" />
+		<rom name="maps\hazey_Iceland.map" size="13759" crc="69c5e3cc" md5="00a2d90394da242a77b869591c32a23c" sha1="053d0d8f01134958260041417c97a0e389b424c9" status="none" />
+		<rom name="maps\hazey_Jump n Bump.map" size="13892" crc="91c4a2ef" md5="6473c5af444046b026b66664d47ffb75" sha1="f0f3655171a044280892bc59178b5627e2e2b76e" status="none" />
+		<rom name="maps\hazey_Lava Island.map" size="13802" crc="ca75ae1a" md5="9549eea361f8d509ae606a7a7e498ede" sha1="77a6a0f35f382e53e630372ca1de193f27c8b4f5" status="none" />
+		<rom name="maps\ikill4you_king_of_the_hill.map" size="14117" crc="f722cf44" md5="03f6c9afec75eb748dd281f747468ad9" sha1="5b28831a1481b7f6f34cc6b68580c080e9f69a29" status="none" />
+		<rom name="maps\j rok_allo.map" size="14078" crc="383fd8cd" md5="204d5303de38e8a0d5ba8389a92c3c3c" sha1="8a4c7771a6623afe58344c7fb027bd92a6cecb72" status="none" />
+		<rom name="maps\j rok_asinine.map" size="14081" crc="32bc9d95" md5="bb7c23c82fa39b10c2c1ba7698a314ef" sha1="125901a550f9fe4c81765b6f49fbdc550e6f9c47" status="none" />
+		<rom name="maps\j rok_begging for sumo again.map" size="13997" crc="003b227d" md5="4368b724298f448f40652ce560e847fe" sha1="2b3494ddb41de7c65381a05356fb99db4aa58b96" status="none" />
+		<rom name="maps\j rok_begging for sumo.map" size="14070" crc="d8e97c08" md5="18270047ecfef8cbae23d341e6f028e3" sha1="32e9af41b73f2cbe802a7d1dbe3082f15a6dddbf" status="none" />
+		<rom name="maps\j rok_bring a towel.map" size="15054" crc="ce84fb78" md5="3aa36e81b5384e357b46d6378498299f" sha1="5cf63c92d53b0d8adaeff7f9a2a0e348d7869165" status="none" />
+		<rom name="maps\j rok_circuit.map" size="14188" crc="3619e835" md5="c3d13615ce18066dfde613431afba1df" sha1="0f4b479db7f62044473c18c602f57070272f1aa9" status="none" />
+		<rom name="maps\j rok_death to iggy.map" size="13703" crc="cd56c5ff" md5="947d17a0ca1b097d6b29a4ebb3947d95" sha1="7b45420bcb264d5bd1854c71f1ff1132708b9b14" status="none" />
+		<rom name="maps\j rok_divine intervention.map" size="14022" crc="eb184077" md5="44737ceb3c71d4f3ab669db204ffb0af" sha1="1fe6aae15e49c902abbba9081b4967e704822fab" status="none" />
+		<rom name="maps\j rok_doubledown.map" size="14057" crc="bc35b853" md5="c2f09fe4e375c19cfa5bc5b0c92fcbb2" sha1="234bacea53c0babe3662d383d96218dacc1054f0" status="none" />
+		<rom name="maps\j rok_fastlane.map" size="14078" crc="4c6752e9" md5="c0078aaf85d748431ce041f044fd2531" sha1="cbca45e28aec60d54d650aa41738d749f2cebca2" status="none" />
+		<rom name="maps\j rok_gatekeeper.map" size="14500" crc="d22dbcfc" md5="f7a569700983b39851bee0e65a55ee29" sha1="713aabf68af6713a36bb87f3e8c55a427ce63e89" status="none" />
+		<rom name="maps\j rok_hanzou.map" size="14310" crc="839dd0ed" md5="46b4f178f0cb770d79571bab9b40fe6d" sha1="30bab9fb66d7964030349f39a37dadfeee50a6ad" status="none" />
+		<rom name="maps\j rok_humanitary.map" size="14686" crc="c31be13c" md5="38a8581cd13b9025fadaf279ce00921a" sha1="7115b80e015fe1e29e8e611e57ce8e43eb4919c3" status="none" />
+		<rom name="maps\j rok_inebriation.map" size="14246" crc="d4a3fcad" md5="b4777af1ec452f9b31eeaf4d3b90003d" sha1="6992a97185b2784f722257f0005cb187c70ab681" status="none" />
+		<rom name="maps\j rok_low bandwidth.map" size="14800" crc="4e6eb6af" md5="f88f14499d2bb21be1238cb7caaff54e" sha1="492558ccd398755c5b975c74e7f442f32404c56f" status="none" />
+		<rom name="maps\j rok_quzza.map" size="14062" crc="4e9d004f" md5="3fcad6a6b32c7841f1146e6ea1ff19fa" sha1="bbc544a4cb8fdefb65937db94663a6f6170cbab7" status="none" />
+		<rom name="maps\j rok_salty dog.map" size="14154" crc="581301d0" md5="990a20ff6926ec92d6c7ebc4ed5d21b7" sha1="69e286aeeb198705c2b5259636eb1869382d3f79" status="none" />
+		<rom name="maps\j rok_toshinden.map" size="13803" crc="fc3586c2" md5="c773500b32cb15d9b4991919d8be2156" sha1="2300deba682b276d9e9b6ecb3b51729d4ee146e7" status="none" />
+		<rom name="maps\Jacobthehero2006_battleblockarea.map" size="13726" crc="115d8c22" md5="b652c8981dc3c4d274b57c3e65e573d7" sha1="730bcd1f77d9c0b9f7051d9f97bfc90d1895db80" status="none" />
+		<rom name="maps\jhero_blockfort.map" size="13477" crc="752416e7" md5="b619ed4cf1e26cbd4dc27a003ebe6ff6" sha1="034eb8429fedf5a346d7bca1c6266b88e8be9673" status="none" />
+		<rom name="maps\jhero_look_above.map" size="13917" crc="bbb8b8ba" md5="5851b0d8c453bc1f56706b0c9a8b75ef" sha1="4065954c48e9e5548743cdc62da4368c437b9c0b" status="none" />
+		<rom name="maps\justinio_lunar.map" size="14798" crc="41518598" md5="7eb17b776e2ce17645f5ec192d7c480f" sha1="7c497189c84369fa620e884ad1113e4be8d44dbb" status="none" />
+		<rom name="maps\justinio_pipes at sea.map" size="14302" crc="ad462aec" md5="ae540759b385d44b4d760a6f0799e1d4" sha1="09da47775933c6d09ab288afa8e714ec99492ce8" status="none" />
+		<rom name="maps\luigifan_cactus canyon.map" size="14418" crc="d99d5c21" md5="272d01d13fc471050065400f0dfaf448" sha1="dd196ab9b7bed64f2b65501c1b37d9bca5f6c25d" status="none" />
+		<rom name="maps\max_greeny.map" size="13564" crc="91d88b0b" md5="d4b2ec0fb756f1c7282b0e440b7d3073" sha1="8bd9dfbd367d3f1a7a3c9095f919f4a7b95e5eef" status="none" />
+		<rom name="maps\mm64_as seen on tv.map" size="14399" crc="c3e6ab3c" md5="99c13ca822b5f5c31680d2f40574aa5e" sha1="8c8d6eb920078e577ecc8b268ba6ec4fd4c636bf" status="none" />
+		<rom name="maps\mm64_dottedplus.map" size="14445" crc="ee2eb7c0" md5="e3cf67d6565f98fdd7bef15fcc39122a" sha1="7c375ec6211a3c9e320d4c527cea4ce10327eb64" status="none" />
+		<rom name="maps\mp1_above the clouds.map" size="13517" crc="15998e1f" md5="2eebf92349310bda6074daba9837af29" sha1="8961ef279bc1ff56cce1742dbe3553f66b8c7142" status="none" />
+		<rom name="maps\mp1_bottle.map" size="13837" crc="2576b7b5" md5="83ec20b7d596f8aa9088d88efd42be5b" sha1="20932479e2a5d0ccc9ae75d581dffbe4146191bd" status="none" />
+		<rom name="maps\mp1_double-t.map" size="13917" crc="9f7bc4d7" md5="a13d11c34e2dd66cc4b063ab16aed3ae" sha1="e2360032864c4bccc68bc5ed305dc5f2140cbdb9" status="none" />
+		<rom name="maps\mp1_hard to fly.map" size="14200" crc="a70d6734" md5="affe0023a486753e6f71c18975c6cfe9" sha1="c628f079a47cb8632e18705148b676357b68c2e1" status="none" />
+		<rom name="maps\mp1_hello world.map" size="13717" crc="28bb02da" md5="ebe790a0ed619f39a569e7d2d1a7a9ed" sha1="982982a717f601bdd40e9bbd3261ba05cbb95488" status="none" />
+		<rom name="maps\mp1_iron.map" size="13958" crc="43817d9f" md5="7f4bad72cb2b02b38a9a1d5a3c6e6b73" sha1="d79095a5f845466389910c8e31c3a83c4b8143cd" status="none" />
+		<rom name="maps\mp1_quarterblock.map" size="14092" crc="79cb6afd" md5="c69e664cd544dcedd639becc3a530485" sha1="631440c878922fd90e976d2c985f2e27ff00d5e6" status="none" />
+		<rom name="maps\mp1_sky realm.map" size="14038" crc="48a5053e" md5="1f10044bcd98a62905e3b551d5ea4b33" sha1="720293917f7271ea826f248c259ddf4ad1006f93" status="none" />
+		<rom name="maps\mp1_staircase.map" size="13930" crc="2e121260" md5="4e51b4bc28eb7bec99326ea4d55054c1" sha1="b3fbe476e33585a9236c8bb02dd46daef03a0522" status="none" />
+		<rom name="maps\mp1_synchro.map" size="13680" crc="1d088239" md5="1a5cb7845d8fcfb48e3f97e241a4e9ea" sha1="7803c1a21e910fc8587f16f9bdda50571504a12b" status="none" />
+		<rom name="maps\mp1_the 10th.map" size="13972" crc="98d7b496" md5="3ba7682be3f8ac4e404a63f2ef7c4c8f" sha1="36270af574cc64be8d18ea2dcbf8421f1565cd19" status="none" />
+		<rom name="maps\mp1_white ground.map" size="13798" crc="d24e410c" md5="9877e449ae9b729455392b728e528bca" sha1="90c8e66d544da5891d2487e128241a99194d436b" status="none" />
+		<rom name="maps\mpinger_cliff.map" size="14007" crc="752d68dd" md5="cb295c130299721704b3445826c52107" sha1="7b213883489e9ad4776f3496c12f28324d45eb87" status="none" />
+		<rom name="maps\mpinger_risk.map" size="14081" crc="79041e67" md5="f3daeaa08e6e1403e7df87df124e7035" sha1="54ab5db255544ec698d8253aa1e2e989eb0195e8" status="none" />
+		<rom name="maps\mpinger_subterranean.map" size="13946" crc="cc567a57" md5="b3d41a3a156e0c3477e197340746638f" sha1="34f62f78ccbf789a8ac2936c9ed665a964003bfb" status="none" />
+		<rom name="maps\mpinger_toadstools.map" size="14353" crc="ee561dc3" md5="d90c96195fa27b27fa8a9bd961874c93" sha1="abc0c4aa2f5ec3a3c4858608c07b6d906513eefc" status="none" />
+		<rom name="maps\mpinger_torch.map" size="14514" crc="b3caa3e4" md5="62fc8c46137d22fb5edde7de3e8fb6a6" sha1="bf396774cdc546e80cd4af796758e7168b4185a3" status="none" />
+		<rom name="maps\mpinger_tunnels.map" size="14240" crc="63d8c87c" md5="c2c5e4c8defae307dc2f1194e0cd9ab6" sha1="97511101e7dfcc18d27352e270719cc9a2f25cc4" status="none" />
+		<rom name="maps\mwtk_Gold.map" size="14084" crc="fe155cab" md5="733cea2f6280b542066ba647bfd03dbf" sha1="437a50a23f8b50147ad135a45f93d296cf66ae9d" status="none" />
+		<rom name="maps\mwtk_Hoog.map" size="13478" crc="f1612bb8" md5="338fa9f0f761d7b11fbac8eb0e812ffb" sha1="24d8e52f7ce4895a65a73ada3c52ea3508a39e8e" status="none" />
+		<rom name="maps\mwtk_symmetrical.map" size="13372" crc="7a36308b" md5="f924c6c332ab31a246ed40dbec45f4a6" sha1="45022a6720d8e0bf70f960286099cbdf32453d99" status="none" />
+		<rom name="maps\mwtk_Van katoen.map" size="14078" crc="e5e38104" md5="de68ac5c9fed023b56ab0df3f11cf736" sha1="d302c475e23030e4e4bd14dc41214aedbd4a91cb" status="none" />
+		<rom name="maps\mwtk_WhiteSky.map" size="13492" crc="88e387c7" md5="314097f25b4d00c4acd58081b60119fc" sha1="5bf69a0470413cfb2e84f6e9c3cb3826773b3149" status="none" />
+		<rom name="maps\mwtk_Wolkje.map" size="13732" crc="87ff8d3c" md5="69e438ced0ae09eaab794349aa6c2cd8" sha1="67fc1bc7e433aae36201c47ded501c962bfc4966" status="none" />
+		<rom name="maps\nitsuja_pillars of glory.map" size="14121" crc="8e25655f" md5="9742a3e2d74606552e27e71828ce105e" sha1="8da22a745d20312757102e049fe168c5aed30d37" status="none" />
+		<rom name="maps\nitsuja_pipestruck.map" size="14159" crc="97a2d919" md5="45c40262881e11dd1fa3ecc6cc48ef72" sha1="54e2c711ad95043f249f6ad95827ba3307feff30" status="none" />
+		<rom name="maps\nitsuja_reznor pit.map" size="13982" crc="14395b95" md5="91dcf1203671a18dd579b0b0aa10af53" sha1="7ba4b2d289cee6a42bf1e505f017bc1cc5c883b2" status="none" />
+		<rom name="maps\nitsuja_unfeeling.map" size="14197" crc="9d0e88b0" md5="ae763c2db9c7fa0e0e217b1e690a76d4" sha1="f84a6652981ac3661e82b5a3e7363a1dbdaf4b4a" status="none" />
+		<rom name="maps\nitsuja_vanilla sky.map" size="13846" crc="6930e867" md5="1c37aa0644af4ab61bf2cfb54091646e" sha1="7621f0024d1f729f51e064deeb9284990f6d9b3e" status="none" />
+		<rom name="maps\nitsuja_wildlife.map" size="14080" crc="89393d6f" md5="75650eacc47d0bf3313208098c4da452" sha1="87b693bac678f9975d7968c0100ec4025cce189c" status="none" />
+		<rom name="maps\nitsuja_wings of sand.map" size="13878" crc="c3b041cd" md5="930f209d03f3fb258492c105ae02f90d" sha1="94f12a720a70c63f67b8bdd530e944bdc3e2d9eb" status="none" />
+		<rom name="maps\NMcCoy_1-3.map" size="13554" crc="f4269f5f" md5="0c5105e7ccab1d01020fdedebd6d030f" sha1="ec134a7e85446bf0746063eaa6a2c37eebec1f5f" status="none" />
+		<rom name="maps\Peardian_alinos gate.map" size="11112" crc="15110c67" md5="3cffa460ebf1f3868aba524083dd3637" sha1="38171301633e7761f4c99c7c313915238c33dabf" status="none" />
+		<rom name="maps\Peardian_arcterra gate.map" size="14395" crc="f906ba31" md5="c211203fe462a46d6b658fcb0fdb7574" sha1="04ae05ef59162953d5ea1312bcf035ced6ddf55e" status="none" />
+		<rom name="maps\Peardian_dare.map" size="14129" crc="a1bed677" md5="acaab1d8fc126b0523cf39367a5b61e1" sha1="ffa98f78eea3fd3035894d1cdb4fa3941c6e14a3" status="none" />
+		<rom name="maps\Peardian_Frozen Frenzy.map" size="14037" crc="44d5148f" md5="dace507005e9358b548c7127f42f42bb" sha1="5741124f80c2708b9822f6e8f9937214af7e0313" status="none" />
+		<rom name="maps\Peardian_pianta village - village.map" size="13516" crc="3983b46d" md5="8a4af6c5dace7419ac285711ae066996" sha1="101d8e669fc0a1a6e4e951f0df003dff5f246fe4" status="none" />
+		<rom name="maps\Peardian_snowball fight.map" size="13660" crc="bb31cad3" md5="749745c17be6118b494881e9f36f40f6" sha1="d842502debd67fce7f89bbc1b3664342c7e26c76" status="none" />
+		<rom name="maps\Peardian_subcon.map" size="13425" crc="fd3e80fc" md5="bd20eabad69ab30b468078a69d0841ba" sha1="97ed2ca3bd77f8f31606ace5a9c71b9069b1e5b0" status="none" />
+		<rom name="maps\Peardian_underwater.map" size="13801" crc="90c7321e" md5="a40d1f8aaffa64884af3292f4bc06e8b" sha1="99de60fc098e663aa2670e5a6e02be35e5f65abc" status="none" />
+		<rom name="maps\Pikablu_Mushroom Kingdom.map" size="13784" crc="24a162f6" md5="3c39ff74dc119e94d5bd9484c35a7fde" sha1="74d13b092540cca266f12c59df560b4dcdbcdb7b" status="none" />
+		<rom name="maps\pikawil_Battlefield.map" size="14202" crc="aece061c" md5="cb3a52af243aee02a3e99294ff56b40c" sha1="2ce7c74c40ac9a9e47abb9996cde595d7f15ae36" status="none" />
+		<rom name="maps\pikawil_Double Sting.map" size="14606" crc="385ef0dd" md5="3a3a6ef931bbc9bd340963c552880b03" sha1="27287a618711aedcb516e1bacd0df4f6efd0095d" status="none" />
+		<rom name="maps\pikawil_Fountain of Dreams.map" size="13762" crc="b2a2c2e5" md5="bf6df23b5f7dafaa561f506393fe169c" sha1="6f53fbade687f35d150e190f41ca895bfada214c" status="none" />
+		<rom name="maps\pikawil_Hyrule Castle.map" size="13642" crc="a741d248" md5="7f957a44f99279fba8330e207c939541" sha1="ed917c70946a3eb54f7fac88ebd99adcd6424135" status="none" />
+		<rom name="maps\pikawil_Jungle Japes.map" size="13634" crc="bf6dd5f1" md5="856d2c4a1bc1524819a25838688fbe07" sha1="fd394dabc7c593dde89139c5ba2b65654d5c2a3d" status="none" />
+		<rom name="maps\pikawil_King of the Hills.map" size="13803" crc="b8796a0a" md5="60046a1c2780bc2e8b2233692ea75e05" sha1="9106b8c74590e8f29530a2f514ab1803c0f49750" status="none" />
+		<rom name="maps\pikawil_Kongo Jungle.map" size="13560" crc="fb5581a5" md5="9f205ecd5d6eb875e82bb6f5bf3f801c" sha1="eef53e99af043323e53d2b0e9051d9569cdd221b" status="none" />
+		<rom name="maps\pikawil_Onett.map" size="13557" crc="8afcfa93" md5="0814e05c4a5ecf883f99397e6b6398c7" sha1="16d6f4f9ee06b3b35dfb28d2d5a124ba452b417b" status="none" />
+		<rom name="maps\pikawil_Peach Castle.map" size="13850" crc="75cb1598" md5="054fb54b100f6ecd7968c08867d61917" sha1="7fab4428c073db4ec3370415b72650391c4a9864" status="none" />
+		<rom name="maps\pool_what.map" size="14044" crc="726388dc" md5="89086d259f445cea18a3fab1088a095e" sha1="45ad8d022970692ef4381841fb4e634ffc79a6ff" status="none" />
+		<rom name="maps\Sgraff_Bewarehouse.map" size="13930" crc="f2b86c46" md5="298edd840136612324e88ab342134426" sha1="5b89e49d54460b9642151d7cfb199e40647a50c0" status="none" />
+		<rom name="maps\Sgraff_Big Tree.map" size="13881" crc="580ae05f" md5="a9396e50fb6005fdade1624990fe1744" sha1="df7ba713aa563561f20b3d76fc0151876fc0bd4c" status="none" />
+		<rom name="maps\sgraff_Buster_Beetle_s_Tower.map" size="14368" crc="f1435a69" md5="22086960b9d95c60cbc9e3cd74bd84af" sha1="9588a9e0b521ae082157cbd19d61ed6e4a5d05e8" status="none" />
+		<rom name="maps\Sgraff_Haunted Temple.map" size="14024" crc="a1eb12cd" md5="3ca24d70463aeeb4f8909cd85a227539" sha1="5a58f112c74c9536ea5de11d280d69c31e85b258" status="none" />
+		<rom name="maps\Sgraff_Peach's Castle.map" size="13986" crc="ed67a6d7" md5="889d11642047371cb17bf61009f9b281" sha1="1a0d8735b97d71f68c6f3863889d6d3350386ed9" status="none" />
+		<rom name="maps\Sgraff_Skull Depot.map" size="14059" crc="3620d843" md5="dc7f202f3a0476a4f8cfb5e9c1d2127d" sha1="aa6192298549a853d34e265df40a002ecd41f780" status="none" />
+		<rom name="maps\Sgraff_Storage Building.map" size="13603" crc="4c144aba" md5="f195bc18aca531f8229b9cfdd548451a" sha1="0e0a7bf18a3637f308c83a9d501aaa756f5d9060" status="none" />
+		<rom name="maps\Sgraff_Wood Pit.map" size="14208" crc="af38d01a" md5="167a0ad118ceaba20ea2aef1b79bb5a3" sha1="f154fa065269a40d424f6fbb9a3d1f687fd4cd34" status="none" />
+		<rom name="maps\SMW Fan_crazy castle.map" size="14716" crc="dc956fd5" md5="71821e87c55006d06dec4a6552fc1bad" sha1="bd21ef87363c27922e2cc9832f3a2b4167157552" status="none" />
+		<rom name="maps\SMW Fan_crystal caverns.map" size="14901" crc="3634f072" md5="8d61aa11b971c83765bc654347e4afeb" sha1="5e8c842572652862f08ce71a7e0ac989cf055170" status="none" />
+		<rom name="maps\SMW Fan_shipwreck.map" size="14814" crc="5b818038" md5="06f17f03485cfe3b42ed89a141dec4c7" sha1="4884aedb4f2530300b3036c03fe86d11416a7f34" status="none" />
+		<rom name="maps\somestrangeflea_dropouts.map" size="13634" crc="c728a83b" md5="6447a154adcdb0c6b2b33ce6ce2dd7b6" sha1="65c23026d3c63c514045433e429f8172f12f815c" status="none" />
+		<rom name="maps\the errchenator_cliff tower.map" size="14436" crc="3c834c4d" md5="4c6f1b449531543436c4be4f311b6fb5" sha1="f2c62d15668ce5d16316c66dd448f3dc665b315f" status="none" />
+		<rom name="maps\the errchenator_crazy dungeon.map" size="14119" crc="bbe77ae9" md5="e1d76835279b5a7e0ddc6e2666729bd5" sha1="90f87f397c78adea91e5a8c2bce6d9db091ab5e5" status="none" />
+		<rom name="maps\tiechiman_yarg.map" size="14126" crc="d075810c" md5="43872934450a1c02b8db14293749a047" sha1="c3f17db2699330798f7aaf53273955ad1e7f12ea" status="none" />
+		<rom name="maps\tileset.tls" size="3840" crc="776eec21" md5="e9fff1c0d689f7d70dfa77062351fdfc" sha1="86c1a4e19aa42907155d847013b2ab40d885fe3f" status="none" />
+		<rom name="maps\tubesteak_coolnights.map" size="13883" crc="025a8ac8" md5="1d4cca41aa079c75c059e038b40438e8" sha1="f97ca47849c4c578e8466109d7fdde826979f21a" status="none" />
+		<rom name="maps\tubesteak_dkjungle.map" size="13804" crc="7591cc8e" md5="beefc7419d340ff8a12ed600db41f169" sha1="049ef6f5ffd30b4d74fb993d6830ded9b19c83f0" status="none" />
+		<rom name="maps\tubesteak_dune.map" size="13998" crc="c39e59ac" md5="d6860060b2a290f8915da575f80631ac" sha1="7e9da10ae190fff534da63517876e98d7ed799f8" status="none" />
+		<rom name="maps\tubesteak_icecap.map" size="13999" crc="bef067d5" md5="98dabd3c82bb447924a05014e8cc49c6" sha1="7e3b6688e011a71bc61817e88c93660d1f0c4436" status="none" />
+		<rom name="maps\tubesteak_lockout.map" size="14486" crc="f8fdd72c" md5="027402ed9201f8709cf6906822def97d" sha1="833d30c0aec51587e35281c3f1f58275fdaba9e4" status="none" />
+		<rom name="maps\tubesteak_mountain waterfall.map" size="13990" crc="e044a823" md5="bba5a0a9490a75a3f50bd264611d3399" sha1="04cea9f6dc1d8668cfc50f875a057c1ff759fa9b" status="none" />
+		<rom name="maps\tubesteak_mushroomkingdom2.map" size="13659" crc="1cc1b427" md5="6dd47846d058dba6b18215ddab7573d2" sha1="7cc761b426c27113cafb1a42997b2f0d168c5f04" status="none" />
+		<rom name="maps\tubesteak_piemont.map" size="13972" crc="dd46d005" md5="8038b7124c7f698e0b8fead92f0ad738" sha1="cd5707f1be04792f62ea5e6f893d0679f1231426" status="none" />
+		<rom name="maps\tubesteak_rainbowride.map" size="14210" crc="778eef29" md5="f50a746e07ce1cef3d65e38d43f87862" sha1="ed06e0b7167ab4270a4f7932ff8e90f5ca98cb07" status="none" />
+		<rom name="maps\tubesteak_shipwreck.map" size="14102" crc="01159aea" md5="40850cead7482c2c617e9588820a57d5" sha1="5be5e2ca695c270e211c299c021982609dc2cc87" status="none" />
+		<rom name="maps\tubesteak_skyhigh.map" size="14318" crc="7861fc10" md5="9214d5f99a8cf062d0c8628a1c9bd079" sha1="cd38243e0e9fb63425426a0ac739b01bba40409e" status="none" />
+		<rom name="maps\tubesteak_ssbmjunglejapes.map" size="13829" crc="5451af20" md5="03ccc67e48991652b3c26c0031af34aa" sha1="dc372a822320243e6773d07d4d036ac7935ca988" status="none" />
+		<rom name="maps\tubesteak_thecourtyard.map" size="14038" crc="1dd33ea7" md5="f2664d9b44e1c127b40b95ab417ac9aa" sha1="74717c7b37dc6438b83b8629d59d0757f6be8ff4" status="none" />
+		<rom name="maps\tubesteak_treefort.map" size="13891" crc="dc93ea99" md5="325fcd2111bd530b892ac110f62cc8b7" sha1="11f3c04aa935c2667ead9ed79af36170e895b58e" status="none" />
+		<rom name="maps\tubesteak_yoshisisland.map" size="14014" crc="79ee651a" md5="45cd1962c21ad57a2bcca2a824091c29" sha1="226622c53517788f44cf05cd092de17c780a8f4e" status="none" />
+		<rom name="maps\Tunnel.map" size="14441" crc="1801b4d9" md5="9b774233a8ae77a6ac6146733023cb1e" sha1="59a3750a41d3dbb74f344e868c5b53bb758ebfae" status="none" />
+		<rom name="maps\two52_breaker.map" size="14140" crc="5c786f09" md5="3cf208d9a05f1315b81cef5df241d565" sha1="2f8c1284ab415e2a4ea242b1df57988fd3dee1d5" status="none" />
+		<rom name="maps\two52_cave.map" size="13881" crc="c5ae0c8f" md5="30d2d2aff10ed45aa19b34119d0083ff" sha1="0124b6b3b03ef02387e68f16d269add2d48112a1" status="none" />
+		<rom name="maps\two52_chainlink.map" size="14515" crc="7853f2b9" md5="9528ee1420ee21e73ea28c2758b69a48" sha1="a1344280ba8824313e77464dd4e236754709afb5" status="none" />
+		<rom name="maps\two52_desert.map" size="14062" crc="8bb81c35" md5="42124394495ecbe947024c904866a856" sha1="56fa04da5698d9534d4525e5248968dd6374c7e7" status="none" />
+		<rom name="maps\two52_manor.map" size="13817" crc="a7e5985f" md5="700a2001526b3c36cec467a92c5cbd0f" sha1="cb225571530ee43db1af1292a21fc79640303116" status="none" />
+		<rom name="maps\two52_mountains.map" size="13636" crc="1321b5c7" md5="e3f718f5f79e5d4c79c76a81dec94e8f" sha1="146cf4da070556cf7110b9127ff75ebce377eb4f" status="none" />
+		<rom name="maps\two52_the pit.map" size="14021" crc="1a1c0668" md5="243eed265bd113f445e4e0707748e180" sha1="294508bf535586aaf4b1e90f716e6989f2a1caba" status="none" />
+		<rom name="maps\two52_Up In The Hills.map" size="13598" crc="35270094" md5="26de28b7a1f56875956b64a89501fc69" sha1="b22736e91d4e535c0d6217c6c2946cf7f062f7b4" status="none" />
+		<rom name="maps\username1_elevated.map" size="14599" crc="22c765a2" md5="b0adecf17d437a19f0bec5dca660cd59" sha1="b36f88b2d73b48bc03cf6c2e9a9cf24f38cb0f18" status="none" />
+		<rom name="maps\username1_sunny hills.map" size="14597" crc="40d48117" md5="171d43092b523a96ef983ce7af904b44" sha1="3ca1419424fd5d731404db3380b0ec06f8844baa" status="none" />
+		<rom name="maps\username1_sunset hills.map" size="14430" crc="fd0479b4" md5="5fc56f6ba38bf44e561751be411e6533" sha1="74b83f29aef1c6258b69ca598ee8421c161b3531" status="none" />
+		<rom name="maps\ventuz_bounce2lava.map" size="14357" crc="2d2fc884" md5="54f1c831c3bea6bd337f8d568dc6d6a9" sha1="a0c80a3faeaa75f1de7609444af0ba9b2615953a" status="none" />
+		<rom name="maps\will_blockswar.map" size="13880" crc="24ec7e6f" md5="7112171fc535659e937e65d3b9390e14" sha1="6480751819d1610fc102e6b7d73b31fd566161d2" status="none" />
+		<rom name="maps\will_dm.map" size="13678" crc="4f06d466" md5="75723f4679c972eb78dde5073151cfd9" sha1="c6092c6e7a285073993c766131bc0d73db9973cf" status="none" />
+		<rom name="maps\will_sky.map" size="13372" crc="d9dc3135" md5="e6575e1ea8753ea7dd41fce2393cfc78" sha1="1c404dfa45b62b85a409b1c3044668c53b71b35a" status="none" />
+		<rom name="maps\will_smb2.map" size="14077" crc="5e60735d" md5="e73be5d3b7db485215233c9a3565c029" sha1="da959863854190fbcc34b4564f3e74dc5e8783fd" status="none" />
+		<rom name="maps\will_smw.map" size="14037" crc="d8e58ac5" md5="ffb30c1ba9989c7b4ef533df17b0438a" sha1="f9853fb1a271e19110924d6d58871df2497b488f" status="none" />
+		<rom name="maps\will_topwar.map" size="13357" crc="67988e78" md5="774af1de5dd8da584d4e23c596d0dbec" sha1="0ccfa11671cec0936e7900a4ff2576eb386c91d3" status="none" />
+		<rom name="maps\will_war2.map" size="14492" crc="f9e3f97e" md5="9a7b608ca850210c0cfc1f94993569a0" sha1="3b765643cb9ba7bc3f0c79e17bb957b4c3b218a5" status="none" />
+		<rom name="maps\Xijar_1986.map" size="14446" crc="2a0bcf0c" md5="fe94c33a4f1db911b53c456f4487970c" sha1="a20f2c1c8a82a150d85710fa9d00205444baffd7" status="none" />
+		<rom name="maps\Xijar_Battle Creek.map" size="14324" crc="a7708029" md5="46a31f7dd1c6b76d6a2a4e54bbd9b9c7" sha1="adb2a5c9e7f9a67f5b990a62eb330cf1d359c0b0" status="none" />
+		<rom name="maps\Xijar_Boo is Back.map" size="14390" crc="c9b1e6dc" md5="b7979c45a523858f5081a8a626f2bbd3" sha1="840b62c1ee26cac40ba519862b3e163ee3ca522d" status="none" />
+		<rom name="maps\Xijar_Cloud Garden.map" size="14318" crc="4c9b2ee6" md5="38e96f28a0c895812b6c8bf58619e017" sha1="a5b3756899d3aea56205d4ace9d4fad28df4dce6" status="none" />
+		<rom name="maps\Xijar_Danger Canyon.map" size="14452" crc="77a745c9" md5="b0eceaf81cae1d545c5bda82656af4cc" sha1="544bab124a3113cbaab73233eaa11bf1d193f18b" status="none" />
+		<rom name="maps\Xijar_Death Island.map" size="13766" crc="9bc0f863" md5="bccc6a157da007c3252e975854e28be6" sha1="30b9736ff2436e15e80e9c820c75724dd7ca105d" status="none" />
+		<rom name="maps\Xijar_Derelict.map" size="14517" crc="de8fb4b5" md5="0b93dd77f776b317fc0b2f4e8418e337" sha1="60d329ae4c37fa97a5699f99ae61b52c8713db88" status="none" />
+		<rom name="maps\Xijar_Eighth Platform.map" size="14157" crc="41de638e" md5="d918ced30a68651316c65020c8f4cfc0" sha1="6d25567b792e2d5e91d0d36d80fa2039f11d7267" status="none" />
+		<rom name="maps\Xijar_Greden.map" size="14212" crc="e4ec115b" md5="06ac6f2960109fa9eb09860bef5fe627" sha1="366911b37c3935b2af68068df6da14312bd51f76" status="none" />
+		<rom name="maps\Xijar_Green Hill Zone.map" size="13497" crc="bc23ad1b" md5="5ab1c6366604c414871dc22555d4e024" sha1="d130639098c0475de37c50986135e33477a85f7a" status="none" />
+		<rom name="maps\Xijar_Meadows.map" size="14520" crc="390ae059" md5="506579d1d381fe0bb9a8198339a06f25" sha1="a498a8c1f4136247a63c191430f84439c4b8888e" status="none" />
+		<rom name="maps\Xijar_Rat Race.map" size="14766" crc="1453a03e" md5="e0758a4b26b0fcd1c09c80550b9fbd7e" sha1="7b018bef02be1c59d79094450a192a0578ac9735" status="none" />
+		<rom name="maps\Xijar_Sidewinder.map" size="14015" crc="5d48c283" md5="7c4773f3172b6183cecdddb91b6aaacb" sha1="5d7fead65fd0bfb705ac4c82142e4f9e09c6caaf" status="none" />
+		<rom name="maps\Xijar_Timberland.map" size="14420" crc="e6c20ce2" md5="53bff98720d93a6b9442172c931454c2" sha1="dc5cbf271a268d11aaa0f9002bc11f65b1fd2a5d" status="none" />
+		<rom name="maps\Xijar_Tresspass.map" size="13897" crc="f0fd1c25" md5="56adda8585700bef29a05d042d974fa3" sha1="4fd0d9755eae022b00c977e8a36c7bb4e847d660" status="none" />
+		<rom name="maps\Xijar_Wonder Winterland.map" size="14799" crc="917f91cc" md5="0535d2ae18bac8ecb57b80839612a740" sha1="65166339dd174a55515f473e235298393d91f9c8" status="none" />
+		<rom name="maps\ym7_castor wilds.map" size="14016" crc="cb139065" md5="d0b82967cf3d4f87556d38dd71634c32" sha1="cdab08de3c0d6e22a6c475f1c325ca3970a7891d" status="none" />
+		<rom name="maps\ym7_inertia.map" size="11396" crc="49e6079c" md5="1cefa94253b74c807d504dfd9a995b8f" sha1="84bf7e644a652bd6987e55c1ef351d44e3508e12" status="none" />
+		<rom name="maps\ym7_jungle.map" size="13977" crc="f45d0b99" md5="2715afe3c4dd3b6b1868b8c449e4ac0a" sha1="82794775e563acc570b871978b65b84b763c38c2" status="none" />
+		<rom name="maps\ym7_rainbowroadredux.map" size="14042" crc="dddf4de0" md5="7da1014d9e0f916566e827b830bb7e93" sha1="a3887788d7f47c624ee483a8d96b14c26d132987" status="none" />
+		<rom name="maps\ym7_Sky Garden.map" size="14014" crc="47825bc3" md5="6922f063e59fc83b8872ae4466745d07" sha1="3910b1190374965db707e1b4d94901bb65dc933c" status="none" />
+		<rom name="maps\ym7_world1-2.map" size="14221" crc="f937371a" md5="f05f3eddce197ee7b73184f531b02b78" sha1="6bd3b9a9075aa1fc9f3cd50a10bf537cab0deb0d" status="none" />
+		<rom name="maps\cache\0smw.png" size="4953" crc="7a9f585e" md5="ffab8f838f335c8fa565e8102438b1ad" sha1="732c5292d0d09ecb57439a88c4e9f958fccbcee1" status="none" />
+		<rom name="maps\cache\2skyfight.png" size="4346" crc="14087a24" md5="4fbe311fa1bca76e99e3e461c59f851b" sha1="e46a136c6d215078bb4776b47a66a6839643bba8" status="none" />
+		<rom name="maps\cache\3blockforts.png" size="4728" crc="ad813dd6" md5="ee5452dc112742b43c78b706a1222f24" sha1="6f7731f5b30365f31eceabd8afffc1f5d6938832" status="none" />
+		<rom name="maps\cache\4highabove.png" size="4912" crc="19843f51" md5="ffdfe2487815a007cef9d64d9660d104" sha1="596762bee92ef68bfa64d845af6f272cc72888ec" status="none" />
+		<rom name="maps\cache\4matsy_ballistic boardwalks.png" size="6099" crc="9841c134" md5="3567908c77b44056acc76d97ae503a5e" sha1="44da8244e8e93facd0165be8ad92fd0114296915" status="none" />
+		<rom name="maps\cache\4matsy_block piles.png" size="3844" crc="15df73c7" md5="001a376dde63e07d649cdb8eb6a7e928" sha1="2a12987e089c22a04a2bf36853ad1fd72632eeb4" status="none" />
+		<rom name="maps\cache\4matsy_block! block!.png" size="3617" crc="0ab85426" md5="7b8e3feb648cc02c8e4cc11bc83457a0" sha1="e0a6c3cd999743b0576a5a13c185b16a89083037" status="none" />
+		<rom name="maps\cache\4matsy_bouncy spikes.png" size="3699" crc="e1aa13bd" md5="9c4627b4e978cb7e0ac854b1bbbbb2aa" sha1="8d639a7ede570249ca26bcf8a1a857bee548e664" status="none" />
+		<rom name="maps\cache\5fall.png" size="3881" crc="79477924" md5="78577953bc045a83693a9c3374e5a167" sha1="c4ca4a5ea15893874fd4be645c522d8468df74d5" status="none" />
+		<rom name="maps\cache\affe.png" size="4250" crc="09715f76" md5="6c3bb071671633f507d1ff9d766cdfa9" sha1="d551fdf9aecdc7b0ede3ddf46c53c2aed595b2a2" status="none" />
+		<rom name="maps\cache\akruru_breakaway.png" size="3805" crc="83c2fbba" md5="a459243292ba36850c26713d19aec12d" sha1="c6c409a4a3851862ca2b0a7b22787d75612ccfaf" status="none" />
+		<rom name="maps\cache\cristomarquez_abovethedomes.png" size="6763" crc="e3235811" md5="de51cd088d2089673cad9c799319703d" sha1="8549dc0686a0ee2bcfbf6290c948b31a3c799662" status="none" />
+		<rom name="maps\cache\elude_aztec.png" size="7794" crc="2635288b" md5="dc3b75f71737c1262d0ef5539531ccd9" sha1="57135619be3ae14a81d5f8bdb659480b67b66e13" status="none" />
+		<rom name="maps\cache\hazey_bubble bobble 2.png" size="4244" crc="993f0740" md5="7b7940407d8b0ebceaa9bf54a0a595ed" sha1="10cead00e80166dc2b00c9e3c493a8fe7920ab32" status="none" />
+		<rom name="maps\cache\j rok_allo.png" size="2903" crc="b02fa6af" md5="a8700255833239dfdacba7dac85ee770" sha1="6ca5d85185ecbf5bf9e20fb9f088437070641cd6" status="none" />
+		<rom name="maps\cache\j rok_asinine.png" size="3059" crc="d68114f0" md5="a0c098bbd97de5d0fa0eba3257e01de6" sha1="461685f1c2c491ed6d48c6f33679ed763c42c7b1" status="none" />
+		<rom name="maps\cache\j rok_begging for sumo again.png" size="2378" crc="6abed29d" md5="7aff84b2c6a9f834e67aa26d90b06a7f" sha1="4c29cae73853e62920e382a4deca1683795dc375" status="none" />
+		<rom name="maps\cache\j rok_begging for sumo.png" size="6237" crc="f6dd84f5" md5="2f5a2e011b73aabf052c3f7db6669ab1" sha1="8331e736183c5d0ecd800582e37d46817cac08a8" status="none" />
+		<rom name="maps\cache\j rok_bring a towel.png" size="5229" crc="e8399f6b" md5="929ed659fabb7a161cc65a7f86387b98" sha1="82e3a84ef09562f4fa96677d8e93b469811d49c6" status="none" />
+		<rom name="maps\cache\jacobthehero2006_battleblockarea.png" size="2347" crc="a79590ce" md5="2ef1c7653f1e2d89929db85e5f833163" sha1="f5fbfc716cb0019e484a971a2ff5d509d70258ee" status="none" />
+		<rom name="maps\cache\jhero_blockfort.png" size="2315" crc="2663c396" md5="36f4d9fe17d501a166c879cc3b2af95c" sha1="087b9e49079ac5770e818f9844dfc4e56c10e309" status="none" />
+		<rom name="maps\cache\mapsummary.txt" size="6241" crc="78bb82af" md5="47598c8adb238f34e42173a5833d483f" sha1="bb442ae6bb5ab95cedb307eadc2b9bdfdeed286c" status="none" />
+		<rom name="maps\cache\mm64_as seen on tv.png" size="5074" crc="ec482983" md5="e61b3b16323526e2876254d9419e963c" sha1="3a64a88e3a6da5ca5116f45258b41cb3a586d42f" status="none" />
+		<rom name="maps\cache\mp1_above the clouds.png" size="4553" crc="25ccfc83" md5="70b68b55139bdf663f83df776803a52e" sha1="1a0c1a549261ecaa0ebd1712de49fe855aec2b63" status="none" />
+		<rom name="maps\cache\mp1_bottle.png" size="5480" crc="cc9e322d" md5="1e2b30db3e9e3712b080ac01b18080cc" sha1="76e01a01a3c850168235a50ffc11a2f19b339788" status="none" />
+		<rom name="maps\cache\nmccoy_1-3.png" size="4416" crc="55f70ec3" md5="6615f3859f2b270e7b917a7d156f48b8" sha1="0ad7abe31e6bf71faad70cb4403b28386e069a5e" status="none" />
+		<rom name="maps\cache\peardian_alinos gate.png" size="3520" crc="4382a7be" md5="80f1a5a92faa8443fe087b6328cadb54" sha1="a9243c4e9b8caa4a3d0e5c1a4b753062612017ed" status="none" />
+		<rom name="maps\cache\peardian_arcterra gate.png" size="6816" crc="4ecbf30e" md5="4492d7f14ac6df3686fe0ed74118de95" sha1="5f737ef638f28c565cbcdbc2ca05b49353193d37" status="none" />
+		<rom name="maps\cache\pikawil_battlefield.png" size="3073" crc="08cc4c87" md5="858f25eca4fc08ea5f4f964df308d10c" sha1="417949ce54e086c157966c674313c24e74224c4c" status="none" />
+		<rom name="maps\cache\sgraff_bewarehouse.png" size="4749" crc="b65d1e60" md5="0b9d2076dd2409a4489f3f8beffe76e6" sha1="0f1c537a3bd2a82de0bd91e453c146f680017204" status="none" />
+		<rom name="maps\cache\sgraff_big tree.png" size="6894" crc="852de77e" md5="b1d68bcb3b954c8723bec78160fb592a" sha1="6d00f98dd5ff7677040240fc51538084cbcb496d" status="none" />
+		<rom name="maps\cache\two52_breaker.png" size="3176" crc="c1f04adb" md5="f64c48b100e4f1e750148b09b427edb8" sha1="c9c88d2c017a4d6b6206da0785a78f49b26a5b16" status="none" />
+		<rom name="maps\cache\ventuz_bounce2lava.png" size="5139" crc="38c14546" md5="a7f60c52b6a22533167d9cdba42ab710" sha1="e6b19a8cd2e5d3790483584da4201b7b529da2a5" status="none" />
+		<rom name="maps\cache\will_blockswar.png" size="2803" crc="cbeb03d7" md5="186dc43967053e6145ece65fe81f14f5" sha1="f3027a39917c98a287d3cca971467c6f7ebbe362" status="none" />
+		<rom name="maps\cache\xijar_1986.png" size="7236" crc="fd825aa8" md5="6b47d02bbbb32218031c1273ba98deb7" sha1="25eee273b1062fddc5217ad4a44965822a694fa3" status="none" />
+		<rom name="maps\cache\xijar_battle creek.png" size="7165" crc="d43418fc" md5="443997433e3ac7589fd3577c9c781849" sha1="07d05478cae69fb806c755572d2c6ded19534e3c" status="none" />
+		<rom name="maps\cache\xijar_boo is back.png" size="5302" crc="b199bfb0" md5="29c8682dee3c927e0e640f97587a9ea6" sha1="3c312c66a2a840e1e162dee318f846b7c16c850e" status="none" />
+		<rom name="maps\screenshots\Readme.txt" size="296" crc="b98c2446" md5="bba840ae450fcb44ea9ea9d5b8ea218d" sha1="52147a4badeeea372f16d86016efa9ec66a7076c" status="none" />
+		<rom name="maps\test\0fallplatforms.map" size="13586" crc="b4644e3b" md5="58f6708160195652d6835bd83ab552f8" sha1="f7e6a1b2ae7e47e833ce7d829d46e0cca074a670" status="none" />
+		<rom name="maps\test\0test5.map" size="13917" crc="7195540d" md5="b3238d474ab6d911a4187b170983ec24" sha1="133b5ca10f5c656bfc969fe8fe09fda37ee558ea" status="none" />
+		<rom name="maps\test\0test6.map" size="13877" crc="f7b2fe86" md5="ac1d93adeabe3726b9a8d624dbac62fe" sha1="305938ac2253616242b216e2fe7512d1847b21a2" status="none" />
+		<rom name="maps\test\0test9.map" size="14077" crc="a286479d" md5="c28e9883f1ee9f773bdaf26cb73da89b" sha1="9335efa1d0021b5353736e9c1e04c09c2417d8c4" status="none" />
+		<rom name="maps\test\0test10.map" size="14079" crc="458cede3" md5="15fc41a054c502d80fc52be3ba973764" sha1="9a3ee213d6e2a324277e019c0a72da51c09e8ed2" status="none" />
+		<rom name="maps\test\0test11.map" size="14357" crc="05d14e2e" md5="3f5a15bb3561640e9de44f4d8728057c" sha1="859a3608a0824269b14248d18596dfded37491f1" status="none" />
+		<rom name="maps\test\0test15.map" size="14557" crc="bfe7b4e0" md5="9cf68baa5dd8fcebd28a39259aae8787" sha1="2e5bf592322d1cd946737bcd578b271b9e538032" status="none" />
+		<rom name="maps\test\0test.map" size="13840" crc="0f3e30a9" md5="9cb33a5d9185b05c408dfefd0046a60b" sha1="1123acf50d118734255bcdfe81dc8adc0a1a2156" status="none" />
+		<rom name="maps\test\0testfour.map" size="13557" crc="475a204d" md5="b6ea572de0b65af6c74297bebc7c5d99" sha1="e12647df3727b32b0b44b205820abff775f9c8b3" status="none" />
+		<rom name="maps\test\0testleft2.map" size="13357" crc="a3d0c4f8" md5="24d9131b19c6ce7216ed0e65304bd1f1" sha1="f37fec58c49befb93ff23a205ebcf979d3e1f699" status="none" />
+		<rom name="maps\test\0testleft.map" size="13357" crc="2bad57e8" md5="368cd42ec0a176bb0f3e4936aed16465" sha1="5864b3f6137da0ca6969a2da8248339802cf9ec0" status="none" />
+		<rom name="maps\test\0testright2.map" size="13357" crc="adec6ed5" md5="aa49972af7fb63dd0cf1f05d2588713f" sha1="f13accb5b9ede495d81f9bb40fca005065f3473b" status="none" />
+		<rom name="maps\test\0testright.map" size="13357" crc="389478d6" md5="dac122968cd9762eb87435cdfdf12db4" sha1="dcdf591490ef6f6c640e0e0254e6b38d00818dbf" status="none" />
+		<rom name="maps\test\0testspike.map" size="14397" crc="df07d0fd" md5="d0f2dde5ce34a3231ef491b969ab331a" sha1="27eb444e0e238018d95c7b0eb3bd80ec9a0ca544" status="none" />
+		<rom name="maps\test\0testthis.map" size="13413" crc="007b8e2e" md5="9af3e61da2cc570884eb0c8728ca745d" sha1="82ad94dc1bd75d50bf05741298f16663bfe50e38" status="none" />
+		<rom name="maps\test\0testthree.map" size="14045" crc="46106fa2" md5="6f8f5a01a84c05257587fbbfecbe8f37" sha1="d06d957ba7b160df5a861822a878827b2bcb59c4" status="none" />
+		<rom name="maps\test\0testtwo.map" size="14109" crc="3a0b8647" md5="aac36d58ace465cd36c1212a4ccdf697" sha1="93693c39c6e81ae7a65251d4364ffcb4f9a25843" status="none" />
+		<rom name="maps\test\0toptester.map" size="13439" crc="c4464168" md5="d53a50cd5347c346bff340ab80517193" sha1="58d21dbd701051e30d3ec046920fb00804319936" status="none" />
+		<rom name="maps\test\00blocktest.map" size="14138" crc="47c9e2cb" md5="e3c69dfe8598ab77c49c73f55a83ed38" sha1="e7e736447f83441abd3e81ca1138a9aa1b9e0c97" status="none" />
+		<rom name="maps\test\00blueblockwarp.map" size="14878" crc="5d86f8bb" md5="85d3248ab1619cce412c632198dd21af" sha1="c6d2000cd9d84445476c5ac7af38d067531a573f" status="none" />
+		<rom name="maps\test\00borderwarp.map" size="14017" crc="3037079a" md5="93dcd9cf81949ec692241c6830149429" sha1="0760ae4a44a1de9f0d404b2fddb92a97162c4448" status="none" />
+		<rom name="maps\test\00onice.map" size="13879" crc="7326bf03" md5="dcb82fd615a7c4c7d05399895c860803" sha1="98a4eda115e5efa83211063045ff96e9b867d897" status="none" />
+		<rom name="maps\test\00ontoptest.map" size="13818" crc="7e4037b4" md5="6017f5188e3687d3d59c5950ccf1e989" sha1="7f50ca081f6216d4cd33e16e42bfb91f158bbc38" status="none" />
+		<rom name="maps\test\00platformtest.map" size="13870" crc="476c14b7" md5="1cb6458da51becb5fe6a9c343f909dc7" sha1="c0a963504eb8a4c5b5229c01f0a5953d6a9bfb25" status="none" />
+		<rom name="maps\test\00test6.map" size="13797" crc="a4f4ba94" md5="0eda3900e618a296260a046941663d14" sha1="c048b6875c837977a39567442a84027097027be0" status="none" />
+		<rom name="maps\test\00test7.map" size="13837" crc="9099a968" md5="294b2ab6c219d67ef4bd275289904725" sha1="1390bdafa4d609881d0de28559a524dae41daf32" status="none" />
+		<rom name="maps\test\00tester12.map" size="14477" crc="2a00cf6a" md5="914e4777342e50ae43cb2d2086d6580a" sha1="d3e9fe47ba7bab31869341100d01c05f1c325eee" status="none" />
+		<rom name="maps\test\00tester.map" size="13892" crc="3f82bbbc" md5="b386bf1085133538af6ccea5685d064f" sha1="c043110f08961ad8e595296795855e0fa377169e" status="none" />
+		<rom name="maps\test\00toomanywarps.map" size="14899" crc="b978798c" md5="254b3b8356436daae3824dee743b840a" sha1="511aae41004d9a38c13a45bc528e13726064c225" status="none" />
+		<rom name="maps\test\00toplevel.map" size="13389" crc="165cedf4" md5="b096a0d35e40c4a3e86d2d9af76f94f5" sha1="f3801b26efb06357a7ae6b1cd6e54932255eb8e1" status="none" />
+		<rom name="maps\test\00trap2.map" size="13372" crc="5a4e8f2e" md5="2e9b577ce505224b2073d5347a23fff6" sha1="5640ece0961c0cf1504b03ae991f9708084a0237" status="none" />
+		<rom name="maps\test\00trap.map" size="13357" crc="245bbbc9" md5="dd205315116b64107969d48ebc8c3998" sha1="487ca9742c4da0ff08193a15b51c00d10f44a45c" status="none" />
+		<rom name="maps\test\000breakwarptest.map" size="14318" crc="d5b33d70" md5="217f2553ac848f157c622c634d08f1d4" sha1="a85de9415f8604165494fb97b2d2108155c9566e" status="none" />
+		<rom name="maps\test\000platformtest2.map" size="13576" crc="1dfb1a95" md5="fb5801f1a54092100da7c87acf305032" sha1="a6b436282001b67c7195da60cc624599e5b2e496" status="none" />
+		<rom name="maps\test\000platformtest3.map" size="13480" crc="b2fcd361" md5="4a3e115eac709510e4d48cb03ebc3093" sha1="2e09db5224ad425278984357544f52ef6648b170" status="none" />
+		<rom name="maps\test\000platformtest4.map" size="13828" crc="d057e396" md5="854edbac8305e8f70cd9c133ff7c0185" sha1="6b5afa3ffbb0598796e80898b9966327be975375" status="none" />
+		<rom name="maps\test\000platformtest5.map" size="13436" crc="7e34eb21" md5="c7c8110abc52d26721933d1609e7942c" sha1="62c305e35544f3251a06747f7986c0a2f5e52d10" status="none" />
+		<rom name="maps\test\000platformtest6.map" size="13508" crc="57bc7077" md5="f6e060a0c546623ce5866df081c8edf8" sha1="255ec5ebc6763fbf5f34e77c2c836b3abf2f64df" status="none" />
+		<rom name="maps\test\000sideplatform.map" size="13606" crc="ede3d636" md5="380c117ba75a86c3597374b7c8973dcc" sha1="df8a6212b9a680302df1b0dc5be8500ae99dd6a6" status="none" />
+		<rom name="maps\test\000sideplatformtest2.map" size="13602" crc="f31e7955" md5="cfe21ad9aa9a220574edd28f76731dd2" sha1="c5eefa37f75431c12af79beabed3c41996d626e1" status="none" />
+		<rom name="maps\test\000sideplatformtest.map" size="13610" crc="dd87d929" md5="6ee76978acac4ea5fd015f751c33d7ee" sha1="ffdf0052ce1ba5e4c6c87130a8206cb4c1d7da56" status="none" />
+		<rom name="maps\test\000switchtester.map" size="13754" crc="e0ecc83a" md5="76fa5baef9aeaa2592fca1b1143b0c4f" sha1="b283388ee33de6958d81e5ff329888a95ae9f58c" status="none" />
+		<rom name="maps\test\000tester2.map" size="14000" crc="31f9774c" md5="79cf230b14ae43b97e98f35a13a586a2" sha1="c72b38aceeccc982ede2a7bedcdcfe00640c2299" status="none" />
+		<rom name="maps\test\000tester.map" size="14091" crc="c7a19705" md5="facbea215089b892a43d8dede15b1865" sha1="97276b820786ac086c0128db12684577bdf0abe5" status="none" />
+		<rom name="maps\test\000throwblock.map" size="14520" crc="ff2b785f" md5="09035b78192fcac5da2ef6f93b924939" sha1="b9c87ed7e13f4f61cddf03d49aa908b967223401" status="none" />
+		<rom name="maps\test\000toomanyblocks.map" size="13358" crc="8dff61c3" md5="f2d83b82674a40dba55b8ca95eac5877" sha1="68cd1cfeef1ff2a00b183af70dc1084d3cc9d21a" status="none" />
+		<rom name="maps\test\0000downspike.map" size="13405" crc="c82fc8de" md5="04c994265cefc1f16f6ecf8b43615e1c" sha1="de008006a6e15d8f37f6fe4a0f07b6568e999383" status="none" />
+		<rom name="maps\test\0000platformtest1.map" size="13446" crc="3366bc4f" md5="d3eedf8f0dceffe7c4568df227172653" sha1="8e08513b69806c9bb818a2dd111629adbc7ac581" status="none" />
+		<rom name="maps\test\0000platformtest2.map" size="13750" crc="21d30a9e" md5="b7412b59013dd4f54aa90d59e70e62eb" sha1="bcc96777423a406ef796623534dd1ba264af412e" status="none" />
+		<rom name="maps\test\0000platformtest3.map" size="14050" crc="ea030a77" md5="44a0d44ebdafc9e50f99530eb40cb048" sha1="4b833da791b7a2f1c7dc3af3d79ec6099da297e4" status="none" />
+		<rom name="maps\test\0000platformtest4.map" size="13558" crc="0bbe4c08" md5="d2a13f0884cb973ad1a157d4a5814602" sha1="2dfcb1635324d61b05e6c7468bf3e16f57ceee71" status="none" />
+		<rom name="maps\test\0000platformtest5.map" size="13558" crc="e9f58820" md5="7f49475081e4c18b23e476f964c2fc1d" sha1="859801f975a6387f98aed93f9e14ef25b7a85e10" status="none" />
+		<rom name="maps\test\0000platformtest6.map" size="13558" crc="81082329" md5="91cb058167ec4deb42e2484ff9525ae9" sha1="0a30701d42c700595ac805c10bace608e02ec010" status="none" />
+		<rom name="maps\test\0000platformtest7.map" size="13558" crc="36597533" md5="ced8a23b9c5a5308a19573def019909c" sha1="e7ad7c3d09d23f5aca8a725429d2a7fe32e54517" status="none" />
+		<rom name="maps\test\0000platformtest8.map" size="13538" crc="457888c2" md5="6f77ec3627a53e74501569de9c2f09f2" sha1="4e41aa73c9c103bf670201fac1c4837e4572e8de" status="none" />
+		<rom name="maps\test\000000platformtest1.map" size="13601" crc="aaae5018" md5="53d411b44b0a5b987010902b32bd5d06" sha1="e35de6834820d609b999077fda7c3b9e23729454" status="none" />
+		<rom name="music\Readme.txt" size="3125" crc="239ee480" md5="875a51819519ff2b32e16df3653caa90" sha1="c9522416fa5f15a451e811f95bbd1562b13eaf3d" status="none" />
+		<rom name="music\Standard\M1_Underground.ogg" size="160266" crc="24cbacf9" md5="bf86b78d9602093136930a5992eb65c9" sha1="af25c80657364d2f4a25da66ae669b3cb67d5d12" status="none" />
+		<rom name="music\Standard\M2_Level1.ogg" size="524230" crc="9b11b27d" md5="3826a8556f0fc9bc108323c56360bb3b" sha1="d706c7b9969577567309e155e736bb47ff42877a" status="none" />
+		<rom name="music\Standard\M3_Boss.ogg" size="214156" crc="b3312e82" md5="404a2de72c28e9615a9d8a0bd182faad" sha1="39dbac0f43c6df76e8e6d2ccf466e259fda3705e" status="none" />
+		<rom name="music\Standard\M3_Underwater.ogg" size="353750" crc="8268d78d" md5="34c2382d32eb67ac24fb91c64694a791" sha1="3fa439a8e2ec68ee0d5011d6030ebbc3ef2ddfd3" status="none" />
+		<rom name="music\Standard\Music.txt" size="1806" crc="74d800bb" md5="83d63167097eb2c5ac3bb7cc5882ec0c" sha1="2e0b2b6cab4e7cb5c144c6e376c85267b8ba3552" status="none" />
+		<rom name="music\Standard\smb3level1.ogg" size="301021" crc="fa054e68" md5="eb2650e7039f8a3003f42b50b7c876d7" sha1="d9d05f2b1dba9acc8169b08c6c192caa2604255c" status="none" />
+		<rom name="music\Standard\Menu\menu.ogg" size="165287" crc="255a30af" md5="aa818af6295009387ede05a53fc7a735" sha1="875b2b948ba54621b94eb009a6c42be193c5a53c" status="none" />
+		<rom name="music\Standard\Menu\tournamentmenu.ogg" size="159190" crc="9ab18c1b" md5="2130fc659eb2d686af543eff2c29e331" sha1="22595ca32b387577735580e1d4590fefee4ebd5b" status="none" />
+		<rom name="music\Standard\Special\stageclear.ogg" size="42545" crc="5a995532" md5="87182043aff6a3be8a3c8a17051a1ef4" sha1="99ae5051e5dee503f5c450f46d8cb2d9e486d19f" status="none" />
+		<rom name="music\Standard\Special\tournamentover.ogg" size="59930" crc="1be042ba" md5="8f20f9e7da30400a3041cbf76720e48f" sha1="685682a78c3177c32e2158e158ec5bed87027cdb" status="none" />
+		<rom name="Scripts\CaptureTheFlagModeOptions.txt" size="360" crc="887f8d40" md5="bfd25b3c27f4e936de01e520f8489f41" sha1="d1572c864635ebf068df58d5797629e028513fb0" status="none" />
+		<rom name="Scripts\ChickenModeOptions.txt" size="160" crc="961ac5e8" md5="5d45d84a769fa187ae087689fa171861" sha1="bc4239c5cb3acd9a5b7d917c6ba39a24719e27cb" status="none" />
+		<rom name="Scripts\DominationModeOptions.txt" size="400" crc="2c629e8a" md5="eeca173c7b08356b4ecccead77884374" sha1="a5067088cd9ab6d7b47013f6f656ed2204c76781" status="none" />
+		<rom name="Scripts\FrenzyModeOptions.txt" size="920" crc="87815a7f" md5="7564644d00588e045384f83f2dcb8fb2" sha1="29e85f83bd14870f119a1b7bdbe39e73f37e736b" status="none" />
+		<rom name="Scripts\GameModeOptionsOnly.txt" size="260" crc="c78d1030" md5="25fb28100031a04ed61b6300674520fb" sha1="0b05f50844dd89f6bae1132253abb8f4551f7d6c" status="none" />
+		<rom name="Scripts\JailModeOptions.txt" size="240" crc="0083d45f" md5="6db454c1d66ef2f72f5ad74da806f6f0" sha1="39ca1b3965d5b0eb4b1f6876c323e61a92ff9b87" status="none" />
+		<rom name="Scripts\KingOfTheHillModeOptions.txt" size="279" crc="e50d4d9b" md5="ac80b27d0b9c6b57143fb3b05c1dc5db" sha1="95e5fb98d1c837a10bb751f27927128bfc83659d" status="none" />
+		<rom name="Scripts\NoModeOptions.txt" size="60" crc="d56b1c1c" md5="760ce9cd3f2146b7ee958ff46acee204" sha1="f26b8e3d6ecb3efb2f6659b198579ed6ab9b6052" status="none" />
+		<rom name="Scripts\RaceModeOptions.txt" size="360" crc="64de7472" md5="a523a73039cbc3a609e808232d60377d" sha1="3d1218c3c7628a3a5a98c887d3139875644b479b" status="none" />
+		<rom name="Scripts\StarModeOptions.txt" size="240" crc="0083d45f" md5="6db454c1d66ef2f72f5ad74da806f6f0" sha1="39ca1b3965d5b0eb4b1f6876c323e61a92ff9b87" status="none" />
+		<rom name="Scripts\StartMenuAutomation.txt" size="4825" crc="4aaa123d" md5="97cf427194e2d2cf7df69caa35bdcb27" sha1="679b5528d4784ed417ff72d22d46a6c90ff005b8" status="none" />
+		<rom name="Scripts\StompModeOptions.txt" size="440" crc="8a748353" md5="e083decc4fb9da415aa521c498fe4010" sha1="6f57673bc085eec8269d239691231c4586ed2ed3" status="none" />
+		<rom name="Scripts\SurvivalModeOptions.txt" size="479" crc="2fda8538" md5="85104dceaa0c0055499c5ffdde5f9e9e" sha1="86d3836223a1ea77a9437cd442b82c7e9364ebaf" status="none" />
+		<rom name="Scripts\TagModeOptions.txt" size="160" crc="961ac5e8" md5="5d45d84a769fa187ae087689fa171861" sha1="bc4239c5cb3acd9a5b7d917c6ba39a24719e27cb" status="none" />
+		<rom name="sfx\announcer\None.txt" size="349" crc="714a171d" md5="fdbde2720b0756a2b0cf2eb5060959bc" sha1="060f2d3c2817ba9affccb7bb6ab5dbff37b30434" status="none" />
+		<rom name="sfx\announcer\Mario\enter-stage.wav" size="44668" crc="fdcafe80" md5="b108a9a802336a39d8308b4fbe045e0e" sha1="5a8a05132413259473be3c8c4364b643463985a8" status="none" />
+		<rom name="sfx\announcer\Mario\lets_go.wav" size="72254" crc="5f1d1b2e" md5="7f8f70a1c89c3e4b3d87677e8d70fb2c" sha1="8096a3f57409bfbc56db3a4da35b1be735749ed9" status="none" />
+		<rom name="sfx\packs\Classic\1up.wav" size="70000" crc="a7c881e3" md5="ec55047db9492fa47ee3f3d4e83f5b75" sha1="c05f4ebd6a3f9716e9de8b13ec4931f4c6fab083" status="none" />
+		<rom name="sfx\packs\Classic\area_tag.wav" size="61478" crc="92bb4ab8" md5="bf705ebb7761dfcaaae383265e4bfa43" sha1="fad90fcda63e49119021ca493e743f3419fa1ac1" status="none" />
+		<rom name="sfx\packs\Classic\bob-omb.wav" size="66006" crc="30339ee2" md5="b2b72ad03f774d67b00a237e0ee033c0" sha1="40f1f21928e7855f974cbfdb59f89c316eb4f7c6" status="none" />
+		<rom name="sfx\packs\Classic\boomerang.wav" size="23676" crc="5195ee9b" md5="04c444d646040456816f38cbe5378c4f" sha1="f901b984f3e002effb822d773d1f8686c846c492" status="none" />
+		<rom name="sfx\packs\Classic\breakblock.wav" size="45590" crc="56639788" md5="cee40a0af2e5eb9c23b2665b81fa973d" sha1="cbb85dc8e14cd6e27185b7a4cf6d3814c35f5b7a" status="none" />
+		<rom name="sfx\packs\Classic\bulletbill.wav" size="16394" crc="340ddb38" md5="68709dbcbc951c9d2efa32a18b84fb61" sha1="3d658851e67e3c64a38cc9eba035cf23b3c9bd3b" status="none" />
+		<rom name="sfx\packs\Classic\bump.wav" size="17342" crc="ced7cd30" md5="f3c4924d0d5a5e6daebbd5130e440320" sha1="081b8975a26746c70b5ec416b6cd805ab14af394" status="none" />
+		<rom name="sfx\packs\Classic\burnup.wav" size="125334" crc="be33f475" md5="70ac6b5dd09bc4a85d960807f08c975d" sha1="e9268127fdac230f8bc525c854d5a0696dbd7eb8" status="none" />
+		<rom name="sfx\packs\Classic\cannon.wav" size="31878" crc="a1dc0d16" md5="c7dc91f9a9d5e9b0b28f53c0fdb49260" sha1="014d56d04eae8da19bafe5661c4ac6d89a860d6b" status="none" />
+		<rom name="sfx\packs\Classic\capejump.wav" size="23924" crc="61d5881a" md5="135cc656268c639f5fbcb71c9301f21b" sha1="915c832e5ec3ff36f0a28a4c7daf8f1e8ca4501c" status="none" />
+		<rom name="sfx\packs\Classic\chicken.wav" size="48560" crc="c4a05c01" md5="56d9dbdb46efc3958429018bb639f656" sha1="95e210480bdcc53499bb70f17846d2586c77522d" status="none" />
+		<rom name="sfx\packs\Classic\clock.wav" size="46988" crc="e194cba5" md5="0a61f44028f515b55540adb4c927bbfd" sha1="1a35d3dbbc6700a02f82a50205f7f622a82fe872" status="none" />
+		<rom name="sfx\packs\Classic\coin.wav" size="86438" crc="f1e1301f" md5="169d9f78c07eb4953d63f6064d87f732" sha1="3f951981f091e447801997c570c9d9e90a5d8b5d" status="none" />
+		<rom name="sfx\packs\Classic\collectpowerup.wav" size="38762" crc="5cdba006" md5="1bde8fddb0fe1a32ec7cfa7ca125ec90" sha1="2da8e6a728a28cc81e6e8ff64b3289ecf6446042" status="none" />
+		<rom name="sfx\packs\Classic\dcoin.wav" size="29126" crc="e78ff08a" md5="3f880d5e14c53464d6e2a1e7402bc1e7" sha1="83c7c2cf50d6a88d57ecbb62714282d3e98d6101" status="none" />
+		<rom name="sfx\packs\Classic\death.wav" size="32300" crc="411d18fc" md5="c48127f4ebe25709f6bf268b836c86d1" sha1="a5a7cc2c1be103d480fcb9a033b9d510d16c1d77" status="none" />
+		<rom name="sfx\packs\Classic\enter-stage.wav" size="101224" crc="48e8ea53" md5="bb46ff6f9151e3320140dc5bcc8557eb" sha1="fea8035afc44e95243491d468d87964535735f03" status="none" />
+		<rom name="sfx\packs\Classic\feather.wav" size="90102" crc="354c3dba" md5="00866724b4ef1e46caaad601d87949f0" sha1="5e790f00859a06f1cfe3a16715eb436da83d9c7f" status="none" />
+		<rom name="sfx\packs\Classic\fireball.wav" size="6638" crc="4cbf2011" md5="fe8b7e988c25bf47dd01c7cf35cf5203" sha1="719e067c8ea56a30277f701366ff8ba14374698e" status="none" />
+		<rom name="sfx\packs\Classic\hit.wav" size="7498" crc="c73ef1cc" md5="20a166c7e3f2a142838b571365baa2d8" sha1="90c6d4ee6da4e1cc53560a2dcce69765b8e19225" status="none" />
+		<rom name="sfx\packs\Classic\impact.wav" size="22940" crc="d1bd4b4c" md5="f38a57ad607003b647cadef81a709dec" sha1="086278dd54e392d5c7f7c7f3fa2b25a23223385b" status="none" />
+		<rom name="sfx\packs\Classic\invincible.wav" size="282468" crc="44eca8bb" md5="63aab806e4dca839b4735c7786b03331" sha1="fbe985a8d48282ed8b7e004943a63ea4d5657846" status="none" />
+		<rom name="sfx\packs\Classic\jump.wav" size="53714" crc="09fecfa5" md5="69a6b39cd1a7d89bd01101304feabe45" sha1="f0ad5d783fe6558fdfecfa7bd57029e80d2d60e0" status="none" />
+		<rom name="sfx\packs\Classic\kick.wav" size="9258" crc="33d55d4b" md5="41bcb81438186f9b9fb898d20dd87759" sha1="c7763192a32768089527bb561a4e6458748f0162" status="none" />
+		<rom name="sfx\packs\Classic\mip.wav" size="21666" crc="b3962d86" md5="d788e419b89da734bf427219ac12de89" sha1="182276552487386741742ee46685dd84d9e96db5" status="none" />
+		<rom name="sfx\packs\Classic\pause.wav" size="52870" crc="c9765837" md5="1824b741795d12ea5eb924f5e95935ba" sha1="5ccacad14074902ad3d8066a53fa173c88c1c4f4" status="none" />
+		<rom name="sfx\packs\Classic\pickup.wav" size="20878" crc="1d367303" md5="07d2078c5f25d0edd465732f0710de40" sha1="2fbb7deaaf13fb184abe4358692b64e83c411f2f" status="none" />
+		<rom name="sfx\packs\Classic\powerdown.wav" size="58926" crc="287296a4" md5="686adaf2da43d8f3c61abd5069f717ec" sha1="85381c74258c69b6c86923d118382f716c3f357c" status="none" />
+		<rom name="sfx\packs\Classic\race.wav" size="154612" crc="0eb99c2f" md5="47c7f502ee33a99cba4b0592596ec41a" sha1="cf15af5bdd0942d84a02c6301ce0e65bebd6e4e7" status="none" />
+		<rom name="sfx\packs\Classic\skid.wav" size="7952" crc="622109a5" md5="69506dc6959f0e5f33c1637a7890364e" sha1="a20e0eda6374424b8b9a341500f0dba6c13f7f8d" status="none" />
+		<rom name="sfx\packs\Classic\slowdown.wav" size="164994" crc="6a752872" md5="521bc0a33a62a1f996098684f1780d20" sha1="7d6cea1993d72b4a9a9acd8860a47532ca2be928" status="none" />
+		<rom name="sfx\packs\Classic\spit.wav" size="21598" crc="425a8450" md5="255616e748e96a6343f0d19e10cbf0fc" sha1="e12e4225ec8f24598eddd27b6541675d32ea9271" status="none" />
+		<rom name="sfx\packs\Classic\springjump.wav" size="57294" crc="b094d155" md5="025e1c44534495ec85854d174d3c9c31" sha1="0079570a212b5091a5477c413117020ffb4694e2" status="none" />
+		<rom name="sfx\packs\Classic\sprout.wav" size="38142" crc="bf964476" md5="f036cb03d13d44633715f37520212b93" sha1="e5e8dcf8ee9debc993753441f41d4daa1dec6b40" status="none" />
+		<rom name="sfx\packs\Classic\starwarning.wav" size="23382" crc="7378f900" md5="49855cca7ad4921dbf1c2a00a1cf8da7" sha1="16a4a2ab01a48b52f312ff29046e703669feb7b1" status="none" />
+		<rom name="sfx\packs\Classic\storedpowerup.wav" size="64482" crc="f1bee8e1" md5="542eb38546fc94852d84a3e18cf3bafd" sha1="cb77c0bf1fd5898b0381e575ba368842caeda087" status="none" />
+		<rom name="sfx\packs\Classic\storeitem.wav" size="49786" crc="648d6c5f" md5="a1359c1cf0c6ad381937181c5b0d4fb4" sha1="3b5d69eaefffe6cfec120ea5e28b44f35a5cb338" status="none" />
+		<rom name="sfx\packs\Classic\switchpress.wav" size="21030" crc="318a177a" md5="32e2eb97fac63bdcc0f0fc4180702539" sha1="de140b684663ba766acb5a437f2b81fa9da68c76" status="none" />
+		<rom name="sfx\packs\Classic\throw.wav" size="49674" crc="9d301c1c" md5="48483b0046593ce1d05d1fc5a9cb6adc" sha1="5a6ed5380dcdb5e446f0d01874dcbaf7c22d36af" status="none" />
+		<rom name="sfx\packs\Classic\thunder.wav" size="100962" crc="9a92842a" md5="2a536c29d85addbb98456845331f91b1" sha1="b9bc9b41abdad94198e3a57d126c5b6768753a78" status="none" />
+		<rom name="sfx\packs\Classic\timewarning.wav" size="258550" crc="e6ad5d13" md5="0cdb07a58cd943e11904c5e638669920" sha1="882c71cd607fef296cead4d91b807513a76527a9" status="none" />
+		<rom name="sfx\packs\Classic\transform.wav" size="65510" crc="a100f763" md5="0f63b40e400422a8666eb16534e29a87" sha1="42fd7da3d3cceaec29e136f43fe64b5b7a11fbcc" status="none" />
+		<rom name="sfx\packs\Classic\warp.wav" size="62690" crc="90800851" md5="5c35b58e1338e476fb2a824174fabc7c" sha1="f4f0014997adcf91a5630575f04a89b673e96fae" status="none" />
+		<rom name="sfx\packs\Classic\yoshi.wav" size="44030" crc="be40c22d" md5="2babcaf46f452ff44981f8d2528eb8c6" sha1="356a4833e49cc2c4494d273605b9dff28bf8077c" status="none" />
+		<rom name="tours\Bowser.txt" size="936" crc="75d6cfe9" md5="37340dc78418adb0e2ffdfd1955084d9" sha1="9b4fc58b7b45a09b8019bd3318384bf7bce2be1d" status="none" />
+		<rom name="tours\Flower.txt" size="881" crc="51bd24e6" md5="402dacfe7f73312b1f6d852252557752" sha1="6424f65d51cd581b7c123325a972d6a1b09d9193" status="none" />
+		<rom name="tours\Koopa.txt" size="919" crc="685c87b4" md5="bee8f16854802316c835ffb1ec0b4099" sha1="2f0cde5b96b1f09322f719472da01c72585f9fde" status="none" />
+		<rom name="tours\Lost Levels.txt" size="891" crc="ca934880" md5="ac7b45d8a6794b76028225702a099ba5" sha1="25041d9126fed0ea8168299f4cf0e21d42bf5a9a" status="none" />
+		<rom name="tours\Luigi.txt" size="864" crc="3ec01923" md5="a728e634501debd75ba7b92f18ec63eb" sha1="63f6d4fafa7215f465cacdb7b1f3bbdf13d59433" status="none" />
+		<rom name="tours\Mario.txt" size="920" crc="056e4c36" md5="c288e61d60750110ac52c2466ee840b7" sha1="de694092aa5f9007bb2870727cd6bc93cab6a35b" status="none" />
+		<rom name="tours\Mushroom.txt" size="861" crc="fe301af6" md5="f3c98dfc725d30ea29975742385052fe" sha1="ef6b9dc62da58e53a0ba53ff7e63fc2e04a0030c" status="none" />
+		<rom name="tours\Princess.txt" size="895" crc="55585155" md5="07ed23895ec842df32f6226b7e35384f" sha1="35b0f3011e4e08b603b4f5683c495a666abcb9c6" status="none" />
+		<rom name="tours\Special.txt" size="881" crc="85903aff" md5="341dab9c4ef45071066bcd0f69992947" sha1="ede78ca5b41c6b9b7adcdb1a44422bc26cce33ff" status="none" />
+		<rom name="tours\Star.txt" size="921" crc="53cb4286" md5="8a7625f258359d786355180cbc97bb79" sha1="ee85b3387f942b146541f827b8b099fa1abe59ee" status="none" />
+		<rom name="tours\Yoshi.txt" size="880" crc="e05d7728" md5="dd24a31799e12a00494c90c52d25cc6b" sha1="be84461d7e0d237df452ed917125e8a539ddf672" status="none" />
+		<rom name="EBOOT.PBP" size="1749672" crc="521060ca" md5="d61377c6139e86814a28fa1460331899" sha1="bebe5a2a8cf0ac3516d352e8d0a86cc4b73bb1c7" status="none" />
+	</game>
+	<game name="Syobon Action (World) (v1.3) (Aftermarket) (Daniel Riberio)">
+		<description>Syobon Action (World) (v1.3) (Aftermarket) (Daniel Riberio)</description>
+		<rom name="BGM\castle.ogg" size="368906" crc="846fbf46" md5="7fb802c3979dbd5a32991e84e19cbe8f" sha1="338b00aa503d981bb25dfec1786edb6ee1342e19" status="none" />
+		<rom name="BGM\dungeon.ogg" size="715545" crc="885ce813" md5="ea92d9f0b225e1e26348739aab227ab5" sha1="48f2c3ce1bddff1b9a78b5500cbb063b01fb7818" status="none" />
+		<rom name="BGM\field.ogg" size="620752" crc="521e9839" md5="37f471008193bd18b5f4c36082efd7dc" sha1="c8d63c920217c87502332410f42a65861f7ce40a" status="none" />
+		<rom name="BGM\puyo.ogg" size="286166" crc="6b253621" md5="089204fafcfe01bb073aa93fde395d9b" sha1="9ef894925210a61a5d7dc4c80dfe91476326fc69" status="none" />
+		<rom name="BGM\star4.ogg" size="23828" crc="b21bf4f0" md5="7dfd0c0f8bcb95a1c0b787dc391bf0ad" sha1="d14585db1fec2db0987e8268567d6adf51592c77" status="none" />
+		<rom name="res\brock2.PNG" size="2419" crc="2da2c2de" md5="c958ed0982b4332f518ed8bc41595a34" sha1="65df5b8b96741e2341ca90482d2a8ec30357632d" status="none" />
+		<rom name="res\brock.PNG" size="2621" crc="d684c08e" md5="651fc03a06febf0ef2ae61bf2a3a1591" sha1="a5d95e938794998948ab53a365fa8d97ff1210f8" status="none" />
+		<rom name="res\DejaVuSans.ttf" size="619108" crc="688c220c" md5="5e3ef430983810fc8f9330a0f7a98aa9" sha1="0b654e9e3828603587daf684c0c0c371b4fb3d9f" status="none" />
+		<rom name="res\haikei.PNG" size="4106" crc="a3c6c6f9" md5="3251e7aebe2e09e69f927305980a5e1a" sha1="88a26ae65da6ddb3aad7c50838dd5ac63ffd488b" status="none" />
+		<rom name="res\item.PNG" size="3225" crc="ac281820" md5="1ff2288f8919f1da5d3e9633deb2401e" sha1="9b243982afb41b66f0c5f4561e2e8111bc156eee" status="none" />
+		<rom name="res\omake2.PNG" size="4012" crc="93d903b3" md5="6130180ffc1f968226bed29de1af9bad" sha1="12353cc6843e6bb16fd94018a00b77d9ca1a3293" status="none" />
+		<rom name="res\omake.PNG" size="4314" crc="134618f2" md5="a016f5f970dc5d21d2b1f93ac246dd09" sha1="cfb65aab6731bd97f926de6d06250107778deda9" status="none" />
+		<rom name="res\player.PNG" size="1151" crc="f80229a4" md5="7763d1352333be699768c973c2613200" sha1="d328e672fc142649697546e2e04e6a794e514cbe" status="none" />
+		<rom name="res\syobon3.PNG" size="15445" crc="f3941d3a" md5="a10001250bba63ee09abc0b9e545f2bf" sha1="09de0c832fdf8ad2db9a62c0c2c4bb5b2a746fda" status="none" />
+		<rom name="res\teki.PNG" size="2516" crc="ddf31a86" md5="ef00c2f8b623b2cc9189afefca3615fd" sha1="aa56e03c13ff0bd4f6404106c9f1488b33bf4cd9" status="none" />
+		<rom name="res\.thumbnails\brock.PNG.png" size="8383" crc="5e3e1e84" md5="f108f39b5d4d24e4f41ea1585510ceb1" sha1="d5a832a210753f15fd5282ac5c6252eb71e75b26" status="none" />
+		<rom name="SE\4-clear.ogg" size="58860" crc="64f97c11" md5="6a33765fa3b0f216cb65a3a535e7d83c" sha1="8f40d3c715be2669209e2cbff1a5c781b4a1e16a" status="none" />
+		<rom name="SE\allclear.ogg" size="37219" crc="491da403" md5="3ba1b4f81f4258bfa346ac68051bffd9" sha1="5b3d9211e3ee439846372d7b1a937523c86af2af" status="none" />
+		<rom name="SE\brockbreak.ogg" size="10411" crc="17ebe797" md5="96bcff86bc44a7d3d97c955387ec5473" sha1="c07857435362995b38aabb59eb993f744c8bb91e" status="none" />
+		<rom name="SE\brockcoin.ogg" size="9086" crc="28d32a7b" md5="ce777a99bf7173095fe75d85c3c0e965" sha1="02fb9f76a8f1dfb51f4397ce4473fb324bbc7755" status="none" />
+		<rom name="SE\brockkinoko.ogg" size="9210" crc="198f2047" md5="d17be073bd59fb5a0387cb3b01d56666" sha1="abc0a7cd86d343113d9d5fc478779d7cf325d629" status="none" />
+		<rom name="SE\coin.ogg" size="8805" crc="c70412bc" md5="3291509c804c5c97854564edb8a63e4f" sha1="2da7279260961a391350666de1e6666f8a75392b" status="none" />
+		<rom name="SE\death.ogg" size="31305" crc="5c384cbe" md5="de5588bc08e581a5f39f53e88bf60a26" sha1="2847efff339830720dc60e265cde242e6bec954b" status="none" />
+		<rom name="SE\dokan.ogg" size="12536" crc="08aa2c3f" md5="af819b4cc7ecd66d08842cb59d9aca67" sha1="611e557cad53e4428c30e88cb565aff8e5429ec9" status="none" />
+		<rom name="SE\gameover.ogg" size="37202" crc="a1ba41f4" md5="161bcf893c5a6f8df20fbdd175d73122" sha1="f832fc787aff7e8cab4de097671c583c0962512d" status="none" />
+		<rom name="SE\goal.ogg" size="63820" crc="5cef43a8" md5="7abcdba75ebc0fa208a894fe9776a1c2" sha1="bf461d859aea899bf4192319e5b3033f7d9e812e" status="none" />
+		<rom name="SE\hintBlock.ogg" size="9549" crc="c54d137e" md5="c015b8cf4b20968c4ec3c05c9302f2a3" sha1="4991c1983f1b2e154c02f411a20bd41f85c2e5a3" status="none" />
+		<rom name="SE\humi.ogg" size="6606" crc="f2487207" md5="caae38af5798f9a4d9118dad43b032ff" sha1="545173817aaa7ffaaaa2ee4aff404d0b40e23f80" status="none" />
+		<rom name="SE\jump.ogg" size="8794" crc="f166f8d6" md5="e5d6ab5b27a9777c92c4dca30711ed1f" sha1="ec9fe3335e29159de0e145681f0f80b065a2e58e" status="none" />
+		<rom name="SE\jumpBlock.ogg" size="4849" crc="2b0dc9fa" md5="b9825d799d84b0b212ed60f580747eeb" sha1="bbbe3c9bd4a88f517b1d290538a9d4d0ada7bdaf" status="none" />
+		<rom name="SE\kirra.ogg" size="7807" crc="ff2f1c36" md5="7b9b704cba2e3887da1e80ddd05e3572" sha1="2baf3579ec3e847b1586cdc884f7ad89881c1d7f" status="none" />
+		<rom name="SE\koura.ogg" size="5388" crc="90bc5b04" md5="dccbd28db7c783a45229d1e04e3d7c44" sha1="c384a5acd411ef79b12bb4d41191d106154d566c" status="none" />
+		<rom name="SE\powerup.ogg" size="13747" crc="f4cd7fcc" md5="d7274986a9319bc36b1dc4b09072232e" sha1="8ea292ad7163caa7cd216561becadfb88cc86cee" status="none" />
+		<rom name="SE\Pswitch.ogg" size="6625" crc="5464a101" md5="af372b6dbf3a390f1509bccad1307334" sha1="d2a38d64d1cdbed289e5a7f7d55c1bbb408ef647" status="none" />
+		<rom name="SE\tekifire.ogg" size="16661" crc="521d2aef" md5="676101350b5a1ca4b8afae2764dc5e11" sha1="b053445a6c9ce82847426609d5bab45773f943fe" status="none" />
+		<rom name="EBOOT.PBP" size="2056348" crc="b2434a5c" md5="3b970aa70d18538b8f31ec5c92a18b6b" sha1="2eaf8fd5cd0617a27b67362dd2db4d652054e1fe" status="none" />
 	</game>
 	<game name="TibiaPSP (World) (v0.342) (Aftermarket) (LuMa)">
 		<description>TibiaPSP (World) (v0.342) (Aftermarket) (LuMa)</description>

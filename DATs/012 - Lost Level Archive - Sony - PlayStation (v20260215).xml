@@ -5,11 +5,10 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260214</version>
+		<version>v20260215</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Alone In The Dark - The New Nightmare (Europe) (Ru) (Paradox)">
 		<description>Alone In The Dark - The New Nightmare (Europe) (Ru) (Paradox)</description>
@@ -434,6 +433,15 @@
 		<description>Resident Evil 0 Demake (v0.1) (Biohazard Espana)</description>
 		<rom name="Resident Evil 0 Demake (v0.1) (Biohazard Espana).bin" size="568786512" crc="AADE6B8A" md5="AEFA8F53118CE3EC2E9A10E7FBA93A1E" sha1="36E68F5F56ECCB18B92EE6A886200DC695C7BF42"/>
 		<rom name="Resident Evil 0 Demake (v0.1) (Biohazard Espana).cue" size="112" crc="60FA882A" md5="44306B2A8F71CDF13100242407E6E1F8" sha1="1D7A044B51AEA62BB565DEA3B9B289A8DB856D21"/>
+	</game>
+	<game name="Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer)">
+		<description>Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer)</description>
+		<rom name="Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer) (Disc 1 - Leon) (Track 1).bin" size="668960544" crc="bbd826e5" md5="38dfc9d4fe10722874869bf7ebbe95de" sha1="bc038582cddf09f1431ffb63328449b10dd79db0" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer) (Disc 1 - Leon) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer) (Disc 1 - Leon).cue" size="328" crc="a18c61e4" md5="8a681e67077c295fc47e5184e18ed1ce" sha1="d8e9d52bd26c6d6f4492b8fae411e06ada977269" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer) (Disc 2 - Claire) (Track 1).bin" size="671284320" crc="f1440013" md5="cc7cb5bb40c4a3292d784de6d5ddce0c" sha1="feadf33777f2176966b2bcb638ddfae76ab3c118" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer) (Disc 2 - Claire) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer) (Disc 2 - Claire).cue" size="332" crc="711c9765" md5="a0d647145d531cbdebcc0520cd3467ff" sha1="644b4af349149071fb803720dd15b91fb33af6d1" status="none" />
 	</game>
 	<game name="Resident Evil 2 - Infinite Darkness (Kawasake09)">
 		<description>Resident Evil 2 - Infinite Darkness (Kawasake09)</description>
