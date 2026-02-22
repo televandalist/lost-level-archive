@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260214</version>
+		<version>v20260222</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -202,6 +202,10 @@
 		<description>Hungry Knight (World) (v3.0) (Aftermarket) (GB Studio)</description>
 		<rom name="Hungry Knight (World) (v3.0) (Aftermarket) (GB Studio).gbc" size="262144" crc="6a1bad79" md5="20cd20640a0c012885cc4488b8edcec7" sha1="b976f88abf5912ff80213c7ed411baae63f91362" />
 	</game>
+	<game name="Huxley Pig GBC (World) (v2025) (Aftermarket) (László Rajcsányi)">
+		<description>Huxley Pig GBC (World) (v2025) (Aftermarket) (László Rajcsányi)</description>
+		<rom name="Huxley Pig GBC (World) (v2025) (Aftermarket) (László Rajcsányi).gbc" size="524288" crc="9245fa9f" md5="8d8fc1baa93e7505f84e89febe700f03" sha1="601acc4404b3fb3d553c2d1b4a401c3355e82f62" status="none" />
+	</game>
 	<game name="Inventory Full (World) (v1.0.3) (Aftermarket) (Unl)">
 		<description>Inventory Full (World) (v1.0.3) (Aftermarket) (Unl)</description>
 		<rom name="Inventory Full (World) (v1.0.3) (Aftermarket) (Unl).gbc" size="524288" crc="36174683" md5="e9bf8b6977020c869dc5f2d3304961c2" sha1="ff5fc33f6009a8819c6cbde00174c074aab3ecef" />
@@ -365,6 +369,10 @@
 	<game name="Paramo Yermo (World) (Es) (Aftermarket) (GB Studio)">
 		<description>Paramo Yermo (World) (Es) (Aftermarket) (GB Studio)</description>
 		<rom name="Paramo Yermo (World) (Es) (Aftermarket) (GB Studio).gbc" size="2097152" crc="2ec2ecc6" md5="e26455fae5f0d9b03d33126809369e75" sha1="c68bf5ec9508bc72b5ddc4036e7a1b7ae4818590" />
+	</game>
+	<game name="Petris (World) (v20200916) (Aftermarket) (bbbbbr)">
+		<description>Petris (World) (v20200916) (Aftermarket) (bbbbbr)</description>
+		<rom name="Petris (World) (v20200916) (Aftermarket) (bbbbbr).gbc" size="32768" crc="9ee810ee" md5="c1fd374c1dd3b352604e4c89d4d8d039" sha1="c3dd3caba5e9bd90511dd9ac2357962c42640d1a" status="none" />
 	</game>
 	<game name="Piropa (World) (v2.1) (Aftermarket) (sg)">
 		<description>Piropa (World) (v2.1) (Aftermarket) (sg)</description>

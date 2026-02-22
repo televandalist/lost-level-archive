@@ -5,11 +5,10 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20260131</version>
+		<version>v20260222</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Aardvark (2019) (NTSC) (Oscar Toledo G., Thomas Jentzsch, Nathan Strum)">
 		<description>Aardvark (2019) (NTSC) (Oscar Toledo G., Thomas Jentzsch, Nathan Strum)</description>
@@ -514,6 +513,14 @@
 	<game name="StarGiraf (SECAM60) (Aftermarket) (Dr. Ludos)">
 		<description>StarGiraf (SECAM60) (Aftermarket) (Dr. Ludos)</description>
 		<rom name="StarGiraf (SECAM60) (Aftermarket) (Dr. Ludos).a26" size="32768" crc="c48b7fe0" md5="baff265b249b59a7b5a405fe683112d4" sha1="cdf5a0936ab1a6f3c383a6fa58e381d9da5ba417" status="none" />
+	</game>
+	<game name="Star Castle Arcade (NTSC) (v2014) (Aftermarket) (Chris Walton, Thomas Jentzsch)">
+		<description>Star Castle Arcade (NTSC) (v2014) (Aftermarket) (Chris Walton, Thomas Jentzsch)</description>
+		<rom name="Star Castle Arcade (NTSC) (v2014) (Aftermarket) (Chris Walton, Thomas Jentzsch).a26" size="28672" crc="66e91929" md5="2418fa5ecfb685f7bb70bc4527e9d966" sha1="5616e2f65a315b3bd000cfd9139300ee9ffeb1ec" status="none" />
+	</game>
+	<game name="Star Castle Arcade (PAL) (v2014) (Aftermarket) (Chris Walton, Thomas Jentzsch)">
+		<description>Star Castle Arcade (PAL) (v2014) (Aftermarket) (Chris Walton, Thomas Jentzsch)</description>
+		<rom name="Star Castle Arcade (PAL) (v2014) (Aftermarket) (Chris Walton, Thomas Jentzsch).a26" size="28672" crc="d9a2b58d" md5="0653285db216755085bd025b93ea6a25" sha1="7edc35264313b91f2371853037a6b09fd79f99b0" status="none" />
 	</game>
 	<game name="Stepz (NTSC) (v1.1) (Aftermarket) (Unl)">
 		<description>Stepz (NTSC) (v1.1) (Aftermarket) (Unl)</description>

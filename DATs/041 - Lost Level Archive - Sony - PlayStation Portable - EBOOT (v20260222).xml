@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (EBOOT)</name>
 		<description>Sony - PlayStation Portable (EBOOT)</description>
-		<version>v20260215</version>
+		<version>v20260222</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -160,6 +160,66 @@
 		<description>Cave Story - Jenka's Nightmare Revived (v20120316) (Andwhy)</description>
 		<rom name="data.csz" size="1738922" crc="2597e161" md5="3ce550f5fc28589063692bf427a791b5" sha1="97b71113d04348fadbf85b7934f7d8985942a479" status="none" />
 		<rom name="EBOOT.PBP" size="839034" crc="c8ff6400" md5="1d8306aa1b26ae22799cb8835d254db9" sha1="0d1d6fcf87f232d86d715b11cb60f21f27442164" status="none" />
+	</game>
+	<game name="Chicken Invaders Portable (v2009-12-29) (gorglucks)">
+		<description>Chicken Invaders Portable (v2009-12-29) (gorglucks)</description>
+		<rom name="docs\changelog" size="22" crc="1b5d3dfd" md5="6b836b5da5305e5840baf5611c1d1aa6" sha1="1d4df1efe5df61d9e576cdb33ac8aef5b8756b2a" status="none" />
+		<rom name="res\fonts\neuropol.ttf" size="54916" crc="138308dc" md5="87d6d87addafe5ecdd32d0f1625333e5" sha1="0109e219750e0e51876616d03c84b0e3aed3a85f" status="none" />
+		<rom name="res\gfx\bg.png" size="113292" crc="de53d55e" md5="14ea0b8352401f1803c53118ebdd686c" sha1="f52ad810bd525f5352f644c0a56b036f5e17a7cc" status="none" />
+		<rom name="res\gfx\boss.png" size="56977" crc="3c35f9ed" md5="2c7a65d669da9b2adb16f9f677d2cf5d" sha1="1f3c3733af7a220377da7e04916aacc99156ab11" status="none" />
+		<rom name="res\gfx\IWDC_splash.png" size="160643" crc="706459b4" md5="041bfa8a4a15f1657b9aaddd8db72a1f" sha1="d3083720e9c22f43895bda1fa163bde2dc7df06b" status="none" />
+		<rom name="res\gfx\logo.png" size="23314" crc="0921525a" md5="6ea47d1c0e8a6506de5578f5cd66a830" sha1="ac3e165518aaa438f78b6361c0a4ada8f41b488f" status="none" />
+		<rom name="res\gfx\planetes.png" size="138719" crc="e70d640c" md5="83f1c5c2acd48c7ecd172538022fe757" sha1="cc6d255a7d6b50fc25d4ec05eeb038e3fba9b53c" status="none" />
+		<rom name="res\gfx\poules.png" size="167221" crc="5fee01b2" md5="72671a0a16f50cef4ccac8eb4c4a36d8" sha1="36237ddfcc3bfdaf4640c05e0daa3c4900573ff1" status="none" />
+		<rom name="res\gfx\sprites.png" size="111107" crc="c8861c77" md5="8371a04dd868b16f4f217461aec68bc1" sha1="556f977fe23c3c648a39b6029d74325721eacd8c" status="none" />
+		<rom name="res\sfx\boomLoose.wav" size="868396" crc="733fd80a" md5="c2150f7042af239415a246d59e93a8ed" sha1="adc800c913f20e5dda5d244f7c5610955723cf18" status="none" />
+		<rom name="res\sfx\cadeau.wav" size="471084" crc="c4633981" md5="e79f39f8e5af1efe4a9e84871e413adb" sha1="6a8dc985ad4067938d6a37a5b2f550d7b3d8be2f" status="none" />
+		<rom name="res\sfx\ChickenInvaders.mp3" size="1190764" crc="3863461c" md5="5cc06144637f780f17761bb04f51c0c5" sha1="3e24aa1173f315a69674c594d7400ee3b364d414" status="none" />
+		<rom name="res\sfx\clic.wav" size="49196" crc="6d440547" md5="e67e6918d24094a25329e96179f6e318" sha1="2ddd8f9dd53c2344de5348fbe9fd96293be1bd19" status="none" />
+		<rom name="res\sfx\crakMeteorite.wav" size="122924" crc="f0acdda4" md5="4c6dfd527ee6fec4b30462dcabab8ef8" sha1="bf8d8e5c4ba7b53c5bc5ad202820386bad8e85ec" status="none" />
+		<rom name="res\sfx\criBoss.wav" size="163884" crc="3cc7d791" md5="48f068011c20f836a354545ef908300c" sha1="774346596a05cb047dbbe971e112553c1fc46bb2" status="none" />
+		<rom name="res\sfx\criPetitBoss.wav" size="88108" crc="449f2329" md5="34f03e805bdfe80fd56d8ba5993352db" sha1="60ec08ad27f413135a5c4dc0cb66892fdeac5678" status="none" />
+		<rom name="res\sfx\criPoule.wav" size="44204" crc="2fd78141" md5="dd86518f0bd8a57292fd683120c7d3f6" sha1="b596cc8f075f5424a0831a1228b886d345c21614" status="none" />
+		<rom name="res\sfx\EggSplaf.wav" size="61484" crc="2aed3434" md5="498a49f7647e358a6994f1732ac560cb" sha1="b8df4bd660e055f6b425f1056566cb24c0897a60" status="none" />
+		<rom name="res\sfx\explosion.wav" size="64380" crc="810af4fa" md5="9a17f8061195dc75d69be8bbdc61f5db" sha1="34e9ba1f134ddf7ba8d235e3657770c6cb4ff2de" status="none" />
+		<rom name="res\sfx\explosionVaisseau.wav" size="860204" crc="ac2e54ab" md5="3059e127661b3d7e886023e3cdac71e8" sha1="e7cbfd9c0f16fa3893f7a86f55b039162a8933df" status="none" />
+		<rom name="res\sfx\largeEgg.wav" size="96300" crc="19e2ee7a" md5="e580259310aa18499d90744e1724f90e" sha1="2ea08199175bd7b3053a53573fb0086619d83466" status="none" />
+		<rom name="res\sfx\mangeCuisse.wav" size="71724" crc="eb841241" md5="170d3be6baef18f4ea19ad79c641d7b6" sha1="9bb24679f8c62021ca955a9a018469a17014a230" status="none" />
+		<rom name="res\sfx\mangeGrosPoulet.wav" size="71724" crc="ab47c568" md5="7b90eb43fa72ed17cfefa6fbb8cc0e0c" sha1="a6a6a4c69061997466d85dee938ff255241b2486" status="none" />
+		<rom name="res\sfx\menu.mp3" size="247012" crc="35dff822" md5="eab362a0baf7087f48df1ebef248185d" sha1="74ddc26cd6099b2a2188f2a19df30f37bc7d08e1" status="none" />
+		<rom name="res\sfx\motorDown.wav" size="915500" crc="a0dd2596" md5="6eddf1d2d2ffe8fdc4f900b8268ef36c" sha1="f7791319db198d9cc1ffcc945e3ac260f6be0da8" status="none" />
+		<rom name="res\sfx\motorUp.wav" size="450604" crc="3250055c" md5="f0a91055505175cf2e62d738ce8f1fa3" sha1="494705998cf0de4da692e6690721339acf042480" status="none" />
+		<rom name="res\sfx\pop.wav" size="65580" crc="ba2c63ab" md5="6a61f955af82ddc6a3fcba6830efab05" sha1="4f25db8f0d23f869055d313c28ff757174323ce6" status="none" />
+		<rom name="res\sfx\soucoupe.wav" size="34860" crc="d3eabbdf" md5="86cd883a322847f2e39571d2d23911a5" sha1="c86de37cb3e2ae003c34b5261976cdeb39c8ab5b" status="none" />
+		<rom name="res\sfx\tir.wav" size="112684" crc="f483585e" md5="fd9e1347a26851ed2dcfe6a8cab31778" sha1="3ad019509526c102c52b6be42f661c745acd2290" status="none" />
+		<rom name="animation.lua" size="2729" crc="23763343" md5="47ee3313f57b4718fcb45a5073df1653" sha1="68778994f1186c3da5d7c64427e535805a6ddc14" status="none" />
+		<rom name="bg.lua" size="2092" crc="c2f113c4" md5="495fd55293a412c0a3a9d2a66202433b" sha1="c90bdd2468612307aad16851ffa898f9ab39aec5" status="none" />
+		<rom name="cadeau.lua" size="940" crc="da278aec" md5="ea2fcde40ca3eabdce423a13a30f516d" sha1="eee4c6680fda6a6dacaa95c32bfc08082b92d3bb" status="none" />
+		<rom name="clavier.lua" size="3331" crc="e5c72b2c" md5="93898bd39e36b51c991667299c997a3f" sha1="514d8a78a318638c2a11ff334d1bdca1e0008176" status="none" />
+		<rom name="constants.lua" size="339" crc="d4a3feac" md5="99cdae6db66f7207e3bbaa2464be068b" sha1="b1579197fb579636bfc4fe83df4f937e3b513117" status="none" />
+		<rom name="cuisse.lua" size="2190" crc="f6d28fce" md5="8e3433406c9791d9cb3aa22065ef0110" sha1="febaf2528a90e10b9dd731094bdf7f68588d5ea7" status="none" />
+		<rom name="dialogue.lua" size="3350" crc="3e9e1809" md5="231e73fd74c47ae756647033acb39c13" sha1="5dd2b8285138972046d2e18892cbb3f5d7acc0aa" status="none" />
+		<rom name="EBOOT.PBP" size="1293074" crc="6e844a09" md5="f700bfa2491aa243aae00bc5f7938481" sha1="b93d87ab59bf4c52795336adb193f0803a3cf54c" status="none" />
+		<rom name="egg.lua" size="1630" crc="3ec0361b" md5="336f805f40fcefd9c7625330c454ce5b" sha1="6374926a8c67129e78dbe6b51733f91c98327c15" status="none" />
+		<rom name="ennemi.lua" size="3781" crc="16dc95e0" md5="77d2bc4b17eee2f78ffd13c219e85142" sha1="d06111106cd1fbe035c8ae3ccbfde3543b046a68" status="none" />
+		<rom name="ennemis.lua" size="7678" crc="2176065c" md5="0e8b4f053d8b2a6cd39001c4235f84e8" sha1="577e8faa8440b55aa99cba804a2a0935899a23cb" status="none" />
+		<rom name="explosion.lua" size="1108" crc="145aa333" md5="6fdc384e7666033afad333b7f4cea784" sha1="427752c7b817a865d83eec706f1ea83171a82580" status="none" />
+		<rom name="font.lua" size="748" crc="2ce70971" md5="68013642217b472887f8c865985b85d0" sha1="03e8fff287d8872245fbe15002d4e54ed7e6caf4" status="none" />
+		<rom name="langues.lua" size="3115" crc="c35a06d0" md5="dc0389184fb68f7840abc4a5963df243" sha1="360e0b073d5d68c665f123b9c5e114d85a14f07c" status="none" />
+		<rom name="missile.lua" size="1563" crc="aebec103" md5="0052ea3824a9ea3689fcd4021f8d08d2" sha1="7142cb97ad730d9021c36ac96e653a78041b7cc1" status="none" />
+		<rom name="options.lua" size="911" crc="554ecdd4" md5="f30a1fda1344de243b19e7e8c99545b7" sha1="2cf87965e1ffbfa92c52e32be5aa37e2c12e0e95" status="none" />
+		<rom name="particles.lua" size="1612" crc="368273d7" md5="9d68cafa53e9a62e6df161bb85bec859" sha1="2ec55781a956fcda9300e10f648870bb36f47915" status="none" />
+		<rom name="score.lua" size="1556" crc="ff132698" md5="c813dc0311e10170ea860eaed16ec8ee" sha1="5b84d29c425980a8d96dba39684c1b10bcc9c198" status="none" />
+		<rom name="scores" size="172" crc="c086be71" md5="2b0d40bea5f511cfe4af30ff1d796ba1" sha1="34e1bf9ffa62925311e69ccb6c2f33837621a3c6" status="none" />
+		<rom name="script.lua" size="7386" crc="9c0500de" md5="b1530fffbf51313379ab72402106f4b1" sha1="851614b2979cb2b15a310f9df648f9713df5050f" status="none" />
+		<rom name="splash.lua" size="429" crc="ed7bcbe1" md5="23cd079c68f86ce23e5c6d6ac18e4322" sha1="d184c2109239c0ebe4ecae5a37411fd65241b336" status="none" />
+		<rom name="sprite.lua" size="1155" crc="b3332e7a" md5="c52d3fa132d186db98ef7a2f3d02caa4" sha1="b0008e7dfd313fc804a71b86528fa06cec68123c" status="none" />
+		<rom name="text.lua" size="853" crc="e3193f8b" md5="8bb05658a5102b643fb326c0afbca610" sha1="c43133bda76dfcfd823fa0488bc82b4730ed01f2" status="none" />
+		<rom name="tir.lua" size="2974" crc="e0ff1d90" md5="a814ecf1b872a22b356159e87e5265e2" sha1="d7d2250b40e751ac3c11dfecd96e7d4f837a69e4" status="none" />
+		<rom name="utils.lua" size="4360" crc="b563387f" md5="4bed045051bebab391e9862df9be7eca" sha1="9f3482875d87b8a067ea9d914001b51ca77fa646" status="none" />
+		<rom name="vaisseau.lua" size="5771" crc="c2e33cd8" md5="9f66b45f8c1f38ce68ad0c792816921d" sha1="6d3cc839b2d91d64fa3588eaf1ed1317452f9714" status="none" />
+		<rom name="wav.lua" size="501" crc="e47eb183" md5="5db05cc16f98544402444154e616854b" sha1="b4dc0cd04cbe748caee3db4a5e136830bf845530" status="none" />
+		<rom name="wave.lua" size="31842" crc="6f7d9430" md5="3ede68459b9ef2395da2b1cdc12eb28c" sha1="286792c1670f3ebdceb01deb102b481299a8f436" status="none" />
 	</game>
 	<game name="Chronicles (World) (v1.1d) (Aftermarket) (xigency)">
 		<description>Chronicles (World) (v1.1d) (Aftermarket) (xigency)</description>

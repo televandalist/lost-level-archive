@@ -5,11 +5,10 @@
 		<id>018</id>
 		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
 		<description>Nintendo - Nintendo DS</description>
-		<version>v20260119</version>
+		<version>v20260222</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)">
 		<description>10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)</description>
@@ -98,6 +97,10 @@
 	<game name="Castlevania - Devilish Resemblance (World) (Demo) (Aftermarket) (Unl) (Frosty Chaotix)">
 		<description>Castlevania - Devilish Resemblance (World) (Demo) (Aftermarket) (Unl) (Frosty Chaotix)</description>
 		<rom name="Castlevania - Devilish Resemblance (World) (Demo) (Aftermarket) (Unl) (Frosty Chaotix).nds" size="1779264" crc="b9f1b224" md5="fabb128a936c9ae9255dc30d16d49bad" sha1="3cd5a77be49d324ec31f89d36ff059b82e0e9a33" />
+	</game>
+	<game name="Castle Wars (World) (v0.9) (Aftermarket) (Cravesoft)">
+		<description>Castle Wars (World) (v0.9) (Aftermarket) (Cravesoft)</description>
+		<rom name="Castle Wars (World) (v0.9) (Aftermarket) (Cravesoft).nds" size="1638464" crc="3966a93e" md5="15527c031578a14f7dbdcc5929ddd99d" sha1="64d95ca218153f2f8a1a5d2d1724890885f33e54" status="none" />
 	</game>
 	<game name="Cave Story DS (World) (En) (v0.4) (Aftermarket) (tilderain)">
 		<description>Cave Story DS (World) (En) (v0.4) (Aftermarket) (tilderain)</description>

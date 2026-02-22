@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20260214</version>
+		<version>v20260222</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -89,6 +89,10 @@
 	<game name="SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team)">
 		<description>SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team)</description>
 		<rom name="SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team).iso" size="1459978240" crc="73e9f414" md5="3400e7b44e1f21f9bf16b6b721cc6832" sha1="5ffb90371e756b28f5de3cffe6591cbaf4f41645" status="none" />
+	</game>
+	<game name="SMS - Super Mario Eclipse Co-op (v2026-02-02) (Team Elements)">
+		<description>SMS - Super Mario Eclipse Co-op (v2026-02-02) (Team Elements)</description>
+		<rom name="SMS - Super Mario Eclipse Co-op (v2026-02-02) (Team Elements).iso" size="1459978240" crc="6f52409c" md5="8c0b03347ac3906c2f276eeb6e131a56" sha1="08f1f76bc472083a584c3f13f1c7a0b0420a3ec6" status="none" />
 	</game>
 	<game name="SMS - Super Mario Sunburn (v1.9) (Eclipse Team)">
 		<description>SMS - Super Mario Sunburn (v1.9) (Eclipse Team)</description>

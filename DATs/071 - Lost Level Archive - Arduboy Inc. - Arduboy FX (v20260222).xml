@@ -5,11 +5,10 @@
 		<id>071</id>
 		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy FX</name>
 		<description>Arduboy Inc. - Arduboy FX</description>
-		<version>v20251231</version>
+		<version>v20260222</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="2D Minigolf (World) (v1.0) (Benguini Bennett)">
 		<description>2D Minigolf (World) (v1.0) (Benguini Bennett)</description>
@@ -159,9 +158,9 @@
 		<description>Siren's Last Call (World) (v1.0.0) (poevoid)</description>
 		<rom name="Siren's Last Call (World) (v1.0.0) (poevoid).arduboy" size="70031" crc="26040df1" md5="96cca0f0a0daa54c8b523726ee217109" sha1="c13cd6c82b1ad96cf203a3c3130e9eacb2ae08a3" status="none" />
 	</game>
-	<game name="Spooky Walking Simulator (World) (v1.0.1)">
-		<description>Spooky Walking Simulator (World) (v1.0.1)</description>
-		<rom name="Spooky Walking Simulator (World) (v1.0.1).arduboy" size="35317" crc="bea8a2a3" md5="4ad28a92739ac466662cd9aee987bb0f" sha1="0f9283553ff56055dd14b46c2c1021ebbb8f4dd1" status="none" />
+	<game name="Spooky Walking Simulator FX (World) (v1.0.1) (haloopdy)">
+		<description>Spooky Walking Simulator FX (World) (v1.0.1) (haloopdy)</description>
+		<rom name="Spooky Walking Simulator FX (World) (v1.0.1) (haloopdy).arduboy" size="35317" crc="bea8a2a3" md5="4ad28a92739ac466662cd9aee987bb0f" sha1="0f9283553ff56055dd14b46c2c1021ebbb8f4dd1" status="none" />
 	</game>
 	<game name="Texas Hold Em FX (World) (filmote)">
 		<description>Texas Hold Em FX (World) (filmote)</description>

@@ -5,11 +5,10 @@
 		<id>006e</id>
 		<name>006e - Lost Level Archive - Nintendo - Game Boy Color (Extras)</name>
 		<description>Nintendo - Game Boy Color (Extras)</description>
-		<version>v20251212</version>
+		<version>v20260222</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Dangan GB2 (World) (Aftermarket) (snorpung) - Extras">
 		<description>Dangan GB2 (World) (Aftermarket) (snorpung) - Extras</description>
@@ -18,6 +17,10 @@
 	<game name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios) - Strategy Guide">
 		<description>Galacard Platinum (World) (Aftermarket) (Bipedal Studios) - Strategy Guide</description>
 		<rom name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios) - Strategy Guide.pdf" size="133398" crc="8942bbf5" md5="c84c2d88946ef84e2dbcc676d6d4c609" sha1="79e32ec82bcf33d023a31130c9cc75ea596eb41b" status="none" />
+	</game>
+	<game name="Petris (World) (v20200916) (Aftermarket) (bbbbbr) - Extras">
+		<description>Petris (World) (v20200916) (Aftermarket) (bbbbbr) - Extras</description>
+		<rom name="Petris (World) (v20200916) (Aftermarket) (bbbbbr) - Manual.pdf" size="53266" crc="2c88779c" md5="9496947e72a32df86c005353dc4f4d7d" sha1="b4e5e3c2094708f511099686321d3842be44cd03" status="none" />
 	</game>
 	<game name="Piropa (World) (v2.1) (Aftermarket) (sg) - Extras">
 		<description>Piropa (World) (v2.1) (Aftermarket) (sg) - Extras</description>

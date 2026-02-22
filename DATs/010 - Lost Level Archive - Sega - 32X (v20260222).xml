@@ -5,11 +5,10 @@
 		<id>010</id>
 		<name>010 - Lost Level Archive - Sega - 32X</name>
 		<description>Sega - 32X</description>
-		<version>v20251129</version>
+		<version>v20260222</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Anarch (Europe) (v1.0) (Aftermarket) (Unl) (drummyfish)">
 		<description>Anarch (Europe) (v1.0) (Aftermarket) (Unl) (drummyfish)</description>
@@ -34,6 +33,10 @@
 	<game name="Sonic Robo Blast 2 (USA) (v0.1a) (Aftermarket) (SSNTails, Saxman)">
 		<description>Sonic Robo Blast 2 (USA) (v0.1a) (Aftermarket) (SSNTails, Saxman)</description>
 		<rom name="Sonic Robo Blast 2 (USA) (v0.1a) (Aftermarket) (SSNTails, Saxman).32x" size="4194304" crc="a96b2a85" md5="c9dd33ba3cbdd64941dd19facb515adb" sha1="7cf865ea070560eb4e63e4f314cd2522312f4992" />
+	</game>
+	<game name="Sonic Robo Blast 2 (USA) (v0.2a) (Aftermarket) (SSNTails, Saxman)">
+		<description>Sonic Robo Blast 2 (USA) (v0.2a) (Aftermarket) (SSNTails, Saxman)</description>
+		<rom name="Sonic Robo Blast 2 (USA) (v0.2a) (Aftermarket) (SSNTails, Saxman).32x" size="4194304" crc="fd23368f" md5="16a811628cd9245f2101e218581cd594" sha1="688dab802b8d17e624d00f45832ea33060065b79" status="none" />
 	</game>
 	<game name="xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy)">
 		<description>xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy)</description>

@@ -5,11 +5,10 @@
 		<id>024</id>
 		<name>024 - Lost Level Archive - Nintendo - Pokemon Mini</name>
 		<description>Nintendo - Pokemon Mini</description>
-		<version>v20250201</version>
+		<version>v20260222</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="2048 (World) (Aftermarket) (Unl)">
 		<description>2048 (World) (Aftermarket) (Unl)</description>
@@ -82,6 +81,10 @@
 	<game name="PokeMaze (World) (Proto) (Aftermarket) (Unl)">
 		<description>PokeMaze (World) (Proto) (Aftermarket) (Unl)</description>
 		<rom name="PokeMaze (World) (Proto) (Aftermarket) (Unl).min" size="14304" crc="6d45286a" md5="db53ab1335e95df2b33d4ef3735d7af6" sha1="c436ae6659b96d2290c6909c751247207e371bfe" />
+	</game>
+	<game name="Pokemon Mini Ambulation (World) (v1.0) (Aftermarket) (Inkbox)">
+		<description>Pokemon Mini Ambulation (World) (v1.0) (Aftermarket) (Inkbox)</description>
+		<rom name="Pokemon Mini Ambulation (World) (v1.0) (Aftermarket) (Inkbox).min" size="61512" crc="3ee81b35" md5="0156b0b9c002b4f9b9fec777d4503594" sha1="5c64e0228ebfa6a61797e92dc27c37c019af9144" status="none" />
 	</game>
 	<game name="Pokemon Orange (World) (Demo) (v0.54) (Aftermarket) (Unl)">
 		<description>Pokemon Orange (World) (Demo) (v0.54) (Aftermarket) (Unl)</description>

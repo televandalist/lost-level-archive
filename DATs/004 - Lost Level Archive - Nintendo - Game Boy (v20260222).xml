@@ -5,11 +5,10 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260119</version>
+		<version>v20260222</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name=".EXE, Cogito ergo sum (World) (v1.0.2) (Aftermarket) (GB Studio) (MooExe)">
 		<description>.EXE, Cogito ergo sum (World) (v1.0.2) (Aftermarket) (GB Studio) (MooExe)</description>
@@ -260,6 +259,10 @@
 	<game name="Game of Life Kuzushi (World) (Aftermarket) (Unl)">
 		<description>Game of Life Kuzushi (World) (Aftermarket) (Unl)</description>
 		<rom name="Game of Life Kuzushi (World) (Aftermarket) (Unl).gb" size="65536" crc="53f8ef87" md5="b04d10af7ff5010c90be47948158f016" sha1="6c88a33d034751ddd2a3932521112352708ef7a7" status="none" />
+	</game>
+	<game name="GB Dash (World) (v1.0) (Aftermarket) (TiTi)">
+		<description>GB Dash (World) (v1.0) (Aftermarket) (TiTi)</description>
+		<rom name="GB Dash (World) (v1.0) (Aftermarket) (TiTi).gb" size="32768" crc="5fc615e6" md5="7d38f43df5cd5613fa1256de1d351d33" sha1="6e16b44d1c63ca93801194e23232b51ab51e890d" status="none" />
 	</game>
 	<game name="GB Lunar Lander (World) (GB Showdown 2023) (Aftermarket) (GB Studio)">
 		<description>GB Lunar Lander (World) (GB Showdown 2023) (Aftermarket) (GB Studio)</description>
