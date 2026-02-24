@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260222</version>
+		<version>v20260224</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -525,6 +525,10 @@
 	<game name="Walfie's Nonograms (World) (Aftermarket) (Walfie)">
 		<description>Walfie's Nonograms (World) (Aftermarket) (Walfie)</description>
 		<rom name="Walfie's Nonograms (World) (Aftermarket) (Walfie).gbc" size="262144" crc="83466d47" md5="498e63102a329f561045869cf2b7cd1e" sha1="efc70f0babcebd0e9610a16ab9f5264cd7f7d629" status="none" />
+	</game>
+	<game name="Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie)">
+		<description>Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie)</description>
+		<rom name="Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie).gbc" size="262144" crc="35d3f216" md5="f5fdffc669c29483760655c7f5ff90f4" sha1="8541b57b091ea3b8630601c54195935bcb2f323a" status="none" />
 	</game>
 	<game name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)">
 		<description>Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)</description>

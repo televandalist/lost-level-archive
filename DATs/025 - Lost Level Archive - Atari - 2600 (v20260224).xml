@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20260222</version>
+		<version>v20260224</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -501,6 +501,10 @@
 	<game name="Splatform 2600 (NTSC) (v1.01) (Aftermarket) (Unl)">
 		<description>Splatform 2600 (NTSC) (v1.01) (Aftermarket) (Unl)</description>
 		<rom name="Splatform 2600 (NTSC) (v1.01) (Aftermarket) (Unl).a26" size="2048" crc="646f8511" md5="6216bef66edceb8a24841e6065bf233e" sha1="d8b7032d0418143e53f49ae36bcfe23d2364251e" />
+	</game>
+	<game name="SpongeBob PixelPants (NTSC) (v2006) (Aftermarket) (Chris Read)">
+		<description>SpongeBob PixelPants (NTSC) (v2006) (Aftermarket) (Chris Read)</description>
+		<rom name="SpongeBob PixelPants (NTSC) (v2006) (Aftermarket) (Chris Read).a26" size="4096" crc="1089ef09" md5="76b970b1497e9ec92ee9209895f4d682" sha1="1219b121472e233eb9c704c45b5fdaf455a4de23" status="none" />
 	</game>
 	<game name="StarGiraf (NTSC) (Aftermarket) (Dr. Ludos)">
 		<description>StarGiraf (NTSC) (Aftermarket) (Dr. Ludos)</description>

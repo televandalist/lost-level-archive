@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20260209</version>
+		<version>v20260224</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -133,6 +133,10 @@
 	<game name="Gleam (World) (v2006) (Unl)">
 		<description>Gleam (World) (v2006) (Unl)</description>
 		<rom name="Gleam (World) (v2006) (Unl).gba" size="30709368" crc="c4b63fe6" md5="06bcdc20120e43c623020cd811254587" sha1="4164633bbd32dee5c7e9571a07bd76d1e5773af8" />
+	</game>
+	<game name="Gold Miner (World) (v20230410) (Aftermarket) (FlashPig)">
+		<description>Gold Miner (World) (v20230410) (Aftermarket) (FlashPig)</description>
+		<rom name="Gold Miner (World) (v20230410) (Aftermarket) (FlashPig).gba" size="342352" crc="b5aa1e95" md5="4d128d44cb93d1244f033edde3d8dd14" sha1="17bb4ab3041c369ec4820d1639f1de063d834310" status="none" />
 	</game>
 	<game name="Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble)">
 		<description>Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble)</description>
