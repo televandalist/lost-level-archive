@@ -5,11 +5,10 @@
 		<id>051</id>
 		<name>051 - Lost Level Archive - Atari - 7800</name>
 		<description>Atari - 7800</description>
-		<version>v20260207</version>
+		<version>v20260312</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Beef Drop (NTSC) (Demo) (Aftermarket) (AtariAge)">
 		<description>Beef Drop (NTSC) (Demo) (Aftermarket) (AtariAge)</description>
@@ -42,6 +41,11 @@
 	<game name="Knight Guy On Board - 30 Squares Of Fate (USA) (Aftermarket) (vhzc)">
 		<description>Knight Guy On Board - 30 Squares Of Fate (USA) (Aftermarket) (vhzc)</description>
 		<rom name="Knight Guy On Board - 30 Squares Of Fate (USA) (Aftermarket) (vhzc).a78" size="147584" crc="676267c7" md5="d08626cefd8811efe46c9ae3528d4ed2" sha1="aa107e8ae28300d9a2a39fe266986237539a6bd0" />
+	</game>
+	<game name="Lift (World) (v20240711) (Aftermarket) (Inufuto)">
+		<description>Lift (World) (v20240711) (Aftermarket) (Inufuto)</description>
+		<rom name="Lift (World) (v20240711) (Aftermarket) (Inufuto).a78" size="16512" crc="f7c9c471" md5="61d1c414c835ea9db7daca739043fa64" sha1="6344f9d52010ca54caf00ea9cc5f97c93b4ba107" status="none" />
+		<rom name="Lift (World) (v20240711) (Aftermarket) (Inufuto).bin" size="16384" crc="d34fd674" md5="6765d3723f4256d680d374327f9aa42c" sha1="57e4b7db1071a2b68cf4afa6bf8751cd540ca8c4" status="none" />
 	</game>
 	<game name="Pac-Man 7800 (USA) (v1.0a) (Bob DeCrescenzo)">
 		<description>Pac-Man 7800 (USA) (v1.0a) (Bob DeCrescenzo)</description>

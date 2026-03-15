@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260222</version>
+		<version>v20260312</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -299,6 +299,10 @@
 	<game name="Helichoppy (World) (v1.0) (Aftermarket) (Vivian Video)">
 		<description>Helichoppy (World) (v1.0) (Aftermarket) (Vivian Video)</description>
 		<rom name="Helichoppy (World) (v1.0) (Aftermarket) (Vivian Video).gb" size="524288" crc="f1ebf065" md5="971f0a72513a4bb18d19f761f9e40fec" sha1="13f50b87163c65f996063e6d11b9b876c2007398" status="none" />
+	</game>
+	<game name="Helichoppy (World) (v1.1) (Aftermarket) (Vivian Video)">
+		<description>Helichoppy (World) (v1.1) (Aftermarket) (Vivian Video)</description>
+		<rom name="Helichoppy (World) (v1.1) (Aftermarket) (Vivian Video).gb" size="524288" crc="0106f3d2" md5="30e8f62dc1aceabdf14229a59d6853c0" sha1="c00bdef196c025a533c1ea276e8cca68f71db54f" status="none" />
 	</game>
 	<game name="Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio)">
 		<description>Hey You! Pikachu (World) (v2021-09-30) (Aftermarket) (GB Studio)</description>

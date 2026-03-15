@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>010</id>
+		<name>Removed - 010 - Lost Level Archive - Sega - 32X</name>
+		<description>Removed - Sega - 32X</description>
+		<version>v20260312</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="OpenLara (USA) (Demo) (Aftermarket) (v2024-01-03) (Unl)">
+		<description>OpenLara (USA) (Demo) (Aftermarket) (v2024-01-03) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="OpenLara (USA) (Demo) (Aftermarket) (v2024-01-03) (Unl).32x" size="2097152" crc="bdd512bd" md5="fd3ade112a5498c5832e3a043467ad4a" sha1="c486bf92868cd24b49cf27b101989c51420c80a3" status="none" />
+	</game>
+	<game name="xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy)">
+		<description>xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy).32x" size="4194304" crc="fd07db46" md5="f642e289bfb670022e0ae001786bdf94" sha1="f951890e6cd3cfd5e4cba13be8c8aea4f70d36a5" />
+	</game>
+</datafile>

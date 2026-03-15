@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260224</version>
+		<version>v20260312</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -61,6 +61,10 @@
 	<game name="Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video)">
 		<description>Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video)</description>
 		<rom name="Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video).gbc" size="2097152" crc="d0b4bdc1" md5="0144019e6a624ab7e9483fdf9cb0601f" sha1="8cfbd7768801ad0b573597c2dcfdf036b0ae8465" status="none" />
+	</game>
+	<game name="Cardinal Island (World) (v1.2) (Aftermarket) (Vivian Video)">
+		<description>Cardinal Island (World) (v1.2) (Aftermarket) (Vivian Video)</description>
+		<rom name="Cardinal Island (World) (v1.2) (Aftermarket) (Vivian Video).gbc" size="2097152" crc="eea7b5d1" md5="fadfc081988c0b24a2d66b5134702c7e" sha1="6252918b77277fb6a449a404afabb3782ad08348" status="none" />
 	</game>
 	<game name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)">
 		<description>Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)</description>
@@ -297,6 +301,10 @@
 	<game name="Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)">
 		<description>Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)</description>
 		<rom name="Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl).gbc" size="524288" crc="1d758544" md5="91c3d238305f308e00fca917d996bb40" sha1="644a6409949520b1c7a654eed6a156d35967ec1c" />
+	</game>
+	<game name="Masturbrowse (World) (Aftermarket) (GB Studio) (Jonotastic)">
+		<description>Masturbrowse (World) (Aftermarket) (GB Studio) (Jonotastic)</description>
+		<rom name="Masturbrowse (World) (Aftermarket) (GB Studio) (Jonotastic).gbc" size="1048576" crc="cf9823be" md5="fefb4d5e54d2bf6419a12638b1bef7e7" sha1="274325a548549fd6e6abace2c395bf489e1e64f0" status="none" />
 	</game>
 	<game name="Melanie and the Magic Forest (World) (v2025) (GB Compatible) (Aftermarket) (Unl)">
 		<description>Melanie and the Magic Forest (World) (v2025) (GB Compatible) (Aftermarket) (Unl)</description>

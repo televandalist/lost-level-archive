@@ -5,11 +5,15 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20260222</version>
+		<version>v20260315</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 	</header>
+	<game name="Mario Kart - Double Dash - Retro Track Grand Prix (v1.4) (Portable Productions)">
+		<description>Mario Kart - Double Dash - Retro Track Grand Prix (v1.4) (Portable Productions)</description>
+		<rom name="Mario Kart - Double Dash - Retro Track Grand Prix (v1.4) (Portable Productions).iso" size="1953802240" crc="84590647" md5="675a8f9d5c6b5f2619fd8005ace06924" sha1="83d64b8368f186f53f82dd2c776f876318f8fba4" status="none" />
+	</game>
 	<game name="Mario Kart - Double Dash!! Plus (v3.3) (That1loser4)">
 		<description>Mario Kart - Double Dash!! Plus (v3.3) (That1loser4)</description>
 		<rom name="Mario Kart - Double Dash!! Plus (v3.3) (That1loser4).iso" size="1074593792" crc="e3accee4" md5="5d3a850ff6d41a7d2b8eec3d67acfd00" sha1="cf71db16c4babe77a34918c70fe20114029edabf" status="none" />
@@ -61,6 +65,10 @@
 	<game name="Pikmin 2 - Regrown (v2.0) (Ochrehorns)">
 		<description>Pikmin 2 - Regrown (v2.0) (Ochrehorns)</description>
 		<rom name="Pikmin 2 - Regrown (v2.0) (Ochrehorns).iso" size="1459978240" crc="e782b479" md5="44359cb46aa4ce72c92245e111e45243" sha1="2bddd46f01f5620fb64e5fe766ad4fcb21df535e" status="none" />
+	</game>
+	<game name="Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns)">
+		<description>Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns)</description>
+		<rom name="Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns).iso" size="1459978240" crc="67be7a50" md5="edb10198484f5da959e228cbbac0ebdd" sha1="cfc2ae308f6527cbbea9ffa0e04afeba35484306" status="none" />
 	</game>
 	<game name="Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns)">
 		<description>Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns)</description>

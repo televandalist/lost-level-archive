@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20260224</version>
+		<version>v20260312</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -149,6 +149,14 @@
 	<game name="Conquest of Mars (NTSC) (Aftermarket) (Unl)">
 		<description>Conquest of Mars (NTSC) (Aftermarket) (Unl)</description>
 		<rom name="Conquest of Mars (NTSC) (Aftermarket) (Unl).a26" size="16384" crc="bace5a14" md5="c2fbef02b6eea37d8df3e91107f89950" sha1="9ff196f1137be8deecf23448ebf817c060d2b595" />
+	</game>
+	<game name="Criminal Pursuit (NTSC) (En)">
+		<description>Criminal Pursuit (NTSC) (En)</description>
+		<rom name="Criminal Pursuit (NTSC) (En).a26" size="4096" crc="ef34a713" md5="48f18d69799a5f5451a5f0d17876acef" sha1="19c2880dba08b56ce10494131d468c39921a0d34" status="none" />
+	</game>
+	<game name="Criminal Pursuit - Eddy Langfinger, der Museumsdieb (PAL) (De)">
+		<description>Criminal Pursuit - Eddy Langfinger, der Museumsdieb (PAL) (De)</description>
+		<rom name="Criminal Pursuit - Eddy Langfinger, der Museumsdieb (PAL) (De).a26" size="4096" crc="b93a7346" md5="07973be3ecfd55235bf59aa56bdef28c" sha1="4e1ac830a8cd2ca27f92cb5d7e78c89c563e4c10" status="none" />
 	</game>
 	<game name="Danger City (NTSC) (Aftermarket) (Unl)">
 		<description>Danger City (NTSC) (Aftermarket) (Unl)</description>
