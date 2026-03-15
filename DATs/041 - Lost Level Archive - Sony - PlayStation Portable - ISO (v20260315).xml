@@ -5,11 +5,10 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20260131</version>
+		<version>v20260315</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="4 Hours of Watching Paint Dry (World) (v0.1) (Aftermarket) (sungrandstudios)">
 		<description>4 Hours of Watching Paint Dry (World) (v0.1) (Aftermarket) (sungrandstudios)</description>
@@ -106,10 +105,6 @@
 	<game name="Jeanne d'Arc (USA) (Ru) (v0.3) (Unknown)">
 		<description>Jeanne d'Arc (USA) (Ru) (v0.3) (Unknown)</description>
 		<rom name="Jeanne d'Arc (USA) (Ru) (v0.3) (Unknown).iso" size="1247401984" crc="dc0219fb" md5="bb3d2603d6ab91ef96f9619eef0d111d" sha1="0c338ca9050fd8acb56f1daacfc17e3057fcb892" />
-	</game>
-	<game name="K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain_Breeze, Wxnder, KingSizzle)">
-		<description>K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain_Breeze, Wxnder, KingSizzle)</description>
-		<rom name="K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain_Breeze, Wxnder, KingSizzle).iso" size="1420769280" crc="e28ef0b2" md5="57881b1dd83fb06ded7d6bb782dccac1" sha1="866ed4a8f9173167b7e5074bc9227538b755e737" />
 	</game>
 	<game name="Kingdom Hearts - Birth by Sleep - Final Mix (Japan) (En) (v1.0.12) (Truthkey)">
 		<description>Kingdom Hearts - Birth by Sleep - Final Mix (Japan) (En) (v1.0.12) (Truthkey)</description>

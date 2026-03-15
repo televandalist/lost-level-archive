@@ -4,11 +4,10 @@
 	<header>
 		<id>041</id>
 		<name>Removed - 041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
-		<description>Removed - Sony - PlayStation Portable (ISO)</description>		<version>v20251212</version>
+		<description>Removed - Sony - PlayStation Portable (ISO)</description>		<version>v20250315</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan) (En) (20121116) (SRWFanHobByt3)">
 		<description>Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan) (En) (20121116) (SRWFanHobByt3)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
@@ -29,6 +28,11 @@
 	<game name="Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2)">
 		<description>Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
 		<rom name="Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2).iso" size="1167693824" crc="a2599d68" md5="2d37c9c8917d8863bfe994f4a4de5c6e" sha1="200b153a04c1fbee94efee36884eec7d15ca60d6" />
+	</game>
+	<game name="K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain_Breeze, Wxnder, KingSizzle)">
+		<description>K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain_Breeze, Wxnder, KingSizzle)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain_Breeze, Wxnder, KingSizzle).iso" size="1420769280" crc="e28ef0b2" md5="57881b1dd83fb06ded7d6bb782dccac1" sha1="866ed4a8f9173167b7e5074bc9227538b755e737" />
 	</game>
 	<game name="Kurohyou - Ryuu ga Gotoku Shinshou (Japan, Asia) (En) (v1.2) (Teak K4L)">
 		<description>Kurohyou - Ryuu ga Gotoku Shinshou (Japan, Asia) (En) (v1.2) (Teak K4L)</description>		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
