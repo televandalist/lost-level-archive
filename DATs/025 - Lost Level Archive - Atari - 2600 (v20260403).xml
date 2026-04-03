@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20260312</version>
+		<version>v20260403</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -177,6 +177,14 @@
 	<game name="DigiBeatz (PAL60) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow)">
 		<description>DigiBeatz (PAL60) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow)</description>
 		<rom name="DigiBeatz (PAL60) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow).a26" size="4096" crc="b26a7da6" md5="b48013d42dab1e643c0b2bae3bb2ecc0" sha1="cd58b6bc9baa30da5e33b8068263fdb7feb6b0a1" />
+	</game>
+	<game name="Donkey Kong VCS (NTSC) (v1.0) (Aftermarket) (Joe Musashi)">
+		<description>Donkey Kong VCS (NTSC) (v1.0) (Aftermarket) (Joe Musashi)</description>
+		<rom name="Donkey Kong VCS (NTSC) (v1.0) (Aftermarket) (Joe Musashi).a26" size="32768" crc="6c87f24e" md5="f1ae6305fa33a948e36deb0ef12af852" sha1="e37887a3c7b6a6d9603df9092c076c1224999aaa" status="none" />
+	</game>
+	<game name="Donkey Kong VCS (PAL60) (v1.0) (Aftermarket) (Joe Musashi)">
+		<description>Donkey Kong VCS (PAL60) (v1.0) (Aftermarket) (Joe Musashi)</description>
+		<rom name="Donkey Kong VCS (PAL60) (v1.0) (Aftermarket) (Joe Musashi).a26" size="32768" crc="25d89a1d" md5="494cda91cc640551b4898c82be058dd9" sha1="a2c022d7d769083df4143015b43914b4446b7d4d" status="none" />
 	</game>
 	<game name="Draconian (NTSC) (RC8) (Aftermarket) (Unl)">
 		<description>Draconian (NTSC) (RC8) (Aftermarket) (Unl)</description>

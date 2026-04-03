@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>012</id>
+		<name>Removed - 012 - Lost Level Archive - Sony - PlayStation</name>
+		<description>Removed - Sony - PlayStation</description>
+		<version>v20260315</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Rayman - Kaizoman (v20230719) (Destabilize)">
+		<description>Rayman - Kaizoman (v20230719) (Destabilize)</description>
+		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
+		<rom name="Rayman - Kaizoman (v20230719) (Destabilize).bin" size="618025632" crc="244806fd" md5="86dcdcefbf1d006d13914c0b3c8105ae" sha1="17f2462d48778a2f6f0e1c13680cc6f2906d4b51" />
+		<rom name="Rayman - Kaizoman (v20230719) (Destabilize).cue" size="3309" crc="6b6ac1f1" md5="ae6f54aa772cf5db6c38346c6f0b3b44" sha1="192de28af27f894cecf8b7c616fcf19267d5b147" />
+	</game>
+</datafile>

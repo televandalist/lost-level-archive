@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20260315</version>
+		<version>v20260403</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -17,6 +17,10 @@
 	<game name="7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax)">
 		<description>7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax)</description>
 		<rom name="7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax).iso" size="1585754112" crc="7b9f510e" md5="e1c69d7442cb17b7874281a22fc1d9e4" sha1="a76a6ccef253a81573659126ce746fa3d6af99a7" />
+	</game>
+	<game>
+		<description>7th Dragon 2020-II (Japan) (En) (v0.91) (Pokeytax)</description>
+		<rom name="7th Dragon 2020-II (Japan) (En) (v0.91) (Pokeytax).iso" size="1324140544" crc="e557d67e" md5="5236bd6e09ee30a485b94847dd67f216" sha1="3214af68854f4caf54acc49d90ed38bf64f03caf" status="none" />
 	</game>
 	<game name="Bakemonogatari Portable (Japan) (En) (v1.0) (Anime Game Translations Team)">
 		<description>Bakemonogatari Portable (Japan) (En) (v1.0) (Anime Game Translations Team)</description>

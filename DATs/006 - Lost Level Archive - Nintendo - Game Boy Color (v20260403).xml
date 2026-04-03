@@ -5,11 +5,15 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260312</version>
+		<version>v20260403</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 	</header>
+	<game name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto)">
+		<description>40 Winks (Europe) (En,Fr,De,Es,It) (Proto)</description>
+		<rom name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="1048576" crc="9b20c473" md5="2ce4eab7166281a80cab3f1ae1ae25ae" sha1="3e704498d35a1d3cb965222e8799cf80be24ea4d" status="none" />
+	</game>
 	<game name="2003 Crash II Advance (China) (Bootleg) (Unl)">
 		<description>2003 Crash II Advance (China) (Bootleg) (Unl)</description>
 		<rom name="2003 Crash II Advance (China) (Bootleg) (Unl).gbc" size="4194304" crc="0af243bf" md5="927abf95eaada539668c2e71d35be5c7" sha1="13b1a3f64664cc09f628e53e13c9b66b17e9f500" />
@@ -17,6 +21,10 @@
 	<game name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)">
 		<description>AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)</description>
 		<rom name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl).gbc" size="524288" crc="f71042b8" md5="df0d1dba0a83f8d65e3bb7e6720ef8eb" sha1="c3f0296535e11fd6fb581c976e2cb98b0f15506b" />
+	</game>
+	<game name="Akumanor Gaiden DX (World) (v1.0) (Aftermarket) (Michirin)">
+		<description>Akumanor Gaiden DX (World) (v1.0) (Aftermarket) (Michirin)</description>
+		<rom name="Akumanor Gaiden DX (World) (v1.0) (Aftermarket) (Michirin).gbc" size="1048576" crc="66f59440" md5="396e507b1870779bd3c2aa7bd6f0132a" sha1="78331e3a6d3757eefb7696958ce854779878279e" status="none" />
 	</game>
 	<game name="Alche-mouse-t (World) (MVM15) (Aftermarket) (Unl)">
 		<description>Alche-mouse-t (World) (MVM15) (Aftermarket) (Unl)</description>
@@ -46,6 +54,10 @@
 		<description>Blob Dash (World) (v2.0) (Aftermarket) (chocolate pancakes)</description>
 		<rom name="Blob Dash (World) (v2.0) (Aftermarket) (chocolate pancakes).gbc" size="262144" crc="bd75735c" md5="1c30bd2677fe2200aa5c46792bb06b68" sha1="54dc20a5ee3da24f374aeb71da9ecc3917a57ce6" status="none" />
 	</game>
+	<game name="Bop It! (World) (v20251225) (Aftermarket) (Rob51Design)">
+		<description>Bop It! (World) (v20251225) (Aftermarket) (Rob51Design)</description>
+		<rom name="Bop It! (World) (v20251225) (Aftermarket) (Rob51Design).gbc" size="262144" crc="8e1862ea" md5="7877d0e3d4910364cd69b644fb26553f" sha1="e9ebc21ec06c952995adef70616093d8107dd429" status="none" />
+	</game>
 	<game name="Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl)">
 		<description>Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl)</description>
 		<rom name="Boy and the Mysterious Amulets, The (World) (GBJAM 12) (Aftermarket) (Unl).gbc" size="524288" crc="068d6a70" md5="de6bafbf23389d72a4bab17b83e479d3" sha1="597e3900de3b75002096e07ebd0839186c7594a7" />
@@ -69,6 +81,62 @@
 	<game name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)">
 		<description>Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)</description>
 		<rom name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl).gbc" size="262144" crc="5312f81c" md5="4daf9a94ff78252257e22a34516e5105" sha1="05d553049a1ba1999e5891097471bff1b882cee7" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.0) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.0) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.0) (Aftermarket) (Elvies).gbc" size="524288" crc="c9b6f11b" md5="1689f016688300ce017359bed4f9dbad" sha1="d09e03b0d769ae68cc32c21798f5cebd7e78d8cb" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.1) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.1) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.1) (Aftermarket) (Elvies).gbc" size="1048576" crc="996b8787" md5="93edec1f1ef218eedb3075ca1b46cd9b" sha1="137c0c7259033fd44bcb9afbe51c191a7cd69b72" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.2) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.2) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.2) (Aftermarket) (Elvies).gbc" size="1048576" crc="0057170d" md5="5498580d8825129770d969c91611f2b4" sha1="d684f444efaae6a66770572633ca25e22ab59738" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.3) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.3) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.3) (Aftermarket) (Elvies).gbc" size="2097152" crc="cdf72a7f" md5="2f9ecb2c9903d69df2bf536c1381fe9f" sha1="e98bd4a17d70cfdeaf024823ca75843da296dd0b" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.4) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.4) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.4) (Aftermarket) (Elvies).gbc" size="2097152" crc="88a21ef9" md5="08cc262aa78981bc4bf28e3a89852b81" sha1="4eee6a91b7a5e49c4eee841ac57068ff7ebd3fe7" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.5) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.5) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.5) (Aftermarket) (Elvies).gbc" size="2097152" crc="69e79a5e" md5="5b3e0abd3fb649abcdc50f595a04891a" sha1="2fa28c692cc5de4cfa54c6f69afcb15a657b7822" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.6) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.6) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.6) (Aftermarket) (Elvies).gbc" size="2097152" crc="ba48fdc7" md5="9aa28fe894e9a02f1a337f5e78ac066a" sha1="aebb0195cdfccee43c06ae2abfa1e41ee8098c80" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.7) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.7) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.7) (Aftermarket) (Elvies).gbc" size="2097152" crc="6eee0b97" md5="3d180114d1bf78ef9c72f630126a44ce" sha1="9a4cfb4a010dbc762b788da08f6ebda5fe07839d" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.8) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.8) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.8) (Aftermarket) (Elvies).gbc" size="2097152" crc="77cd0958" md5="f1f853c0b3241fb0fd0d94840893e9cd" sha1="09b3ca59fd8f2a390be6ac01ea1e3cce7addd949" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.9) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.9) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.9) (Aftermarket) (Elvies).gbc" size="2097152" crc="86d87531" md5="63e4bf445c1e640d868065017985840f" sha1="9ae4ee0c8c4c3b2db097593c71a61dcc4af19703" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.2.0) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.2.0) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.2.0) (Aftermarket) (Elvies).gbc" size="2097152" crc="6c202f51" md5="5c0023659e4da850df1c48f8c1134930" sha1="7c2d9879cc4dc2918293263a2b4d9252869a7574" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.2.1) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.2.1) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.2.1) (Aftermarket) (Elvies).gbc" size="2097152" crc="9728943f" md5="5f5d6d240834b333605e0dd0969dd40d" sha1="76818808059e937b1100faed62b8cc8131802e5d" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v1.0.1) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v1.0.1) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont (World) (v1.0.1) (Aftermarket) (Elvies).gbc" size="2097152" crc="da217c1b" md5="4e90ebfe77ed39eb9f28effff69cfbe2" sha1="92ce20a7799687a718e6b377f134abc05a6b17a3" status="none" />
+	</game>
+	<game name="Castlevania - Order of Shadows - Golden Belmont Music Player (World) (Aftermarket) (Elvies)">
+		<description>Castlevania - Order of Shadows - Golden Belmont Music Player (World) (Aftermarket) (Elvies)</description>
+		<rom name="Castlevania - Order of Shadows - Golden Belmont Music Player (World) (Aftermarket) (Elvies).gbc" size="1048576" crc="a28197b5" md5="2360adc2ea50d717748a491000134ef4" sha1="db143a57ad7cf7fc6cba1bd179f59032c3a044e1" status="none" />
 	</game>
 	<game name="CharaVera Non Chilla - Let Me Sleep (World) (v1.5.2) (Aftermarket) (Protopixel)">
 		<description>CharaVera Non Chilla - Let Me Sleep (World) (v1.5.2) (Aftermarket) (Protopixel)</description>
@@ -129,6 +197,18 @@
 	<game name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)">
 		<description>Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)</description>
 		<rom name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222).gbc" size="2097152" crc="b7cdf437" md5="160d4da4a787f957fbd5079db6ee86b2" sha1="2910f9cc95a2e521abf63d7b79b329216145997c" />
+	</game>
+	<game name="Final Fantasy - Unlimited Saga (China) (Bootleg) (Sintax)">
+		<description>Final Fantasy - Unlimited Saga (China) (Bootleg) (Sintax)</description>
+		<rom name="Final Fantasy - Unlimited Saga (China) (Bootleg) (Sintax).gbc" size="2097152" crc="44484cfc" md5="5aa7189f7b06e9517d3af6c621ca1088" sha1="4dbbfce9cc1b57c53bc3a51344720a85e008988e" status="none" />
+	</game>
+	<game name="Final Fantasy IX (China) (Fixed) (Bootleg) (Sintax)">
+		<description>Final Fantasy IX (China) (Fixed) (Bootleg) (Sintax)</description>
+		<rom name="Final Fantasy IX (China) (Fixed) (Bootleg) (Sintax).gbc" size="2097152" crc="b28a34d2" md5="d7f853d77c3675e2d7f439ea170bc09c" sha1="17a5dc916660de6bed25e7899e4027a5bfc5dd47" status="none" />
+	</game>
+	<game name="Final Fantasy IX (China) (Raw) (Bootleg) (Sintax)">
+		<description>Final Fantasy IX (China) (Raw) (Bootleg) (Sintax)</description>
+		<rom name="Final Fantasy IX (China) (Raw) (Bootleg) (Sintax).gbc" size="2097152" crc="ddf36a27" md5="7c27756ee209e70e5d5c5b3e3cba01d1" sha1="0a62b484c5730a3a1f8b32cc2ed97af128d2130c" status="none" />
 	</game>
 	<game name="Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)">
 		<description>Five Nights at Freddy's (World) (v0.5) (Aftermarket) (Unl)</description>
@@ -393,6 +473,14 @@
 	<game name="Pokemon Scarlet Version (SGB Enhanced) (World) (Aftermarket) (Game Boy Demakes)">
 		<description>Pokemon Scarlet Version (SGB Enhanced) (World) (Aftermarket) (Game Boy Demakes)</description>
 		<rom name="Pokemon Scarlet Version (SGB Enhanced) (World) (Aftermarket) (Game Boy Demakes).gbc" size="1048576" crc="649d0a5d" md5="0372f45c3e45e709ecbe7928c8526ebe" sha1="e2d17fe8a607631053296d698ffb638275aabcf9" status="none" />
+	</game>
+	<game name="Raven-Star (World) (v1.1) (Aftermarket) (Egogarden)">
+		<description>Raven-Star (World) (v1.1) (Aftermarket) (Egogarden)</description>
+		<rom name="Raven-Star (World) (v1.1) (Aftermarket) (Egogarden).gbc" size="524288" crc="30210417" md5="9706b70c69f86340dae179093e07b2ad" sha1="76b03258120c7a3af1b03982d25ddec4fbb106c4" status="none" />
+	</game>
+	<game name="Raven-Star (World) (v1.2) (Aftermarket) (Egogarden)">
+		<description>Raven-Star (World) (v1.2) (Aftermarket) (Egogarden)</description>
+		<rom name="Raven-Star (World) (v1.2) (Aftermarket) (Egogarden).gbc" size="524288" crc="441e73a8" md5="d33ca04789e5c4c5a0c95b7612a0c622" sha1="2d1e792c3b7d76da9fb4c8acb3bce27a0ccf5d70" status="none" />
 	</game>
 	<game name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)">
 		<description>Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)</description>

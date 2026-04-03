@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20260224</version>
+		<version>v20260403</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -29,6 +29,10 @@
 	<game name="Blast Arena Advance (World) (Cartridge Version) (Unl)">
 		<description>Blast Arena Advance (World) (Cartridge Version) (Unl)</description>
 		<rom name="Blast Arena Advance (World) (Cartridge Version) (Unl).gba" size="1286072" crc="bc8cf4a8" md5="cde17fc4f3d41365cb92dd1187196cd8" sha1="38f38fb5644ae74e6cfa2c6c421cee3c37321382" />
+	</game>
+	<game name="Bloxorz (World) (v1.1) (Aftermarket) (Nostabyte Interactive)">
+		<description>Bloxorz (World) (v1.1) (Aftermarket) (Nostabyte Interactive)</description>
+		<rom name="Bloxorz (World) (v1.1) (Aftermarket) (Nostabyte Interactive).gba" size="1595012" crc="6fbbbeec" md5="d5efc4f3cf51f68dc41a2199d610c930" sha1="671e0272701eee6265ec1323746adba9bc290121" status="none" />
 	</game>
 	<game name="Bridge Quest (World) (GBA Jam 2021) (Aftermarket) (Unl)">
 		<description>Bridge Quest (World) (GBA Jam 2021) (Aftermarket) (Unl)</description>
@@ -61,6 +65,10 @@
 	<game name="Chopper (World) (GBAX 2004 Coding Competition) (Unl)">
 		<description>Chopper (World) (GBAX 2004 Coding Competition) (Unl)</description>
 		<rom name="Chopper (World) (GBAX 2004 Coding Competition) (Unl).gba" size="295296" crc="286a2498" md5="59bcfa4952f224974be15d27e937de54" sha1="e30b685510772d0adcabd6bdaeb2da9e1b5fca65" />
+	</game>
+	<game name="Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45)">
+		<description>Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45)</description>
+		<rom name="Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45).gba" size="16777216" crc="0e6bc237" md5="40bc3fd0d7a5b99f2dfbc7f7681fdfef" sha1="7ae75f3c36015ddb7a30591ec6b4df7f2e3a20ba" status="none" />
 	</game>
 	<game name="Coin Fall (World) (GBA Jam 2022) (Aftermarket) (Unl)">
 		<description>Coin Fall (World) (GBA Jam 2022) (Aftermarket) (Unl)</description>

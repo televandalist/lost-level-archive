@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260215</version>
+		<version>v20260315</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -413,11 +413,6 @@
 		<description>PSXFunkin' - With Parappa (v1.1.0) (LordScout)</description>
 		<rom name="PSXFunkin' - With Parappa (v1.1.0) (LordScout).bin" size="218249136" crc="3ed9b3ff" md5="698b4a843054d2fe79b3c8027618eb72" sha1="7cd73c51355daa7ae24ea8f12fd4124cd88d5a73" />
 		<rom name="PSXFunkin' - With Parappa (v1.1.0) (LordScout).cue" size="112" crc="11451a21" md5="21124cd44e7a11aec95cf3de5e07406e" sha1="8ab1b638470788052a7744520c7743fd5f34e37a" />
-	</game>
-	<game name="Rayman - Kaizoman (v20230719) (Destabilize)">
-		<description>Rayman - Kaizoman (v20230719) (Destabilize)</description>
-		<rom name="Rayman - Kaizoman (v20230719) (Destabilize).bin" size="618025632" crc="244806fd" md5="86dcdcefbf1d006d13914c0b3c8105ae" sha1="17f2462d48778a2f6f0e1c13680cc6f2906d4b51" />
-		<rom name="Rayman - Kaizoman (v20230719) (Destabilize).cue" size="3309" crc="6b6ac1f1" md5="ae6f54aa772cf5db6c38346c6f0b3b44" sha1="192de28af27f894cecf8b7c616fcf19267d5b147" />
 	</game>
 	<game name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)">
 		<description>Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)</description>

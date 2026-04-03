@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>005e</id>
+		<name>005e - Lost Level Archive - Nintendo - Game Boy Advance (Extras)</name>
+		<description>Nintendo - Game Boy Advance (Extras)</description>
+		<version>v20260403</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45) (Extras)">
+		<description>Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45) (Extras)</description>
+		<rom name="Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45) - Cover (Japan).png" size="5475396" crc="0a9b11d8" md5="4bbdd056202fcc6f5736baf65720b641" sha1="fb7659347660864362892fdd22da474955311681" status="none" />
+		<rom name="Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45) - Cover (USA).png" size="1174472" crc="15b54442" md5="f2d2673d3f772388addb3b80bbc0bb62" sha1="af04f511cd2281cc82777a2e2f2a38ee4d694a66" status="none" />
+		<rom name="Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45) - Game Pak (Japan).png" size="3546038" crc="b4ca4604" md5="08dc9a8e453acda847de6a0f0a7b2899" sha1="8d880a3a3938fd170f337b95aae75ed1f334e790" status="none" />
+		<rom name="Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45) - Game Pak (USA).png" size="4175119" crc="b544ffad" md5="1a109f4321c3c66c089fdcfa48cd8278" sha1="f2e913a97cea3b6929db7a9cb81b41b257ae5667" status="none" />
+		<rom name="Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45) - Manual (Ja).pdf" size="296481868" crc="059edc3b" md5="3da32e99817834316b509dd500f22fbf" sha1="afad9f55d84f8ef0fa6e65543aa0940bc1510368" status="none" />
+		<rom name="Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45) - Manual (v1.1) (En).pdf" size="167127117" crc="8a8ac863" md5="1ac9cf30be1e0a0c4f452f1895a4c41a" sha1="4e8a29d31763fb15c7f33eb939db1a1251b7d813" status="none" />
+	</game>
+</datafile>

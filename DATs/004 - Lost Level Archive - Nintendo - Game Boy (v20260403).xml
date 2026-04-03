@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260312</version>
+		<version>v20260403</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -444,6 +444,10 @@
 		<description>Phantom Flash (World) (Aftermarket) (brittbrady)</description>
 		<rom name="Phantom Flash (World) (Aftermarket) (brittbrady).gb" size="262144" crc="6b19aab4" md5="30093fb0d428ae67b5a0e5c56346b06a" sha1="bcbfb1052f62a043dd479c4928b42368b4a90b5b" status="none" />
 	</game>
+	<game name="Phoenix Wright - Ace Attorney - Case 1 (World) (v20260321) (Aftermarket) (2bitcrook)">
+		<description>Phoenix Wright - Ace Attorney - Case 1 (World) (v20260321) (Aftermarket) (2bitcrook)</description>
+		<rom name="Phoenix Wright - Ace Attorney - Case 1 (World) (v20260321) (Aftermarket) (2bitcrook).gb" size="2097152" crc="0585c1c8" md5="9abd99f8cc8405c21bbde59911676f71" sha1="df2c0a78b621d55b0f753768f7d6152f5eadf68f" status="none" />
+	</game>
 	<game name="Ping Pong Diplomacy (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Ping Pong Diplomacy (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Ping Pong Diplomacy (World) (v1.0) (Aftermarket) (Unl).gb" size="65536" crc="4092a122" md5="53d59905f1000de11478eb245257313b" sha1="8f42fd334b7978892d6450d1c49ef263e7e64ae6" />
@@ -471,6 +475,10 @@
 	<game name="POG8 (World) (Low Rez Jam 2022) (Aftermarket) (GB Studio)">
 		<description>POG8 (World) (Low Rez Jam 2022) (Aftermarket) (GB Studio)</description>
 		<rom name="POG8 (World) (Low Rez Jam 2022) (Aftermarket) (GB Studio).gb" size="524288" crc="c75f4f9d" md5="ab26fce844b53be100bd3924a4297e9b" sha1="2c24369eb9b291e8af34927f96b5be523cf7e08d" />
+	</game>
+	<game name="Poke Mission 97 (World) (v19971221) (Aftermarket) (Anders Granlund)">
+		<description>Poke Mission 97 (World) (v19971221) (Aftermarket) (Anders Granlund)</description>
+		<rom name="Poke Mission 97 (World) (v19971221) (Aftermarket) (Anders Granlund).gb" size="32768" crc="260d1044" md5="a501d68d760162c6db6d6dd3dfe995ca" sha1="43c555b5f65f282f30b27c983a138ceb265f677f" status="none" />
 	</game>
 	<game name="Poopster (World) (v2019-08-04) (Aftermarket) (Zhamul)">
 		<description>Poopster (World) (v2019-08-04) (Aftermarket) (Zhamul)</description>

@@ -5,11 +5,10 @@
 		<id>071</id>
 		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy</name>
 		<description>Arduboy Inc. - Arduboy</description>
-		<version>v20251231</version>
+		<version>v20260403</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="ArduRogue (World) (brow1067)">
 		<description>ArduRogue (World) (brow1067)</description>
@@ -46,6 +45,10 @@
 	<game name="Gunpy (World) (v0.91) (chokmah.jp)">
 		<description>Gunpy (World) (v0.91) (chokmah.jp)</description>
 		<rom name="Gunpy (World) (v0.91) (chokmah.jp).hex" size="59221" crc="bc82efa0" md5="21a3557d66f459c0f25c26001d681056" sha1="7387d5940d8f60e361316e6322a7c1bbd44d65fa" />
+	</game>
+	<game name="Montana Solitaire (World) (FrankVanDeVen)">
+		<description>Montana Solitaire (World) (FrankVanDeVen)</description>
+		<rom name="Montana Solitaire (World) (FrankVanDeVen).hex" size="36427" crc="8460a871" md5="d36a95d26becf02c8f91bad0def190aa" sha1="a0699a2ee07de55065153fb60e1bd420c60cf0be" status="none" />
 	</game>
 	<game name="Paqman (World) (Fixed) (akkera102)">
 		<description>Paqman (World) (Fixed) (akkera102)</description>

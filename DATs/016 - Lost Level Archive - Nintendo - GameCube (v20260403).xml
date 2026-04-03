@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20260315</version>
+		<version>v20260403</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -121,6 +121,10 @@
 	<game name="SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator)" cloneof="Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)">
 		<description>SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator)</description>
 		<rom name="SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator).iso" size="1222246400" crc="7d7917d6" md5="7b593d713dfedc4bdada456bc5e2d923" sha1="b80ffd58d38e030d18d377de546d937e66ea9391" />
+	</game>
+	<game name="Super Mario Sunshine - 2001 (v1.0 Demo) (Portable Productions)">
+		<description>Super Mario Sunshine - 2001 (v1.0 Demo) (Portable Productions)</description>
+		<rom name="Super Mario Sunshine - 2001 (v1.0 Demo) (Portable Productions).iso" size="886210560" crc="db94a142" md5="a47feeb2db166cfa5db93023aeeec868" sha1="5e27e4cf833a9144c580ab6a9be21f0fe61950b7" status="none" />
 	</game>
 	<game name="Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham)">
 		<description>Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham)</description>

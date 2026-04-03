@@ -5,7 +5,7 @@
 		<id>003e</id>
 		<name>003e - Lost Level Archive - Nintendo - Super Famicom - SNES (Extras)</name>
 		<description>Nintendo - Super Famicom - SNES (Extras)</description>
-		<version>v20260207</version>
+		<version>v20260403</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -288,5 +288,10 @@
 		<rom name="Mega Man 6 (USA) (Fan Port) (v1.2) (MSU-1) (Infidelity) - Box Art.png" size="1365134" crc="1e624f98" md5="7e85183021b21052d940d0bb380442f6" sha1="bdb2c5675816eb71349d9be79a24a535b70417cc" status="none" />
 		<rom name="Mega Man 6 (USA) (Fan Port) (v1.2) (MSU-1) (Infidelity) - Information.txt" size="4209" crc="b344887d" md5="bf4c1b9b0ea209c96c89057549dd91db" sha1="5ad243639ea62273cc945b9e3ccfb4b692e6234c" status="none" />
 		<rom name="Mega Man 6 (USA) (Fan Port) (v1.2) (MSU-1) (Infidelity) - Tracklisting.txt" size="2006" crc="00f7ed7b" md5="783d7226e23a09adf32a6195ebbf122a" sha1="231508531e913e9667ffa91ed72500f32363225e" status="none" />
+	</game>
+	<game name="SMW - Pasta La Vista! Super Mario Bros. (v20260310) (LotsaSpaget) (Extras)">
+		<description>SMW - Pasta La Vista! Super Mario Bros. (v20260310) (LotsaSpaget) (Extras)</description>
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v20260310) (LotsaSpaget) - Manual.pdf" size="4002608" crc="b634cf58" md5="a7dc150563c64c5d59b62e7f9fe4939c" sha1="afe74ef04e16b48dd0e1606a9ea33e1d8091b002" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v20260310) (LotsaSpaget) - Trailer.mp4" size="23475962" crc="584d93cd" md5="dbfb8b1bd35675acbbfbc93ef7d85147" sha1="ce6a76d1014a0bdcd9718cbfe1cc1d61c4bd384d" status="none" />
 	</game>
 </datafile>

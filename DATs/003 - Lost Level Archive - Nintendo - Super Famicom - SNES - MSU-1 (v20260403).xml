@@ -5,11 +5,10 @@
 		<id>003</id>
 		<name>003 - Lost Level Archive - Nintendo - Super Famicom - SNES - MSU-1</name>
 		<description>Nintendo - Super Famicom - SNES - MSU-1</description>
-		<version>v20260207</version>
+		<version>v20260403</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="ActRaiser (USA) (MSU-1) (Darkshock) (#007 - Chiptune Faith by Shiryu)">
 		<description>ActRaiser (USA) (MSU-1) (Darkshock) (#007 - Chiptune Faith by Shiryu)</description>
@@ -868,6 +867,54 @@
 		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-50.pcm" size="7075052" crc="6f2c5394" md5="97f96fda571b8e8f44a4184458a7c06f" sha1="1dc26046dfd4f98b6994616745c270b2d22b7ba9" status="none" />
 		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support)-51.pcm" size="8879972" crc="fd60a044" md5="f709c1f110cdd74f684b72908e0bdda6" sha1="7d3b83cd2d4a49c408ecd4cfcc917d042bf1f654" status="none" />
 		<rom name="Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support).sfc" size="1572864" crc="9ad405c5" md5="4bb8081fe57c4485f60b88875141a91a" sha1="7088cbc5bb77411379e1c0f1fae61595aca0a52f" status="none" />
+	</game>
+	<game name="SMW - Pasta La Vista! Super Mario Bros. (v20260310) (LotsaSpaget)">
+		<description>SMW - Pasta La Vista! Super Mario Bros. (v20260310) (LotsaSpaget)</description>
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-1.pcm" size="505320" crc="149ef354" md5="0916fbc0a7096a9ec0e933b61abd09eb" sha1="803cffeb05f22f6ac71995b9b394b9f837c94b97" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-2.pcm" size="1128772" crc="e9b3256a" md5="1a7f02a698950f97f76cf9824a40dc42" sha1="d0a72c4e3eb80bf011e24095d66a2d09050a3f10" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-3.pcm" size="1953976" crc="b16eb46c" md5="77d43dd4aaf23f9699a7c71d126863d6" sha1="4494936b70797106736cfb4fba850be4c9f5cef8" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-4.pcm" size="1225360" crc="498ce906" md5="4306e7453de13608d1451096ac60faa5" sha1="3ad046640c667dad715021e93d8568c725353e84" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-5.pcm" size="2935312" crc="957a8c50" md5="5747e2dd81309ca76432c83e250550a3" sha1="d3c6ed6d0c4ffe55a06baa671bf3bd3fe008b204" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-6.pcm" size="2727424" crc="44a313cc" md5="5aeed27470a3d7c02f3aaca5a40046fc" sha1="b43293ac7189f7bbe1879f5775d6b507a8a5a94a" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-7.pcm" size="524304" crc="b4faae08" md5="8e02473a116e4e15be16e068c208476e" sha1="b8e655fa479cd0685b7916a19d3d9bc20edc975d" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-8.pcm" size="505320" crc="b1f85eea" md5="a6b7c8436edb34cd1fd0cb67314b4585" sha1="6abbe25d82592576c7201307a8d1979d31f174aa" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-9.pcm" size="495128" crc="a02d4019" md5="a20a928f87bfaf731a61ae5efcfbe6b1" sha1="1ac0358d7d92a9d05ad87d14cf2d1a250a66a91e" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-11.pcm" size="16749528" crc="c44f6783" md5="6c317edf12facfdb8b47bc3417229da4" sha1="1a92c15f67902742dd36097d5e51c6af23123929" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-12.pcm" size="1421764" crc="6f679a79" md5="56c3d7988eb926fd3ad42176a374d8fb" sha1="f9bcc75e5c84d8b0941bc3d4008cad6e410adcc3" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-13.pcm" size="15782860" crc="9354c1a3" md5="bd2a121e7273a547320dfbd6eafa025d" sha1="8f4de70a65e14af898f88f98936ac2c71c971805" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-15.pcm" size="11510108" crc="6d9ea28c" md5="dd11dbb8e0489e9595116605a5fc5767" sha1="c67538c35d033ee85b16a61e5991fadb01b1e143" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-16.pcm" size="4233608" crc="4ac57f13" md5="e2c994e9075be937cc0368bbf3ac4ec6" sha1="a0588424a282990520f4c07a34551e171207003d" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-17.pcm" size="2824588" crc="f5d481d6" md5="31b18b6b6cb8fbfc17c710ccf63c05e7" sha1="eb503a3bd0bed1a936ea51738c3019aed5a4a001" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-18.pcm" size="1277960" crc="e76bbace" md5="a9b461f768fb937e543b8397c89947da" sha1="9bee44a9aa8cb50fbcc3d33bcc326eafb80f0dfb" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-19.pcm" size="11084536" crc="8c8f444b" md5="5f70e36d537990e0b217a5b97026a319" sha1="7872e55d0001c66a28b671a80885cd9782d9bd8f" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-21.pcm" size="17382372" crc="d66e6cdc" md5="c0dac16c7f5b5442f193ef0f86a67970" sha1="d70689728fdfddb81d61f937f516eee4618ec1a3" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-31.pcm" size="683176" crc="4bb39624" md5="d01ebae4fe3e45baa454d1c5687981bd" sha1="6c620e6e7e3e016b1a253591af63b1b000f51bb6" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-32.pcm" size="28839764" crc="f74442c0" md5="cd84b4fe661e11bdcffb2d60385d394f" sha1="02d69a1fa3f741b70ba0f0f84ad9533c1785736a" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-33.pcm" size="4233608" crc="051234f7" md5="c117acd4e864ad40461ba19952d3ef47" sha1="68790a0af4c224f901ea072e279d62276de1d153" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-34.pcm" size="930476" crc="2aa6143b" md5="60e449a85320ead449a4f554da9a9bf7" sha1="f6c10267da569926405a095752fea814bb1fc621" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-35.pcm" size="3519188" crc="deb1b7ea" md5="704a86cccb63dd942336d8f7180c0ec0" sha1="b4cd5d14a16c6b701e66943907c8ec64815e9913" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-36.pcm" size="3565144" crc="e5ad9700" md5="033025a020e3cfa83f9e919ee2ef95e3" sha1="f67d3f4089e88d4ba49f8a74d545115f41964ce8" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-39.pcm" size="530452" crc="334083f8" md5="474bf03ebb19aafe9566ec27c708b273" sha1="4085715c8733342d57db0c76141ea0984a7fb1bc" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-40.pcm" size="874424" crc="60b8d2e3" md5="9f78baa483ba6436c3742aa15ebbc77a" sha1="4c1b6fee0a1879771786af1ac5ee8742df201fb8" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-41.pcm" size="19483036" crc="389ab78b" md5="fa791b8cf300252d1056a7e073df953d" sha1="e8fd141f61dbbdf4b04979a91dab8fc89a146c2b" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-42.pcm" size="10011900" crc="0f0ac8ec" md5="2e040ad6c72e8382d64df93469595b30" sha1="ddb85877eb31ff48ace6d638512b4357626538ea" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-44.pcm" size="13114376" crc="8bc3f925" md5="7d4b23ddd5c65a685e3f93f6da03c3ea" sha1="dedfe8bc6a224754296826a8f5784c695c48019a" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-45.pcm" size="2669484" crc="417886e6" md5="eb16d2ba594b9f276fe29a8ce2ea0834" sha1="20eacbc194a41f4a9fc2284401b143f283b6d2e8" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-46.pcm" size="9186120" crc="50472aa2" md5="f94ff7fde45d2c3389460550e0e77e8c" sha1="29f747fd73baa307a46fd60315c5a552e6c0dc4a" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-47.pcm" size="3986920" crc="2ca11cb8" md5="a2ec55fa986b9344e4ab2a37b9edff22" sha1="d138417dd3666a0edd2b116069893050270cb51f" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-48.pcm" size="423792" crc="640fb2c0" md5="c1a96f8f64093b8fabfe9c5ecde4f3be" sha1="a8fb9326b1d9c99ca43e63d55adc5a411d8a937f" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-49.pcm" size="282640" crc="b8eb1919" md5="3fe0b58991fc656b5eefd8c0030dce17" sha1="5ff4c18c1135b82434ba3bf5592daf84c0cb4af2" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-50.pcm" size="11113208" crc="bb4e6b3f" md5="05067f8ac1c3ee64d4e00de1577dce23" sha1="8913f9f1cf9912276cdb08e402520a3dee79b032" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-51.pcm" size="15776092" crc="edeacf40" md5="b4957ebcd5c15914f103881f61cde9e8" sha1="d6cb0832dfe5cb1f86c666da20fe6c806f12e553" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-52.pcm" size="561548" crc="80d38381" md5="fd0695047cac234c55e85de87fa77f52" sha1="a6c7a4d741595b65591e17ce4b5741e560bb8914" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-53.pcm" size="2254920" crc="95bb743f" md5="f59d577f6eb535d1f3e64a903739db7d" sha1="48baaec19afea88fac1f60f7d298d5a587c9a66f" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-54.pcm" size="247848" crc="da6c0c60" md5="9158916302f33312e97abc8517f16595" sha1="34d6e8f446f2c75e50b2c2a883ad5012ae8bdac9" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-55.pcm" size="1093048" crc="6c0e3596" md5="67f93278e058b42b69f374b8bb9daae2" sha1="0c633068369dd05b07ee233a8c3b3e82d88222a1" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-58.pcm" size="4669420" crc="9a8ec4de" md5="02eedf28b50101acdaa1a4933a36d318" sha1="8f0a456cabb201edf8b0d8062fb81c9264040c56" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-59.pcm" size="13971464" crc="e1423fb7" md5="396b38ff6fb543f290f0dd428f22a215" sha1="0b284b6b2b835e81af3a76169f80bed5bad43707" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget)-60.pcm" size="3565144" crc="e5ad9700" md5="033025a020e3cfa83f9e919ee2ef95e3" sha1="f67d3f4089e88d4ba49f8a74d545115f41964ce8" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget).msu" size="4" crc="e2ab1fb4" md5="c9c9788f6ba353546d6f3723ddd869b6" sha1="d0411931dbb090009a9dd855efc935b32cd94269" status="none" />
+		<rom name="SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget).sfc" size="3145728" crc="55a517f5" md5="e127910a82fc7a9b47adf856c6b2e7e3" sha1="94a6bb60c1ca141c78931086c82834f126662f92" status="none" />
 	</game>
 	<game name="Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)">
 		<description>Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000)</description>
