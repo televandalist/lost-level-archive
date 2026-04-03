@@ -5,7 +5,7 @@
 		<id>076</id>
 		<name>076 - Lost Level Archive - NEC - PC Engine CD - TurboGrafx-CD</name>
 		<description>NEC - PC Engine CD - TurboGrafx-CD</description>
-		<version>v20250907</version>
+		<version>v20260403</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -44,13 +44,13 @@
 	</game>
 	<game name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft)">
 		<description>Ultimate Rally Club (USA) (Aftermarket) (OrionSoft)</description>
-		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 1).wav" size="35910188" crc="8c3d4001" md5="d3d558be9c624df1817f4f47feecf5cf" sha1="e38be5267dbde66ee3bd6ab14717fe08d4a919e4" />
-		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 2).bin" size="530432" crc="f3e2af75" md5="6a49370f8a93d06937b3fb92512ae413" sha1="fefe08ca8f3723b45e099533f82d723b87ec06a5" />
-		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 3).wav" size="47347244" crc="4afaf33a" md5="c5e7685c8818b58cf6f84c253579bec2" sha1="3cce1960c0b51bda585a7759ddf1e28a88ec7ffd" />
-		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 4).wav" size="35891756" crc="cfe56d0c" md5="1dcf49da792dc7d5c0953bc32a274aa9" sha1="7636dee698ac65f4f20d4b4099d10a1f8d2f6533" />
-		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 5).wav" size="63005228" crc="7efb7aaf" md5="b5226bfef8d497fe45c10e08e3bbf058" sha1="22c37e2a7e7b9a785020d36b24238af8b825317b" />
-		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 6).wav" size="46886444" crc="cc821b7e" md5="b798b932335116314aaf9d397ca1b362" sha1="dd04ee580ddac865669d1662ed09a959ba7f936d" />
-		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft).cue" size="769" crc="8417da6c" md5="50eac8e99a6083005e6f07dd991e0f8b" sha1="dc658b71791077a3eb76374057c26d0d0e2d289d" />
+		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 1).wav" size="35910188" crc="8c3d4001" md5="d3d558be9c624df1817f4f47feecf5cf" sha1="e38be5267dbde66ee3bd6ab14717fe08d4a919e4" status="none" />
+		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 2).iso" size="530432" crc="f3e2af75" md5="6a49370f8a93d06937b3fb92512ae413" sha1="fefe08ca8f3723b45e099533f82d723b87ec06a5" status="none" />
+		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 3).wav" size="47347244" crc="4afaf33a" md5="c5e7685c8818b58cf6f84c253579bec2" sha1="3cce1960c0b51bda585a7759ddf1e28a88ec7ffd" status="none" />
+		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 4).wav" size="35891756" crc="cfe56d0c" md5="1dcf49da792dc7d5c0953bc32a274aa9" sha1="7636dee698ac65f4f20d4b4099d10a1f8d2f6533" status="none" />
+		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 5).wav" size="63005228" crc="7efb7aaf" md5="b5226bfef8d497fe45c10e08e3bbf058" sha1="22c37e2a7e7b9a785020d36b24238af8b825317b" status="none" />
+		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Track 6).wav" size="46886444" crc="cc821b7e" md5="b798b932335116314aaf9d397ca1b362" sha1="dd04ee580ddac865669d1662ed09a959ba7f936d" status="none" />
+		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft).cue" size="769" crc="139d2c4d" md5="37db82f34a1294c9646130c8a4cfdf33" sha1="e37f580838c04234a5093351458f685e0ca20c27" status="none" />
 	</game>
 	<game name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru)">
 		<description>Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru)</description>
