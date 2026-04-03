@@ -5,7 +5,7 @@
 		<id>039</id>
 		<name>039 - Lost Level Archive - Sega - Saturn</name>
 		<description>Sega - Saturn</description>
-		<version>v20251212</version>
+		<version>v20260403</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -92,10 +92,44 @@
 		<rom name="Sonic Z-Treme (PAL) (Demo) (Aftermarket) (XL2).cue" size="709" crc="bf875091" md5="39f30c4788ed94ef13ab131eb1f9e3f4" sha1="3bc66ddb877297826326ae70475bcc3b447fb006" />
 		<rom name="Sonic Z-Treme (PAL) (Demo) (Aftermarket) (XL2).iso" size="12091392" crc="511a7181" md5="647bbc5f7721cb48f4402217b8c4c674" sha1="d0c4c8a60c3431d3db5d6219e0891eef5dbe5d20" />
 	</game>
+	<game name="Tomb Raider - Unfinished Business (Europe) (v1.0) (RetroRaiderJohn)">
+		<description>Tomb Raider - Unfinished Business (Europe) (v1.0) (RetroRaiderJohn)</description>
+		<rom name="Tomb Raider - Unfinished Business (Europe) (v1.0) (RetroRaiderJohn).bin" size="168603120" crc="711a465e" md5="a14236d42cd4853082a3d7332c9b1675" sha1="09ced3c03e4344bfc9fe846cc90f2ab2f4eff9a9" status="none" />
+		<rom name="Tomb Raider - Unfinished Business (Europe) (v1.0) (RetroRaiderJohn).cue" size="2163" crc="16626281" md5="97392bc06bcf1abb6458327503b66201" sha1="c847aada615f0c3beaad2e9acba4c8fad6e4c3cd" status="none" />
+	</game>
+	<game name="Tomb Raider - Unfinished Business (Japan) (v1.0) (RetroRaiderJohn)">
+		<description>Tomb Raider - Unfinished Business (Japan) (v1.0) (RetroRaiderJohn)</description>
+		<rom name="Tomb Raider - Unfinished Business (Japan) (v1.0) (RetroRaiderJohn).bin" size="170108400" crc="58cfc348" md5="219c1111f6339b8855f082476d0d642b" sha1="4261f2406f48458f7ec84209791ec44e4d393b99" status="none" />
+		<rom name="Tomb Raider - Unfinished Business (Japan) (v1.0) (RetroRaiderJohn).cue" size="2162" crc="74523325" md5="e7e2ff47ce80612c1712a074430ad469" sha1="538de0ec42e4d6b4d56ce699efcdd04fc0635847" status="none" />
+	</game>
 	<game name="Tomb Raider - Unfinished Business (USA) (v1.0) (RetroRaiderJohn)">
 		<description>Tomb Raider - Unfinished Business (USA) (v1.0) (RetroRaiderJohn)</description>
-		<rom name="Tomb Raider - Unfinished Business (USA) (v1.0) (RetroRaiderJohn).bin" size="168264432" crc="5b9b19cb" md5="f0c2e791b95e7cd01b53b06658be2034" sha1="d2e73abd52337f4bb6d9856574580842abbe79a1" />
-		<rom name="Tomb Raider - Unfinished Business (USA) (v1.0) (RetroRaiderJohn).cue" size="2160" crc="ddb8d854" md5="fdf4845f5b1418b14e36ef177b73363b" sha1="ca9b7dde82f629fc0ce2cb67b90462daa65e8a47" />
+		<rom name="Tomb Raider - Unfinished Business (USA) (v1.0) (RetroRaiderJohn).bin" size="168264432" crc="5b9b19cb" md5="f0c2e791b95e7cd01b53b06658be2034" sha1="d2e73abd52337f4bb6d9856574580842abbe79a1" status="none" />
+		<rom name="Tomb Raider - Unfinished Business (USA) (v1.0) (RetroRaiderJohn).cue" size="2160" crc="ddb8d854" md5="fdf4845f5b1418b14e36ef177b73363b" sha1="ca9b7dde82f629fc0ce2cb67b90462daa65e8a47" status="none" />
+	</game>
+	<game name="Tomb Raider - Unfinished Business - Expert (Europe) (v1.0) (RetroRaiderJohn)">
+		<description>Tomb Raider - Unfinished Business - Expert (Europe) (v1.0) (RetroRaiderJohn)</description>
+		<rom name="Tomb Raider - Unfinished Business - Expert (Europe) (v1.0) (RetroRaiderJohn).bin" size="168603120" crc="52615727" md5="542610fcb3797e995930b26d27e9c7ae" sha1="5d8f529098c372704b4c6b2ba3279cb2eb126f1a" status="none" />
+		<rom name="Tomb Raider - Unfinished Business - Expert (Europe) (v1.0) (RetroRaiderJohn).cue" size="2172" crc="55bda122" md5="da17ce1757fc99231970c4c824f5b940" sha1="adf282c24e3d18e14381f9b1a9be48fd6acefd1e" status="none" />
+	</game>
+	<game name="Tomb Raider - Unfinished Business - Expert (USA) (v1.0) (RetroRaiderJohn)">
+		<description>Tomb Raider - Unfinished Business - Expert (USA) (v1.0) (RetroRaiderJohn)</description>
+		<rom name="Tomb Raider - Unfinished Business - Expert (USA) (v1.0) (RetroRaiderJohn).bin" size="168264432" crc="e3c03a0b" md5="f4d85e2d563fdf2522a662cadbfa1ddc" sha1="48224426666ae90c837c556582da175f9ca4d1df" status="none" />
+		<rom name="Tomb Raider - Unfinished Business - Expert (USA) (v1.0) (RetroRaiderJohn).cue" size="2169" crc="50fdb975" md5="a9af2ce03219abc456a1815ee4c92e94" sha1="daa4c31eb5b20db5d908cf5b7dc6ee9b5358ddb7" status="none" />
+	</game>
+	<game name="Tomb Raider II (Europe) (Demo) (v1.0) (RetroRaiderJohn)">
+		<description>Tomb Raider II (Europe) (Demo) (v1.0) (RetroRaiderJohn)</description>
+		<rom name="Tomb Raider II (Europe) (Demo) (v1.0) (RetroRaiderJohn).ccd" size="10678" crc="989ce13e" md5="192b8110dbcd0be6105fffbfb7990315" sha1="1c98f484831d3902514beee33e1e7d8fbc845c03" status="none" />
+		<rom name="Tomb Raider II (Europe) (Demo) (v1.0) (RetroRaiderJohn).cue" size="2212" crc="06bc8ee5" md5="42221f374b805480d67227ea8a21036b" sha1="ae92cb1387968bcceb60cb29f3da9847e4073251" status="none" />
+		<rom name="Tomb Raider II (Europe) (Demo) (v1.0) (RetroRaiderJohn).img" size="184060464" crc="e412ac46" md5="64fe1f5caf54ad7097e06337c4eebd14" sha1="d252737556a254ca414bc10114972e3170df7b85" status="none" />
+		<rom name="Tomb Raider II (Europe) (Demo) (v1.0) (RetroRaiderJohn).sub" size="7512672" crc="08a915dd" md5="e7ec39a338304a83959653dc7c0622a0" sha1="4b5f22bebd04dba5303013ad3128acc8b90fdb68" status="none" />
+	</game>
+	<game name="Tomb Raider II (USA) (Demo) (v1.0) (RetroRaiderJohn)">
+		<description>Tomb Raider II (USA) (Demo) (v1.0) (RetroRaiderJohn)</description>
+		<rom name="Tomb Raider II (USA) (Demo) (v1.0) (RetroRaiderJohn).ccd" size="10678" crc="989ce13e" md5="192b8110dbcd0be6105fffbfb7990315" sha1="1c98f484831d3902514beee33e1e7d8fbc845c03" status="none" />
+		<rom name="Tomb Raider II (USA) (Demo) (v1.0) (RetroRaiderJohn).cue" size="2209" crc="9f2167d2" md5="4d7b5ea3d29b70b3a8fc6c444b148b36" sha1="7d7d9ccb09e6e1ffcaa4c7723e0f96e41867aa8a" status="none" />
+		<rom name="Tomb Raider II (USA) (Demo) (v1.0) (RetroRaiderJohn).img" size="184060464" crc="b684e7be" md5="5a4722eb62b9c6520837cb44dfaa64c6" sha1="dd1a343b977016ab9f71bba492be02f7c7cc0004" status="none" />
+		<rom name="Tomb Raider II (USA) (Demo) (v1.0) (RetroRaiderJohn).sub" size="7512672" crc="08a915dd" md5="e7ec39a338304a83959653dc7c0622a0" sha1="4b5f22bebd04dba5303013ad3128acc8b90fdb68" status="none" />
 	</game>
 	<game name="Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) (En) (v1.5) (Stardust Crusaders)" cloneof="Vandal Hearts - Ushinawareta Kodai Bunmei (Japan)">
 		<description>Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) (En) (v1.5) (Stardust Crusaders)</description>
