@@ -10,10 +10,6 @@
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 	</header>
-	<game name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto)">
-		<description>40 Winks (Europe) (En,Fr,De,Es,It) (Proto)</description>
-		<rom name="40 Winks (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="1048576" crc="9b20c473" md5="2ce4eab7166281a80cab3f1ae1ae25ae" sha1="3e704498d35a1d3cb965222e8799cf80be24ea4d" status="none" />
-	</game>
 	<game name="2003 Crash II Advance (China) (Bootleg) (Unl)">
 		<description>2003 Crash II Advance (China) (Bootleg) (Unl)</description>
 		<rom name="2003 Crash II Advance (China) (Bootleg) (Unl).gbc" size="4194304" crc="0af243bf" md5="927abf95eaada539668c2e71d35be5c7" sha1="13b1a3f64664cc09f628e53e13c9b66b17e9f500" />
