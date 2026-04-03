@@ -8,7 +8,6 @@
 		<version>v20260111</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="Astro-Grover (1987) (Hi-Tech Expressions)">
 		<description>Astro-Grover (1987) (Hi-Tech Expressions)</description>

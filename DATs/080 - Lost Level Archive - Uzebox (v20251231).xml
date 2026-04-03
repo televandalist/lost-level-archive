@@ -8,7 +8,6 @@
 		<version>v20251231</version>
 		<author>televandalist</author>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="2048 (World) (Harty123)">
 		<description>2048 (World) (Harty123)</description>

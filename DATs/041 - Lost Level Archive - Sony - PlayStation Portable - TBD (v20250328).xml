@@ -9,7 +9,6 @@
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
-		<clrmamepro forcenodump="required"/>
 		<comment>The files in this DAT are English-patched games that require additional files in the GAME and TEXTURE directories</comment>
 	</header>
 	<game name="God Eater 2 (Japan) (v1.30) (En) (v2.0) (RedArtz)">
