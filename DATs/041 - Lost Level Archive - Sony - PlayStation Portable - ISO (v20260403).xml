@@ -18,7 +18,7 @@
 		<description>7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax)</description>
 		<rom name="7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax).iso" size="1585754112" crc="7b9f510e" md5="e1c69d7442cb17b7874281a22fc1d9e4" sha1="a76a6ccef253a81573659126ce746fa3d6af99a7" />
 	</game>
-	<game>
+	<game name="7th Dragon 2020-II (Japan) (En) (v0.91) (Pokeytax)">
 		<description>7th Dragon 2020-II (Japan) (En) (v0.91) (Pokeytax)</description>
 		<rom name="7th Dragon 2020-II (Japan) (En) (v0.91) (Pokeytax).iso" size="1324140544" crc="e557d67e" md5="5236bd6e09ee30a485b94847dd67f216" sha1="3214af68854f4caf54acc49d90ed38bf64f03caf" status="none" />
 	</game>
