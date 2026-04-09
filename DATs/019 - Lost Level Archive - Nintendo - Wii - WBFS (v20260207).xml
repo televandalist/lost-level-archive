@@ -26,4 +26,8 @@
 		<description>Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist)</description>
 		<rom name="Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist).wbfs" size="4177526784" crc="6f99bb4b" md5="92563e0f82a6720df7bc1f66db11031e" sha1="316776056c3de6c271fc4a4bddc852024533773e" status="none" />
 	</game>
+	<game name="Resident Evil Archives - Resident Evil (USA) (Ru) (Russian Studio Video 7)">
+		<description>Resident Evil Archives - Resident Evil (USA) (Ru) (Russian Studio Video 7)</description>
+		<rom name="Resident Evil Archives - Resident Evil (USA) (Ru) (Russian Studio Video 7).wbfs" size="3791650816" crc="f4b0ba67" md5="38789971117acf2ae01ab80155d16629" sha1="51f29196d9856437997a8f9ff34fd40f8eddf73e" status="none" />
+	</game>
 </datafile>
