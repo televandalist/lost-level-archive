@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260315</version>
+		<version>v20260408</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -116,11 +116,6 @@
 		<description>Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz)</description>
 		<rom name="Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz).bin" size="128623824" crc="92d6c60a" md5="303ba616697d17bc430dda859fdc497b" sha1="a34f3bcc6888badcefa8f8d1cfad42bf2b20bf11" />
 		<rom name="Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz).cue" size="130" crc="88d01602" md5="77453084ccce1b62f49ffbbdb2b09ea5" sha1="2ff174b46535b387162fa2f552785c58ac91152c" />
-	</game>
-	<game name="Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper)">
-		<description>Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper)</description>
-		<rom name="Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper).bin" size="670543440" crc="6659d2a7" md5="00f39b9680bf3ef36c66206cf5a2bf1b" sha1="d50f64596dcf5c6a519cf1ef85401bde16c87ae9" />
-		<rom name="Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper).cue" size="136" crc="6819e31b" md5="5ed0921f23ede92efaf596208b7b4763" sha1="3b06f3d89f581615b791c1640df105fc17c13015" />
 	</game>
 	<game name="Goemon - Shin Sedai Shuumei (Japan) (En) (v1.0) (acediez)">
 		<description>Goemon - Shin Sedai Shuumei (Japan) (En) (v1.0) (acediez)</description>

@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - ISO</name>
 		<description>Nintendo - Wii - ISO</description>
-		<version>v20260406</version>
+		<version>v20260408</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -33,5 +33,13 @@
 	<game name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)">
 		<description>Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)</description>
 		<rom name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist).iso" size="4699979776" crc="fb3e5853" md5="284c6e4a40f32d78fe4b16150d1944d4" sha1="f30ef7e343b91612f6a90914c09c1d5167cf608b" status="none" />
+	</game>
+	<game name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)">
+		<description>Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)</description>
+		<rom name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex).iso" size="4699979776" crc="ef38b619" md5="1b054a4debf9c5f5674ff117fc6458b9" sha1="fa84a346343059acb80d2d41970168178af15318" status="none" />
+	</game>
+	<game name="SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128)">
+		<description>SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128)</description>
+		<rom name="SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128).iso" size="4699979776" crc="9ddafd1b" md5="e1123b14b10895c9dcfd210954765a1b" sha1="3545346f393cee0073cfebdca848e6bd6afefe03" status="none" />
 	</game>
 </datafile>
