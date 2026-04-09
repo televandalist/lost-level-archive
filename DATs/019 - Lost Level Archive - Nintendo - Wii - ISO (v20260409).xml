@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - ISO</name>
 		<description>Nintendo - Wii - ISO</description>
-		<version>v20260408</version>
+		<version>v20260409</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -21,6 +21,14 @@
 	<game name="Fragile Dreams - Farewell Ruins of the Moon (USA) (Pt-Br) (v1.0) (Projeto New Dreams)">
 		<description>Fragile Dreams - Farewell Ruins of the Moon (USA) (Pt-Br) (v1.0) (Projeto New Dreams)</description>
 		<rom name="Fragile Dreams - Farewell Ruins of the Moon (USA) (Pt-Br) (v1.0) (Projeto New Dreams).iso" size="4699979776" crc="caa99108" md5="29dabc8164f08e831b8ec1d95e20d83c" sha1="c2642033a9611111e19df6142c73b4f337292034" status="none" />
+	</game>
+	<game name="Just Dance 2020 - Just Dance 2026 (Censored) (v1.2.1) (FreddyLuco, Sofie)">
+		<description>Just Dance 2020 - Just Dance 2026 (Censored) (v1.2.1) (FreddyLuco, Sofie)</description>
+		<rom name="Just Dance 2020 - Just Dance 2026 (Censored) (v1.2.1) (FreddyLuco, Sofie).iso" size="4699979776" crc="8a33a643" md5="e95904ccee8b34b8bf3291e653b1da2f" sha1="dab28a5ed4f975094db00d287b1703e99977a71a" status="none" />
+	</game>
+	<game name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)">
+		<description>Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)</description>
+		<rom name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie).iso" size="4699979776" crc="9788dd57" md5="4b3352e53c12bea2962cdb4b251b3cba" sha1="99cfe2a5e0364d454d18bb7e938d9433192b06b2" status="none" />
 	</game>
 	<game name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)">
 		<description>NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)</description>

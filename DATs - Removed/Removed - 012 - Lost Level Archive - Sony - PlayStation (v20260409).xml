@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>Removed - 012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Removed - Sony - PlayStation</description>
-		<version>v20260408</version>
+		<version>v20260409</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -21,5 +21,20 @@
 		<comment>Removed since a patch under GitHub's upload limit was made for RAPatches</comment>
 		<rom name="Rayman - Kaizoman (v20230719) (Destabilize).bin" size="618025632" crc="244806fd" md5="86dcdcefbf1d006d13914c0b3c8105ae" sha1="17f2462d48778a2f6f0e1c13680cc6f2906d4b51" />
 		<rom name="Rayman - Kaizoman (v20230719) (Destabilize).cue" size="3309" crc="6b6ac1f1" md5="ae6f54aa772cf5db6c38346c6f0b3b44" sha1="192de28af27f894cecf8b7c616fcf19267d5b147" />
+	</game>
+	<game name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)">
+		<description>Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)</description>
+		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins).bin" size="661678752" crc="F08A4D06" md5="D9D3211569141ABE470D9B52748F5FC3" sha1="63F81BCF014840855EE4D0875093577C4B499543"/>
+		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins).cue" size="116" crc="C5422413" md5="12DC398B8F512A65965253A894FC33B6" sha1="AC25D7328D68B4301A8E94F17530BD66CDCCC240"/>
+	</game>
+	<game name="Resident Evil - The Prison (v1.2) (Aydan Watkins)">
+		<description>Resident Evil - The Prison (v1.2) (Aydan Watkins)</description>
+		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins).bin" size="661391808" crc="77C186A0" md5="0A1B8672A1E67D52D2313360D0EC90DE" sha1="95D835EED104CD839395D7B09039D1F33BC52773"/>
+		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins).cue" size="115" crc="211A279A" md5="73628192A738E0033B28FD995F253BB9" sha1="7DAB3B98394A35A8EAD91226EACB9AD4A8BB83A3"/>
+	</game>
+	<game name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)">
+		<description>Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)</description>
+		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).bin" size="661027248" crc="6EC403D1" md5="23CDD171B7909528F834F0C9765F27C0" sha1="029593955983A15F900C763622E0CE78BED1288F"/>
+		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).cue" size="127" crc="524FC91C" md5="1E189CE109C4F26FBEC8631AC6C8936E" sha1="FEFDFA29A1933DECDE58BEC4222C826D1AD3B5B7"/>
 	</game>
 </datafile>

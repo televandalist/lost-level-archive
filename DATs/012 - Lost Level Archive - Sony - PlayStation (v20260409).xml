@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260408</version>
+		<version>v20260409</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -409,16 +409,6 @@
 		<rom name="PSXFunkin' - With Parappa (v1.1.0) (LordScout).bin" size="218249136" crc="3ed9b3ff" md5="698b4a843054d2fe79b3c8027618eb72" sha1="7cd73c51355daa7ae24ea8f12fd4124cd88d5a73" />
 		<rom name="PSXFunkin' - With Parappa (v1.1.0) (LordScout).cue" size="112" crc="11451a21" md5="21124cd44e7a11aec95cf3de5e07406e" sha1="8ab1b638470788052a7744520c7743fd5f34e37a" />
 	</game>
-	<game name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)">
-		<description>Resident Evil - Deep Freeze (v0.1) (Aydan Watkins)</description>
-		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins).bin" size="661678752" crc="F08A4D06" md5="D9D3211569141ABE470D9B52748F5FC3" sha1="63F81BCF014840855EE4D0875093577C4B499543"/>
-		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins).cue" size="116" crc="C5422413" md5="12DC398B8F512A65965253A894FC33B6" sha1="AC25D7328D68B4301A8E94F17530BD66CDCCC240"/>
-	</game>
-	<game name="Resident Evil - The Prison (v1.2) (Aydan Watkins)">
-		<description>Resident Evil - The Prison (v1.2) (Aydan Watkins)</description>
-		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins).bin" size="661391808" crc="77C186A0" md5="0A1B8672A1E67D52D2313360D0EC90DE" sha1="95D835EED104CD839395D7B09039D1F33BC52773"/>
-		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins).cue" size="115" crc="211A279A" md5="73628192A738E0033B28FD995F253BB9" sha1="7DAB3B98394A35A8EAD91226EACB9AD4A8BB83A3"/>
-	</game>
 	<game name="Resident Evil 0 Demake (v0.1) (Biohazard Espana)">
 		<description>Resident Evil 0 Demake (v0.1) (Biohazard Espana)</description>
 		<rom name="Resident Evil 0 Demake (v0.1) (Biohazard Espana).bin" size="568786512" crc="AADE6B8A" md5="AEFA8F53118CE3EC2E9A10E7FBA93A1E" sha1="36E68F5F56ECCB18B92EE6A886200DC695C7BF42"/>
@@ -449,11 +439,6 @@
 		<description>Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (kalash49)</description>
 		<rom name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (kalash49).bin" size="721812336" crc="d20ad0ff" md5="e3d7b969d14b54806b41713675386c45" sha1="cdf240484ec1bc478ce24b4acdd058327c2254cd" status="none" />
 		<rom name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (kalash49).cue" size="120" crc="a05088e2" md5="fc437bcdf9fc4c1802b393683b66ff35" sha1="7d21f1570cb690e2dfc7cfdbcddd85673a9d1968" status="none" />
-	</game>
-	<game name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)">
-		<description>Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins)</description>
-		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).bin" size="661027248" crc="6EC403D1" md5="23CDD171B7909528F834F0C9765F27C0" sha1="029593955983A15F900C763622E0CE78BED1288F"/>
-		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins).cue" size="127" crc="524FC91C" md5="1E189CE109C4F26FBEC8631AC6C8936E" sha1="FEFDFA29A1933DECDE58BEC4222C826D1AD3B5B7"/>
 	</game>
 	<game name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie)">
 		<description>Roll Boss Rush (World) (Aftermarket) (Mini Zombie)</description>
