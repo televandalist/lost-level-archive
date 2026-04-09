@@ -50,4 +50,8 @@
 		<description>SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128)</description>
 		<rom name="SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128).iso" size="4699979776" crc="9ddafd1b" md5="e1123b14b10895c9dcfd210954765a1b" sha1="3545346f393cee0073cfebdca848e6bd6afefe03" status="none" />
 	</game>
+	<game name="Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss)">
+		<description>Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss)</description>
+		<rom name="Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss).iso" size="4699979776" crc="fdd26d18" md5="a5df37f640e0c2ae89f225c6a313f639" sha1="0e1000bc9723a337068b805280532426429e659b" status="none" />
+	</game>
 </datafile>
