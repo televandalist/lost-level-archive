@@ -5,7 +5,7 @@
 		<id>039</id>
 		<name>039 - Lost Level Archive - Sega - Saturn</name>
 		<description>Sega - Saturn</description>
-		<version>v20260403</version>
+		<version>v20260408</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -71,6 +71,19 @@
 		<rom name="Policenauts (Japan) (En) (v1.0.1) (JunkerHQ) (Disc 3) (Track 1).bin" size="447076352" crc="80b6ee9f" md5="1177215f37ec9ec773bed9b12bcf4c44" sha1="50b1aa207301c0e72601bf6ef5963c88da5bcace" />
 		<rom name="Policenauts (Japan) (En) (v1.0.1) (JunkerHQ) (Disc 3) (Track 2).bin" size="4458496" crc="f20f1002" md5="3b835bc9c02f3efe1defbf5af9010038" sha1="59c85820d17baff8c554d5b592d7acbec3569558" />
 		<rom name="Policenauts (Japan) (En) (v1.0.1) (JunkerHQ) (Disc 3).cue" size="253" crc="f470156b" md5="61856516a19d1f74d7a4712aeabf7a92" sha1="ab2aa3feef96250fb72ba6bdfdbcff8ec378ec5e" />
+	</game>
+	<game name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel)">
+		<description>Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel)</description>
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel) (Track 01).iso" size="20676608" crc="e8868947" md5="91385b9c495975c3c6375f818cdb012c" sha1="0208f1cd32ed4e564c7e332c8f60fbe96f408b7b" status="none" />
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel) (Track 02).wav" size="13713476" crc="51c4b3a7" md5="0bb8b25fdc9b01bdb82ebd9a12fa1b28" sha1="405cee3739af1c37139ca3f62e7a55c8aaf5a9d9" status="none" />
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel) (Track 03).wav" size="10886994" crc="1cd740ba" md5="4518a7c60732ed266e46f16928ad140d" sha1="dcff502b1e44996a5d19249247a546641b1c6739" status="none" />
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel) (Track 04).wav" size="7866750" crc="47b42a61" md5="58230a73626fd30ab1517f54af29f55d" sha1="dad4de491ba7993cfc947c833fff87b351aa48b3" status="none" />
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel) (Track 05).wav" size="1001224" crc="d197ef8c" md5="adc3e09fb19085a7e556d03bda2e4938" sha1="049d725888ff7d6ff4985446a09bbba33cf6e8b7" status="none" />
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel) (Track 06).wav" size="20942934" crc="e2fdc481" md5="dafcd6148bc4a7f5ba9b9506f427b22b" sha1="a1e6865efad21ea3379db11c23b11eaec55bfec7" status="none" />
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel) (Track 07).wav" size="9826042" crc="5444b6ce" md5="453bcdfae1eb0d6aab7ec01b0dda339e" sha1="9b78f1ec78ed5a3b57e8a187bfb355a3302be2dd" status="none" />
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel) (Track 08).wav" size="22601410" crc="b503948b" md5="fd4632aa774bc538806ddfe4b0e1694f" sha1="0daeed6461dc010a98fe9f6fba84b1bad270ec18" status="none" />
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel) (Track 09).wav" size="11467188" crc="5e732a80" md5="a448fba8d787b6f792088082a6a5f6fb" sha1="f3a02e93df3a22ecc1763c516bef78df5e58cdd1" status="none" />
+		<rom name="Sonic X-Treme (World) (v20220829) (Aftermarket) (Voxel).cue" size="1179" crc="22a8e895" md5="248a1a9a934b77d1bc1f035bb2a1984b" sha1="59b155e9341d8f01bdca9aa24c7680f09690a58e" status="none" />
 	</game>
 	<game name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2)">
 		<description>Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2)</description>

@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260403</version>
+		<version>v20260408</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -193,6 +193,10 @@
 	<game name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)">
 		<description>Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222)</description>
 		<rom name="Fable - 20th Anniversary Demake (World) (v1.0) (Aftermarket) (GB Studio) (james222).gbc" size="2097152" crc="b7cdf437" md5="160d4da4a787f957fbd5079db6ee86b2" sha1="2910f9cc95a2e521abf63d7b79b329216145997c" />
+	</game>
+	<game name="Final Fantasy (China) (Bootleg) (Waixing) (2004SR05370)">
+		<description>Final Fantasy (China) (Bootleg) (Waixing) (2004SR05370)</description>
+		<rom name="Final Fantasy (China) (Bootleg) (Waixing) (2004SR05370).gbc" size="1048576" crc="0ba8bb72" md5="feb2c6a6e7cf76137ff4e32422f18139" sha1="cb7dc7465e64f563b857804021a69fb7656b67df" status="none" />
 	</game>
 	<game name="Final Fantasy - Unlimited Saga (China) (Bootleg) (Sintax)">
 		<description>Final Fantasy - Unlimited Saga (China) (Bootleg) (Sintax)</description>
@@ -453,6 +457,10 @@
 	<game name="Paramo Yermo (World) (Es) (Aftermarket) (GB Studio)">
 		<description>Paramo Yermo (World) (Es) (Aftermarket) (GB Studio)</description>
 		<rom name="Paramo Yermo (World) (Es) (Aftermarket) (GB Studio).gbc" size="2097152" crc="2ec2ecc6" md5="e26455fae5f0d9b03d33126809369e75" sha1="c68bf5ec9508bc72b5ddc4036e7a1b7ae4818590" />
+	</game>
+	<game name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro)">
+		<description>Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro)</description>
+		<rom name="Pazaak Battles, The (World) (En,Es) (v1.3) (Aftermarket) (Rubenretro).gbc" size="1048576" crc="b17f3100" md5="65aa7a9d176c5567f23dcf9b7b0963b8" sha1="fd8f95abe5dd3c559738db78ad1affbac4ba6387" status="none" />
 	</game>
 	<game name="Petris (World) (v20200916) (Aftermarket) (bbbbbr)">
 		<description>Petris (World) (v20200916) (Aftermarket) (bbbbbr)</description>

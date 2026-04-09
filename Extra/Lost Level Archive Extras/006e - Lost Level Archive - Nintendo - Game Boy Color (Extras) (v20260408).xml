@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>006e</id>
+		<name>006e - Lost Level Archive - Nintendo - Game Boy Color (Extras)</name>
+		<description>Nintendo - Game Boy Color (Extras)</description>
+		<version>v20260408</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Dangan GB2 (World) (Aftermarket) (snorpung) - Extras">
+		<description>Dangan GB2 (World) (Aftermarket) (snorpung) - Extras</description>
+		<rom name="Dangan GB2 (World) (Aftermarket) (snorpung) - Manual.pdf" size="2487811" crc="93de5ef0" md5="c52c8a488436f222ec6c8b5d540fd9a4" sha1="a995dd12ba444897635e816092f8cb76dbeb1df9" status="none" />
+	</game>
+	<game name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios) - Extras">
+		<description>Galacard Platinum (World) (Aftermarket) (Bipedal Studios) - Extras</description>
+		<rom name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios) - Strategy Guide.pdf" size="133398" crc="8942bbf5" md5="c84c2d88946ef84e2dbcc676d6d4c609" sha1="79e32ec82bcf33d023a31130c9cc75ea596eb41b" status="none" />
+	</game>
+	<game name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Extras">
+		<description>Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Extras</description>
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Box Art (En).pdf" size="97226525" crc="309749de" md5="bb52d7d322fcbb38e10d302266aad97f" sha1="2956afe7205ef69e1649a8863b0b6696fbc7fe5e" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Box Art (Es).pdf" size="97142069" crc="9354b172" md5="0b9bc7c019d6baedf40455570c5fcfd5" sha1="9ba80c5347ad77ecbc1831a43c91dfd9e1b672d5" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Manual P1A (En).pdf" size="60015949" crc="d562d61d" md5="0c7496ecc0df63549104e105bfcb4a8d" sha1="faa274743734767cc7846d3150af69abddb5497a" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Manual P1A (Es).pdf" size="60029050" crc="0801668f" md5="3e3b04f9e2ccc0f4764e9fe1208881d8" sha1="f5ae2c3444b45993801e5ef3d326fc7cc32bbb5f" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Manual P1B (En).pdf" size="59019034" crc="c4d261f3" md5="8a52e4b27bac6939e8be1d50f690c031" sha1="950f4a21363018bc073b0adebb258c374080d31e" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Manual P1B (Es).pdf" size="59030876" crc="d3c33eda" md5="658fca253424825214cff6081206dd8a" sha1="4628e9bb1ebb54395d3bae8d81cc771f2f7ef1ee" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Manual P2A (En).pdf" size="57910012" crc="0e84404d" md5="c9e4cc0a12ca28fab4f08d7b5e10319b" sha1="469ab78d3f0e67f3c41e702fe72d195f8edd53d6" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Manual P2A (Es).pdf" size="57951434" crc="7541303f" md5="84c21b9ed7002882ac483f14d067874d" sha1="b050c1cf9d67a8c51438a38f1360a3c2189722b4" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Manual P2B (En).pdf" size="57760651" crc="cdeb0348" md5="4ea0212de01e9570f2a1db4ad5f3e716" sha1="16e04b8ced74fc5686dadfc22b7684a6305f7c1b" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Manual P2B (Es).pdf" size="57829415" crc="a27097c1" md5="5f310d0f18fb61ef8bad90fc67266c8d" sha1="f25eb26e9212dc1575df00d09ba82942ff4b5eb4" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Promo - (En).pdf" size="84419326" crc="b2caec42" md5="9bcc147e60da4e17b0cad4d6cd8acd80" sha1="f820d50043ac04f93dfdc983d66cf1e19b944e1d" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Promo - (Es).pdf" size="185315629" crc="c4770a46" md5="5a3d6c4c19a22ad6f76bef1b35fb6eea" sha1="2d6478e322c4f3a535cd70f6e7f3ddec5f4f11b2" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Sticker (En).png" size="3473533" crc="dc962516" md5="a08d5f5f73cb6bdcada2fa543d1356f7" sha1="30be92728912077066c0d34d671248c4bcef4e02" status="none" />
+		<rom name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro) - Sticker (Es).png" size="3473533" crc="511edb8b" md5="55d963d7deea44e28e9fc56f3ff5865c" sha1="f7d34242b200ae5e06d7a8ff8d99d14d596a3b39" status="none" />
+	</game>
+	<game name="Petris (World) (v20200916) (Aftermarket) (bbbbbr) - Extras">
+		<description>Petris (World) (v20200916) (Aftermarket) (bbbbbr) - Extras</description>
+		<rom name="Petris (World) (v20200916) (Aftermarket) (bbbbbr) - Manual.pdf" size="53266" crc="2c88779c" md5="9496947e72a32df86c005353dc4f4d7d" sha1="b4e5e3c2094708f511099686321d3842be44cd03" status="none" />
+	</game>
+	<game name="Piropa (World) (v2.1) (Aftermarket) (sg) - Extras">
+		<description>Piropa (World) (v2.1) (Aftermarket) (sg) - Extras</description>
+		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg) - Box Art.pdf" size="1455450" crc="b7dc26df" md5="e2f2a2b9ebf06d5e4cb396520d40a958" sha1="5ac0e78c1306133068e91b89ee9076ecfd385524" status="none" />
+		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg) - Cartridge Sticker.pdf" size="80974" crc="da44f19f" md5="b97dcb2fe52014609ce8c52b74f26403" sha1="661d3bffbc195fbfb075f0f2267efd1962b43f4f" status="none" />
+		<rom name="Piropa (World) (v2.1) (Aftermarket) (sg) - Manual.pdf" size="1232449" crc="37219b4e" md5="6a2e59057810acf7de49ac46c84fa2a9" sha1="937a18087105be3b3059ed16ccde290618e01f00" status="none" />
+	</game>
+	<game name="Sqrxz (World) (v0.95) (Aftermarket) (Icarus Productions) - Extras">
+		<description>Sqrxz (World) (v0.95) (Aftermarket) (Icarus Productions) - Extras</description>
+		<rom name="Sqrxz (World) (v0.95) (Aftermarket) (Icarus Productions) - Manual.txt" size="5650" crc="dfc3dd0d" md5="a81e287d33a767d104686c2b8e19384f" sha1="ffe988a9da159e9838b8c4e151a1f363003bf285" status="none" />
+	</game>
+	<game name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Extras">
+		<description>TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Extras</description>
+		<rom name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Manual.pdf" size="5607230" crc="7f25cd0e" md5="07492bafc22a62ec443e476c5cbfbd13" sha1="e8b3737249d3e7f84929360bb4ab3a78a5e25db3" status="none" />
+	</game>
+</datafile>
