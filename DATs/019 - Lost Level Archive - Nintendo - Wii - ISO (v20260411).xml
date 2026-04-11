@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - ISO</name>
 		<description>Nintendo - Wii - ISO</description>
-		<version>v20260409</version>
+		<version>v20260411</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -49,6 +49,10 @@
 	<game name="SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128)">
 		<description>SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128)</description>
 		<rom name="SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128).iso" size="4699979776" crc="9ddafd1b" md5="e1123b14b10895c9dcfd210954765a1b" sha1="3545346f393cee0073cfebdca848e6bd6afefe03" status="none" />
+	</game>
+	<game name="Tales of Graces (Japan) (Rev 2) (En) (AdmiralCurtis)">
+		<description>Tales of Graces (Japan) (Rev 2) (En) (AdmiralCurtis)</description>
+		<rom name="Tales of Graces (Japan) (Rev 2) (En) (AdmiralCurtis).iso" size="4699979776" crc="b574d30d" md5="9a9435f6763297be83f6ca05db898b64" sha1="b3e02ce2b79afec42aa747ac82cf3382ed4858f3" status="none" />
 	</game>
 	<game name="Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss)">
 		<description>Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss)</description>

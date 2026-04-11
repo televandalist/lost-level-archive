@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>006</id>
+		<name>Removed - 006 - Lost Level Archive - Nintendo - Game Boy Color</name>
+		<description>Removed - Nintendo - Game Boy Color</description>
+		<version>v20260411</version>
+		<author>tele</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)">
+		<description>AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl).gbc" size="524288" crc="f71042b8" md5="df0d1dba0a83f8d65e3bb7e6720ef8eb" sha1="c3f0296535e11fd6fb581c976e2cb98b0f15506b" />
+	</game>
+	<game name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)">
+		<description>Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl).gbc" size="262144" crc="5312f81c" md5="4daf9a94ff78252257e22a34516e5105" sha1="05d553049a1ba1999e5891097471bff1b882cee7" />
+	</game>
+	<game name="Dangan GB2 (World) (Aftermarket) (Unl)">
+		<description>Dangan GB2 (World) (Aftermarket) (Unl</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Dangan GB2 (World) (Aftermarket) (Unl).gbc" size="524288" crc="c5d3d66a" md5="82ab96cba5233ec4a07cf21d81e625b7" sha1="a8f61ff5049e19b1b30a29bf9d996cb40b1f55c3" />
+	</game>
+	<game name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)">
+		<description>Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Atavist Games).gbc" size="4194304" crc="ab96806a" md5="b90fae25ad1dbc7599758c1744287267" sha1="7c86eefe37b82d422327651b8761c1f8b0ca327d" />
+	</game>
+	<game name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)">
+		<description>G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl).gbc" size="262144" crc="2f813033" md5="3e151d9bfd7b36a80ef475a98863a001" sha1="0407a3fc4c8c6711cde8fe9d07860dc3ef075f5e" />
+	</game>
+	<game name="Karpe Diem (World) (v1.0) (Aftermarket) (Unl)">
+		<description>Karpe Diem (World) (v1.0) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Karpe Diem (World) (v1.0) (Aftermarket) (Unl).gbc" size="524288" crc="91cc7412" md5="c3ff18fa6209d7302f91948b1ae42843" sha1="94a85b63a7340a03d3e8e41fda45408b4cb2ba3b" />
+	</game>
+	<game name="Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike)">
+		<description>Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike).gbc" size="4194304" crc="0783aea3" md5="4f119e2c234a354740ff2a77b6e059db" sha1="0a3801c0302c8f9741064ba9c11c003c39d3ea8a" status="none" />
+	</game>
+	<game name="OrmBlok (World) (GBComp25) (Aftermarket) (Mike Leisz, Ben Jelter)">
+		<description>OrmBlok (World) (GBComp25) (Aftermarket) (Mike Leisz, Ben Jelter)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="OrmBlok (World) (GBComp25) (Aftermarket) (Mike Leisz, Ben Jelter).gbc" size="524288" crc="32ea3e07" md5="eafc504d33043897805815b54ab80adc" sha1="64556945d98e3b4a144342bdcf485b01e463c62b" status="none" />
+	</game>
+	<game name="OutRun (World) (Aftermarket) (Rocketship Park)">
+		<description>OutRun (World) (Aftermarket) (Rocketship Park)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="OutRun (World) (Aftermarket) (Rocketship Park).gbc" size="524288" crc="0b7fc436" md5="d88033e110738b78521195ab5d28bc98" sha1="5368f9bc94acda40be0f945fff7869355fc105c9" status="none" />
+	</game>
+	<game name="Petris (World) (v20200916) (Aftermarket) (bbbbbr)">
+		<description>Petris (World) (v20200916) (Aftermarket) (bbbbbr)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Petris (World) (v20200916) (Aftermarket) (bbbbbr).gbc" size="32768" crc="9ee810ee" md5="c1fd374c1dd3b352604e4c89d4d8d039" sha1="c3dd3caba5e9bd90511dd9ac2357962c42640d1a" status="none" />
+	</game>
+	<game name="Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl)">
+		<description>Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl).gbc" size="2097152" crc="c2bfe433" md5="14a2442e6b50b2617e58ffe10ed6a970" sha1="c9eee8d916390e3bd6142370de4d9fe501fd44a8" />
+	</game>
+	<game name="Walfie's Nonograms (World) (Aftermarket) (Walfie)">
+		<description>Walfie's Nonograms (World) (Aftermarket) (Walfie)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Walfie's Nonograms (World) (Aftermarket) (Walfie).gbc" size="262144" crc="83466d47" md5="498e63102a329f561045869cf2b7cd1e" sha1="efc70f0babcebd0e9610a16ab9f5264cd7f7d629" status="none" />
+	</game>
+	<game name="Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie)">
+		<description>Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie).gbc" size="262144" crc="35d3f216" md5="f5fdffc669c29483760655c7f5ff90f4" sha1="8541b57b091ea3b8630601c54195935bcb2f323a" status="none" />
+	</game>
+</datafile>

@@ -5,7 +5,7 @@
 		<id>005</id>
 		<name>005 - Lost Level Archive - Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>v20260408</version>
+		<version>v20260411</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -102,10 +102,6 @@
 		<description>Digimon Adventure (Prototype) (Sintax)</description>
 		<rom name="Digimon Adventure (Prototype) (Sintax).gba" size="3759280" crc="d6d7a9c6" md5="1dabbc7a86182729df1310ae6234ffb4" sha1="ea4eb7676bf4e83276ec059744224aca34a2173c" status="none" />
 	</game>
-	<game name="Discrete Orange (World) (v1.0) (Aftermarket)">
-		<description>Discrete Orange (World) (v1.0) (Aftermarket)</description>
-		<rom name="Discrete Orange (World) (v1.0) (Aftermarket).gba" size="1936132" crc="e3128528" md5="0b05bbe610ecf21530aade82f4246fc0" sha1="c0b61d210e53ef57de9a813bc11b869c64de3ab6" status="none" />
-	</game>
 	<game name="Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl)">
 		<description>Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl)</description>
 		<rom name="Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl).gba" size="32764" crc="f848cfd1" md5="0bc483bbb1ba8ea1027bbfda343652bb" sha1="e85720700014f6a44db21fd1a1a09ac79e0e39d8" />
@@ -169,6 +165,10 @@
 	<game name="Hollow Knight (World) (Beta 2) (Aftermarket) (Elvies)">
 		<description>Hollow Knight (World) (Beta 2) (Aftermarket) (Elvies)</description>
 		<rom name="Hollow Knight (World) (Beta 2) (Aftermarket) (Elvies).gba" size="1124596" crc="5622bce2" md5="0c7177020807ef7b517150d9ad9f74ad" sha1="95ebefd9831c38becef8bad4bf31be08aa162261" status="none" />
+	</game>
+	<game name="Hololive Jump! (World) (v20210722) (Aftermarket) (NishIRL)">
+		<description>Hololive Jump! (World) (v20210722) (Aftermarket) (NishIRL)</description>
+		<rom name="Hololive Jump! (World) (v20210722) (Aftermarket) (NishIRL).gba" size="3170520" crc="10c68e5d" md5="6dee3968bb00de0f9329ca1be594ec65" sha1="356f5b16638c7edefedaf1361b20b98b15d10b09" status="none" />
 	</game>
 	<game name="Holy Hell (World) (NEO Retro Coding Compo 2012) (Aftermarket) (Unl)">
 		<description>Holy Hell (World) (NEO Retro Coding Compo 2012) (Aftermarket) (Unl)</description>

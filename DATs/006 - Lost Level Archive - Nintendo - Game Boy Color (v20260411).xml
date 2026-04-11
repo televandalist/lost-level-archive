@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260408</version>
+		<version>v20260411</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -13,10 +13,6 @@
 	<game name="2003 Crash II Advance (China) (Bootleg) (Unl)">
 		<description>2003 Crash II Advance (China) (Bootleg) (Unl)</description>
 		<rom name="2003 Crash II Advance (China) (Bootleg) (Unl).gbc" size="4194304" crc="0af243bf" md5="927abf95eaada539668c2e71d35be5c7" sha1="13b1a3f64664cc09f628e53e13c9b66b17e9f500" />
-	</game>
-	<game name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)">
-		<description>AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)</description>
-		<rom name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl).gbc" size="524288" crc="f71042b8" md5="df0d1dba0a83f8d65e3bb7e6720ef8eb" sha1="c3f0296535e11fd6fb581c976e2cb98b0f15506b" />
 	</game>
 	<game name="Akumanor Gaiden DX (World) (v1.0) (Aftermarket) (Michirin)">
 		<description>Akumanor Gaiden DX (World) (v1.0) (Aftermarket) (Michirin)</description>
@@ -73,10 +69,6 @@
 	<game name="Cardinal Island (World) (v1.2) (Aftermarket) (Vivian Video)">
 		<description>Cardinal Island (World) (v1.2) (Aftermarket) (Vivian Video)</description>
 		<rom name="Cardinal Island (World) (v1.2) (Aftermarket) (Vivian Video).gbc" size="2097152" crc="eea7b5d1" md5="fadfc081988c0b24a2d66b5134702c7e" sha1="6252918b77277fb6a449a404afabb3782ad08348" status="none" />
-	</game>
-	<game name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)">
-		<description>Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl)</description>
-		<rom name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket) (Unl).gbc" size="262144" crc="5312f81c" md5="4daf9a94ff78252257e22a34516e5105" sha1="05d553049a1ba1999e5891097471bff1b882cee7" />
 	</game>
 	<game name="Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.0) (Aftermarket) (Elvies)">
 		<description>Castlevania - Order of Shadows - Golden Belmont (World) (v0.1.0) (Aftermarket) (Elvies)</description>
@@ -138,9 +130,17 @@
 		<description>CharaVera Non Chilla - Let Me Sleep (World) (v1.5.2) (Aftermarket) (Protopixel)</description>
 		<rom name="CharaVera Non Chilla - Let Me Sleep (World) (v1.5.2) (Aftermarket) (Protopixel).gbc" size="262144" crc="976bae4f" md5="2625ae08904a6437be85ef0c845d052e" sha1="e278fc381686add76d88e8f7dffadf1da4de6368" status="none" />
 	</game>
+	<game name="Chattini in the Sky (World) (Aftermarket) (sasor7i)">
+		<description>Chattini in the Sky (World) (Aftermarket) (sasor7i)</description>
+		<rom name="Chattini in the Sky (World) (Aftermarket) (sasor7i).gbc" size="262144" crc="01eb3fad" md5="cba4cb0c1cc5dab8837ae688494113ea" sha1="a2ec8c49c041b5efff6c984d0c7894ccb3daa3b4" status="none" />
+	</game>
 	<game name="Cleaving Caliber EX (World) (GBComp25) (Aftermarket) (Cursed Bootleg)">
 		<description>Cleaving Caliber EX (World) (GBComp25) (Aftermarket) (Cursed Bootleg)</description>
 		<rom name="Cleaving Caliber EX (World) (GBComp25) (Aftermarket) (Cursed Bootleg).gbc" size="262144" crc="27c48419" md5="6133b637bbc790d386ab0efc3a648dfd" sha1="30db1d6fc8a74b564c29829ea3408d614d6cb75c" status="none" />
+	</game>
+	<game name="Coco's Quest (World) (v20210628) (Aftermarket) (Spinkick92)">
+		<description>Coco's Quest (World) (v20210628) (Aftermarket) (Spinkick92)</description>
+		<rom name="Coco's Quest (World) (v20210628) (Aftermarket) (Spinkick92).gbc" size="262144" crc="2bf069c2" md5="291fb11e8e9a972b21645e0a15e32d4f" sha1="1e4df6b43a03632fe7f9ff7a900acc27001cb303" status="none" />
 	</game>
 	<game name="Combo Fishing (World) (Aftermarket) (Unl)">
 		<description>Combo Fishing (World) (Aftermarket) (Unl)</description>
@@ -169,10 +169,6 @@
 	<game name="Crystal Depths - Hard Mode (World) (v1.3) (Aftermarket) (GB Studio) (quackdev)">
 		<description>Crystal Depths - Hard Mode (World) (v1.3) (Aftermarket) (GB Studio) (quackdev)</description>
 		<rom name="Crystal Depths - Hard Mode (World) (v1.3) (Aftermarket) (GB Studio) (quackdev).gbc" size="524288" crc="9c78a7ed" md5="0dc316f7716764d4fde5daada55a02f9" sha1="dceb465c7acfc22099e7c2743e40bec018de4d4d" status="none" />
-	</game>
-	<game name="Dangan GB2 (World) (Aftermarket) (Unl)">
-		<description>Dangan GB2 (World) (Aftermarket) (Unl</description>
-		<rom name="Dangan GB2 (World) (Aftermarket) (Unl).gbc" size="524288" crc="c5d3d66a" md5="82ab96cba5233ec4a07cf21d81e625b7" sha1="a8f61ff5049e19b1b30a29bf9d996cb40b1f55c3" />
 	</game>
 	<game name="Date with Falco (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Date with Falco (World) (v1.0) (Aftermarket) (Unl)</description>
@@ -230,10 +226,6 @@
 		<description>Fun Video Store (World) (Demo) (GBComp25) (Aftermarket) (Raul Rosso)</description>
 		<rom name="Fun Video Store (World) (Demo) (GBComp25) (Aftermarket) (Raul Rosso).gbc" size="524288" crc="45eb863b" md5="5252ebc712b9c7e0531f0a66647ddad2" sha1="13c93627480f7efcff4b2fc80734c700687c7da6" status="none" />
 	</game>
-	<game name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)">
-		<description>G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl)</description>
-		<rom name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl).gbc" size="262144" crc="2f813033" md5="3e151d9bfd7b36a80ef475a98863a001" sha1="0407a3fc4c8c6711cde8fe9d07860dc3ef075f5e" />
-	</game>
 	<game name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios)">
 		<description>Galacard Platinum (World) (Aftermarket) (Bipedal Studios)</description>
 		<rom name="Galacard Platinum (World) (Aftermarket) (Bipedal Studios).gbc" size="65536" crc="35cb8ca4" md5="39f52304f12df792da99c8e2608c64aa" sha1="893b498e5726bbe7f48f3690fdc14b89b408d98f" status="none" />
@@ -274,6 +266,10 @@
 		<description>Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl)</description>
 		<rom name="Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl).gbc" size="1048576" crc="6f22a180" md5="e384387fff6714b7a97b62a6b4bcb61a" sha1="4233940d26e7e41288a02584010a2414aa71e748" />
 	</game>
+	<game name="Hololore - Amethyst (World) (v20221027) (Aftermarket) (Angelilyworks)">
+		<description>Hololore - Amethyst (World) (v20221027) (Aftermarket) (Angelilyworks)</description>
+		<rom name="Hololore - Amethyst (World) (v20221027) (Aftermarket) (Angelilyworks).gbc" size="524288" crc="e03598f2" md5="6f0090fcd22ddb3d2333dee30df55786" sha1="49cb1a04eb1e279ba50f710376513384fd67e80f" status="none" />
+	</game>
 	<game name="Hong Kong 2099 (World) (Aftermarket) (Unl)">
 		<description>Hong Kong 2099 (World) (Aftermarket) (Unl)</description>
 		<rom name="Hong Kong 2099 (World) (Aftermarket) (Unl).gbc" size="524288" crc="28f9e064" md5="c1dd8c5952ea02286616d3ff0d8c54cb" sha1="ee17c7e334d17a78bd120c1de41a7020b57344db" />
@@ -305,14 +301,6 @@
 	<game name="Joey (World) (WLS) (Aftermarket) (GB Studio)">
 		<description>Joey (World) (WLS) (Aftermarket) (GB Studio)</description>
 		<rom name="Joey (World) (WLS) (Aftermarket) (GB Studio).gbc" size="262144" crc="338e611d" md5="59b0b8c6690f1c188bb9b23b60d8e3bc" sha1="e864ae8ae433e8500c89ab868bcc25ba42275a98" />
-	</game>
-	<game name="Karpe Diem (World) (v1.0) (Aftermarket) (Unl)">
-		<description>Karpe Diem (World) (v1.0) (Aftermarket) (Unl)</description>
-		<rom name="Karpe Diem (World) (v1.0) (Aftermarket) (Unl).gbc" size="524288" crc="91cc7412" md5="c3ff18fa6209d7302f91948b1ae42843" sha1="94a85b63a7340a03d3e8e41fda45408b4cb2ba3b" />
-	</game>
-	<game name="Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike)">
-		<description>Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike)</description>
-		<rom name="Kero Kero Cowboy (World) (v1.1) (Aftermarket) (MetagameMike).gbc" size="4194304" crc="0783aea3" md5="4f119e2c234a354740ff2a77b6e059db" sha1="0a3801c0302c8f9741064ba9c11c003c39d3ea8a" status="none" />
 	</game>
 	<game name="Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse)">
 		<description>Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse)</description>
@@ -430,10 +418,6 @@
 		<description>Obscenture (World) (v1.01) (Aftermarket) (Unl)</description>
 		<rom name="Obscenture (World) (v1.01) (Aftermarket) (Unl).gbc" size="2097152" crc="95b6f7bb" md5="74996e87555cbf6e0e63bc61a43c7ddb" sha1="fc75c0335a98f6444bc5d9bd541c68ba98b19975" />
 	</game>
-	<game name="OrmBlok (World) (GBComp25) (Aftermarket) (Mike Leisz, Ben Jelter)">
-		<description>OrmBlok (World) (GBComp25) (Aftermarket) (Mike Leisz, Ben Jelter)</description>
-		<rom name="OrmBlok (World) (GBComp25) (Aftermarket) (Mike Leisz, Ben Jelter).gbc" size="524288" crc="32ea3e07" md5="eafc504d33043897805815b54ab80adc" sha1="64556945d98e3b4a144342bdcf485b01e463c62b" status="none" />
-	</game>
 	<game name="Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz)">
 		<description>Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz)</description>
 		<rom name="Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz).gbc" size="1048576" crc="3779bf1e" md5="cd88815473884f930302098576754ce1" sha1="98e2532efd381264751d7ac3c26718c6200e4cd0" status="none" />
@@ -441,10 +425,6 @@
 	<game name="Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz)">
 		<description>Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz)</description>
 		<rom name="Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz).gbc" size="1048576" crc="ba77e1fa" md5="0a23d354e139f40fe409fce3fc1f503c" sha1="09b35cfab7ee7f5c7f08887e1ffda255b58c3c6a" status="none" />
-	</game>
-	<game name="OutRun (World) (Aftermarket) (Rocketship Park)">
-		<description>OutRun (World) (Aftermarket) (Rocketship Park)</description>
-		<rom name="OutRun (World) (Aftermarket) (Rocketship Park).gbc" size="524288" crc="0b7fc436" md5="d88033e110738b78521195ab5d28bc98" sha1="5368f9bc94acda40be0f945fff7869355fc105c9" status="none" />
 	</game>
 	<game name="Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)">
 		<description>Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)</description>
@@ -461,10 +441,6 @@
 	<game name="Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro)">
 		<description>Pazaak Battles, The (World) (v1.3) (Aftermarket) (Rubenretro)</description>
 		<rom name="Pazaak Battles, The (World) (En,Es) (v1.3) (Aftermarket) (Rubenretro).gbc" size="1048576" crc="b17f3100" md5="65aa7a9d176c5567f23dcf9b7b0963b8" sha1="fd8f95abe5dd3c559738db78ad1affbac4ba6387" status="none" />
-	</game>
-	<game name="Petris (World) (v20200916) (Aftermarket) (bbbbbr)">
-		<description>Petris (World) (v20200916) (Aftermarket) (bbbbbr)</description>
-		<rom name="Petris (World) (v20200916) (Aftermarket) (bbbbbr).gbc" size="32768" crc="9ee810ee" md5="c1fd374c1dd3b352604e4c89d4d8d039" sha1="c3dd3caba5e9bd90511dd9ac2357962c42640d1a" status="none" />
 	</game>
 	<game name="Piropa (World) (v2.1) (Aftermarket) (sg)">
 		<description>Piropa (World) (v2.1) (Aftermarket) (sg)</description>
@@ -582,10 +558,6 @@
 		<description>Super Doggo WOW WAN (World) (Aftermarket) (Unl)</description>
 		<rom name="Super Doggo WOW WAN (World) (Aftermarket) (Unl).gbc" size="1048576" crc="02111d9d" md5="b9032a7c44305f4fbba30891427c03fb" sha1="ad86d1447d5d2588a1d9b7af080a14957dcf3bd6" />
 	</game>
-	<game name="Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl)">
-		<description>Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl)</description>
-		<rom name="Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl).gbc" size="2097152" crc="c2bfe433" md5="14a2442e6b50b2617e58ffe10ed6a970" sha1="c9eee8d916390e3bd6142370de4d9fe501fd44a8" />
-	</game>
 	<game name="Surgeon, The (World) (Aftermarket) (Crab Meat)">
 		<description>Surgeon, The (World) (Aftermarket) (Crab Meat)</description>
 		<rom name="Surgeon, The (World) (Aftermarket) (Crab Meat).gbc" size="262144" crc="a0836895" md5="790051ce5f972c3bea4ef5e3dc47470b" sha1="13da9e5c1ee883ba6cc4a4074c39f45efc3f2edb" status="none" />
@@ -601,6 +573,10 @@
 	<game name="Tinkercore (World) (v3.0) (Aftermarket) (GB Studio)">
 		<description>Tinkercore (World) (v3.0) (Aftermarket) (GB Studio)</description>
 		<rom name="Tinkercore (World) (v3.0) (Aftermarket) (GB Studio).gb" size="1048576" crc="63ed1aa8" md5="62d44a3e02aab1328158b3d197ddd2ba" sha1="e3deb89b6e400f35e36b8edd483a4b9aed114da1" />
+	</game>
+	<game name="Toilet-Bound Hanako-kun (World) (v20220219) (Aftermarket) (senni)">
+		<description>Toilet-Bound Hanako-kun (World) (v20220219) (Aftermarket) (senni)</description>
+		<rom name="Toilet-Bound Hanako-kun (World) (v20220219) (Aftermarket) (senni).gbc" size="524288" crc="127d2236" md5="cdffbca6272bdf41a684e961f59aea54" sha1="10a290e90330a90161d99eab38534ee917e3f164" status="none" />
 	</game>
 	<game name="Trogday Micro Game (World) (Aftermarket) (Unl)">
 		<description>Trogday Micro Game (World) (Aftermarket) (Unl)</description>
@@ -621,14 +597,6 @@
 	<game name="Undertale GBC (World) (v9.1.0) (Aftermarket) (Aki)">
 		<description>Undertale GBC (World) (v9.1.0) (Aftermarket) (Aki)</description>
 		<rom name="Undertale GBC (World) (v9.1.0) (Aftermarket) (Aki).gbc" size="2097152" crc="6ebd8ee6" md5="55d7672e6b2819f87eaf27714ff87294" sha1="8791da2aea9b69c574e272c59d52c227b5a382e9" status="none" />
-	</game>
-	<game name="Walfie's Nonograms (World) (Aftermarket) (Walfie)">
-		<description>Walfie's Nonograms (World) (Aftermarket) (Walfie)</description>
-		<rom name="Walfie's Nonograms (World) (Aftermarket) (Walfie).gbc" size="262144" crc="83466d47" md5="498e63102a329f561045869cf2b7cd1e" sha1="efc70f0babcebd0e9610a16ab9f5264cd7f7d629" status="none" />
-	</game>
-	<game name="Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie)">
-		<description>Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie)</description>
-		<rom name="Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie).gbc" size="262144" crc="35d3f216" md5="f5fdffc669c29483760655c7f5ff90f4" sha1="8541b57b091ea3b8630601c54195935bcb2f323a" status="none" />
 	</game>
 	<game name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)">
 		<description>Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)</description>

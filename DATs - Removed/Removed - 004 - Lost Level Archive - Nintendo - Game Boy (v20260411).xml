@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>004</id>
+		<name>Removed - 004 - Lost Level Archive - Nintendo - Game Boy</name>
+		<description>Removed - Nintendo - Game Boy</description>
+		<version>v20260411</version>
+		<author>tele</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Airaki! (World) (Aftermarket) (Unl)">
+		<description>Airaki! (World) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Airaki! (World) (Aftermarket) (Unl).gb" size="32768" crc="f427eee1" md5="06ed8f5845b4af82e7154fa2cbd6db1a" sha1="f1d0626ed225721ead8656458c895e02c2ea637e" />
+	</game>
+	<game name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl)">
+		<description>Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl).gb" size="2097152" crc="451491df" md5="6503cb7859073a0097daa8ed34766468" sha1="eafbcaca0b43035233d83413856c2b495b964346" />
+	</game>
+	<game name="Soul Void Redux (World) (Aftermarket) (GB Studio)">
+		<description>Soul Void Redux (World) (Aftermarket) (GB Studio)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Soul Void Redux (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="B6F5F372" md5="CE14AFB9B396A74A1E0E2ECE9747EA9C" sha1="3B10F6BAE11DAB5BB6106D0A6E4E80A3FBD0FA7A"/>
+	</game>
+	<game name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)">
+		<description>Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio).gb" size="262144" crc="8cdf4b90" md5="97b6eb86385cc51fed8f65c6db04548a" sha1="9df6bf7c2babc47cc9e461d16a7ab1a24d898003" />
+	</game>
+	<game name="Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio)">
+		<description>Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Yurivania 1 - Uhaul of the Night (World) (v1.5) (Aftermarket) (GB Studio).gb" size="524288" crc="c5447011" md5="b814eb1064975392a2db18b5f410abf7" sha1="8197ed0ac5591893b7d04ed3f02529f120daab7e" />
+	</game>
+	<game name="Virtual BMO (World) (v3.1) (Aftermarket) (GB Studio) (Grumpy Function)">
+		<description>Virtual BMO (World) (v3.1) (Aftermarket) (GB Studio) (Grumpy Function)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Virtual BMO (World) (v3.1) (Aftermarket) (GB Studio) (Grumpy Function).gb" size="524288" crc="66b53401" md5="3076b0df02804d3b9da27daa6f8258ca" sha1="afb550a63c7d73824b0779bb38e54bc609aea09c" />
+	</game>
+	<game name="Wordyl (World) (v1.0.3) (Aftermarket) (Unl)">
+		<description>Wordyl (World) (v1.0.3) (Aftermarket) (Unl)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Wordyl (World) (v1.0.3) (Aftermarket) (Unl).gb" size="32768" crc="7587f2da" md5="702bee919d1c9a67069213d6d286af51" sha1="f7557aa778321f9a725ce20532e1308a87dd9abc" />
+	</game>
+</datafile>

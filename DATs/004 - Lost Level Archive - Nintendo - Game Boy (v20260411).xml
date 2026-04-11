@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260403</version>
+		<version>v20260411</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -36,11 +36,6 @@
 		<comment>https://kirais.itch.io/the-adventure-of-rick-grad-school</comment>
 		<rom name="Adventure of Rick, The - Grad School (World) (GBJAM7) (Aftermarket) (GB Studio) (Kirais).gb" size="1048576" crc="a80a10e5" md5="355b2e839699423d28fa468985947390" sha1="20a229a42f80142b215fd0e12d5ef10928e77899" />
 	</game>
-	<game name="Airaki! (World) (Aftermarket) (Unl)">
-		<description>Airaki! (World) (Aftermarket) (Unl)</description>
-		<comment>https://furrtek.itch.io/airaki</comment>
-		<rom name="Airaki! (World) (Aftermarket) (Unl).gb" size="32768" crc="f427eee1" md5="06ed8f5845b4af82e7154fa2cbd6db1a" sha1="f1d0626ed225721ead8656458c895e02c2ea637e" />
-	</game>
 	<game name="Akumanor Gaiden (World) (v1.1) (GBJam 12) (Aftermarket) (Michirin)">
 		<description>Akumanor Gaiden (World) (v1.1) (GBJam 12) (Aftermarket) (Michirin)</description>
 		<comment>https://michirin.itch.io/akumanor-gaiden</comment>
@@ -59,10 +54,6 @@
 	<game name="Banished (World) (Aftermarket) (GB Studio)">
 		<description>Banished (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Banished (World) (Aftermarket) (GB Studio).gb" size="262144" crc="9BAC0192" md5="2E90B711C7A97E193819C1DB7ADD15C0" sha1="ECA6431A22916022E39558DC218C19AA9E00F9FD"/>
-	</game>
-	<game name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl)">
-		<description>Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl)</description>
-		<rom name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl).gb" size="2097152" crc="451491df" md5="6503cb7859073a0097daa8ed34766468" sha1="eafbcaca0b43035233d83413856c2b495b964346" />
 	</game>
 	<game name="Bear Boy (World) (Aftermarket) (Unl) (jchristof)">
 		<description>Bear Boy (World) (Aftermarket) (Unl) (jchristof)</description>
@@ -552,10 +543,6 @@
 		<description>Song Bird (World) (GB Showdown '22) (Aftermarket) (Eric Mack)</description>
 		<rom name="Song Bird (World) (GB Showdown '22) (Aftermarket) (Eric Mack).gb" size="262144" crc="a53b011c" md5="562e336d83ab70eab3c2228e4b12f81e" sha1="0f8777ccaf6d22d1d976ba3bff44d6201bc571fe" status="none" />
 	</game>
-	<game name="Soul Void Redux (World) (Aftermarket) (GB Studio)">
-		<description>Soul Void Redux (World) (Aftermarket) (GB Studio)</description>
-		<rom name="Soul Void Redux (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="B6F5F372" md5="CE14AFB9B396A74A1E0E2ECE9747EA9C" sha1="3B10F6BAE11DAB5BB6106D0A6E4E80A3FBD0FA7A"/>
-	</game>
 	<game name="SPACE.GB (World) (v1.0) (Aftermarket) (BiSCUiTLOCKER)">
 		<description>SPACE.GB (World) (v1.0) (Aftermarket) (BiSCUiTLOCKER)</description>
 		<rom name="SPACE.GB (World) (v1.0) (Aftermarket) (BiSCUiTLOCKER).gb" size="524288" crc="caf467ca" md5="ed1a722cf23ea767ed90597cf55d8cf6" sha1="4ff262ab866669415ba4513c6f921cd3ff9d4db1" status="none" />
@@ -632,10 +619,6 @@
 		<description>Virtual BMO (World) (v2.0) (Aftermarket) (GB Studio) (Grumpy Function)</description>
 		<rom name="Virtual BMO (World) (v2.0) (Aftermarket) (GB Studio) (Grumpy Function).gb" size="131072" crc="b8d8bf2e" md5="af3cb6a3655312a1b74849445a2c21a8" sha1="856a56c0a807bb4b9d8ab0839d86ccc9f680b0d9" />
 	</game>
-	<game name="Virtual BMO (World) (v3.1) (Aftermarket) (GB Studio) (Grumpy Function)">
-		<description>Virtual BMO (World) (v3.1) (Aftermarket) (GB Studio) (Grumpy Function)</description>
-		<rom name="Virtual BMO (World) (v3.1) (Aftermarket) (GB Studio) (Grumpy Function).gb" size="524288" crc="66b53401" md5="3076b0df02804d3b9da27daa6f8258ca" sha1="afb550a63c7d73824b0779bb38e54bc609aea09c" />
-	</game>
 	<game name="VR Pocket Manager (World) (Aftermarket) (GB Studio)">
 		<description>VR Pocket Manager (World) (Aftermarket) (GB Studio)</description>
 		<rom name="VR Pocket Manager (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="ec425a94" md5="9c83e00b56b75e49cd52922bfd7313d9" sha1="638f71d0718f6201395506415ace4ae69607aa4d" />
@@ -643,10 +626,6 @@
 	<game name="Welcome to Macintester (World) (GB Showdown '22) (Aftermarket) (sloopygoop)">
 		<description>Welcome to Macintester (World) (GB Showdown '22) (Aftermarket) (sloopygoop)</description>
 		<rom name="Welcome to Macintester (World) (GB Showdown '22) (Aftermarket) (sloopygoop).gb" size="262144" crc="5a5e14e0" md5="7b576ac2d2ddfa5d17be6d1900841b02" sha1="4242c6fd8ffa48775d4bb73f40da33a556a6d96b" status="none" />
-	</game>
-	<game name="Wordyl (World) (v1.0.3) (Aftermarket) (Unl)">
-		<description>Wordyl (World) (v1.0.3) (Aftermarket) (Unl)</description>
-		<rom name="Wordyl (World) (v1.0.3) (Aftermarket) (Unl).gb" size="32768" crc="7587f2da" md5="702bee919d1c9a67069213d6d286af51" sha1="f7557aa778321f9a725ce20532e1308a87dd9abc" />
 	</game>
 	<game name="Wyrmhole (World) (GB Showdown '22) (Aftermarket) (quinnp)">
 		<description>Wyrmhole (World) (GB Showdown '22) (Aftermarket) (quinnp)</description>
