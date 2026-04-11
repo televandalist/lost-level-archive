@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20260403</version>
+		<version>v20260411</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -45,10 +45,6 @@
 	<game name="Dino Run PSP (v20230628) (@PSP_DEVELOPER)">
 		<description>Dino Run PSP (v20230628) (@PSP_DEVELOPER)</description>
 		<rom name="Dino Run PSP (World) (v20230628) (Aftermarket) (Unl).iso" size="114491392" crc="cc461711" md5="38d3e71d9497f05e5024cb54175bc7c8" sha1="9cff436740fc869e0999d53aca0fe6df84048509" />
-	</game>
-	<game name="Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (Beta) (Unknown)">
-		<description>Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (Beta) (Unknown)</description>
-		<rom name="Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (Beta) (Unknown).iso" size="1039058944" crc="3b635bab" md5="5c144db2fe62348d171b322fc12c5683" sha1="600f361f2e66b13f3c1f906425826387ad1bccfd" />
 	</game>
 	<game name="Fate Extra CCC (Japan) (En) (v1.0) (iwakura productions)">
 		<description>Fate Extra CCC (Japan) (En) (v1.0) (iwakura productions)</description>
@@ -189,10 +185,6 @@
 	<game name="Valkyria Chronicles 2 (USA) (Undub)">
 		<description>Valkyria Chronicles 2 (USA) (Undub)</description>
 		<rom name="Valkyria Chronicles 2 (USA) (Undub).iso" size="1028814848" crc="3c6e1b95" md5="38c986832f630fa158952b5a0e8d97e2" sha1="85ac3da0a9ada2e942adcb84b3f0ff4dc9616f1b" />
-	</game>
-	<game name="Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects)">
-		<description>Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects)</description>
-		<rom name="Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects).iso" size="767053824" crc="9e032ad9" md5="baedb9d53dce6d9269ec88c268aa6836" sha1="44f0d5bec7c4b313ca6db87984998421eec84610" />
 	</game>
 	<game name="Ys vs. Sora no Kiseki - Alternative Saga (Japan) (En) (v1.0) (The GeoFront)">
 		<description>Ys vs. Sora no Kiseki - Alternative Saga (Japan) (En) (v1.0) (The GeoFront)</description>
