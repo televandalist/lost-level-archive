@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20260411</version>
+		<version>v20260421</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -93,6 +93,10 @@
 	<game name="Grand Theft Auto - LCS - Sindacco Chronicles (En) (v2.0) (Barcode Studia)">
 		<description>Grand Theft Auto - LCS - Sindacco Chronicles (En) (v2.0) (Barcode Studia)</description>
 		<rom name="Grand Theft Auto - LCS - Sindacco Chronicles (En) (v2.0) (Barcode Studia).iso" size="892393472" crc="907f9b8e" md5="58040323462e9798167a2e3276d33667" sha1="67bb6616fd9c235db25a753b3da85b9aaef3c01a" />
+	</game>
+	<game name="Grand Theft Auto - LCS - Seen in Liberty City (En) (v1.0) (Barcode Studia)">
+		<description>Grand Theft Auto - LCS - Seen in Liberty City (En) (v1.0) (Barcode Studia)</description>
+		<rom name="Grand Theft Auto - LCS - Seen in Liberty City (En) (v1.0) (Barcode Studia).iso" size="698978304" crc="5d0b2ca1" md5="07c2c42512ff5ce1f1b020db5ed2e81e" sha1="3d48f12c9bbe2076af0c9213fc4ce2b246ae39ba" status="none" />
 	</game>
 	<game name="Heart (World) (v2023) (Aftermarket) (yokaai)">
 		<description>Heart (World) (v2023) (Aftermarket) (yokaai)</description>

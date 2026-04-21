@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260411</version>
+		<version>v20260421</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -598,6 +598,10 @@
 	<game name="Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl)">
 		<description>Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl)</description>
 		<rom name="Trials of Goodbye, The (World) (GB Showdown 2023) (Aftermarket) (Unl).gb" size="262144" crc="68c0b424" md5="7911e724513a044fed0ed9fe4a8bb4aa" sha1="4f6c27566f5824c3c6fc3712e91526781cd1ebcb" />
+	</game>
+	<game name="Trick Tactics (World) (v1.1) (Aftermarket) (Cursed Bootleg)">
+		<description>Trick Tactics (World) (v1.1) (Aftermarket) (Cursed Bootleg)</description>
+		<rom name="Trick Tactics (World) (v1.1) (Aftermarket) (Cursed Bootleg).gb" size="524288" crc="cea20fed" md5="6ada34632ecc8856dfa569a8b679a4c5" sha1="6088d9c664981ea260ec37f8f238772174a47c77" status="none" />
 	</game>
 	<game name="Uma Musume Delish Derby (World) (Aftermarket) (shiki)">
 		<description>Uma Musume Delish Derby (World) (Aftermarket) (shiki)</description>

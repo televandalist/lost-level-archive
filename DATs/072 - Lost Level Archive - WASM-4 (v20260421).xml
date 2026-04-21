@@ -5,7 +5,7 @@
 		<id>072</id>
 		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20260207</version>
+		<version>v20260421</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -49,6 +49,10 @@
 	<game name="Comic-Sans (World) (Eduardo Minholi, Nuno Abilio)">
 		<description>Comic-Sans (World) (Eduardo Minholi, Nuno Abilio)</description>
 		<rom name="Comic-Sans (World) (Eduardo Minholi, Nuno Abilio).wasm" size="33084" crc="647138d7" md5="a15d84ac06f9f1bbbb44b8b72ad7e8f3" sha1="9b2a4f3792e67f1968db0f3feb05073eb2cfd1c0" status="none" />
+	</game>
+	<game name="Cosmic InW4ders (World) (Pierro)">
+		<description>Cosmic InW4ders (World) (Pierro)</description>
+		<rom name="Cosmic InW4ders (World) (Pierro).wasm" size="33389" crc="9c28d543" md5="a0e00dcae44cb08440c7217b6a060145" sha1="4dc0a6eb0ee3120cf0d8a3f6fc9846014584d022" status="none" />
 	</game>
 	<game name="Crazy Factory (World) (Can Durmus)">
 		<description>Crazy Factory (World) (Can Durmus)</description>
@@ -186,6 +190,10 @@
 		<description>Kitty Game (World) (v1.3.0) (CanyonTurtle)</description>
 		<rom name="Kitty Game (World) (v1.3.0) (CanyonTurtle).wasm" size="62982" crc="2be85e96" md5="9ea0e3e1af7a318c9f85be94b02fd2bb" sha1="8197d7dc8d83d5f8a3e8252923da5aefd78afcc4" />
 	</game>
+	<game name="Lad 2024 (World) (YAMAMOTO Takashi)">
+		<description>Lad 2024 (World) (YAMAMOTO Takashi)</description>
+		<rom name="Lad 2024 (World) (YAMAMOTO Takashi).wasm" size="44488" crc="111b1cb9" md5="317477aab9ea51c8eabfcdfd6a9d4581" sha1="6acc4fd2a090e3e3412c51f985e0907ff33f71be" status="none" />
+	</game>
 	<game name="Lake Shooter (World) (Jimmy Cartrette)">
 		<description>Lake Shooter (World) (Jimmy Cartrette)</description>
 		<rom name="Lake Shooter (World) (Jimmy Cartrette).wasm" size="14078" crc="9f37210e" md5="083c3ef99d6f565188e786269923f533" sha1="d590522fc8b898d5c7425d12ee66982835f47fcd" />
@@ -253,6 +261,10 @@
 	<game name="Minesweeper (World) (Claudio Mattera)">
 		<description>Minesweeper (World) (Claudio Mattera)</description>
 		<rom name="Minesweeper (World) (Claudio Mattera).wasm" size="20125" crc="0FDFE010" md5="2FB4C9741D5325537D88201D5A81653B" Sha1="7662A6AEC2EC6398C118C89694CE8528DA606C96"/>
+	</game>
+	<game name="Mini Civ (World) (v0.6.1) (Jeremy Zeiber)">
+		<description>Mini Civ (World) (v0.6.1) (Jeremy Zeiber)</description>
+		<rom name="Mini Civ (World) (v0.6.1) (Jeremy Zeiber).wasm" size="65445" crc="e40446ee" md5="69aaf3f2a5772997a7c9d5efbfcdf240" sha1="7c763d9faf2a6832b8c2fceff5def8be0f3f12fe" status="none" />
 	</game>
 	<game name="Minicraft (World) (thefloatingpixel)">
 		<description>Minicraft (World) (thefloatingpixel)</description>
@@ -338,6 +350,10 @@
 		<description>Royal Game of Ur, The (World) (Gelatin Studios)</description>
 		<rom name="Royal Game of Ur, The (World) (Gelatin Studios).wasm" size="53271" crc="90d94899" md5="53e137f2077d99d036040f4d1cb8244b" sha1="a967997c490047a4df17caa0f57bca9c136ac660" />
 	</game>
+	<game name="Rubido (World) (v1.1) (Willems Soft)">
+		<description>Rubido (World) (v1.1) (Willems Soft)</description>
+		<rom name="Rubido (World) (v1.1) (Willems Soft).wasm" size="27463" crc="f12c9df0" md5="300e1b346639f65c9d595d98668ca07b" sha1="1c747c8c8293f8833eb05805189ce3246e04b2b5" status="none" />
+	</game>
 	<game name="Samurai Revenge (World) (v1.3.1) (Krylan,Dominik Koperkiewicz)">
 		<description>Samurai Revenge (World) (v1.3.1) (Krylan,Dominik Koperkiewicz)</description>
 		<rom name="Samurai Revenge (World) (v1.3.1) (Krylan,Dominik Koperkiewicz).wasm" size="35899" crc="E4416F9D" md5="4B4B6643E6231E74CC5DB038482BDC67" Sha1="1F4567CE23F01D2E61AFE191BE30A130634388D7"/>
@@ -402,6 +418,10 @@
 		<description>StarShard Scavengers (World) (HitchH1k3r)</description>
 		<rom name="StarShard Scavengers (World) (HitchH1k3r).wasm" size="65446" crc="546603a2" md5="c97f786a541849cecdf03e9ca46669a9" sha1="f9ad90db41327af5aa182e44e3a80eade8da8553" />
 	</game>
+	<game name="StarShard Scavengers (World) (v1.1) (HitchH1k3r)">
+		<description>StarShard Scavengers (World) (v1.1) (HitchH1k3r)</description>
+		<rom name="StarShard Scavengers (World) (v1.1) (HitchH1k3r).wasm" size="65475" crc="2535e849" md5="21569288cad3dfe3e88d334b8174a4fb" sha1="3a946d2034d783703d3e7f1ad317fc19a12cbc6b" status="none" />
+	</game>
 	<game name="StarShard Scavengers (World) (WASM-4 Jam #2 Version) (HitchH1k3r)">
 		<description>StarShard Scavengers (World) (WASM-4 Jam #2 Version) (HitchH1k3r)</description>
 		<rom name="StarShard Scavengers (World) (WASM-4 Jam #2 Version) (HitchH1k3r).wasm" size="56775" crc="8d1c7e53" md5="883261e18ed9525fab58e9aa60a19f3b" sha1="09aa037f7b0de8d7198acd45f379db359f4aeb09" />
@@ -433,6 +453,10 @@
 	<game name="Tic Tac Toe (World) (Christopher) (Kleine)">
 		<description>Tic Tac Toe (World) (Christopher) (Kleine)</description>
 		<rom name="Tic Tac Toe (World) (Christopher) (Kleine).wasm" size="13353" crc="33fa5231" md5="d45019d48b724888af852a21d8b7091c" sha1="a1324a64c121e634fda43879bdcacb96653aae72" />
+	</game>
+	<game name="Tiny Pong (World) (Ztry8)">
+		<description>Tiny Pong (World) (Ztry8)</description>
+		<rom name="Tiny Pong (World) (Ztry8).wasm" size="1001" crc="af051fd6" md5="937eae91ed994c97ebd74ad1ee4fd607" sha1="4ae9a645284809cf9355899fdc715c0619f5c9da" status="none" />
 	</game>
 	<game name="To the Core (World) (Garrett Hale)">
 		<description>To the Core (World) (Garrett Hale)</description>
@@ -501,6 +525,10 @@
 	<game name="WASMstein 3D (World) (v1.0) (Jeremy Zeiber)">
 		<description>WASMstein 3D (World) (v1.0) (Jeremy Zeiber)</description>
 		<rom name="WASMstein 3D (World) (v1.0) (Jeremy Zeiber).wasm" size="65059" crc="91ae0e2c" md5="a16c43936a0f7d0510fb1b7a57780174" sha1="4c7ae88f33a49a888adb8a9e0a5a410f0a6a844e" status="none" />
+	</game>
+	<game name="Waternet (World) (v1.1) (Willems Soft)">
+		<description>Waternet (World) (v1.1) (Willems Soft)</description>
+		<rom name="Waternet (World) (v1.1) (Willems Soft).wasm" size="29917" crc="b129acae" md5="26d66285a296d0a822bf329c372cf690" sha1="1b06f12295dea45c8450efa7b81d56b584aacb4e" status="none" />
 	</game>
 	<game name="Watris (World) (Bruno Garcia)">
 		<description>Watris (World) (Bruno Garcia)</description>
