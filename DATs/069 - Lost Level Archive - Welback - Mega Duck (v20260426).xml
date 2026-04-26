@@ -5,7 +5,7 @@
 		<id>069</id>
 		<name>069 - Lost Level Archive - Wellback - Mega Duck</name>
 		<description>Wellback - Mega Duck</description>
-		<version>v20260421</version>
+		<version>v20260426</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -49,6 +49,10 @@
 	<game name="Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy)">
 		<description>Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy)</description>
 		<rom name="Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy).bin" size="32768" crc="94237a93" md5="4f78024f2102292fc03929cdd957319e" sha1="017606edfb915e320c2ff10a7aa12d205cb0b5dc" />
+	</game>
+	<game name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)">
+		<description>Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)</description>
+		<rom name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa).duck" size="131072" crc="b3cdc6bb" md5="accd004bb0b89a4e113fc7b3cca7d973" sha1="ea5c87ce1f83daccfa4b6d9902aea48b1ca107c2" status="none" />
 	</game>
 	<game name="Vexed (World) (v1.08) (Aftermarket) (Unl)">
 		<description>Vexed (World) (v1.08) (Aftermarket) (Unl)</description>

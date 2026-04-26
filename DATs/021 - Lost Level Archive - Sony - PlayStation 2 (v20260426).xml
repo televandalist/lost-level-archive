@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20260411</version>
+		<version>v20260426</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -13,6 +13,10 @@
 	<game name="3D Pinball - Space Cadet (Europe) (Aftermarket) (headshot2017, TheScarletDevil)">
 		<description>3D Pinball - Space Cadet (Europe) (Aftermarket) (headshot2017, TheScarletDevil)</description>
 		<rom name="3D Pinball - Space Cadet (Europe) (Aftermarket) (headshot2017, TheScarletDevil).iso" size="23396352" crc="c518feaf" md5="bd27365ec8e7b865fe8fba42f817715a" sha1="c8021cb732e59e6e1345234d08c88760f61ce984" status="none" />
+	</game>
+	<game name="3D Pinball - Space Cadet (Europe) (v1.1) (Aftermarket) (headshot2017, TheScarletDevil)">
+		<description>3D Pinball - Space Cadet (Europe) (v1.1) (Aftermarket) (headshot2017, TheScarletDevil)</description>
+		<rom name="3D Pinball - Space Cadet (Europe) (v1.1) (Aftermarket) (headshot2017, TheScarletDevil).iso" size="13762560" crc="d6036533" md5="a6e38ace21e008ed7542694e76df4a59" sha1="f36a58b2b86d7aafbae817cccd58188822fe30d7" status="none" />
 	</game>
 	<game name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica)">
 		<description>Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica)</description>

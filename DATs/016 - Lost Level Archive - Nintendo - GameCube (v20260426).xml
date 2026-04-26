@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20260403</version>
+		<version>v20260426</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -29,6 +29,10 @@
 	<game name="Pikmin 2 - Colossal Caverns (v2.3) (PikHacker)">
 		<description>Pikmin 2 - Colossal Caverns (v2.3) (PikHacker)</description>
 		<rom name="Pikmin 2 - Colossal Caverns (v2.3) (PikHacker).iso" size="225423856" crc="be2a6503" md5="0d9bcb6ed23a2e39ea882407f29019f6" sha1="0ab00d66ea86ee39cd5cabb8794697a785ad0dca" />
+	</game>
+	<game name="Pikmin 2 - FNAFMIN (v1.0) (JaySalty)">
+		<description>Pikmin 2 - FNAFMIN (v1.0) (JaySalty)</description>
+		<rom name="Pikmin 2 - FNAFMIN (v1.0) (JaySalty).iso" size="569802752" crc="6a132ed4" md5="1d192d9f085ac2397dcfbbfcd6277935" sha1="560616203180cde58137850b11a242543e5d8a73" status="none" />
 	</game>
 	<game name="Pikmin 2 - Hallows Haunt (v1.3) (Cloober)">
 		<description>Pikmin 2 - Hallows Haunt (v1.3) (Cloober)</description>

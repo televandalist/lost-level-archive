@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260421</version>
+		<version>v20260426</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -578,6 +578,10 @@
 	<game name="Surfer Bunny (World) (Aftermarket) (GB Studio)">
 		<description>Surfer Bunny (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Surfer Bunny (World) (Aftermarket) (GB Studio).gb" size="131072" crc="68100a9e" md5="32531d617b9031645cddb629fbfd0117" sha1="c28dcd6e8934118c874159cb9ba61dc70515d18d" />
+	</game>
+	<game name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)">
+		<description>Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)</description>
+		<rom name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa).gb" size="131072" crc="971ff0b8" md5="0c08938e3a027abd9cc185ca01a3c2a7" sha1="bd2d4f77ef3248ed29fb8cf2ea769c5ecdb12754" status="none" />
 	</game>
 	<game name="Time to Unwind (World) (v1.0) (Aftermarket) (GB Studio)">
 		<description>Time to Unwind (World) (v1.0) (Aftermarket) (GB Studio)</description>

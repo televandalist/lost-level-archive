@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>015</id>
+		<name>015 - Lost Level Archive - Sega - Game Gear</name>
+		<description>Sega - Game Gear</description>
+		<version>v20260426</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Space Tonbow GG (World) (v1.0) (Aftermarket) (Steelfinger Studios)">
+		<description>Space Tonbow GG (World) (v1.0) (Aftermarket) (Steelfinger Studios)</description>
+		<rom name="Space Tonbow GG (World) (v1.0) (Aftermarket) (Steelfinger Studios).gg" size="131072" crc="bfebebc8" md5="f623efb1c024d300253aa798c00e890e" sha1="a5ea6e43a6d6a6ad8c6614f8f17ecfeebd8644b9" status="none" />
+	</game>
+	<game name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)">
+		<description>Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)</description>
+		<rom name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa).gg" size="131072" crc="09cb101f" md5="bba1925f5a85a3abc01e2fd24d17c3c8" sha1="ebd111848992337260417f3c4b6a13301a031ee5" status="none" />
+	</game>
+</datafile>

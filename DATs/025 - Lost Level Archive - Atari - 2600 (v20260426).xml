@@ -5,7 +5,7 @@
 		<id>025</id>
 		<name>025 - Lost Level Archive - Atari - 2600</name>
 		<description>Atari - 2600</description>
-		<version>v20260403</version>
+		<version>v20260426</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -321,6 +321,10 @@
 	<game name="Lead 8K (NTSC) (Aftermarket) (Unl)">
 		<description>Lead 8K (NTSC) (Aftermarket) (Unl)</description>
 		<rom name="Lead 8K (NTSC) (Aftermarket) (Unl).a26" size="8192" crc="7311483c" md5="c8c67862963ffe262b80cbb35eeee046" sha1="02e6c778a6dbda1e6bf55aaeb1db23f57367dee8" />
+	</game>
+	<game name="Lord of the Rings, The - Fellowship of the Ring - Dark Mage Hack (NTSC) (v2002) (Adam Thorton)">
+		<description>Lord of the Rings, The - Fellowship of the Ring - Dark Mage Hack (NTSC) (v2002) (Adam Thorton)</description>
+		<rom name="Lord of the Rings, The - Fellowship of the Ring - Dark Mage Hack (NTSC) (v2002) (Adam Thorton).a26" size="4096" crc="9104ca48" md5="daef7d8e5a09981c4aa81573d4dbb380" sha1="721514e5c31c8f2b30b4a2bf2cda69a810cac75b" status="none" />
 	</game>
 	<game name="Lucky Chase (NTSC) (v20230122) (Aftermarket) (Unl)">
 		<description>Lucky Chase (NTSC) (v20230122) (Aftermarket) (Unl)</description>

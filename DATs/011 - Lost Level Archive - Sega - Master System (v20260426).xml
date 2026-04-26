@@ -5,7 +5,7 @@
 		<id>011</id>
 		<name>011 - Lost Level Archive - Sega - Master System</name>
 		<description>Sega - Master System</description>
-		<version>v20260104</version>
+		<version>v20260426</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -41,5 +41,13 @@
 	<game name="Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl)">
 		<description>Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl)</description>
 		<rom name="Snepzhen Solitaire (USA, Europe) (v24.05) (Aftermarket) (Unl).sms" size="32768" crc="016e55cf" md5="579651894466cdb1f89174021d57ed47" sha1="bef4400b208b4288e0523818c9743a79ce693d05" />
+	</game>
+	<game name="Space Tonbow (World) (v1.1.1) (Aftermarket) (Steelfinger Studios)">
+		<description>Space Tonbow (World) (v1.1.1) (Aftermarket) (Steelfinger Studios)</description>
+		<rom name="Space Tonbow (World) (v1.1.1) (Aftermarket) (Steelfinger Studios).sms" size="131072" crc="d847b8c0" md5="8c02ec065d98909e6ef6c5f862106164" sha1="ec6e209118c846f23d856ba6a8b0cdff8514799c" status="none" />
+	</game>
+	<game name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)">
+		<description>Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)</description>
+		<rom name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa).sms" size="131072" crc="c6b55908" md5="e770aa467b9caace35e6ea117820cfb4" sha1="53e401375c88c2ab03c44ea6215baf67d7715639" status="none" />
 	</game>
 </datafile>
