@@ -5,7 +5,7 @@
 		<id>072</id>
 		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20260426</version>
+		<version>v20260428</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -274,13 +274,13 @@
 		<description>Minicraft (World) (WASM-4 Jam #2 Version) (thefloatingpixel)</description>
 		<rom name="Minicraft (World) (WASM-4 Jam #2 Version) (thefloatingpixel).wasm" size="35244" crc="2c5db31f" md5="a75912e749113feee2f789230b11527b" sha1="5234b529af1c852e3a7c3fcf77908e4255cbbd51" />
 	</game>
-	<game name="Minigolf (World) (v0.2.5) (World) (Lomikron)">
-		<description>Minigolf (World) (v0.2.5) (World) (Lomikron)</description>
-		<rom name="Minigolf (World) (v0.2.5) (World) (Lomikron).wasm" size="28553" crc="674799A9" md5="D7B509D435D9699F12744E615254A2C4" Sha1="039B534C9D298DEA8E60830EC493BEABAAC6A918"/>
+	<game name="Minigolf (World) (v0.2.5) (Lomikron)">
+		<description>Minigolf (World) (v0.2.5) (Lomikron)</description>
+		<rom name="Minigolf (World) (v0.2.5) (Lomikron).wasm" size="28553" crc="674799A9" md5="D7B509D435D9699F12744E615254A2C4" Sha1="039B534C9D298DEA8E60830EC493BEABAAC6A918"/>
 	</game>
-	<game name="Ninja vs Knights (World) (v1.0.1) (World) (Mr.Rafael)">
-		<description>Ninja vs Knights (World) (v1.0.1) (World) (Mr.Rafael)</description>
-		<rom name="Ninja vs Knights (World) (v1.0.1) (World) (Mr.Rafael).wasm" size="59424" crc="9DE9B738" md5="5921F8B9BB63024BD3145172806D2498" Sha1="8A6E1B3375415F09874E149B20891603B31F4701"/>
+	<game name="Ninja vs Knights (World) (v1.0.1) (Mr.Rafael)">
+		<description>Ninja vs Knights (World) (v1.0.1) (Mr.Rafael)</description>
+		<rom name="Ninja vs Knights (World) (v1.0.1) (Mr.Rafael).wasm" size="59424" crc="9DE9B738" md5="5921F8B9BB63024BD3145172806D2498" Sha1="8A6E1B3375415F09874E149B20891603B31F4701"/>
 	</game>
 	<game name="One Slime Army (World) (v1.3.0) (Isaiah Billingsley)">
 		<description>One Slime Army (World) (v1.3.0) (Isaiah Billingsley)</description>
