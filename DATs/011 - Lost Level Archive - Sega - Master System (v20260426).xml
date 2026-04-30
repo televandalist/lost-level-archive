@@ -50,4 +50,20 @@
 		<description>Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)</description>
 		<rom name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa).sms" size="131072" crc="c6b55908" md5="e770aa467b9caace35e6ea117820cfb4" sha1="53e401375c88c2ab03c44ea6215baf67d7715639" status="none" />
 	</game>
+	<game name="Tower of Sorrow (World) (v1.5) (Easy) (Aftermarket) (Unl)">
+		<description>Tower of Sorrow (World) (v1.5) (Easy) (Aftermarket) (Unl)</description>
+		<rom name="Tower of Sorrow (World) (v1.5) (Easy) (Aftermarket) (Unl).sms" size="524288" crc="72d2089c" md5="6cb865af32b85b3f7f7998ca54153d06" sha1="45b949ed7a488a8c13e522fd5f85006a982a82c1" status="none" />
+	</game>
+	<game name="Tower of Sorrow (World) (v1.5) (Easy) (Colorblind) (Aftermarket) (Unl)">
+		<description>Tower of Sorrow (World) (v1.5) (Easy) (Colorblind) (Aftermarket) (Unl)</description>	
+		<rom name="Tower of Sorrow (World) (v1.5) (Easy) (Colorblind) (Aftermarket) (Unl).sms" size="524288" crc="0b953948" md5="bf4536364cbcbb506be4472f4218ec2a" sha1="1b4e5fa6066e9e949b44a0c7b41ee3dffc3bf1fe" status="none" />
+	</game>
+	<game name="Tower of Sorrow (World) (v1.5) (Hard) (Aftermarket) (Unl)">
+		<description>Tower of Sorrow (World) (v1.5) (Hard) (Aftermarket) (Unl)</description>
+		<rom name="Tower of Sorrow (World) (v1.5) (Hard) (Aftermarket) (Unl).sms" size="524288" crc="93655c5f" md5="3c83b99f283fba1e2a340f351c8fbf99" sha1="7888ff7bacc9ba89f33b9c92b2fe7ac52710fdc1" status="none" />
+	</game>
+	<game name="Tower of Sorrow (World) (v1.5) (Hard) (Colorblind) (Aftermarket) (Unl)">
+		<description>Tower of Sorrow (World) (v1.5) (Hard) (Colorblind) (Aftermarket) (Unl)</description>
+		<rom name="Tower of Sorrow (World) (v1.5) (Hard) (Colorblind) (Aftermarket) (Unl).sms" size="524288" crc="e178c8a9" md5="9a393706b596a2480580bf00332ca2e7" sha1="c6dcc9e3cd3d687f66f0f63f0926aecffce3a85c" status="none" />
+	</game>
 </datafile>
