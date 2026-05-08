@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260426</version>
+		<version>v20260508</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -262,10 +262,6 @@
 	<game name="GB Paint (World) (Aftermarket) (Unl)">
 		<description>GB Paint (World) (Aftermarket) (Unl)</description>
 		<rom name="GB Paint (World) (Aftermarket) (Unl).gb" size="131072" crc="2c77d091" md5="e5c30dd277d746345269b868f8f5eae1" sha1="7b1e27b76ffe563c5772000f60ad3dc2de0a54c3" />
-	</game>
-	<game name="GbBBS95 (World) (v1.4.6) (Aftermarket) (Beatscribe)">
-		<description>GbBBS95 (World) (v1.4.6) (Aftermarket) (Beatscribe)</description>
-		<rom name="GbBBS95 (World) (v1.4.6) (Aftermarket) (Beatscribe).gb" size="2097152" crc="7b9457ce" md5="b871faa7514585331066f78d60d8364a" sha1="f0220ec7edf172bd0cb14578b8c825ffe942ba4d" status="none" />
 	</game>
 	<game name="Gloomglow (World) (v2.0) (Aftermarket) (Jagger Byte Games)">
 		<description>Gloomglow (World) (v2.0) (Aftermarket) (Jagger Byte Games)</description>
@@ -658,30 +654,6 @@
 	<game name="Yoru no Kasou (World) (Aftermarket) (GB Studio)">
 		<description>Yoru no Kasou (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Yoru no Kasou (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="e708a0ad" md5="c322fe4c7ce87654a429e149c8671f00" sha1="8d82a71e48b7e4fac7abd6c082b684f4735a2663" />
-	</game>
-	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (De)">
-		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (De)</description>
-		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (De).gb" size="2097152" crc="0175e0be" md5="2534c95317a9c0324a5bcd0e4765ea23" sha1="0f750dfbb797836b4fdd98b7159c00534a6b24db" />
-	</game>
-	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (En)">
-		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (En)</description>
-		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (En).gb" size="2097152" crc="6f2c0376" md5="0c21cf8df56d55f0696036ed7508946b" sha1="2c98fde34025fdca4131d93b96a09fea717f0fac" />
-	</game>
-	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Es)">
-		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Es)</description>
-		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Es).gb" size="2097152" crc="8d20a6d4" md5="3adbda6de0b4edb496064d2e83449326" sha1="1c2c6bc288e04ff5562c669ba813c160fb27edc3" />
-	</game>
-	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Fr)">
-		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Fr)</description>
-		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Fr).gb" size="2097152" crc="72253daa" md5="43cbc5b46fdd1c9825e0d8f3fdf17639" sha1="38b6055937575a31623c8bfea38009d1e56a7bea" />
-	</game>
-	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (It)">
-		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (It)</description>
-		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (It).gb" size="2097152" crc="8a6faea1" md5="9371994bab043a73d678776f84e526d0" sha1="8db41a5988b2017c5b0573dc05ecd9d9df25121c" />
-	</game>
-	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja)">
-		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja)</description>
-		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja).gb" size="2097152" crc="65a35ae5" md5="35e6e4336d8c1a1997cf7c4f047bc91a" sha1="034102d67a62a9b0c31053b40e0430a32ed92d06" />
 	</game>
 	<game name="Zoo Block (Asia) (Multicart Rip) (Unl)">
 		<description>Zoo Block (Asia) (Multicart Rip) (Unl)</description>

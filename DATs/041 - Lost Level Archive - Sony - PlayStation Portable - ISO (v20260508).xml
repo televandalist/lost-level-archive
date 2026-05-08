@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20260426</version>
+		<version>v20260508</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -45,6 +45,10 @@
 	<game name="Dino Run PSP (v20230628) (@PSP_DEVELOPER)">
 		<description>Dino Run PSP (v20230628) (@PSP_DEVELOPER)</description>
 		<rom name="Dino Run PSP (World) (v20230628) (Aftermarket) (Unl).iso" size="114491392" crc="cc461711" md5="38d3e71d9497f05e5024cb54175bc7c8" sha1="9cff436740fc869e0999d53aca0fe6df84048509" />
+	</game>
+	<game name="Duke Nukem - Critical Mass (Prototype) (v20100730)">
+		<description>Duke Nukem - Critical Mass (Prototype) (v20100730)</description>
+		<rom name="Duke Nukem - Critical Mass (Prototype) (v20100730).iso" size="442066944" crc="f7bf28d7" md5="ee5b3736806ec07c2441a45c617cc902" sha1="4d36b7f68fb165c77bba66e29982f38089147f4a" status="none" />
 	</game>
 	<game name="Fate Extra CCC (Japan) (En) (v1.0) (iwakura productions)">
 		<description>Fate Extra CCC (Japan) (En) (v1.0) (iwakura productions)</description>

@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20260426</version>
+		<version>v20260508</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -21,6 +21,10 @@
 	<game name="MKDD - Mario Kart Double Dash Extended (v2.0) (M64)">
 		<description>MKDD - Mario Kart Double Dash Extended (v2.0) (M64)</description>
 		<rom name="MKDD - Mario Kart Double Dash Extended (v2.0) (M64).iso" size="1459978240" crc="8de9c734" md5="a7a438445046286964d6896ee3036bca" sha1="7f10b48ef8fe66761f70cc7127394dc9e9f7eb19" />
+	</game>
+	<game name="Pikmin 2 - Bikmin 269 DX - Director's Cut - Definitive (v1.0) (Rheycore)">
+		<description>Pikmin 2 - Bikmin 269 DX - Director's Cut - Definitive (v1.0) (Rheycore)</description>
+		<rom name="Pikmin 2 - Bikmin 269 DX - Director's Cut - Definitive (v1.0) (Rheycore).iso" size="1563328512" crc="285c75a4" md5="d7e36da6371bc79fc635e6cd4ebeb1c9" sha1="e6f9213a20b5cd74bb17715fdcd242d4df3bf2ff" status="none" />
 	</game>
 	<game name="Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore)">
 		<description>Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore)</description>
@@ -77,6 +81,10 @@
 	<game name="Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns)">
 		<description>Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns)</description>
 		<rom name="Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns).iso" size="1459978240" crc="ba4473fa" md5="775162799e44cdf983967fb18f6623a5" sha1="c2dba2d078ead3d074cc75b5293151e5a14c3ff6" status="none" />
+	</game>
+	<game name="Pikmin 2 - Regrown (v2.1_0dadd) (Ochrehorns)">
+		<description>Pikmin 2 - Regrown (v2.1_0dadd) (Ochrehorns)</description>
+		<rom name="Pikmin 2 - Regrown (v2.1_0dadd) (Ochrehorns).iso" size="1459978240" crc="47ed2740" md5="1a1ce685160b329af56c7a249579b27a" sha1="1633782ad601587d5d818070797ba2d0dfa5a9e6" status="none" />
 	</game>
 	<game name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)">
 		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)</description>

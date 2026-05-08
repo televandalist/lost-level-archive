@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>025</id>
+		<name>Legacy - 025 - Lost Level Archive - Atari - 2600</name>
+		<description>Legacy - Atari - 2600</description>
+		<version>v20260508</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Criminal Pursuit - Eddy Langfinger, der Museumsdieb (PAL) (De)">
+		<description>Criminal Pursuit - Eddy Langfinger, der Museumsdieb (PAL) (De)</description>
+		<comment>In the No Intro DATs</comment>
+		<rom name="Criminal Pursuit - Eddy Langfinger, der Museumsdieb (PAL) (De).a26" size="4096" crc="b93a7346" md5="07973be3ecfd55235bf59aa56bdef28c" sha1="4e1ac830a8cd2ca27f92cb5d7e78c89c563e4c10" status="none" />
+	</game>
+</datafile>

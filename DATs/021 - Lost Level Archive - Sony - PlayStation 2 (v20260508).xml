@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20260426</version>
+		<version>v20260508</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -50,6 +50,10 @@
 	<game name="Dragon Quest V - Tenkuu no Hanayome (Japan) (En) (v1.2 - DQ Naming) (DQ Translations)">
 		<description>Dragon Quest V - Tenkuu no Hanayome (Japan) (En) (v1.2 - DQ Naming) (DQ Translations)</description>
 		<rom name="Dragon Quest V - Tenkuu no Hanayome (Japan) (En) (v1.2 - DQ Naming) (DQ Translations).iso" size="2654199808" crc="d36dcc95" md5="6015480cd73d80417a0e483c71c4a0d2" sha1="da3b402b003867dcaeadfe36aebcc933051250a2" />
+	</game>
+	<game name="Duke Nukem - D-Day (Prototype) (v20010604)">
+		<description>Duke Nukem - D-Day (Prototype) (v20010604)</description>
+		<rom name="Duke Nukem - D-Day (Prototype) (v20010604).iso" size="306505728" crc="f10d9085" md5="4d51a0e50a74bcaf3059f43c51dcb57c" sha1="7cda404143fddccb2dd5ee3e92a61bd8eaaae6a5" status="none" />
 	</game>
 	<game name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)">
 		<description>Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller)</description>
@@ -207,6 +211,11 @@
 	<game name="Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games)">
 		<description>Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games)</description>
 		<rom name="Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games).iso" size="4559339520" crc="d1d20fea" md5="c1f783756a76f8f0b542c86f887afda5" sha1="dbd928d9176a5e9375a2849ee9af36705d47f039" status="none" />
+	</game>
+	<game name="Robot Alchemic Drive (USA) (Undub) (Mugi)">
+		<description>Robot Alchemic Drive (USA) (Undub) (Mugi)</description>
+		<rom name="Robot Alchemic Drive (USA) (Undub) (Mugi).bin" size="418390016" crc="c12cd497" md5="d2925dd8f89852f27d39cc51206f5396" sha1="a40bf70d89641b78c829c44400bd34cd269fa215" status="none" />
+		<rom name="Robot Alchemic Drive (USA) (Undub) (Mugi).cue" size="107" crc="846ee3f2" md5="85ca332ff18316c108e6a79718a0fa8c" sha1="243c2fb35895cbad81464888ee8a16637eb15710" status="none" />
 	</game>
 	<game name="Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan)">
 		<description>Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan)</description>

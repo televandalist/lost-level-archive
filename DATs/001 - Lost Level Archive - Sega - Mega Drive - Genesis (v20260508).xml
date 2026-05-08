@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20260119</version>
+		<version>v20260508</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -21,10 +21,6 @@
 	<game name="Angry Birds (Demo) (Bootleg)">
 		<description>Angry Birds (Demo) (Bootleg).md</description>
 		<rom name="Angry Birds (Demo) (Bootleg).md" size="2621440" crc="9e73551a" md5="ad6ac7316d65857e27e5944b376af9c0" sha1="0fc13f486ae322d48b74350560e8c35745aceb14" />
-	</game>
-	<game name="Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios)">
-		<description>Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios)</description>
-		<rom name="Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios).md" size="393216" crc="c714463c" md5="5c6eb6efc137bc314c7978c4709c1fb2" sha1="16fdfb219182f9e40faa7c12d746f4605d0ccdb5" status="none" />
 	</game>
 	<game name="Checker (USA) (AtGames - Devworks) (Bootleg)">
 		<description>Checker (USA) (AtGames - Devworks) (Bootleg).md</description>
@@ -49,10 +45,6 @@
 	<game name="Lost Vikings, The (USA) (Blizzard Arcade Collection)">
 		<description>Lost Vikings, The (USA) (Blizzard Arcade Collection)</description>
 		<rom name="Lost Vikings, The (USA) (Blizzard Arcade Collection).md" size="1048576" crc="5cc41d7b" md5="989910b5e8f26091226559764517511c" sha1="abbbc473e0641de79defbc33ad76be84af8d5a3a" />
-	</game>
-	<game name="Mai Nurse (World) (v1.02) (Aftermarket) (lunoka)">
-		<description>Mai Nurse (World) (v1.02) (Aftermarket) (lunoka)</description>
-		<rom name="Mai Nurse (World) (v1.02) (Aftermarket) (lunoka).md" size="262144" crc="fc7c2995" md5="6a31128f7fc88f49ca5787bb406d8a6b" sha1="d89c75ccaea48cc89d724f4e0184b5d248e83c0e" status="none" />
 	</game>
 	<game name="Memory (USA) (AtGames) (Bootleg)">
 		<description>Memory (USA) (AtGames) (Bootleg).md</description>

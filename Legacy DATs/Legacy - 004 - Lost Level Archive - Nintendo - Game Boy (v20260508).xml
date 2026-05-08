@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<id>004</id>
-		<name>Removed - 004 - Lost Level Archive - Nintendo - Game Boy</name>
-		<description>Removed - Nintendo - Game Boy</description>
-		<version>v20260411</version>
+		<name>Legacy - 004 - Lost Level Archive - Nintendo - Game Boy</name>
+		<description>Legacy - Nintendo - Game Boy</description>
+		<version>v20260508</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -20,10 +20,39 @@
 		<comment>In the No Intro DAT</comment>
 		<rom name="Batty Zabella 2 XOXO XMAS (World) (Aftermarket) (Unl).gb" size="2097152" crc="451491df" md5="6503cb7859073a0097daa8ed34766468" sha1="eafbcaca0b43035233d83413856c2b495b964346" />
 	</game>
+	<game name="GbBBS95 (World) (v1.4.6) (Aftermarket) (Beatscribe)">
+		<description>GbBBS95 (World) (v1.4.6) (Aftermarket) (Beatscribe)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="GbBBS95 (World) (v1.4.6) (Aftermarket) (Beatscribe).gb" size="2097152" crc="7b9457ce" md5="b871faa7514585331066f78d60d8364a" sha1="f0220ec7edf172bd0cb14578b8c825ffe942ba4d" status="none" />
+	</game>
 	<game name="Soul Void Redux (World) (Aftermarket) (GB Studio)">
 		<description>Soul Void Redux (World) (Aftermarket) (GB Studio)</description>
 		<comment>In the No Intro DAT</comment>
 		<rom name="Soul Void Redux (World) (Aftermarket) (GB Studio).gb" size="1048576" crc="B6F5F372" md5="CE14AFB9B396A74A1E0E2ECE9747EA9C" sha1="3B10F6BAE11DAB5BB6106D0A6E4E80A3FBD0FA7A"/>
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (De)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (De)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (De).gb" size="2097152" crc="0175e0be" md5="2534c95317a9c0324a5bcd0e4765ea23" sha1="0f750dfbb797836b4fdd98b7159c00534a6b24db" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (En)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (En)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (En).gb" size="2097152" crc="6f2c0376" md5="0c21cf8df56d55f0696036ed7508946b" sha1="2c98fde34025fdca4131d93b96a09fea717f0fac" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Es)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Es)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Es).gb" size="2097152" crc="8d20a6d4" md5="3adbda6de0b4edb496064d2e83449326" sha1="1c2c6bc288e04ff5562c669ba813c160fb27edc3" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Fr)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Fr)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Fr).gb" size="2097152" crc="72253daa" md5="43cbc5b46fdd1c9825e0d8f3fdf17639" sha1="38b6055937575a31623c8bfea38009d1e56a7bea" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (It)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (It)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (It).gb" size="2097152" crc="8a6faea1" md5="9371994bab043a73d678776f84e526d0" sha1="8db41a5988b2017c5b0573dc05ecd9d9df25121c" />
+	</game>
+	<game name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja)">
+		<description>Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja)</description>
+		<rom name="Yu-Gi-Oh! Early Days Collection - Duel Monsters (Ja).gb" size="2097152" crc="65a35ae5" md5="35e6e4336d8c1a1997cf7c4f047bc91a" sha1="034102d67a62a9b0c31053b40e0430a32ed92d06" />
 	</game>
 	<game name="Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)">
 		<description>Yurivania 0 - Soul Night Prelude GB (World) (v1.3) (Aftermarket) (GB Studio)</description>
