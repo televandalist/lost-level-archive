@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260409</version>
+		<version>v20260515</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -326,6 +326,11 @@
 		<description>PSXFunkin' - Pibby Corrupted (UNSTOP4BLE, IgorSou30000)</description>
 		<rom name="PSXFunkin' - Pibby Corrupted (UNSTOP4BLE, IgorSou30000).bin" size="406672560" crc="c1ecae52" md5="77b01e90ac2d2f46f7d819ffe5cd655e" sha1="35ee66ca477c278e504e28d4e9ed37690807e1cf" />
 		<rom name="PSXFunkin' - Pibby Corrupted (UNSTOP4BLE, IgorSou30000).cue" size="121" crc="6ff845fd" md5="32d10fe5da1eab0b7debc2e174bb7a7d" sha1="cd7ebdb9094cec9c129a7d58e89d5e1e25c8b3eb" />
+	</game>
+	<game name="PSXFunkin' - PSXGarcello (v1.1) (IgorSou3000)">
+		<description>PSXFunkin' - PSXGarcello (v1.1) (IgorSou3000)</description>
+		<rom name="PSXFunkin' - PSXGarcello (v1.1) (IgorSou3000).bin" size="296264976" crc="4697b400" md5="028a10c97ddd50961afd0a3943c838ed" sha1="b421ca0d14cbda60d7dbcdfd245d1fedf33e6bc2" status="none" />
+		<rom name="PSXFunkin' - PSXGarcello (v1.1) (IgorSou3000).cue" size="111" crc="4270e672" md5="0045b1c443415077736d32d405d4e7e9" sha1="5783d25bb467d232be177654e4a0fe448747abc5" status="none" />
 	</game>
 	<game name="PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000)">
 		<description>PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000)</description>

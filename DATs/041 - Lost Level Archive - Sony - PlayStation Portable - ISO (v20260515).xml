@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20260508</version>
+		<version>v20260515</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -161,6 +161,10 @@
 	<game name="Shovel Knight Portable (v0.2.0) (Yerson Games)">
 		<description>Shovel Knight Portable (v0.2.0) (Yerson Games)</description>
 		<rom name="Shovel Knight Portable (v0.2.0) (Yerson Games).iso" size="144670720" crc="be61dfb3" md5="a972b004c9a3ec699e2dacb39134cf5f" sha1="0004feedac327dc8ae84cc113ff003458e765961" />
+	</game>
+	<game name="Slendytubbies 2D (World) (v0.04.1) (Aftermarket) (AlexDev, PepsiDev)">
+		<description>Slendytubbies 2D (World) (v0.04.1) (Aftermarket) (AlexDev, PepsiDev)</description>
+		<rom name="Slendytubbies 2D (World) (v0.04.1) (Aftermarket) (AlexDev, PepsiDev).iso" size="121077760" crc="28218cfb" md5="11c95f5f39ca0941a9bfc5f9301d9ccd" sha1="3582af27eb31e533021d88c48bd9c0ee63ae2dbd" status="none" />
 	</game>
 	<game name="Star Ocean - First Departure (USA) (Undub) (v1.0) (Unknown)">
 		<description>Star Ocean - First Departure (USA) (Undub) (v1.0) (Unknown)</description>

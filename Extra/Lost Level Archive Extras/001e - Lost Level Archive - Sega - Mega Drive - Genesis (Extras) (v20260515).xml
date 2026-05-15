@@ -5,13 +5,17 @@
 		<id>001e</id>
 		<name>001e - Lost Level Archive - Sega - Mega Drive - Genesis (Extras)</name>
 		<description>Sega - Mega Drive - Genesis (Extras)</description>
-		<version>v20260119</version>
+		<version>v20260515</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 	</header>
-	<game name="Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios) - Quick Guide">
-		<description>Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios) - Quick Guide</description>
+	<game name="Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios) (Extras)">
+		<description>Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios) (Extras)</description>
 		<rom name="Chase and the Gurgloos (World) (v20251115) (Aftermarket) (Bipedal Studios) - Quick Guide.pdf" size="119273" crc="875a0b97" md5="dc0ec140b7853914ab2aeb26ca0611a3" sha1="7a0e6a80c7c2f041754c0b2d6dca517deed93370" status="none" />
+	</game>
+	<game name="Demon Girls (World) (Demo) (Aftermarket) (JuiceLizard) (Extras)">
+		<description>Demon Girls (World) (Demo) (Aftermarket) (JuiceLizard) (Extras)</description>
+		<rom name="Demon Girls (World) (Demo) (Aftermarket) (JuiceLizard) - Booklet.pdf" size="1673837" crc="a190e491" md5="932756b13b27952e2e1fb19477dc4e95" sha1="bb16c9f6dde64a561c2d18a736a6a495ff2505f0" status="none" />
 	</game>
 </datafile>

@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20260508</version>
+		<version>v20260515</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -34,6 +34,10 @@
 		<description>CrazyBus (World) (Aftermarket) (Unl) (Tom Maneiro).md</description>
 		<rom name="CrazyBus (World) (Aftermarket) (Unl) (Tom Maneiro).md" size="507360" crc="308a2e8e" md5="8329789cf6137cf0dffdfd503c82e1c3" sha1="9208b535b8a5bb5e28b44a4fbc255ec5a92f39dd" />
 	</game>
+	<game name="Demon Girls (World) (Demo) (Aftermarket) (JuiceLizard)">
+		<description>Demon Girls (World) (Demo) (Aftermarket) (JuiceLizard)</description>
+		<rom name="Demon Girls (World) (Demo) (Aftermarket) (JuiceLizard).md" size="655360" crc="9dab4c96" md5="b742a7ddc538d29a702b3de6f41bc6d2" sha1="4dae9951ea151b030e408e3623e73128cf50ee3a" status="none" />
+	</game>
 	<game name="Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown)">
 		<description>Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md</description>
 		<rom name="Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md" size="524288" crc="fbb6cf49" md5="f3094cbf13e6cf5219734ce4debff5c0" sha1="2ec9ff982a7d271ceb1d92d1c551208142ea477a" />
@@ -49,6 +53,10 @@
 	<game name="Memory (USA) (AtGames) (Bootleg)">
 		<description>Memory (USA) (AtGames) (Bootleg).md</description>
 		<rom name="Memory (USA) (AtGames) (Bootleg).md" size="65536" crc="a85230c0" md5="8288b6d3f58d1844aef780bf0cdf0dc1" sha1="e37e15632d0a6b73f50cbb9bbd65cc1d62d1866e" />
+	</game>
+	<game name="Metal Gear (World) (v1.1) (Aftermarket) (Unl)">
+		<description>Metal Gear (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Metal Gear (World) (v1.1) (Aftermarket) (Unl).md" size="2097152" crc="68ec8c19" md5="dcdff0b1ab5f502a6550bdca7c018636" sha1="e2df7acc864bcf27bdb983559dd658120a11b624" status="none" />
 	</game>
 	<game name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)">
 		<description>Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)</description>

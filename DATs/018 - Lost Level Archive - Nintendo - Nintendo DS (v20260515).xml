@@ -5,7 +5,7 @@
 		<id>018</id>
 		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
 		<description>Nintendo - Nintendo DS</description>
-		<version>v20260222</version>
+		<version>v20260515</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -297,6 +297,10 @@
 	<game name="Mario VS Time (World) (v1.1) (Aftermarket) (Unl) (Aekara)">
 		<description>Mario VS Time (World) (v1.1) (Aftermarket) (Unl) (Aekara)</description>
 		<rom name="Mario VS Time (World) (v1.1) (Aftermarket) (Unl) (Aekara).nds" size="664640" crc="117b6599" md5="2c326bc5622f130df1cf15fc1426efba" sha1="0313f06c147620805a6d253ecc481ee154b99b89" />
+	</game>
+	<game name="Martian, The (World) (v1.2) (Aftermarket) (Team Poo Hill)">
+		<description>Martian, The (World) (v1.2) (Aftermarket) (Team Poo Hill)</description>
+		<rom name="Martian, The (World) (v1.2) (Aftermarket) (Team Poo Hill).nds" size="1667584" crc="14cc2b0b" md5="7da68885fe84bc6039a8f6ffc63059d3" sha1="5d2dd4503d9399ee2c882a902d913e2a7b8aeb89" status="none" />
 	</game>
 	<game name="Metal Slug Combat (World) (v1.0) (Aftermarket) (Unl) (Master Sonic)">
 		<description>Metal Slug Combat (World) (v1.0) (Aftermarket) (Unl) (Master Sonic)</description>
