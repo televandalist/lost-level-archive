@@ -54,9 +54,9 @@
 		<description>Memory (USA) (AtGames) (Bootleg).md</description>
 		<rom name="Memory (USA) (AtGames) (Bootleg).md" size="65536" crc="a85230c0" md5="8288b6d3f58d1844aef780bf0cdf0dc1" sha1="e37e15632d0a6b73f50cbb9bbd65cc1d62d1866e" />
 	</game>
-	<game name="Metal Gear (World) (v1.1) (Aftermarket) (Unl)">
-		<description>Metal Gear (World) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Metal Gear (World) (v1.1) (Aftermarket) (Unl).md" size="2097152" crc="68ec8c19" md5="dcdff0b1ab5f502a6550bdca7c018636" sha1="e2df7acc864bcf27bdb983559dd658120a11b624" status="none" />
+	<game name="Metal Gear (World) (v1.2) (Aftermarket) (Unl)">
+		<description>Metal Gear (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Metal Gear (World) (v1.2) (Aftermarket) (Unl).md" size="2097152" crc="68ec8c19" md5="dcdff0b1ab5f502a6550bdca7c018636" sha1="e2df7acc864bcf27bdb983559dd658120a11b624" status="none" />
 	</game>
 	<game name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)">
 		<description>Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)</description>
