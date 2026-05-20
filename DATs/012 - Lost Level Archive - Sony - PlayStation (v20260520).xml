@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260515</version>
+		<version>v20260520</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -336,6 +336,11 @@
 		<description>PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000)</description>
 		<rom name="PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000).bin" size="230493648" crc="000ed215" md5="d2156077fa6b7d7dfdfc64319c5bf91b" sha1="cc5de605879bf2b6762ef19dafa20f970f5f37cb" />
 		<rom name="PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000).cue" size="119" crc="22f38deb" md5="bbb6907542803db80926eedefa30056b" sha1="3dfda9abebe56a338051373731b05f0fd3ce98e3" />
+	</game>
+	<game name="PSXFunkin' - Sunday Night Suicide (Lord Scout, IgorSou30000, UNSTOP4BLE)">
+		<description>PSXFunkin' - Sunday Night Suicide (Lord Scout, IgorSou30000, UNSTOP4BLE)</description>
+		<rom name="PSXFunkin' - Sunday Night Suicide (Lord Scout, IgorSou30000, UNSTOP4BLE).bin" size="87221568" crc="7f5cd404" md5="8e477b6e0b229dbdd782349cbbc4f852" sha1="47f16d0bb8c7fa155ec1c382fbff632b47e11afb" status="none" />
+		<rom name="PSXFunkin' - Sunday Night Suicide (Lord Scout, IgorSou30000, UNSTOP4BLE).cue" size="138" crc="28c88a3d" md5="bae35a3731ceee91a0df4f7d5a25ab59" sha1="d5fe589b551e4a9b5f991756ebf1f395f9176fd9" status="none" />
 	</game>
 	<game name="PSXFunkin' - Tails Gets Trolled (UNSTOP4BLE, IgorSou30000)">
 		<description>PSXFunkin' - Tails Gets Trolled (UNSTOP4BLE, IgorSou30000)</description>
