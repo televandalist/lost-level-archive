@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (EBOOT)</name>
 		<description>Sony - PlayStation Portable (EBOOT)</description>
-		<version>v20260515</version>
+		<version>v20260531</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -1319,6 +1319,130 @@
 		<rom name="MIDI_Instruments-alt" size="4184738" crc="8c85d18d" md5="867b24484298e62fc4f4cdbee0dd9ab8" sha1="f917e5219407f671c57b967ae948376246de6699" />
 		<rom name="PSPDoom.readme.pdf" size="127198" crc="fc8418e7" md5="0351cd1512290c8d3f9811882f711947" sha1="f687e03fbfadcb9c7137c8a5a70588400043f100" />
 		<rom name="Readme.txt" size="20119" crc="a3272054" md5="3062752418c6b3d8ee3acba4d8d2449e" sha1="5975f80e232fb9f41b7ce06a302d7515ecf20794" />
+	</game>
+	<game name="Embodiment of Scarlet Hair Portable, The - I'm Lovin' It (World) (v1.0) (Aster)">
+		<description>Embodiment of Scarlet Hair Portable, The - I'm Lovin' It (World) (v1.0) (Aster)</description>
+		<rom name="dat\frame\BackGround01.PNG" size="131432" crc="3c10550e" md5="29814ce45321169a59bf36d6c6d10d22" sha1="27a8a489856bcee49dcb7478d95361f0ba33f540" status="none" />
+		<rom name="dat\frame\frame0.png" size="4555" crc="61a88501" md5="85b3b51cdff2abcaaace8f5631b5420b" sha1="224d6a9ed7bfd301ee4fc17fcda4ecece767adfc" status="none" />
+		<rom name="dat\frame\frame1.png" size="3615" crc="9ddd7e47" md5="cc525785c4bb5610b3ea06cfca6f1979" sha1="de331a9baa4364dd7fd45ec27ffb75fe3ce83999" status="none" />
+		<rom name="dat\frame\frame2.png" size="4231" crc="83839909" md5="d836545e196b8c1b27b962174096f337" sha1="f2d0430ad1d0d7982b5dd040dbc41c0fe6e43efb" status="none" />
+		<rom name="dat\frame\frame3.png" size="43242" crc="7b5c5849" md5="cc4814dbd864094e7cc95e852002b02e" sha1="827629b63d06920505a5b4e95ec00023c11e1c88" status="none" />
+		<rom name="dat\img\kago.png" size="1698" crc="7ed4ed76" md5="8c697eb6a0e3e152f55c2ce2fa3567d8" sha1="806c632d2c007425b70c4c5caade1e8166ece87e" status="none" />
+		<rom name="dat\img\back\0\Donald05.png" size="10816" crc="40697ead" md5="94c3d02707dbb5d634acc0ba5f2598d8" sha1="c36e12e6ae534ffe8fe142ddb805c0686f1f1c37" status="none" />
+		<rom name="dat\img\back\0\TitleBack.png" size="129332" crc="935aa1d8" md5="e396c9aeb726effc6da7fd6b8c3d56ec" sha1="2596cc693fdbb9c5480eef02d17e388841da9777" status="none" />
+		<rom name="dat\img\bullet\_b6.png" size="2724" crc="47f30657" md5="1e799197695eb870056f52b66d5e7eb7" sha1="a4db53a79d24f409220dead15eb08b2e449aa75c" status="none" />
+		<rom name="dat\img\bullet\b0.png" size="40348" crc="d13133b7" md5="c0dbe56739122850b46f8e3def07f3e9" sha1="933f04086d16a3835074caa6a440075abe9277b5" status="none" />
+		<rom name="dat\img\bullet\b1.png" size="3434" crc="b72f6025" md5="3e55f9c59d44a60f1614498221fc65a1" sha1="3d4ce8ceb36e5a97d423606ff57affe0c88a7f7e" status="none" />
+		<rom name="dat\img\bullet\b2.png" size="13078" crc="3342a994" md5="c19ca50ffb6c46479353cb65e496b894" sha1="ae376f39732a480de05f002f385bc2ef460b85f5" status="none" />
+		<rom name="dat\img\bullet\b3.png" size="5286" crc="8461b049" md5="8d1e38692a870d74531606d7c2a956fb" sha1="406af05b3be0f44c5e10071b136500acb65cb0fe" status="none" />
+		<rom name="dat\img\bullet\b4.png" size="20117" crc="0e71a9c1" md5="a48cb35734c286a4dde99f050f01f752" sha1="3cabd4f0600994fd41495410a53cda0ebb57d9ee" status="none" />
+		<rom name="dat\img\bullet\b5.png" size="2160" crc="b503f61e" md5="29f964496d381554ddca17275bf5345f" sha1="e5c749a59175e6175a00ff88f803d19ee6d2e7f3" status="none" />
+		<rom name="dat\img\bullet\b6.png" size="2709" crc="b65cd045" md5="fe619328bded60c25c485adae7e50cac" sha1="1fe92a5587c96e54ad646c521ceb59f67d0e954d" status="none" />
+		<rom name="dat\img\bullet\b7.png" size="7753" crc="26eb0196" md5="0f177e6b4a5c8438ff9f6e393416d5e4" sha1="2bfed9f278ad85dd687412ea3469a8b694abb367" status="none" />
+		<rom name="dat\img\bullet\b8.png" size="4001" crc="bb59e859" md5="165823f45f7be6f2f34f42d59df4b01a" sha1="c83c3b88e9a1970aebd7f020dad27f8b49101a6f" status="none" />
+		<rom name="dat\img\bullet\b9.png" size="2014" crc="bc6df43d" md5="78e0a2f9e24cddc3be1b2e9b2184b7ba" sha1="5d360628cc7a00a09c0afc3e4b1521e14bdda504" status="none" />
+		<rom name="dat\img\bullet\b10.png" size="816" crc="68581ca1" md5="14713dbf99cbabc5d8897d3c8ca77fe3" sha1="9a74e70ec1ce497a52dea3f9c93b78860866f256" status="none" />
+		<rom name="dat\img\bullet\b11.png" size="19879" crc="0cbf5b00" md5="8306b8b31903d5264e9408817a0dedb7" sha1="25529e3967782bfb436d6393a61df994e093ba13" status="none" />
+		<rom name="dat\img\bullet\b12.png" size="2012" crc="53a3be2c" md5="7b1c2c6944669ee159b0017bf916f747" sha1="7085fe3e5e434d4b618dc49dbde6632740aec4cf" status="none" />
+		<rom name="dat\img\bullet\b13.png" size="7404" crc="0442a1e2" md5="71a6bfc000d7b2ac8a628ca6693f8163" sha1="f4138caa84efbd5dfb0bcdbcba8d9dd7f68f3767" status="none" />
+		<rom name="dat\img\bullet\b14.png" size="674" crc="98ada7bf" md5="825997613e63dafcbf55e0aa6d9105f5" sha1="691cfc6d62eecad1c1379eeb6211a18e9b29b363" status="none" />
+		<rom name="dat\img\bullet\bom_title0.png" size="3718" crc="275771a9" md5="91e3e7953c43f2e586f692a74779c795" sha1="ddd31b4b52aac0d781793223e625539e823ac4f9" status="none" />
+		<rom name="dat\img\bullet\bom_title1.png" size="6631" crc="9e7b6a64" md5="8877f794a636d4b56b699f0a96abdaf7" sha1="928042f6065f661bc9ff7f26056d764722463221" status="none" />
+		<rom name="dat\img\bullet\kaisyuu0.PNG" size="625" crc="98436f6f" md5="a43a1f6fbecadc3e829bce59ca0f57c0" sha1="671a1b689382da4f1b007e073417834b1d1ee4ea" status="none" />
+		<rom name="dat\img\bullet\kaisyuu.PNG" size="533" crc="7c8fd363" md5="3fe54c6e1a4232fadf338a7cd23a4081" sha1="37475eb5bb4e26af44c34c6a20b8480bc8463fbf" status="none" />
+		<rom name="dat\img\bullet\l0.png" size="33888" crc="4dbbcba8" md5="c7d6b1c11ea8af7c52e6236e0825fd54" sha1="28146da70c787f22baa0555ded7ccd0d09ed5ac5" status="none" />
+		<rom name="dat\img\bullet\l0_moto.png" size="16068" crc="2d1bf7b0" md5="3561124f94d9d4bb938e583064111231" sha1="2b564a89792fbd098e4c98608c1d7b5e969b1696" status="none" />
+		<rom name="dat\img\bullet\lazer_kakunin.png" size="314" crc="95de9e5f" md5="af7836a7c91919838f799bd26078a86d" sha1="ccb8d214b192f96765997bd600bad97c861072c7" status="none" />
+		<rom name="dat\img\char\0.png" size="26594" crc="36c4fe0e" md5="e0dc8eaad0ef366b2bcb051de6415913" sha1="5265e653eaeaac2f0f8b3a94f1a0258f41345ae5" status="none" />
+		<rom name="dat\img\char\atari.png" size="817" crc="18ba57d7" md5="0a4183bcc78d54bf502eae97b0ed5440" sha1="12a53f8885224f9c9aa3dbd3e49451201e3a9b42" status="none" />
+		<rom name="dat\img\char\ball.png" size="2808" crc="1434ec9d" md5="82d0ab6d480d254786cce8b5ea3759a1" sha1="6d523975747a6f578b93985b06200aa27e051c20" status="none" />
+		<rom name="dat\img\char\bl1.png" size="2504" crc="12ce3eae" md5="074ce16a6d5db12caec7afad09f900ee" sha1="d5c65c9018c51f1346c7df82662ebcf5fb654d1c" status="none" />
+		<rom name="dat\img\char\bl_00.png" size="2504" crc="12ce3eae" md5="074ce16a6d5db12caec7afad09f900ee" sha1="d5c65c9018c51f1346c7df82662ebcf5fb654d1c" status="none" />
+		<rom name="dat\img\char\bl_01.png" size="779" crc="f921c9e2" md5="4abd6cfe2bea9c996b81b9473e2b9a42" sha1="b36e73cb57029c29fa4e323eff6ff9b4cb25476f" status="none" />
+		<rom name="dat\img\char\bl_11.png" size="226" crc="6841d46b" md5="6f40725fa9103742e623e4b3400689cb" sha1="5abd5ab931637f0521bc1d9ad7bbecdea0a81a85" status="none" />
+		<rom name="dat\img\char\body.png" size="204651" crc="1b37801e" md5="753502a5f8c3648728da2a9c043211e9" sha1="32510893b2c552648a9ad071a64e32a02ccb2706" status="none" />
+		<rom name="dat\img\char\boss.png" size="117247" crc="ebeece79" md5="704efc36136489bb32adc37745d48951" sha1="7190eaec6552091bfbe06ab7823c66e9bbfa4307" status="none" />
+		<rom name="dat\img\char\death.png" size="2194" crc="9fc7f8dc" md5="f5378b74b18b44887f5edf91c9b90c51" sha1="2c6dd32c02f25c61dd02d3c86dec42790e49b8ad" status="none" />
+		<rom name="dat\img\char\Donald00.png" size="9711" crc="1d8c19ac" md5="0d8d028d3151f34d1ff21669fa52224d" sha1="364c04d80c9c6cf5c7e71e678568b755230a95d7" status="none" />
+		<rom name="dat\img\char\face0.png" size="181523" crc="598a4f68" md5="e9d862942bbe0b1b9af78d520e78dbee" sha1="0bc8f516356be063930baf306caf830ab29117b7" status="none" />
+		<rom name="dat\img\char\face1.png" size="178030" crc="e1cbce4d" md5="604de9d1d1f45fcd8d85269dcfc68771" sha1="a067c24ef929603d0a5b81d225dbffa90f9106e5" status="none" />
+		<rom name="dat\img\char\face2.png" size="170234" crc="52fdc0b6" md5="12660804d013d2e2a7340c373e74ca3f" sha1="d205a7b08b3d4891acc595eaf9150390ca0271c5" status="none" />
+		<rom name="dat\img\char\face3.png" size="193022" crc="e798e88e" md5="1e1981866204a6ab004b6122de9a2b5d" sha1="d1a612708010cd9fc25da0f1540f628633187cbd" status="none" />
+		<rom name="dat\img\char\face4.png" size="175201" crc="1fe63e3a" md5="d85eb3c0a0c154d65965a6bd4acd62f0" sha1="6bde34a361f3fae44f1bd6ac4714759125eda0c6" status="none" />
+		<rom name="dat\img\char\face5.png" size="191024" crc="48e010ad" md5="363f0a7c5ae05f9cd3d12b78b160e581" sha1="2b049629be9ddebac4ed15b5fcf807b7b4eb1f6a" status="none" />
+		<rom name="dat\img\char\riria.png" size="59920" crc="74db5b85" md5="b75429409b32b5cf8e5d617e1baaae07" sha1="6a568ba6f767b3bc6eb8b4ced3f971543ffab472" status="none" />
+		<rom name="dat\img\effect\appear.png" size="9972" crc="77a1ba8b" md5="783a035db7f5edaad757a02dd0ceac60" sha1="3017f713e9007e3ad2cd96651b6ab618b5e422b7" status="none" />
+		<rom name="dat\img\effect\bkefct.png" size="9078" crc="5d4435d3" md5="76c28315868fe959344cec75d07bfe35" sha1="ae8c07f2b6c36484273e4878b99c25f40ccd7d82" status="none" />
+		<rom name="dat\img\effect\bom0.png" size="90961" crc="81423c3c" md5="eb5d9251db5c46c90310ad9e65f3d0e6" sha1="86ac598b70f361fd80560b682832167e802feb35" status="none" />
+		<rom name="dat\img\effect\bom1.png" size="108864" crc="de35db87" md5="1b2f3d342c9c1ae53ca06eee830a81d9" sha1="e9d5086f8020ab23cbe08fd804e5c04c4e23d906" status="none" />
+		<rom name="dat\img\effect\kaede2.png" size="26525" crc="1e91abdb" md5="0b5212b5fa1603cbf397583aaa4e204d" sha1="28a46077d5e7837b866b13757ec1562b63728dc4" status="none" />
+		<rom name="dat\img\effect\kaede.png" size="131054" crc="4bb1b7bc" md5="7800c49fa0fb269682c13a3248723b4e" sha1="d94172e150ce10de70e309c6188a48906e1253fb" status="none" />
+		<rom name="dat\img\effect\kiran.png" size="2452" crc="29348363" md5="0e91f4bfcfe49f681541560db43f543b" sha1="4d80aeb88e79a581f5720b1d2db9f6d75d66e1e0" status="none" />
+		<rom name="dat\img\effect\yuki.png" size="910" crc="17770a42" md5="4e60500f92238f5a1ac49cc3aec6a2ff" sha1="0c61347f155a99d9016275e397953da6b2c20e60" status="none" />
+		<rom name="dat\img\enemy\0.png" size="11949" crc="caf2bfde" md5="82fbceca99b075debeadb506c2def744" sha1="a8544fba0093b2c8b6710bda7a10346a328acc5e" status="none" />
+		<rom name="dat\img\enemy\1.png" size="41738" crc="d5b6eb31" md5="d95345dd73132accc9d712e7479597db" sha1="aa2359105f2e46bd3eaf19e9dcbf8e948adde164" status="none" />
+		<rom name="dat\img\enemy\2.png" size="4588" crc="0c6ef585" md5="6b39913920d4133d2bd7c4799db6b51a" sha1="7c7e2eba552c08d77fbd7e7a6e87f2673c528b2c" status="none" />
+		<rom name="dat\img\enemy\02.png" size="3508" crc="8477fc6e" md5="c842bf542be2277fddab07444be46493" sha1="c73f94a2794f5811d11717db12e24960ee05aa87" status="none" />
+		<rom name="dat\img\enemy\3.png" size="11890" crc="ca85cb45" md5="385665109b42805f797b6bfce46bfa98" sha1="5a898863987527ff89af409b7827663ddd7b6f7d" status="none" />
+		<rom name="dat\img\enemy\appear20.png" size="9972" crc="77a1ba8b" md5="783a035db7f5edaad757a02dd0ceac60" sha1="3017f713e9007e3ad2cd96651b6ab618b5e422b7" status="none" />
+		<rom name="dat\img\enemy\appear21.png" size="9918" crc="51873f09" md5="b57a596c4c8167f304d1d2d361bc6185" sha1="e2057435c35551a8a8145a34ec50390653d0110f" status="none" />
+		<rom name="dat\img\enemy\appear.png" size="19431" crc="f8ccbd2b" md5="0c475d6c07efa3ef9da493ec0861d9f9" sha1="f8c5d9e25cf7fd0cfc53d470efe593b38ed4ac47" status="none" />
+		<rom name="dat\img\enemy\bossback3.png" size="41797" crc="272b5993" md5="7c1fd94c620089e9a319114ec70055d0" sha1="26d3267003099c6419eef066cab4d7287469be3f" status="none" />
+		<rom name="dat\img\enemy\bossback4.png" size="7933" crc="2af6429d" md5="1d7b1c02a70c4fda41df9fc850c0e61c" sha1="c95726256e1b792e80eabe82ebd6167bee3ac2f7" status="none" />
+		<rom name="dat\img\enemy\bossback.png" size="33324" crc="da31eb1e" md5="863d2727d498be6b3de50c3ca801b62f" sha1="307e563a39c20171ba0b6634a3b73927b0b5e380" status="none" />
+		<rom name="dat\img\enemy\eback.png" size="19978" crc="6741d397" md5="445f5cb84535117ff651a49b0617676c" sha1="06d527da2085b106e37cc6e08e13628dbf6cfbfd" status="none" />
+		<rom name="dat\img\enemy\enemy_rabel.png" size="2715" crc="0e0f50a3" md5="79e3a719085db858057ca82dd6e16965" sha1="8e80b714b140358d6a71c30852cb3db5ecc2d577" status="none" />
+		<rom name="dat\img\enemy\hit.png" size="911" crc="840b36f9" md5="8b34427917b5aeacd2b993ae8498cf10" sha1="4f1afe12fd7b4c09f39c80fc6b51e8893fe6160d" status="none" />
+		<rom name="dat\img\enemy\hit_effect.png" size="44670" crc="d74c7163" md5="218862d3ff3830401c44a5463271c62a" sha1="71893e959dc42ae6bcc6fa6d7fdd9fce7785fd2d" status="none" />
+		<rom name="dat\img\enemy\hp1.png" size="291" crc="8be4029e" md5="c7c760e9428ab54bf38e964becbff3cf" sha1="273d2a0b2aca3edf1a5acf6804cf7c725ee27839" status="none" />
+		<rom name="dat\img\enemy\hp2.png" size="166" crc="9ba2261f" md5="2dceec9c04e4489d986ee9779839218b" sha1="e45ba49678fb62e141212e72edeb4c7bd41cfbce" status="none" />
+		<rom name="dat\img\enemy\hp11.png" size="296" crc="1bf28dbd" md5="a13fc0241d6f2e254219c97c825e8008" sha1="f7a9dce6d1df30a42d924b812d0b736e5d709c48" status="none" />
+		<rom name="dat\img\enemy\hp.png" size="187" crc="1ea40b08" md5="321c3e60f84cf4f3e1ceb5545618c3db" sha1="b8076fcb026e19d3421431dde6e5cc33ffa6a807" status="none" />
+		<rom name="dat\img\enemy\hp_boss.png" size="187" crc="9baa6575" md5="91f2c8c3e7e5ed0dbc13c1e5f2441030" sha1="97d484dcd6352954f4bc2f30fb1555caae94f536" status="none" />
+		<rom name="dat\img\novel\box.png" size="415" crc="e2aed168" md5="bad70255f58b991d89b9c7c576754d1b" sha1="50b203590ac3e5ab78498ea8fef32b3e93924e70" status="none" />
+		<rom name="dat\img\novel\Donald08.png" size="93783" crc="0c51c0ee" md5="fa73f547367d3f0c58acfe9b2bc0faf0" sha1="d7da92cfc4a3ec6dcb8888850b4c85cb002d1ef2" status="none" />
+		<rom name="dat\img\novel\Donald08.PNG.png" size="124952" crc="43f9d51c" md5="0295914694eac380f6512d57142bbdbc" sha1="7b113cde2fd06a5c9743d19ba0f7cd9ff2e674d4" status="none" />
+		<rom name="dat\img\novel\novel_back.png" size="206855" crc="8f97b47c" md5="36f329e4765d1f5796449dfe6ef69693" sha1="fc78f2de87a304eb0c8261e84babd2f2a7591f5d" status="none" />
+		<rom name="dat\img\novel\Reimu1.png" size="88667" crc="7030a92f" md5="8a77891dcf1586bcf29dcbd079f59a3e" sha1="5ebbcd97af880dbf0ec935bd45cbb1567e5e3f6b" status="none" />
+		<rom name="dat\img\novel\Reimu2.png" size="88566" crc="45688039" md5="88a52fe975b3f1437441e1b1b30d1eea" sha1="107ec846b90a7a5d1be602a90b6ecd8834673ca2" status="none" />
+		<rom name="dat\img\novel\Reimu3.png" size="88562" crc="972b2b9c" md5="60f82dbc473f8fdeb39bd434e6527265" sha1="481f5a2602ead0a28327b3de27dc034cd9f16cf8" status="none" />
+		<rom name="dat\img\novel\Reimu4.png" size="88209" crc="096920b2" md5="13b866b17a7f7c2d614a036d801a2371" sha1="6829833a5537429d421f469b13b6c373b46a1825" status="none" />
+		<rom name="dat\img\novel\Reimu5.png" size="88949" crc="094d0572" md5="102925c33ccd762ded74543c10d6f793" sha1="33c7d2a3480045b7321f3d7d2d5c1ae611588082" status="none" />
+		<rom name="dat\music\bgm0.mp3" size="1933093" crc="7327398b" md5="138fe56b8ea6646d74157648c182552f" sha1="715a7a45a948d286f592eec30fab6632500d6cb2" status="none" />
+		<rom name="dat\music\bgm2.mp3" size="1933093" crc="7327398b" md5="138fe56b8ea6646d74157648c182552f" sha1="715a7a45a948d286f592eec30fab6632500d6cb2" status="none" />
+		<rom name="dat\music\bgm3.mp3" size="2099023" crc="79757043" md5="cdcf59c53bfaa1b3fe59d4b6aa87b7c9" sha1="28c994c09393b7ae2de9edc01c42858e9f7fbade" status="none" />
+		<rom name="dat\se\1up.mp3" size="49691" crc="efe89576" md5="60976aaa737b6e655f477819f7f0e8ef" sha1="919d98203a2cc4735416e66ed732ed20ab6ecc07" status="none" />
+		<rom name="dat\se\bgm2.mp3" size="1933093" crc="7327398b" md5="138fe56b8ea6646d74157648c182552f" sha1="715a7a45a948d286f592eec30fab6632500d6cb2" status="none" />
+		<rom name="dat\se\bgm3.mp3" size="2099023" crc="79757043" md5="cdcf59c53bfaa1b3fe59d4b6aa87b7c9" sha1="28c994c09393b7ae2de9edc01c42858e9f7fbade" status="none" />
+		<rom name="dat\se\bgm4.mp3" size="2923238" crc="9a90835c" md5="ca459424ec7f87de96bbc47f611360d7" sha1="aed69ffaca86e9d9aea197b0523047fd60f32129" status="none" />
+		<rom name="dat\se\bgm5.mp3" size="3166072" crc="b6ecde0e" md5="186700acfca326b93a770f29ee42198a" sha1="4f1d041f90b0198b2b2dd5ef4e76209a4e7dab02" status="none" />
+		<rom name="dat\se\bom0.mp3" size="195326" crc="30bbbcc4" md5="b926b75e595cfa4ad4ea40c0a000981d" sha1="e054557885582228d5fb45e8b45b96bac8c08fc8" status="none" />
+		<rom name="dat\se\bom1.mp3" size="78297" crc="7cc982ee" md5="989e33e9145d2cc6a459b844ed34a3ec" sha1="4c3ad385c00995fed5b197c74dca3c42a26f4aec" status="none" />
+		<rom name="dat\se\boss_change.mp3" size="54088" crc="19e9c89a" md5="cbacedbc41c8e6a0bbc125f06e4ccfbe" sha1="a5633bc32d70362ab0873055089329aa98f5efdb" status="none" />
+		<rom name="dat\se\boss_death.mp3" size="73619" crc="0529cf68" md5="089fd1c5f7e49ba9e9c4b08f299d6b62" sha1="b707a1f36c0096a19c1bacf7bf3bc65521760799" status="none" />
+		<rom name="dat\se\bullet_change.mp3" size="24746" crc="fefdabba" md5="3a9adc1362124a15060bbc3aff1d5936" sha1="e0d81fa2ed21b3f6cc9e5ccbad5bcd4e1778a839" status="none" />
+		<rom name="dat\se\char_death.mp3" size="39889" crc="c7947bdb" md5="e2e88570ea93f83eec1c8c3462ccc18a" sha1="5a54eaf584aecffddd5979da294e688f2af437d4" status="none" />
+		<rom name="dat\se\cshot.mp3" size="2818" crc="84f4d9a6" md5="32a7d012a96908c997ec5ed9dd7b6de9" sha1="da12c7ccaf8fb88fd097f22a294e2c2d0183832c" status="none" />
+		<rom name="dat\se\endtime.mp3" size="28244" crc="a1c483ad" md5="1e449bdb14a775a006686bbaa1ab6d65" sha1="60cf44b75e0ade1f612943b502bbd1b8ee5c3dcc" status="none" />
+		<rom name="dat\se\enemy_death.mp3" size="19210" crc="2ff93251" md5="57730def7f341b347a51513109fab6c4" sha1="993e404ec22056f28ffd0ad6ecd4bc5ba8b76310" status="none" />
+		<rom name="dat\se\enemy_shot.mp3" size="20255" crc="2a7f7d3d" md5="9d1d3dfcc7081b9e5ee5da2f89af71b1" sha1="84546b81925e56df557d2288afc63a046d7530ee" status="none" />
+		<rom name="dat\se\final_hit.mp3" size="195796" crc="3915df96" md5="a7867c2c0a3a1782d2aa0f675be7481e" sha1="12b5f558335651d4e2b834f26f64ac1a6b2c88d7" status="none" />
+		<rom name="dat\se\hanabi0.mp3" size="53669" crc="955b332c" md5="bba13876c29d3b19a3f3adae60b012a4" sha1="d0d493d07b67f3f4ad1f753bf0197df744819348" status="none" />
+		<rom name="dat\se\hanabi1.mp3" size="57739" crc="a1d9d9cc" md5="ebbe44bfbddca9c4f5de912a3122d5ee" sha1="08654f6308b2b0dd106f5abe3a3cd51b33c16f65" status="none" />
+		<rom name="dat\se\hit.mp3" size="196371" crc="a6072ead" md5="ab73ea87c7efcf8240ac919114e9391f" sha1="58cbbbaea1b0b7565ddfd5d82d83983e5acb6f4a" status="none" />
+		<rom name="dat\se\item.mp3" size="2556" crc="9a7110a0" md5="9c157822190d2c15c2f0c77ea64b47f3" sha1="d54bf4a3fb0208ce904a909e2f0e6e3eb41c04c4" status="none" />
+		<rom name="dat\se\item_get.mp3" size="5846" crc="7f777e6b" md5="683e22cadfb643adb9c2b61ad9758e47" sha1="0015b115a434efc88a6257ecbd7c2edbf4b3e346" status="none" />
+		<rom name="dat\se\item_superget.mp3" size="195693" crc="9ee6d598" md5="091c4b47d68857f2a156ac0ee5f36a7e" sha1="4b92dce5b943ce56e232b4f52aa8451b6ef1324f" status="none" />
+		<rom name="dat\se\kettei.mp3" size="6265" crc="96bb5d6a" md5="054189114b97aeaa4f5ddc07f4a3fe9d" sha1="bbaebc2d73fae89c509ae0bea1314105351e5429" status="none" />
+		<rom name="dat\se\lazer.mp3" size="29237" crc="8dde5d0b" md5="b38d05d6f2c9a6ec4cb81aefa0eb9970" sha1="3a186139f23a75e829e7efbd7345de266e7e4108" status="none" />
+		<rom name="dat\se\siren.mp3" size="29599" crc="3f8198ad" md5="7fc6552844f29922aee1b0794ddce28b" sha1="a0edea40289ba275a094f0e8738adb09916d8f5d" status="none" />
+		<rom name="dat\spellcard\Donald01.png" size="72114" crc="f30a4838" md5="c43af427050d866ecc2dc8b39ea10cb9" sha1="02771d532e479fd5acfa4cb92a3b8453c2d1f937" status="none" />
+		<rom name="dat\spellcard\seGetSpellCardBonus.wav" size="22572" crc="f11d66cb" md5="ad3660569cd8e4046088b9dda74543cc" sha1="7757800cfd27706618de9931ca12ac58b466eb0c" status="none" />
+		<rom name="dat\spellcard\seSpell0.mp3" size="32157" crc="3eae7adb" md5="e1381ffe20a644f95b1836e60c7d9670" sha1="fb3975e39f65295bc878bdc51a75040dc78d5b7a" status="none" />
+		<rom name="dat\spellcard\seSpell1.mp3" size="29445" crc="28a4d926" md5="3f4046745182464acb486a19c3aaa27a" sha1="1668cc4bde7d76295495894fb725a3bc60801531" status="none" />
+		<rom name="dat\spellcard\seUseSpellCard.wav" size="24772" crc="7aae341b" md5="0320437cc4eca14e6c209afede80dbd0" sha1="44e144562d58094271868f9c8766757a742f46eb" status="none" />
+		<rom name="EBOOT.PBP" size="5772347" crc="51930d87" md5="8f33b7f1264333fffeb8ca651c7304d6" sha1="bbace8ad284f431e7054d51c7589ff3204dad704" status="none" />
+		<rom name="readme.txt" size="3801" crc="6d41cf23" md5="199eea5f04284baaca3ff7e775657fb2" sha1="b849389cc1d99ab67e58fb7c36705095fa0b4dd7" status="none" />
 	</game>
 	<game name="Factorunner (World) (v2022) (xSlendiX)">
 		<description>Factorunner (World) (v2022) (xSlendiX)</description>

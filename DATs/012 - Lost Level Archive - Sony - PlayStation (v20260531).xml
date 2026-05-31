@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260520</version>
+		<version>v20260531</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -116,6 +116,11 @@
 		<description>Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz)</description>
 		<rom name="Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz).bin" size="128623824" crc="92d6c60a" md5="303ba616697d17bc430dda859fdc497b" sha1="a34f3bcc6888badcefa8f8d1cfad42bf2b20bf11" />
 		<rom name="Five Nights at Freddy's 3 (World) (v1.0.0) (Aftermarket) (Soeiz).cue" size="130" crc="88d01602" md5="77453084ccce1b62f49ffbbdb2b09ea5" sha1="2ff174b46535b387162fa2f552785c58ac91152c" />
+	</game>
+	<game name="Flappy Adventure 3 (World) (Aftermarket) (Juanmv94)">
+		<description>Flappy Adventure 3 (World) (Aftermarket) (Juanmv94)</description>
+		<rom name="Flappy Adventure 3 (World) (Aftermarket) (Juanmv94).bin" size="164418912" crc="f03555dc" md5="7d5fe7e0108bb85345cbb6eb2e4e57a2" sha1="b46e4be70fd5122bb17aa92a1a168b050e58fa5d" status="none" />
+		<rom name="Flappy Adventure 3 (World) (Aftermarket) (Juanmv94).cue" size="114" crc="ae4826cc" md5="0141c1bb095b3aaa0dd2cd79dedf5ff2" sha1="a958b38e0e1e60c4d171a659e63a645e8e7ba8a5" status="none" />
 	</game>
 	<game name="Goemon - Shin Sedai Shuumei (Japan) (En) (v1.0) (acediez)">
 		<description>Goemon - Shin Sedai Shuumei (Japan) (En) (v1.0) (acediez)</description>
@@ -408,6 +413,11 @@
 		<description>PSXFunkin' - VS. Tricky (CKDev, Lord Scout)</description>
 		<rom name="PSXFunkin' - VS. Tricky (CKDev, Lord Scout).bin" size="113324064" crc="5bc8cb67" md5="59a9b0778cce3c9afa56a807bd85989c" sha1="2a963810a63c9ab6dd0c90492eafc4dabf1472ca" />
 		<rom name="PSXFunkin' - VS. Tricky (CKDev, Lord Scout).cue" size="109" crc="f4b9cd92" md5="38808f828dd190c45597ae912a0bfe64" sha1="697a9a7085dae3c6c9680988bc9fbb16e566fcd0" />
+	</game>
+	<game name="PSXFunkin' - VS. v-tan (v20211022) (BiliousData)">
+		<description>PSXFunkin' - VS. v-tan (v20211022) (BiliousData)</description>
+		<rom name="PSXFunkin' - VS. v-tan (v20211022) (BiliousData).bin" size="121057440" crc="d2a919de" md5="98f751cc9aad01afeedb4b5dae655cc3" sha1="62c3929b87dfe86bce4e62e4c0d0ecc790d60386" status="none" />
+		<rom name="PSXFunkin' - VS. v-tan (v20211022) (BiliousData).cue" size="114" crc="822e6cb5" md5="3d565144ca304c2844c550799c6f4669" sha1="a36e1a9869b5a8dfa6b9f52bd4bee490b245bdc4" status="none" />
 	</game>
 	<game name="PSXFunkin' - VS. Walter (v2022-09-21) (UNSTOP4BLE)">
 		<description>PSXFunkin' - VS. Walter (v2022-09-21) (UNSTOP4BLE)</description>

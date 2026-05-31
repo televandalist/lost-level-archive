@@ -5,11 +5,15 @@
 		<id>015</id>
 		<name>015 - Lost Level Archive - Sega - Game Gear</name>
 		<description>Sega - Game Gear</description>
-		<version>v20260426</version>
+		<version>v20260531</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
 	</header>
+	<game name="Frogger (USA) (Proto)">
+		<description>Frogger (USA) (Proto)</description>
+		<rom name="Frogger (USA) (Proto).gg" size="262144" crc="da724710" md5="024adbbcc983a33b890f309610168fb3" sha1="a96c95189902a08d7ebc825cf876b2693a5e0f8a" status="none" />
+	</game>
 	<game name="Space Tonbow GG (World) (v1.0) (Aftermarket) (Steelfinger Studios)">
 		<description>Space Tonbow GG (World) (v1.0) (Aftermarket) (Steelfinger Studios)</description>
 		<rom name="Space Tonbow GG (World) (v1.0) (Aftermarket) (Steelfinger Studios).gg" size="131072" crc="bfebebc8" md5="f623efb1c024d300253aa798c00e890e" sha1="a5ea6e43a6d6a6ad8c6614f8f17ecfeebd8644b9" status="none" />

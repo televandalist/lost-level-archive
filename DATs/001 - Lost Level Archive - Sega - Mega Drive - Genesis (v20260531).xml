@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20260515</version>
+		<version>v20260531</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -41,6 +41,10 @@
 	<game name="Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown)">
 		<description>Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md</description>
 		<rom name="Devi and Pii (Japan) (Mega Drive Mini 2) (En) (Unknown).md" size="524288" crc="fbb6cf49" md5="f3094cbf13e6cf5219734ce4debff5c0" sha1="2ec9ff982a7d271ceb1d92d1c551208142ea477a" />
+	</game>
+	<game name="Harry Potter (Russia) (Bootleg)">
+		<description>Harry Potter (Russia) (Bootleg)</description>
+		<rom name="Harry Potter (Russia) (Bootleg).md" size="2097152" crc="a184fc76" md5="d33b0804d8ec7c82bd4d6128c74a652d" sha1="e7d8b985243bd5bbd00c68b89060d0a37bf61870" status="none" />
 	</game>
 	<game name="Kekcroc (World) (Aftermarket) (Unl) (Aeromatic)">
 		<description>Kekcroc (World) (Aftermarket) (Unl) (Aeromatic).md</description>

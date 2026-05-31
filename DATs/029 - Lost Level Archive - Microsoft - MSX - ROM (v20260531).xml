@@ -5,7 +5,7 @@
 		<id>029</id>
 		<name>029 - Lost Level Archive - Microsoft - MSX - ROM</name>
 		<description>Microsoft - MSX - ROM</description>
-		<version>v20260403</version>
+		<version>v20260531</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -85,6 +85,10 @@
 	<game name="Automania (2022) (v2.0) (Fregarni)">
 		<description>Automania (2022) (v2.0) (Fregarni)</description>
 		<rom name="Automania (2022) (v2.0) (Fregarni).rom" size="131072" crc="fb960256" md5="c94667050695e4945c248a10eb5bb9c8" sha1="7b1fd1b73a7868b9782e8c13c5056aad1aff7b04" status="none" />
+	</game>
+	<game name="Back To The Future (1986) (Pony Canyon)">
+		<description>Back To The Future (1986) (Pony Canyon)</description>
+		<rom name="Back To The Future (1986) (Pony Canyon).rom" size="524288" crc="f5724918" md5="da76de121aafe422654f0d43789cbeb8" sha1="eb9b3e93c31694d2f99f411d3a682af7121f29b0" status="none" />
 	</game>
 	<game name="Bag Man (2007) (AG Software)">
 		<description>Bag Man (2007) (AG Software)</description>

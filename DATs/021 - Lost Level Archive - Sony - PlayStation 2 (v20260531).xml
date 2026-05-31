@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20260508</version>
+		<version>v20260531</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -296,6 +296,10 @@
 	<game name="Tales of the Abyss (USA) (Undub) (v2.6) (Kotoba Group)">
 		<description>Tales of the Abyss (USA) (Undub) (v2.6) (Kotoba Group)</description>
 		<rom name="Tales of the Abyss (USA) (Undub) (v2.6) (Kotoba Group).iso" size="4154155008" crc="556cce27" md5="b24ac3e820d0e11f964ed54a9d005014" sha1="3de1608b680d26bfac630ae8bc8f57148c76243a" status="none" />
+	</game>
+	<game name="TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Japan) (En) (v2.3)">
+		<description>TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Japan) (En) (v2.3)</description>
+		<rom name="TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Japan) (En) (v2.3).iso" size="4321804288" crc="3c3e7c55" md5="da6e8ec5bdda03e6f7c9bd8a7a97be9a" sha1="51714e00acde040a1f9a691ceb6d61282b994128" status="none" />
 	</game>
 	<game name="Warriors Orochi 2 (USA) (Undub) (v1.0) (swosho)">
 		<description>Warriors Orochi 2 (USA) (Undub) (v1.0) (swosho)</description>

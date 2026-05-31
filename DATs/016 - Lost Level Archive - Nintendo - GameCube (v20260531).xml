@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20260508</version>
+		<version>v20260531</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -161,6 +161,10 @@
 	<game name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo)">
 		<description>Super Monkey Ball 2 - Stardust (v1.1) (Nambo)</description>
 		<rom name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo).iso" size="1459978240" crc="043aae4d" md5="844be5453a2f7943255c3c4569cdfb08" sha1="8a14c040ba82dd3ff817ef005ec433b4ef8196eb" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)">
+		<description>Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)</description>
+		<rom name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman).iso" size="1459978240" crc="d9d49295" md5="6ac748138f8c7db2be7d44f52faeb9f8" sha1="34b9091801464f2f71331b7643863a4e7ff0bfb8" status="none" />
 	</game>
 	<game name="Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia)">
 		<description>Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia)</description>

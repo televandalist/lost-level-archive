@@ -5,7 +5,7 @@
 		<id>007</id>
 		<name>007 - Lost Level Archive - Nintendo - Famicom - NES</name>
 		<description>Nintendo - Famicom - NES</description>
-		<version>v20260403</version>
+		<version>v20260531</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -50,6 +50,10 @@
 	<game name="Galactor (World) (v20251004) (Aftermarket) (Dr. Ludos)">
 		<description>Galactor (World) (v20251004) (Aftermarket) (Dr. Ludos)</description>
 		<rom name="Galactor (World) (v20251004) (Aftermarket) (Dr. Ludos).nes" size="24592" crc="fab60977" md5="43432caff57f5e64f8b68c284f2f995a" sha1="702dfe8435dbe46fd09217ac7972a7d87cf85786" status="none" />
+	</game>
+	<game name="Galaga (USA) (Prototype) (1983) (Fake CHR)">
+		<description>Galaga (USA) (Prototype) (1983) (Fake CHR)</description>
+		<rom name="Galaga (USA) (Prototype) (1983) (Fake CHR).nes" size="24592" crc="32ec7074" md5="1464b76797234c922872df2e1baf450c" sha1="166820beb1882344a123151d90f3802d1717e9fe" status="none" />
 	</game>
 	<game name="Honey Peach-Mei Nu Quan (Asia) (Sachen)">
 		<description>Honey Peach-Mei Nu Quan (Asia) (Sachen)</description>
