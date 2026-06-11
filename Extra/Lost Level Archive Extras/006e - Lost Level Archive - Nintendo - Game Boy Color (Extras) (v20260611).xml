@@ -5,7 +5,7 @@
 		<id>006e</id>
 		<name>006e - Lost Level Archive - Nintendo - Game Boy Color (Extras)</name>
 		<description>Nintendo - Game Boy Color (Extras)</description>
-		<version>v20260408</version>
+		<version>v20260611</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -52,5 +52,9 @@
 	<game name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Extras">
 		<description>TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Extras</description>
 		<rom name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV) - Manual.pdf" size="5607230" crc="7f25cd0e" md5="07492bafc22a62ec443e476c5cbfbd13" sha1="e8b3737249d3e7f84929360bb4ab3a78a5e25db3" status="none" />
+	</game>
+	<game name="U R TOAST (World) (v20260517) (Aftermarket) (howdy riceball) - Extras">
+		<description>U R TOAST (World) (v20260517) (Aftermarket) (howdy riceball) - Extras</description>
+		<rom name="U R TOAST (World) (v20260517) (Aftermarket) (howdy riceball) - March 2026 Snail Mail Club.pdf" size="215088" crc="66e9b35b" md5="c8790a5e213cb20cd7dc5a0a8b15ef12" sha1="ea3056d0a395c539db318a5c9f7352d56dfcc7f8" status="none" />
 	</game>
 </datafile>

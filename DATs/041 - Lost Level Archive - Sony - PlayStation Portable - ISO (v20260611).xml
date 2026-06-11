@@ -5,7 +5,7 @@
 		<id>041</id>
 		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
 		<description>Sony - PlayStation Portable (ISO)</description>
-		<version>v20260520</version>
+		<version>v20260611</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -186,6 +186,10 @@
 		<description>Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (En) (v0.5a) (The Porting Dude)</description>
 		<rom name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (En) (v0.5a) (The Porting Dude).iso" size="2187098112" crc="21c338dc" md5="605af2519219b14f28380a7639ff4243" sha1="6873007da56e9ad15f6cf91b0cba960c9c47238f" />
 	</game>
+	<game name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe)">
+		<description>Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe)</description>
+		<rom name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe).iso" size="1528348672" crc="d3a41107" md5="a9b05920ff96e0db61267463d75bbe65" sha1="57e843ee3c3636296fc4fb4bbc9557255d555ae3" status="none" />
+	</game>
 	<game name="Super Luigi Fighter (v2.0) (luigi2498)">
 		<description>Super Luigi Fighter (v2.0) (luigi2498)</description>
 		<rom name="Super Luigi Fighter (v2.0) (luigi2498).iso" size="142639104" crc="706eef7a" md5="472a62a438dd5cfff0f220e5c929f101" sha1="b6fe04b4575a87790c2190785684ba543879314d" />
@@ -193,6 +197,10 @@
 	<game name="Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown)">
 		<description>Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown)</description>
 		<rom name="Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown).iso" size="1421625344" crc="b970d94a" md5="9dac8d8ba26ed5cbdaed6d7de536454a" sha1="0864df6ed04b30492511d0c4fcfbca0f8e3d6ef2" />
+	</game>
+	<game name="Tomb Raider - 10th Anniversary Edition (USA) (Prototype) (v2.0)">
+		<description>Tomb Raider - 10th Anniversary Edition (USA) (Prototype) (v2.0)</description>
+		<rom name="Tomb Raider - 10th Anniversary Edition (USA) (Prototype) (v2.0).iso" size="335388672" crc="7f0c9005" md5="ba7ef5d596b970b31c5ad81fffa66366" sha1="9952d1a2d0147fa55cc72ade6a3bdc19429d6c93" status="none" />
 	</game>
 	<game name="Valkyria Chronicles II (USA) (Ru) (Unknown)">
 		<description>Valkyria Chronicles II (USA) (Ru) (Unknown)</description>

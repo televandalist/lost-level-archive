@@ -5,7 +5,7 @@
 		<id>004e</id>
 		<name>004e - Lost Level Archive - Nintendo - Game Boy (Extras)</name>
 		<description>Nintendo - Game Boy (Extras)</description>
-		<version>v20260119</version>
+		<version>v20260611</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -32,6 +32,10 @@
 	<game name="Dragonslayer (World) (v1.3) (Aftermarket) (LazyDev) - Manual">
 		<description>Dragonslayer (World) (v1.3) (Aftermarket) (LazyDev) - Manual</description>
 		<rom name="Dragonslayer (World) (v1.3) (Aftermarket) (LazyDev) - Manual.pdf" size="234897" crc="de6dfdec" md5="4f2ce2bdd29726a2bd8b06606061fa8a" sha1="6f14bf6f77c3530aade06c63c822bc2a96534a64" status="none" />
+	</game>
+	<game name="Dull Ache (World) (Aftermarket) (GBStudio) (Diego Garcia) - Extras">
+		<description>Dull Ache (World) (Aftermarket) (GBStudio) (Diego Garcia) - Extras</description>
+		<rom name="Dull Ache (World) (Aftermarket) (GBStudio) (Diego Garcia) - Box Art.jpg" size="128852" crc="67383917" md5="f791c2ca801f0e765847465a5b19b6f6" sha1="08a1ebb3148f9ee56077fd5ca436b95c8523cca4" status="none" />
 	</game>
 	<game name="Galacard (World) (Aftermarket) (Bipedal Studios) - Strategy Guide">
 		<description>Galacard (World) (Aftermarket) (Bipedal Studios) - Strategy Guide</description>

@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube</name>
 		<description>Nintendo - GameCube</description>
-		<version>v20260531</version>
+		<version>v20260611</version>
 		<author>televandalist, tomojin</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -86,6 +86,10 @@
 		<description>Pikmin 2 - Regrown (v2.1_0dadd) (Ochrehorns)</description>
 		<rom name="Pikmin 2 - Regrown (v2.1_0dadd) (Ochrehorns).iso" size="1459978240" crc="47ed2740" md5="1a1ce685160b329af56c7a249579b27a" sha1="1633782ad601587d5d818070797ba2d0dfa5a9e6" status="none" />
 	</game>
+	<game name="Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns)">
+		<description>Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns)</description>
+		<rom name="Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns).iso" size="1459978240" crc="6ba5b265" md5="bf8e56796026c607391cc35a971b8742" sha1="f0ac3615d6d8902fc1af0846c39808d8f44faaec" status="none" />
+	</game>
 	<game name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)">
 		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)</description>
 		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax).iso" size="1529839616" crc="e159740e" md5="a267833232adee485eae417270f25e28" sha1="7496bb93064e75b6346b4d4219e89fddaf35c1be" />
@@ -154,6 +158,10 @@
 		<description>Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie)</description>
 		<rom name="Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie).iso" size="1459978240" crc="18a6a9a2" md5="595671a55e4daa02cfce8567b54da9fe" sha1="6f18896e0cea80538783c7d9901ffd6bc4631612" status="none" />
 	</game>
+	<game name="Super Monkey Ball 2 - Launch! (v1.2) (Dyrude)">
+		<description>Super Monkey Ball 2 - Launch! (v1.2) (Dyrude)</description>
+		<rom name="Super Monkey Ball 2 - Launch! (v1.2) (Dyrude).iso" size="1459978240" crc="dbdf1227" md5="74130afd559cf8ea533022a60ac0fd9e" sha1="c1f716cd721a87bf4a62e1d9621524477772b814" status="none" />
+	</game>
 	<game name="Super Monkey Ball 2 - Monkeyed Ball 2 Witty Subtitle (v1.0) (Twilight)">
 		<description>Super Monkey Ball 2 - Monkeyed Ball 2 Witty Subtitle (v1.0) (Twilight)</description>
 		<rom name="Super Monkey Ball 2 - Monkeyed Ball 2 Witty Subtitle (v1.0) (Twilight).iso" size="1459978240" crc="b33486f2" md5="beb6ff665224ab362e8e8b611578aa11" sha1="8f0909fd1a552f1c1a0f2ecea527490c6bd02a5d" status="none" />
@@ -161,6 +169,10 @@
 	<game name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo)">
 		<description>Super Monkey Ball 2 - Stardust (v1.1) (Nambo)</description>
 		<rom name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo).iso" size="1459978240" crc="043aae4d" md5="844be5453a2f7943255c3c4569cdfb08" sha1="8a14c040ba82dd3ff817ef005ec433b4ef8196eb" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Stardust (v1.2.2) (Nambo)">
+		<description>Super Monkey Ball 2 - Stardust (v1.2.2) (Nambo)</description>
+		<rom name="Super Monkey Ball 2 - Stardust (v1.2.2) (Nambo).iso" size="1459978240" crc="7de59f1e" md5="c32ea7f0bd82a0ded5dce261f7d67a2f" sha1="a8cd7843e262acc1cd90e5cafcfca65ce2b03765" status="none" />
 	</game>
 	<game name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)">
 		<description>Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)</description>

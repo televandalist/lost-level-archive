@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260508</version>
+		<version>v20260611</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -585,6 +585,10 @@
 	<game name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV)">
 		<description>TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV)</description>
 		<rom name="TV-Chan's Great Escape! (World) (v1.0) (Aftermarket) (GB Studio) (nykTV).gbc" size="524288" crc="146fa781" md5="1a3ddd2e8430ee7f754196f6b5202432" sha1="7d6c0b2fa6a211d1a9e3e41edeb3b9c921c4ceb3" status="none" />
+	</game>
+	<game name="U R TOAST (World) (v20260517) (Aftermarket) (howdy riceball)">
+		<description>U R TOAST (World) (v20260517) (Aftermarket) (howdy riceball)</description>
+		<rom name="U R TOAST (World) (v20260517) (Aftermarket) (howdy riceball).gbc" size="262144" crc="fb992a88" md5="3f97b112be0a5cbe483df3bc14ded2ab" sha1="1fe8fdafc5f9e68f170861beff18951bd9bb76c9" status="none" />
 	</game>
 	<game name="Ultima 3 (World) (v0.995) (Aftermarket) (Unl)">
 		<description>Ultima 3 (World) (v0.995) (Aftermarket) (Unl)</description>

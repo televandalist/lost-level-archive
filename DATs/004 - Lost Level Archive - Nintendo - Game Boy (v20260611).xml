@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260508</version>
+		<version>v20260611</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -86,6 +86,14 @@
 	<game name="Cake Snake (World) (Aftermarket) (Unl)">
 		<description>Cake Snake (World) (Aftermarket) (Unl)</description>
 		<rom name="Cake Snake (World) (Aftermarket) (Unl).gb" size="32768" crc="5f2c0f0b" md5="9b58b56c449f0b541a7032ab8f443379" sha1="295446aac145727514491108d013c090d671f0a6" status="none" />
+	</game>
+	<game name="Call Of Duty - Black Ops GB (World) (Aftermarket) (GB Studio) (AmbitionProjects)">
+		<description>Call Of Duty - Black Ops GB (World) (Aftermarket) (GB Studio) (AmbitionProjects)</description>
+		<rom name="Call Of Duty - Black Ops GB (World) (Aftermarket) (GB Studio) (AmbitionProjects).gb" size="1048576" crc="ba4f3b7e" md5="d535623652baf9f8eca2fedf34af04aa" sha1="e1d7924216e288ba61081adee1b97e4fa05eb50c" status="none" />
+	</game>
+	<game name="Castlevania - Gospel of Belmont (World) (Aftermarket) (Richterwilker)">
+		<description>Castlevania - Gospel of Belmont (World) (Aftermarket) (Richterwilker)</description>
+		<rom name="Castlevania - Gospel of Belmont (World) (Aftermarket) (Richterwilker).gb" size="2097152" crc="7eb9ffff" md5="99e920fd0b35d45cae9d6f921eaf2efb" sha1="0849078639b5c3846bd35eb456b78e3929c35278" status="none" />
 	</game>
 	<game name="Cat Mario (World) (En) (v2022-04-21 Demo) (Aftermarket) (Unl)">
 		<description>Cat Mario (World) (En) (v2022-04-21 Demo) (Aftermarket) (Unl)</description>
@@ -206,6 +214,10 @@
 	<game name="Dragony's Drive (World) (v1.0) (Aftermarket) (GB Studio)">
 		<description>Dragony's Drive (World) (v1.0) (Aftermarket) (GB Studio)</description>
 		<rom name="Dragony's Drive (World) (v1.0) (Aftermarket) (GB Studio).gb" size="131072" crc="7188d32e" md5="a471b781064f169b63b702b5b9925d9f" sha1="b254ae8d9d7eafbb1d416c80a4be7331bce8f6d7" />
+	</game>
+	<game name="Dull Ache (World) (Aftermarket) (GBStudio) (Diego Garcia)">
+		<description>Dull Ache (World) (Aftermarket) (GBStudio) (Diego Garcia)</description>
+		<rom name="Dull Ache (World) (Aftermarket) (GBStudio) (Diego Garcia).gb" size="1048576" crc="0c14aa04" md5="b434de9a66e47556ce0d081012c633c3" sha1="845c1125446d61decf68af36d4a035cc68979225" status="none" />
 	</game>
 	<game name="Explosive Brick '94 (Asia) (Multicart Rip) (Unl)">
 		<description>Explosive Brick '94 (Asia) (Multicart Rip) (Unl)</description>

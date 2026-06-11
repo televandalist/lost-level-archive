@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260531</version>
+		<version>v20260611</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -434,6 +434,15 @@
 		<rom name="Resident Evil 0 Demake (v0.1) (Biohazard Espana).bin" size="568786512" crc="AADE6B8A" md5="AEFA8F53118CE3EC2E9A10E7FBA93A1E" sha1="36E68F5F56ECCB18B92EE6A886200DC695C7BF42"/>
 		<rom name="Resident Evil 0 Demake (v0.1) (Biohazard Espana).cue" size="112" crc="60FA882A" md5="44306B2A8F71CDF13100242407E6E1F8" sha1="1D7A044B51AEA62BB565DEA3B9B289A8DB856D21"/>
 	</game>
+	<game name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999)">
+		<description>Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999)</description>
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999) (Disc 1) (Track 1).bin" size="668960544" crc="416810c8" md5="c4dcfedc7f53db5137c788988f024d14" sha1="816890c5bb25df2d25b205639ae40d2a1103348a" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999) (Disc 1) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999) (Disc 1).cue" size="324" crc="f5a2b072" md5="64eab0d8e7ea02de5021d5a4cfc26f59" sha1="5f529e3229a6be01847d83adc453e958e90e7b1e" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999) (Disc 2) (Track 1).bin" size="671284320" crc="7a9a17cb" md5="d2ac8ec0381c211fe07f0cc74fdbd463" sha1="d710bdefd88f232749ea62cc774651eb1d294acd" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999) (Disc 2) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" status="none" />
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (PtBr) (Nemesis, Gledson999) (Disc 2).cue" size="324" crc="a6a55360" md5="efae0faf4e61fdc9c7d758c9e1823dde" sha1="0e39ba0fb582ececd8e70b31f795840b079f88e3" status="none" />
+	</game>
 	<game name="Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer)">
 		<description>Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer)</description>
 		<rom name="Resident Evil 2 - Dual Shock (USA) (Ru) (v20150908) (Cetygamer) (Disc 1 - Leon) (Track 1).bin" size="668960544" crc="bbd826e5" md5="38dfc9d4fe10722874869bf7ebbe95de" sha1="bc038582cddf09f1431ffb63328449b10dd79db0" status="none" />
@@ -464,6 +473,14 @@
 		<description>Roll Boss Rush (World) (Aftermarket) (Mini Zombie)</description>
 		<rom name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie).bin" size="132330576" crc="a851808a" md5="0d563d7df4d84869eb9da9c7b6cddbf9" sha1="a30c75951524d4a363f53d9df001ecae10ae43c9" />
 		<rom name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie).cue" size="116" crc="682a2966" md5="dcbae52e5220df3e62476cb2bcfbb5de" sha1="95b32a8de2d408b7331ad2ebce137586e588e28f" />
+	</game>
+	<game name="Snake (World) (v2.0) (Aftermarket) (Mason Barry)">
+		<description>Snake (World) (v2.0) (Aftermarket) (Mason Barry)</description>
+		<rom name="Snake (World) (v2.0) (Aftermarket) (Mason Barry) (Track 1).bin" size="3330432" crc="c2c386b0" md5="476d63d1c6adf8f3edb13e8762c815e1" sha1="c922849efc7bbbec7a7955e53c1b0a53910df77e" status="none" />
+		<rom name="Snake (World) (v2.0) (Aftermarket) (Mason Barry) (Track 2).bin" size="31650864" crc="314ac191" md5="ed51640f7ca68b473e6dc076bf22199c" sha1="965cf61feb635d2415d8c46322f810a7c508f412" status="none" />
+		<rom name="Snake (World) (v2.0) (Aftermarket) (Mason Barry) (Track 3).bin" size="22042944" crc="7f4c1c28" md5="9e63ec459d72f3d152f6328b9bc0940e" sha1="5058bb8e6288160ff152f74fa6536e5dddb9505a" status="none" />
+		<rom name="Snake (World) (v2.0) (Aftermarket) (Mason Barry) (Track 4).bin" size="442176" crc="eeb79ceb" md5="3b8cef5de88f6f7ee342575c77af2e55" sha1="b6697643c525ba0c9fd1cc8ddc31dda0d4cba3e2" status="none" />
+		<rom name="Snake (World) (v2.0) (Aftermarket) (Mason Barry).cue" size="527" crc="7fddd06d" md5="843565a53d42d7794643067a796e079c" sha1="f630b48133a19105ed34903bd7726c8769b5d3ca" status="none" />
 	</game>
 	<game name="Sonic the Hedgehog XA (v0.6) (Europe) (luksamuk)">
 		<description>Sonic the Hedgehog XA (v0.6) (Europe) (luksamuk)</description>
