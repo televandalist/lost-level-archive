@@ -5,7 +5,7 @@
 		<id>015</id>
 		<name>Legacy - 015 - Lost Level Archive - Sega - Game Gear</name>
 		<description>Legacy - Sega - Game Gear</description>
-		<version>v20260209</version>
+		<version>v20260615</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -21,5 +21,9 @@
 	<game name="Snepzhen Solitaire (World) (v1.0) (Aftermarket) (Unl) (Wainstop)">
 		<description>Snepzhen Solitaire (World) (v1.0) (Aftermarket) (Unl) (Wainstop)</description>
 		<rom name="Snepzhen Solitaire (World) (v1.0) (Aftermarket) (Unl) (Wainstop).gg" size="32768" crc="fd06798c" md5="aca63448b5d887239fc8821760d36efb" sha1="891811a7b86222b01f9a43664db8186e2f8001b8" />
+	</game>
+	<game name="Space Tonbow GG (World) (v1.0) (Aftermarket) (Steelfinger Studios)">
+		<description>Space Tonbow GG (World) (v1.0) (Aftermarket) (Steelfinger Studios)</description>
+		<rom name="Space Tonbow GG (World) (v1.0) (Aftermarket) (Steelfinger Studios).gg" size="131072" crc="bfebebc8" md5="f623efb1c024d300253aa798c00e890e" sha1="a5ea6e43a6d6a6ad8c6614f8f17ecfeebd8644b9" status="none" />
 	</game>
 </datafile>

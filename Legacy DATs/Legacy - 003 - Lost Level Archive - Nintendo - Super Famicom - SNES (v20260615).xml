@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>003</id>
+		<name>Legacy - 003 - Lost Level Archive - Nintendo - Super Famicom - SNES</name>
+		<description>Legacy - Nintendo - Super Famicom - SNES</description>
+		<version>v20260615</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Mai Nurse (World) (v1.02) (Aftermarket) (lunoka)">
+		<description>Mai Nurse (World) (v1.02) (Aftermarket) (lunoka)</description>
+		<rom name="Mai Nurse (World) (v1.02) (Aftermarket) (lunoka).sfc" size="262144" crc="7cd0eecd" md5="eda757c1006be557247259d356d73e28" sha1="0e49094fc9e36146436ec4afd186a7b7937575c1" status="none" />
+	</game>
+</datafile>
