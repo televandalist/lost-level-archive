@@ -46,10 +46,6 @@
 		<description>Gunpy (World) (v0.91) (chokmah.jp)</description>
 		<rom name="Gunpy (World) (v0.91) (chokmah.jp).hex" size="59221" crc="bc82efa0" md5="21a3557d66f459c0f25c26001d681056" sha1="7387d5940d8f60e361316e6322a7c1bbd44d65fa" />
 	</game>
-	<game name="Leanna the Lion (World) (v1.2) (Neo Retro Games)">
-		<description>Leanna the Lion (World) (v1.2) (Neo Retro Games)</description>
-		<rom name="Leanna the Lion (World) (v1.2) (Neo Retro Games).hex" size="57994" crc="85047e9c" md5="9a08fc1ca79a8b489c78a1240a1533cf" sha1="95a6e7dd8ad748c328acf4a5d59ab68a68b79e6f" status="none" />
-	</game>
 	<game name="Montana Solitaire (World) (FrankVanDeVen)">
 		<description>Montana Solitaire (World) (FrankVanDeVen)</description>
 		<rom name="Montana Solitaire (World) (FrankVanDeVen).hex" size="36427" crc="8460a871" md5="d36a95d26becf02c8f91bad0def190aa" sha1="a0699a2ee07de55065153fb60e1bd420c60cf0be" status="none" />
