@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - ISO</name>
 		<description>Nintendo - Wii - ISO</description>
-		<version>v20260531</version>
+		<version>v20260625</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -53,6 +53,10 @@
 	<game name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)">
 		<description>Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)</description>
 		<rom name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex).iso" size="4699979776" crc="ef38b619" md5="1b054a4debf9c5f5674ff117fc6458b9" sha1="fa84a346343059acb80d2d41970168178af15318" status="none" />
+	</game>
+	<game name="Sky Crawlers, The - Innocent Aces (Europe) (En,Fr,De,Es,It) (Undub) (v1.1) (swosho)">
+		<description>Sky Crawlers, The - Innocent Aces (Europe) (En,Fr,De,Es,It) (Undub) (v1.1) (swosho)</description>
+		<rom name="Sky Crawlers, The - Innocent Aces (Europe) (En,Fr,De,Es,It) (Undub) (v1.1) (swosho).iso" size="4699979776" crc="6d475541" md5="74e73c6f7680af2c2236c05d53f61c7f" sha1="1adaf643f97c3e374baa12d988f04c943f4bad67" status="none" />
 	</game>
 	<game name="SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128)">
 		<description>SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128)</description>

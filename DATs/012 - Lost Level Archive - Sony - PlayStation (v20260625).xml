@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260611</version>
+		<version>v20260625</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -473,6 +473,11 @@
 		<description>Roll Boss Rush (World) (Aftermarket) (Mini Zombie)</description>
 		<rom name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie).bin" size="132330576" crc="a851808a" md5="0d563d7df4d84869eb9da9c7b6cddbf9" sha1="a30c75951524d4a363f53d9df001ecae10ae43c9" />
 		<rom name="Roll Boss Rush (World) (Aftermarket) (Mini Zombie).cue" size="116" crc="682a2966" md5="dcbae52e5220df3e62476cb2bcfbb5de" sha1="95b32a8de2d408b7331ad2ebce137586e588e28f" />
+	</game>
+	<game name="Sauna (World) (Aftermarket) (Zhamul)">
+		<description>Sauna (World) (Aftermarket) (Zhamul)</description>
+		<rom name="Sauna (World) (Aftermarket) (Zhamul).bin" size="2029776" crc="d83833b0" md5="bed1fea06fa3f6cc407fc137e1be2499" sha1="9014f869d7fbe6d8537f69b0a29c459a1dd6e07a" status="none" />
+		<rom name="Sauna (World) (Aftermarket) (Zhamul).cue" size="102" crc="0cb974a5" md5="29760d3f15a45af9394fb903603960ed" sha1="f75f16b4eaedc22b55aca26ff6deda4518272940" status="none" />
 	</game>
 	<game name="Snake (World) (v2.0) (Aftermarket) (Mason Barry)">
 		<description>Snake (World) (v2.0) (Aftermarket) (Mason Barry)</description>

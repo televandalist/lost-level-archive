@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260611</version>
+		<version>v20260625</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -181,6 +181,10 @@
 	<game name="DE '22 (World) (v1.0.3) (Aftermarket) (Unl)">
 		<description>DE '22 (World) (v1.0.3) (Aftermarket) (Unl)</description>
 		<rom name="DE '22 (World) (v1.0.3) (Aftermarket) (Unl).gbc" size="524288" crc="a25e36ec" md5="55d9bf25d3c02a160e76c798923c3874" sha1="29e117c6555da9157d602a66b12c9fc18a7179eb" />
+	</game>
+	<game name="Double Duck (World) (Aftermarket) (v1.0) (Tardigrade)">
+		<description>Double Duck (World) (Aftermarket) (v1.0) (Tardigrade)</description>
+		<rom name="Double Duck (World) (Aftermarket) (v1.0) (Tardigrade).gbc" size="131072" crc="82a8d2c6" md5="8fe0808852e8d7d047a342952feff10d" sha1="80cfb39816bd9632b9847f53ed67ed1ccb407908" status="none" />
 	</game>
 	<game name="Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl)">
 		<description>Enceladus (World) (v3.0) (GBCompo2023) (Aftermarket) (Unl)</description>
