@@ -5,7 +5,7 @@
 		<id>012</id>
 		<name>012 - Lost Level Archive - Sony - PlayStation</name>
 		<description>Sony - PlayStation</description>
-		<version>v20260625</version>
+		<version>v20260627</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -292,6 +292,11 @@
 		<rom name="PSXFunkin' - B Sides (v1.3) (zeriben).bin" size="259225680" crc="88b2f5c8" md5="ff4e75fb795d4b6c546838c896c668b7" sha1="107ddfd57745e57b54d742610495dbf17f9442b0" />
 		<rom name="PSXFunkin' - B Sides (v1.3) (zeriben).cue" size="100" crc="5cad2c86" md5="09a08ca51682d3642800195d1d2a8030" sha1="599dbea8de4f8aefd76471d71e66948f7032d638" />
 	</game>
+	<game name="PSXFunkin' - Beach Brother (v20220405) (victor179)">
+		<description>PSXFunkin' - Beach Brother (v20220405) (victor179)</description>
+		<rom name="PSXFunkin' - Beach Brother (v20220405) (victor179).bin" size="121494912" crc="a846e7a0" md5="0f386626d9dad0fac7ca42294f88cd81" sha1="954120177cb9c2b7fa1e68c5482ddd6fce871ff8" status="none" />
+		<rom name="PSXFunkin' - Beach Brother (v20220405) (victor179).cue" size="116" crc="ec6259fc" md5="14effac43b88547d92762c2146273fb5" sha1="fbc1c158dead9f3c991c692ebdfd26c31a742c30" status="none" />
+	</game>
 	<game name="PSXFunkin' - CN Takeover (v2023-06-16) (UNSTOP4BLE)">
 		<description>PSXFunkin' - CN Takeover (v2023-06-16) (UNSTOP4BLE)</description>
 		<rom name="PSXFunkin' - CN Takeover (v2023-06-16) (UNSTOP4BLE).bin" size="94696224" crc="4143d65d" md5="00cdef6ddd2e5cd795d305cdedba5094" sha1="14219937360d3d280a4562cf245858011898a7ca" status="none" />
@@ -351,6 +356,16 @@
 		<description>PSXFunkin' - Tails Gets Trolled (UNSTOP4BLE, IgorSou30000)</description>
 		<rom name="PSXFunkin' - Tails Gets Trolled (UNSTOP4BLE, IgorSou30000).bin" size="101462928" crc="bdadee8b" md5="5b607aed84e246019a0f37d1abb4e276" sha1="5aae7f76e96053c6039e0e930822c9d277d6e9c8" status="none" />
 		<rom name="PSXFunkin' - Tails Gets Trolled (UNSTOP4BLE, IgorSou30000).cue" size="124" crc="9cfa0438" md5="825ebc6ff42a0eb411ffa0094dc66656" sha1="b421b7e1e774800def12c19a123f53839ca7b50c" status="none" />
+	</game>
+	<game name="PSXFunkin' - VS. Bob (v20210930) (g3yt)">
+		<description>PSXFunkin' - VS. Bob (v20210930) (g3yt)</description>
+		<rom name="PSXFunkin' - VS. Bob (v20210930) (g3yt).bin" size="183067920" crc="318752dd" md5="1b7f2c75f3b373d5dbb8bab2713cdc4c" sha1="210ad580975cc70d8e057d9efbf674dc18bff844" status="none" />
+		<rom name="PSXFunkin' - VS. Bob (v20210930) (g3yt).cue" size="105" crc="b750cd55" md5="4ad2f2a23ce62f7567af622311cdd440" sha1="eaa504714f3bb2c2340ce38085571c0649f7eff5" status="none" />
+	</game>
+	<game name="PSXFunkin' - VS. Cassandra (v20211224) (GoombaKungFu)">
+		<description>PSXFunkin' - VS. Cassandra (v20211224) (GoombaKungFu)</description>
+		<rom name="PSXFunkin' - VS. Cassandra (v20211224) (GoombaKungFu).bin" size="155246112" crc="9960a09c" md5="96d2741c35062ddfe0644fab4443d1bc" sha1="b80fe8176afc172b90188175bdebdcfdfc101f80" status="none" />
+		<rom name="PSXFunkin' - VS. Cassandra (v20211224) (GoombaKungFu).cue" size="119" crc="74fefa96" md5="74b984d7268a5cf723c1b72b5085eb90" sha1="e77646f86bfe6c312310b5961f2bb8f1ba073d05" status="none" />
 	</game>
 	<game name="PSXFunkin' - Vs. Dave and Bambi (DreamcastNick)">
 		<description>PSXFunkin' - Vs. Dave and Bambi (DreamcastNick)</description>

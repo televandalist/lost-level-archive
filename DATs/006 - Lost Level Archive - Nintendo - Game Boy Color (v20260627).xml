@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260625</version>
+		<version>v20260627</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -13,6 +13,10 @@
 	<game name="2003 Crash II Advance (China) (Bootleg) (Unl)">
 		<description>2003 Crash II Advance (China) (Bootleg) (Unl)</description>
 		<rom name="2003 Crash II Advance (China) (Bootleg) (Unl).gbc" size="4194304" crc="0af243bf" md5="927abf95eaada539668c2e71d35be5c7" sha1="13b1a3f64664cc09f628e53e13c9b66b17e9f500" />
+	</game>
+	<game name="Akira DX (World) (v1.35) (Aftermarket) (rigbyisagoodboy)">
+		<description>Akira DX (World) (v1.35) (Aftermarket) (rigbyisagoodboy)</description>
+		<rom name="Akira DX (World) (v1.35) (Aftermarket) (rigbyisagoodboy).gbc" size="2097152" crc="3621ea12" md5="c369943280e02df656e6e4804652e15a" sha1="595bc646000c62c5efc3577a5cb16eafb0e18238" status="none" />
 	</game>
 	<game name="Akumanor Gaiden DX (World) (v1.0) (Aftermarket) (Michirin)">
 		<description>Akumanor Gaiden DX (World) (v1.0) (Aftermarket) (Michirin)</description>
