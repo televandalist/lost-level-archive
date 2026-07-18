@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>016</id>
+		<name>016 - Lost Level Archive - Nintendo - GameCube - RVZ</name>
+		<description>Nintendo - GameCube - RVZ</description>
+		<version>v20260718</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<comment>All RVZs in this DAT were converted from ISO in Dolphin and have the following settings: 128 KiB Block Size and Level 5 Zstandard compression</comment>
+	</header>
+	<game name="Mario Kart - Double Dash - Double Dash!! Plus (v3.3) (That1loser4)">
+		<description>Mario Kart - Double Dash - Double Dash!! Plus (v3.3) (That1loser4)</description>
+		<rom name="Mario Kart - Double Dash - Double Dash!! Plus (v3.3) (That1loser4).rvz" size="818988536" crc="c7491113" md5="67fca9e71d2fd68a995c33c10c2aa0ad" sha1="3e937ba51754db3aec7d325c2839edeb59b6f2c2" status="none" />
+	</game>
+	<game name="Mario Kart - Double Dash - Mario Kart Double Dash Extended (v2.0) (M64)">
+		<description>Mario Kart - Double Dash - Mario Kart Double Dash Extended (v2.0) (M64)</description>
+		<rom name="Mario Kart - Double Dash - Mario Kart Double Dash Extended (v2.0) (M64).rvz" size="1172595632" crc="17c65017" md5="4d8597f6d942c44d199138de1d840ba9" sha1="afbf88d0ef972a374fb10d94dbfa24793045f4c6" status="none" />
+	</game>
+	<game name="Mario Kart - Double Dash - Retro Track Grand Prix (v1.4) (Portable Productions)">
+		<description>Mario Kart - Double Dash - Retro Track Grand Prix (v1.4) (Portable Productions)</description>
+		<rom name="Mario Kart - Double Dash - Retro Track Grand Prix (v1.4) (Portable Productions).rvz" size="1699062228" crc="d107c774" md5="620321085cd5848444d9566dc20f49bc" sha1="450870ef408e0b32197d8d29945e2379bf598719" status="none" />
+	</game>
+	<game name="Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore)">
+		<description>Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore)</description>
+		<rom name="Pikmin 2 - Bikmin 269 DX (v1.1) (Rheycore).rvz" size="1115677504" crc="900084ad" md5="cf14782efeb7ef21695828f9535f63e1" sha1="d2968bd225cd8fb944350399ca0633ca4eaad27f" status="none" />
+	</game>
+	<game name="Pikmin 2 - Bikmin 269 DX - Director's Cut - Definitive (v1.0) (Rheycore)">
+		<description>Pikmin 2 - Bikmin 269 DX - Director's Cut - Definitive (v1.0) (Rheycore)</description>
+		<rom name="Pikmin 2 - Bikmin 269 DX - Director's Cut - Definitive (v1.0) (Rheycore).rvz" size="1245302760" crc="8701d425" md5="deda650e4c158fc6843709831bb3496e" sha1="05715f537f9983100fe696b88f347fd1a52c862d" status="none" />
+	</game>
+	<game name="Pikmin 2 - Colossal Caverns (v2.3) (PikHacker)">
+		<description>Pikmin 2 - Colossal Caverns (v2.3) (PikHacker)</description>
+		<rom name="Pikmin 2 - Colossal Caverns (v2.3) (PikHacker).rvz" size="191707288" crc="bba153a3" md5="63014daf11233625401405025807e1e6" sha1="be619c8632d074def1572036ff0346b62a48da8f" status="none" />
+	</game>
+	<game name="Pikmin 2 - FNAFMIN (v1.0) (JaySalty)">
+		<description>Pikmin 2 - FNAFMIN (v1.0) (JaySalty)</description>
+		<rom name="Pikmin 2 - FNAFMIN (v1.0) (JaySalty).rvz" size="361838508" crc="792e5661" md5="c499d1745175f4b1aae551d12cf1c8c1" sha1="e34539f44d347f3a823fcae8408e0b4067e4d599" status="none" />
+	</game>
+	<game name="Pikmin 2 - Hallows Haunt (v1.3) (Cloober)">
+		<description>Pikmin 2 - Hallows Haunt (v1.3) (Cloober)</description>
+		<rom name="Pikmin 2 - Hallows Haunt (v1.3) (Cloober).rvz" size="1153738768" crc="1796aac7" md5="3dab8a23fe9ef288a373775a3b6f259f" sha1="9ebd2646289491bb41f1106b527ea2324a93588b" status="none" />
+	</game>
+	<game name="Pikmin 2 - New Year (v1.38) (AmigaOwl)">
+		<description>Pikmin 2 - New Year (v1.38) (AmigaOwl)</description>
+		<rom name="Pikmin 2 - New Year (v1.38) (AmigaOwl).rvz" size="1135148528" crc="c42dd941" md5="83d9ead9a4637aeeabb82ba0e889ced4" sha1="0caa808708b79880c31c2636d0be3b7a1a65f9c0" status="none" />
+	</game>
+	<game name="Pikmin 2 - Piki 2 (v2.8) (Anto)">
+		<description>Pikmin 2 - Piki 2 (v2.8) (Anto)</description>
+		<rom name="Pikmin 2 - Piki 2 (v2.8) (Anto).rvz" size="682071192" crc="1f66ec83" md5="952dc3f2c7a36cba28eb57a2a5aebe6f" sha1="b358e166a5bef67259bc8e993722cb28c7c5c23a" status="none" />
+	</game>
+	<game name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker)">
+		<description>Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker)</description>
+		<rom name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker).rvz" size="1195997736" crc="1db25132" md5="3595f52201dc5f33be08799321c7ee08" sha1="b8ededc7f98b88a6402c9faf8b7894aa248b3e7d" status="none" />
+	</game>
+	<game name="Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi)">
+		<description>Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi)</description>
+		<rom name="Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi).rvz" size="1077200756" crc="fdca8d5b" md5="3cda5d12d39f7e71a2e8570cd8e806a6" sha1="fe7749086cc5c20ca5418f064aec6b35de3a630d" status="none" />
+	</game>
+	<game name="Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker)">
+		<description>Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker)</description>
+		<rom name="Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker).rvz" size="929482688" crc="bba636d1" md5="d5c5021fd0346ac6bf370039c9d594ac" sha1="5ebadf783e14805eda54477068d671b6e49acdb8" status="none" />
+	</game>
+	<game name="Pikmin 2 - Power Cut (v1.22) (Cloober)">
+		<description>Pikmin 2 - Power Cut (v1.22) (Cloober)</description>
+		<rom name="Pikmin 2 - Power Cut (v1.22) (Cloober).rvz" size="955488188" crc="c954f496" md5="8b5de8d281b66000323a8c7ea427f648" sha1="9faedf0c42270772b2c7266089115f4fe28f1a1c" status="none" />
+	</game>
+	<game name="Pikmin 2 - Power-Cut Blackout (v2.1) (Cloober)">
+		<description>Pikmin 2 - Power-Cut Blackout (v2.1) (Cloober)</description>
+		<rom name="Pikmin 2 - Power-Cut Blackout (v2.1) (Cloober).rvz" size="826253396" crc="ce08ba4b" md5="1fca3e42b880c353a33cfccef1aca96a" sha1="cdffee8b452ed482895f84f77daaf9567f267bcb" status="none" />
+	</game>
+	<game name="Pikmin 2 - Regrown (v2.0) (Ochrehorns)">
+		<description>Pikmin 2 - Regrown (v2.0) (Ochrehorns)</description>
+		<rom name="Pikmin 2 - Regrown (v2.0) (Ochrehorns).rvz" size="1033194060" crc="c11dc9e3" md5="25340f338e8ff9d7add9923f61c3fb3e" sha1="249db4cca1fbc26a2dbcd2d74d86575da458eaee" status="none" />
+	</game>
+	<game name="Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns)">
+		<description>Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns)</description>
+		<rom name="Pikmin 2 - Regrown (v2.1 - Console Build) (Ochrehorns).rvz" size="1127719676" crc="b22217e4" md5="30e16059066e2c0a98a6c3ee1998a7cb" sha1="0dbab3545fe5d1726938b2f832a9301df23f87db" status="none" />
+	</game>
+	<game name="Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns)">
+		<description>Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns)</description>
+		<rom name="Pikmin 2 - Regrown (v2.1 - RetroAchievements Build) (Ochrehorns).rvz" size="1127723480" crc="97f8088a" md5="8c3b458b231343f11d29a1cb40bf1a1e" sha1="048f198253f55fda6871961a212679107cffded9" status="none" />
+	</game>
+	<game name="Pikmin 2 - Regrown (v2.1_0dadd) (Ochrehorns)">
+		<description>Pikmin 2 - Regrown (v2.1_0dadd) (Ochrehorns)</description>
+		<rom name="Pikmin 2 - Regrown (v2.1_0dadd) (Ochrehorns).rvz" size="1132112312" crc="288ea040" md5="7aeaf728b5a6cbc9c38a00a3c4eceec0" sha1="c6aa3682da33fa3c0bc6edc1571393c01a6a4b6f" status="none" />
+	</game>
+	<game name="Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns)">
+		<description>Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns)</description>
+		<rom name="Pikmin 2 - Regrown (v2.1_5850e - Console Build) (Ochrehorns).rvz" size="1127673372" crc="a2b23b86" md5="44a0f15b4ce5fde74ac8b1e46615c8c7" sha1="e340dbd6f119f156a9384b24356bb9ca20caee32" status="none" />
+	</game>
+	<game name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)">
+		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)</description>
+		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax).rvz" size="1257387964" crc="77252ad3" md5="5cdd0c10c9cd44074170ed3d5fb3baea" sha1="08928e1c6babd042b652826b30e583691cbb31a8" status="none" />
+	</game>
+	<game name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen)">
+		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen)</description>
+		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen).rvz" size="1257467436" crc="dc6dd87d" md5="c531bbfe078efd6290c129f511db9b3b" sha1="c7eebb57068f191a4e74348d78b3a0c632e7fe33" status="none" />
+	</game>
+	<game name="Sonic Riders - Sonic Riders DX (v2.1) (Extreme Gear Labs)">
+		<description>Sonic Riders - Sonic Riders DX (v2.1) (Extreme Gear Labs)</description>
+		<rom name="Sonic Riders - Sonic Riders DX (v2.1) (Extreme Gear Labs).rvz" size="1210399908" crc="edec430d" md5="05dcbf6df6153a3d40448edbb05d0c0d" sha1="a4b2fb9eed142165de82fc6a38821d531e1cff23" status="none" />
+	</game>
+	<game name="Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team)">
+		<description>Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team)</description>
+		<rom name="Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team).rvz" size="1867620648" crc="25a20fb0" md5="8e1f95f50d9d64eedf72cff89cf698f7" sha1="165950252ae5b4c3b48198a364df8dd77e0dc77e" status="none" />
+	</game>
+	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v1.3) (TLL)">
+		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v1.3) (TLL)</description>
+		<rom name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v1.3) (TLL).rvz" size="689590520" crc="5393d8c4" md5="4f58f515a5e6088ebe58ef18339509a2" sha1="a7c3ed283722db5f43f5f083423988cd28de8fc2" status="none" />
+	</game>
+	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v2.2) (TLL)">
+		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v2.2) (TLL)</description>
+		<rom name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v2.2) (TLL).rvz" size="759299420" crc="d6e6a730" md5="044ce24b2d4eec05ca7e48f6c55b2205" sha1="072c88678cdb2cc237cd1379c38807c57140cbf6" status="none" />
+	</game>
+	<game name="SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator)">
+		<description>SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator)</description>
+		<rom name="SpongeBob SquarePants - The Movie - Encore (v1.2) (Koopa Eliminator).rvz" size="1067507772" crc="7ec495fa" md5="4d98eeab62c74a0f7bbae192ffb7d18c" sha1="69e53a6f615dea488c180b62523c21c3c73c782b" status="none" />
+	</game>
+	<game name="SpongeBob SquarePants - The Movie - The Twilight Fair (v1.0) (Heavy Iron Modding)">
+		<description>SpongeBob SquarePants - The Movie - The Twilight Fair (v1.0) (Heavy Iron Modding)</description>
+		<rom name="SpongeBob SquarePants - The Movie - The Twilight Fair (v1.0) (Heavy Iron Modding).rvz" size="825346232" crc="426b20b9" md5="c4583942c62aee1eb6a6c37bed386e17" sha1="f7dc1bda189476eae42d6601e123909fd14d8111" status="none" />
+	</game>
+	<game name="Super Mario Sunshine - 2001 (v1.0 Demo) (Portable Productions)">
+		<description>Super Mario Sunshine - 2001 (v1.0 Demo) (Portable Productions)</description>
+		<rom name="Super Mario Sunshine - 2001 (v1.0 Demo) (Portable Productions).rvz" size="785187048" crc="766cadbc" md5="7ced170eecbe1040bd5762a39396abcf" sha1="db1733c57042ce69137c6e83193b02197c477a0f" status="none" />
+	</game>
+	<game name="Super Mario Sunshine - Super Mario Eclipse (v1.0.4 Hotfix) (Eclipse Team)">
+		<description>Super Mario Sunshine - Super Mario Eclipse (v1.0.4 Hotfix) (Eclipse Team)</description>
+		<rom name="Super Mario Sunshine - Super Mario Eclipse (v1.0.4 Hotfix) (Eclipse Team).rvz" size="1203753440" crc="da4749f4" md5="a3ff876ead4e9ad19ce39d01efdf3a19" sha1="c9ce942659d354cfe7933160d70cb6b87083ab9c" status="none" />
+	</game>
+	<game name="Super Mario Sunshine - Super Mario Eclipse (v1.0.4) (Eclipse Team)">
+		<description>Super Mario Sunshine - Super Mario Eclipse (v1.0.4) (Eclipse Team)</description>
+		<rom name="Super Mario Sunshine - Super Mario Eclipse (v1.0.4) (Eclipse Team).rvz" size="1204618912" crc="7290dd38" md5="74ac881920bc5411493cecfbee002124" sha1="e1949da9a8e34947d179450bcddc5ec3529379b1" status="none" />
+	</game>
+	<game name="Super Mario Sunshine - Super Mario Eclipse (v1.0.5) (Eclipse Team)">
+		<description>Super Mario Sunshine - Super Mario Eclipse (v1.0.5) (Eclipse Team)</description>
+		<rom name="Super Mario Sunshine - Super Mario Eclipse (v1.0.5) (Eclipse Team).rvz" size="1214987096" crc="ebe6cc18" md5="b34bdbaa2e7ccc5ec683eacbf134c2ff" sha1="f286cdc7fad7f7fd4cb4327769d374d9a9c68c9d" status="none" />
+	</game>
+	<game name="Super Mario Sunshine - Super Mario Eclipse (v1.0.6) (Eclipse Team)">
+		<description>Super Mario Sunshine - Super Mario Eclipse (v1.0.6) (Eclipse Team)</description>
+		<rom name="Super Mario Sunshine - Super Mario Eclipse (v1.0.6) (Eclipse Team).rvz" size="1229250060" crc="8c7da997" md5="0b0d13e4fc2eac2066b019c909b21908" sha1="ca28024b89dbb14f108b952f24b2fe96ce606381" status="none" />
+	</game>
+	<game name="Super Mario Sunshine - Super Mario Eclipse (v1.1.0) (Eclipse Team)">
+		<description>Super Mario Sunshine - Super Mario Eclipse (v1.1.0) (Eclipse Team)</description>
+		<rom name="Super Mario Sunshine - Super Mario Eclipse (v1.1.0) (Eclipse Team).rvz" size="1265483804" crc="55fdf4aa" md5="9d65d319472ac20c46dd555abfe12199" sha1="f58ff92d24091359cc2128d44d1bc18dfff20427" status="none" />
+	</game>
+	<game name="Super Mario Sunshine - Super Mario Eclipse Co-op (v2026-02-02) (Team Elements)">
+		<description>Super Mario Sunshine - Super Mario Eclipse Co-op (v2026-02-02) (Team Elements)</description>
+		<rom name="Super Mario Sunshine - Super Mario Eclipse Co-op (v2026-02-02) (Team Elements).rvz" size="1223722800" crc="d699391e" md5="bc529031a1aee77cbd5bd81998e072bf" sha1="b410ecfb2385aa2cc372d21f33b64cfdf77b14fd" status="none" />
+	</game>
+	<game name="Super Mario Sunshine - Super Mario Sunburn (v1.9) (Eclipse Team)">
+		<description>Super Mario Sunshine - Super Mario Sunburn (v1.9) (Eclipse Team)</description>
+		<rom name="Super Mario Sunshine - Super Mario Sunburn (v1.9) (Eclipse Team).rvz" size="1188490288" crc="842fa913" md5="1b1e474018448b2a605b7fc93ce2a84e" sha1="3e48955ebc0aa8bb253eada842699ff64358e2b0" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham)">
+		<description>Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham)</description>
+		<rom name="Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham).rvz" size="789866780" crc="c98d846d" md5="923118586eea247b5aad4932b26db9d6" sha1="8ccb84a64f7ac0866c87f2ab26f0e57d25ef9c8e" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)">
+		<description>Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)</description>
+		<rom name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa).rvz" size="705651900" crc="fe728ebb" md5="9a4d57e8d0ec787eeb794a0b151e5921" sha1="2fbd6b0de9cb4af6cfd0de6c9a5fedb40cc433c3" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)">
+		<description>Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)</description>
+		<rom name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK).rvz" size="779326956" crc="301f5b3a" md5="561468bc84c762b36eefe4dc1c3a4d53" sha1="e8f0647514a18c393cec0cd50163eefeb2339160" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie)">
+		<description>Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie)</description>
+		<rom name="Super Monkey Ball 2 - Hide and Goal Seek (v1.1) (Daroachie).rvz" size="701661512" crc="5fc4e1bf" md5="4634923e9f134beddd3dd25cc8760df9" sha1="eb5496d4f45db69782ebadd727ddf4c472a824bc" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Hide and Goal Seek - Playground (v1.1) (EpicMark98)">
+		<description>Super Monkey Ball 2 - Hide and Goal Seek - Playground (v1.1) (EpicMark98)</description>
+		<rom name="Super Monkey Ball 2 - Hide and Goal Seek - Playground (v1.1) (EpicMark98).rvz" size="765973776" crc="61efa24f" md5="ae95ab78f09ede272a2e6f6a8dc1766c" sha1="188ff3b411256b5cd29b91c908318472b121eb96" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Kaizo Monkey Ball - SGDQ 2023 Edition (v1.0) (Eucalyptus)">
+		<description>Super Monkey Ball 2 - Kaizo Monkey Ball - SGDQ 2023 Edition (v1.0) (Eucalyptus)</description>
+		<rom name="Super Monkey Ball 2 - Kaizo Monkey Ball - SGDQ 2023 Edition (v1.0) (Eucalyptus).rvz" size="698949124" crc="54e1a298" md5="0766698800fae07e63a702e1e2d12351" sha1="175603ad15833c58b3e35dcbe3e98b4c600c2345" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Launch! (v1.2) (Dyrude)">
+		<description>Super Monkey Ball 2 - Launch! (v1.2) (Dyrude)</description>
+		<rom name="Super Monkey Ball 2 - Launch! (v1.2) (Dyrude).rvz" size="864578192" crc="c2e34208" md5="ee8d64f2363a4581f1b57bd4c753e6d0" sha1="5b825ee589673925c5463a7bd13c20452d1926bf" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Monkey Ball ArKade (v1.1) (Kpenpen)">
+		<description>Super Monkey Ball 2 - Monkey Ball ArKade (v1.1) (Kpenpen)</description>
+		<rom name="Super Monkey Ball 2 - Monkey Ball ArKade (v1.1) (Kpenpen).rvz" size="510587004" crc="b3d7eff1" md5="2d7b606984f4e9f0d12290e01dd1148c" sha1="0211797dce50b6b38cad9ba991ff3a3bbbc4697b" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Monkeyed Ball 2 Witty Subtitle (v1.0) (Twilight)">
+		<description>Super Monkey Ball 2 - Monkeyed Ball 2 Witty Subtitle (v1.0) (Twilight)</description>
+		<rom name="Super Monkey Ball 2 - Monkeyed Ball 2 Witty Subtitle (v1.0) (Twilight).rvz" size="713274792" crc="c4b022f8" md5="88458f0af3ef9e77e2aaeb74cb0d50c0" sha1="5e9f166ab3c0ec637d9f9a74619662aa6fcf9793" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - No Long Levels! (v1.0) (scrap651)">
+		<description>Super Monkey Ball 2 - No Long Levels! (v1.0) (scrap651)</description>
+		<rom name="Super Monkey Ball 2 - No Long Levels! (v1.0) (scrap651).rvz" size="697182228" crc="67714e81" md5="2f301eeb94ef9b7bec2ee6846f89a99e" sha1="39a3557fd175d31264177a0192f4ddeea1678c58" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Rehash from the Past (v1.0) (M33CH77)">
+		<description>Super Monkey Ball 2 - Rehash from the Past (v1.0) (M33CH77)</description>
+		<rom name="Super Monkey Ball 2 - Rehash from the Past (v1.0) (M33CH77).rvz" size="670594420" crc="1c874fb0" md5="09cefe1f81dff9da880b58ba028e3d9a" sha1="0503d6511d1b9717723c487ca16605b4ba417a39" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo)">
+		<description>Super Monkey Ball 2 - Stardust (v1.1) (Nambo)</description>
+		<rom name="Super Monkey Ball 2 - Stardust (v1.1) (Nambo).rvz" size="876399508" crc="00ce477e" md5="f921f45b4942c7055a7c4913ad16a235" sha1="e3e11ef672c94cdaf96cd144ac94131513ae7ef9" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Stardust (v1.2.2) (Nambo)">
+		<description>Super Monkey Ball 2 - Stardust (v1.2.2) (Nambo)</description>
+		<rom name="Super Monkey Ball 2 - Stardust (v1.2.2) (Nambo).rvz" size="906533356" crc="d90ceca9" md5="e93de90d252df6a12d367c2237eb528f" sha1="3d98e0c7eaa1264346852c13c009b51742d57449" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)">
+		<description>Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman)</description>
+		<rom name="Super Monkey Ball 2 - Super Monkey Ball Gaiden (v1.0) (Cutsman).rvz" size="743858220" crc="9d32cabc" md5="cca5d68deebe625d66852e0974e69933" sha1="2b52f2ef68ad2b65716d1f63ae3989094a84a3bb" status="none" />
+	</game>
+	<game name="Super Monkey Ball 2 - Touch &amp; Roll Remake (v1.2) (Crymhex)">
+		<description>Super Monkey Ball 2 - Touch &amp; Roll Remake (v1.2) (Crymhex)</description>
+		<rom name="Super Monkey Ball 2 - Touch &amp; Roll Remake (v1.2) (Crymhex).rvz" size="638993244" crc="5a38ea72" md5="b1402c9502338598c828e1f50de56d05" sha1="b3dbc3b5afd7933d215df0a4f74d550cceaac83c" status="none" />
+	</game>
+	<game name="Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia)">
+		<description>Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia)</description>
+		<rom name="Super Smash Bros. Melee - The Akaneia Build (v1.0.0) (Team Akaneia).rvz" size="798638036" crc="007207a2" md5="6f621cff467b12306e759ba55f5f1a5f" sha1="ae02431a4eee790c17518f99fa21bd9eece86568" status="none" />
+	</game>
+	<game name="Super Smash Bros. Melee - The Akaneia Build (v1.0.1) (Team Akaneia)">
+		<description>Super Smash Bros. Melee - The Akaneia Build (v1.0.1) (Team Akaneia)</description>
+		<rom name="Super Smash Bros. Melee - The Akaneia Build (v1.0.1) (Team Akaneia).rvz" size="795316612" crc="503a362c" md5="90831e846d843652a09d11ddcf4f204b" sha1="96ce6b946aed136f8027d69b052c7b5beaa800a8" status="none" />
+	</game>
+	<game name="Zatch Bell! Mamodo Fury (USA) (Undub) (SuperrSonic)">
+		<description>Zatch Bell! Mamodo Fury (USA) (Undub) (SuperrSonic)</description>
+		<rom name="Zatch Bell! Mamodo Fury (USA) (Undub) (SuperrSonic).rvz" size="394747368" crc="3a715268" md5="e6364aedd772027f8eb827c39a7719d6" sha1="aacf7623b13497ec65800ddded0d710db319b788" status="none" />
+	</game>
+</datafile>

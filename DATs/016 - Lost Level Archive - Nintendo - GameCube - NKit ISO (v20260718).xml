@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>016</id>
+		<name>016 - Lost Level Archive - Nintendo - GameCube - NKit ISO</name>
+		<description>Nintendo - GameCube - NKit ISO</description>
+		<version>v20260718</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex)">
+		<description>Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex)</description>
+		<rom name="Ultimate Muscle - Legends vs. New Generation (USA) (Undub) (v1.0) (Paquimex).iso" size="1459978240" crc="df3c3372" md5="b231c940f9e767c92e4ce6e86883682f" sha1="722b227cdc1da8ef63f670b9b230f3e176699bc8" />
+	</game>
+</datafile>
