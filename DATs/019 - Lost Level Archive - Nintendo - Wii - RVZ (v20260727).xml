@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - RVZ</name>
 		<description>Nintendo - Wii - RVZ</description>
-		<version>v20260718</version>
+		<version>v20260727</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -58,6 +58,10 @@
 	<game name="Sky Crawlers, The - Innocent Aces (Europe) (En,Fr,De,Es,It) (Undub) (v1.1) (swosho)">
 		<description>Sky Crawlers, The - Innocent Aces (Europe) (En,Fr,De,Es,It) (Undub) (v1.1) (swosho)</description>
 		<rom name="Sky Crawlers, The - Innocent Aces (Europe) (En,Fr,De,Es,It) (Undub) (v1.1) (swosho).rvz" size="3199669784" crc="b31ef0af" md5="a36448c87147e29ac43ed9b4025128ce" sha1="c92b918d8070033efca151bd0afe500f9b36e605" status="none" />
+	</game>
+	<game name="Sky Crawlers, The - Innocent Aces (USA) (En,Fr,Es) (Undub) (v1.1) (swosho)">
+		<description>Sky Crawlers, The - Innocent Aces (USA) (En,Fr,Es) (Undub) (v1.1) (swosho)</description>
+		<rom name="Sky Crawlers, The - Innocent Aces (USA) (En,Fr,Es) (Undub) (v1.1) (swosho).rvz" size="3199677224" crc="e81b359e" md5="3a7ea8eb29463ed4cbdf41c181a84a8d" sha1="45df51a2da70acfc045dc58663610732af180537" status="none" />
 	</game>
 	<game name="Skylanders - Spyro's Adventure - Nightmare Mode (v2.1) (OddLittlePumpkin)">
 		<description>Skylanders - Spyro's Adventure - Nightmare Mode (v2.1) (OddLittlePumpkin)</description>
