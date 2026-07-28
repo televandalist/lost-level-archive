@@ -19,10 +19,6 @@
 		<description>Castle of Shikigami III (USA) (Undub) (v1.0) (swosho)</description>
 		<rom name="Castle of Shikigami III (USA) (Undub) (v1.0) (swosho).rvz" size="1041776900" crc="d1a3ef73" md5="ecd63397a27527fe83f41e5b54eeb75e" sha1="06ac77d0e9467daadeaaee56fc3ff1e893595b85" status="none" />
 	</game>
-	<game name="Fatal Frame IV - Mask of the Lunar Eclipse (Japan) (En) (v1.5) (Temput)">
-		<description>Fatal Frame IV - Mask of the Lunar Eclipse (Japan) (En) (v1.5) (Temput)</description>
-		<rom name="Fatal Frame IV - Mask of the Lunar Eclipse (Japan) (En) (v1.5) (Temput).rvz" size="2905991752" crc="affe5ad0" md5="01365ac3736352d15573cb5bf1e0a6fc" sha1="76d30598d2889ef4955bb8464f588b16894f7c62" status="none" />
-	</game>
 	<game name="Fragile Dreams - Farewell Ruins of the Moon (USA) (Pt-Br) (v1.0) (Projeto New Dreams)">
 		<description>Fragile Dreams - Farewell Ruins of the Moon (USA) (Pt-Br) (v1.0) (Projeto New Dreams)</description>
 		<rom name="Fragile Dreams - Farewell Ruins of the Moon (USA) (Pt-Br) (v1.0) (Projeto New Dreams).rvz" size="3490617108" crc="6b1fae67" md5="84692b2dba8e6cf2ad604ffea9e333f2" sha1="3c6fe82a0150a45ba9cc7dbfdcd49afe59cfeb6f" status="none" />
@@ -34,6 +30,22 @@
 	<game name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)">
 		<description>Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)</description>
 		<rom name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie).rvz" size="3469038100" crc="71724822" md5="e86015072cbb9e221c4b278b5a037430" sha1="5361da34a7623dafd81e4e21bf45a3295eb7aad8" status="none" />
+	</game>
+	<game name="NSMB - Another Super Mario Bros. Wii (Newer Team and Skawo)">
+		<description>NSMB - Another Super Mario Bros. Wii (Newer Team and Skawo)</description>
+		<rom name="NSMB - Another Super Mario Bros. Wii (Newer Team and Skawo).rvz" size="257641696" crc="8a3db0dd" md5="5dd2a85f0b81b95ba8f59683d2da9ffa" sha1="0e7779346adcab954370f44452c6a4ec0cd2c223" status="none" />
+	</game>
+	<game name="NSMB - Newer - Falling Leaf (Newer Team, Skawo und Treeki)">
+		<description>NSMB - Newer - Falling Leaf (Newer Team, Skawo und Treeki)</description>
+		<rom name="NSMB - Newer - Falling Leaf (Newer Team, Skawo und Treeki).rvz" size="382357392" crc="1df8d0ae" md5="b616a511305bf419d8e38357a51b2551" sha1="e7a79801093e7a224ee5f2aa3f114020cce2e211" status="none" />
+	</game>
+	<game name="NSMB - Newer - Holiday Special (Newer Team, Skawo und Treeki)">
+		<description>NSMB - Newer - Holiday Special (Newer Team, Skawo und Treeki)</description>
+		<rom name="NSMB - Newer - Holiday Special (Newer Team, Skawo und Treeki).rvz" size="257243708" crc="d9986549" md5="7cc96defd3ab789ae310c3adb51b8bcd" sha1="9aed328bd37be904b7731b9f2d2bfbf102d3c9e0" status="none" />
+	</game>
+	<game name="NSMB - Newer - Summer Sun (Newer Team, Skawo und Treeki)">
+		<description>NSMB - Newer - Summer Sun (Newer Team, Skawo und Treeki)</description>
+		<rom name="NSMB - Newer - Summer Sun (Newer Team, Skawo und Treeki).rvz" size="287281544" crc="97dbfa62" md5="8561441387a64e46d3c7612918186c9f" sha1="5d44e19310296a365bf78c8d9aa6fb1d0c4c98ae" status="none" />
 	</game>
 	<game name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)">
 		<description>NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)</description>
@@ -78,5 +90,9 @@
 	<game name="Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss)">
 		<description>Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss)</description>
 		<rom name="Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss).rvz" size="4093779892" crc="01db81a1" md5="6b6f377264a72a7df66a60967bda1407" sha1="5f41f31dfed81df33bb529876afab5521dbd559c" status="none" />
+	</game>
+	<game name="Zero - Tsukihami no Kamen (Japan) (En) (v1.5) (Tempus)">
+		<description>Zero - Tsukihami no Kamen (Japan) (En) (v1.5) (Tempus)</description>
+		<rom name="Zero - Tsukihami no Kamen (Japan) (En) (v1.5) (Tempus).rvz" size="2905991752" crc="affe5ad0" md5="01365ac3736352d15573cb5bf1e0a6fc" sha1="76d30598d2889ef4955bb8464f588b16894f7c62" status="none" />
 	</game>
 </datafile>
