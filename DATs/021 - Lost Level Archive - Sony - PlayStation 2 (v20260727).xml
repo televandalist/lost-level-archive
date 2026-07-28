@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20260531</version>
+		<version>v20260727</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -203,6 +203,10 @@
 	<game name="Racing Battle - C1 Grand Prix (Japan) (En) (v8.1) (igorciz777)">
 		<description>Racing Battle - C1 Grand Prix (Japan) (En) (v8.1) (igorciz777)</description>
 		<rom name="Racing Battle - C1 Grand Prix (Japan) (En) (v8.1) (igorciz777).iso" size="3966828544" crc="ea1cab94" md5="8fda80e9b6bff8f4725bdb66df06ecaa" sha1="ac933214b9075254d9e825fd8cbd37bf7e5774db" status="none" />
+	</game>
+	<game name="Resident Evil - Code - Veronica X (USA) (Pt) (v1.5) (Gledson999)">
+		<description>Resident Evil - Code - Veronica X (USA) (Pt) (v1.5) (Gledson999)</description>
+		<rom name="Resident Evil - Code - Veronica X (USA) (Pt) (v1.5) (Gledson999).iso" size="1887668224" crc="d8b3f8a1" md5="320ee498f25001a70f612cfa95e8b7e5" sha1="fa303907abdd399b0bdc8dec0d6839ba62035ab3" status="none" />
 	</game>
 	<game name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez)">
 		<description>Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez)</description>
