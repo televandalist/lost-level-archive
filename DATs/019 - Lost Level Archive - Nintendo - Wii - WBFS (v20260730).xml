@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - WBFS</name>
 		<description>Nintendo - Wii - WBFS</description>
-		<version>v20260207</version>
+		<version>v20260730</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -17,14 +17,6 @@
 	<game name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v20260120) (Sofie)">
 		<description>Just Dance 2020 - Just Dance 2026 (Uncensored) (v20260120) (Sofie)</description>
 		<rom name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v20260120) (Sofie).wbfs" size="6039797760" crc="b50e7607" md5="56b7407ee8692a626eec3af86564d20e" sha1="2f69a8382992dd146f645417c6825135a925f0e0" status="none" />
-	</game>
-	<game name="Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista)">
-		<description>Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista)</description>
-		<rom name="Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista).wbfs" size="4177526784" crc="8d701e20" md5="adbcbcbc6ea964b9134a97df8a3882e9" sha1="5aa1c0077c088580d830f956225080926bbf8435" status="none" />
-	</game>
-	<game name="Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist)">
-		<description>Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist)</description>
-		<rom name="Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist).wbfs" size="4177526784" crc="6f99bb4b" md5="92563e0f82a6720df7bc1f66db11031e" sha1="316776056c3de6c271fc4a4bddc852024533773e" status="none" />
 	</game>
 	<game name="Resident Evil Archives - Resident Evil (USA) (Ru) (Russian Studio Video 7)">
 		<description>Resident Evil Archives - Resident Evil (USA) (Ru) (Russian Studio Video 7)</description>
