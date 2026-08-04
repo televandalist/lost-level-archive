@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>019</id>
+		<name>019 - Lost Level Archive - Nintendo - Wii - RVZ</name>
+		<description>Nintendo - Wii - RVZ</description>
+		<version>v20260804</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+		<comment>All RVZs in this DAT were converted from ISO in Dolphin and have the following settings: 128 KiB Block Size and Level 5 Zstandard compression</comment>
+	</header>
+	<game name="Arc Rise Fantasia (USA) (Undub) (v1.2) (swosho)">
+		<description>Arc Rise Fantasia (USA) (Undub) (v1.2) (swosho)</description>
+		<rom name="Arc Rise Fantasia (USA) (Undub) (v1.2) (swosho).rvz" size="3541548836" crc="61b46822" md5="84dc1bfe10f4157705a3c3d68bb4a729" sha1="c92177f67361c59840d78f3dc2c9832d902fc231" status="none" />
+	</game>
+	<game name="Fragile Dreams - Farewell Ruins of the Moon (USA) (Pt-Br) (v1.0) (Projeto New Dreams)">
+		<description>Fragile Dreams - Farewell Ruins of the Moon (USA) (Pt-Br) (v1.0) (Projeto New Dreams)</description>
+		<rom name="Fragile Dreams - Farewell Ruins of the Moon (USA) (Pt-Br) (v1.0) (Projeto New Dreams).rvz" size="3490617108" crc="6b1fae67" md5="84692b2dba8e6cf2ad604ffea9e333f2" sha1="3c6fe82a0150a45ba9cc7dbfdcd49afe59cfeb6f" status="none" />
+	</game>
+	<game name="Inazuma Eleven Go - Strikers 2013 (Japan) (Fr) (v3.0) (realt0w)">
+		<description>Inazuma Eleven Go - Strikers 2013 (Japan) (Fr) (v3.0) (realt0w)</description>
+		<rom name="Inazuma Eleven Go - Strikers 2013 (Japan) (Fr) (v3.0) (realt0w).rvz" size="2476818488" crc="58a719ed" md5="4d7dfe7853b396042ddf3254f377da2f" sha1="0f14889f3fa9b11b756b4a9ae94a166c29fb6940" status="none" />
+	</game>
+	<game name="Inazuma Eleven Go - Strikers 2013 Xtreme (v2.0) (Xtreme Team)">
+		<description>Inazuma Eleven Go - Strikers 2013 Xtreme (v2.0) (Xtreme Team)</description>
+		<rom name="Inazuma Eleven Go - Strikers 2013 Xtreme (v2.0) (Xtreme Team).rvz" size="3190747392" crc="0f49c333" md5="885c3387bdc5db7777d441ca68403c20" sha1="b9c26677b50e84a746539b161a2e271270df382d" status="none" />
+	</game>
+	<game name="Just Dance 2020 - Just Dance 2026 (Censored) (v1.2.1) (FreddyLuco, Sofie)">
+		<description>Just Dance 2020 - Just Dance 2026 (Censored) (v1.2.1) (FreddyLuco, Sofie)</description>
+		<rom name="Just Dance 2020 - Just Dance 2026 (Censored) (v1.2.1) (FreddyLuco, Sofie).rvz" size="3469094532" crc="d3109127" md5="f236400649521de05e209b8269c62c29" sha1="2a0dfc60ee40ac5a43b39848ed28e4dd3c8e582b" status="none" />
+	</game>
+	<game name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)">
+		<description>Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)</description>
+		<rom name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie).rvz" size="3469038100" crc="71724822" md5="e86015072cbb9e221c4b278b5a037430" sha1="5361da34a7623dafd81e4e21bf45a3295eb7aad8" status="none" />
+	</game>
+	<game name="NSMB - Newer - Falling Leaf (v1.12) (Newer Team, Skawo, Treeki)">
+		<description>NSMB - Newer - Falling Leaf (v1.12) (Newer Team, Skawo, Treeki)</description>
+		<rom name="NSMB - Newer - Falling Leaf (v1.12) (Newer Team, Skawo, Treeki).rvz" size="382357392" crc="1df8d0ae" md5="b616a511305bf419d8e38357a51b2551" sha1="e7a79801093e7a224ee5f2aa3f114020cce2e211" status="none" />
+	</game>
+	<game name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)">
+		<description>NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)</description>
+		<rom name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team).rvz" size="695755040" crc="69dda926" md5="65fdac5fd08318cd4de2e663748529bd" sha1="7554a6df0663249ee7726bab89d0e3487a491e77" status="none" />
+	</game>
+	<game name="Resident Evil Archives - Resident Evil Zero (USA) (Ru) (v1.0) (Team Raccoon)">
+		<description>Resident Evil Archives - Resident Evil Zero (USA) (Ru) (v1.0) (Team Raccoon)</description>
+		<rom name="Resident Evil Archives - Resident Evil Zero (USA) (Ru) (v1.0) (Team Raccoon).rvz" size="3134802968" crc="aadab1bf" md5="db4111ff902e88d34c8ab11711ad129e" sha1="e5a5cffe9919902f74ac4d4b3f0f8a9375c01406" status="none" />
+	</game>
+	<game name="Sky Crawlers, The - Innocent Aces (Europe) (En,Fr,De,Es,It) (Undub) (v1.1) (swosho)">
+		<description>Sky Crawlers, The - Innocent Aces (Europe) (En,Fr,De,Es,It) (Undub) (v1.1) (swosho)</description>
+		<rom name="Sky Crawlers, The - Innocent Aces (Europe) (En,Fr,De,Es,It) (Undub) (v1.1) (swosho).rvz" size="3199669784" crc="b31ef0af" md5="a36448c87147e29ac43ed9b4025128ce" sha1="c92b918d8070033efca151bd0afe500f9b36e605" status="none" />
+	</game>
+	<game name="Sky Crawlers, The - Innocent Aces (USA) (En,Fr,Es) (Undub) (v1.1) (swosho)">
+		<description>Sky Crawlers, The - Innocent Aces (USA) (En,Fr,Es) (Undub) (v1.1) (swosho)</description>
+		<rom name="Sky Crawlers, The - Innocent Aces (USA) (En,Fr,Es) (Undub) (v1.1) (swosho).rvz" size="3199677224" crc="e81b359e" md5="3a7ea8eb29463ed4cbdf41c181a84a8d" sha1="45df51a2da70acfc045dc58663610732af180537" status="none" />
+	</game>
+	<game name="Skylanders - Spyro's Adventure - Nightmare Mode (v2.1) (OddLittlePumpkin)">
+		<description>Skylanders - Spyro's Adventure - Nightmare Mode (v2.1) (OddLittlePumpkin)</description>
+		<rom name="Skylanders - Spyro's Adventure - Nightmare Mode (v2.1) (OddLittlePumpkin).rvz" size="4014868764" crc="772e0113" md5="d6f83dd502ea58191b03a55a0bf36340" sha1="c55e8125b63d267f9fec81cfb8c7b9fbde541f9f" status="none" />
+	</game>
+	<game name="SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128)">
+		<description>SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128)</description>
+		<rom name="SMG2 - Super Mario Galaxy 63 (v1.3.0) (AlexSMG128).rvz" size="1514959808" crc="6fc8fc09" md5="594ffa5f87f62021d4885e4844628939" sha1="ef4f2540d7b41cc34f916ab83f25ac4ee208aba1" status="none" />
+	</game>
+</datafile>

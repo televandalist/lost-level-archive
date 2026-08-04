@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>015</id>
+		<name>015 - Lost Level Archive - Sega - Game Gear</name>
+		<description>Sega - Game Gear</description>
+		<version>v20260804</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Frogger (USA) (Proto)">
+		<description>Frogger (USA) (Proto)</description>
+		<rom name="Frogger (USA) (Proto).gg" size="262144" crc="da724710" md5="024adbbcc983a33b890f309610168fb3" sha1="a96c95189902a08d7ebc825cf876b2693a5e0f8a" status="none" />
+	</game>
+	<game name="Saeko-sensei no Oiroke Black Jack GG (Japan) (Deluxe) (Aftermarket) (Habit Soft)">
+		<description>Saeko-sensei no Oiroke Black Jack GG (Japan) (Deluxe) (Aftermarket) (Habit Soft)</description>
+		<rom name="Saeko-sensei no Oiroke Black Jack GG (Japan) (Deluxe) (Aftermarket) (Habit Soft).gg" size="262144" crc="19cb0c74" md5="117812c6c94a16081d0fd49aa8bd5b22" sha1="567fd4b0c559fd908479600d685d807a9901ee8f" status="none" />
+	</game>
+	<game name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)">
+		<description>Sushi Nights (World) (v1.0) (Aftermarket) (untoxa)</description>
+		<rom name="Sushi Nights (World) (v1.0) (Aftermarket) (untoxa).gg" size="131072" crc="09cb101f" md5="bba1925f5a85a3abc01e2fd24d17c3c8" sha1="ebd111848992337260417f3c4b6a13301a031ee5" status="none" />
+	</game>
+</datafile>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>019l</id>
+		<name>019l - Lost Level Archive - Nintendo - Nintendo Wii - RVZ (Legacy)</name>
+		<description>Nintendo - Nintendo Wii - RVZ (Legacy)</description>
+		<version>v20260730</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Castle of Shikigami III (USA) (Undub) (v1.0) (swosho)">
+		<description>Castle of Shikigami III (USA) (Undub) (v1.0) (swosho)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="Castle of Shikigami III (USA) (Undub) (v1.0) (swosho).rvz" size="1041776900" crc="d1a3ef73" md5="ecd63397a27527fe83f41e5b54eeb75e" sha1="06ac77d0e9467daadeaaee56fc3ff1e893595b85" status="none" />
+	</game>
+	<game name="NSMB - Another Super Mario Bros. Wii (v3.2) (Newer Team, Skawo)">
+		<description>NSMB - Another Super Mario Bros. Wii (v3.2) (Newer Team, Skawo)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="NSMB - Another Super Mario Bros. Wii (v3.2) (Newer Team, Skawo).rvz" size="257641696" crc="8a3db0dd" md5="5dd2a85f0b81b95ba8f59683d2da9ffa" sha1="0e7779346adcab954370f44452c6a4ec0cd2c223" status="none" />
+	</game>
+	<game name="NSMB - Newer - Holiday Special (v1.12) (Newer Team, Skawo, Treeki)">
+		<description>NSMB - Newer - Holiday Special (v1.12) (Newer Team, Skawo, Treeki)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="NSMB - Newer - Holiday Special (v1.12) (Newer Team, Skawo, Treeki).rvz" size="257243708" crc="d9986549" md5="7cc96defd3ab789ae310c3adb51b8bcd" sha1="9aed328bd37be904b7731b9f2d2bfbf102d3c9e0" status="none" />
+	</game>
+	<game name="NSMB - Newer - Holiday Special (v1.12) (Newer Team, Skawo, Treeki)">
+		<description>NSMB - Newer - Holiday Special (v1.12) (Newer Team, Skawo, Treeki)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="NSMB - Newer - Holiday Special (v1.12) (Newer Team, Skawo, Treeki).rvz" size="287281544" crc="97dbfa62" md5="8561441387a64e46d3c7612918186c9f" sha1="5d44e19310296a365bf78c8d9aa6fb1d0c4c98ae" status="none" />
+	</game>
+	<game name="Opoona (USA) (En-Retranslation) (v1.1) (Opoonaproject)">
+		<description>Opoona (USA) (En-Retranslation) (v1.1) (Opoonaproject)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="Opoona (USA) (En-Retranslation) (v1.1) (Opoonaproject).rvz" size="2174128756" crc="141f29c1" md5="4f6a82b2b6d8b84a61b12564e341b28d" sha1="855824e06a3b372bab345c18083420e3a933e05c" status="none" />
+	</game>
+	<game name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)">
+		<description>Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="Resident Evil 4 - Wii Edition (Europe) (Pt) (v1.2) (Joao13, Lucaz Andrade, OAleex).rvz" size="3593783388" crc="53c76f62" md5="d2df8c21ac6beecf471eb41c30c04ddf" sha1="3c810389566f6ae6924a5c22ddd37450b35a89cf" status="none" />
+	</game>
+	<game name="Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior)">
+		<description>Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior).rvz" size="3202308296" crc="e70e8c46" md5="f8dd8b3bcd273d4dd0bd9b7443f13512" sha1="a1cdd17f5681c906fa38b274c50e03fbbdf69912" status="none" />
+	</game>
+	<game name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)">
+		<description>Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist).rvz" size="3369104796" crc="bcf92e1f" md5="0643b530fb379b7f08850d089a68d94e" sha1="9085aef4b857b50a5e82a2f09c04b56fc9bf14fc" status="none" />
+	</game>
+	<game name="Tales of Graces (Japan) (Rev 2) (En) (AdmiralCurtis)">
+		<description>Tales of Graces (Japan) (Rev 2) (En) (AdmiralCurtis)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="Tales of Graces (Japan) (Rev 2) (En) (AdmiralCurtis).rvz" size="4093779200" crc="0b91e191" md5="50f92d617552cb03e23232c811134414" sha1="f7473e20af409aadfe8cc01d25a9936dd250046d" status="none" />
+	</game>
+	<game name="Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss)">
+		<description>Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="Tales of Graces (Japan) (Rev 2) (En) (v20250313 - PS3 Backport) (AdmiralCurtiss).rvz" size="4093779892" crc="01db81a1" md5="6b6f377264a72a7df66a60967bda1407" sha1="5f41f31dfed81df33bb529876afab5521dbd559c" status="none" />
+	</game>
+	<game name="Zero - Tsukihami no Kamen (Japan) (En) (v1.5) (Tempus)">
+		<description>Zero - Tsukihami no Kamen (Japan) (En) (v1.5) (Tempus)</description>
+		<comment>GeckoPatcher generated patch that is under 100MB - Added to RAPatches and removed from LLA</comment>
+		<rom name="Zero - Tsukihami no Kamen (Japan) (En) (v1.5) (Tempus).rvz" size="2905991752" crc="affe5ad0" md5="01365ac3736352d15573cb5bf1e0a6fc" sha1="76d30598d2889ef4955bb8464f588b16894f7c62" status="none" />
+	</game>
+</datafile>

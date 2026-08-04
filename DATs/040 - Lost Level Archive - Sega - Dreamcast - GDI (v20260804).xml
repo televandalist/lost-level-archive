@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>040</id>
+		<name>040 - Lost Level Archive - Sega - Dreamcast - GDI</name>
+		<description>Sega - Dreamcast - GDI</description>
+		<version>v20260804</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl)">
+		<description>Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl)</description>
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 1).iso" size="614400" crc="4c9622ca" md5="dbda6fbe2607c668b0dc6b940a359382" sha1="7cdd992cc5ab2acd2e4c4c269f63c408815fe81a" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 2).raw" size="1237152" crc="bc56e241" md5="03c796f60db2e9ef0b65a42a47a9d321" sha1="1bc5d3822f954a634e1f39584f98da42784e914e" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 3).iso" size="95406080" crc="650dd5e9" md5="d2c1376509d420be01d2ecb7b2bc74d4" sha1="c5dcb524e87f4381922e66ec3f57369df06c90ca" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 4).raw" size="1060752" crc="bfdf6078" md5="166d547d4b80a87ad3538f9377fbf6d8" sha1="471abb758a709c9d678bd2e76f31a6d721b5f4f0" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl) (Track 5).iso" size="1048576" crc="7b79a891" md5="436ab9ba3666dd0a5ef87712c23b0c34" sha1="e361877a444950c474481ca4d72f6467d0cadb16" status="none" />
+		<rom name="Another World - 20th Annivesary Edition (World) (Aftermarket) (Unl).gdi" size="512" crc="e03b5086" md5="0b161309ac848f9e26e63b2aacd7a043" sha1="384843de5b72c41d054abf37efa6d935e9218762" status="none" />
+	</game>
+	<game name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly)">
+		<description>Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly)</description>
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly) (Track 1).bin" size="614400" crc="71ed9787" md5="82b3a2154ccc53f3ce2f256dfab810c9" sha1="347668eceb64e9803d7cde0b464c7c174ff5f9d9" />
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly) (Track 2).bin" size="1735776" crc="2ba0673d" md5="a3eb757c01a75746ab5a77b40ba20953" sha1="cbf6e5ebf591a6c29d7a902a60d7cead2cba7d37" />
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly) (Track 3).bin" size="1032499200" crc="247a8d3c" md5="36a9da7e696d3bb9843a6039d388102a" sha1="c138e1896e26ff89d36fce93336e26a5f2b70de2" />
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) (En) (v1.0) (Rolly).gdi" size="294" crc="d5538753" md5="1e02a5207b09f90c170f9dace97386f8" sha1="8f89838fe9ef6f06ec292e072092bd6478ed0406" />
+	</game>
+	<game name="Castlevania Resurrection (E3 Pre-Demo) (GDI)">
+		<description>Castlevania Resurrection (E3 Pre-Demo) (GDI)</description>
+		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 01).iso" size="1169408" crc="172a23e5" md5="59cb09e897e41fd4336675377f190dd8" sha1="e943b8d2fb9b3fcaed6360538553f821e484d537" />
+		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 02).raw" size="1166592" crc="6e05f61e" md5="c1774d74e7f31b8f2ef74af2d7f28010" sha1="f1849e96005ebd0d4e0762ec2357a08a723cda1f" />
+		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 03).iso" size="43008" crc="cecbc1e5" md5="9c03008ef7d373bcc4006c1eecc860a2" sha1="f778bd3f4cb9c00007a7360de652cc11ceb1eec8" />
+		<rom name="Castlevania - Resurrection (E3 Pre-Demo) (Track 04).iso" size="31922176" crc="f9ab29c7" md5="9471351d23f5d34060af1d173dfeea44" sha1="16d99c9a5f2b109a6a0e47e768d33ffd13f0a933" />
+		<rom name="Castlevania - Resurrection (E3 Pre-Demo).gdi" size="300" crc="867e1593" md5="c890c48f198218b09bb991d223abc57a" sha1="b30f65ad9512b0643b626902f2a3e539e49a20cf" />
+	</game>
+	<game name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella)">
+		<description>Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella)</description>
+		<rom name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella) (Track 1).bin" size="2241456" crc="8e334d36" md5="d4495a64148a52563c840e45e408ca1a" sha1="f806da6bf13e355880d9c63de923eac202f9d91f" />
+		<rom name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella) (Track 2).raw" size="1949808" crc="48f06eca" md5="aa36885d9fe775dc5fd1c25cc1065769" sha1="9c39a5d7505ca0a1f8f94a77da37616e461b5e57" />
+		<rom name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella) (Track 3).bin" size="1185760800" crc="f9d2ed82" md5="13239f6ce260a2c6c7d6cdc1a7786134" sha1="8648b8a14b5023f168cce8427f3059aa897edfd9" />
+		<rom name="Death Crimson 2 (Japan) (En) (v1.0) (DerekPascarella).gdi" size="262" crc="b86a3f3a" md5="cb98f9c43e35982cdb29ae826b4b28fa" sha1="df05cd584dcec72f339a6c2ecd5196857d7be93f" />
+	</game>
+	<game name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu)">
+		<description>Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu)</description>
+		<rom name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu) (Track 1).bin" size="705600" crc="51abfce2" md5="8e368bb0ac2f0518043344324fa762ad" sha1="c1e214cd4e1af0e3d39c6d519cac981fad34f495" />
+		<rom name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu) (Track 2).raw" size="1735776" crc="0de03f29" md5="d09be539a7074a058159505b7f5fdcb3" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" />
+		<rom name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu) (Track 3).bin" size="1185760800" crc="2823c878" md5="663f0e75a9fdcb2a98bf13df46c61cd5" sha1="cc3feafd35d906e0d4207b2e94b3e96baa14c7e9" />
+		<rom name="Frame Gride (v4.0) (Japan) (En) (v1.0) (Lucasmilu).gdi" size="252" crc="27d325e6" md5="7a441b1c513627553a5e915ad378442d" sha1="401a7160ab42e3d13f1da3af12b0ba47c03d93e3" />
+	</game>
+	<game name="Golem no Maigo (Japan) (En) (v1.0) (Rolly)">
+		<description>Golem no Maigo (Japan) (En) (v1.0) (Rolly)</description>
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly) (Track 1).bin" size="356352" crc="240dd333" md5="71a2a86f4f0558cc4e6d2f9fe57492a1" sha1="80f56daff866bec9191958362d14146332a746ae" />
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly) (Track 2).bin" size="705600" crc="02864c0e" md5="1234dd57f3af7775d57493b54d59bceb" sha1="aa64beff052e53741bba9c2f10aa781d05c96e38" />
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly) (Track 3).bin" size="180224" crc="d01d31a9" md5="a4a38f762b0c12c690a43b2c159dad2b" sha1="a787bf2b3ed17dd625c6e4da515debea5a88949b" />
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly) (Track 4).bin" size="483002368" crc="d674c46d" md5="6bcdcfacf7ccd04f76735638a9241ef2" sha1="26cc4b2182cd77d61fdfb068f2a897f57aeee4ab" />
+		<rom name="Golem no Maigo (Japan) (En) (v1.0) (Rolly).gdi" size="307" crc="55babf0d" md5="a5bd9693d8e49dc1674357caec739dd3" sha1="660c0309aab3cae8075d268a882d0c276c42662a" />
+	</game>
+	<game name="Grandia II (USA) (Undub) (v1.00) (AnoHito)" cloneof="Grandia II (USA)">
+		<description>Grandia II (USA) (Undub) (v1.00) (AnoHito)</description>
+		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 01).bin" size="1241088" crc="484CC242" md5="96F97E42F3290B1C2B3ACAA7325C2D5F" sha1="A569A5A7DCD5AD36DADDB3C33FD839BD7B744C97"/>
+		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 02).raw" size="1237152" crc="DD6FB107" md5="94FDE9CACD7A4B3C18D8918836E9CDA5" sha1="4B9ED2A2EEFAAE6691674522B9F047A066304A75"/>
+		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 03).bin" size="9975808" crc="53351BD3" md5="7D09D584242E2A3397DBE173A676E0B2" sha1="E1AA655C63E9B2F4617CFC0DFF0B1F7893896B8B"/>
+		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 04).raw" size="1060752" crc="BFDF6078" md5="166D547D4B80A87AD3538F9377FBF6D8" sha1="471ABB758A709C9D678BD2E76F31A6D721B5F4F0"/>
+		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito) (Track 05).bin" size="1029214208" crc="0A716A91" md5="76CBC4BDF0C4015D399C9EF1922FD75B" sha1="4720D182D32EEEFE520A3F0D2FFFE8B7E7118CDB"/>
+		<rom name="Grandia II (USA) (Undub) (v1.00) (AnoHito).gdi" size="387" crc="BA9F6E9C" md5="927040572E0B570F7D5C76470BC98A33" sha1="C5E61F3252ED0B8C78E1A2331CEA679E840AFAC4"/>
+	</game>
+	<game name="Grandia II (USA) (Undub) (v1.01) (AnoHito)" cloneof="Grandia II (USA)">
+		<description>Grandia II (USA) (Undub) (v1.01) (AnoHito)</description>
+		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 01).bin" size="1425312" crc="83AAA183" md5="CF71233B825358B1A7F4037AEE98987C" sha1="523371C8279B2B8ABD8D861B4828566FE9260E5F"/>
+		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 02).raw" size="1237152" crc="DD6FB107" md5="94FDE9CACD7A4B3C18D8918836E9CDA5" sha1="4B9ED2A2EEFAAE6691674522B9F047A066304A75"/>
+		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 03).bin" size="2206176" crc="3EEE8C6A" md5="659F39F9E9996DA29453EDD0EC6051C7" sha1="51CC3E4B5BBAA700B34BF0E9E5A9773A1129D4C4"/>
+		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 04).raw" size="1060752" crc="BFDF6078" md5="166D547D4B80A87AD3538F9377FBF6D8" sha1="471ABB758A709C9D678BD2E76F31A6D721B5F4F0"/>
+		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito) (Track 05).bin" size="1181788272" crc="2B8FABBC" md5="F7A9490C8A14F76308E689B6F9699DD0" sha1="9831F3C16C0428E631A22A6977521AAFCD24D164"/>
+		<rom name="Grandia II (USA) (Undub) (v1.01) (AnoHito).gdi" size="385" crc="77C6AD78" md5="6EC11F09295CDA5403E3A18565165F94" sha1="B592465FB0E735BCFC4415CE1FD0282557AFEFEF"/>
+	</game>
+	<game name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix)">
+		<description>Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1001N</comment>
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 3).iso" size="307200" crc="e043fcf6" md5="26a917f0bee62c521c010440a48f8ea7" sha1="5a4ddf3efcadd661584262a7d8a08c4858ec66a6" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix) (Track 5).iso" size="118943744" crc="511931e9" md5="d13152f5fd9a6e90412a71970ad445aa" sha1="fc4bd86af755514f7c625dd9f7da1a9271d41acc" status="none" />
+		<rom name="Half-Life - 007 Golden Eye (Demo) (v20110331) (Dreammatrix).gdi" size="472" crc="548f1555" md5="c59d3a35f71f118b12704c19c47bddef" sha1="61b1c45c2b9596cca46470ac17c38d777ad8e682" status="none" />
+	</game>
+	<game name="Half-Life - Black Ops (v20070915) (OVERRiDE)">
+		<description>Half-Life - Black Ops (v20070915) (OVERRiDE)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1002N</comment>
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 3).iso" size="307200" crc="d5249496" md5="e7653627cad67226300745f5ebd20717" sha1="9ddebcaf07eddf521731fde938d2de1d570fddc4" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE) (Track 5).iso" size="269479936" crc="9b67566b" md5="620d1919006b052578e35e0011b0d7be" sha1="97379b86db893136069f355a6bd52d769df7b057" status="none" />
+		<rom name="Half-Life - Black Ops (v20070915) (OVERRiDE).gdi" size="397" crc="5592a1be" md5="034ce713273bc8f41bc3860e05025e50" sha1="a3895c274e8c1bfdbfec4829aa9f0deedb4265e5" status="none" />
+	</game>
+	<game name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team)">
+		<description>Half-Life - Counter-Strike (v200901) (CSDC Dev Team)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1003N</comment>
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 3).iso" size="796598272" crc="4c5ad8de" md5="42801303dce8e44d3c3cf7a3bfdac24f" sha1="8938af159dc5881e25240ea2f8b407b2ab6a17f8" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team) (Track 5).iso" size="234362880" crc="9ce5b571" md5="e6b457fb7c28fa7b26a6bfc7ccc45bd9" sha1="e2f66b3be7cb8a8784f331c0730f388d535ade7f" status="none" />
+		<rom name="Half-Life - Counter-Strike (v200901) (CSDC Dev Team).gdi" size="437" crc="27170e8a" md5="eacef359e98a2d2763d23fc64b582ecb" sha1="0e8e56bf40c6314d5707398e1efad5f3db28871e" status="none" />
+	</game>
+	<game name="Half-Life - Grunt (v20130220) (Evil Wesker)">
+		<description>Half-Life - Grunt (v20130220) (Evil Wesker)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1004N</comment>
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 3).iso" size="814698496" crc="3f137230" md5="b38672ebc8b4e209ce48b431f6956403" sha1="9a223f90416d5758635ddc2d5840b40c14fb665c" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker) (Track 5).iso" size="216262656" crc="867f2852" md5="e529409a268b7be1fc3fb5c2b55abe75" sha1="ef7efb86ea6e657e73e7ca2940b79c2606cd4d79" status="none" />
+		<rom name="Half-Life - Grunt (v20130220) (Evil Wesker).gdi" size="392" crc="6e5c78aa" md5="820af7c4308a32e74b7652c84a3316d6" sha1="55581b9facb74a962e4807c8af9f85c07f2cd374" status="none" />
+	</game>
+	<game name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix)">
+		<description>Half-Life - Gunman Chronicles (v20150624) (Dreammatrix)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1005N</comment>
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 3).iso" size="698595328" crc="17a84709" md5="32afd95d94e37d379f075e8991343c58" sha1="b7e274f018cb676102c12749ff574506d032219a" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix) (Track 5).iso" size="332365824" crc="51736574" md5="aacd326fad2bce4b857e5038c59ab8c0" sha1="7280f3817a7ff79929be0ada7aba865fcfdaafc5" status="none" />
+		<rom name="Half-Life - Gunman Chronicles (v20150624) (Dreammatrix).gdi" size="452" crc="3f2722be" md5="5e7047941736fe1a20c85365973d28e5" sha1="e192604641581bddae3a2cc472566450139187f9" status="none" />
+	</game>
+	<game name="Half-Life - Opposing Forces (v20110610) (Unknown)">
+		<description>Half-Life - Opposing Forces (v20110610) (Unknown)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1006N</comment>
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 3).iso" size="461283328" crc="9b5e8026" md5="facfd5558cf251623dcfe44bc04be02e" sha1="4bd9c61d2bdd5f89c3c487de06c5248537da5c6e" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown) (Track 5).iso" size="569677824" crc="5d8414ad" md5="359ef4f9d7b4d094b86180e8aceba3c3" sha1="b85b617c49ac5016eba6e7fe94021c9accfc5937" status="none" />
+		<rom name="Half-Life - Opposing Forces (v20110610) (Unknown).gdi" size="422" crc="30d54ce2" md5="d65721e2e25e26f4dd989dbda62212f9" sha1="8730ab2cc16436c4d7a246cebdaafc8aed571922" status="none" />
+	</game>
+	<game name="Half-Life - Paranoia (v1.1) (Various)">
+		<description>Half-Life - Paranoia (v1.1) (Various)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1007N</comment>
+		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 1).iso" size="1241088" crc="6bf9ad3b" md5="ff7329c91585712ed4109f57ef4a853e" sha1="c54f72aa4127f130fe56eb17bf82bccc8f2e4f91" status="none" />
+		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 3).iso" size="272793600" crc="fa8fc59d" md5="4395b9719d3d79040cd65ce7ae2bd545" sha1="6f234844b7648c3dc723719e22a439816102a837" status="none" />
+		<rom name="Half-Life - Paranoia (v1.1) (Various) (Track 4).iso" size="1159168" crc="34bbf91a" md5="bdcb6f16176c0c4a9f54863d945ab18e" sha1="ae80e36df63ab5dba334fc7056eca78f9509f4b0" status="none" />
+		<rom name="Half-Life - Paranoia (v1.1) (Various).gdi" size="290" crc="696839f0" md5="f99ee77714e7917417ce8dc7473f2ded" sha1="6ad02058cdeae72e425b128d18d3480d85356f12" status="none" />
+	</game>
+	<game name="Half-Life - They Hunger (Dreammatrix, Deprogrammer)">
+		<description>Half-Life - They Hunger (Dreammatrix, Deprogrammer)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1008N</comment>
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 3).iso" size="795541504" crc="8857e053" md5="f05dc7d6a073e418699d04de390cf499" sha1="366789a8054a254d71d331a0e8e6a8cb2f3438cb" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer) (Track 5).iso" size="235419648" crc="63884d46" md5="729475b5d017b32af01b946f149b2cbc" sha1="aa63cf71065c91ab2037e28fb40f4ca7ac6da528" status="none" />
+		<rom name="Half-Life - They Hunger (Dreammatrix, Deprogrammer).gdi" size="432" crc="d5f7c0bc" md5="94abdeffa79764f73fe172b554bf366e" sha1="6b8c5b0cd086551bc68f196e056d32245abf257b" status="none" />
+	</game>
+	<game name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix)">
+		<description>Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix)</description>
+		<comment>Track 3, 0x40: the serial was changed to RA1009N</comment>
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 1).iso" size="1241088" crc="cdbb13e1" md5="5f85594bb5eb90e71a173be29b63ed1d" sha1="f6fb8427a3fa2a95f343ecc9454863686a5741af" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 2).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 3).iso" size="765704192" crc="ef760905" md5="5db530e91160c9c746ebd8ddf1b0e6ca" sha1="664c23a4999731f56e957b7954d04ebf4accad0c" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 4).raw" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix) (Track 5).iso" size="265256960" crc="f48ad3a2" md5="82184c688c4a5dfc355a931ebeac0aa7" sha1="09e4662b02c279f8a39baed65c77d788fa03dbdd" status="none" />
+		<rom name="Half-Life - U.S.S. Darkstar (v20130213) (Dreammatrix).gdi" size="442" crc="caee2547" md5="88d51e67280ed64b93e9a27442b5d5ee" sha1="81e28de0797764f362f44da53a5b1200b76fcd51" status="none" />
+	</game>
+	<game name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly)">
+		<description>L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly)</description>
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 1).bin" size="705600" crc="81a8ece4" md5="3131a2efa204c7ea0c19aaaf0442617e" sha1="68e38f2c011c66af8de59101b3a4725d9358bb5e" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 2).raw" size="1735776" crc="6b05e06b" md5="6c02891dd1f6e419630510d5bdeba77e" sha1="ead73e3df2e43118ba9579c4b02ad44cdcd65a45" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 3).bin" size="151033680" crc="c81cf224" md5="95e7a07e7a0e640ae35e7e6e739e2acc" sha1="b6802577092b6f6da46c9bdf3dc08c59016b60c5" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 4).raw" size="23686992" crc="47f35434" md5="2af1269f0fbc6408af8ed0cf8b016566" sha1="e7c7557fa361ee0bb9b9bf017ee3f47cc7b50311" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 5).raw" size="6261024" crc="8dd5c35e" md5="8765f2bb022b17a52b7457d570a2781a" sha1="69eb0f182718c074928090e1d33e0754594ac433" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 6).raw" size="11052048" crc="e8ac193b" md5="0452be831fb625f45ef6f3495cf2c6fd" sha1="7b7099ea6aa79896be4121e3eea25cfb67d70f55" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 7).raw" size="12820752" crc="dd9f3759" md5="88c774fa2af3b58aecf5b440a4af2727" sha1="1f43f64e66f0904bc80afa3e708e0d512229a9a6" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 8).raw" size="13566336" crc="caf9e6f9" md5="1c8fa6f4afbc3b962d5fd9fef574aa54" sha1="d9cdaec2bb7f52b2ebe60b5db2523c1f787105f1" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly) (Track 9).bin" size="966634368" crc="318ecd3c" md5="a33d22c27b9213b1bbc484a420cb8d89" sha1="bd7f3653c65fcb397505efa161981fe6e67c0e14" />
+		<rom name="L.O.L. - Lack of Love (Japan) (En) (v1.1) (Rolly).gdi" size="759" crc="0b5dfa9f" md5="b2370c88b0265bcdcee64e4fc300fd33" sha1="f6b026b4a3a1e29d54d7f0296ff4e0e4e19d02d5" />
+	</game>
+	<game name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella)">
+		<description>Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella)</description>
+		<rom name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella) (Track 01).bin" size="21015120" crc="ab538372" md5="7d0a76c3f69076dd642e763dcfcc0a32" sha1="a8d773dd4c32a8e8143ef4abc1d5c5dc7847c00b" />
+		<rom name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella) (Track 02).bin" size="17654112" crc="02442908" md5="b5ada53e08ed1c5a20207895d4115ce1" sha1="b982450a02f9ace5c3de2c510bb7e32a60c2c29c" />
+		<rom name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella) (Track 03).bin" size="1185760800" crc="dcd96aee" md5="788c30f19e6517df394ae1fa10388fd0" sha1="b38b4a465bfee76b1e2d42639a6b6e5e81681c8d" />
+		<rom name="Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella).gdi" size="334" crc="331926be" md5="97e9eca32514718b98465fb62a385a05" sha1="8e84f5430be09ba4d76314c547c85cd909e5974c" />
+	</game>
+	<game name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria)">
+		<description>Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria)</description>
+		<rom name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria) (Track 1).bin" size="4864000" crc="fbd07581" md5="9e280abac2dc46b3e610bd012212e54e" sha1="f2d2b95f5e6244c2b11521ac3d3f197dccfaa642" />
+		<rom name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria) (Track 2).bin" size="2822400" crc="cd9e3f56" md5="1c31d7f58be6ed5eb334db153c9dbac3" sha1="6ebd685a93202920ff5f43cdbb728661cc637889" />
+		<rom name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria) (Track 3).bin" size="1032499200" crc="85cc5bcc" md5="6ef9b7b4f4a239428409a584d2e5ba73" sha1="58c1e260992a34755b159ff892aed42951573bfd" />
+		<rom name="Nanatsu no Hikan - Senritsu no Bishou (Japan) (En) (v1.4) (ArcaneAria).gdi" size="313" crc="e0c7e8f1" md5="f545f9581bd2eca54186aabee174cb72" sha1="23f788b419328db7b58e27cad39c013861e23a69" />
+	</game>
+	<game name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin)">
+		<description>Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin)</description>
+		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin) (Track 01).bin" size="1058400" crc="8990e0f6" md5="037e846bf5bc602251c40c8497fa3a1b" sha1="fa309e44461f58040ba96d66e34baea1388a1fb3" />
+		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin) (Track 02).bin" size="10948560" crc="c9961131" md5="932face99d8ebc48de4adb89b0d260e0" sha1="aee5d258dfbd01f226b585243f7725d4843c92df" />
+		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin) (Track 03).bin" size="1185760800" crc="1b9a87e6" md5="f698dfcbae6873352895e81dec097ec4" sha1="ae146a07911d77b15db42dd9c3cd622314661b6d" />
+		<rom name="Napple Tale - Arsia in Daydream (Japan) (En) (v1.0) (Cargodin).gdi" size="291" crc="be2e7983" md5="4a720e4b817f1e56f5f69c89430b73a7" sha1="0392b5b76e2b40d702161ff531cbd21b63f49b04" />
+	</game>
+	<game name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella)">
+		<description>Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella)</description>
+		<rom name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella) (Track 01).bin" size="1058400" crc="aec77548" md5="ee0d1d0cd558fcfa0aec91969683789b" sha1="25b3f4bf4470357036996480b7adfa2c66c94053" status="none" />
+		<rom name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella) (Track 02).raw" size="38125920" crc="e49e47d4" md5="ee7c874338e760ea9f2d1d1e4d9787ca" sha1="3c1a51e563d26b72a32243af8e196b3d41153bd6" status="none" />
+		<rom name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella) (Track 03).bin" size="1185760800" crc="ddadde7a" md5="1d02cf5440836c8b5128e89ad63522a8" sha1="095aabadb8167e59fd441ea4f805c8e5e8488eaf" status="none" />
+		<rom name="Rainbow Cotton (Japan) (En) (v1.0) (Derek Pascarella).gdi" size="264" crc="293b6cc9" md5="7034c457012e17ad88c71740db53b25b" sha1="9f78e5a422857771ef1b7e54ec43d9fc46c21e19" status="none" />
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1)">
+		<description>Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (Disc 1) (Track 01).bin" size="705600" crc="fdf2bf73" md5="dad70590e77d8190fe4198e0972be798" sha1="4ac87551f8476a889e127705e22e0c51e07d1817" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (Disc 1) (Track 02).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (Disc 1) (Track 03).bin" size="1185760800" crc="413470c0" md5="49aad027829ff08964893fe78f8b1f7e" sha1="696c48da4f83c0bb0c2a9cb329139e13534b52d7" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (Disc 1).gdi" size="336" crc="19f82e74" md5="8d2a1b08bfecfe14544a40124bc71e3f" sha1="486bd4a08d129b62c312dfe8f025c2d0090a750c" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (Disc 2) (Track 01).bin" size="705600" crc="ac480b86" md5="119f4ba601e5c1b0d8819b9299a33245" sha1="4fcda01f098a419a52d79539543fbc6dcc3a0e36" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (Disc 2) (Track 02).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (Disc 2) (Track 03).bin" size="1185760800" crc="a261d878" md5="37badf5d3f72926080b6137aac1b3ae1" sha1="9312048da9e6c83d5bfdd837653317354fc281af" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (Disc 2).gdi" size="336" crc="e1450175" md5="4c9e1e5e9bd9785e6d3c8d45cff80098" sha1="1e6a04fec5db0af6ad6560d03c59e2e8c4fa6bb3" status="none" />
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB)">
+		<description>Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB) (Disc 1) (Track 01).bin" size="705600" crc="fdf2bf73" md5="dad70590e77d8190fe4198e0972be798" sha1="4ac87551f8476a889e127705e22e0c51e07d1817" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB) (Disc 1) (Track 02).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB) (Disc 1) (Track 03).bin" size="1185760800" crc="82d4303f" md5="639f8a31dd364211648291410e3d73b5" sha1="35d2d3b8abdbf20b92e6459a51c0f892833b35f9" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB) (Disc 1).gdi" size="390" crc="c6035020" md5="f58946edc5d3bc5c2b3c7fc012d34dbd" sha1="184dd8f6abba673997e31ce501e3a7efe9e70242" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB) (Disc 2) (Track 01).bin" size="705600" crc="ac480b86" md5="119f4ba601e5c1b0d8819b9299a33245" sha1="4fcda01f098a419a52d79539543fbc6dcc3a0e36" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB) (Disc 2) (Track 02).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB) (Disc 2) (Track 03).bin" size="1185760800" crc="d55b80e6" md5="991ed5adc28a79a3a9e6208a29b12007" sha1="8bf768571064142179fdc41cf3261f20ad83a904" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (Truemaster1) (GDEMU Fix) (YZB) (Disc 2).gdi" size="390" crc="3df052fb" md5="27093a78f4cd2fcef5b7098d1f7647cf" sha1="076b26893669f657e0d4feb60def2dc6dd0a9885" status="none" />
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito)">
+		<description>Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (Disc 1) (Track 01).bin" size="1058400" crc="b39f5d0f" md5="feda6a2d8e16de5f36b8bc0768b16d07" sha1="8d8197b02bc4b6ae761448db3d4f36e9d4225936" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (Disc 1) (Track 02).raw" size="1735776" crc="0de03f29" md5="d09be539a7074a058159505b7f5fdcb3" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (Disc 1) (Track 03).bin" size="1185760800" crc="aa021fd8" md5="e5bad05ec7f364969b380f7fd60d2e22" sha1="5a792650e9272c619cdd84cc73b449570b034fc1" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (Disc 1).gdi" size="363" crc="0d29e979" md5="3bd64f3d994c0dadb2b49dac35764a25" sha1="80b1c013fe2410a32594dd0a3f346ece84b5e2ef" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (Disc 2) (Track 01).bin" size="1058400" crc="3af5681d" md5="259c72431836405f6c5801985a13ec20" sha1="80bbb8eb1dfafb620fcef19603fabe8ac79b1ec8" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (Disc 2) (Track 02).raw" size="1735776" crc="0de03f29" md5="d09be539a7074a058159505b7f5fdcb3" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (Disc 2) (Track 03).bin" size="1185760800" crc="7848a44d" md5="8e2dc6343556f1cded03a726db18c836" sha1="a898f83694d534b2045497ea47296d2f0437e96a" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (Disc 2).gdi" size="363" crc="4fd0b3f6" md5="84e0604bd83560311c5ce27d436708b6" sha1="e1e53806868cc6874b2c5a2eff79177ea12e1997" status="none" />
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB)">
+		<description>Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB) (Disc 1) (Track 01).bin" size="1058400" crc="b39f5d0f" md5="feda6a2d8e16de5f36b8bc0768b16d07" sha1="8d8197b02bc4b6ae761448db3d4f36e9d4225936" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB) (Disc 1) (Track 02).raw" size="1735776" crc="0de03f29" md5="d09be539a7074a058159505b7f5fdcb3" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB) (Disc 1) (Track 03).bin" size="1185760800" crc="1d438704" md5="08c84da7ec70ce571bff3b4833c181a7" sha1="d8f45a92969b02ec1ea49663e80392c54dbfad5b" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB) (Disc 1).gdi" size="417" crc="63aeec57" md5="115f2d590945692a4a0b8d1a95ea710f" sha1="d1b6647fe80fe5c34687c2fbb743f8e748b5c703" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB) (Disc 2) (Track 01).bin" size="1058400" crc="3af5681d" md5="259c72431836405f6c5801985a13ec20" sha1="80bbb8eb1dfafb620fcef19603fabe8ac79b1ec8" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB) (Disc 2) (Track 02).raw" size="1735776" crc="0de03f29" md5="d09be539a7074a058159505b7f5fdcb3" sha1="db680939aae4bf61d0e588414c72a47c6dd92cdd" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB) (Disc 2) (Track 03).bin" size="1185760800" crc="3ac46df4" md5="6379dc114712717c6a36ebb08c4be7a2" sha1="c37301db8296fe655eeb289bf14c9331a4ea7552" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (v1.1) (First Person) (Pitito) (GDEMU Fix) (YZB) (Disc 2).gdi" size="417" crc="d06e8d2d" md5="4ccefa5c061ad96323ce6350c0d6d8be" sha1="44a243452c50197f77b981ea6562fc53528e89f8" status="none" />
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou)">
+		<description>Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 1) (Track 01).bin" size="705600" crc="a5b622ed" md5="22be220cc41a1d15923376251cd28388" sha1="c5646683cfee0d48b83ee02d0605025261281f9c" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 1) (Track 02).raw" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 1) (Track 03).bin" size="1185760800" crc="444ce8ed" md5="85de9fffd98eac1e3c5675a1015ab4f6" sha1="253fe3b06c1e84a140688902ee2c427f2c0562bc" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 1).gdi" size="324" crc="52a3df08" md5="f309b39e8ae0372038de959d0082f672" sha1="1f633a273f0bea41dcf4db95024573d2c55a29f1" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 2) (Track 01).bin" size="705600" crc="5916545f" md5="b74a3566a73c90c03dbe1acf13d759a4" sha1="652099e0b00fe3a9919ab228cb4a773e50ad8b01" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 2) (Track 02).raw" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 2) (Track 03).bin" size="1185760800" crc="75d12c47" md5="f602ef384c56bfe486f20c46af0f0e34" sha1="4ed07ba1ba651c2eb18043663e22035ba184532f" status="none" />
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 2).gdi" size="324" crc="0ec12c9b" md5="dc2d6dcae605b5fd6a1562eb956968ec" sha1="cfb6e2180c5b65e84ec041dcae420a669b38b720" status="none" />
+	</game>
+	<game name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger)">
+		<description>Resident Evil 2 - Special Edition (v1.0) (Green Ranger)</description>
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 1).bin" size="1679360" crc="661a1b6e" md5="36855f5d34261273f99655c40956864b" sha1="2401cbede2c35c1c9d577d4a957a13d5ab880833" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 2).raw" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 3).bin" size="630155264" crc="cafc098f" md5="4195c502db63ee096b00b1002d0df5c0" sha1="c0f851df9fb35fa10d81a12a45136e518d82b508" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 4).raw" size="1700496" crc="fa8a7709" md5="3bda221d3ec5954af8cdb56a75c8f0a1" sha1="94edd30b8580df02d6bcaf58660f5d840b37b834" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 5).raw" size="11230800" crc="ef8b2156" md5="d4ea49e23c64aff07e00bcfea649ee87" sha1="31e9f1d8f126bf4655ad95888026c49d4d9d8834" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon) (Track 6).bin" size="1206272" crc="2b0d6caf" md5="c9c2ef0417e0ba8da764e23ffa29d412" sha1="5464ba6c925487735387c07d77234d942fd85e9b" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 1 - Leon).gdi" size="636" crc="f21872ec" md5="9882deed081b11464f0c94c497b172e9" sha1="0f53e7802efb1aa742e286b302bca492e5016147" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 1).bin" size="1679360" crc="7d947396" md5="ab2efd44746ad72e6367042b7d656877" sha1="c571d1b393c2106178131c6781247d4e48223bfa" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 2).raw" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 3).bin" size="622596096" crc="154eb5a3" md5="5a13b9232123083faf41a56d04102a05" sha1="f15312bd81ad0b51c235591f35f2ebc3515b9224" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 4).raw" size="1700496" crc="fa8a7709" md5="3bda221d3ec5954af8cdb56a75c8f0a1" sha1="94edd30b8580df02d6bcaf58660f5d840b37b834" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 5).raw" size="11230800" crc="ef8b2156" md5="d4ea49e23c64aff07e00bcfea649ee87" sha1="31e9f1d8f126bf4655ad95888026c49d4d9d8834" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire) (Track 6).bin" size="1206272" crc="2b0d6caf" md5="c9c2ef0417e0ba8da764e23ffa29d412" sha1="5464ba6c925487735387c07d77234d942fd85e9b" />
+		<rom name="Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire)\Resident Evil 2 - Special Edition (v1.0) (Green Ranger) (Disc 2 - Claire).gdi" size="648" crc="ff245e66" md5="a822dc27764bf70a68b379ee32dfe4e5" sha1="e58631cec1e78f586dd79db526e46c8fe8fd4082" />
+	</game>
+	<game name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (RGR, Akella)">
+		<description>Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (RGR, Akella)</description>
+		<rom name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (RGR, Akella) (Track 1).bin" size="1073152" crc="9476f3d3" md5="6d7ae0c253bab90b174ea9da6fb805ed" sha1="d5c6f974b456504acff6b8a266095bd8f909dc0a" />
+		<rom name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (RGR, Akella) (Track 2).bin" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" />
+		<rom name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (RGR, Akella) (Track 3).bin" size="733214720" crc="ab6900a9" md5="49cbfb7016ce8ebd8473f33151483232" sha1="b64cb35e15608c83abdc2ea13d1d8f1045431e90" />
+		<rom name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (RGR, Akella).gdi" size="269" crc="6a48e3a5" md5="c8b171e400d2019cfca3546c83e5e73d" sha1="ef9180042b78adc939f99e46e7001edbedacdf0d" />
+	</game>
+	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1)" cloneof="Skies of Arcadia (USA)">
+		<description>Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1)</description>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1) (Track 01).bin" size="1470000" crc="6ECF7C94" md5="43EFD2AA4C7F3F449D38CF11588C78BB" sha1="EE320E22140B30F8B103AEA53306604A180A31AC"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1) (Track 02).raw" size="13994400" crc="15E73429" md5="D1838BCBCA4A24B39DEDDEAE2A9D371A" sha1="B643DF4DEF042B6C23F90F54C690AC7DF431233F"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1) (Track 03).bin" size="1032499200" crc="2651A685" md5="CEC9030B6F67F29649B9A166035F4569" sha1="DF2BB7207F5227AE66D13A84A4CD3BCB2361092B"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1).gdi" size="288" crc="D49AD578" md5="01921CB8A6CC68D9B267E827C6E150F9" sha1="4F9B701E4363F75013B07C37CD573106CC64A7C7"/>
+	</game>
+	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2)" cloneof="Skies of Arcadia (USA)">
+		<description>Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2)</description>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2) (Track 01).bin" size="1470000" crc="06905ECB" md5="D45AD8122E9A7BD4B7F631ECC525C218" sha1="0B9511801EFF58A2A4F2610D3AC46FD080DAC771"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2) (Track 02).raw" size="13994400" crc="15E73429" md5="D1838BCBCA4A24B39DEDDEAE2A9D371A" sha1="B643DF4DEF042B6C23F90F54C690AC7DF431233F"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2) (Track 03).bin" size="1032499200" crc="ABC78C36" md5="09390F3A6437EB028855E8DC4FE17094" sha1="BA02631A6C71D483BBA88E5286E6F7703B057D6E"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2).gdi" size="288" crc="4AB056B1" md5="D5BCE4832DB1BEA9D967CBFA4BD04838" sha1="76102A72A8C8FDC0A0CAE0547984E753CB7909BA"/>
+	</game>
+	<game name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (GDI)">
+		<description>Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (GDI)</description>
+		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (Track 01).bin" size="27530160" crc="df11613d" md5="ec30120742e71b5650d1dc16da3217af" sha1="fdf7ce6a69377a2c6e1a8e45059d815a0b6a2e44" />
+		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (Track 02).raw" size="2147376" crc="1620e4e8" md5="ef62e7c19496ecbef1d5c755e37a152b" sha1="e50b6b0c2adb2752bc2ee0f9fbe486d6b81099ce" />
+		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype) (Track 03).bin" size="1185760800" crc="b75aab61" md5="9702319e97135bef28e3f0019d261798" sha1="18de6a9a5ae499992139ac27366f184969006856" />
+		<rom name="Sonic Adventure Tournament Disk (1999-08-10) (Prototype).gdi" size="273" crc="cc56e94a" md5="970a80e8b6f892e6fa6e89557663bf01" sha1="4b1d67020ec949e427b4ebcbb388049e25042cec" />
+	</game>
+	<game name="Ultimate Doom, The (World) (Aftermarket) (Unl)">
+		<description>Ultimate Doom, The (World) (Aftermarket) (Unl)</description>
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) (Track 1).iso" size="3502080" crc="ef628029" md5="a893e2da8d204868c47f50f478c739c6" sha1="11f90d50cb2eda5b265bd68a809f64d191bb23f2" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) (Track 2).raw" size="13994400" crc="dc7ae092" md5="241e19efc852c90503e4ab868d6c1ed8" sha1="cf07057d6aa2193b159fbf796d9168a598f16fea" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl) (Track 3).bin" size="1185760800" crc="d366f290" md5="35e1eb789ed5c1179e7a808d9c66b8ad" sha1="21b80498f930dd224d5c170cb5bd1d494b7cd026" />
+		<rom name="Ultimate Doom, The (World) (Aftermarket) (Unl).gdi" size="241" crc="87950c52" md5="6eb3193982779c77c3f9887a85874dcc" sha1="c0e04b3a66fdda998c74e24b0fef4fb7fad38ab4" />
+	</game>
+	<game name="Worms Pinball (USA) (Prototype) (2000-09-19)">
+		<description>Worms Pinball (USA) (Prototype) (2000-09-19)</description>
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 01).bin" size="1425312" crc="3fbde500" md5="0beb6c60bdd89523d5919f3a0c901e01" sha1="06c7c016c09f6afd7a7569dcd989167b81b4da13" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 02).raw" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 03).bin" size="473401152" crc="282f0a08" md5="2065c7c685886a2df0a9098843ecb9fd" sha1="09607eed046e67f8f4645d59a99b15e33f8a40dc" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 04).raw" size="58113216" crc="21cf11e7" md5="d066e9ca22a72dc726f72014a102b6e8" sha1="b4f5b9ace59fa8d4d1e8e9b2e51472220ead2a51" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 05).raw" size="26107200" crc="684ed7b2" md5="a50b41dd414346642ef42ae7dbbe7527" sha1="50301f64add7779d98c96bce0973298cce8d120d" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 06).raw" size="25048800" crc="69c82100" md5="15059fef333f9e0c9a8166411591cd92" sha1="f0f9cbe31314212be5fc742029f2e955f1f37632" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 07).raw" size="4410000" crc="4d7fd42d" md5="657f71366ea6980a5a7030602b133d86" sha1="a906ff6a5508bdb07b52c0f752c0e8151ef8d2dd" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 08).raw" size="21873600" crc="24b92bb1" md5="67d104b717539324e6dca0cdec7a6eae" sha1="1f7082c7019c0710348a04d6fc69ebb1b7871043" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 09).raw" size="4939200" crc="9b68ec1c" md5="5d5935bb37b65c6cc39ca157bbad334d" sha1="93dd0a04821fda1dd78b5fa146a9dd2922c8dc77" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 10).raw" size="10760400" crc="fb576ada" md5="89cb8ae0717e9f2bd09a6b94eaa39195" sha1="d5ded593ded3a298bc181e1e9f1fdf341a368ec9" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 11).raw" size="11818800" crc="d3f4a798" md5="cde55f9eab55d27a78415c8009c1b483" sha1="59c459c790c30387dd0f35c0f36be44558d1bb5f" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 12).raw" size="11818800" crc="4823767f" md5="d1628d6f1006e4864dbfd8904c14574c" sha1="2bdea5e6160e3895cf5f50504d6e6751fe426f67" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 13).raw" size="1764000" crc="4f5e9d44" md5="6eb0d318b06dfb4bd0cc4c3084a3acda" sha1="68af156b06ecc88e7d74a9992325ee4d866b8051" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 14).raw" size="21873600" crc="2e29c252" md5="8a09f7976e4f6062be4e33b451fe18fc" sha1="3ae71b475db8017dc5c6fb74e6eed5484427799f" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 15).raw" size="6703200" crc="8b08b031" md5="0d78e6a692a8ca28be9407ff7b0b077b" sha1="fbaff73fb388bca325efcbbeea7297373d1564fb" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 16).raw" size="32986800" crc="a6ea9ca9" md5="a7d0ddaf0ca947b0c3d71d0f76b995ae" sha1="75a9d9a9aa9a94255f10328ade9d63c1a6a8a618" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 17).raw" size="10407600" crc="3070ea39" md5="ad66fe4d50a37aa96f1f6d5b82b3f1a4" sha1="d37f97abbe4656919f73714ce5af0440722d365c" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 18).raw" size="21873600" crc="f26b2244" md5="696275fb14f25d7833f76955d6c02275" sha1="2cf18a24600088a1696cf78854d432c0271653ff" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 19).raw" size="12524400" crc="b3269097" md5="c12da4f635541d0418e5815e22202207" sha1="d11f8e745af3ac02adc1437af12162471fb84084" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 20).raw" size="25225200" crc="0b910166" md5="31219c4aad5cff7fbf14ae35d51ec29d" sha1="f686d4f7de01719c629abfd5a4a6f30ef1bd6c26" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 21).raw" size="8114400" crc="346f61fb" md5="fcf84b25652a9a3d989bbc6ed76ad5f7" sha1="93150742460c6d00454a7957380669e650b63251" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 22).raw" size="11642400" crc="51ef07a0" md5="7dad93a974d515d4077bbc542ec4e537" sha1="f01c63b95b99ec6955084a8143c851b6c8ce0519" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 23).raw" size="11466000" crc="50f25a1c" md5="e4ee4bc98904b232626f96514a60fc51" sha1="a59bc4eda9766ed152026c925b2f8bbc5436b331" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 24).raw" size="11466000" crc="5c3aacd2" md5="8b08a93e25356b31fb32f9664275fe2b" sha1="b96a9f5ac0a33021b98580bce5739bf6478e2472" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 25).raw" size="14817600" crc="033b6dd3" md5="3652bda4093b86fec42e1f73ec43ab9f" sha1="12d46ea76d7459aa768c5be5b4c7b04918fbf896" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 26).raw" size="12171600" crc="8238564d" md5="65cc590db1ac5900723179c96063e294" sha1="cb7123b6e70200b3527cb493cd1d7326f6a480a4" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 27).raw" size="22755600" crc="afe5343a" md5="d87d1d72973a1a50f43cce15f8b899fc" sha1="980302b026bf1cb77af04ca86419098761404a30" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 28).raw" size="11642400" crc="8d147218" md5="c6b0bbaa54f123d4d6f562dc3d3155df" sha1="e579a96fef55bce6bc6319914463466016da8a13" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 29).raw" size="22755600" crc="940dec66" md5="62841f88b100a917d6a60cc6588971bb" sha1="9141d2ed8430909885d8bebe8a3f899355f6a259" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 30).raw" size="23814000" crc="0edc475c" md5="18422982cb2c2060f62e2dd5dfa5a434" sha1="377c4d6bea397feaec114fed05801e41e11586bc" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 31).raw" size="12171600" crc="e9c30824" md5="6b57c98611e0d029a61bbbd7e8b7b13c" sha1="89cf6d0bda20b1dfde6322664d623b13d797d32c" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 32).raw" size="4586400" crc="967c9a20" md5="1e74859695dc76dcbebd434c7d98cd2a" sha1="89a9ec6aa046946b89ccf0b5bc7792179af8511a" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 33).raw" size="20991600" crc="08a7b3fa" md5="9f7f0390e41ec39194bb8f20e64eba24" sha1="79a87e87e542cde5405d95ad92db8923637d8537" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 34).raw" size="22932000" crc="8937c5ed" md5="2294bf83f0d7dd65c7f0889f163ff303" sha1="2ec30d60a2f6e09e6df19a16352d4488491e438a" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 35).raw" size="17110800" crc="17d07c20" md5="59da5970e8bff6e655a0051f3abc03de" sha1="ba5f784df01796024d7eb373f248ee84479f7ee5" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 36).raw" size="11289600" crc="f8c8afd9" md5="c6741e8a50503b3235dc81b8073b079d" sha1="80df147d3fdaf87f83fd51243c1041d606a06001" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 37).raw" size="22050000" crc="26bfdfb7" md5="c04bb02e9db1b96761e6ba9b04f78484" sha1="4648e1a51aac7bd26637524b0021d0213ac76ad9" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 38).raw" size="11995200" crc="ea431dfe" md5="2cb26cf8a1e7c127a0aefe9da8b71d01" sha1="af66b3c6e1b2e73b07d162ce9edcff351d09ae29" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 39).raw" size="22226400" crc="a9eec31a" md5="760f3ef5c7f27d9fe88ae6f5a067356a" sha1="8890fd751f0dae355e85f222846b9d75644cfa9f" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 40).raw" size="4586400" crc="51bd7a4a" md5="b3b623d79c85d41956224ec337ec0c8f" sha1="7162556b421fab1904aba23b19c26b3a28cbad29" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 41).raw" size="11642400" crc="e8805fae" md5="a3407a7213b4b875a4f6c073dba5a3be" sha1="8e6b64afcfcb50cfb60fb59ccc0ddfa586ec66eb" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 42).raw" size="5115600" crc="3f386770" md5="2f2a084a61bc2fa89b0928f497bba0ef" sha1="a7ca4ae147ba59aa909a807ccf78dc81f1b0fd20" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19) (Track 43).bin" size="86062032" crc="17a9a6b5" md5="63b8b4a03cd0786b50b116afc1339f7b" sha1="941cef7cd1df87297d4a0ad6ca0749fc751f27e7" status="none" />
+		<rom name="Worms Pinball (USA) (Prototype) (2000-09-19).gdi" size="3510" crc="9417db81" md5="f611cef0a9eb0abec2894d8254e356c6" sha1="23382e54f087f18324b17fd22c11566b9ae02aa4" status="none" />
+	</game>
+</datafile>

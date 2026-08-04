@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<id>041</id>
+		<name>041 - Lost Level Archive - Sony - PlayStation Portable (ISO)</name>
+		<description>Sony - PlayStation Portable (ISO)</description>
+		<version>v20260804</version>
+		<author>televandalist</author>
+		<homepage>Lost Level Archive</homepage>
+		<url>https://www.github.com/televandalist/lost-level-archive</url>
+	</header>
+	<game name="4 Hours of Watching Paint Dry (World) (v0.1) (Aftermarket) (sungrandstudios)">
+		<description>4 Hours of Watching Paint Dry (World) (v0.1) (Aftermarket) (sungrandstudios)</description>
+		<rom name="4 Hours of Watching Paint Dry (World) (v0.1) (Aftermarket) (sungrandstudios).iso" size="118751232" crc="1b24cff8" md5="acc1d2366c247fbcb8731968dd35ede1" sha1="847efad36cef77eb7185f736457eaf1ca36af934" status="none" />
+	</game>
+	<game name="7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax)">
+		<description>7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax)</description>
+		<rom name="7th Dragon 2020 (Japan) (En) (v0.93) (Pokeytax).iso" size="1585754112" crc="7b9f510e" md5="e1c69d7442cb17b7874281a22fc1d9e4" sha1="a76a6ccef253a81573659126ce746fa3d6af99a7" />
+	</game>
+	<game name="7th Dragon 2020-II (Japan) (En) (v0.91) (Pokeytax)">
+		<description>7th Dragon 2020-II (Japan) (En) (v0.91) (Pokeytax)</description>
+		<rom name="7th Dragon 2020-II (Japan) (En) (v0.91) (Pokeytax).iso" size="1324140544" crc="e557d67e" md5="5236bd6e09ee30a485b94847dd67f216" sha1="3214af68854f4caf54acc49d90ed38bf64f03caf" status="none" />
+	</game>
+	<game name="Bakemonogatari Portable (Japan) (En) (v1.0) (Anime Game Translations Team)">
+		<description>Bakemonogatari Portable (Japan) (En) (v1.0) (Anime Game Translations Team)</description>
+		<rom name="Bakemonogatari Portable (Japan) (En) (v1.0) (Anime Game Translations Team).iso" size="1476192256" crc="8354cf89" md5="14db117c27d84bda9f12bad978517ac7" sha1="6bbae0b71f68ba77496dd3e5bf659a561a69c5ca" />
+	</game>
+	<game name="Binding of Isaac, The - Rebirth (Demake) (v0.2.0.4) (Yerson Games)">
+		<description>Binding of Isaac, The - Rebirth (Demake) (v0.2.0.4) (Yerson Games)</description>
+		<rom name="Binding of Isaac, The - Rebirth (Demake) (v0.2.0.4) (Yerson Games).iso" size="129433600" crc="49002cc0" md5="0ea4e9b722fcd52faa4a3cd64f0d999b" sha1="9044afbd63430c8ccfab34027619796f46b77fe9" />
+	</game>
+	<game name="BirdLife (v0.2) (bu-nyan)">
+		<description>BirdLife (v0.2) (bu-nyan)</description>
+		<rom name="BirdLife (v0.2) (bu-nyan).iso" size="548864" crc="b3158c7e" md5="3d167ea7f2dc08e90bf9199a8efc164e" sha1="522acf2b69cb0e2cdcf5048f5a5e99070f6eace1" />
+	</game>
+	<game name="Dance of Fire and Ice, A (v0.1.0) (Yerson Games)">
+		<description>Dance of Fire and Ice, A (v0.1.0) (Yerson Games)</description>
+		<rom name="Dance of Fire and Ice, A (World) (v0.1.0) (Yerson Games).iso" size="116097024" crc="809a7212" md5="98eae2d33b5e631df5192df659648a9f" sha1="3e0e14fb81c2939176dee645ff3f8777da329fc3" />
+	</game>
+	<game name="Danganronpa - Kibou no Gakuen to Zetsubou no Koukousi (Japan) (En) (v1.0) (Project Zetsubou)">
+		<description>Danganronpa - Kibou no Gakuen to Zetsubou no Koukousi (Japan) (En) (v1.0) (Project Zetsubou)</description>
+		<rom name="Danganronpa - Kibou no Gakuen to Zetsubou no Koukousi (Japan) (En) (v1.0) (Project Zetsubou).iso" size="1333657600" crc="bd75601f" md5="988145032f6aa6a3511503304e39af68" sha1="41c9fc7df729e1f995765c2175306346a0a11f3c" />
+	</game>
+	<game name="Danganronpa - Kibou no Gakuen to Zetsubou no Koukousi (Japan) (Ru) (v1.0) (Monokuma_project)">
+		<description>Danganronpa - Kibou no Gakuen to Zetsubou no Koukousi (Japan) (Ru) (v1.0) (Monokuma_project)</description>
+		<rom name="Danganronpa - Kibou no Gakuen to Zetsubou no Koukousi (Japan) (Ru) (v1.0) (Monokuma_project).iso" size="1179793408" crc="04f59715" md5="5ee57e380bd0648030a660ac559fedc1" sha1="639618f76dba33a847831dc10e0d430d64fc07e1" status="none" />
+	</game>
+	<game name="Dino Run PSP (v20230628) (@PSP_DEVELOPER)">
+		<description>Dino Run PSP (v20230628) (@PSP_DEVELOPER)</description>
+		<rom name="Dino Run PSP (World) (v20230628) (Aftermarket) (Unl).iso" size="114491392" crc="cc461711" md5="38d3e71d9497f05e5024cb54175bc7c8" sha1="9cff436740fc869e0999d53aca0fe6df84048509" />
+	</game>
+	<game name="Duke Nukem - Critical Mass (Prototype) (v20100730)">
+		<description>Duke Nukem - Critical Mass (Prototype) (v20100730)</description>
+		<rom name="Duke Nukem - Critical Mass (Prototype) (v20100730).iso" size="442066944" crc="f7bf28d7" md5="ee5b3736806ec07c2441a45c617cc902" sha1="4d36b7f68fb165c77bba66e29982f38089147f4a" status="none" />
+	</game>
+	<game name="Fate Extra CCC (Japan) (En) (v1.0) (iwakura productions)">
+		<description>Fate Extra CCC (Japan) (En) (v1.0) (iwakura productions)</description>
+		<rom name="Fate Extra CCC (Japan) (En) (v1.0) (iwakura productions).iso" size="1512136704" crc="a5042e68" md5="6d8dd10e5e43db42635b1a44bb05629e" sha1="e2dcbc423ff939297a6a9ccb159cbb6ccaefb88c" />
+	</game>
+	<game name="Fate-Extra (USA) (Perfect Patch Plus) (iwakura productions)">
+		<description>Fate-Extra (USA) (Perfect Patch Plus) (iwakura productions)</description>
+		<rom name="Fate-Extra (USA) (Perfect Patch Plus) (iwakura productions).iso" size="1695901696" crc="5ef4c8dc" md5="68df2761b842f6ebdfaef5f5ab6ac5b9" sha1="cc62f5d6c6a4a772f9b2adb5ed712eb61fcd4863" />
+	</game>
+	<game name="Final Fantasy Type-0 (Japan) (En) (v2.0) (SkyBladeCloud)">
+		<description>Final Fantasy Type-0 (Japan) (En) (v2.0) (SkyBladeCloud)</description>
+		<rom name="Final Fantasy Type-0 (Japan) (En) (v2.0) (SkyBladeCloud).iso" size="3158902784" crc="bcf60901" md5="486b1d3f217567a0978e25a8a053bb2b" sha1="f49805aa59dcd824598b6e8506922c9c1dee1c91" />
+	</game>
+	<game name="Five Nights At Freddy's 2 (v3.5) (AlexDev2)">
+		<description>Five Nights At Freddy's 2 (v3.5) (AlexDev2)</description>
+		<rom name="Five Nights At Freddy's 2 (v3.5) (AlexDev2).iso" size="131530752" crc="a0d8b550" md5="ab1fc0867e3e5ae000f0293ff09a2100" sha1="5212f331073473a10624a8348c1b751da534a83f" />
+	</game>
+	<game name="Five Nights At Freddy's 3 (v0.4.0) (AlexDev2)">
+		<description>Five Nights At Freddy's 3 (v0.4.0) (AlexDev2)</description>
+		<rom name="Five Nights At Freddy's 3 (v0.4.0) (AlexDev2).iso" size="131039232" crc="9c9ae82a" md5="72aabd947d9edae5481ecf4c6704a785" sha1="55788a36ce5c39a47a187941068959411bfda751" />
+	</game>
+	<game name="Five Nights At Freddy's 4 (v0.3.2) (AlexDev2)">
+		<description>Five Nights At Freddy's 4 (v0.3.2) (AlexDev2)</description>
+		<rom name="Five Nights At Freddy's 4 (v0.3.2) (AlexDev2).iso" size="123863040" crc="68e775ca" md5="17a469eec1cce1a27a7a37fb16bda813" sha1="e11b5cecbb6a5fd9e49b666a484be836bd68c899" />
+	</game>
+	<game name="Fruit Ninja (v2023) (yokaai)">
+		<description>Fruit Ninja (v2023) (yokaai)</description>
+		<rom name="Fruit Ninja (v2023) (yokaai).iso" size="116080640" crc="a953c2ac" md5="b3153c0fe0604941211151dcb472e66c" sha1="20a552589ce13652539e0f3dc3294b4c224142af" />
+	</game>
+	<game name="Gensou Suikoden - Tsumugareshi Hyakunen no Toki (Japan) (En) (v1.0.2) (Twisted Phoenix)">
+		<description>Gensou Suikoden - Tsumugareshi Hyakunen no Toki (Japan) (En) (v1.0.2) (Twisted Phoenix)</description>
+		<rom name="Gensou Suikoden - Tsumugareshi Hyakunen no Toki (Japan) (En) (v1.0.2) (Twisted Phoenix).iso" size="881451008" crc="353ffae9" md5="86ae9f12a9960e9a10503448488a08ad" sha1="601f35dcf5f68ac7697654c8143a6f558ab9c86b" />
+	</game>
+	<game name="Geometry Dash (v1.0.1) (Yerson Games)">
+		<description>Geometry Dash (v1.0.1) (Yerson Games)</description>
+		<rom name="Geometry Dash (v1.0.1) (Yerson Games).iso" size="122607616" crc="7717896c" md5="6d07d9fd5a99ac82289a4ec4fbab12aa" sha1="d23ac84a46fd40c21e6bc9e64e911e0b8d72aa6f" />
+	</game>
+	<game name="God Eater Burst (Japan) (En) (v3.1) (Yamato Nagasaki)">
+		<description>God Eater Burst (Japan) (En) (v3.1) (Yamato Nagasaki)</description>
+		<rom name="God Eater Burst (Japan) (En) (v3.1) (Yamato Nagasaki).iso" size="1332195328" crc="fbd27740" md5="89cce80b758221779f5568020dbf6b78" sha1="ac7f3a06862bc1600c7fd7cd1a1b249fce4c2db9" status="none" />
+	</game>
+	<game name="Golden Guy in a Dungeon (World) (Aftermarket) (JabuPL)">
+		<description>Golden Guy in a Dungeon (World) (Aftermarket) (JabuPL)</description>
+		<rom name="Golden Guy in a Dungeon (World) (Aftermarket) (JabuPL).iso" size="2908160" crc="e590fb89" md5="b5f6348b86b1571f9fa81779a7872c42" sha1="860bb016377e074ea5937037c3838d5172ca10d7" status="none" />
+	</game>
+	<game name="Golfing Over It (v1.2) (yokaai)">
+		<description>Golfing Over It (v1.2) (yokaai)</description>
+		<rom name="Golfing Over It (v1.2) (yokaai).iso" size="118904832" crc="06f4cd42" md5="22c53cacd49f8fd0d465367b6c3ba557" sha1="e6bc2cd8c5ff2ba6e5e68f96f33680d687d30b4a" />
+	</game>
+	<game name="Grand Theft Auto - LCS - Sindacco Chronicles (En) (v2.0) (Barcode Studia)">
+		<description>Grand Theft Auto - LCS - Sindacco Chronicles (En) (v2.0) (Barcode Studia)</description>
+		<rom name="Grand Theft Auto - LCS - Sindacco Chronicles (En) (v2.0) (Barcode Studia).iso" size="892393472" crc="907f9b8e" md5="58040323462e9798167a2e3276d33667" sha1="67bb6616fd9c235db25a753b3da85b9aaef3c01a" />
+	</game>
+	<game name="Grand Theft Auto - LCS - Seen in Liberty City (En) (v1.0) (Barcode Studia)">
+		<description>Grand Theft Auto - LCS - Seen in Liberty City (En) (v1.0) (Barcode Studia)</description>
+		<rom name="Grand Theft Auto - LCS - Seen in Liberty City (En) (v1.0) (Barcode Studia).iso" size="698978304" crc="5d0b2ca1" md5="07c2c42512ff5ce1f1b020db5ed2e81e" sha1="3d48f12c9bbe2076af0c9213fc4ce2b246ae39ba" status="none" />
+	</game>
+	<game name="Heart (World) (v2023) (Aftermarket) (yokaai)">
+		<description>Heart (World) (v2023) (Aftermarket) (yokaai)</description>
+		<rom name="Heart (World) (v2023) (Aftermarket) (yokaai).iso" size="112777216" crc="228043eb" md5="283c07571af35401d9196beae5e819b2" sha1="a2512e2a122d461c7de794da5b3237aa0d0e8116" status="none" />
+	</game>
+	<game name="Jeanne d'Arc (USA) (Es) (v1.0) (Artema Translations)">
+		<description>Jeanne d'Arc (USA) (Es) (v1.0) (Artema Translations)</description>
+		<rom name="Jeanne d'Arc (USA) (Es) (v1.0) (Artema Translations).iso" size="1042561024" crc="8c66f6cc" md5="e7edf9c6d54714d15ba6e85e0df0aa01" sha1="d5260fef196527cb7c26dd9cf1ebc1ea97790b55" />
+	</game>
+	<game name="Jeanne d'Arc (USA) (Ru) (v0.3) (Unknown)">
+		<description>Jeanne d'Arc (USA) (Ru) (v0.3) (Unknown)</description>
+		<rom name="Jeanne d'Arc (USA) (Ru) (v0.3) (Unknown).iso" size="1247401984" crc="dc0219fb" md5="bb3d2603d6ab91ef96f9619eef0d111d" sha1="0c338ca9050fd8acb56f1daacfc17e3057fcb892" />
+	</game>
+	<game name="Kingdom Hearts - Birth by Sleep - Final Mix (Japan) (En) (v1.0.12) (Truthkey)">
+		<description>Kingdom Hearts - Birth by Sleep - Final Mix (Japan) (En) (v1.0.12) (Truthkey)</description>
+		<rom name="Kingdom Hearts - Birth by Sleep - Final Mix (Japan) (En) (v1.0.12) (Truthkey).iso" size="1671329792" crc="5d10b30a" md5="01ddc23924854c3ef733a0d6a0f04349" sha1="01240b99b5b8104299ad6f210cb49abaa385bf02" />
+	</game>
+	<game name="Left 4 Dead 2 2D (v0.2.0) (AlexDev2)">
+		<description>Left 4 Dead 2 2D (v0.2.0) (AlexDev2)</description>
+		<rom name="Left 4 Dead 2 2D (v0.2.0) (AlexDev2).iso" size="119373824" crc="20334154" md5="7db5563df93e2e32653a204a29071810" sha1="da9466d242d5b2bb8d5a19692df2a63a10ff725d" />
+	</game>
+	<game name="Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE)">
+		<description>Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE)</description>
+		<rom name="Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE).iso" size="1323565056" crc="80874121" md5="44761df383bd7e23c43911da0d82020a" sha1="7bdf4f925f72ae2822a161882af1b543fc218128" status="none" />
+	</game>
+	<game name="Not Trust! (World) (v2022) (Aftermarket) (VitaCreatorDeveloper)">
+		<description>Not Trust! (World) (v2022) (Aftermarket) (VitaCreatorDeveloper)</description>
+		<rom name="Not Trust! (World) (v2022) (Aftermarket) (VitaCreatorDeveloper).iso" size="131072000" crc="565cb88d" md5="41d7c67a299c3fefd174a460f8ec9e33" sha1="2d618addc37338c47eb2f1121f0edd7329161d09" status="none" />
+	</game>
+	<game name="nothing.seriOS (v2020) (Plaguelabs)">
+		<description>nothing.seriOS (v2020) (Plaguelabs)</description>
+		<rom name="nothing.seriOS (v2020) (Plaguelabs).iso" size="128188416" crc="60bdc312" md5="1c8187a1b6fbe8407dc7135a52462e16" sha1="65761d1694a174db8b4805a2248459ee282410a2" />
+	</game>
+	<game name="Phantasy Star Portable 2 Infinity (Japan) (En) (v2.0) (Weyu)">
+		<description>Phantasy Star Portable 2 Infinity (Japan) (En) (v2.0) (Weyu)</description>
+		<rom name="Phantasy Star Portable 2 Infinity (Japan) (En) (v2.0) (Weyu).iso" size="1735034880" crc="8d39476e" md5="1253deaef30ed3de86e0de38f950b52d" sha1="26897ed153eed3dd42d270ccbc73bc452a4ba83f" />
+	</game>
+	<game name="Plants vs. Zombies (World) (Demo) (v0.7.0) (AlexDev2)">
+		<description>Plants vs. Zombies (World) (Demo) (v0.7.0) (AlexDev2)</description>
+		<rom name="Plants vs. Zombies (World) (Demo) (v0.7.0) (AlexDev2).iso" size="143949824" crc="d7e43c8f" md5="05b4e96e082a3608da5ba6eefec42e1a" sha1="8d4dff527a4f2b33be2c350cf6a57eedaa641b35" status="none" />
+	</game>
+	<game name="Plants vs. Zombies (World) (v1.0) (Aftermarket) (AlexDev2)">
+		<description>Plants vs. Zombies (World) (v1.0) (Aftermarket) (AlexDev2)</description>
+		<rom name="Plants vs. Zombies (World) (v1.0) (Aftermarket) (AlexDev2).iso" size="145260544" crc="eb785fa8" md5="347d47ad2bad86d5e4b8013b514b94fe" sha1="5af795390c6f13976676b7695f7078b6aafdd4b3" status="none" />
+	</game>
+	<game name="Run and Win (World) (itch.io) (Aftermarket) (Player Studio27)">
+		<description>Run and Win (World) (itch.io) (Aftermarket) (Player Studio27)</description>
+		<rom name="Run and Win (World) (itch.io) (Aftermarket) (Player Studio27).iso" size="110526464" crc="af2d2335" md5="f81a2860ccb27f37ff693ca866657ff9" sha1="0bb6bb99215b1ab760c0836e07d2f051fa6c78f6" status="none" />
+	</game>
+	<game name="SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95)">
+		<description>SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95)</description>
+		<rom name="SD Gundam GGeneration Overworld (Japan) (En) (v1.1) (Izzul95).iso" size="2095632384" crc="7e662ae7" md5="cfc229a78b1afbfc935e9769ccd8a062" sha1="a1040bc899cdd552ced158e2a12e112693cbde57" />
+	</game>
+	<game name="Senjou no Valkyria 3 E2 - Extra Edition (Japan) (En) (v2.0) (VC3TP)">
+		<description>Senjou no Valkyria 3 E2 - Extra Edition (Japan) (En) (v2.0) (VC3TP)</description>
+		<rom name="Senjou no Valkyria 3 E2 - Extra Edition (Japan) (En) (v2.0) (VC3TP).iso" size="1771300864" crc="190394de" md5="dd0e198cb5414fc11601f20bec1f48fa" sha1="1a69eec680c186efdb0225e27302aaa1104a0ee3" status="none" />
+	</game>
+	<game name="Shovel Knight Portable (v0.2.0) (Yerson Games)">
+		<description>Shovel Knight Portable (v0.2.0) (Yerson Games)</description>
+		<rom name="Shovel Knight Portable (v0.2.0) (Yerson Games).iso" size="144670720" crc="be61dfb3" md5="a972b004c9a3ec699e2dacb39134cf5f" sha1="0004feedac327dc8ae84cc113ff003458e765961" />
+	</game>
+	<game name="Slendytubbies 2D (World) (v0.04.1) (Aftermarket) (AlexDev, PepsiDev)">
+		<description>Slendytubbies 2D (World) (v0.04.1) (Aftermarket) (AlexDev, PepsiDev)</description>
+		<rom name="Slendytubbies 2D (World) (v0.04.1) (Aftermarket) (AlexDev, PepsiDev).iso" size="121077760" crc="28218cfb" md5="11c95f5f39ca0941a9bfc5f9301d9ccd" sha1="3582af27eb31e533021d88c48bd9c0ee63ae2dbd" status="none" />
+	</game>
+	<game name="Star Ocean - First Departure (USA) (Undub) (v1.0) (Unknown)">
+		<description>Star Ocean - First Departure (USA) (Undub) (v1.0) (Unknown)</description>
+		<rom name="Star Ocean - First Departure (USA) (Undub) (v1.0) (Unknown).iso" size="1088411648" crc="1a8249c3" md5="5e7721acb67a5f7e53739f13e97e5d73" sha1="ef754240eab0088bb37e98be76facea4995470a4" />
+	</game>
+	<game name="Star Ocean - Second Evolution (USA) (Undub) (v1.0) (Unknown)">
+		<description>Star Ocean - Second Evolution (USA) (Undub) (v1.0) (Unknown)</description>
+		<rom name="Star Ocean - Second Evolution (USA) (Undub) (v1.0) (Unknown).iso" size="1440065536" crc="35546ecb" md5="72aac653b89ec5a9cc1e98ab14a7d8d7" sha1="40de1cc0d062ba2c2ae57e85f00cfcea5fd72840" />
+	</game>
+	<game name="Steins;Gate (Japan) (En) (v1.0.1) (HaselLoyance)">
+		<description>Steins;Gate (Japan) (En) (v1.0.1) (HaselLoyance)</description>
+		<rom name="Steins;Gate (Japan) (En) (v1.0.1) (HaselLoyance).iso" size="1236094976" crc="b2115b51" md5="1ba7713d1b6ce72481ce79fe6984febf" sha1="d5268675127e5204d6143275c6722491cfdcb122" />
+	</game>
+	<game name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (En) (v0.5a) (The Porting Dude)">
+		<description>Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (En) (v0.5a) (The Porting Dude)</description>
+		<rom name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (En) (v0.5a) (The Porting Dude).iso" size="2187098112" crc="21c338dc" md5="605af2519219b14f28380a7639ff4243" sha1="6873007da56e9ad15f6cf91b0cba960c9c47238f" />
+	</game>
+	<game name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe)">
+		<description>Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe)</description>
+		<rom name="Super Danganronpa 2 - Sayonara Zetsubou Gakuen (Japan) (Ru) (v4f2) (Horagema.exe).iso" size="1528348672" crc="d3a41107" md5="a9b05920ff96e0db61267463d75bbe65" sha1="57e843ee3c3636296fc4fb4bbc9557255d555ae3" status="none" />
+	</game>
+	<game name="Super Luigi Fighter (v2.0) (luigi2498)">
+		<description>Super Luigi Fighter (v2.0) (luigi2498)</description>
+		<rom name="Super Luigi Fighter (v2.0) (luigi2498).iso" size="142639104" crc="706eef7a" md5="472a62a438dd5cfff0f220e5c929f101" sha1="b6fe04b4575a87790c2190785684ba543879314d" />
+	</game>
+	<game name="Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown)">
+		<description>Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown)</description>
+		<rom name="Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown).iso" size="1421625344" crc="b970d94a" md5="9dac8d8ba26ed5cbdaed6d7de536454a" sha1="0864df6ed04b30492511d0c4fcfbca0f8e3d6ef2" />
+	</game>
+	<game name="Tomb Raider - 10th Anniversary Edition (USA) (Prototype) (v2.0)">
+		<description>Tomb Raider - 10th Anniversary Edition (USA) (Prototype) (v2.0)</description>
+		<rom name="Tomb Raider - 10th Anniversary Edition (USA) (Prototype) (v2.0).iso" size="335388672" crc="7f0c9005" md5="ba7ef5d596b970b31c5ad81fffa66366" sha1="9952d1a2d0147fa55cc72ade6a3bdc19429d6c93" status="none" />
+	</game>
+	<game name="Valkyria Chronicles II (USA) (Ru) (Unknown)">
+		<description>Valkyria Chronicles II (USA) (Ru) (Unknown)</description>
+		<rom name="Valkyria Chronicles II (USA) (Ru) (Unknown).iso" size="1085827072" crc="b6ca8358" md5="caf27893d19a265a2b401c7f5f3d704c" sha1="eae7bf2dc51aaa5a0ed4eda231cfea40b81cf201" />
+	</game>
+	<game name="Valkyria Chronicles 2 (USA) (Undub)">
+		<description>Valkyria Chronicles 2 (USA) (Undub)</description>
+		<rom name="Valkyria Chronicles 2 (USA) (Undub).iso" size="1028814848" crc="3c6e1b95" md5="38c986832f630fa158952b5a0e8d97e2" sha1="85ac3da0a9ada2e942adcb84b3f0ff4dc9616f1b" />
+	</game>
+	<game name="Ys vs. Sora no Kiseki - Alternative Saga (Japan) (En) (v1.0) (The GeoFront)">
+		<description>Ys vs. Sora no Kiseki - Alternative Saga (Japan) (En) (v1.0) (The GeoFront)</description>
+		<rom name="Ys vs. Sora no Kiseki - Alternative Saga (Japan) (En) (v1.0) (The GeoFront).iso" size="1105534976" crc="dbac52ee" md5="522eb7e20823ee01cbec697c575afcb8" sha1="be4b1b36703e23943042c74a3c1d1dbedbe8f605" status="none" />
+	</game>
+	<game name="Zettai Zetsumei Toshi 3 - Kowareyuku Machi to Kanojo no Uta (Japan) (En) (v1.1) (Geo-City Productions)">
+		<description>Zettai Zetsumei Toshi 3 - Kowareyuku Machi to Kanojo no Uta (Japan) (En) (v1.1) (Geo-City Productions)</description>
+		<rom name="Zettai Zetsumei Toshi 3 - Kowareyuku Machi to Kanojo no Uta (Japan) (En) (v1.1) (Geo-City Productions).iso" size="1970440192" crc="ff857bcb" md5="54b4959f40c34e97f1c6112680a3deac" sha1="b73544efd686021cd55ff0a895c916fd7ee82bdc" />
+	</game>
+</datafile>
