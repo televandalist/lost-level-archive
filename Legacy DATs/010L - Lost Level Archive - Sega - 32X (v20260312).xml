@@ -2,8 +2,8 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<id>010l</id>
-		<name>010l - Lost Level Archive - Sega - 32X (Legacy)</name>
+		<id>010L</id>
+		<name>010L - Lost Level Archive - Sega - 32X (Legacy)</name>
 		<description>Sega - 32X (Legacy)</description>
 		<version>v20260312</version>
 		<author>televandalist</author>

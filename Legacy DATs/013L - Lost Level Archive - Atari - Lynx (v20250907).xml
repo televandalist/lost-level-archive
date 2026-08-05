@@ -2,8 +2,8 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<id>013l</id>
-		<name>013l - Lost Level Archive - Atari - Lynx (Legacy)</name>
+		<id>013L</id>
+		<name>013L - Lost Level Archive - Atari - Lynx (Legacy)</name>
 		<description>Atari - Lynx (Legacy)</description>
 		<version>v20250907</version>
 		<author>televandalist</author>

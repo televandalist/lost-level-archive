@@ -2,8 +2,8 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<id>025l</id>
-		<name>025l - Lost Level Archive - Atari - 2600 (Legacy)</name>
+		<id>025L</id>
+		<name>025L - Lost Level Archive - Atari - 2600 (Legacy)</name>
 		<description>Atari - 2600 (Legacy)</description>
 		<version>v20260508</version>
 		<author>televandalist</author>

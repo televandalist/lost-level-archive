@@ -2,8 +2,8 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<id>011l</id>
-		<name>011l - Lost Level Archive - Sega - Master System (Legacy)</name>
+		<id>011L</id>
+		<name>011L - Lost Level Archive - Sega - Master System (Legacy)</name>
 		<description>Sega - Master System (Legacy)</description>
 		<version>v20260104</version>
 		<author>televandalist</author>

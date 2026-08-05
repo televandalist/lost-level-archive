@@ -2,8 +2,8 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[http://www.logiqx.com/Dats/datafile.dtd]>
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<header>
-		<id>029l</id>
-		<name>029l - Lost Level Archive - Microsoft - MSX - ROM (Legacy)</name>
+		<id>029L</id>
+		<name>029L - Lost Level Archive - Microsoft - MSX - ROM (Legacy)</name>
 		<description>Microsoft - MSX - ROM (Legacy)</description>
 		<version>v20250907</version>
 		<author>televandalist</author>

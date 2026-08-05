@@ -2,8 +2,8 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<id>045l</id>
-		<name>045l - Lost Level Archive - Mattel - Intellivision (Legacy)</name>
+		<id>045L</id>
+		<name>045L - Lost Level Archive - Mattel - Intellivision (Legacy)</name>
 		<description>Mattel - Intellivision (Legacy)</description>
 		<version>v20260104</version>
 		<author>televandalist</author>
