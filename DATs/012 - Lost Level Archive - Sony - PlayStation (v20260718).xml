@@ -77,8 +77,8 @@
 		<rom name="Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks).bin" size="37206288" crc="89f7fe6d" md5="31c01e62211abcb533b62770f0c78a80" sha1="7d8ed0ae83129e9d904e65c6652bbb1b5bbac3e2"/>
 		<rom name="Celeste Classic (USA) (Unlicensed) (Midnight Mirage Softworks).cue" size="448" crc="e22cedf8" md5="06643c413a59078d72fa6edf47a1db40" sha1="6cb268eeadf7698b8485825f9e43a2363d6310f4"/>
 	</game>
-	<game name="Clay Fighter - Extreme (Apr 4, 1997 prototype)">
-		<description>Clay Fighter - Extreme (Apr 4, 1997 prototype)</description>
+	<game name="ClayFighter Extreme (Apr 4, 1997 prototype)">
+		<description>ClayFighter Extreme (Apr 4, 1997 prototype)</description>
 		<rom name="ClayFighter Extreme (v1997-04-10) (Proto).bin" size="24500784" crc="d33c4307" md5="be5f92381e0089846376c8a52dd7ca91" sha1="a7da2f17d9d95169445de41cdde2fd93dfbc4ef9" />
 		<rom name="ClayFighter Extreme (v1997-04-10) (Proto).cue" size="105" crc="f8372aa8" md5="14af16360de83e112a252f8cebe612a0" sha1="b126499810357764ae7497a4df784dce3b127448" />
 	</game>
