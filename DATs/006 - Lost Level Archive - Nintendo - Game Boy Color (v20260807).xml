@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260804</version>
+		<version>v20260807</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -146,9 +146,13 @@
 		<description>Coco's Quest (World) (v20210628) (Aftermarket) (Spinkick92)</description>
 		<rom name="Coco's Quest (World) (v20210628) (Aftermarket) (Spinkick92).gbc" size="262144" crc="2bf069c2" md5="291fb11e8e9a972b21645e0a15e32d4f" sha1="1e4df6b43a03632fe7f9ff7a900acc27001cb303" status="none" />
 	</game>
-	<game name="Combo Fishing (World) (Aftermarket) (Unl)">
-		<description>Combo Fishing (World) (Aftermarket) (Unl)</description>
-		<rom name="Combo Fishing (World) (Aftermarket) (Unl).gbc" size="524288" crc="5c307010" md5="029cd8ae6b130b91918597239464cc35" sha1="61217782f0947a6c947c8a12eff12a8b9ce6d120" />
+	<game name="Combo Fishing (World) (2024) (Aftermarket) (GB Studio) (WilbosWorld)">
+		<description>Combo Fishing (World) (2024) (Aftermarket) (GB Studio) (WilbosWorld)</description>
+		<rom name="Combo Fishing (World) (2024) (Aftermarket) (GB Studio) (WilbosWorld).gbc" size="524288" crc="5c307010" md5="029cd8ae6b130b91918597239464cc35" sha1="61217782f0947a6c947c8a12eff12a8b9ce6d120" status="none" />
+	</game>
+	<game name="Combo Fishing (World) (2026) (Aftermarket) (GB Studio) (WilbosWorld)">
+		<description>Combo Fishing (World) (2026) (Aftermarket) (GB Studio) (WilbosWorld)</description>
+		<rom name="Combo Fishing (World) (2026) (Aftermarket) (GB Studio) (WilbosWorld).gbc" size="524288" crc="c1575b3c" md5="7fa88d27169175b80fd330e16e9787db" sha1="3745676bdd5faacce19617cba48760eabcab30a3" status="none" />
 	</game>
 	<game name="Connect All the Bots (World) (v20220619) (allalonegamez)">
 		<description>Connect All the Bots (World) (v20220619) (allalonegamez)</description>
@@ -309,10 +313,6 @@
 	<game name="Inventory Full (World) (v1.0.3) (Aftermarket) (Unl)">
 		<description>Inventory Full (World) (v1.0.3) (Aftermarket) (Unl)</description>
 		<rom name="Inventory Full (World) (v1.0.3) (Aftermarket) (Unl).gbc" size="524288" crc="36174683" md5="e9bf8b6977020c869dc5f2d3304961c2" sha1="ff5fc33f6009a8819c6cbde00174c074aab3ecef" />
-	</game>
-	<game name="Iron Core - Stainless (World) (v2.0) (GBCComp23) (Aftermarket) (Elvies)">
-		<description>Iron Core - Stainless (World) (v2.0) (GBCComp23) (Aftermarket) (Elvies)</description>
-		<rom name="Iron Core - Stainless (World) (v2.0) (GBCComp23) (Aftermarket) (Elvies).gbc" size="524288" crc="d6c1c1ac" md5="c49c17b7c695d382ff80ae49899109ba" sha1="d722e95155455cf146a97222ccbc2237bea86509" status="none" />
 	</game>
 	<game name="Jayro's Keys (World) (v1.1) (Aftermarket) (Jayro Jones)">
 		<description>Jayro's Keys (World) (v1.1) (Aftermarket) (Jayro Jones)</description>
@@ -493,10 +493,6 @@
 	<game name="Raven-Star (World) (v1.1) (Aftermarket) (Egogarden)">
 		<description>Raven-Star (World) (v1.1) (Aftermarket) (Egogarden)</description>
 		<rom name="Raven-Star (World) (v1.1) (Aftermarket) (Egogarden).gbc" size="524288" crc="30210417" md5="9706b70c69f86340dae179093e07b2ad" sha1="76b03258120c7a3af1b03982d25ddec4fbb106c4" status="none" />
-	</game>
-	<game name="Raven-Star (World) (v1.2) (Aftermarket) (Egogarden)">
-		<description>Raven-Star (World) (v1.2) (Aftermarket) (Egogarden)</description>
-		<rom name="Raven-Star (World) (v1.2) (Aftermarket) (Egogarden).gbc" size="524288" crc="441e73a8" md5="d33ca04789e5c4c5a0c95b7612a0c622" sha1="2d1e792c3b7d76da9fb4c8acb3bce27a0ccf5d70" status="none" />
 	</game>
 	<game name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)">
 		<description>Remote Control Shuriken (World) (GBCompo2021) (Aftermarket) (Unl)</description>

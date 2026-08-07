@@ -5,7 +5,7 @@
 		<id>005L</id>
 		<name>005L - Lost Level Archive - Nintendo - Game Boy Advance (Legacy)</name>
 		<description>Nintendo - Game Boy Advance (Legacy)</description>
-		<version>v20260508</version>
+		<version>v20260807</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -19,6 +19,11 @@
 		<description>Bloxorz (World) (v1.1) (Aftermarket) (Nostabyte Interactive)</description>
 		<comment>In the No Intro DAT</comment>
 		<rom name="Bloxorz (World) (v1.1) (Aftermarket) (Nostabyte Interactive).gba" size="1595012" crc="6fbbbeec" md5="d5efc4f3cf51f68dc41a2199d610c930" sha1="671e0272701eee6265ec1323746adba9bc290121" status="none" />
+	</game>
+	<game name="Celeste Classic 2 (World) (v1.0) (Aftermarket) (Skaleee)">
+		<description>Celeste Classic 2 (World) (v1.0) (Aftermarket) (Skaleee)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Celeste Classic 2 (World) (v1.0) (Aftermarket) (Skaleee).gba" size="4506328" crc="069607d0" md5="c54284810931820a1b3e9e86b7aac6f1" sha1="19dc1dd4e53722dc64cd1e7f97847b4cabf2f658" status="none" />
 	</game>
 	<game name="Crash Bandicoot - Ringo Bazooka de Oobare! (Japan)">
 		<description>Crash Bandicoot - Ringo Bazooka de Oobare! (Japan)</description>

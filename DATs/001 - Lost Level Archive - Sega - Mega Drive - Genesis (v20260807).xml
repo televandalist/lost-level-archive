@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20260531</version>
+		<version>v20260807</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -21,6 +21,10 @@
 	<game name="Angry Birds (Demo) (Bootleg)">
 		<description>Angry Birds (Demo) (Bootleg).md</description>
 		<rom name="Angry Birds (Demo) (Bootleg).md" size="2621440" crc="9e73551a" md5="ad6ac7316d65857e27e5944b376af9c0" sha1="0fc13f486ae322d48b74350560e8c35745aceb14" />
+	</game>
+	<game name="BattleWomen (World) (v1.0) (Aftermarket) (PSCD Games)">
+		<description>BattleWomen (World) (v1.0) (Aftermarket) (PSCD Games)</description>
+		<rom name="BattleWomen (World) (v1.0) (Aftermarket) (PSCD Games).md" size="3014656" crc="b51b5bcf" md5="6a5d9bb260dff68271a74fb00a39fcb0" sha1="5e5f82916cfe89c66411780051d9c575a6beb320" status="none" />
 	</game>
 	<game name="Checker (USA) (AtGames - Devworks) (Bootleg)">
 		<description>Checker (USA) (AtGames - Devworks) (Bootleg).md</description>

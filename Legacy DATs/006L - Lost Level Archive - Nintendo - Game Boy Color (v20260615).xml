@@ -5,7 +5,7 @@
 		<id>006L</id>
 		<name>006L - Lost Level Archive - Nintendo - Game Boy Color (Legacy)</name>
 		<description>Nintendo - Game Boy Color (Legacy)</description>
-		<version>v20260615</version>
+		<version>v20260807</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -39,6 +39,11 @@
 		<comment>In the No Intro DAT</comment>
 		<rom name="G-ZERO World GP (World) (v1.0) (Aftermarket) (Unl).gbc" size="262144" crc="2f813033" md5="3e151d9bfd7b36a80ef475a98863a001" sha1="0407a3fc4c8c6711cde8fe9d07860dc3ef075f5e" />
 	</game>
+	<game name="Iron Core - Stainless (World) (v2.0) (GBCComp23) (Aftermarket) (Elvies)">
+		<description>Iron Core - Stainless (World) (v2.0) (GBCComp23) (Aftermarket) (Elvies)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Iron Core - Stainless (World) (v2.0) (GBCComp23) (Aftermarket) (Elvies).gbc" size="524288" crc="d6c1c1ac" md5="c49c17b7c695d382ff80ae49899109ba" sha1="d722e95155455cf146a97222ccbc2237bea86509" status="none" />
+	</game>
 	<game name="Karpe Diem (World) (v1.0) (Aftermarket) (Unl)">
 		<description>Karpe Diem (World) (v1.0) (Aftermarket) (Unl)</description>
 		<comment>In the No Intro DAT</comment>
@@ -63,6 +68,11 @@
 		<description>Petris (World) (v20200916) (Aftermarket) (bbbbbr)</description>
 		<comment>In the No Intro DAT</comment>
 		<rom name="Petris (World) (v20200916) (Aftermarket) (bbbbbr).gbc" size="32768" crc="9ee810ee" md5="c1fd374c1dd3b352604e4c89d4d8d039" sha1="c3dd3caba5e9bd90511dd9ac2357962c42640d1a" status="none" />
+	</game>
+	<game name="Raven-Star (World) (v1.2) (Aftermarket) (Egogarden)">
+		<description>Raven-Star (World) (v1.2) (Aftermarket) (Egogarden)</description>
+		<comment>In the No Intro DAT</comment>
+		<rom name="Raven-Star (World) (v1.2) (Aftermarket) (Egogarden).gbc" size="524288" crc="441e73a8" md5="d33ca04789e5c4c5a0c95b7612a0c622" sha1="2d1e792c3b7d76da9fb4c8acb3bce27a0ccf5d70" status="none" />
 	</game>
 	<game name="Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl)">
 		<description>Super Mario Bros. Mini (World) (v2.0.8) (Aftermarket) (Unl)</description>
