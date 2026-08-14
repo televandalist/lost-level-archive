@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260718</version>
+		<version>v20260814</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -475,6 +475,10 @@
 		<description>Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio)</description>
 		<rom name="Prima Materia (World) (En) (v2021-04-08) (Aftermarket) (GB Studio).gb" size="524288" crc="7c2986d0" md5="902922ccd6620ace3d3202b96058a68b" sha1="07f34918dc7ca6783e5e7ac3e87e88a1edbf8e62" />
 	</game>
+	<game name="Project Trap (World) (Final) (Aftermarket) (Elvies)">
+		<description>Project Trap (World) (Final) (Aftermarket) (Elvies)</description>
+		<rom name="Project Trap (World) (Final) (Aftermarket) (Elvies).gb" size="1048576" crc="5add03d0" md5="a236dcb71e198ca6b35671cf2b10c352" sha1="b7bdd380dc496ec59b76edda0d7e0f065e40d57f" status="none" />
+	</game>
 	<game name="Q-Dash Mission (World) (Aftermarket) (Bipedal Studios)">
 		<description>Q-Dash Mission (World) (Aftermarket) (Bipedal Studios)</description>
 		<rom name="Q-Dash Mission (World) (Aftermarket) (Bipedal Studios).gb" size="65536" crc="67d07aba" md5="f8e25fa77d6a69ea08099337e2027acf" sha1="2124d6a892e0f101cbf3e0090eb3aad6d8b0c416" status="none" />
@@ -602,6 +606,10 @@
 	<game name="Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo)">
 		<description>Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo)</description>
 		<rom name="Undertale Game Boy Demake (World) (Aftermarket) (Unl) (Demo).gb" size="262144" crc="FE34E95A" md5="52B40DC9C628A79DA9CD459554E56961" sha1="084F7BBAEE390302C509FEA86D99A25DC8D7FF04"/>
+	</game>
+	<game name="Unfair Flips (World) (v1.0) (Aftermarket) (grandahld)">
+		<description>Unfair Flips (World) (v1.0) (Aftermarket) (grandahld)</description>
+		<rom name="Unfair Flips (World) (v1.0) (Aftermarket) (grandahld).gb" size="131072" crc="3ad4a048" md5="1212019d533b9238f1af8d348b1c1e05" sha1="1b2b682709c75a23daff45a18659b6402553004d" status="none" />
 	</game>
 	<game name="UNPAN (World) (Aftermarket) (GB Studio)">
 		<description>UNPAN (World) (Aftermarket) (GB Studio)</description>

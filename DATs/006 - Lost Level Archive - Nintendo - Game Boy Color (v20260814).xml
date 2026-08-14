@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260807</version>
+		<version>v20260814</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -238,6 +238,10 @@
 		<description>Flappy Turd (World) (Aftermarket) (Unl)</description>
 		<rom name="Flappy Turd (World) (Aftermarket) (Unl).gbc" size="32768" crc="498caab2" md5="5e800f516cc9e33f1fa16dae7a8b4f07" sha1="7f33a176a5dd7dd8b743f1366c2a2cea09326b2c" status="none" />
 	</game>
+	<game name="Flooder (World) (v1.0) (Aftermarket) (obalfour)">
+		<description>Flooder (World) (v1.0) (Aftermarket) (obalfour)</description>
+		<rom name="Flooder (World) (v1.0) (Aftermarket) (obalfour).gbc" size="32768" crc="00090c8d" md5="b58acfd448cb0eb4732da50e3a5a8f5f" sha1="6529cc9e82960fdb90ae30f49a74cfbf32e76c15" status="none" />
+	</game>
 	<game name="Fortune and Glory (World) (GBComp25) (Aftermarket) (VideoGameStoryTime)">
 		<description>Fortune and Glory (World) (GBComp25) (Aftermarket) (VideoGameStoryTime)</description>
 		<rom name="Fortune and Glory (World) (GBComp25) (Aftermarket) (VideoGameStoryTime).gbc" size="2097152" crc="27f2d5b6" md5="bd9a8b47c2bcc0500f3f5e61ba764f03" sha1="9820ff5707cfab91b160be066b81a828570eb115" status="none" />
@@ -390,9 +394,17 @@
 		<description>Little Thief (World) (GB Showdown '22) (Aftermarket) (Marvin Mofeed)</description>
 		<rom name="Little Thief (World) (GB Showdown '22) (Aftermarket) (Marvin Mofeed).gbc" size="262144" crc="e52f609b" md5="6f04377978a810c8a37d5d690a27dbd0" sha1="d7508eef7e4322c0a44a6522e84c44237e71d8e8" status="none" />
 	</game>
+	<game name="Loveless Losers (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)">
+		<description>Loveless Losers (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)</description>
+		<rom name="Loveless Losers (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin).gbc" size="1048576" crc="7db0a6ef" md5="75678f36af1d1678ee0c3e92ed9032e6" sha1="846593b915dc7961805b5f5cdabdba95d57bc047" status="none" />
+	</game>
 	<game name="Luigi's Mansion GBC (World) (GBComp25) (Aftermarket) (Distracted Coder)">
 		<description>Luigi's Mansion GBC (World) (GBComp25) (Aftermarket) (Distracted Coder)</description>
 		<rom name="Luigi's Mansion GBC (World) (GBComp25) (Aftermarket) (Distracted Coder).gbc" size="131072" crc="89ed5d0b" md5="7c3324d9f94f50f7b66c7db5e73b0051" sha1="d2c3cb768e9ca00eb8a8e8623c97389ed20431f6" status="none" />
+	</game>
+	<game name="Mage and the Grimoire of Beast (World) (v1.1) (Aftermarket) (Circle Yousu ga Okashii)">
+		<description>Mage and the Grimoire of Beast (World) (v1.1) (Aftermarket) (Circle Yousu ga Okashii)</description>
+		<rom name="Mage and the Grimoire of Beast (World) (v1.1) (Aftermarket) (Circle Yousu ga Okashii).gbc" size="524288" crc="2d007c78" md5="9933a47f570777a1d15eb4d6e44e70d0" sha1="544acb5a56ff2efffb34eb8b4331d42550a45b8e" status="none" />
 	</game>
 	<game name="Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)">
 		<description>Mandalorian, The - Chapter 3 - The Sin (World) (v2.1) (World) (Aftermarket) (Unl)</description>
@@ -434,6 +446,10 @@
 		<description>Mist, The (World) (v1.3.3) (Aftermarket) (Unl)</description>
 		<rom name="Mist, The (World) (v1.3.3) (Aftermarket) (Unl).gbc" size="524288" crc="f088ffbd" md5="dafb6629c51cdf4bb11f9b6154321aa0" sha1="6d10498e8d7934d7b481118760fdb62469fba07b" />
 	</game>
+	<game name="Mothballs (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)">
+		<description>Mothballs (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)</description>
+		<rom name="Mothballs (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin).gbc" size="262144" crc="6b6c52d2" md5="18629ea559a2e3dc77bda71d7809f968" sha1="b9408c71563000a7b4e42335478c970f5228dd6f" status="none" />
+	</game>
 	<game name="Mouse Trap (World) (v19991225) (Fan Port) (Unl)">
 		<description>Mouse Trap (World) (v19991225) (Fan Port) (Unl)</description>
 		<rom name="Mouse Trap (World) (v19991225) (Fan Port) (Unl).gbc" size="32768" crc="157ab813" md5="8fbd91804b0ce1792ca2138f540401fc" sha1="fe46717d4118b14a74f676443e559bc73b90d3fc" />
@@ -450,6 +466,10 @@
 		<description>Noble Blood (World) (Shacknews Jam Fall 2023) (Aftermarket) (Unl)</description>
 		<rom name="Noble Blood (World) (Shacknews Jam Fall 2023) (Aftermarket) (Unl).gbc" size="262144" crc="703c466b" md5="aaafb103c5c85e50a024b61e14f30497" sha1="49533d91ea8e40dbf716b7e4e879a6f8164d5ae8" />
 	</game>
+	<game name="Not Clickbait! (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)">
+		<description>Not Clickbait! (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)</description>
+		<rom name="Not Clickbait! (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin).gbc" size="524288" crc="1be571da" md5="39a43511e19796b6a57f3e061e5544aa" sha1="f551fc5cb4f2c4a889964145cda1478ac96b5f90" status="none" />
+	</game>
 	<game name="Obscenture (World) (v1.01) (Aftermarket) (Unl)">
 		<description>Obscenture (World) (v1.01) (Aftermarket) (Unl)</description>
 		<rom name="Obscenture (World) (v1.01) (Aftermarket) (Unl).gbc" size="2097152" crc="95b6f7bb" md5="74996e87555cbf6e0e63bc61a43c7ddb" sha1="fc75c0335a98f6444bc5d9bd541c68ba98b19975" />
@@ -461,6 +481,10 @@
 	<game name="Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz)">
 		<description>Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz)</description>
 		<rom name="Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz).gbc" size="1048576" crc="ba77e1fa" md5="0a23d354e139f40fe409fce3fc1f503c" sha1="09b35cfab7ee7f5c7f08887e1ffda255b58c3c6a" status="none" />
+	</game>
+	<game name="Our Forgotten Divine (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)">
+		<description>Our Forgotten Divine (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)</description>
+		<rom name="Our Forgotten Divine (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin).gbc" size="1048576" crc="2d951591" md5="69783472f1ed8b6079f19ec25d734825" sha1="da6b7296894b27636c97dde697178763ec109ed5" status="none" />
 	</game>
 	<game name="Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)">
 		<description>Paramo Yermo (World) (Ca) (Aftermarket) (GB Studio)</description>
@@ -629,6 +653,10 @@
 	<game name="Undertale GBC (World) (v9.1.0) (Aftermarket) (Aki)">
 		<description>Undertale GBC (World) (v9.1.0) (Aftermarket) (Aki)</description>
 		<rom name="Undertale GBC (World) (v9.1.0) (Aftermarket) (Aki).gbc" size="2097152" crc="6ebd8ee6" md5="55d7672e6b2819f87eaf27714ff87294" sha1="8791da2aea9b69c574e272c59d52c227b5a382e9" status="none" />
+	</game>
+	<game name="Wicked Wiles (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)">
+		<description>Wicked Wiles (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin)</description>
+		<rom name="Wicked Wiles (World) (v1.0) (Aftermarket) (GB Studio) (Hatsvin).gbc" size="1048576" crc="d342e28a" md5="a52a59f9480766253a3a23d5e083494a" sha1="f8244382392e3ae85a2723f196df3c885afd5d52" status="none" />
 	</game>
 	<game name="Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)">
 		<description>Willy Wonderworm (World) (v0.95) (Bung Enterprises 1st GB Coding Comp) (Aftermarket) (Unl)</description>

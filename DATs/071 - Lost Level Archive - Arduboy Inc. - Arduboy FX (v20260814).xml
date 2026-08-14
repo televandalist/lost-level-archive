@@ -5,7 +5,7 @@
 		<id>071</id>
 		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy FX</name>
 		<description>Arduboy Inc. - Arduboy FX</description>
-		<version>v20260222</version>
+		<version>v20260814</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -13,6 +13,10 @@
 	<game name="2D Minigolf (World) (v1.0) (Benguini Bennett)">
 		<description>2D Minigolf (World) (v1.0) (Benguini Bennett)</description>
 		<rom name="2D Minigolf (World) (v1.0) (Benguini Bennett).arduboy" size="32969" crc="0e7fdae8" md5="16fe28cfa6da00652d1a716c79c36e30" sha1="dc70c708f05378d6e29c0b05942f827ba743d0d8" status="none" />
+	</game>
+	<game name="ArduLifts (World) (v1.0) (RyCuLe)">
+		<description>ArduLifts (World) (v1.0) (RyCuLe)</description>
+		<rom name="ArduLifts (World) (v1.0) (RyCuLe).arduboy" size="43852" crc="7ee7f467" md5="3f9b7d05dd924f0204192a135a0e3ea2" sha1="0b63cbbf687c19eb259a0beaad9525ad9181efad" status="none" />
 	</game>
 	<game name="ArduRacerFx (World) (v1.0) (tonym128)">
 		<description>ArduRacerFx (World) (v1.0) (tonym128)</description>
