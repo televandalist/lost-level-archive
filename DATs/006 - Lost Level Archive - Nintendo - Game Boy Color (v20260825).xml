@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260814</version>
+		<version>v20260825</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -330,6 +330,10 @@
 		<description>Joey (World) (WLS) (Aftermarket) (GB Studio)</description>
 		<rom name="Joey (World) (WLS) (Aftermarket) (GB Studio).gbc" size="262144" crc="338e611d" md5="59b0b8c6690f1c188bb9b23b60d8e3bc" sha1="e864ae8ae433e8500c89ab868bcc25ba42275a98" />
 	</game>
+	<game name="JSR0 (World) (Aftermarket) (GB Studio) (Aibioweapon)">
+		<description>JSR0 (World) (Aftermarket) (GB Studio) (Aibioweapon)</description>
+		<rom name="JSR0 (World) (Aftermarket) (GB Studio) (Aibioweapon).gbc" size="4194304" crc="09d227dc" md5="9ae5f6d99911e5706cca5fa5d932fad4" sha1="bf1d5de34b86beb0e41fbc17d85dfa1f64a1611f" status="none" />
+	</game>
 	<game name="Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse)">
 		<description>Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse)</description>
 		<rom name="Kiana &amp; Biscuit - Pirates on a Visit! (World) (Demo) (Aftermarket) (Spicyfuse).gbc" size="2097152" crc="49a97a9a" md5="118116d608437b7f189cad791685ac50" sha1="f4b7344a7d8a7aa138aeeba7ed68c8803c9f03b7" status="none" />
@@ -609,6 +613,10 @@
 	<game name="Squid Game - Game Boy Edition (Kevin the Teal GBC Gamer)">
 		<description>Squid Game - Game Boy Edition (Kevin the Teal GBC Gamer)</description>
 		<rom name="Squid Game - Game Boy Edition (Kevin the Teal GBC Gamer).gbc" size="262144" crc="f0942ff3" md5="84ed5d197d18bf386e6cee9d524e33d8" sha1="c39409eef0ccf2e1890e2a0340c482c210397b5b" status="none" />
+	</game>
+	<game name="Submachine GBC (World) (Demo) (Aftermarket) (GB Studio) (Eric Kenneth)">
+		<description>Submachine GBC (World) (Demo) (Aftermarket) (GB Studio) (Eric Kenneth)</description>
+		<rom name="Submachine GBC (World) (Demo) (Aftermarket) (GB Studio) (Eric Kenneth).gbc" size="262144" crc="3cc250d5" md5="ab6b18164411840ebeb952c09c5c900e" sha1="743099174b30357b11b63ccb5aced8dfabb142e7" status="none" />
 	</game>
 	<game name="Super Doggo WOW WAN (World) (Aftermarket) (Unl)">
 		<description>Super Doggo WOW WAN (World) (Aftermarket) (Unl)</description>

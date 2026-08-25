@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - RVZ</name>
 		<description>Nintendo - Wii - RVZ</description>
-		<version>v20260804</version>
+		<version>v20260825</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -42,6 +42,10 @@
 	<game name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)">
 		<description>NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)</description>
 		<rom name="NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team).rvz" size="695755040" crc="69dda926" md5="65fdac5fd08318cd4de2e663748529bd" sha1="7554a6df0663249ee7726bab89d0e3487a491e77" status="none" />
+	</game>
+	<game name="Project Zero 2 - Wii Edition (Europe) (En,Fr,De,Es,It) (Undub) (v1.1a) (swosho)">
+		<description>Project Zero 2 - Wii Edition (Europe) (En,Fr,De,Es,It) (Undub) (v1.1a) (swosho)</description>
+		<rom name="Project Zero 2 - Wii Edition (Europe) (En,Fr,De,Es,It) (Undub) (v1.1a) (swosho).rvz" size="3941845384" crc="4e82cf66" md5="38f8e1a93d074ac0d6789246ed72aab7" sha1="355b44f285c22c5809f46e1ae21653c39ce60f6c" status="none" />
 	</game>
 	<game name="Resident Evil Archives - Resident Evil Zero (USA) (Ru) (v1.0) (Team Raccoon)">
 		<description>Resident Evil Archives - Resident Evil Zero (USA) (Ru) (v1.0) (Team Raccoon)</description>
