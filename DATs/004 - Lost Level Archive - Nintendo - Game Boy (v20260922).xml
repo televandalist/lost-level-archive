@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260814</version>
+		<version>v20260922</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -51,6 +51,18 @@
 		<comment>https://doce-cativeiro.itch.io/among-us-game-boy</comment>
 		<rom name="Among Us (World) (GBComp2021) (Aftermarket) (GB Studio) (Doce Cativeiro).gb" size="262144" crc="eb0874a7" md5="d3bfde5d973230ba15078e4f5ca78ad5" sha1="db6918e4209885030297c4339c8777d9b7bfc52c" />
 	</game>
+	<game name="Ao Oni (World) (v2.0) (Aftermarket) (Aki)">
+		<description>Ao Oni (World) (v2.0) (Aftermarket) (Aki)</description>
+		<rom name="Ao Oni (World) (v2.0) (Aftermarket) (Aki).gb" size="131072" crc="f7d74f7b" md5="75e4c89b8711a0534e1df7aa5e3a13dd" sha1="b321c23c13f6b925edeb4db52400b6b9e3ffe645" status="none" />
+	</game>
+	<game name="Ao Oni (World) (v3.0) (Aftermarket) (Aki)">
+		<description>Ao Oni (World) (v3.0) (Aftermarket) (Aki)</description>
+		<rom name="Ao Oni (World) (v3.0) (Aftermarket) (Aki).gb" size="131072" crc="52ac038d" md5="5ea97bf33cef9f02a2a18e38ae4284bf" sha1="d981b74ee023739ed3da068f3f313a9048ef826d" status="none" />
+	</game>
+	<game name="Ao Oni (World) (v4.0) (Aftermarket) (Aki)">
+		<description>Ao Oni (World) (v4.0) (Aftermarket) (Aki)</description>
+		<rom name="Ao Oni (World) (v4.0) (Aftermarket) (Aki).gb" size="131072" crc="bfd186ea" md5="bffe620cc51fd5ba14ccc54a03f282fc" sha1="0e16f6586a12ef4e5aefd6717ed313af5f9ec60f" status="none" />
+	</game>
 	<game name="Banished (World) (Aftermarket) (GBComp2023) (RetroReflector)">
 		<description>Banished (World) (Aftermarket) (GBComp2023) (RetroReflector)</description>
 		<rom name="Banished (World) (Aftermarket) (GBComp2023) (RetroReflector).gb" size="262144" crc="9bac0192" md5="2e90b711c7a97e193819c1db7add15c0" sha1="eca6431a22916022e39558dc218c19aa9e00f9fd" status="none" />
@@ -82,6 +94,14 @@
 	<game name="Call Of Duty - Black Ops GB (World) (Aftermarket) (GB Studio) (AmbitionProjects)">
 		<description>Call Of Duty - Black Ops GB (World) (Aftermarket) (GB Studio) (AmbitionProjects)</description>
 		<rom name="Call Of Duty - Black Ops GB (World) (Aftermarket) (GB Studio) (AmbitionProjects).gb" size="1048576" crc="ba4f3b7e" md5="d535623652baf9f8eca2fedf34af04aa" sha1="e1d7924216e288ba61081adee1b97e4fa05eb50c" status="none" />
+	</game>
+	<game name="Car Go Vroom!!! (World) (v1.0) (Aftermarket) (Costelinha)">
+		<description>Car Go Vroom!!! (World) (v1.0) (Aftermarket) (Costelinha)</description>
+		<rom name="Car Go Vroom!!! (World) (v1.0) (Aftermarket) (Costelinha).gb" size="32768" crc="10097970" md5="1eb8f234246fafa08ad9279435be12ae" sha1="8e66265fa7750478f7ecab7cf0227803ccfa342d" status="none" />
+	</game>
+	<game name="Car Go Vroom!!! (World) (v1.5) (Aftermarket) (Costelinha)">
+		<description>Car Go Vroom!!! (World) (v1.5) (Aftermarket) (Costelinha)</description>
+		<rom name="Car Go Vroom!!! (World) (v1.5) (Aftermarket) (Costelinha).gb" size="32768" crc="a2bc66aa" md5="207b560485c723710515b7857d4869d9" sha1="b50319f9e07e0f00e0e5c0eb23907872bd0e9b2d" status="none" />
 	</game>
 	<game name="Castlevania - Gospel of Belmont (World) (Aftermarket) (Richterwilker)">
 		<description>Castlevania - Gospel of Belmont (World) (Aftermarket) (Richterwilker)</description>

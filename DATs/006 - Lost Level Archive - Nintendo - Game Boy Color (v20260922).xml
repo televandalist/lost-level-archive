@@ -5,7 +5,7 @@
 		<id>006</id>
 		<name>006 - Lost Level Archive - Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>v20260825</version>
+		<version>v20260922</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -478,6 +478,10 @@
 		<description>Obscenture (World) (v1.01) (Aftermarket) (Unl)</description>
 		<rom name="Obscenture (World) (v1.01) (Aftermarket) (Unl).gbc" size="2097152" crc="95b6f7bb" md5="74996e87555cbf6e0e63bc61a43c7ddb" sha1="fc75c0335a98f6444bc5d9bd541c68ba98b19975" />
 	</game>
+	<game name="OrmBlok (World) (Aftermarket) (BenJelter, Technofantasy)">
+		<description>OrmBlok (World) (Aftermarket) (BenJelter, Technofantasy)</description>
+		<rom name="OrmBlok (World) (Aftermarket) (BenJelter, Technofantasy).gbc" size="524288" crc="32ea3e07" md5="eafc504d33043897805815b54ab80adc" sha1="64556945d98e3b4a144342bdcf485b01e463c62b" status="none" />
+	</game>
 	<game name="Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz)">
 		<description>Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz)</description>
 		<rom name="Oshinui Tune (World) (v1.0.2) (Aftermarket) (GB Studio) (megamittz).gbc" size="1048576" crc="3779bf1e" md5="cd88815473884f930302098576754ce1" sha1="98e2532efd381264751d7ac3c26718c6200e4cd0" status="none" />
@@ -677,5 +681,9 @@
 	<game name="Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)">
 		<description>Yoshi Joins Bowser (World) (Aftermarket) (GB Studio)</description>
 		<rom name="Yoshi Joins Bowser (World) (Aftermarket) (GB Studio).gbc" size="4194304" crc="50d28cbd" md5="e383d1b54c470c6ab2a09d43398929a1" sha1="8d2f22d8ad9a48311d27ac5096f7118c0e9e5282" />
+	</game>
+	<game name="Yume Tenshi (World) (v.7.4.3) (Aftermarket) (g0refreak)">
+		<description>Yume Tenshi (World) (v.7.4.3) (Aftermarket) (g0refreak)</description>
+		<rom name="Yume Tenshi (World) (v.7.4.3) (Aftermarket) (g0refreak).gbc" size="4194304" crc="521109d4" md5="ec2544c37e506602eeacceaa2f7c843c" sha1="18e24d86c99b04224cdc0fa3c2ff8225eb72cbe4" status="none" />
 	</game>
 </datafile>

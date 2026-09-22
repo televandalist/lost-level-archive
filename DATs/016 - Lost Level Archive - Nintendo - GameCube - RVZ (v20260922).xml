@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube - RVZ</name>
 		<description>Nintendo - GameCube - RVZ</description>
-		<version>v20260718</version>
+		<version>v20260922</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -123,6 +123,10 @@
 		<description>SpongeBob SquarePants - The Movie - The Twilight Fair (v1.0) (Heavy Iron Modding)</description>
 		<rom name="SpongeBob SquarePants - The Movie - The Twilight Fair (v1.0) (Heavy Iron Modding).rvz" size="825346232" crc="426b20b9" md5="c4583942c62aee1eb6a6c37bed386e17" sha1="f7dc1bda189476eae42d6601e123909fd14d8111" status="none" />
 	</game>
+	<game name="SpongeBob SquarePants - The Movie - The Twilight Fair (v1.1) (Heavy Iron Modding)">
+		<description>SpongeBob SquarePants - The Movie - The Twilight Fair (v1.1) (Heavy Iron Modding)</description>
+		<rom name="SpongeBob SquarePants - The Movie - The Twilight Fair (v1.1) (Heavy Iron Modding).rvz" size="604478800" crc="ee3d5c78" md5="1c5fb7f21fac3c880b6d298a8542e9c1" sha1="a435297fdf3784f60803edd2a1ebd965d7bc1a61" status="none" />
+	</game>
 	<game name="Super Mario Sunshine - 2001 (v1.0 Demo) (Portable Productions)">
 		<description>Super Mario Sunshine - 2001 (v1.0 Demo) (Portable Productions)</description>
 		<rom name="Super Mario Sunshine - 2001 (v1.0 Demo) (Portable Productions).rvz" size="785187048" crc="766cadbc" md5="7ced170eecbe1040bd5762a39396abcf" sha1="db1733c57042ce69137c6e83193b02197c477a0f" status="none" />
@@ -154,6 +158,18 @@
 	<game name="Super Mario Sunshine - Super Mario Sunburn (v1.9) (Eclipse Team)">
 		<description>Super Mario Sunshine - Super Mario Sunburn (v1.9) (Eclipse Team)</description>
 		<rom name="Super Mario Sunshine - Super Mario Sunburn (v1.9) (Eclipse Team).rvz" size="1188490288" crc="842fa913" md5="1b1e474018448b2a605b7fc93ce2a84e" sha1="3e48955ebc0aa8bb253eada842699ff64358e2b0" status="none" />
+	</game>
+	<game name="Super Monkey Ball - Community Sampler (v1.2) (Mike280)">
+		<description>Super Monkey Ball - Community Sampler (v1.2) (Mike280)</description>
+		<rom name="Super Monkey Ball - Community Sampler (v1.2) (Mike280).rvz" size="989036708" crc="80487a98" md5="3006697aa8a8668db6c6f2c1d41bceda" sha1="e6339f6bb94b95e8126587fc7bfbd2f50f690572" status="none" />
+	</game>
+	<game name="Super Monkey Ball - Level Jams Season 6 (v1.1) (Various)">
+		<description>Super Monkey Ball - Level Jams Season 6 (v1.1) (Various)</description>
+		<rom name="Super Monkey Ball - Level Jams Season 6 (v1.1) (Various).rvz" size="913560800" crc="e4cee358" md5="a280aa68972d09fb20a28a542837f0b8" sha1="7c26fb6c94176888039d9c8542cd8b17b1defeb5" status="none" />
+	</game>
+	<game name="Super Monkey Ball - Playground (v1.1) (EpicMark98)">
+		<description>Super Monkey Ball - Playground (v1.1) (EpicMark98)</description>
+		<rom name="Super Monkey Ball - Playground (v1.1) (EpicMark98).rvz" size="684434116" crc="c484e313" md5="39aa2e1d23890266a3e0567cbcc8e6be" sha1="ab142990ea718b1a90f7f3f5255860d94d09aa4d" status="none" />
 	</game>
 	<game name="Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham)">
 		<description>Super Monkey Ball 2 - 3x3 (v1.1) (Ghost_Ham)</description>

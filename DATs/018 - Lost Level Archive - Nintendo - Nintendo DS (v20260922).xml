@@ -5,7 +5,7 @@
 		<id>018</id>
 		<name>018 - Lost Level Archive - Nintendo - Nintendo DS</name>
 		<description>Nintendo - Nintendo DS</description>
-		<version>v20260515</version>
+		<version>v20260922</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -29,6 +29,14 @@
 	<game name="Alice &amp; Marisa (World) (Aftermarket) (Unl)">
 		<description>Alice &amp; Marisa (World) (Aftermarket) (Unl)</description>
 		<rom name="Alice &amp; Marisa (World) (Aftermarket) (Unl).nds" size="540736" crc="2a70e4e1" md5="0ef7534ae96cc628462c1808f213d91b" sha1="79643cfc58717a8076f07d8eed745a42cc6d7916" />
+	</game>
+	<game name="American Psycho (World) (Aftermarket) (UncivWorldGuy)">
+		<description>American Psycho (World) (Aftermarket) (UncivWorldGuy)</description>
+		<rom name="American Psycho (World) (Aftermarket) (UncivWorldGuy).nds" size="9717600" crc="9557e39f" md5="7d7ff03676076f2205f44a7fd4e3eb03" sha1="98a1626091ddeee3601d499078f549bfa8bdddad" status="none" />
+	</game>
+	<game name="American Psycho (World) (NitroFS) (Aftermarket) (UncivWorldGuy)">
+		<description>American Psycho (World) (NitroFS) (Aftermarket) (UncivWorldGuy)</description>
+		<rom name="American Psycho (World) (NitroFS) (Aftermarket) (UncivWorldGuy).nds" size="9793376" crc="f00cd1ff" md5="778c15626d1f87eaee4e6735cb8c80f4" sha1="26160e0e76ce43f47f3a05a91f62f0b7c59e5e53" status="none" />
 	</game>
 	<game name="Anime Jo All-Star Kirifuda Taisen (World) (v2009) (Aftermarket) (Unl) (Multiple-Option)">
 		<description>Anime Jo All-Star Kirifuda Taisen (World) (v2009) (Aftermarket) (Unl) (Multiple-Option)</description>

@@ -5,7 +5,7 @@
 		<id>040</id>
 		<name>040 - Lost Level Archive - Sega - Dreamcast - BIN-CUE</name>
 		<description>Sega - Dreamcast - BIN-CUE</description>
-		<version>v20251212</version>
+		<version>v20260922</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -16,6 +16,15 @@
 		<rom name="Dino Crisis (USA) (Ru) (ViT Co.,Akella,Dreamrus) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9" status="none" />
 		<rom name="Dino Crisis (USA) (Ru) (ViT Co.,Akella,Dreamrus) (Track 3).bin" size="1185760800" crc="d54cddbc" md5="f29b937cbf5f4fe9351d478a7ad9b395" sha1="25672852227754594613e9a53382cde64031422b" status="none" />
 		<rom name="Dino Crisis (USA) (Ru) (ViT Co.,Akella,Dreamrus).cue" size="438" crc="dd27f414" md5="831c3b79fd17910b13c9f0afc8856d4f" sha1="273a96ae9aae0246cc1558336d83661fe0742c4d" status="none" />
+	</game>
+	<game name="Quake (USA) (2000-10-13) (Prototype) (Titanium Studios)">
+		<description>Quake (USA) (2000-10-13) (Prototype) (Titanium Studios)</description>
+		<rom name="Quake (USA) (2000-10-13) (Prototype) (Titanium Studios) (Track 1).bin" size="1418256" crc="21b38153" md5="6d65bd7a3e8c86282db7ce47c99ece75" sha1="8af617219653defea4b11ae2241b731267c4b4b8" status="none" />
+		<rom name="Quake (USA) (2000-10-13) (Prototype) (Titanium Studios) (Track 2).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9" status="none" />
+		<rom name="Quake (USA) (2000-10-13) (Prototype) (Titanium Studios) (Track 3).bin" size="1133003088" crc="77615c7e" md5="e6f8243d5a66394d6f08bf59142f67fd" sha1="d7eed28de895c6322e69dbdb708ae592d5d4be52" status="none" />
+		<rom name="Quake (USA) (2000-10-13) (Prototype) (Titanium Studios) (Track 4).bin" size="1237152" crc="95557332" md5="cb9f913312fff0782cd8c87568bcc047" sha1="cf9a3476b4886212c18868190f98d301f5205a09" status="none" />
+		<rom name="Quake (USA) (2000-10-13) (Prototype) (Titanium Studios) (Track 5).bin" size="51520560" crc="82a3b284" md5="2be8221fba27a944f6e18925e0e39e0c" sha1="0c2c2d67f7aaba37056febe1f09bb263476754ed" status="none" />
+		<rom name="Quake (USA) (2000-10-13) (Prototype) (Titanium Studios).cue" size="762" crc="10010b4a" md5="6ea1867c754e42117aa9a93e9412a03b" sha1="ea9aadf4f9dccce0a20961a4ca985c14bf2b9873" status="none" />
 	</game>
 	<game name="Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE)">
 		<description>Space Channel 5 Part 2 (Japan) (En) (v1.0) (BrAzE)</description>

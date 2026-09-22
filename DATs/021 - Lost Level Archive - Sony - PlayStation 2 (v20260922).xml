@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20260804</version>
+		<version>v20260922</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -21,6 +21,10 @@
 	<game name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica)">
 		<description>Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica)</description>
 		<rom name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization) (v1.0) (Project Metafalica).iso" size="4421877760" crc="027a757f" md5="d3a3f8cc08d3e6277aa72fc16f994e4d" sha1="418d1c70a77c3ffaa4f453b3cfb4422a2dd5eff2" />
+	</game>
+	<game name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2.0) (v2.0RC1) (Project Metafalica)">
+		<description>Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2.0) (v2.0RC1) (Project Metafalica)</description>
+		<rom name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2.0) (v2.0RC1) (Project Metafalica).iso" size="4308598784" crc="72a4416a" md5="3263a39631e3fc6672ac70a549e55261" sha1="73e66e49020f1ee6d8b91a17b9ffa3cb139066f2" status="none" />
 	</game>
 	<game name="Beats of Rage (USA) (Aftermarket) (Neill Corlett)">
 		<description>Beats of Rage (USA) (Aftermarket) (Neill Corlett)</description>

@@ -5,7 +5,7 @@
 		<id>001</id>
 		<name>001 - Lost Level Archive - Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>v20260807</version>
+		<version>v20260922</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -65,6 +65,10 @@
 	<game name="Metal Gear (World) (v1.2) (Aftermarket) (Unl)">
 		<description>Metal Gear (World) (v1.2) (Aftermarket) (Unl)</description>
 		<rom name="Metal Gear (World) (v1.2) (Aftermarket) (Unl).md" size="2097152" crc="68ec8c19" md5="dcdff0b1ab5f502a6550bdca7c018636" sha1="e2df7acc864bcf27bdb983559dd658120a11b624" status="none" />
+	</game>
+	<game name="Neighbours from Hell (World) (v0.1) (Aftermarket) (sweepe_youtube)">
+		<description>Neighbours from Hell (World) (v0.1) (Aftermarket) (sweepe_youtube)</description>
+		<rom name="Neighbours from Hell (World) (v0.1) (Aftermarket) (sweepe_youtube).md" size="393216" crc="bb4d142a" md5="221546deba19dc1f6a427ad1a2954e22" sha1="424499c7cb2fdd93a5877deed33b3e52b7df8710" status="none" />
 	</game>
 	<game name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)">
 		<description>Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket) (Unl)</description>

@@ -5,7 +5,7 @@
 		<id>071</id>
 		<name>071 - Lost Level Archive - Arduboy Inc. - Arduboy</name>
 		<description>Arduboy Inc. - Arduboy</description>
-		<version>v20260403</version>
+		<version>v20260922</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -45,6 +45,10 @@
 	<game name="Gunpy (World) (v0.91) (chokmah.jp)">
 		<description>Gunpy (World) (v0.91) (chokmah.jp)</description>
 		<rom name="Gunpy (World) (v0.91) (chokmah.jp).hex" size="59221" crc="bc82efa0" md5="21a3557d66f459c0f25c26001d681056" sha1="7387d5940d8f60e361316e6322a7c1bbd44d65fa" />
+	</game>
+	<game name="Lighthouse Rescue (World) (v1.1) (Frank Van De Ven)">
+		<description>Lighthouse Rescue (World) (v1.1) (Frank Van De Ven)</description>
+		<rom name="Lighthouse Rescue (World) (v1.1) (Frank Van De Ven).hex" size="78502" crc="8bee910a" md5="4f3c1577e8c2fb4fc5f689bfbd5ca305" sha1="2758f86823a4893093d76c2d8a68cbb28a5aa3fc" status="none" />
 	</game>
 	<game name="Montana Solitaire (World) (FrankVanDeVen)">
 		<description>Montana Solitaire (World) (FrankVanDeVen)</description>
