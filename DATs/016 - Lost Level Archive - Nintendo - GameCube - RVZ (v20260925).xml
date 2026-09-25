@@ -5,7 +5,7 @@
 		<id>016</id>
 		<name>016 - Lost Level Archive - Nintendo - GameCube - RVZ</name>
 		<description>Nintendo - GameCube - RVZ</description>
-		<version>v20260922</version>
+		<version>v20260925</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -106,6 +106,10 @@
 	<game name="Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team)">
 		<description>Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team)</description>
 		<rom name="Sonic Riders - Tournament Edition (v2.4) (SRTE Dev Team).rvz" size="1867620648" crc="25a20fb0" md5="8e1f95f50d9d64eedf72cff89cf698f7" sha1="165950252ae5b4c3b48198a364df8dd77e0dc77e" status="none" />
+	</game>
+	<game name="Spongebob Squarepants - Battle for Bikini Bottom - Battle for Bikini Bottom DELUXE (v1.0.5) (Gravity)">
+		<description>Spongebob Squarepants - Battle for Bikini Bottom - Battle for Bikini Bottom DELUXE (v1.0.5) (Gravity)</description>
+		<rom name="Spongebob Squarepants - Battle for Bikini Bottom - Battle for Bikini Bottom DELUXE (v1.0.5) (Gravity).rvz" size="908296552" crc="a6ad640a" md5="5ad11b3a612ca4667d33a54fc14640c5" sha1="8c449547cd6937a9f99b51ea85033d3a9fde0932" status="none" />
 	</game>
 	<game name="SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v1.3) (TLL)">
 		<description>SpongeBob SquarePants - Battle for Bikini Bottom - Beta Mod (v1.3) (TLL)</description>

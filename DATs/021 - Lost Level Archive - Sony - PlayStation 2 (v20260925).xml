@@ -5,7 +5,7 @@
 		<id>021</id>
 		<name>021 - Lost Level Archive - Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>v20260922</version>
+		<version>v20260925</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -25,6 +25,10 @@
 	<game name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2.0) (v2.0RC1) (Project Metafalica)">
 		<description>Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2.0) (v2.0RC1) (Project Metafalica)</description>
 		<rom name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2.0) (v2.0RC1) (Project Metafalica).iso" size="4308598784" crc="72a4416a" md5="3263a39631e3fc6672ac70a549e55261" sha1="73e66e49020f1ee6d8b91a17b9ffa3cb139066f2" status="none" />
+	</game>
+	<game name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2) (v2.0) (Project Metafalica)">
+		<description>Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2) (v2.0) (Project Metafalica)</description>
+		<rom name="Ar tonelico II - Melody of Metafalica (USA) (En) (Relocalization 2) (v2.0) (Project Metafalica).iso" size="4308598784" crc="eca11c71" md5="38411e3fd782668cb99db0eef99b6e03" sha1="d8c61236b3aa00ebe31ce3979188ec3f8bd55ab5" status="none" />
 	</game>
 	<game name="Beats of Rage (USA) (Aftermarket) (Neill Corlett)">
 		<description>Beats of Rage (USA) (Aftermarket) (Neill Corlett)</description>
@@ -224,6 +228,10 @@
 		<description>Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez)</description>
 		<rom name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez).iso" size="3248128000" crc="ce3ba0db" md5="dd354755f0e0de26ffdda69b53ceb68f" sha1="d50735da91be822b358e82b878c305b06b01a9af" status="none" />
 	</game>
+	<game name="Resident Evil 4 - The Xfile Edition (v1.0) (Closep Up)">
+		<description>Resident Evil 4 - The Xfile Edition (v1.0) (Closep Up)</description>
+		<rom name="Resident Evil 4 - The Xfile Edition (v1.0) (Closep Up).iso" size="2921136128" crc="34216438" md5="436c52a2ac5c585eafd918c5581abec5" sha1="0542bbf3d48d41001681a3b2999f9b23d9bc825f" status="none" />
+	</game>
 	<game name="Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games)">
 		<description>Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games)</description>
 		<rom name="Resident Evil 4 - Winter of Middle Night (v1.0) (The Syndrome Games).iso" size="4559339520" crc="d1d20fea" md5="c1f783756a76f8f0b542c86f887afda5" sha1="dbd928d9176a5e9375a2849ee9af36705d47f039" status="none" />
@@ -284,6 +292,10 @@
 	<game name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)">
 		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)</description>
 		<rom name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei).iso" size="4535844864" crc="a6de40da" md5="9b89f172c98f09394313fc9d177fe2cb" sha1="4636efa4e277845e5cfbc63c34c0346091b144ac" status="none" />
+	</game>
+	<game name="Spyro - Enter the Dragonfly - Definitive Edition (v1.2.1) (Mr. FO1)">
+		<description>Spyro - Enter the Dragonfly - Definitive Edition (v1.2.1) (Mr. FO1)</description>
+		<rom name="Spyro - Enter the Dragonfly - Definitive Edition (v1.2.1) (Mr. FO1).iso" size="1423341568" crc="1ab1e92f" md5="c47f9e8c8cd6b7f91c4093266333555f" sha1="f8f5abc63d29d42b55e1316d65e2bb434a4b07b6" status="none" />
 	</game>
 	<game name="Suikoden V (USA) (Undub) (Unknown)">
 		<description>Suikoden V (USA) (Undub) (Unknown)</description>

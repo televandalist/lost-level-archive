@@ -5,7 +5,7 @@
 		<id>019</id>
 		<name>019 - Lost Level Archive - Nintendo - Wii - RVZ</name>
 		<description>Nintendo - Wii - RVZ</description>
-		<version>v20260825</version>
+		<version>v20260925</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -34,6 +34,10 @@
 	<game name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)">
 		<description>Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie)</description>
 		<rom name="Just Dance 2020 - Just Dance 2026 (Uncensored) (v1.2.1) (FreddyLuco, Sofie).rvz" size="3469038100" crc="71724822" md5="e86015072cbb9e221c4b278b5a037430" sha1="5361da34a7623dafd81e4e21bf45a3295eb7aad8" status="none" />
+	</game>
+	<game name="Kirby's Return to Dream Land - Revenge of Dream Land (v1.0) (Lumi)">
+		<description>Kirby's Return to Dream Land - Revenge of Dream Land (v1.0) (Lumi)</description>
+		<rom name="Kirby's Return to Dream Land - Revenge of Dream Land (v1.0) (Lumi).rvz" size="1151714612" crc="373e9c54" md5="f29341891e08a56ce6f6160dd278d128" sha1="09d22f495179266af78200ba8af1877f1ed764f6" status="none" />
 	</game>
 	<game name="NSMB - Newer - Falling Leaf (v1.12) (Newer Team, Skawo, Treeki)">
 		<description>NSMB - Newer - Falling Leaf (v1.12) (Newer Team, Skawo, Treeki)</description>

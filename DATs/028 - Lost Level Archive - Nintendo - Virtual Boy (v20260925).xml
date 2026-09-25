@@ -5,7 +5,7 @@
 		<id>028</id>
 		<name>028 - Lost Level Archive - Nintendo - Virtual Boy</name>
 		<description>Nintendo - Virtual Boy</description>
-		<version>v20260718</version>
+		<version>v20260925</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -25,6 +25,10 @@
 	<game name="Chris's Casino (USA) (Aftermarket) (Unl)">
 		<description>Chris's Casino (USA) (Aftermarket) (Unl)</description>
 		<rom name="Chris's Casino (USA) (Aftermarket) (Unl).vb" size="524288" crc="a7d19970" md5="82328b43c370a09d6fe36d6c9eb6d35c" sha1="559d7f06696b66b7cb3711d9ac76c00f0c2827dd" />
+	</game>
+	<game name="Chris's Casino (USA) (v040125) (Aftermarket) (Chris Read)">
+		<description>Chris's Casino (USA) (v040125) (Aftermarket) (Chris Read)</description>
+		<rom name="Chris's Casino (USA) (v040125) (Aftermarket) (Chris Read).vb" size="524288" crc="2f8f1d00" md5="e4792303fcba7998285b666327a30039" sha1="2db6f5d56f62e93747630953090cc378b5bd4ec8" status="none" />
 	</game>
 	<game name="Flappy Cheep Cheep (USA) (Aftermarket) (Unl) (DogP)">
 		<description>Flappy Cheep Cheep (USA) (Aftermarket) (Unl) (DogP)</description>
