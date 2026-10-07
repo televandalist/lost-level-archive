@@ -5,7 +5,7 @@
 		<id>072</id>
 		<name>072 - Lost Level Archive - WASM-4</name>
 		<description>WASM-4</description>
-		<version>v20260428</version>
+		<version>v20260928</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -285,6 +285,10 @@
 	<game name="One Slime Army (World) (v1.3.0) (Isaiah Billingsley)">
 		<description>One Slime Army (World) (v1.3.0) (Isaiah Billingsley)</description>
 		<rom name="One Slime Army (World) (v1.3.0) (Isaiah Billingsley).wasm" size="13339" crc="64966721" md5="2F9F60ACF28A0C538D90CDCDDF0EC581" Sha1="6155E77A65C379E7A83F2D2AEB926E3BF2991D72"/>
+	</game>
+	<game name="panelpon4 (World) (v1.0) (CanyonTurtle)">
+		<description>panelpon4 (World) (v1.0) (CanyonTurtle)</description>
+		<rom name="panelpon4 (World) (v1.0) (CanyonTurtle).wasm" size="62611" crc="d7db6877" md5="37df129d701d0cc9e3a47cfaef6ecba9" sha1="b60cf7639ea32debd1fc271dbe20b8c58e3700ff" status="none" />
 	</game>
 	<game name="Phantom Shift (World) (Sergey Poznyak)">
 		<description>Phantom Shift (World) (Sergey Poznyak)</description>

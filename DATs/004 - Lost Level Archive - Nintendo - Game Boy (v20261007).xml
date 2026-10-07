@@ -5,7 +5,7 @@
 		<id>004</id>
 		<name>004 - Lost Level Archive - Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>v20260922</version>
+		<version>v20261007</version>
 		<author>tele</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -630,6 +630,10 @@
 	<game name="Unfair Flips (World) (v1.0) (Aftermarket) (grandahld)">
 		<description>Unfair Flips (World) (v1.0) (Aftermarket) (grandahld)</description>
 		<rom name="Unfair Flips (World) (v1.0) (Aftermarket) (grandahld).gb" size="131072" crc="3ad4a048" md5="1212019d533b9238f1af8d348b1c1e05" sha1="1b2b682709c75a23daff45a18659b6402553004d" status="none" />
+	</game>
+	<game name="Unown Message (World) (v1.2) (Aftermarket) (GBStudio) (Wrong Way Games)">
+		<description>Unown Message (World) (v1.2) (Aftermarket) (GBStudio) (Wrong Way Games)</description>
+		<rom name="Unown Message (World) (v1.2) (Aftermarket) (GBStudio) (Wrong Way Games).gb" size="524288" crc="d4b15c14" md5="e51575af9a823e28b0b9078d00eef377" sha1="071923840b8c09d414134ab92d2b924829a2f690" status="none" />
 	</game>
 	<game name="UNPAN (World) (Aftermarket) (GB Studio)">
 		<description>UNPAN (World) (Aftermarket) (GB Studio)</description>

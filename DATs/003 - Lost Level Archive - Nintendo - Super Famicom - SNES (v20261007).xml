@@ -5,7 +5,7 @@
 		<id>003</id>
 		<name>003 - Lost Level Archive - Nintendo - Super Famicom - SNES</name>
 		<description>Nintendo - Super Famicom - SNES</description>
-		<version>v20250719</version>
+		<version>v20261007</version>
 		<author>televandalist</author>
 		<homepage>Lost Level Archive</homepage>
 		<url>https://www.github.com/televandalist/lost-level-archive</url>
@@ -22,6 +22,10 @@
 		<description>Blackthorne (USA) (LZ Patch) (Blizzard Arcade Collection)</description>
 		<rom name="Blackthorne (USA) (LZ Patch) (Blizzard Arcade Collection).sfc" size="1048576" crc="c5dbd672" md5="265c44bdfa06193aedd029bbff24cfa4" sha1="52706ae99151c4cb2b2b55281d61b70b20d67f84" />
 	</game>
+	<game name="Blokit (World) (v1.0.1) (Aftermarket) (Crisps)">
+		<description>Blokit (World) (v1.0.1) (Aftermarket) (Crisps)</description>
+		<rom name="Blokit (World) (v1.0.1) (Aftermarket) (Crisps).sfc" size="262143" crc="c45ec1c5" md5="6c483ea79f499b5fef5d80658d8be9cd" sha1="d2726b894c39de8fd25506a16c10bc0da02175e6" status="none" />
+	</game>
 	<game name="Columns (Japan) (Aftermarket) (Unl)">
 		<description>Columns (Japan) (Aftermarket) (Unl)</description>
 		<rom name="Columns (Japan) (Aftermarket) (Unl).sfc" size="524288" crc="79bab93c" md5="9d67e9f5382cbcbcad063af5f422efca" sha1="4d28d27c06c8c46cfdbd1ff409fb820904e06f81" />
@@ -37,10 +41,6 @@
 	<game name="Lost Vikings, The - Definitive Edition (USA) (Blizzard Arcade Collection)">
 		<description>Lost Vikings, The - Definitive Edition (USA) (Blizzard Arcade Collection)</description>
 		<rom name="Lost Vikings, The - Definitive Edition (USA) (Blizzard Arcade Collection).sfc" size="2097152" crc="894f8466" md5="d248a96717b9dd40cc64c381367dbd4f" sha1="9d187b911028c51b4236f0c2780602084fa30793" />
-	</game>
-	<game name="Mai Nurse (World) (v1.02) (Aftermarket) (lunoka)">
-		<description>Mai Nurse (World) (v1.02) (Aftermarket) (lunoka)</description>
-		<rom name="Mai Nurse (World) (v1.02) (Aftermarket) (lunoka).sfc" size="262144" crc="7cd0eecd" md5="eda757c1006be557247259d356d73e28" sha1="0e49094fc9e36146436ec4afd186a7b7937575c1" status="none" />
 	</game>
 	<game name="Radical Psycho Machine Racing (USA) (Blizzard Arcade Collection)">
 		<description>Radical Psycho Machine Racing (USA) (Blizzard Arcade Collection)</description>
